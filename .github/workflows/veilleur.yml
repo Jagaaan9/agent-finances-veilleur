@@ -1,0 +1,32 @@
+name: Veilleur agent finances
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: veilleur
+  cancel-in-progress: false
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Surveiller les marchés
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          ROUTINE_FIRE_URL: ${{ secrets.ROUTINE_FIRE_URL }}
+          ROUTINE_TOKEN: ${{ secrets.ROUTINE_TOKEN }}
+        run: python3 veilleur.py
+      - name: Garder la mémoire des alertes
+        run: |
+          git config user.name "veilleur"
+          git config user.email "veilleur@users.noreply.github.com"
+          git add state.json signaux.json
+          git diff --cached --quiet || (git commit -m "Mémoire du veilleur" && git push)

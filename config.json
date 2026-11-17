@@ -1,0 +1,173 @@
+{
+ "page_url": "https://claude.ai/artifact/44puqcw7Ndtxcr8wXdxQDA",
+ "reveils_max_par_jour": 6,
+ "rendez_vous_heures": [
+  7,
+  15,
+  23
+ ],
+ "positions": [
+  {
+   "nom": "Anthropic",
+   "symbole": "ANT",
+   "reveil_pct": 5
+  }
+ ],
+ "indices": [
+  {
+   "nom": "MSCI World (ETF iShares, Amsterdam)",
+   "symbole": "IWDA.AS",
+   "reveil_pct": 2
+  },
+  {
+   "nom": "S&P 500",
+   "symbole": "^GSPC",
+   "reveil_pct": 2
+  },
+  {
+   "nom": "Nasdaq",
+   "symbole": "^IXIC",
+   "reveil_pct": 2.5
+  },
+  {
+   "nom": "CAC 40",
+   "symbole": "^FCHI",
+   "reveil_pct": 2
+  },
+  {
+   "nom": "Euro Stoxx 50",
+   "symbole": "^STOXX50E",
+   "reveil_pct": 2
+  },
+  {
+   "nom": "Nikkei 225 (Japon)",
+   "symbole": "^N225",
+   "reveil_pct": 3
+  },
+  {
+   "nom": "Hang Seng (Hong Kong, Chine)",
+   "symbole": "^HSI",
+   "reveil_pct": 3
+  },
+  {
+   "nom": "Shanghai Composite (Chine)",
+   "symbole": "000001.SS",
+   "reveil_pct": 3
+  },
+  {
+   "nom": "Indice VIX (peur des marchés)",
+   "symbole": "^VIX",
+   "reveil_pct": 25
+  },
+  {
+   "nom": "Or",
+   "symbole": "GC=F",
+   "reveil_pct": 3
+  },
+  {
+   "nom": "Pétrole Brent",
+   "symbole": "BZ=F",
+   "reveil_pct": 5
+  },
+  {
+   "nom": "Euro / dollar",
+   "symbole": "EURUSD=X",
+   "reveil_pct": 1.5
+  },
+  {
+   "nom": "Bitcoin en euros",
+   "symbole": "BTC-EUR",
+   "reveil_pct": 8
+  },
+  {
+   "nom": "Taux US 10 ans",
+   "symbole": "^TNX",
+   "reveil_pct": 5
+  }
+ ],
+ "ecrans_marche": [
+  "day_gainers",
+  "day_losers",
+  "most_actives",
+  "small_cap_gainers",
+  "aggressive_small_caps",
+  "undervalued_growth_stocks",
+  "growth_technology_stocks",
+  "undervalued_large_caps"
+ ],
+ "actualites": [
+  {
+   "sujet": "Anthropic",
+   "requete": "Anthropic action OR \"Anthropic stock\" OR \"Anthropic IPO\"",
+   "langue": "en",
+   "position": true
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "requete": "Anthropic bourse",
+   "langue": "fr",
+   "position": true
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "requete": "stock market OR Wall Street OR markets selloff OR rally",
+   "langue": "en"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "requete": "Bourse Paris CAC 40 OR Euronext OR marchés européens",
+   "langue": "fr"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "requete": "Fed OR BCE taux OR inflation",
+   "langue": "fr"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "requete": "China stocks OR Hong Kong stocks OR Chinese tech shares",
+   "langue": "en"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "requete": "AI stocks OR Nvidia OR semiconductors OR AI chip",
+   "langue": "en"
+  },
+  {
+   "sujet": "Introductions en bourse",
+   "requete": "IPO pricing OR IPO debut OR introduction en bourse",
+   "langue": "en"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "requete": "acquisition deal OR takeover bid OR merger agreement",
+   "langue": "en"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "requete": "earnings beat OR raises guidance OR profit warning",
+   "langue": "en"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "requete": "small cap stock surges OR undervalued growth stock",
+   "langue": "en"
+  },
+  {
+   "sujet": "Pays émergents",
+   "requete": "emerging markets stocks India OR Brazil OR Indonesia OR Africa",
+   "langue": "en"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "requete": "defense stocks OR uranium OR copper OR energy stocks",
+   "langue": "en"
+  },
+  {
+   "sujet": "Crypto",
+   "requete": "bitcoin OR crypto market",
+   "langue": "en"
+  }
+ ],
+ "mots_urgents": "effondr|plonge|chute|krach|crash|plunge|tumble|soar|bondit|s'envole|halt|suspen|enquête|probe|SEC |lawsuit|procès|faillite|bankrupt|rachat|acqui|takeover|résultats|earnings|guidance|lock-up|downgrade|upgrade"
+}
