@@ -45,7 +45,53 @@ def get(url, timeout=20):
         return r.read()
 
 
+TV_COLS = ["name", "description", "close", "change", "Perf.1M", "currency", "volume", "relative_volume_10d_calc",
+           "market_cap_basic", "price_earnings_ttm", "exchange", "sector"]
+
+
+def tv_post(screener, payload):
+    req = urllib.request.Request(f"https://scanner.tradingview.com/{screener}/scan", data=json.dumps(payload).encode(),
+                                 headers={**UA, "Content-Type": "application/json"}, method="POST")
+    with urllib.request.urlopen(req, timeout=20) as r:
+        return json.loads(r.read()).get("data", [])
+
+
+def tv_row(d):
+    v = dict(zip(TV_COLS, d["d"]))
+    return {"symbole": d["s"], "nom": v["description"] or v["name"], "prix": v["close"], "devise": v["currency"] or "",
+            "jour_pct": round(v["change"], 2) if v["change"] is not None else None,
+            "mois_pct": round(v["Perf.1M"], 2) if v["Perf.1M"] is not None else None,
+            "volume": v["volume"], "volume_relatif": round(v["relative_volume_10d_calc"], 2) if v["relative_volume_10d_calc"] else None,
+            "capitalisation": v["market_cap_basic"], "per": round(v["price_earnings_ttm"], 1) if v["price_earnings_ttm"] else None,
+            "bourse": v["exchange"], "secteur": v["sector"]}
+
+
+def tv_quote(symbol):
+    for scr in ("global", "america", "cfd", "forex", "crypto"):
+        try:
+            rows = tv_post(scr, {"symbols": {"tickers": [symbol]}, "columns": TV_COLS})
+        except Exception:
+            continue
+        if rows:
+            return tv_row(rows[0])
+    return None
+
+
+def tv_screen(market, sort_by, order, extra_filter=None, n=10):
+    flt = [{"left": "market_cap_basic", "operation": "greater", "right": 2e8},
+           {"left": "volume", "operation": "greater", "right": 1e5}] + (extra_filter or [])
+    rows = tv_post(market, {"filter": flt, "columns": TV_COLS, "sort": {"sortBy": sort_by, "sortOrder": order},
+                            "range": [0, n], "options": {"lang": "fr"}})
+    return [tv_row(r) for r in rows]
+
+
 def quote(symbol):
+    if ":" in symbol:
+        return tv_quote(symbol)
+    return yahoo_quote(symbol)
+
+
+def yahoo_quote(symbol):
     url = f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(symbol)}?interval=1d&range=1mo"
     res = json.loads(get(url))["chart"]["result"][0]
     meta = res["meta"]
@@ -111,7 +157,7 @@ def digest(sig, paris):
     for scr, items in sig["mouvements"].items():
         lines.append(f"\nÉCRAN {scr} :")
         for q in items[:10]:
-            lines.append(f"- {q['nom']} ({q['symbole']}, {q['bourse']}) {q['jour_pct']} %, prix {q['prix']}, capi {q['capitalisation']}, PER {q['per']}, volume {q['volume']} (moy. 3 mois {q['volume_moyen_3m']})")
+            lines.append(f"- {q['nom']} ({q['symbole']}, secteur {q.get('secteur')}) jour {q['jour_pct']} %, mois {q.get('mois_pct')} %, prix {q['prix']} {q.get('devise','')}, capi {q['capitalisation']}, PER {q['per']}, volume x{q.get('volume_relatif')} la normale")
     lines.append("\nACTUALITÉS (dernières 48 h) :")
     for a in sig["actualites"][:150]:
         lines.append(f"- [{a['sujet']}] {a['titre']}")
@@ -144,12 +190,12 @@ def main():
                     state["flags"][flag] = TODAY
                     urgent.append(f"{it['nom']} ({it['symbole']}) {jp:+.2f} % aujourd'hui, {q['mois_pct']:+.2f} % sur un mois, cours {q['prix']} {q['devise']}.")
 
-    # 2. Ce qui bouge sur tout le marché
-    for scr in CONFIG["ecrans_marche"]:
+    # 2. Ce qui bouge sur tout le marché, dans plusieurs pays
+    for ec in CONFIG["ecrans_marche"]:
         try:
-            sig["mouvements"][scr] = screener(scr)
+            sig["mouvements"][ec["nom"]] = tv_screen(ec["marche"], ec["tri"], ec["ordre"], ec.get("filtre"))
         except Exception as e:
-            sig["erreurs"].append(f"écran {scr}: {e}")
+            sig["erreurs"].append(f"écran {ec['nom']}: {e}")
 
     # 3. Actualités (nouvelles depuis le dernier passage, gardées 48 h dans signaux.json)
     seen = set(state["seen"])

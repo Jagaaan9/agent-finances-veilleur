@@ -9,91 +9,286 @@
  "positions": [
   {
    "nom": "Anthropic",
-   "symbole": "ANT",
+   "symbole": "NASDAQ:ANT",
    "reveil_pct": 5
   }
  ],
  "indices": [
   {
    "nom": "MSCI World (ETF iShares, Amsterdam)",
-   "symbole": "IWDA.AS",
+   "symbole": "EURONEXT:IWDA",
    "reveil_pct": 2
   },
   {
    "nom": "S&P 500",
-   "symbole": "^GSPC",
+   "symbole": "SP:SPX",
    "reveil_pct": 2
   },
   {
-   "nom": "Nasdaq",
-   "symbole": "^IXIC",
+   "nom": "Nasdaq Composite",
+   "symbole": "NASDAQ:IXIC",
    "reveil_pct": 2.5
   },
   {
    "nom": "CAC 40",
-   "symbole": "^FCHI",
+   "symbole": "EURONEXT:PX1",
    "reveil_pct": 2
   },
   {
    "nom": "Euro Stoxx 50",
-   "symbole": "^STOXX50E",
+   "symbole": "TVC:SX5E",
    "reveil_pct": 2
   },
   {
    "nom": "Nikkei 225 (Japon)",
-   "symbole": "^N225",
+   "symbole": "TVC:NI225",
    "reveil_pct": 3
   },
   {
-   "nom": "Hang Seng (Hong Kong, Chine)",
-   "symbole": "^HSI",
+   "nom": "Hang Seng (Hong Kong)",
+   "symbole": "TVC:HSI",
    "reveil_pct": 3
   },
   {
    "nom": "Shanghai Composite (Chine)",
-   "symbole": "000001.SS",
+   "symbole": "SSE:000001",
    "reveil_pct": 3
   },
   {
-   "nom": "Indice VIX (peur des marchés)",
-   "symbole": "^VIX",
+   "nom": "VIX (peur des marchés)",
+   "symbole": "TVC:VIX",
    "reveil_pct": 25
   },
   {
    "nom": "Or",
-   "symbole": "GC=F",
+   "symbole": "TVC:GOLD",
    "reveil_pct": 3
   },
   {
    "nom": "Pétrole Brent",
-   "symbole": "BZ=F",
+   "symbole": "TVC:UKOIL",
    "reveil_pct": 5
   },
   {
    "nom": "Euro / dollar",
-   "symbole": "EURUSD=X",
+   "symbole": "FX:EURUSD",
    "reveil_pct": 1.5
   },
   {
    "nom": "Bitcoin en euros",
-   "symbole": "BTC-EUR",
+   "symbole": "BITSTAMP:BTCEUR",
    "reveil_pct": 8
   },
   {
    "nom": "Taux US 10 ans",
-   "symbole": "^TNX",
+   "symbole": "TVC:US10Y",
    "reveil_pct": 5
   }
  ],
  "ecrans_marche": [
-  "day_gainers",
-  "day_losers",
-  "most_actives",
-  "small_cap_gainers",
-  "aggressive_small_caps",
-  "undervalued_growth_stocks",
-  "growth_technology_stocks",
-  "undervalued_large_caps"
+  {
+   "nom": "États-Unis : plus fortes hausses",
+   "marche": "america",
+   "tri": "change",
+   "ordre": "desc"
+  },
+  {
+   "nom": "États-Unis : plus fortes baisses",
+   "marche": "america",
+   "tri": "change",
+   "ordre": "asc"
+  },
+  {
+   "nom": "États-Unis : volumes anormaux",
+   "marche": "america",
+   "tri": "relative_volume_10d_calc",
+   "ordre": "desc",
+   "filtre": [
+    {
+     "left": "relative_volume_10d_calc",
+     "operation": "greater",
+     "right": 2
+    }
+   ]
+  },
+  {
+   "nom": "France : plus fortes hausses",
+   "marche": "france",
+   "tri": "change",
+   "ordre": "desc"
+  },
+  {
+   "nom": "France : plus fortes baisses",
+   "marche": "france",
+   "tri": "change",
+   "ordre": "asc"
+  },
+  {
+   "nom": "France : volumes anormaux",
+   "marche": "france",
+   "tri": "relative_volume_10d_calc",
+   "ordre": "desc",
+   "filtre": [
+    {
+     "left": "relative_volume_10d_calc",
+     "operation": "greater",
+     "right": 2
+    }
+   ]
+  },
+  {
+   "nom": "Allemagne : plus fortes hausses",
+   "marche": "germany",
+   "tri": "change",
+   "ordre": "desc"
+  },
+  {
+   "nom": "Allemagne : plus fortes baisses",
+   "marche": "germany",
+   "tri": "change",
+   "ordre": "asc"
+  },
+  {
+   "nom": "Allemagne : volumes anormaux",
+   "marche": "germany",
+   "tri": "relative_volume_10d_calc",
+   "ordre": "desc",
+   "filtre": [
+    {
+     "left": "relative_volume_10d_calc",
+     "operation": "greater",
+     "right": 2
+    }
+   ]
+  },
+  {
+   "nom": "Hong Kong / Chine : plus fortes hausses",
+   "marche": "hongkong",
+   "tri": "change",
+   "ordre": "desc"
+  },
+  {
+   "nom": "Hong Kong / Chine : plus fortes baisses",
+   "marche": "hongkong",
+   "tri": "change",
+   "ordre": "asc"
+  },
+  {
+   "nom": "Hong Kong / Chine : volumes anormaux",
+   "marche": "hongkong",
+   "tri": "relative_volume_10d_calc",
+   "ordre": "desc",
+   "filtre": [
+    {
+     "left": "relative_volume_10d_calc",
+     "operation": "greater",
+     "right": 2
+    }
+   ]
+  },
+  {
+   "nom": "Chine continentale : plus fortes hausses",
+   "marche": "china",
+   "tri": "change",
+   "ordre": "desc"
+  },
+  {
+   "nom": "Chine continentale : plus fortes baisses",
+   "marche": "china",
+   "tri": "change",
+   "ordre": "asc"
+  },
+  {
+   "nom": "Chine continentale : volumes anormaux",
+   "marche": "china",
+   "tri": "relative_volume_10d_calc",
+   "ordre": "desc",
+   "filtre": [
+    {
+     "left": "relative_volume_10d_calc",
+     "operation": "greater",
+     "right": 2
+    }
+   ]
+  },
+  {
+   "nom": "Japon : plus fortes hausses",
+   "marche": "japan",
+   "tri": "change",
+   "ordre": "desc"
+  },
+  {
+   "nom": "Japon : plus fortes baisses",
+   "marche": "japan",
+   "tri": "change",
+   "ordre": "asc"
+  },
+  {
+   "nom": "Japon : volumes anormaux",
+   "marche": "japan",
+   "tri": "relative_volume_10d_calc",
+   "ordre": "desc",
+   "filtre": [
+    {
+     "left": "relative_volume_10d_calc",
+     "operation": "greater",
+     "right": 2
+    }
+   ]
+  },
+  {
+   "nom": "Inde : plus fortes hausses",
+   "marche": "india",
+   "tri": "change",
+   "ordre": "desc"
+  },
+  {
+   "nom": "Inde : plus fortes baisses",
+   "marche": "india",
+   "tri": "change",
+   "ordre": "asc"
+  },
+  {
+   "nom": "Inde : volumes anormaux",
+   "marche": "india",
+   "tri": "relative_volume_10d_calc",
+   "ordre": "desc",
+   "filtre": [
+    {
+     "left": "relative_volume_10d_calc",
+     "operation": "greater",
+     "right": 2
+    }
+   ]
+  },
+  {
+   "nom": "États-Unis : meilleures performances sur 1 mois",
+   "marche": "america",
+   "tri": "Perf.1M",
+   "ordre": "desc"
+  },
+  {
+   "nom": "Europe : meilleures performances sur 1 mois",
+   "marche": "europe",
+   "tri": "Perf.1M",
+   "ordre": "desc"
+  },
+  {
+   "nom": "États-Unis : grosses sociétés à PER bas",
+   "marche": "america",
+   "tri": "market_cap_basic",
+   "ordre": "desc",
+   "filtre": [
+    {
+     "left": "price_earnings_ttm",
+     "operation": "in_range",
+     "right": [
+      1,
+      15
+     ]
+    }
+   ]
+  }
  ],
  "actualites": [
   {
