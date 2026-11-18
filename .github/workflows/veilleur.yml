@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: veilleur
@@ -23,10 +24,11 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           ROUTINE_FIRE_URL: https://api.anthropic.com/v1/claude_code/routines/trig_01BWR1DohCFFyDdvoS4VMArs/fire
           ROUTINE_TOKEN: ${{ secrets.ROUTINE_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
         run: python3 veilleur.py
       - name: Garder la mémoire des alertes
         run: |
           git config user.name "veilleur"
           git config user.email "veilleur@users.noreply.github.com"
-          git add state.json signaux.json
+          git add state.json signaux.json resume.md
           git diff --cached --quiet || (git commit -m "Mémoire du veilleur" && git push)

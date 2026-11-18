@@ -136,6 +136,16 @@ def notify(title, message, priority="high", tags="rotating_light"):
     urllib.request.urlopen(req, timeout=20).read()
 
 
+def github_alert(title, body):
+    repo, tok = os.environ.get("GITHUB_REPOSITORY"), os.environ.get("GITHUB_TOKEN")
+    if not (repo and tok):
+        return
+    req = urllib.request.Request(f"https://api.github.com/repos/{repo}/issues", method="POST",
+                                 data=json.dumps({"title": title[:200], "body": body}).encode("utf-8"),
+                                 headers={"Authorization": f"Bearer {tok}", "Accept": "application/vnd.github+json"})
+    urllib.request.urlopen(req, timeout=20).read()
+
+
 def wake_agent(text):
     if not (ROUTINE_URL and ROUTINE_TOKEN):
         print("[routine non configurée]")
@@ -231,6 +241,11 @@ def main():
     if urgent and state["wakes"].get(TODAY, 0) < CONFIG["reveils_max_par_jour"]:
         state["wakes"][TODAY] = state["wakes"].get(TODAY, 0) + 1
         notify("Agent finances : ça bouge", "\n".join(urgent)[:500] + "\n\nTon agent analyse et te dit s'il faut faire quelque chose.")
+        try:
+            github_alert("Alerte marchés : " + urgent[0][:120],
+                         "\n".join("- " + u for u in urgent) + f"\n\nTon agent analyse et met ta page à jour : {PAGE}\n\n_Ce n'est pas un ordre d'achat ou de vente, c'est un signal._")
+        except Exception as e:
+            sig["erreurs"].append(f"alerte GitHub: {e}")
         text = ("RÉVEIL PAR LE VEILLEUR : quelque chose de gros bouge. Ce n'est pas une règle de vente ni d'achat, c'est un signal à analyser. "
                 "Lis aussi signaux.json, analyse en profondeur, mets la page à jour et dis clairement à Léon s'il faut agir ou non, et pourquoi :\n- "
                 + "\n- ".join(urgent))
@@ -253,6 +268,7 @@ def main():
     state["flags"] = {k: v for k, v in state["flags"].items() if v == TODAY}
     json.dump(state, open(STATE_PATH, "w", encoding="utf-8"), ensure_ascii=False)
     json.dump(sig, open(SIGNALS_PATH, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    open(os.path.join(HERE, "resume.md"), "w", encoding="utf-8").write(digest(sig, NOW.astimezone(ZoneInfo("Europe/Paris"))))
     print(f"{len(sig['positions'])} positions, {len(sig['indices'])} indices, {sum(len(v) for v in sig['mouvements'].values())} mouvements, {len(fresh)} nouvelles actus, {len(urgent)} signaux forts, {len(sig['erreurs'])} erreurs")
 
 
