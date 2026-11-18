@@ -2,7 +2,7 @@ name: Veilleur agent finances
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -21,7 +21,7 @@ jobs:
       - name: Surveiller les marchés
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-          ROUTINE_FIRE_URL: ${{ secrets.ROUTINE_FIRE_URL }}
+          ROUTINE_FIRE_URL: https://api.anthropic.com/v1/claude_code/routines/trig_01BWR1DohCFFyDdvoS4VMArs/fire
           ROUTINE_TOKEN: ${{ secrets.ROUTINE_TOKEN }}
         run: python3 veilleur.py
       - name: Garder la mémoire des alertes
