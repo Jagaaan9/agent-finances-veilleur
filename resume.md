@@ -1,4 +1,4 @@
-PASSAGE DU SOIR (après la clôture américaine) avec bilan du jour. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
+PASSAGE. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
 
 POSITIONS ET INDICES :
 - Anthropic, PBC Class A (NASDAQ:ANT) : 97.17 USD, jour None %, mois None %
@@ -11,21 +11,21 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22841.63 HKD, jour -1.95 %, mois -4.79 %
 - SSE Composite Index (SSE:000001) : 3577.6174 , jour -0.28 %, mois -3.79 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.43 USD, jour 15.8 %, mois 54.34 %
-- Gold (TVC:GOLD) : 3626.028 USD, jour -2.67 %, mois -12.09 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09683 USD, jour 0.01 %, mois -2.39 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56718.12 EUR, jour -1.35 %, mois -22.29 %
+- Gold (TVC:GOLD) : 3630.781 USD, jour 0.13 %, mois -11.97 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09695 USD, jour 0.02 %, mois -2.38 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56572.35 EUR, jour -1.6 %, mois -22.49 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 5.05 , jour -0.39 %, mois -1.79 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - Energy World Corporation Ltd (OTC:EWCLF, secteur Utilities) jour 142.33 %, mois -16.72 %, prix 0.0727 USD, capi 280141433.42692304, PER None, volume x12.24 la normale
-- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 29.52 %, mois -39.46 %, prix 1.12 USD, capi 329054092.3747, PER None, volume x0.63 la normale
+- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 29.52 %, mois -39.46 %, prix 1.12 USD, capi 329054092.3747, PER None, volume x0.64 la normale
 - Deep Fission, Inc. (NASDAQ:FISN, secteur Producer Manufacturing) jour 25.83 %, mois -5.8 %, prix 3.41 USD, capi 200881710.8339483, PER None, volume x0.92 la normale
 - New World Development Co Ltd Sponsored ADR (OTC:NDVLY, secteur Finance) jour 25.04 %, mois -35.41 %, prix 0.1618 USD, capi 777623316.4842801, PER None, volume x137.9 la normale
-- Insmed Incorporated (NASDAQ:INSM, secteur Health Technology) jour 20.58 %, mois 51.36 %, prix 144.46 USD, capi 31691680398.955765, PER None, volume x5.99 la normale
+- Insmed Incorporated (NASDAQ:INSM, secteur Health Technology) jour 20.58 %, mois 51.36 %, prix 144.46 USD, capi 31691680398.955765, PER None, volume x6.0 la normale
 - Pyxis Oncology, Inc. (NASDAQ:PYXS, secteur Health Technology) jour 19.15 %, mois -4.55 %, prix 1.68 USD, capi 200941181.44680852, PER None, volume x2.17 la normale
 - Terra Innovatum Global N.V. (NASDAQ:NKLR, secteur Producer Manufacturing) jour 18.62 %, mois -5.91 %, prix 2.23 USD, capi 246417023.606383, PER 0.4, volume x2.97 la normale
 - Kornit Digital Ltd. (NASDAQ:KRNT, secteur Process Industries) jour 15.51 %, mois -15.28 %, prix 14.75 USD, capi 633756394.7729052, PER None, volume x3.4 la normale
-- Opendoor Technologies Inc (NASDAQ:OPEN, secteur Finance) jour 14.96 %, mois -27.36 %, prix 1.46 USD, capi 1358148850.3307085, PER None, volume x1.6 la normale
+- Opendoor Technologies Inc (NASDAQ:OPEN, secteur Finance) jour 14.96 %, mois -27.36 %, prix 1.46 USD, capi 1358148850.3307085, PER None, volume x1.61 la normale
 - TELUS Corporation (NYSE:TU, secteur Communications) jour 13.35 %, mois 28.79 %, prix 10.78 USD, capi 17161760143.944239, PER None, volume x2.11 la normale
 
 ÉCRAN États-Unis : plus fortes baisses :
@@ -33,9 +33,9 @@ POSITIONS ET INDICES :
 - Seabridge Gold Inc (NYSE:SA, secteur Non-Energy Minerals) jour -29.32 %, mois -29.48 %, prix 18.06 USD, capi 1948154125.3526196, PER 38.7, volume x7.37 la normale
 - StoneX Group Inc. (NASDAQ:SNEX, secteur Finance) jour -26.71 %, mois -29.28 %, prix 39.45 USD, capi 4758330450.749582, PER 10.3, volume x6.94 la normale
 - Liquidity Services, Inc. (NASDAQ:LQDT, secteur Retail Trade) jour -24.88 %, mois -23.61 %, prix 33.03 USD, capi 1034883349.7063909, PER 32.3, volume x5.02 la normale
-- BOXABL, Inc. (NASDAQ:BXBL, secteur Consumer Durables) jour -24.68 %, mois -57.95 %, prix 1.19 USD, capi 287450736.20253164, PER None, volume x2.35 la normale
+- BOXABL, Inc. (NASDAQ:BXBL, secteur Consumer Durables) jour -24.68 %, mois -57.95 %, prix 1.19 USD, capi 287450736.20253164, PER None, volume x2.36 la normale
 - BUUU Group Limited Class A (NASDAQ:BUUU, secteur Commercial Services) jour -22.06 %, mois -11.21 %, prix 3.78 USD, capi 751388380.515464, PER None, volume x0.73 la normale
-- Fundrise Innovation Fund, LLC (NYSE:VCX, secteur Miscellaneous) jour -19.62 %, mois -25.1 %, prix 17.49 USD, capi 616822233.6, PER 2.2, volume x3.76 la normale
+- Fundrise Innovation Fund, LLC (NYSE:VCX, secteur Miscellaneous) jour -19.62 %, mois -25.1 %, prix 17.49 USD, capi 616822233.6, PER 2.2, volume x3.77 la normale
 - AlTi Global, Inc. Class A (NASDAQ:ALTI, secteur Finance) jour -19.35 %, mois -39.27 %, prix 1.5 USD, capi 233915145.9677419, PER None, volume x0.42 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109560.7753844, PER 5.1, volume x99.36 la normale
 - Einride AB Sponsored ADR (NASDAQ:ENRD, secteur Technology Services) jour -17.86 %, mois -32.92 %, prix 1.61 USD, capi 287511051, PER None, volume x1.88 la normale
@@ -264,7 +264,7 @@ POSITIONS ET INDICES :
 ÉCRAN États-Unis : meilleures performances sur 1 mois :
 - Bgin Blockchain Ltd. Class A (NASDAQ:BGIN, secteur Technology Services) jour 4.28 %, mois 213.41 %, prix 5.61 USD, capi 634692641.9609666, PER None, volume x0.6 la normale
 - Ultralife Corporation (NASDAQ:ULBI, secteur Producer Manufacturing) jour 0.13 %, mois 160.63 %, prix 15.69 USD, capi 261521687.97894067, PER None, volume x0.97 la normale
-- Telos Corporation (NASDAQ:TLS, secteur Technology Services) jour 1.89 %, mois 81.06 %, prix 7.55 USD, capi 555173886.1066127, PER None, volume x0.72 la normale
+- Telos Corporation (NASDAQ:TLS, secteur Technology Services) jour 1.89 %, mois 81.06 %, prix 7.55 USD, capi 555173886.1066127, PER None, volume x0.73 la normale
 - Surgery Partners, Inc. (NASDAQ:SGRY, secteur Health Services) jour -1.0 %, mois 80.7 %, prix 26.69 USD, capi 3493219792.291543, PER None, volume x0.55 la normale
 - Aterian Inc (NASDAQ:ATER, secteur Retail Trade) jour 1.02 %, mois 75.44 %, prix 1 USD, capi 261882414.38529143, PER None, volume x1.65 la normale
 - Frontier Group Holdings, Inc. (NASDAQ:ULCC, secteur Transportation) jour -2.76 %, mois 75.28 %, prix 7.94 USD, capi 1829515271.3925297, PER None, volume x1.27 la normale
@@ -286,14 +286,14 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour 0.28 %, mois 26.0 %, prix 8.883 EUR, capi 8888634560.855991, PER 11.1, volume x0.33 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.05 %, mois -16.38 %, prix 40.59 USD, capi 3434356723816, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -2.41 %, mois -16.56 %, prix 40.47 USD, capi 3434356723816, PER 2.1, volume x0.41 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.05 %, mois -16.38 %, prix 40.59 USD, capi 3434356723816, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.93 %, mois -20.22 %, prix 271.02 USD, capi 3333736960202.766, PER 14.1, volume x1.26 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -3.46 %, mois -20.66 %, prix 272.66 USD, capi 3315435860061.148, PER 14.2, volume x1.44 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -2.33 %, mois -2.82 %, prix 48.59 USD, capi 1575615873327, PER 1.7, volume x3.49 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -1.2 %, mois -4.12 %, prix 320.22 USD, capi 850379273807.4326, PER 13.4, volume x1.03 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour -2.1 %, mois -21.91 %, prix 690.44 USD, capi 781179868112.7578, PER 9.3, volume x0.96 la normale
-- SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour -2.67 %, mois -13.38 %, prix 119.2 USD, capi 601810914783.2028, PER 6.6, volume x1.09 la normale
+- SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour -2.67 %, mois -13.38 %, prix 119.2 USD, capi 601810914783.2028, PER 6.6, volume x1.1 la normale
 - Tencent Holdings Ltd Unsponsored ADR (OTC:TCEHY, secteur Technology Services) jour -4.27 %, mois -15.32 %, prix 44.16 USD, capi 427990092027.9313, PER 11.9, volume x1.4 la normale
 - China Construction Bank Corporation Unsponsored ADR Class H (OTC:CICHY, secteur Finance) jour -1.19 %, mois 8.48 %, prix 26.49 USD, capi 361076954260.24915, PER 6.6, volume x6.33 la normale
 
@@ -310,6 +310,54 @@ POSITIONS ET INDICES :
 - Technip Energies NV (EURONEXT:TE, secteur Industrial Services) jour -0.12 %, mois 9.87 %, prix 33.84 EUR, capi 5932990661, PER 22.2, volume x0.8 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic’s IPO Was a Success, but You Don’t Need to Chase the Stock - Barron's
+- [Anthropic] Anthropic’s Value Surges After Multibillion-Dollar I.P.O. - The New York Times
+- [Anthropic] Anthropic was supposed to save the AI trade. What went wrong? - CNBC
+- [Anthropic] Anthropic’s IPO Mints New Millionaires | What’s News for Nov. 19 - WSJ
+- [Anthropic (FR)] Valant désormais plus de 2000 milliards de dollars en bourse, Anthropic a-t-il trahi toutes ses promesses d’éthique et de sécurité? - Le Temps
+- [Marchés mondiaux] Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses - The Globe and Mail
+- [Marchés mondiaux] Why Is the US Stock Market Crashing Today? Dow Drops 1,000 Points Despite Anthropic IPO - Stocks Down Under
+- [Marchés mondiaux] Stock Market Today, Nov. 19: Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake - The Globe and Mail
+- [Bourse de Paris et Europe] Mi-séance Paris : léger rebond du CAC 40 avec un sursaut des valeurs liées à l'IA... - Fortuneo
+- [Bourse de Paris et Europe] Les valeurs à suivre à Paris et en Europe (actualisé) - Zonebourse
+- [Bourse de Paris et Europe] Europe finit dans le rouge, Anthropic atteint $2.000 mds de capitalisation - Boursorama
+- [Bourse de Paris et Europe] L'Europe tente de rebondir avec la cotation d'Anthropic - Boursorama
+- [Chine et Asie] ‘Too high, but I’d still buy’: Anthropic IPO entices Chinese investors despite barriers - South China Morning Post
+- [Chine et Asie] Stocks look to blockbuster Anthropic IPO to break losing streak - Free Malaysia Today
+- [Chine et Asie] Net current asset value per share of Adaspace Technology Co., Ltd. Class H – HKEX:6935 - TradingView
+- [Chine et Asie] CATL, Innolight May Join Hong Kong Tech Index in Major AI Revamp - Bloomberg.com
+- [Chine et Asie] China’s Greater Bay Area was built to rival Silicon Valley. Nearly a decade on, is it finally living up to the hype? - Fortune
+- [Chine et Asie] Anthropic IPO Priced Above Range as AI Sentiment Weakens - FOREX.com
+- [Chine et Asie] Chinese tech firms fear AI hits from US curbs after Nvidia fallout - The Killeen Daily Herald
+- [Chine et Asie] Hunterbrook Report Sends AMD Shares Down 7% - cwibc.co.id
+- [Chine et Asie] China Pledges Tariff Cuts And Wider Market Access To Attract Global Businesses - DirectorsTalk Interviews
+- [Chine et Asie] Chinese media extensively covered economic and trade cooperation between Vietnam and China. - Vietnam.vn
+- [Intelligence artificielle] California subpoenas Nvidia as questions about CEO affair, AI chips mount - Los Angeles Times
+- [Intelligence artificielle] US Approved AI Chip Sales to China’s Tencent, Alibaba, Data Show - Bloomberg.com
+- [Intelligence artificielle] Chip Stocks Waver On Anthropic IPO, AI Prospects, AMD Short - Investor's Business Daily
+- [Intelligence artificielle] NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance Singapore
+- [Introductions en bourse] KOSPI gains 1.39% after volatile session ahead of Anthropic debut - The Korea Times
+- [Rachats et fusions] PanGenomic Health Signs Exclusive Canadian Distribution Deal with Zeotech, Ends Ayla Bioscience Merger Pursuit - kalkine.ca
+- [Rachats et fusions] BILL Agrees to be Acquired by TPG in Partnership with Corpay - Quantisnow
+- [Rachats et fusions] Corpay Invests Alongside TPG to Acquire BILL - Quantisnow
+- [Rachats et fusions] UniCredit reaches an agreement with the German Government on the future of Commerzbank after its takeover bid - Demócrata
+- [Résultats d'entreprises] Why Qualys Stock Is In Focus After Earnings Beat And Partner Expansion - Yahoo Finance
+- [Résultats d'entreprises] Ross Stores (NASDAQ:ROST) Releases Q4 2026 Earnings Guidance - MarketBeat
+- [Petites valeurs en croissance] UniTest Incorporation's (KOSDAQ:086390) Solid Profits Have Weak Fundamentals - Simply Wall St
+- [Petites valeurs en croissance] Conavi Medical at Small Cap Growth Virtual Conference: launch gains traction - Investing.com UK
+- [Petites valeurs en croissance] Ford Motor (F) Could Be 26% Undervalued As Leadership Change Nears - Simply Wall St
+- [Petites valeurs en croissance] AppLovin Stock: AXON Upgrades Reignite Growth, But Competitive Risks Remain (NASDAQ:APP) - Seeking Alpha
+- [Petites valeurs en croissance] Robeco FinTech D USD (0P0001C8O6) Stock Price, News, Quote & History - Yahoo! Finance Canada
+- [Petites valeurs en croissance] Oxford Nanopore (LSE:ONT) Stock Could Be 38% Undervalued After AI News - Simply Wall St
+- [Petites valeurs en croissance] Tonbo Imaging gains 4% on ₹36-cr MoD order, surges 119% in 20 days of debut - Business Standard
+- [Pays émergents] GLOBAL MARKETS-Stocks Fall as Anthropic Debut Fails to Ease AI Concerns; Dollar Rises - KONTAN
+- [Pays émergents] Top 30 Stocks For New Investors In India November 2026 - Samco
+- [Pays émergents] India: Is It Oversold And Under-Held? - Seeking Alpha
+- [Crypto] Crypto Brief - Lowenstein Sandler LLP
+- [Crypto] Crypto Market Today, Nov. 19: Bitcoin Approaches $60,000 as ETF Outflows Surpass $2.5 Billion in 2026 - The Motley Fool
+- [Crypto] Crypto Hedonism Attempts a Comeback in London - Bloomberg.com
+- [Crypto] Ripple CEO sees crypto rebound, draws Anthropic IPO-SpaceX parallel - Yahoo Finance
+- [Crypto] Grok AI Predicts What Anthropic’s Record IPO Could Mean for Bitcoin - Yahoo Finance
 - [Anthropic] Retail traders pile into Anthropic IPO, but net buying trails SpaceX - Yahoo Finance
 - [Anthropic] I went to the Anthropic IPO protest in NYC. Where was everybody? - Business Insider
 - [Anthropic] Investors Dumping AI Stocks to Buy Into Anthropic Send Tech Shares Lower - WSJ
@@ -410,47 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Marchés mondiaux] Why Morgan Stanley Says the S&P 500 Is Poised to Jump 18% - Business Insider
 - [Marchés mondiaux] Stock Market Today: S&P 500 Rallies Despite Nvidia's Earnings Selloff as Anthropic Revives AI Stocks - Coinpaper
 - [Marchés mondiaux] Does Acco (ACCO) Have the Potential to Rally 48.75% as Wall Street Analysts Expect? - Yahoo Finance Singapore
-- [Marchés mondiaux] U.S stocks tumble toward their longest losing streak since 2024 despite Anthropic’s strong IPO - The Globe and Mail
-- [Marchés mondiaux] Broadcom, Nvidia, and Micron Could Be Setting Up for a Massive AI Rally Before Year End - 24/7 Wall St.
-- [Bourse de Paris et Europe] Le moral des ménages européens et américains au programme de ce vendredi - Investir Les Echos
-- [Bourse de Paris et Europe] L'Europe s'est repliée, Anthropic attire tous les regards - ABC Bourse
-- [Bourse de Paris et Europe] La Bourse de Paris en petite hausse, la tech en vert - Yahoo Finance France
-- [Bourse de Paris et Europe] EUROFINS SCIENTIFIC Cours Action ERF, Cotation Bourse Euronext Paris - Boursorama
-- [Bourse de Paris et Europe] Paris et l'Europe poursuivent leur repli - Zonebourse
-- [Banques centrales et taux] Ne vous opposez pas à la Fed alors que l'inflation continue d'exercer une pression sur les taux - Boursorama
-- [Banques centrales et taux] Ne vous opposez pas à la Fed alors que l'inflation continue d'exercer une pression sur les taux - TradingView
-- [Banques centrales et taux] Le dollar avance, toujours soutenu par la Fed... - Fortuneo
-- [Banques centrales et taux] Le CAC 40 en baisse en clôture : la Fed ravive le spectre de nouvelles hausses de taux - Idéal Investisseur
-- [Banques centrales et taux] BCE : une hausse des taux en décembre enverrait un signal clair, selon le patron de la Bundesbank - Boursier.com
-- [Banques centrales et taux] Michael Barr, de la Fed, estime que l’inflation appelle un nouvel ajustement de la politique monétaire - Zonebourse Suisse
-- [Banques centrales et taux] Bitcoin : la Fed menace la reprise autour de 63 750 dollars - Le Revenu
-- [Banques centrales et taux] J.P. Morgan relève ses prévisions de hausses de taux de la Fed face à une inflation persistante - IndexBox
-- [Banques centrales et taux] L’or tombe à un plus bas depuis 14 mois, les anticipations de hausse des taux de la Fed se renforçant - www.tmgm.com
-- [Banques centrales et taux] JPMorgan se joint au chœur croissant de Wall Street prévoyant trois hausses de la Fed - TradingView
-- [Banques centrales et taux] J.P. Morgan anticipe des hausses de taux de la Fed lors de ses trois prochaines réunions, alors que l’inflation persiste - Zonebourse Suisse
-- [Banques centrales et taux] Récapitulatif de COMMENT-US : l'EUR/USD tient bon lors d'une séance marquée par l'aversion au risque - Boursorama
-- [Banques centrales et taux] Fed : Et si la banque centrale américaine faisait une grave erreur ? - TradingView
-- [Banques centrales et taux] Un relèvement des taux directeurs semble inéluctable, selon "presque tous" les banquiers centraux américains - Boursorama
-- [Banques centrales et taux] La BCE restera-t-elle une championne du climat sans Christine Lagarde ? - AEF info
-- [Banques centrales et taux] FOREX-Le dollar recule après sept séances de hausse consécutives ; les taux d'intérêt et les actions sont au c - Boursorama
-- [Chine et Asie] ‘Too high, but I’d still buy’: Anthropic IPO entices Chinese investors despite barriers - South China Morning Post
-- [Chine et Asie] Chinese AI stocks down as US chip curbs hit labs and hyperscalers - The Edge Malaysia
-- [Chine et Asie] Chinese tech firms fear AI hits from US curbs after Nvidia fallout - ABC News - Breaking News, Latest News and Videos
-- [Chine et Asie] Hong Kong stocks hit 4-month low, as US-China tensions weigh on tech - Business Recorder
-- [Chine et Asie] AMD Stock Plunges After Short-Seller Report Alleges That the Chipmaker “Has Its Own China Problem” - TipRanks
-- [Intelligence artificielle] Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says - CNBC
-- [Intelligence artificielle] AMD vs. Nvidia: Risks and Benefits for AI Investors - SmartAsset.com
-- [Intelligence artificielle] Nvidia, Broadcom, Micron stocks erase gains as Anthropic goes public - Yahoo Finance
-- [Intelligence artificielle] US signed off on sales of nearly 900,000 AI chips to China in six months, committee says - Reuters
-- [Intelligence artificielle] US signed off on sales of nearly 900,000 AI chips to China in six months-committee - Fresno Bee
-- [Intelligence artificielle] Is Claude-maker Anthropic going public just as the AI bubble bursts? - DW.com
-- [Intelligence artificielle] Wait, Why Exactly Is It So Bad to Sell AI Chips to China? - Futurism
-- [Intelligence artificielle] AMD sheds nearly $100 billion in market value as China chip concerns hit AI stocks - Crypto Briefing
-- [Intelligence artificielle] Nvidia, AMD, Micron stocks lead chip sector higher amid Anthropic IPO optimism - Yahoo Finance
-- [Intelligence artificielle] Semiconductor Sell-Off: These Artificial Intelligence (AI) Chip Stocks Are Screaming Buys Before They Go Parabolic - The Motley Fool
-- [Intelligence artificielle] AMD stock plunges after short-seller says the chip maker has its own China problems - Yahoo Finance UK
-- [Intelligence artificielle] 5 Best Affordable Blue Chip Stocks to Buy Now - Yahoo Finance
-- [Intelligence artificielle] AMD (AMD) Stock Could Be 12% Undervalued After AI Chip Progress News - Yahoo Finance Singapore
-- [Intelligence artificielle] Ken Fisher’s Quiet Bet on TSMC (TSM): Owning the AI Boom Without Picking a Winner - Yahoo! Finance Canada
-- [Intelligence artificielle] 3 AI Chip Stocks With Earnings Growth Over 34% - Yahoo Finance
-- [Intelligence artificielle] 3 
+- [Marchés mondiaux] U.S stocks tumble t
