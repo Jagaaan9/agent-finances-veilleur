@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-19T23:20:45.809955+00:00",
+ "mis_a_jour": "2026-11-19T23:42:47.785400+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -8,7 +8,7 @@
    "devise": "USD",
    "jour_pct": null,
    "mois_pct": null,
-   "volume": 853320952,
+   "volume": 853902348,
    "volume_relatif": null,
    "capitalisation": null,
    "per": null,
@@ -52,8 +52,8 @@
    "devise": "",
    "jour_pct": -2.25,
    "mois_pct": -9.32,
-   "volume": 8363307782,
-   "volume_relatif": 0.94,
+   "volume": 8377313215,
+   "volume_relatif": 0.95,
    "capitalisation": null,
    "per": null,
    "bourse": "NASDAQ",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3630.781,
+   "prix": 3596.92,
    "devise": "USD",
-   "jour_pct": 0.13,
-   "mois_pct": -11.97,
+   "jour_pct": -0.8,
+   "mois_pct": -12.79,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,12 +160,12 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09695,
+   "prix": 1.09683,
    "devise": "USD",
-   "jour_pct": 0.02,
-   "mois_pct": -2.38,
-   "volume": 2055,
-   "volume_relatif": 0.01,
+   "jour_pct": 0.01,
+   "mois_pct": -2.39,
+   "volume": 3046,
+   "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
    "bourse": "FX",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 56572.35,
+   "prix": 56380.08,
    "devise": "EUR",
-   "jour_pct": -1.6,
-   "mois_pct": -22.49,
-   "volume": 132.36320198,
-   "volume_relatif": 0.72,
+   "jour_pct": -1.94,
+   "mois_pct": -22.75,
+   "volume": 136.23914559,
+   "volume_relatif": 0.74,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -223,8 +223,8 @@
     "devise": "USD",
     "jour_pct": 29.52,
     "mois_pct": -39.46,
-    "volume": 10553802,
-    "volume_relatif": 0.64,
+    "volume": 10638829,
+    "volume_relatif": 0.65,
     "capitalisation": 329054092.3747,
     "per": null,
     "bourse": "NASDAQ",
@@ -237,8 +237,8 @@
     "devise": "USD",
     "jour_pct": 25.83,
     "mois_pct": -5.8,
-    "volume": 1355305,
-    "volume_relatif": 0.92,
+    "volume": 1358934,
+    "volume_relatif": 0.93,
     "capitalisation": 200881710.8339483,
     "per": null,
     "bourse": "NASDAQ",
@@ -265,7 +265,7 @@
     "devise": "USD",
     "jour_pct": 20.58,
     "mois_pct": 51.36,
-    "volume": 14402448,
+    "volume": 14406139,
     "volume_relatif": 6.0,
     "capitalisation": 31691680398.955765,
     "per": null,
@@ -279,7 +279,7 @@
     "devise": "USD",
     "jour_pct": 19.15,
     "mois_pct": -4.55,
-    "volume": 1797033,
+    "volume": 1797142,
     "volume_relatif": 2.17,
     "capitalisation": 200941181.44680852,
     "per": null,
@@ -293,8 +293,8 @@
     "devise": "USD",
     "jour_pct": 18.62,
     "mois_pct": -5.91,
-    "volume": 887633,
-    "volume_relatif": 2.97,
+    "volume": 890808,
+    "volume_relatif": 2.99,
     "capitalisation": 246417023.606383,
     "per": 0.4,
     "bourse": "NASDAQ",
@@ -307,7 +307,7 @@
     "devise": "USD",
     "jour_pct": 15.51,
     "mois_pct": -15.28,
-    "volume": 1336218,
+    "volume": 1336228,
     "volume_relatif": 3.4,
     "capitalisation": 633756394.7729052,
     "per": null,
@@ -321,8 +321,8 @@
     "devise": "USD",
     "jour_pct": 14.96,
     "mois_pct": -27.36,
-    "volume": 67143697,
-    "volume_relatif": 1.61,
+    "volume": 67490790,
+    "volume_relatif": 1.62,
     "capitalisation": 1358148850.3307085,
     "per": null,
     "bourse": "NASDAQ",
@@ -335,7 +335,7 @@
     "devise": "USD",
     "jour_pct": 13.35,
     "mois_pct": 28.79,
-    "volume": 29288076,
+    "volume": 29289599,
     "volume_relatif": 2.11,
     "capitalisation": 17161760143.944239,
     "per": null,
@@ -365,7 +365,7 @@
     "devise": "USD",
     "jour_pct": -29.32,
     "mois_pct": -29.48,
-    "volume": 7226423,
+    "volume": 7226535,
     "volume_relatif": 7.37,
     "capitalisation": 1948154125.3526196,
     "per": 38.7,
@@ -379,8 +379,8 @@
     "devise": "USD",
     "jour_pct": -26.71,
     "mois_pct": -29.28,
-    "volume": 5205181,
-    "volume_relatif": 6.94,
+    "volume": 5206965,
+    "volume_relatif": 6.95,
     "capitalisation": 4758330450.749582,
     "per": 10.3,
     "bourse": "NASDAQ",
@@ -393,7 +393,7 @@
     "devise": "USD",
     "jour_pct": -24.88,
     "mois_pct": -23.61,
-    "volume": 1439982,
+    "volume": 1440392,
     "volume_relatif": 5.02,
     "capitalisation": 1034883349.7063909,
     "per": 32.3,
@@ -407,8 +407,8 @@
     "devise": "USD",
     "jour_pct": -24.68,
     "mois_pct": -57.95,
-    "volume": 511568,
-    "volume_relatif": 2.36,
+    "volume": 516143,
+    "volume_relatif": 2.38,
     "capitalisation": 287450736.20253164,
     "per": null,
     "bourse": "NASDAQ",
@@ -421,7 +421,7 @@
     "devise": "USD",
     "jour_pct": -22.06,
     "mois_pct": -11.21,
-    "volume": 345637,
+    "volume": 345749,
     "volume_relatif": 0.73,
     "capitalisation": 751388380.515464,
     "per": null,
@@ -435,7 +435,7 @@
     "devise": "USD",
     "jour_pct": -19.62,
     "mois_pct": -25.1,
-    "volume": 2529388,
+    "volume": 2534083,
     "volume_relatif": 3.77,
     "capitalisation": 616822233.6,
     "per": 2.2,
@@ -3093,7 +3093,7 @@
     "devise": "USD",
     "jour_pct": 4.28,
     "mois_pct": 213.41,
-    "volume": 166816,
+    "volume": 166821,
     "volume_relatif": 0.6,
     "capitalisation": 634692641.9609666,
     "per": null,
@@ -3121,7 +3121,7 @@
     "devise": "USD",
     "jour_pct": 1.89,
     "mois_pct": 81.06,
-    "volume": 1266989,
+    "volume": 1267069,
     "volume_relatif": 0.73,
     "capitalisation": 555173886.1066127,
     "per": null,
@@ -3149,7 +3149,7 @@
     "devise": "USD",
     "jour_pct": 1.02,
     "mois_pct": 75.44,
-    "volume": 260859,
+    "volume": 260869,
     "volume_relatif": 1.65,
     "capitalisation": 261882414.38529143,
     "per": null,
@@ -3163,7 +3163,7 @@
     "devise": "USD",
     "jour_pct": -2.76,
     "mois_pct": 75.28,
-    "volume": 5273032,
+    "volume": 5273082,
     "volume_relatif": 1.27,
     "capitalisation": 1829515271.3925297,
     "per": null,
@@ -3177,7 +3177,7 @@
     "devise": "USD",
     "jour_pct": -2.93,
     "mois_pct": 74.18,
-    "volume": 1687260,
+    "volume": 1687410,
     "volume_relatif": 0.61,
     "capitalisation": 1823011785.1892986,
     "per": null,
@@ -3205,7 +3205,7 @@
     "devise": "USD",
     "jour_pct": 1.18,
     "mois_pct": 69.31,
-    "volume": 9943331,
+    "volume": 9944236,
     "volume_relatif": 0.62,
     "capitalisation": 320294783.8224852,
     "per": null,
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.47,
-    "devise": "USD",
-    "jour_pct": -2.41,
-    "mois_pct": -16.56,
-    "volume": 654327,
-    "volume_relatif": 0.41,
-    "capitalisation": 3434356723816,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.59,
@@ -3399,14 +3385,28 @@
     "secteur": "Technology Services"
    },
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.47,
+    "devise": "USD",
+    "jour_pct": -2.41,
+    "mois_pct": -16.56,
+    "volume": 654330,
+    "volume_relatif": 0.41,
+    "capitalisation": 3434356723816,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOG",
     "nom": "Alphabet Inc. Class C",
     "prix": 271.02,
     "devise": "USD",
     "jour_pct": -2.93,
     "mois_pct": -20.22,
-    "volume": 28737722,
-    "volume_relatif": 1.26,
+    "volume": 29124125,
+    "volume_relatif": 1.28,
     "capitalisation": 3333736960202.766,
     "per": 14.1,
     "bourse": "NASDAQ",
@@ -3419,7 +3419,7 @@
     "devise": "USD",
     "jour_pct": -3.46,
     "mois_pct": -20.66,
-    "volume": 49131298,
+    "volume": 49187421,
     "volume_relatif": 1.44,
     "capitalisation": 3315435860061.148,
     "per": 14.2,
@@ -3447,7 +3447,7 @@
     "devise": "USD",
     "jour_pct": -1.2,
     "mois_pct": -4.12,
-    "volume": 6967974,
+    "volume": 6970683,
     "volume_relatif": 1.03,
     "capitalisation": 850379273807.4326,
     "per": 13.4,
@@ -3461,7 +3461,7 @@
     "devise": "USD",
     "jour_pct": -2.1,
     "mois_pct": -21.91,
-    "volume": 34979512,
+    "volume": 35038975,
     "volume_relatif": 0.96,
     "capitalisation": 781179868112.7578,
     "per": 9.3,
@@ -3475,7 +3475,7 @@
     "devise": "USD",
     "jour_pct": -2.67,
     "mois_pct": -13.38,
-    "volume": 24397903,
+    "volume": 24429540,
     "volume_relatif": 1.1,
     "capitalisation": 601810914783.2028,
     "per": 6.6,
@@ -3655,6 +3655,132 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade - CNBC",
+   "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxalpnNTZMZkt2dkc5Wm1RNS1xcUluSkV1RnlHZkVmekhUSWxpZTJrNTJCbFk3VU8zSGVIMWR5bWhrckJFcGNjbWJnNVJRc3luUHN3SVF2SDZhQXZSVGhjLXNYVWJvLXN6ZW9SNGUwOXZCVHdZ0gF6QVVfeXFMTUI2NFNpSkVPakFzckhmSE9MRHd3ZTU3RHNVa0FQTWlTbUZKUzBhTzctZGFrcGpmQlZfUnFYR2luY0tlbHBzZ0VHNmRzUmo5NXUtWXhURDd6WnlIcU5EdWxhbkJpQnBSUTlhQjdvR2Qtb0NSckpyZE9iaXc?oc=5",
+   "date": "Thu, 19 Nov 2026 23:22:53 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVh4Wm5XZk1VNWd4YmtfRFp3cW1iR0M2ZURsVWdjc3N5VzQwSlljV3dYdHRxYWFMVmRqay1JV0g0VEZtMElCeU5qdnA1YlVBMFNEMlJ2NTYxYWhJSmlXTUpUbTkyQlFvQzhSNkV1VXhQMV85Sk5NeDVQcks0ZnYxejhQdmhfREEwcVhBYkt1WTlnYzRW?oc=5",
+   "date": "Thu, 19 Nov 2026 22:10:02 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stock Market Today, Nov. 19: Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNblEzazRGRlVJc2IxRXQ3UVVwOFM3R3ZIX1BPZ1NrZ2J4cnBwMldEcTZXZm8wVjFRME1BbnlidTQ0SDlUcXpnTUZPNGkwQUVtbkNBMEl3TlBWNklUS3ZfQUh0cHpOQnF6YmM2M0Z2WnVLcW42M2EwTTdIMjZsdlVUOVladXFYV2ttd3dLSTZwWDRRUHU1R0VmZ1JzRmJnMUpxT3VRcWVvMmVMTHBVTzltT1ZQRG96cFdwbE9IcGE4alJ5bVh3MFJFTXJuU3ktMXpMWEJ5bU96dFpKM0JOcFBJOGJPdmZDc2xNMHFfX2hqajhWMGJnZWdPXzFtSGdCdUFFVTVzVUVNcGJnYVU3RkRXYVFVTEQyZE9oRVUwazhkX1Q2ZUFQSnNTNE1XeHFmSjdGRm1oTmdFbHl2VWVx?oc=5",
+   "date": "Thu, 19 Nov 2026 23:22:19 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Le dollar avance, toujours soutenu par la Fed... - Fortuneo",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0dsMTFQR24zeXlpYmdYRVA0ZkhRRWlMVldFNG41eE81cTc4VmphbmlCZWFZZ210eXlCNXRySmZ3WHgtS2hPbjhYalY5c0ZIMFlaUW84b0tCOTBRb2JZSnRLQ0MxdGpWREY2N2h0RHFJRHh3UkdGTldnTFJfTWl3Sm9EYksxZVFkMHlMQWNTX1l2eXpxMmZBZl9R0gGaAUFVX3lxTE5XR2wxMVBHbjN5eWliZ1hFUDRmSFFFaUxWV0U0bjV4TzVxNzhWamFuaUJlYVlnbXR5eUI1dHJKZndYeC1LaE9uOFhqVjlzRkgwWVpRbzhvS0I5MFFvYllKdEtDQzF0alZERjY3aHREcUlEeHdSR0ZOV2dMUl9NaXdKb0RiSzFlUWQweUxBY1NfWXZ5enEyZkFmX1E?oc=5",
+   "date": "Thu, 19 Nov 2026 19:31:00 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Ne vous opposez pas à la Fed alors que l'inflation continue d'exercer une pression sur les taux - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kTThOdHJGcnZ4YVJiMmJXd294RXhMbmc0NDdaOE9VS3NrMWd2cEo1X1pjYTV2MGJKSUk3NFlPQXpmLUcyUzRlNnFjNWtBY2VwZ1B3YmdrdEdQd0hJSHhNcW1CaVZsaEtYSGxTUEpGTTlWdVMxUURmTA?oc=5",
+   "date": "Thu, 19 Nov 2026 18:39:23 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed - The New York Times",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUVRIQ2VxbEYxSjhPenZGVUItLXdSQzJhMzdMQjVSaDB2aXlsMUdhVk44aTRRZzY1bllnTGJRdmVXLVZsaG5KZW5EclNCUjNHT0FiRDEtZ2Nqb05BaG9Nc2hvR0xneFpWUzNJNk5CQ3IyU1ZMTGMwMWNWM3RsNGlLenpaS1Z4ZUkwYk5yVl9ialFDRzk1?oc=5",
+   "date": "Thu, 19 Nov 2026 22:29:09 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "California subpoenas Nvidia as questions about CEO affair, AI chips mount - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRE83Skw0eUhuWjU4Q3hPMmNUb0JENWpsLWlReEpPYURSTmpISU5fMlpjTE50YUNFVWlyTVdwb0R5RFU5dUw4UmRSQjNpa1AtaFNNbHZJUUxHaFB5TkhPUkdiVTdXOEd6X2hSRzhwNm1SSmdlTC1YT2NRSjdIQ2hWb0VlUG5OcmNMUWNWOG1Jd3UyUUhkSWRlQmY2VE91UHU2Xzd0V0dYSTk?oc=5",
+   "date": "Thu, 19 Nov 2026 23:04:44 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Introductions en bourse",
+   "titre": "Anthropic IPO: record $81bn raised, priced at $83 a share - DNE Africa",
+   "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FOGhBVmtoOEMydWtSU3ppTVNxbEwyb1RiUGZRdUJkZzhiX0NtTl80XzVJcG1xNThsMmtRLU1wbC14Z3FzOWpkQmliTEI0MFh2V2dDSEtsNzZLNG16Y3VpX05xNXBVZUk1d3AwdDZn?oc=5",
+   "date": "Thu, 19 Nov 2026 20:28:00 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "EQT Agrees to Acquire Pickles; Deal Terms Undisclosed - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEhPbXNkUjJ5Y3drNDZoRkZvSkI4dkFGMl9xeWtJQVR4X3BoZkRSM01OdlhwNTNiNXZhY1QxNzd0ajJ2Q25SWlZ1ek5hejJTbWtVUXdCQWFhTmd1c3NTY0RJQnVScndvb3d2eTlOaXlBb2hJZG5DM05xTXN2b1hiVDQ2Wm53SzdiSDJNRlBIV1NqQzNWblhkTExDd0RDc0QyT0V2YW1la3ptVVJHSFlGUmRlS0s?oc=5",
+   "date": "Thu, 19 Nov 2026 22:56:00 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Why Did Deal News Not Protect UniFirst (NYSE:UNF), Maximus (NYSE:MMS), newcleo (NASDAQ:NWCL) and Pershing Square (NYSE:PS) From 5.51% to 7.67% Drops? - kalkine.com",
+   "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQY21McUVJeVVpdUxXbE5OaTZLVUdET0hPQktTZUpmbS1EMTh0M0h2akxKcURGRjRfaGl6akxyWXdQcjVVaDF6QVJVWFRLdkZ5NG5pd2d1ODAzaGR3UUNUY2g4UUFKa0NkZFRQTW8zVlBqWXhwTy1KcHZJZ1V4bG5NUUZhanlrVTEtVExCaUphNE9KQ3UtWWFpSEhsWFBDUzNRc2xkM0FhNGFnOHBuMEhNM1BGZ3dJVWU1TjBBZEVKQlFZOWhWUlBZMW5iUHBZaUs1azN1S19XMkd5RE94b1JseEtuVEc4UXJhX0stMFk0ZTNlVERIQ014MVlYclgwaUI2UklVRDhTdS12anVmNjNPUHRNdmtlcGVF?oc=5",
+   "date": "Thu, 19 Nov 2026 18:04:00 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "BSX: Boston Scientific sets senior notes offering to fund Penumbra deal - Quantisnow",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSHZDX083UjBRUWxjTzdvNTBNSm1mOXJUbjFoNmliakNZRFlKSnB4cGFFcVZidWZVR0ZJcFA5czdiMnN4WFlXUHlnb1N6dWZId3FndGFCMlo3SDVMaElHM3RRN2FwVWhIRllMbF9lMktDRzFsUTlTQmNlQTFtMHhvMnJ1Wm4zRWhQMEVvSFZXOGNwOWlwZzl3?oc=5",
+   "date": "Thu, 19 Nov 2026 13:50:11 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Bell considering its own Telus proposal, held preliminary talks - MobileSyrup",
+   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcU9MTUYzVGFzTFVmQlJfc3ExUlM4b0pRZktyUVJObG14OWl4TWFCOERNR1E5eTMtaHZ5Y1RhV1dyck5aU29lWXNodjQ1RG5RZEV3UVRZeXVzdGVHNUtTOEUwOGJvM1cwTUthTE5GbEx0WXNfNEpRNW9OVHlDaDl6Q19TRWw2OElRQXJIUVdn?oc=5",
+   "date": "Thu, 19 Nov 2026 16:58:28 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Palo Alto Networks Q3 CY2026 deep dive: AI-driven security demand and Applied Compute acquisition reshape strategy - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONWlGNUZlQXJDRnNDWkVfSXdpdkNpYkphQm1zVWhMSnM4cFhfYU5seXc3VE9qalZXQnpjd29HdEw1ZzlHV1J0SUJhYWZlcDhGeHpmX3hZY20xWWZkNHVRNDdTblktX1M0NktCdjZCLW5VVFBYYnROb2wxZWJLX1EtVGstT0s2X0NjeGR6RThGWVY3WWlOcWlpRGtWdHpCRlB1MDVkZWhtNEI4cTI4YWZ1Ync3Uld2R3V0bnZ2NGdibE1PWmpEUktEN0h5RjVwNDFDX2xMeGgxUTZsQVF3UDk0Nm16TVhVdEcwRGVrdFZRdzNpaXAyb1RzekJtT0dOZHpwZWllUA?oc=5",
+   "date": "Thu, 19 Nov 2026 05:30:44 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "FY2026 Q3 Earnings Review: Apple’s Safe-Haven Premium Fades as Guidance Slows Despite Hardware Beat - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aZzl3ck1BYnFqU1FVakFWeXpud3paaHNsRVNaM3QxWnhYMDF0bTd6N1F2eTdTSUdHbnJROXBVR2FmSUFVcFZxdi1tbWJpdlN4dU5NQ3UzX0ZCVk5HY1ptQUFwOWVPa1RnYXVnTDFfUkFpZw?oc=5",
+   "date": "Thu, 19 Nov 2026 08:43:11 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "UK's FTSE 100 slips to six-week low as defensive stocks drag - Euronext Markets: Real-time Stock Market Data | live",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTVKUGNjaEY3dmpXOHZDWHVKTVI3T3FhN19UUHFCR1c2MWEtRUp3RUlqdzc0X3NTR2lWUDRDR3dBRVhYbTBGenFyVTJFWk1rellGRE1oSjQwR0VzNnl4ZlBoME9yZlJ0N3dvU3g0UUU4Z0RzX3E2OG1GVTg1Tm0wQ3o2WkNxdHpGREhnRFN5SHdfTXFNbmR1a0NJSHdDZw?oc=5",
+   "date": "Thu, 19 Nov 2026 11:35:48 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "HAL, BEL to Lead Spending Gains as L&T, BEML and Bharat Forge Emerge as Potential Beneficiaries of 20% Defence Capex Hike - Kotak Neo",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3hXWlJ0d21odlZKeTliZWFScDgwTEJBa2d6VTVRcURoS1ZPM2tReHJnR19rOGlWTHJ6dklka01WU2Qtcy1vcHUtc2hjV3FDNzM4T3lTeFFyZ3A4Q2JrSi02RGh6SV95Q21WeFY5MGRPdUIyUmxZYlktbFEyS0RpRmdpdWp1WGJlMVItLURZLU9FNVJ6OVE?oc=5",
+   "date": "Thu, 19 Nov 2026 15:13:47 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 19, 2026 at 7pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVnBIcjB4OFByaWhkSXRoN09jOUliVmxFMlJld0wyaUtOdEMtRURRMk93YnB4alNjVGlQTUZIREp6RXhQby0zUHpWMVFOaGxQWUZWV0UtMmgyQjNwSkJrLTc0cnJiZTRXNDNlcjRmaWlNbmNaTmFEZ0xZajZfZUVsVTZtV0x6STFyd2dfd05iR043anRiQ21ZakItQjJkNjE1SS1Jb1IzWTVwaUllVFE?oc=5",
+   "date": "Thu, 19 Nov 2026 23:22:46 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Gold and Bitcoin Are Falling. Peter Schiff Sees Opportunities for Both - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUYxT3RUQXV4eHl2dTZnY2NfcjAxQ3VCZWhTYkMyWFF1M19CeU9ubHVZcHZuUVNnN3E2dWxheU9Hb2RUMDRiTlRLbHJxWmpUSlBNX082anRPV1hob09kbmlTamIwa3dzd3F0dWZkejBDcHdMY0dQcXZ1aWh3NGxNWEFXNm1pMGNWa281MUJfTUpPTHN1c09VNEU5eUd2TWptMUJnMXJn?oc=5",
+   "date": "Thu, 19 Nov 2026 23:30:00 GMT",
+   "vu_le": "2026-11-19T23:42:47.785400+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic’s IPO Was a Success, but You Don’t Need to Chase the Stock - Barron's",
@@ -6327,132 +6453,6 @@
    "titre": "Subsea 7 shares jump over 5% as Q3 results lift 2026 revenue outlook - Investing.com",
    "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ0N0aGh6VnE2MUNkbTA5TFRUN3lEb09Ya3YyemViSlhDVWNfcWJpa2JRd0h1UDFyT1NfMXZXakdSdlpOdENXOHZPQ2V0ZndONzhOZFc5elM2akFEVUlNZVpoVmtIZUI4TVRnQ3c3OUtQbmFoQ0lldU1fY2JRT2VGaVpmXzN5MzFFZURnTGptdUQxcUNPRWxJNEw0bFVvMGhhdXNrTG1xUkdwbmxvZ1dEZXp5ZGxaMWNfMUlnMUl2ZndhRGM3WlJ6Uk94T2U?oc=5",
    "date": "Thu, 19 Nov 2026 11:51:48 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Bath & Body Works (NYSE:BBWI) Issues FY 2026 Earnings Guidance - MarketBeat",
-   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFpwdjdSWTlkX2tWSHlJX0RhM1Azc0tNSDF3c1c0dUJGcGd1RFpTS0dTams1a3h5Y1YtRlVhOGZwNzJhSDBxSkNlN1R6bHJsNHFEd2o0R2R0TXJOY3BaZ2EzNlFSMjdPUlZaNWVmWlJ5RjItdVAtRFB4bmNiVWN1V05IaVlTTGJKUG15eWZ0Zy1taGlrdHVSV09WdFE3cUowbHdTZDMtWVUyUVBha0RhUEtnaGRIVkV1SExmZXB3?oc=5",
-   "date": "Thu, 19 Nov 2026 12:58:45 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "【US Pre-Market】Nvidia Earnings Boost AI Stocks as Anthropic IPO Pricing and Fed Minutes Loom; Gold Falls Below $3,800 - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNHFMcnE4c2NVOVNWUWVpR1hKRGl4eVRLNnJ3NUdaS2dhVW1YQlE5ZTdmenNraWxlVDhfejlSM09lODMxTk02TmVtWTJfeTRKTHk1dTB1NlFPUFJ5SmNHS2sxWkF0c2xQbGZpbjJvTngxOFdEMVNfR3R5SGVqWFZRX3RPb25nM2VKN0RQVWNKVlByUEhha3VETGlBc2NPOW12M0VCSg?oc=5",
-   "date": "Wed, 18 Nov 2026 18:28:35 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "We Think Semperit Holding's (VIE:SEM) Robust Earnings Are Conservative - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWRzMEZvaGpxd242X0lyVE1aTGxvVzV6eHV4YnpzNXhlUkp2aENLMTFXQUwzWjFVdG1pdEhjVVBQRzRMamQ3cEpYeVdYczZtYnFKTmQxX3RuZEZicGJXc3BobHNkSnBKbUFpZUFLa2xPYlBxcmk1SEUxOXljcXh2TXplRF83UDFlblhpWlZkQ203enRLNG5EOFJ0NkVMVF9jRHBnQVhleFRQOW5TYmVrY3RFeXZ4Y044aVAzSjdxTFh3a1dmMzVSMkwzcGdqTjRfQ3pnVHFuWTczRFHSAeABQVVfeXFMUGlVNzJlUFFGbHNxRFlicmM0Q2I5Q2J3YjVvTlp6T2s4bXNvRGd0VW5KRW43RUF6UU9raWZDTUY0S3ZsTVNnV2EwYm9nUHUxSDdsVXZLVllPQWlWa2ZnTlpSaWViSVZzaDVYZ0lXXzFPdnlCbmUwdVJhNS1TQ0oyLVlmX2NEY3VDVDdyczNMTTRCUy00ZlNuNGhJR0xmbUp5VmdhaE5EbUFSVTE4dDF6alA1R0J0NHpPMmNDM3dfdG9rQU9WZ0IyVXpfSU44a1RzUlhDeDB6djA4Z2lDcm4wdUQ?oc=5",
-   "date": "Thu, 19 Nov 2026 13:00:19 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Subsea 7 Q3 profit more than doubles as company raises 2026 revenue outlook - Investing.com UK",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWjRkcVBlYWM1a2lTb1NTZk42TS1hZDRHcXF3R19wY05MdmR0VG1rb2x5QmZrcGZ4T1g4UFRXRXBvMDBsR0VZVjVfcUlyWjNYdmpVZm96SWJnYldrdE16SDFsbG1JaWVaeV94NVdmM0J0bXY1OEJxaEpWMy1sSllObHVjNXF6dVFzUUNqTWhYN295NzdDQ05OaVVyelJtWmhzUXlaS3pHdVdoVGdaR3VpUnlVcE9OOVpBM1VNMTRFdEl2YlZ1cDZzamZjMA?oc=5",
-   "date": "Thu, 19 Nov 2026 07:28:00 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Valvoline (NYSE:VVV) Announces FY 2027 Earnings Guidance - MarketBeat",
-   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHg4bXNRdUlFOURrTzdpX0lNODdweml1Q3Z2Q2hqUHFIcU5yY3pZMW5iRVRpZW9xYnRtZmFRdzR3ZHhkdnlFV3Rrcy1RaElqTzl5OGJKVnh1S2Vrdko0Z0JaR29LTm9tdFAzNi1hUFR6dEtZVG9xZTNDazRhVU5scFBQR3R2WE5kek1uN0wyNVNBUXlHeDR0bXlFUFViLWtEcmVoQlZqUWtjdXIwLVRsZVdsajh5NEdu?oc=5",
-   "date": "Thu, 19 Nov 2026 12:58:44 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "SentinelOne (S) Stock Could Be 18% Undervalued After AI SOC Recognition - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnpyYXFWZWpMUl9FcWpxMS1mVVlFSXlXNFNfMGFVaWhZbnBpYXBQQ1RxZFRsek1xZXZyd25pcFhDbTVITHl0UHNrVEF3NEY3eTQzUmtNYVVVVnExSk9hWllYNWkyVlZxa2JjVl9lQUpOaTB2SGNfdnlUWGFZMzJuVXhvN2FITE9Vb3lubnpHcnhGUTNNZWhPZVF3OTROcEx6Y29QWkdn?oc=5",
-   "date": "Thu, 19 Nov 2026 11:12:13 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Buried Treasures: 6 Strong, Undervalued High-Yield REITs - Seeking Alpha",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRHYxbG5LSVVXSDMzb012TW5oUUU1WmZPQ3ZQWTFVUUMzeEtocmpRclpWdXVEalVvb2FNVlVJbUpaTndyU0FuclJyS0NKNXhaNWxUQ1lmU2lyZGxZVmxMOHVFZ2ZIZ0VyQVVrUTdYSXh6SU5XUXpjd3AwRFZVRTRYTmlhQkFaTXNCQTQtcHY5ajJ5bEZJcEhlX0R6OA?oc=5",
-   "date": "Thu, 19 Nov 2026 13:00:00 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "3 Undervalued Stocks With Revenue Growth Up To 44% - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU0lpUVN0V2lfT25RTDlsLTNNdTI4WUlpREJjMnJndzFyblBNd19pVmd1S29NWEVlaGl6M3NDaFNOMjlRa245OUxvX3FzZGViTzU4UU8wajFYV214UWo3bU9Zcng1bTNlQWNFQklTMVdVVDV4SlpPZDJhWkNkbjZoQkFxdUFlUWtsU094WHdPNTJtcEVObXBoRUJnLWN2azFPZlE?oc=5",
-   "date": "Thu, 19 Nov 2026 07:11:00 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Is UnitedHealth Group (UNH) Undervalued Following The CMS CRUSH Proposal? - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT1ZIcWhnR2hGOXJNSWM0NTQtVGtQSXlvNmpmNVlRWEJDbHFlQXNyR3UyZ3h6QlEwa2Q2V3MzcEF3dnQtSGVSWDFIWmFxa0hzUkJfMjM3UjItd2EyYW9CbVp0bXpuQzNHMkR6MmVzcWMteGpzV2l1OFVUcV8yUHA1UFVSSVE3bW9JeU9OdDFNQVk2WGVrbmhRNmJRODZxel9kemlEcWtockttMWl0ZTNiX2tLdFlvVlAxRHVKNUxaRW9heEpsQUp1T0t0LTh6NUVIT2fSAdcBQVVfeXFMUHdDWkdvazZoM3h0UG55YVIwWjNmelVJZ0EwYlBEWGZ6VHdPSjM2ZncxUk5Mb1BEc3JSX3V1WHkyV0x3dEFfMUVrNFdPeGtlWUNRbWctX1pMTFMwZUlzX01IU3dKMndlanJDcWJBeGRWczdxUWhPeTBIVGQzbEdjbHZoanl4QldpQ0FxZnVOSVhaNlFNZGtyZGlpRXIzYXlsWDlnZ3hxdC1ESWYyYk1VOUpDbmdnbTFudk9xOW91Mlg2RUhJWGF0RjBMeVNZNzA0eUNqaHVtQU0?oc=5",
-   "date": "Thu, 19 Nov 2026 12:13:18 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "3 Undervalued Stocks With P E Under 5 - Yahoo Finance Singapore",
-   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oWF9FZzdXRHZCdDdDeFcyUWc4VnBKYTNnMzNmSzFOR0wwTjFxNFdzbWQ2OXF6NnpycWotWVdtNTdDVGs4Rkpla2NJVjdjeG5aUXJQSVRVdk9RS3p4bjVHQV9VYjczUlRzZHMwNm5OcFI4N0tUT3RZeng2VVN1dw?oc=5",
-   "date": "Thu, 19 Nov 2026 11:09:59 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Can AI Marketing Fix Lead Growth at Rollins (ROL)? - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3FJUGttbmg3aUNhRDI3NkhreHA0WVdXeE9mek5xQzFLWHF2RUsyWEUzQW9XUUM2WnhmN0VXcDZyeVB2ZVlWem1JRGpLUUE2SEE5VHV1NzBUTlFSZXR0Y1JZT2JyMWpJQ2VqYzhYaldxUmplQTZBMjhGZ3F1REFGRmxHYUptN2lyLVRsVzlyZUFLRFotNGpJLTFGN0J3SFliQWR1RW04cTBjb0NLS3ViR0s3cEFhMnJlRW1jVEh30gHDAUFVX3lxTE1mS3E4X3h5Y0czdmNXWnRIVURyd3NieVRVTktFWkRCUVk3cElyU2tBRkoxOVN5T2JFOWNFQXNFRXRwd3lZMWNNTDNwbURNTzktUWhJYV9oUGJCT2MxRDNyUE9vdWtDOW5hZFRXcnV4QW1nRWd0bnAwcGI5cDRlTnhaZ18ycUpXZW5ndGx1N1dkbDdWOGF5clNQUWVUSW85dGJMaDEtU3o3RDBSSEUyS1g3VGZyWU15Y1JZbW1TeDV6M0NNSQ?oc=5",
-   "date": "Thu, 19 Nov 2026 07:17:06 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "At CHF119, Is Autoneum Holding AG (VTX:AUTN) Worth Looking At Closely? - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVmpwOUoxM1EtSWQ1cmRtSF95WnQxME1KS0pCS2JHV19mUHo2aUlSbndYZ2hYMjctbEotSmU0dnFMVXo1NWpvaEV3ZnpXYnY4Y0hwX3lVUnQ0bnB6MVlLcV9HRi1lLW5qNVlMbDFGTG1LWUdzNjVVS3RSZ1RiOVd4dWY1VjZPbkcxUHRmaERWejRTQXFFdm82enlzc18zay1nM0Y1QUNDTVZfUF9jV3dSOTRVMDV6Zk1pOV9ITlNqOWpLR2t2S2RXTVctOVVvMkpFUUg1enFBODVhUdIB3wFBVV95cUxOdDVYRGZjdG4yaHU2cFBWNDhQZDV6aTM2X3BoemNWLUVwdmxZZmlwT29uMnF0OUNIYXlYcFNqbVpOUTY2ZFNNQ3VHSzh6MWJya290VkR0cjNvQUpiVkk4Qm5XQVUxTFZNcTBlTlVGdW8zRGVKcm9Obno3Ui1yNjFhQk5MU3pHVU05RTFvRC10SU9UdkZtdVBHRC0tWUw0TVpmWXFCaEdyQzBoelVqRUJsSW8tN1BZVjh1eUpHRktjN19YYnpfVHNWOGRiQThiaEpDOUNUUWV2U3JlV0JvR2JJ?oc=5",
-   "date": "Thu, 19 Nov 2026 04:25:40 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "What Happens To Cloudflare Stock If Revenue Growth Slows? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWE1iaEZRdTlqR3JpeWdCdU52U0NrcUlvRGFaLXpQbDYwS0FCTXVPeUJObXhGeTlSVlJaenJqM1M4T0pvNmVpNngwcnN1T0FQWEVDQTJWcEh6bUhTU2xLdU1jM3JQNE80MF9JSnByZEpPaXlqNWRHczZicEVNanVidEY1cUsxLXNNUEF1ZTNfWE1TMlNLNmV0MkNQaXQyODRkU0JkSjYwZw?oc=5",
-   "date": "Thu, 19 Nov 2026 12:03:57 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Wayfair (W) Could Be 26% Undervalued Following Its Logistics Driven Growth Narrative - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnRnRncwYkRHSjBFdTNNb191U1pzV1RWRDVjaG41ZXF0VmF3MWE0OG1UWjQ2b1NEVVU1bWstSnAyalFhYk5yX3NFZkNtUHRDVHNQV1Z6VDV3N1lKa0N2bUpiSWtySHo0SWxhZ09SeEJ3ZjRjM1JVcW1kOGtpa1ZxUGREVlBjSHFtMUh2ZmZ6d3N5RDR6Z2NuV0ZUVQ?oc=5",
-   "date": "Thu, 19 Nov 2026 06:10:00 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Can PPL (PPL) Justify Its Price With Earnings Today? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS1dtVHl3c2NjUlplQ0w1THZLT0RDdThPZlZRNlFfVU5LN3N2aDgwbk04dWJCODFkRXc5eFpHMTBfOWoxZ25wMHNDRUo5Q1VVMmpWMkNKZWZTMy1HbDJIRThNdTNpdk5Rbmt0Wm8xRC1GdDJIci16dGlkeldHS1NMMTJVNTZhNzJPQ29fdkZBcWVIa2VkbHk0aTlIRQ?oc=5",
-   "date": "Wed, 18 Nov 2026 17:11:07 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Autos, financials power India market rally, defying broader Asia decline - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdEVzVmR2T2hYV1NfZzBnVFp4U0JicFZway1OSzI5bWRpYld6SDZOWGhjUjI5MkVELWo3QlV2UDhxLUFLWWpVYjJPNzR1d002c3p2dER3MnBqZGd2U2ktSlgzUGNqdnk2Y25VbU1IUzBvejNJMU9PRVBoekZuVU96dWc5QXBhV1I0YmQ1ZV9SM1FqUmNva3J2Njk1LTE4SXZqcHVUSA?oc=5",
-   "date": "Thu, 19 Nov 2026 10:17:55 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Emerging Market Stocks Slid As AI Jitters Hit Asia - Finimize",
-   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTC1wbzRrWnBXcmpHa3N4SGFqbFJfMEtWTUtabGNucXdrU3J2THlQbklTYi13SXdFVXhaQlpKZWlXQlN3QjlGSUJGcHFwYnVPajVoOVNaQ1NpbU9sc2VlNWpkY0N5MEZmbUVqdVQ4UjRFVE9ZSWJ4UWdnRXFLcm5BeXRlcnJKQQ?oc=5",
-   "date": "Thu, 19 Nov 2026 11:47:41 GMT",
-   "vu_le": "2026-11-19T13:30:01.914201+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Lazard Emerging Markets Equity Portfolio Q3 2026 Commentary (LZEMX) - Seeking Alpha",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGxDT3RieUU2TV90cFFCazQ3bG40QWgtTml1Z040TEFRcjBYUUZ3QUVYN2MyWlpEQURCTVpyNWVvOVNmTjA3X3RWcFIxclVfMExZelFRZEhRankwNERFWnktLXVyUHNVRlFyUUFJc2tkMWxndlRXR3RXWDZ5TDdjNUJTd2JORTczc3ZpZW5qMUNMUTBBRVNpOXJuYUJNcDBiNlE?oc=5",
-   "date": "Thu, 19 Nov 2026 05:40:00 GMT",
    "vu_le": "2026-11-19T13:30:01.914201+00:00"
   }
  ],

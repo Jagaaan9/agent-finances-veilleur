@@ -11,29 +11,29 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22841.63 HKD, jour -1.95 %, mois -4.79 %
 - SSE Composite Index (SSE:000001) : 3577.6174 , jour -0.28 %, mois -3.79 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.43 USD, jour 15.8 %, mois 54.34 %
-- Gold (TVC:GOLD) : 3630.781 USD, jour 0.13 %, mois -11.97 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09695 USD, jour 0.02 %, mois -2.38 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56572.35 EUR, jour -1.6 %, mois -22.49 %
+- Gold (TVC:GOLD) : 3596.92 USD, jour -0.8 %, mois -12.79 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09683 USD, jour 0.01 %, mois -2.39 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56380.08 EUR, jour -1.94 %, mois -22.75 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 5.05 , jour -0.39 %, mois -1.79 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - Energy World Corporation Ltd (OTC:EWCLF, secteur Utilities) jour 142.33 %, mois -16.72 %, prix 0.0727 USD, capi 280141433.42692304, PER None, volume x12.24 la normale
-- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 29.52 %, mois -39.46 %, prix 1.12 USD, capi 329054092.3747, PER None, volume x0.64 la normale
-- Deep Fission, Inc. (NASDAQ:FISN, secteur Producer Manufacturing) jour 25.83 %, mois -5.8 %, prix 3.41 USD, capi 200881710.8339483, PER None, volume x0.92 la normale
+- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 29.52 %, mois -39.46 %, prix 1.12 USD, capi 329054092.3747, PER None, volume x0.65 la normale
+- Deep Fission, Inc. (NASDAQ:FISN, secteur Producer Manufacturing) jour 25.83 %, mois -5.8 %, prix 3.41 USD, capi 200881710.8339483, PER None, volume x0.93 la normale
 - New World Development Co Ltd Sponsored ADR (OTC:NDVLY, secteur Finance) jour 25.04 %, mois -35.41 %, prix 0.1618 USD, capi 777623316.4842801, PER None, volume x137.9 la normale
 - Insmed Incorporated (NASDAQ:INSM, secteur Health Technology) jour 20.58 %, mois 51.36 %, prix 144.46 USD, capi 31691680398.955765, PER None, volume x6.0 la normale
 - Pyxis Oncology, Inc. (NASDAQ:PYXS, secteur Health Technology) jour 19.15 %, mois -4.55 %, prix 1.68 USD, capi 200941181.44680852, PER None, volume x2.17 la normale
-- Terra Innovatum Global N.V. (NASDAQ:NKLR, secteur Producer Manufacturing) jour 18.62 %, mois -5.91 %, prix 2.23 USD, capi 246417023.606383, PER 0.4, volume x2.97 la normale
+- Terra Innovatum Global N.V. (NASDAQ:NKLR, secteur Producer Manufacturing) jour 18.62 %, mois -5.91 %, prix 2.23 USD, capi 246417023.606383, PER 0.4, volume x2.99 la normale
 - Kornit Digital Ltd. (NASDAQ:KRNT, secteur Process Industries) jour 15.51 %, mois -15.28 %, prix 14.75 USD, capi 633756394.7729052, PER None, volume x3.4 la normale
-- Opendoor Technologies Inc (NASDAQ:OPEN, secteur Finance) jour 14.96 %, mois -27.36 %, prix 1.46 USD, capi 1358148850.3307085, PER None, volume x1.61 la normale
+- Opendoor Technologies Inc (NASDAQ:OPEN, secteur Finance) jour 14.96 %, mois -27.36 %, prix 1.46 USD, capi 1358148850.3307085, PER None, volume x1.62 la normale
 - TELUS Corporation (NYSE:TU, secteur Communications) jour 13.35 %, mois 28.79 %, prix 10.78 USD, capi 17161760143.944239, PER None, volume x2.11 la normale
 
 ÉCRAN États-Unis : plus fortes baisses :
 - China Rare Earth Holdings Limited (OTC:CREQF, secteur Non-Energy Minerals) jour -99.4 %, mois -40.0 %, prix 0.0003 USD, capi 248891410.42426002, PER None, volume x11.65 la normale
 - Seabridge Gold Inc (NYSE:SA, secteur Non-Energy Minerals) jour -29.32 %, mois -29.48 %, prix 18.06 USD, capi 1948154125.3526196, PER 38.7, volume x7.37 la normale
-- StoneX Group Inc. (NASDAQ:SNEX, secteur Finance) jour -26.71 %, mois -29.28 %, prix 39.45 USD, capi 4758330450.749582, PER 10.3, volume x6.94 la normale
+- StoneX Group Inc. (NASDAQ:SNEX, secteur Finance) jour -26.71 %, mois -29.28 %, prix 39.45 USD, capi 4758330450.749582, PER 10.3, volume x6.95 la normale
 - Liquidity Services, Inc. (NASDAQ:LQDT, secteur Retail Trade) jour -24.88 %, mois -23.61 %, prix 33.03 USD, capi 1034883349.7063909, PER 32.3, volume x5.02 la normale
-- BOXABL, Inc. (NASDAQ:BXBL, secteur Consumer Durables) jour -24.68 %, mois -57.95 %, prix 1.19 USD, capi 287450736.20253164, PER None, volume x2.36 la normale
+- BOXABL, Inc. (NASDAQ:BXBL, secteur Consumer Durables) jour -24.68 %, mois -57.95 %, prix 1.19 USD, capi 287450736.20253164, PER None, volume x2.38 la normale
 - BUUU Group Limited Class A (NASDAQ:BUUU, secteur Commercial Services) jour -22.06 %, mois -11.21 %, prix 3.78 USD, capi 751388380.515464, PER None, volume x0.73 la normale
 - Fundrise Innovation Fund, LLC (NYSE:VCX, secteur Miscellaneous) jour -19.62 %, mois -25.1 %, prix 17.49 USD, capi 616822233.6, PER 2.2, volume x3.77 la normale
 - AlTi Global, Inc. Class A (NASDAQ:ALTI, secteur Finance) jour -19.35 %, mois -39.27 %, prix 1.5 USD, capi 233915145.9677419, PER None, volume x0.42 la normale
@@ -286,9 +286,9 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour 0.28 %, mois 26.0 %, prix 8.883 EUR, capi 8888634560.855991, PER 11.1, volume x0.33 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -2.41 %, mois -16.56 %, prix 40.47 USD, capi 3434356723816, PER 2.1, volume x0.41 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.05 %, mois -16.38 %, prix 40.59 USD, capi 3434356723816, PER 2.1, volume x0.83 la normale
-- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.93 %, mois -20.22 %, prix 271.02 USD, capi 3333736960202.766, PER 14.1, volume x1.26 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -2.41 %, mois -16.56 %, prix 40.47 USD, capi 3434356723816, PER 2.1, volume x0.41 la normale
+- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.93 %, mois -20.22 %, prix 271.02 USD, capi 3333736960202.766, PER 14.1, volume x1.28 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -3.46 %, mois -20.66 %, prix 272.66 USD, capi 3315435860061.148, PER 14.2, volume x1.44 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -2.33 %, mois -2.82 %, prix 48.59 USD, capi 1575615873327, PER 1.7, volume x3.49 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -1.2 %, mois -4.12 %, prix 320.22 USD, capi 850379273807.4326, PER 13.4, volume x1.03 la normale
@@ -310,6 +310,24 @@ POSITIONS ET INDICES :
 - Technip Energies NV (EURONEXT:TE, secteur Industrial Services) jour -0.12 %, mois 9.87 %, prix 33.84 EUR, capi 5932990661, PER 22.2, volume x0.8 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade - CNBC
+- [Marchés mondiaux] Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses - Yahoo Finance
+- [Marchés mondiaux] Stock Market Today, Nov. 19: Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake - The Globe and Mail
+- [Banques centrales et taux] Le dollar avance, toujours soutenu par la Fed... - Fortuneo
+- [Banques centrales et taux] Ne vous opposez pas à la Fed alors que l'inflation continue d'exercer une pression sur les taux - TradingView
+- [Intelligence artificielle] Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed - The New York Times
+- [Intelligence artificielle] California subpoenas Nvidia as questions about CEO affair, AI chips mount - Yahoo Finance
+- [Introductions en bourse] Anthropic IPO: record $81bn raised, priced at $83 a share - DNE Africa
+- [Rachats et fusions] EQT Agrees to Acquire Pickles; Deal Terms Undisclosed - TradingView
+- [Rachats et fusions] Why Did Deal News Not Protect UniFirst (NYSE:UNF), Maximus (NYSE:MMS), newcleo (NASDAQ:NWCL) and Pershing Square (NYSE:PS) From 5.51% to 7.67% Drops? - kalkine.com
+- [Rachats et fusions] BSX: Boston Scientific sets senior notes offering to fund Penumbra deal - Quantisnow
+- [Rachats et fusions] Bell considering its own Telus proposal, held preliminary talks - MobileSyrup
+- [Résultats d'entreprises] Palo Alto Networks Q3 CY2026 deep dive: AI-driven security demand and Applied Compute acquisition reshape strategy - TradingView
+- [Résultats d'entreprises] FY2026 Q3 Earnings Review: Apple’s Safe-Haven Premium Fades as Guidance Slows Despite Hardware Beat - TradingKey
+- [Défense, énergie, matières premières] UK's FTSE 100 slips to six-week low as defensive stocks drag - Euronext Markets: Real-time Stock Market Data | live
+- [Défense, énergie, matières premières] HAL, BEL to Lead Spending Gains as L&T, BEML and Bharat Forge Emerge as Potential Beneficiaries of 20% Defence Capex Hike - Kotak Neo
+- [Crypto] SOL price on Nov 19, 2026 at 7pm EST Crypto Prediction Market - Robinhood
+- [Crypto] Gold and Bitcoin Are Falling. Peter Schiff Sees Opportunities for Both - Yahoo Finance
 - [Anthropic] Anthropic’s IPO Was a Success, but You Don’t Need to Chase the Stock - Barron's
 - [Anthropic] Anthropic’s Value Surges After Multibillion-Dollar I.P.O. - The New York Times
 - [Anthropic] Anthropic was supposed to save the AI trade. What went wrong? - CNBC
@@ -439,23 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] Anthropic : « La forte demande pour l'introduction en Bourse est un rappel bienvenu que le thème de l'IA est toujours bien vivant - Investir Les Echos
 - [Anthropic (FR)] Anthropic s'apprête à faire une entrée en Bourse historique après une introduction en Bourse record de 81 mill - Boursorama
 - [Anthropic (FR)] 72 millions de dollars par salarié en moyenne: l'introduction en Bourse d'Anthropic fait exploser les fortunes (dont celle de l'acteur Ashton Kutcher) - BFM
-- [Anthropic (FR)] Plus de 4.000 salariés nouveaux millionnaires : qui sont les petits et grands gagnants de l'introduction en Bourse d'Anthropic - Les Echos
-- [Anthropic (FR)] Anthropic s'envole lors de son entrée en bourse historique après une introduction en bourse record de 81 milli - Boursorama
-- [Anthropic (FR)] Introduction en Bourse d'Anthropic : l'action s'envole de plus de 30% pour ses premières cotations au Nasdaq - Investir Les Echos
-- [Anthropic (FR)] Introduction en bourse d'Anthropic : zoom sur la croissance fulgurante et la spirale des coûts de ce leader de - Boursorama
-- [Anthropic (FR)] Anthropic : comment la start-up californienne, qui entre en Bourse aujourd’hui, a détrôné OpenAI - Le Monde.fr
-- [Marchés mondiaux] Stocks plunge as investors take cover amid growing uncertainty - CBS News
-- [Marchés mondiaux] Wall Street tumbles to its longest losing streak since 2024 as the Dow drops 1,100 points - Boston Herald
-- [Marchés mondiaux] An early rally for Wall Street evaporates as the market waits for Anthropic’s stock to begin trading - WTOP News
-- [Marchés mondiaux] Stocks drop ahead of Anthropic's hugely hyped debut - Business Insider
-- [Marchés mondiaux] Wall Street rises after Anthropic's IPO revives AI stocks, at least for now - WRAL
-- [Marchés mondiaux] Does Blackstone Digital (BXDC) Have the Potential to Rally 41.48% as Wall Street Analysts Expect? - Yahoo Finance
-- [Marchés mondiaux] An early rally for Wall Street evaporates as the market waits for Anthropic's stock to begin trading - Henry Herald
-- [Marchés mondiaux] An early rally for Wall Street evaporates as the market waits for Anthropic's stock to begin trading - thetimestribune.com
-- [Marchés mondiaux] Stocks fall as Nasdaq gives up gains ahead of Anthropic trading debut - upi
-- [Marchés mondiaux] Wall Street Analysts Believe Figure Technology (FIGR) Could Rally 77.48%: Here's is How to Trade - Yahoo Finance
-- [Marchés mondiaux] An early rally for Wall Street evaporates as the market waits for Anthropic's stock to begin trading - Cherokee Tribune
-- [Marchés mondiaux] Why Morgan Stanley Says the S&P 500 Is Poised to Jump 18% - Business Insider
-- [Marchés mondiaux] Stock Market Today: S&P 500 Rallies Despite Nvidia's Earnings Selloff as Anthropic Revives AI Stocks - Coinpaper
-- [Marchés mondiaux] Does Acco (ACCO) Have the Potential to Rally 48.75% as Wall Street Analysts Expect? - Yahoo Finance Singapore
-- [Marchés mondiaux] U.S stocks tumble t
+- [Anthropic (FR)] Plus de 4.000 salariés nouveaux millionnaires : qui sont les petits et grands gagnants de l'introduction en Bourse d'Anthropic - Le
