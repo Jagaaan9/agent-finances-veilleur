@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22841.63 HKD, jour -1.95 %, mois -4.79 %
 - SSE Composite Index (SSE:000001) : 3577.6174 , jour -0.28 %, mois -3.79 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.43 USD, jour 15.8 %, mois 54.34 %
-- Gold (TVC:GOLD) : 3596.92 USD, jour -0.8 %, mois -12.79 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09683 USD, jour 0.01 %, mois -2.39 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56380.08 EUR, jour -1.94 %, mois -22.75 %
+- Gold (TVC:GOLD) : 3602.861 USD, jour -0.64 %, mois -12.65 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09696 USD, jour 0.02 %, mois -2.38 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56395.26 EUR, jour -1.91 %, mois -22.73 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 5.05 , jour -0.39 %, mois -1.79 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -30,7 +30,7 @@ POSITIONS ET INDICES :
 
 ÉCRAN États-Unis : plus fortes baisses :
 - China Rare Earth Holdings Limited (OTC:CREQF, secteur Non-Energy Minerals) jour -99.4 %, mois -40.0 %, prix 0.0003 USD, capi 248891410.42426002, PER None, volume x11.65 la normale
-- Seabridge Gold Inc (NYSE:SA, secteur Non-Energy Minerals) jour -29.32 %, mois -29.48 %, prix 18.06 USD, capi 1948154125.3526196, PER 38.7, volume x7.37 la normale
+- Seabridge Gold Inc (NYSE:SA, secteur Non-Energy Minerals) jour -29.32 %, mois -29.48 %, prix 18.06 USD, capi 1948154125.3526196, PER 38.7, volume x7.38 la normale
 - StoneX Group Inc. (NASDAQ:SNEX, secteur Finance) jour -26.71 %, mois -29.28 %, prix 39.45 USD, capi 4758330450.749582, PER 10.3, volume x6.95 la normale
 - Liquidity Services, Inc. (NASDAQ:LQDT, secteur Retail Trade) jour -24.88 %, mois -23.61 %, prix 33.03 USD, capi 1034883349.7063909, PER 32.3, volume x5.02 la normale
 - BOXABL, Inc. (NASDAQ:BXBL, secteur Consumer Durables) jour -24.68 %, mois -57.95 %, prix 1.19 USD, capi 287450736.20253164, PER None, volume x2.38 la normale
@@ -289,7 +289,7 @@ POSITIONS ET INDICES :
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.05 %, mois -16.38 %, prix 40.59 USD, capi 3434356723816, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -2.41 %, mois -16.56 %, prix 40.47 USD, capi 3434356723816, PER 2.1, volume x0.41 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.93 %, mois -20.22 %, prix 271.02 USD, capi 3333736960202.766, PER 14.1, volume x1.28 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -3.46 %, mois -20.66 %, prix 272.66 USD, capi 3315435860061.148, PER 14.2, volume x1.44 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -3.46 %, mois -20.66 %, prix 272.66 USD, capi 3315435860061.148, PER 14.2, volume x1.45 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -2.33 %, mois -2.82 %, prix 48.59 USD, capi 1575615873327, PER 1.7, volume x3.49 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -1.2 %, mois -4.12 %, prix 320.22 USD, capi 850379273807.4326, PER 13.4, volume x1.03 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour -2.1 %, mois -21.91 %, prix 690.44 USD, capi 781179868112.7578, PER 9.3, volume x0.96 la normale
@@ -310,6 +310,11 @@ POSITIONS ET INDICES :
 - Technip Energies NV (EURONEXT:TE, secteur Industrial Services) jour -0.12 %, mois 9.87 %, prix 33.84 EUR, capi 5932990661, PER 22.2, volume x0.8 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Stock Market Today, Nov. 19: Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake - The Globe and Mail
+- [Bourse de Paris et Europe] VINCI Cours Action DG, Cotation Bourse Euronext Paris - Boursorama
+- [Banques centrales et taux] Fed Officials Differ On Rate Path, But Predominant View is To Proceed Gradually - TradingView
+- [Rachats et fusions] TIMELINE-Germany and UniCredit reach broad agreement in Commerzbank takeover battle - Devdiscourse
+- [Crypto] Could Shiba Inu’s (SHIB) Market Value Reach $10 Billion by 2030? - 24/7 Wall St.
 - [Anthropic] Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade - CNBC
 - [Marchés mondiaux] Stock Market Today, Nov. 19: Dow Plunges 1,100 Points as the S&P 500 Suffers Its 6th Straight Day of Losses - Yahoo Finance
 - [Marchés mondiaux] Stock Market Today, Nov. 19: Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake - The Globe and Mail
@@ -454,7 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] Questions directes - Anthropic fait son entréé en bourse - France 24
 - [Anthropic (FR)] IA : Anthropic s’envole en Bourse et atteint une valorisation de 2 000 milliards de dollars - La Croix
 - [Anthropic (FR)] Avec l’entrée en Bourse d’Anthropic, des employés soudainement multimillionnaires - Courrier international
-- [Anthropic (FR)] Anthropic : « La forte demande pour l'introduction en Bourse est un rappel bienvenu que le thème de l'IA est toujours bien vivant - Investir Les Echos
-- [Anthropic (FR)] Anthropic s'apprête à faire une entrée en Bourse historique après une introduction en Bourse record de 81 mill - Boursorama
-- [Anthropic (FR)] 72 millions de dollars par salarié en moyenne: l'introduction en Bourse d'Anthropic fait exploser les fortunes (dont celle de l'acteur Ashton Kutcher) - BFM
-- [Anthropic (FR)] Plus de 4.000 salariés nouveaux millionnaires : qui sont les petits et grands gagnants de l'introduction en Bourse d'Anthropic - Le
+- [Anthropic (FR)] A
