@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53897.67 EUR, jour -4.58 %, mois -26.97 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53817.7 EUR, jour -4.72 %, mois -27.08 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -275,7 +275,7 @@ POSITIONS ET INDICES :
 - Polibeli Group Ltd Class A (NASDAQ:PLBL, secteur Retail Trade) jour 3.62 %, mois 81.38 %, prix 9.74 USD, capi 3568613761.96383, PER None, volume x0.51 la normale
 - Surgery Partners, Inc. (NASDAQ:SGRY, secteur Health Services) jour 0.34 %, mois 76.3 %, prix 26.78 USD, capi 3504999291.5391536, PER None, volume x0.24 la normale
 - Replimune Group, Inc. (NASDAQ:REPL, secteur Health Technology) jour -0.83 %, mois 67.72 %, prix 19.07 USD, capi 1807843726.176287, PER None, volume x0.77 la normale
-- Inovio Pharmaceuticals, Inc. (NASDAQ:INO, secteur Health Technology) jour 2.92 %, mois 66.04 %, prix 1.76 USD, capi 329660124.4444445, PER None, volume x0.5 la normale
+- Inovio Pharmaceuticals, Inc. (NASDAQ:INO, secteur Health Technology) jour 2.92 %, mois 66.04 %, prix 1.76 USD, capi 329660124.4444445, PER None, volume x0.51 la normale
 - B&G Foods, Inc. (NYSE:BGS, secteur Consumer Non-Durables) jour 8.04 %, mois 65.75 %, prix 3.63 USD, capi 294540986.2410714, PER None, volume x0.67 la normale
 - Telos Corporation (NASDAQ:TLS, secteur Technology Services) jour -3.84 %, mois 63.15 %, prix 7.26 USD, capi 533849351.1417219, PER None, volume x0.64 la normale
 - Enigmatig Limited Class A (AMEX:EGG, secteur Commercial Services) jour -5.27 %, mois 61.8 %, prix 8.09 USD, capi 226562069.89461362, PER None, volume x1.99 la normale
@@ -317,6 +317,9 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] ENQUÊTE IMMÉDIAT-Le Nasdaq plonge de 5 % au lendemain de l'entrée en bourse d'Anthropic, mais les investisseur - Boursorama
+- [Rachats et fusions] CrowdStrike in talks to acquire Zscaler, sources say - Reuters
+- [Crypto] Kalshi races to get ahead of New York order that could shut down exchange - CoinDesk
 - [Anthropic] Anthropic stock sinks 8.5% as AI selloff swamps record-setting IPO - InvestmentNews
 - [Intelligence artificielle] Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade - MarketWatch
 - [Introductions en bourse] TradFi News | Ark Invest Buys $90 Million of Anthropic Shares on Record IPO Debut, Trims Nvidia - Binance
@@ -454,6 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Bourse de Paris et Europe] CAC40 : Paris chute de 1,9 %, Ubisoft et Soitec décrochent - Le Revenu
 - [Bourse de Paris et Europe] L'Europe vue en baisse, les inquiétudes sur l'IA persistent malgré l'IPO d'Anthropic (actualisé) - Boursorama
 - [Bourse de Paris et Europe] L'Europe attendue en nette baisse dans le sillage de Wall Street et de l'Asie - ABC Bourse
-- [Banques centrales et taux] Bessent préconise une hausse plus modérée des taux de la Fed et invoque le choc énergétique - TradingView
-- [Résultats d'entreprises] Walmart Is Up 183% in Five Years and Just Raised Guidance Again. Is There Room Left to Run? - 24/7 Wall St.
-- [Crypto] Bitcoin Drops Below $59K, Wiping Out $1.5B In Crypto Bets: MSTR, BM
+- [Banques centrales et t
