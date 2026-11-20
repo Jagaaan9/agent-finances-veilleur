@@ -13,12 +13,12 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53994.92 EUR, jour -4.4 %, mois -26.84 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53883.76 EUR, jour -4.6 %, mois -26.99 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - Energy World Corporation Ltd (OTC:EWCLF, secteur Utilities) jour 142.33 %, mois -16.72 %, prix 0.0727 USD, capi 280141418.56315786, PER None, volume x12.24 la normale
-- LiveWire Group, Inc. (NYSE:LVWR, secteur Consumer Durables) jour 51.63 %, mois -38.12 %, prix 0.99 USD, capi 203359507.3058661, PER None, volume x5.71 la normale
+- LiveWire Group, Inc. (NYSE:LVWR, secteur Consumer Durables) jour 51.63 %, mois -38.12 %, prix 0.99 USD, capi 203359507.3058661, PER None, volume x5.72 la normale
 - Evolent Health Inc Class A (NYSE:EVH, secteur Commercial Services) jour 13.7 %, mois -20.41 %, prix 3.9 USD, capi 441111514.8104957, PER None, volume x2.2 la normale
 - Gap, Inc. (NYSE:GAP, secteur Retail Trade) jour 11.44 %, mois -10.21 %, prix 20.94 USD, capi 7355596484.643961, PER 5.8, volume x3.39 la normale
 - Tungsten Mining NL (OTC:TGNMF, secteur Non-Energy Minerals) jour 10.64 %, mois -10.34 %, prix 0.13 USD, capi 202311226.74285716, PER None, volume x1.9 la normale
@@ -30,7 +30,7 @@ POSITIONS ET INDICES :
 
 ÉCRAN États-Unis : plus fortes baisses :
 - China Rare Earth Holdings Limited (OTC:CREQF, secteur Non-Energy Minerals) jour -99.4 %, mois -40.0 %, prix 0.0003 USD, capi 248969543.02837998, PER None, volume x11.65 la normale
-- Canadian Solar Inc. (NASDAQ:CSIQ, secteur Electronic Technology) jour -24.94 %, mois -39.25 %, prix 6.02 USD, capi 408738466.52618456, PER None, volume x4.69 la normale
+- Canadian Solar Inc. (NASDAQ:CSIQ, secteur Electronic Technology) jour -24.94 %, mois -39.25 %, prix 6.02 USD, capi 408738466.52618456, PER None, volume x4.72 la normale
 - UBISOFT Entertainment Unsponsored ADR (OTC:UBSFY, secteur Technology Services) jour -21.67 %, mois -36.24 %, prix 0.6794 USD, capi 635500653.10923, PER None, volume x21.94 la normale
 - Fundrise Innovation Fund, LLC (NYSE:VCX, secteur Miscellaneous) jour -19.9 %, mois -41.01 %, prix 14.01 USD, capi 495782208.9, PER 1.8, volume x2.74 la normale
 - New World Development Co Ltd Sponsored ADR (OTC:NDVLY, secteur Finance) jour -19.65 %, mois -60.31 %, prix 0.13 USD, capi 721732681.1954199, PER None, volume x1.36 la normale
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - KWG Living Group Holdings Limited (HKEX:3913, secteur Finance) jour 0 %, mois -4.2 %, prix 0.114 HKD, capi 230947913, PER None, volume x16.81 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 2941617737, PER 2857.1, volume x5.28 la normale
 - Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 4929084342, PER None, volume x1.05 la normale
+- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 2941617737, PER 2857.1, volume x5.28 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 4206552544.9999995, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 582864017, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3253783353, PER None, volume x1.08 la normale
@@ -317,6 +317,10 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Les banques de Wall Street s'apprêtent à connaître une année exceptionnelle, les introductions en bourse d'Ant - Boursorama
+- [Anthropic (FR)] Wall Street recule sous l'effet d'une vague croissante de ventes dans le secteur de l'IA ; le S&P 500 et le Do - Boursorama
+- [Intelligence artificielle] US lawmakers push for tougher AI chip rules amid China export crackdown - Al Jazeera
+- [Intelligence artificielle] The U.S. Approved 879,000 Nvidia and AMD Chips for China in 6 Months - Yahoo Finance
 - [Anthropic] Opinion: The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings - MarketWatch
 - [Anthropic] Anthropic Stock Came Within 5 Cents of Its $83 IPO Price on Day 2, Then Bounced 6% to Close at $88.30. Facebook Closed Its Day 2 10% Below Its IPO Price - Yahoo Finance
 - [Intelligence artificielle] Alibaba's AI Cloud Growth Could Slow Sharply as U.S. Tightens Chip Curbs - Yahoo Finance
@@ -452,9 +456,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Banques centrales et taux] Trump affirme que les taux d'intérêt sont trop élevés parce que la Fed est “politisée” - Boursorama
 - [Introductions en bourse] Nasdaq Futures Slide, Anthropic Shares Reverse IPO Gains — LITE, IREN, SNDK, NVDA In Focus - TradingView
 - [Petites valeurs en croissance] MongoDB (MDB) Stock Could Be 21% Undervalued Despite Price Target Cut - Yahoo Finance
-- [Marchés mondiaux] Prediction markets outlook for stocks in 2026 dims amid AI sell-off - CNBC
-- [Marchés mondiaux] Supply Chain Stocks Sink Amid Wall Street Sell-Off, Though Air Freight Shows Resilience - WWD
-- [Bourse de Paris et Europe] ALSTOM Cours Action ALO, Cotation Bourse Euronext Paris - Boursorama
-- [Petites valeurs en croissance] Datavault AI (DVLT) Stock Looks Undervalued On Founder Lawsuit Turmoil - Simply Wall St
-- [Pays émergents] BlackRock to Buy SulAmerica: Will Brazil Deal Fuel Its Growth? - Yahoo Finance
-- [Défense, énergie, matièr
+- [Marchés mondiaux] Prediction markets o
