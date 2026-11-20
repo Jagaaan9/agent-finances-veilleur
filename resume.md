@@ -7,13 +7,13 @@ POSITIONS ET INDICES :
 - NASDAQ Composite Index (NASDAQ:IXIC) : 23879.1993 , jour -2.25 %, mois -9.32 %
 - CAC 40 Index (EURONEXT:PX1) : 8080.74 , jour -0.81 %, mois 3.04 %
 - STOXX 50 (TVC:SX5E) : 6113.86 EUR, jour -0.66 %, mois -0.12 %
-- Japan 225 Index (TVC:NI225) : 57751.34 JPY, jour -2.85 %, mois -11.0 %
+- Japan 225 Index (TVC:NI225) : 57638.99 JPY, jour -3.04 %, mois -11.17 %
 - Hang Seng Index (TVC:HSI) : 22841.63 HKD, jour -1.95 %, mois -4.79 %
 - SSE Composite Index (SSE:000001) : 3577.6174 , jour -0.28 %, mois -3.79 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.43 USD, jour 15.8 %, mois 54.34 %
-- Gold (TVC:GOLD) : 3619.85 USD, jour -0.17 %, mois -12.23 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09696 USD, jour 0.02 %, mois -2.38 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56532.77 EUR, jour 0.09 %, mois -23.4 %
+- Gold (TVC:GOLD) : 3623.142 USD, jour -0.08 %, mois -12.16 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.0974599999999999 USD, jour 0.07 %, mois -2.34 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56637.61 EUR, jour 0.28 %, mois -23.26 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 5.044 , jour -0.12 %, mois -1.62 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -33,9 +33,9 @@ POSITIONS ET INDICES :
 - Seabridge Gold Inc (NYSE:SA, secteur Non-Energy Minerals) jour -29.32 %, mois -29.48 %, prix 18.06 USD, capi 1948154125.3526196, PER 38.7, volume x7.38 la normale
 - StoneX Group Inc. (NASDAQ:SNEX, secteur Finance) jour -26.71 %, mois -29.28 %, prix 39.45 USD, capi 4758330450.749582, PER 10.3, volume x6.95 la normale
 - Liquidity Services, Inc. (NASDAQ:LQDT, secteur Retail Trade) jour -24.88 %, mois -23.61 %, prix 33.03 USD, capi 1034883349.7063909, PER 32.3, volume x5.02 la normale
-- BOXABL, Inc. (NASDAQ:BXBL, secteur Consumer Durables) jour -24.68 %, mois -57.95 %, prix 1.19 USD, capi 287450736.20253164, PER None, volume x2.38 la normale
+- BOXABL, Inc. (NASDAQ:BXBL, secteur Consumer Durables) jour -24.68 %, mois -57.95 %, prix 1.19 USD, capi 287450736.20253164, PER None, volume x2.39 la normale
 - BUUU Group Limited Class A (NASDAQ:BUUU, secteur Commercial Services) jour -22.06 %, mois -11.21 %, prix 3.78 USD, capi 751388380.515464, PER None, volume x0.73 la normale
-- Fundrise Innovation Fund, LLC (NYSE:VCX, secteur Miscellaneous) jour -19.62 %, mois -25.1 %, prix 17.49 USD, capi 616822233.6, PER 2.2, volume x3.78 la normale
+- Fundrise Innovation Fund, LLC (NYSE:VCX, secteur Miscellaneous) jour -19.62 %, mois -25.1 %, prix 17.49 USD, capi 616822233.6, PER 2.2, volume x3.79 la normale
 - AlTi Global, Inc. Class A (NASDAQ:ALTI, secteur Finance) jour -19.35 %, mois -39.27 %, prix 1.5 USD, capi 233915145.9677419, PER None, volume x0.42 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109560.7753844, PER 5.1, volume x99.36 la normale
 - Einride AB Sponsored ADR (NASDAQ:ENRD, secteur Technology Services) jour -17.86 %, mois -32.92 %, prix 1.61 USD, capi 287511051, PER None, volume x1.88 la normale
@@ -193,37 +193,37 @@ POSITIONS ET INDICES :
 - Medrx Co., Ltd. (TSE:4586, secteur Health Technology) jour 63.83 %, mois 45.28 %, prix 77 JPY, capi 3484913811, PER None, volume x10.39 la normale
 - Axel Mark Inc. (TSE:3624, secteur Commercial Services) jour 39 %, mois 85.33 %, prix 139 JPY, capi 6531317139, PER None, volume x4.81 la normale
 - Veritas In Silico Inc. (TSE:130A, secteur Health Technology) jour 28.07 %, mois -1.35 %, prix 365 JPY, capi 1848827477, PER None, volume x2.55 la normale
-- Delta-Fly Pharma, Inc. (TSE:4598, secteur Health Technology) jour 27.59 %, mois -9.76 %, prix 74 JPY, capi 1171298588, PER None, volume x22.57 la normale
 - AppBank, Inc. (TSE:6177, secteur Technology Services) jour 27.27 %, mois -16.67 %, prix 70 JPY, capi 1387587137, PER None, volume x52.62 la normale
-- AltPlus Holdings Inc. (TSE:3672, secteur Technology Services) jour 20 %, mois -30.77 %, prix 18 JPY, capi 1358010063, PER None, volume x4.25 la normale
-- MRT Inc. (TSE:6034, secteur Commercial Services) jour 16.88 %, mois 2.97 %, prix 554 JPY, capi 2643768162, PER 32.0, volume x66.14 la normale
 - CanBas Co., Ltd. (TSE:4575, secteur Health Technology) jour 14.84 %, mois 1.44 %, prix 774 JPY, capi 13325094723, PER None, volume x1.18 la normale
 - Showcase, Inc. (Japan) (TSE:3909, secteur Technology Services) jour 14.71 %, mois -15.68 %, prix 780 JPY, capi 6926207542, PER 9.2, volume x2.55 la normale
-- Beat Holdings Ltd. (TSE:9399, secteur Technology Services) jour 14.29 %, mois -20 %, prix 8 JPY, capi 1283348892, PER None, volume x0.78 la normale
+- SecuAvail, Inc. (TSE:3042, secteur Technology Services) jour 12.9 %, mois -18.9 %, prix 884 JPY, capi 6020919083, PER 189.5, volume x5.78 la normale
+- Rebase, Inc. (TSE:5138, secteur Technology Services) jour 10.4 %, mois 79.9 %, prix 743 JPY, capi 3308439685, PER 75.4, volume x18.5 la normale
+- Kringle Pharma, Inc. (TSE:4884, secteur Health Technology) jour 9.52 %, mois -10.16 %, prix 575 JPY, capi 4511409330, PER None, volume x1.42 la normale
+- Towa Corporation (TSE:6315, secteur Producer Manufacturing) jour 8.92 %, mois 7.98 %, prix 2394 JPY, capi 165190603470, PER 27.3, volume x1.6 la normale
 
 ÉCRAN Japon : plus fortes baisses :
-- Wedge Holdings CO., LTD. (TSE:2388, secteur Finance) jour -21.05 %, mois 50 %, prix 15 JPY, capi 806646484, PER None, volume x1.04 la normale
 - Kohsai Co.Ltd. (TSE:7878, secteur Consumer Durables) jour -18.41 %, mois 10.72 %, prix 1157 JPY, capi 2215225223, PER 4.9, volume x8.31 la normale
 - Datasection, Inc. (TSE:3905, secteur Technology Services) jour -18.05 %, mois -48.41 %, prix 681 JPY, capi 31811934311, PER 30.7, volume x0.41 la normale
-- Lapine Co., Ltd. (TSE:8143, secteur Consumer Non-Durables) jour -16.67 %, mois 14.09 %, prix 170 JPY, capi 482284810, PER None, volume x6.62 la normale
-- Intrance Co., Ltd. (TSE:3237, secteur Finance) jour -16.13 %, mois -27.78 %, prix 52 JPY, capi 2882527687, PER None, volume x4.48 la normale
 - PIXTA, Inc. (TSE:3416, secteur Technology Services) jour -15.44 %, mois -9.43 %, prix 816 JPY, capi 2215136372, PER 14.6, volume x3.0 la normale
 - PLAID Inc. (TSE:4165, secteur Technology Services) jour -13.36 %, mois -49.81 %, prix 389 JPY, capi 18535005489, PER 35.6, volume x8.38 la normale
-- CUC Inc. (TSE:9158, secteur Commercial Services) jour -12.54 %, mois -30.48 %, prix 495 JPY, capi 16592488941, PER 6.8, volume x10.53 la normale
+- Wedge Holdings CO., LTD. (TSE:2388, secteur Finance) jour -13.33 %, mois 8.33 %, prix 13 JPY, capi 806646484, PER None, volume x0.02 la normale
 - Eole, Inc. (TSE:2334, secteur Commercial Services) jour -11.96 %, mois -13.05 %, prix 493 JPY, capi 24121551819, PER 180.9, volume x2.83 la normale
 - J.E.T. Co.,LTD. (TSE:6228, secteur Electronic Technology) jour -11.65 %, mois -15 %, prix 561 JPY, capi 8515349903, PER None, volume x1.0 la normale
+- VLC SECURITY CO. LTD. (NAG:2467, secteur Commercial Services) jour -11.41 %, mois -39.41 %, prix 163 JPY, capi 2550387161, PER None, volume x0.93 la normale
+- AltPlus Holdings Inc. (TSE:3672, secteur Technology Services) jour -11.11 %, mois -38.46 %, prix 16 JPY, capi 1358010063, PER None, volume x0.06 la normale
+- Nippon Avionics Co., Ltd. (TSE:6946, secteur Electronic Technology) jour -9.53 %, mois -42.9 %, prix 3940 JPY, capi 72991296167, PER 11.5, volume x2.38 la normale
 
 ÉCRAN Japon : volumes anormaux :
-- MRT Inc. (TSE:6034, secteur Commercial Services) jour 16.88 %, mois 2.97 %, prix 554 JPY, capi 2643768162, PER 32.0, volume x66.14 la normale
-- Zenitaka Corporation (TSE:1811, secteur Industrial Services) jour -6.25 %, mois -9.28 %, prix 6450 JPY, capi 49276240921, PER 13.7, volume x62.91 la normale
 - AppBank, Inc. (TSE:6177, secteur Technology Services) jour 27.27 %, mois -16.67 %, prix 70 JPY, capi 1387587137, PER None, volume x52.62 la normale
-- Forval RealStraight Inc. (TSE:9423, secteur Commercial Services) jour -7.41 %, mois -2.91 %, prix 100 JPY, capi 2622002563, PER 12.8, volume x43.08 la normale
-- D.Western Therapeutics Institute, Inc. (TSE:4576, secteur Health Technology) jour 2.13 %, mois -29.41 %, prix 48 JPY, capi 2758176777, PER None, volume x31.81 la normale
-- Delta-Fly Pharma, Inc. (TSE:4598, secteur Health Technology) jour 27.59 %, mois -9.76 %, prix 74 JPY, capi 1171298588, PER None, volume x22.57 la normale
-- Wilson Learning Worldwide Inc. (TSE:9610, secteur Commercial Services) jour -11.65 %, mois -9 %, prix 91 JPY, capi 1148968902, PER None, volume x21.17 la normale
 - Rebase, Inc. (TSE:5138, secteur Technology Services) jour 10.4 %, mois 79.9 %, prix 743 JPY, capi 3308439685, PER 75.4, volume x18.5 la normale
-- Techfirm Holdings, Inc. (TSE:3625, secteur Communications) jour -3.2 %, mois -3.84 %, prix 726 JPY, capi 5288343787, PER 9.5, volume x15.2 la normale
-- Kubota Pharmaceutical Holdings Co. Ltd. (TSE:4596, secteur Health Technology) jour 8.33 %, mois -14.75 %, prix 52 JPY, capi 7782916260, PER None, volume x11.16 la normale
+- Sankyo Frontier Co., Ltd. (TSE:9639, secteur Finance) jour -0.5 %, mois -5.94 %, prix 2187 JPY, capi 51644748272, PER 8.0, volume x13.95 la normale
+- Medrx Co., Ltd. (TSE:4586, secteur Health Technology) jour 63.83 %, mois 45.28 %, prix 77 JPY, capi 3484913811, PER None, volume x10.39 la normale
+- Cox Co., Ltd. (TSE:9876, secteur Retail Trade) jour -2.51 %, mois -10.19 %, prix 194 JPY, capi 5494655436, PER 7.5, volume x9.52 la normale
+- PLAID Inc. (TSE:4165, secteur Technology Services) jour -13.36 %, mois -49.81 %, prix 389 JPY, capi 18535005489, PER 35.6, volume x8.38 la normale
+- Kohsai Co.Ltd. (TSE:7878, secteur Consumer Durables) jour -18.41 %, mois 10.72 %, prix 1157 JPY, capi 2215225223, PER 4.9, volume x8.31 la normale
+- SecuAvail, Inc. (TSE:3042, secteur Technology Services) jour 12.9 %, mois -18.9 %, prix 884 JPY, capi 6020919083, PER 189.5, volume x5.78 la normale
+- Medical System Network Co., Ltd. (TSE:4350, secteur Retail Trade) jour 7.19 %, mois 6.13 %, prix 537 JPY, capi 15119451044, PER 23.3, volume x5.15 la normale
+- Axel Mark Inc. (TSE:3624, secteur Commercial Services) jour 39 %, mois 85.33 %, prix 139 JPY, capi 6531317139, PER None, volume x4.81 la normale
 
 ÉCRAN Inde : plus fortes hausses :
 - Veefin Solutions Ltd. (NSE:VEEFIN, secteur Technology Services) jour 20.0 %, mois 18.82 %, prix 298.05 INR, capi 6323559871, PER 25.5, volume xNone la normale
@@ -286,8 +286,8 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour 0.28 %, mois 26.0 %, prix 8.883 EUR, capi 8888634560.855991, PER 11.1, volume x0.33 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -2.41 %, mois -16.56 %, prix 40.47 USD, capi 3434356723816, PER 2.1, volume x0.41 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.05 %, mois -16.38 %, prix 40.59 USD, capi 3434356723816, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -2.41 %, mois -16.56 %, prix 40.47 USD, capi 3434356723816, PER 2.1, volume x0.41 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.93 %, mois -20.22 %, prix 271.02 USD, capi 3333736960202.766, PER 14.1, volume x1.28 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -3.46 %, mois -20.66 %, prix 272.66 USD, capi 3315435860061.148, PER 14.2, volume x1.45 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -2.33 %, mois -2.82 %, prix 48.59 USD, capi 1575615873327, PER 1.7, volume x3.49 la normale
@@ -310,6 +310,16 @@ POSITIONS ET INDICES :
 - Technip Energies NV (EURONEXT:TE, secteur Industrial Services) jour -0.12 %, mois 9.87 %, prix 33.84 EUR, capi 5932990661, PER 22.2, volume x0.8 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor - Reuters
+- [Chine et Asie] Chinese tech firms fear AI hits from US curbs after Nvidia fallout - WRAL
+- [Intelligence artificielle] Asian Stocks Set to Fall as AI Enthusiasm Fades: Markets Wrap - Bloomberg.com
+- [Rachats et fusions] Vection Technologies to merge with US-based zSpace in $13.6M deal - ARNnet
+- [Rachats et fusions] Blue Moon Completes its Acquisition of the Turner Copper-Gold VMS Deposit - Quantisnow
+- [Résultats d'entreprises] Elastic (ESTC) Earnings Beat Leaves Valuation In Focus Following Softer Guidance - Yahoo Finance
+- [Pays émergents] Utilico Emerging Markets bets on underweight tech strategy - The Armchair Trader
+- [Crypto] HYPE price on Nov 19, 2026 at 7pm EST Crypto Prediction Market - Robinhood
+- [Crypto] Dogecoin price on Nov 19, 2026 at 4pm EST Crypto Prediction Market - Robinhood
+- [Crypto] XRP price at Nov 19, 2026 at 3pm EST Crypto Prediction Market - Robinhood
 - [Anthropic] Policymakers watch Anthropic IPO with wary eye - The Hill
 - [Anthropic] Anthropic IPO Nets Wall Street Underwriters $550 Million, Topping SpaceX - Barron's
 - [Anthropic (FR)] L'entreprise américaine d'intelligence artificielle Anthropic signe une entrée en Bourse historique en détrônant SpaceX - franceinfo
@@ -448,15 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges - CNBC
 - [Crypto] SOL price on Nov 19, 2026 at 6pm EST Crypto Prediction Market - Robinhood
 - [Crypto] o1.exchange price today, O to USD live price, marketcap and chart - CoinMarketCap
-- [Crypto] Bitcoin Is a Better Bet Than COIN Despite Anthropic Narrative, Analyst Says - Benzinga
-- [Crypto] BTC price on Nov 19, 2026 at 3pm EST Crypto Prediction Market - Robinhood
-- [Crypto] Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report - CoinDesk
-- [Crypto] XRP price at Nov 19, 2026 at 2pm EST Crypto Prediction Market - Robinhood
-- [Anthropic] Anthropic IPO Live Updates: Shares Close Up 17% - Forbes
-- [Anthropic] Anthropic Stock Jumps 17% in Record-Breaking IPO - Morningstar
-- [Anthropic] An Extraordinary Journey: Celebrating Anthropic’s IPO - Menlo Ventures
-- [Anthropic] Anthropic IPO: AI Giant Rallies As Tech Stocks Slide - Investor's Business Daily
-- [Anthropic] Anthropic shares gain 17% on first day of trading after record IPO - CBS News
-- [Anthropic] Why Anthropic Stock Is Up (and Down) Today - Yahoo Finance
-- [Anthropic] Anthropic stock's first trade was worth $12 billion — 34% above its IPO price - Yahoo Finance
-- [Anthropic] AFL-CIO Demands Strong AI Guardrails Aft
+- [Crypto] Bitcoin Is a Better Bet Than COIN Despite Anthropic N
