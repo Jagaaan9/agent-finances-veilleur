@@ -7,14 +7,14 @@ POSITIONS ET INDICES :
 - NASDAQ Composite Index (NASDAQ:IXIC) : 23879.1993 , jour -2.25 %, mois -9.32 %
 - CAC 40 Index (EURONEXT:PX1) : 8080.74 , jour -0.81 %, mois 3.04 %
 - STOXX 50 (TVC:SX5E) : 6113.86 EUR, jour -0.66 %, mois -0.12 %
-- Japan 225 Index (TVC:NI225) : 58551.56 JPY, jour -1.5 %, mois -9.76 %
+- Japan 225 Index (TVC:NI225) : 57751.34 JPY, jour -2.85 %, mois -11.0 %
 - Hang Seng Index (TVC:HSI) : 22841.63 HKD, jour -1.95 %, mois -4.79 %
 - SSE Composite Index (SSE:000001) : 3577.6174 , jour -0.28 %, mois -3.79 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.43 USD, jour 15.8 %, mois 54.34 %
-- Gold (TVC:GOLD) : 3606.31 USD, jour -0.54 %, mois -12.56 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09679 USD, jour 0.01 %, mois -2.4 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56482 EUR, jour -1.76 %, mois -23.47 %
-- United States 10 Year Government Bonds Yield (TVC:US10Y) : 5.05 , jour -0.39 %, mois -1.79 %
+- Gold (TVC:GOLD) : 3619.85 USD, jour -0.17 %, mois -12.23 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09696 USD, jour 0.02 %, mois -2.38 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56532.77 EUR, jour 0.09 %, mois -23.4 %
+- United States 10 Year Government Bonds Yield (TVC:US10Y) : 5.044 , jour -0.12 %, mois -1.62 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - Energy World Corporation Ltd (OTC:EWCLF, secteur Utilities) jour 142.33 %, mois -16.72 %, prix 0.0727 USD, capi 280141433.42692304, PER None, volume x12.24 la normale
@@ -25,7 +25,7 @@ POSITIONS ET INDICES :
 - Pyxis Oncology, Inc. (NASDAQ:PYXS, secteur Health Technology) jour 19.15 %, mois -4.55 %, prix 1.68 USD, capi 200941181.44680852, PER None, volume x2.18 la normale
 - Terra Innovatum Global N.V. (NASDAQ:NKLR, secteur Producer Manufacturing) jour 18.62 %, mois -5.91 %, prix 2.23 USD, capi 246417023.606383, PER 0.4, volume x2.99 la normale
 - Kornit Digital Ltd. (NASDAQ:KRNT, secteur Process Industries) jour 15.51 %, mois -15.28 %, prix 14.75 USD, capi 633756394.7729052, PER None, volume x3.4 la normale
-- Opendoor Technologies Inc (NASDAQ:OPEN, secteur Finance) jour 14.96 %, mois -27.36 %, prix 1.46 USD, capi 1358148850.3307085, PER None, volume x1.62 la normale
+- Opendoor Technologies Inc (NASDAQ:OPEN, secteur Finance) jour 14.96 %, mois -27.36 %, prix 1.46 USD, capi 1358148850.3307085, PER None, volume x1.63 la normale
 - TELUS Corporation (NYSE:TU, secteur Communications) jour 13.35 %, mois 28.79 %, prix 10.78 USD, capi 17161760143.944239, PER None, volume x2.11 la normale
 
 ÉCRAN États-Unis : plus fortes baisses :
@@ -270,7 +270,7 @@ POSITIONS ET INDICES :
 - Frontier Group Holdings, Inc. (NASDAQ:ULCC, secteur Transportation) jour -2.76 %, mois 75.28 %, prix 7.94 USD, capi 1829515271.3925297, PER None, volume x1.27 la normale
 - Replimune Group, Inc. (NASDAQ:REPL, secteur Health Technology) jour -2.93 %, mois 74.18 %, prix 19.23 USD, capi 1823011785.1892986, PER None, volume x0.61 la normale
 - Polibeli Group Ltd Class A (NASDAQ:PLBL, secteur Retail Trade) jour 5.86 %, mois 72.48 %, prix 9.4 USD, capi 3444042213.1306305, PER None, volume x0.5 la normale
-- Inovio Pharmaceuticals, Inc. (NASDAQ:INO, secteur Health Technology) jour 1.18 %, mois 69.31 %, prix 1.71 USD, capi 320294783.8224852, PER None, volume x0.62 la normale
+- Inovio Pharmaceuticals, Inc. (NASDAQ:INO, secteur Health Technology) jour 1.18 %, mois 69.31 %, prix 1.71 USD, capi 320294783.8224852, PER None, volume x0.63 la normale
 - Onterris, Inc. (NYSE:ONT, secteur Industrial Services) jour -2.38 %, mois 67.5 %, prix 23.35 USD, capi 820747461.007525, PER None, volume x0.87 la normale
 
 ÉCRAN Royaume-Uni : meilleures performances sur 1 mois :
@@ -310,6 +310,17 @@ POSITIONS ET INDICES :
 - Technip Energies NV (EURONEXT:TE, secteur Industrial Services) jour -0.12 %, mois 9.87 %, prix 33.84 EUR, capi 5932990661, PER 22.2, volume x0.8 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Policymakers watch Anthropic IPO with wary eye - The Hill
+- [Anthropic] Anthropic IPO Nets Wall Street Underwriters $550 Million, Topping SpaceX - Barron's
+- [Anthropic (FR)] L'entreprise américaine d'intelligence artificielle Anthropic signe une entrée en Bourse historique en détrônant SpaceX - franceinfo
+- [Anthropic (FR)] La Bourse de Paris recule, éclipsée par les débuts d'Anthropic - France 24
+- [Anthropic (FR)] Anthropic entre en Bourse et dépasse 2000 G$ de valorisation - Pèse sur start
+- [Marchés mondiaux] Wall Street tumbles to its longest losing streak since 2024 as the Dow drops 1,100 points - KTVN
+- [Marchés mondiaux] Cramer: My favorite chartist sees two major signs of a rally brewing in Alphabet stock - CNBC
+- [Intelligence artificielle] California probing whether China improperly got Nvidia technology - BBC
+- [Pays émergents] Engineered silkworms make silk with spider proteins; Kraig’s COO is set to explain it in India. - Stock Titan
+- [Crypto] Bitcoin Is No Longer as Risky as It Was a Decade Ago: Grayscale - Benzinga
+- [Crypto] 60% of US Crypto Owners Plan to Buy More, Topping Stock and ETF Owners - BeInCrypto
 - [Anthropic] Anthropic IPO value surges in stock market debut - CNN
 - [Anthropic] Jim Cramer’s Warning for Anyone Buying Anthropic Stock: Use a Limit Order - Yahoo Finance
 - [Anthropic (FR)] Anthropic signe une entrée en Bourse historique, malgré les turbulences pour l'IA - Boursorama
@@ -448,15 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] Anthropic shares gain 17% on first day of trading after record IPO - CBS News
 - [Anthropic] Why Anthropic Stock Is Up (and Down) Today - Yahoo Finance
 - [Anthropic] Anthropic stock's first trade was worth $12 billion — 34% above its IPO price - Yahoo Finance
-- [Anthropic] AFL-CIO Demands Strong AI Guardrails After Anthropic IPO - Seafarers International Union
-- [Anthropic] Anthropic’s IPO Showed AI’s Upside. Bridgewater Is Preparing for a Cyber Shock. - Barron's
-- [Anthropic] Japanese investors sought $9.4 billion of shares in Anthropic IPO, sources say - Reuters
-- [Anthropic] Treasury Yields Fall as Anthropic Fails to Sustain Risk Appetite - WSJ
-- [Anthropic] World in Brief: Anthropic’s IPO price; Trump, Xi and Putin to meet in China - The Economist
-- [Anthropic] U.S. Stocks Slide as AI Bust Continues Despite Anthropic IPO - WSJ
-- [Anthropic] “This Is Familiar Territory”: Veterans of the 2008 Crash Protest Anthropic’s IPO - Mother Jones
-- [Anthropic] Anthropic begins trading in the biggest IPO on record despite the many fears surrounding AI - AP News
-- [Anthropic] Anthropic’s IPO could deliver $156 billion to charity - TechCrunch
-- [Anthropic (FR)] Les investisseurs d'Anthropic chutent après l'entrée en bourse de la société - Boursorama
-- [Anthropic (FR)] Anthropic s’envole en bourse pour ses débuts, malgré les turbulences pour l’IA - Radio-Canada
-- [Anthropic (FR)] Les actions d’Anthropic devraient ouvrir 26,5 % au-dessus du prix d’introduction de 8
+- [Anthropic] AFL-CIO Demands Strong AI Guardrails Aft
