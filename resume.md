@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53817.7 EUR, jour -4.72 %, mois -27.08 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53745.33 EUR, jour -4.85 %, mois -27.18 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -24,7 +24,7 @@ POSITIONS ET INDICES :
 - Tungsten Mining NL (OTC:TGNMF, secteur Non-Energy Minerals) jour 10.64 %, mois -10.34 %, prix 0.13 USD, capi 202311226.74285716, PER None, volume x1.9 la normale
 - Pasqal Holding SA (NASDAQ:PSQL, secteur Electronic Technology) jour 10.0 %, mois -44.07 %, prix 3.3 USD, capi 700569163.8, PER None, volume x4.19 la normale
 - Global Payments Inc. (NYSE:GPN, secteur Finance) jour 9.95 %, mois 7.87 %, prix 91.83 USD, capi 24301504833.411278, PER 109.2, volume x2.74 la normale
-- Syntec Optics Holdings, Inc. Class A (NASDAQ:OPTX, secteur Electronic Technology) jour 9.77 %, mois -12.03 %, prix 6.29 USD, capi 253360449.15183246, PER None, volume x0.84 la normale
+- Syntec Optics Holdings, Inc. Class A (NASDAQ:OPTX, secteur Electronic Technology) jour 9.77 %, mois -12.03 %, prix 6.29 USD, capi 253360449.15183246, PER None, volume x0.85 la normale
 - Sompo Holdings,Inc. Unsponsored ADR (OTC:SMPNY, secteur Finance) jour 8.84 %, mois -1.32 %, prix 21.67 USD, capi 39577466411.61992, PER 12.3, volume x0.51 la normale
 - Clinch Resources Ltd. (OTC:CLCHF, secteur Energy Minerals) jour 8.17 %, mois -18.86 %, prix 0.6 USD, capi 213190737.42857146, PER None, volume x3.32 la normale
 
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - KWG Living Group Holdings Limited (HKEX:3913, secteur Finance) jour 0 %, mois -4.2 %, prix 0.114 HKD, capi 230947913, PER None, volume x16.81 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 4929084342, PER None, volume x1.05 la normale
 - Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 2941617737, PER 2857.1, volume x5.28 la normale
+- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 4929084342, PER None, volume x1.05 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 4206552544.9999995, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 582864017, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3253783353, PER None, volume x1.08 la normale
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 583275623.56029, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3323658863800, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3237568961859.6416, PER 13.8, volume x1.76 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3233820362273.5347, PER 13.8, volume x1.7 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272911458.269, PER 13.5, volume x1.59 la normale
@@ -317,6 +317,12 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] L’IA fait de nouveau dérailler les Bourses mondiales - Le Devoir
+- [Chine et Asie] China Tightens Offshore IPO Rules for Red-Chip Firms, Threatening Hong Kong Listing Pipeline - Tekedia
+- [Intelligence artificielle] Data Center AI Chips Could Change the Winners: Broadcom and Marvell - 24/7 Wall St.
+- [Intelligence artificielle] 3 Edge AI Stocks To Watch As Apple Pushes More AI On Device - Yahoo Finance
+- [Résultats d'entreprises] How Investors Are Reacting To Nippn Stock Earnings Beat - Yahoo Finance
+- [Crypto] Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment - CoinDesk
 - [Anthropic (FR)] ENQUÊTE IMMÉDIAT-Le Nasdaq plonge de 5 % au lendemain de l'entrée en bourse d'Anthropic, mais les investisseur - Boursorama
 - [Rachats et fusions] CrowdStrike in talks to acquire Zscaler, sources say - Reuters
 - [Crypto] Kalshi races to get ahead of New York order that could shut down exchange - CoinDesk
@@ -451,10 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Résultats d'entreprises] Earnings Beat Could Be A Big Moment For Keysight Stock (KEYS) - Yahoo Finance
 - [Petites valeurs en croissance] Zeta Global Holdings Corp. (ZETA) latest stock news and headlines - Yahoo Finance UK
 - [Petites valeurs en croissance] Intesa Sanpaolo (BIT:ISP) Stock May Be 24% Undervalued Following Green Debt Offering - Simply Wall St
-- [Pays émergents] India back in favour? - The Star
-- [Anthropic] Europe Retail Traders Bid Seven Times Anthropic’s IPO Allocation - Bloomberg.com
-- [Anthropic (FR)] Wall Street : le Nasdaq chute de 2,4 %, Nvidia et Anthropic décrochent - Le Revenu
-- [Bourse de Paris et Europe] CAC40 : Paris chute de 1,9 %, Ubisoft et Soitec décrochent - Le Revenu
-- [Bourse de Paris et Europe] L'Europe vue en baisse, les inquiétudes sur l'IA persistent malgré l'IPO d'Anthropic (actualisé) - Boursorama
-- [Bourse de Paris et Europe] L'Europe attendue en nette baisse dans le sillage de Wall Street et de l'Asie - ABC Bourse
-- [Banques centrales et t
+- [Pays ém
