@@ -13,12 +13,12 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53800 EUR, jour -4.75 %, mois -27.1 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53700 EUR, jour -4.93 %, mois -27.24 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - Energy World Corporation Ltd (OTC:EWCLF, secteur Utilities) jour 142.33 %, mois -16.72 %, prix 0.0727 USD, capi 280141418.56315786, PER None, volume x12.24 la normale
-- LiveWire Group, Inc. (NYSE:LVWR, secteur Consumer Durables) jour 51.63 %, mois -38.12 %, prix 0.99 USD, capi 203359507.3058661, PER None, volume x5.73 la normale
+- LiveWire Group, Inc. (NYSE:LVWR, secteur Consumer Durables) jour 51.63 %, mois -38.12 %, prix 0.99 USD, capi 203359507.3058661, PER None, volume x5.74 la normale
 - Evolent Health Inc Class A (NYSE:EVH, secteur Commercial Services) jour 13.7 %, mois -20.41 %, prix 3.9 USD, capi 441111514.8104957, PER None, volume x2.2 la normale
 - Gap, Inc. (NYSE:GAP, secteur Retail Trade) jour 11.44 %, mois -10.21 %, prix 20.94 USD, capi 7355596484.643961, PER 5.8, volume x3.39 la normale
 - Tungsten Mining NL (OTC:TGNMF, secteur Non-Energy Minerals) jour 10.64 %, mois -10.34 %, prix 0.13 USD, capi 202311226.74285716, PER None, volume x1.9 la normale
@@ -317,6 +317,9 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic IPO launch: How tech stocks are performing Friday - Mashable
+- [Rachats et fusions] The RXO deal must close before C.H. Robinson (CHRW) can tap its new loan, and it can draw only once. - Stock Titan
+- [Résultats d'entreprises] ESCO Technologies rises on earnings beat, strong guidance By Investing.com - Investing.com Canada
 - [Anthropic] Anthropic IPO: What It Means for Your 401(k) - 401k Specialist
 - [Anthropic (FR)] Wall Street termine en baisse, pénalisée par l'IA - Investir Les Echos
 - [Crypto] How exactly did Trump get so rich on crypto? We explain - Oregon Public Broadcasting - OPB
@@ -455,6 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Banques centrales et taux] La Fed ouverte à des hausses de taux consécutives à un rythme mesuré - Investing.com France
 - [Banques centrales et taux] La BCE moins accommodante que la FED ! - Club Patrimoine
 - [Banques centrales et taux] La Fed face au défi des gains de productivité de l’IA - L'Agefi
-- [Banques centrales et taux] Le dollar recule, le rallye alimenté par la Fed s’essouffle ; la baisse des rendements américains soutient le yen - Zonebourse Suisse
-- [Banques centrales et taux] Le cours de Bitcoin passe sous 60 000 dollars pour la première fois depuis juillet - BeInCrypto
-- [Résultats d'entreprises] Earnings Beat Could Be A Big Moment For Keysight Stock (KEYS) - Yahoo Finance
+- [Banques centrales et taux] Le dollar recule
