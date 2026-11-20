@@ -7,13 +7,13 @@ POSITIONS ET INDICES :
 - NASDAQ Composite Index (NASDAQ:IXIC) : 23879.1993 , jour -2.25 %, mois -9.32 %
 - CAC 40 Index (EURONEXT:PX1) : 8080.74 , jour -0.81 %, mois 3.04 %
 - STOXX 50 (TVC:SX5E) : 6113.86 EUR, jour -0.66 %, mois -0.12 %
-- Japan 225 Index (TVC:NI225) : 59443.99 JPY, jour 0.71 %, mois -8.2 %
+- Japan 225 Index (TVC:NI225) : 58551.56 JPY, jour -1.5 %, mois -9.76 %
 - Hang Seng Index (TVC:HSI) : 22841.63 HKD, jour -1.95 %, mois -4.79 %
 - SSE Composite Index (SSE:000001) : 3577.6174 , jour -0.28 %, mois -3.79 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.43 USD, jour 15.8 %, mois 54.34 %
-- Gold (TVC:GOLD) : 3602.861 USD, jour -0.64 %, mois -12.65 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09696 USD, jour 0.02 %, mois -2.38 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56395.26 EUR, jour -1.91 %, mois -22.73 %
+- Gold (TVC:GOLD) : 3606.31 USD, jour -0.54 %, mois -12.56 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09679 USD, jour 0.01 %, mois -2.4 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56482 EUR, jour -1.76 %, mois -23.47 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 5.05 , jour -0.39 %, mois -1.79 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -22,7 +22,7 @@ POSITIONS ET INDICES :
 - Deep Fission, Inc. (NASDAQ:FISN, secteur Producer Manufacturing) jour 25.83 %, mois -5.8 %, prix 3.41 USD, capi 200881710.8339483, PER None, volume x0.93 la normale
 - New World Development Co Ltd Sponsored ADR (OTC:NDVLY, secteur Finance) jour 25.04 %, mois -35.41 %, prix 0.1618 USD, capi 777623316.4842801, PER None, volume x137.9 la normale
 - Insmed Incorporated (NASDAQ:INSM, secteur Health Technology) jour 20.58 %, mois 51.36 %, prix 144.46 USD, capi 31691680398.955765, PER None, volume x6.0 la normale
-- Pyxis Oncology, Inc. (NASDAQ:PYXS, secteur Health Technology) jour 19.15 %, mois -4.55 %, prix 1.68 USD, capi 200941181.44680852, PER None, volume x2.17 la normale
+- Pyxis Oncology, Inc. (NASDAQ:PYXS, secteur Health Technology) jour 19.15 %, mois -4.55 %, prix 1.68 USD, capi 200941181.44680852, PER None, volume x2.18 la normale
 - Terra Innovatum Global N.V. (NASDAQ:NKLR, secteur Producer Manufacturing) jour 18.62 %, mois -5.91 %, prix 2.23 USD, capi 246417023.606383, PER 0.4, volume x2.99 la normale
 - Kornit Digital Ltd. (NASDAQ:KRNT, secteur Process Industries) jour 15.51 %, mois -15.28 %, prix 14.75 USD, capi 633756394.7729052, PER None, volume x3.4 la normale
 - Opendoor Technologies Inc (NASDAQ:OPEN, secteur Finance) jour 14.96 %, mois -27.36 %, prix 1.46 USD, capi 1358148850.3307085, PER None, volume x1.62 la normale
@@ -35,7 +35,7 @@ POSITIONS ET INDICES :
 - Liquidity Services, Inc. (NASDAQ:LQDT, secteur Retail Trade) jour -24.88 %, mois -23.61 %, prix 33.03 USD, capi 1034883349.7063909, PER 32.3, volume x5.02 la normale
 - BOXABL, Inc. (NASDAQ:BXBL, secteur Consumer Durables) jour -24.68 %, mois -57.95 %, prix 1.19 USD, capi 287450736.20253164, PER None, volume x2.38 la normale
 - BUUU Group Limited Class A (NASDAQ:BUUU, secteur Commercial Services) jour -22.06 %, mois -11.21 %, prix 3.78 USD, capi 751388380.515464, PER None, volume x0.73 la normale
-- Fundrise Innovation Fund, LLC (NYSE:VCX, secteur Miscellaneous) jour -19.62 %, mois -25.1 %, prix 17.49 USD, capi 616822233.6, PER 2.2, volume x3.77 la normale
+- Fundrise Innovation Fund, LLC (NYSE:VCX, secteur Miscellaneous) jour -19.62 %, mois -25.1 %, prix 17.49 USD, capi 616822233.6, PER 2.2, volume x3.78 la normale
 - AlTi Global, Inc. Class A (NASDAQ:ALTI, secteur Finance) jour -19.35 %, mois -39.27 %, prix 1.5 USD, capi 233915145.9677419, PER None, volume x0.42 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109560.7753844, PER 5.1, volume x99.36 la normale
 - Einride AB Sponsored ADR (NASDAQ:ENRD, secteur Technology Services) jour -17.86 %, mois -32.92 %, prix 1.61 USD, capi 287511051, PER None, volume x1.88 la normale
@@ -286,13 +286,13 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour 0.28 %, mois 26.0 %, prix 8.883 EUR, capi 8888634560.855991, PER 11.1, volume x0.33 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.05 %, mois -16.38 %, prix 40.59 USD, capi 3434356723816, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -2.41 %, mois -16.56 %, prix 40.47 USD, capi 3434356723816, PER 2.1, volume x0.41 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.05 %, mois -16.38 %, prix 40.59 USD, capi 3434356723816, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.93 %, mois -20.22 %, prix 271.02 USD, capi 3333736960202.766, PER 14.1, volume x1.28 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -3.46 %, mois -20.66 %, prix 272.66 USD, capi 3315435860061.148, PER 14.2, volume x1.45 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -2.33 %, mois -2.82 %, prix 48.59 USD, capi 1575615873327, PER 1.7, volume x3.49 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -1.2 %, mois -4.12 %, prix 320.22 USD, capi 850379273807.4326, PER 13.4, volume x1.03 la normale
-- Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour -2.1 %, mois -21.91 %, prix 690.44 USD, capi 781179868112.7578, PER 9.3, volume x0.96 la normale
+- Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour -2.1 %, mois -21.91 %, prix 690.44 USD, capi 781179868112.7578, PER 9.3, volume x0.97 la normale
 - SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour -2.67 %, mois -13.38 %, prix 119.2 USD, capi 601810914783.2028, PER 6.6, volume x1.1 la normale
 - Tencent Holdings Ltd Unsponsored ADR (OTC:TCEHY, secteur Technology Services) jour -4.27 %, mois -15.32 %, prix 44.16 USD, capi 427990092027.9313, PER 11.9, volume x1.4 la normale
 - China Construction Bank Corporation Unsponsored ADR Class H (OTC:CICHY, secteur Finance) jour -1.19 %, mois 8.48 %, prix 26.49 USD, capi 361076954260.24915, PER 6.6, volume x6.33 la normale
@@ -310,6 +310,11 @@ POSITIONS ET INDICES :
 - Technip Energies NV (EURONEXT:TE, secteur Industrial Services) jour -0.12 %, mois 9.87 %, prix 33.84 EUR, capi 5932990661, PER 22.2, volume x0.8 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic IPO value surges in stock market debut - CNN
+- [Anthropic] Jim Cramer’s Warning for Anyone Buying Anthropic Stock: Use a Limit Order - Yahoo Finance
+- [Anthropic (FR)] Anthropic signe une entrée en Bourse historique, malgré les turbulences pour l'IA - Boursorama
+- [Introductions en bourse] ANT Stock’s Debut Could Be A Blockbuster – But SpaceX And SK Hynix History Shows Why The First-Day Pop Isn’t Everything - TradingView
+- [Crypto] Crypto Market Today, Nov. 19: Bitcoin Approaches $60,000 as ETF Outflows Surpass $2.5 Billion in 2026 - Yahoo Finance
 - [Marchés mondiaux] Stock Market Today, Nov. 19: Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google's Stake - The Globe and Mail
 - [Bourse de Paris et Europe] VINCI Cours Action DG, Cotation Bourse Euronext Paris - Boursorama
 - [Banques centrales et taux] Fed Officials Differ On Rate Path, But Predominant View is To Proceed Gradually - TradingView
@@ -454,9 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] Anthropic’s IPO could deliver $156 billion to charity - TechCrunch
 - [Anthropic (FR)] Les investisseurs d'Anthropic chutent après l'entrée en bourse de la société - Boursorama
 - [Anthropic (FR)] Anthropic s’envole en bourse pour ses débuts, malgré les turbulences pour l’IA - Radio-Canada
-- [Anthropic (FR)] Les actions d’Anthropic devraient ouvrir 26,5 % au-dessus du prix d’introduction de 83 $ - TradingView
-- [Anthropic (FR)] Pour sa première (et historique) journée à la Bourse de New York, Anthropic a fait un carton (+17%) sans toutefois parvenir à rassurer Wall Street sur l'avenir de l'IA - BFM Bourse
-- [Anthropic (FR)] Questions directes - Anthropic fait son entréé en bourse - France 24
-- [Anthropic (FR)] IA : Anthropic s’envole en Bourse et atteint une valorisation de 2 000 milliards de dollars - La Croix
-- [Anthropic (FR)] Avec l’entrée en Bourse d’Anthropic, des employés soudainement multimillionnaires - Courrier international
-- [Anthropic (FR)] A
+- [Anthropic (FR)] Les actions d’Anthropic devraient ouvrir 26,5 % au-dessus du prix d’introduction de 8
