@@ -13,12 +13,12 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53823.32 EUR, jour -4.71 %, mois -27.07 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53994.92 EUR, jour -4.4 %, mois -26.84 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - Energy World Corporation Ltd (OTC:EWCLF, secteur Utilities) jour 142.33 %, mois -16.72 %, prix 0.0727 USD, capi 280141418.56315786, PER None, volume x12.24 la normale
-- LiveWire Group, Inc. (NYSE:LVWR, secteur Consumer Durables) jour 51.63 %, mois -38.12 %, prix 0.99 USD, capi 203359507.3058661, PER None, volume x5.69 la normale
+- LiveWire Group, Inc. (NYSE:LVWR, secteur Consumer Durables) jour 51.63 %, mois -38.12 %, prix 0.99 USD, capi 203359507.3058661, PER None, volume x5.71 la normale
 - Evolent Health Inc Class A (NYSE:EVH, secteur Commercial Services) jour 13.7 %, mois -20.41 %, prix 3.9 USD, capi 441111514.8104957, PER None, volume x2.2 la normale
 - Gap, Inc. (NYSE:GAP, secteur Retail Trade) jour 11.44 %, mois -10.21 %, prix 20.94 USD, capi 7355596484.643961, PER 5.8, volume x3.39 la normale
 - Tungsten Mining NL (OTC:TGNMF, secteur Non-Energy Minerals) jour 10.64 %, mois -10.34 %, prix 0.13 USD, capi 202311226.74285716, PER None, volume x1.9 la normale
@@ -293,11 +293,11 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 583275623.56029, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3323658863800, PER 2.1, volume x0.82 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3323658863800, PER 2.1, volume x0.82 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3237568961859.6416, PER 13.8, volume x1.74 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3233820362273.5347, PER 13.8, volume x1.69 la normale
-- NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272911458.269, PER 13.5, volume x1.57 la normale
+- NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272911458.269, PER 13.5, volume x1.58 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1524081966307, PER 1.6, volume x1.51 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -2.98 %, mois -7.84 %, prix 310.68 USD, capi 825044799619.819, PER 13.0, volume x2.02 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour -13.89 %, mois -35.64 %, prix 594.51 USD, capi 672642419577.1702, PER 8.0, volume x1.83 la normale
@@ -317,6 +317,18 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Opinion: The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings - MarketWatch
+- [Anthropic] Anthropic Stock Came Within 5 Cents of Its $83 IPO Price on Day 2, Then Bounced 6% to Close at $88.30. Facebook Closed Its Day 2 10% Below Its IPO Price - Yahoo Finance
+- [Intelligence artificielle] Alibaba's AI Cloud Growth Could Slow Sharply as U.S. Tightens Chip Curbs - Yahoo Finance
+- [Intelligence artificielle] EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say - Reuters
+- [Introductions en bourse] Who is getting rich from Anthropic's record IPO - Reuters
+- [Résultats d'entreprises] ESCO Technologies rises on earnings beat, strong guidance By Investing.com - Investing.com South Africa
+- [Petites valeurs en croissance] HeartFlow (HTFL) Surges as Q2 Revenue Beats Consensus and Full-Year Guidance Is Raised - Yahoo Finance
+- [Petites valeurs en croissance] Is Roblox (RBLX) Undervalued Following Regulatory Scrutiny And Rising Safety Costs? - Simply Wall St
+- [Petites valeurs en croissance] Ushio (TSE:6925) Posted Healthy Earnings But There Are Some Other Factors To Be Aware Of - Simply Wall St
+- [Pays émergents] Stock Market Weekly Round-Up (16-20 November 2026) - The Indian Awaaz
+- [Pays émergents] BSE SENSEX Jumps to 83,919.71 Defying the Global Tech Sell-Off Amid the Historic Meeting of Trump, Xi and Putin - BBN Times
+- [Crypto] Bitcoin drops below $60,000. Is bitcoin's price volatility an investing opportunity? - Yahoo Finance
 - [Marchés mondiaux] Wall Street Nears Breaking Point as Fear Grips Global Markets - Bloomberg.com
 - [Marchés mondiaux] Wall Street rout pushes S&P 500, Dow into correction - Honolulu Star-Advertiser
 - [Rachats et fusions] Salesforce could owe Braze (BRZE) $300M if their buyout deal ends under specified regulatory conditions. - Stock Titan
@@ -445,18 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Bourse de Paris et Europe] ALSTOM Cours Action ALO, Cotation Bourse Euronext Paris - Boursorama
 - [Petites valeurs en croissance] Datavault AI (DVLT) Stock Looks Undervalued On Founder Lawsuit Turmoil - Simply Wall St
 - [Pays émergents] BlackRock to Buy SulAmerica: Will Brazil Deal Fuel Its Growth? - Yahoo Finance
-- [Défense, énergie, matières premières] Cybersecurity Stocks Rise as Investors Bet on AI-Era Defense Spending - KITV
-- [Crypto] Bitcoin Falls Below $60,000 for First Time Since July in AI-Led Selloff - Yahoo Finance
-- [Crypto] World's most profitable hedge fund dumps $65M worth Bitcoin - Yahoo Finance
-- [Anthropic] Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves | CNN Business - CNN
-- [Anthropic] Anthropic retail traders face losses as shares dive 13% the day after debut - Reuters
-- [Bourse de Paris et Europe] Les Bourses européennes terminent en nette baisse - Boursorama
-- [Intelligence artificielle] BIS Issues Export Controls on Remote Access Chips & Rescinds AI Diffusion Rule - Thompson Hine
-- [Intelligence artificielle] Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips - Yahoo Finance
-- [Rachats et fusions] BILL Agrees to be Acquired by TPG in Partnership with Corpay - Yahoo Finance
-- [Pays émergents] A Market Running Out of Lifeboats - Investing.com India
-- [Anthropic (FR)] Anthropic chute de 9 % pour sa deuxième séance à Wall Street - Bourse Direct
-- [Anthropic (FR)] LES MARCHÉS BOURSIERS AMÉRICAINS EN PLEINE ÉVOLUTION-Anthropic, PayPal, Nvidia - Boursorama
-- [Marchés mondiaux] Wall Street Stumbles as Tech Takes Nasdaq 700 Points Lower - Schaeffer's Investment Research
-- [Bourse de Paris et Europe] CAC 40 : La Bourse de Paris a perdu plus de 5% sur la semaine - Zonebourse
-- [Banques centrales et taux] Trump affirme que les taux d'intérêt sont trop élevés parce 
+- [Défense, énergie, matièr
