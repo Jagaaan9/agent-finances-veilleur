@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T06:10:35.342085+00:00",
+ "mis_a_jour": "2026-11-21T06:20:35.031995+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 50873.04,
+   "prix": 51007.27,
    "devise": "EUR",
-   "jour_pct": -5.22,
-   "mois_pct": -32.01,
-   "volume": 126.41634876,
-   "volume_relatif": 0.61,
+   "jour_pct": -4.97,
+   "mois_pct": -31.83,
+   "volume": 131.48655291,
+   "volume_relatif": 0.63,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3754,6 +3754,20 @@
  },
  "actualites": [
   {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 21, 2026 at 2am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbk1rZkc5b2xmQ211MmlZa01Wc09oZ2RYV0NNbEdiM2dpWkYyRTJBUDhWQVQ1Wld3anpQaUJKNzBxbjZYQ1pWNW5IZzIwakVfVExfdGY2SS14WUNzZ2hiXzBYWE9MV1hEdXBzeUx6eTVHWmN1c2V6T1RtdlRYb0hYVFdsWXM3cUdZWmJBQzA4ZVA5QXQ1NUl3eEJvMFRBX09xT0NvN24xS2ZTa0ljV2c?oc=5",
+   "date": "Sat, 21 Nov 2026 06:11:02 GMT",
+   "vu_le": "2026-11-21T06:20:35.031995+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin developers fix 'medium' bug that could have delayed transactions - CoinDesk",
+   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX0lrTkM1WlVfcXVJVDB3VlUwMlh3cWVKNGJ5S0JTUWVqRmNtWVhhT3VfTG91X2xWWEFMWXlVT2o3SFFiNWpvNjFwLXBldGlJVkdJRFc2R3dzNWJwSEpxY0c3NXNBLVFTYkVnMnViLVk1Ny1SQjhlNUF2M2hDWDRUNGxweXJhT1czZmpFNFlFVDRLejJEMmpwOXhYbnRyU0JFcGdWM1JpczJfWGdyRGJjNkxrSnpwcjVnMURVcm0xQU5LUQ?oc=5",
+   "date": "Sat, 21 Nov 2026 06:16:42 GMT",
+   "vu_le": "2026-11-21T06:20:35.031995+00:00"
+  },
+  {
    "sujet": "Chine et Asie",
    "titre": "Hong Kong Stocks Sink 1.89% As Hang Seng Enters Bear Market - BusinessToday Malaysia",
    "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc3lMWFRRS3FZb3VIWE1ud3oyYWwtaFBBdDBQTXYyVFFrdmxpZmpjX1huNjEyaWZWa2xfMFRzZldYMnRKWlk3X3JwbGRSeVVudXpYdzJ6bFZSTjVRV3RySGVEQ052c1pSSWJENHZWN2dDcHZtY05xc3JnUkxjNy0wdUk2NEluaVZqZkU4Q1pvM2kwZzBvYmZjZVhKMGFjSEF6MVVyck93?oc=5",
@@ -6537,20 +6551,6 @@
    "titre": "Hang Seng Tech Index expands to 50 stocks, adding CATL and Luxshare - MLQ.ai",
    "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON01SVU1PQUU4X0lZMnF3ekhjTTkzQ0VPMjExLUhPSndxdlUzcUdrdlh3ckFEbEszc0ZYdUl4M3VESUpJdUVHU01rRnc3TE9xVkJ5N2VBWHVpcUREYnFfVXhoNDBpcmJwbG1VTksxTFZXVU1oUVR5ZkpHZ0l1V1hpR1k4ZEltNGhpQklmNjRQUDM?oc=5",
    "date": "Fri, 20 Nov 2026 15:38:44 GMT",
-   "vu_le": "2026-11-20T15:50:52.061619+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "COMMENTARY: Morning Bid: AI’s last stand? - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdG9oSTY3R1dNX0JDZnh6bm9jOVkzam5IT1JjS1paS3I5eFhMMk9aeFpEUmVESFZjNjRiWXJFQXRkU0U5VWk2aVoxQkVfTmpHQk1ZUGFVWm1YUTN1bzBKc0JCODFSUU9wWkExcmI2eUptcFlOUkZ0OU1qUzhuRWdRUVhsd3djRldUdzFfSW1lYlBJeUhFUWppaS1HM2lpdnRqWWUzUnFB?oc=5",
-   "date": "Fri, 20 Nov 2026 12:04:50 GMT",
-   "vu_le": "2026-11-20T15:50:52.061619+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Buy 3 LSV Mutual Funds With Notable Returns - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ0xYT1o0QUtrZExjSFFUa0luSmRIaVF5S0dmYmVBRnY5SThNRHdyT2RKTmlPaEJabVotNThPOG9WYnhxbW5ESmZfaWtZYkoxc1pNN09WWHFuazlqQUhJb2l4d0FXR1FmdnBzcmx0cmxxOFlDbEV6T0NleVRCTnhNVTNsOUlEa2NxUklTdkxOU3hKR2ZaamtWb2xUcWs2bUZ4?oc=5",
-   "date": "Fri, 20 Nov 2026 13:28:00 GMT",
    "vu_le": "2026-11-20T15:50:52.061619+00:00"
   }
  ],
