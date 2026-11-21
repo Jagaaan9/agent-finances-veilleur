@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T23:20:36.841621+00:00",
+ "mis_a_jour": "2026-11-21T23:30:34.910099+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54973,
+   "prix": 54919.92,
    "devise": "EUR",
-   "jour_pct": 2.42,
-   "mois_pct": -26.53,
-   "volume": 413.23488679,
+   "jour_pct": 2.32,
+   "mois_pct": -26.6,
+   "volume": 413.53247405,
    "volume_relatif": 1.98,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic ou le pari de plus en plus vertigineux de l’IA - Le Monde.fr",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQlFnV1E4UHJTNi1OUkVhSUZkLVFxaks1QUk1OGdlY2JEdG15eXBfTWVOVHdRN2tYazJzX1dXaDBzVmhuc0RtWkNJX05aVlg5T2lRMmFaZk5uVjJYWVIwX3NjNkVlVVA1aDV5U3pRMTA4eG5vd0NfeFF5eDVvVFNiWDVaLTBWQkNMUmo4UGMtTVJNQ2lJS01nZ0lTSDdNVC13Y0VVNTJlZTJ3cDNpcjNLb0lQTEFOZU5rbi1wZXlCcw?oc=5",
+   "date": "Sat, 21 Nov 2026 10:30:10 GMT",
+   "vu_le": "2026-11-21T23:30:34.910099+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Un mathématicien affirme avoir résolu un des plus célèbres problèmes du monde avec l'IA d'Anthropic - Les Echos",
+   "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQ3FpbEhFTHB1bkE1a2JtX01QRXBQWlk2S1VBcXphRmVGczZxYW52VnRNWTUxMFpIOXBSUFlXN0FmTWFFRUdjOEtKLXpaRFgyZkY4SGE3d3dfZ0Fvay0tdzYyQXBFaE9WejZSdzVEdzhRYlh0aF9kS0hXY3RsVG9UcURCaDdMU0JIQVlCSF9lVkFOOFVqUXMxMzNmSm94OWMyckRQbE9WMlFxMzZnSThTaVd5c3ZnZmZlQnhEWWgtU1llTE1qdTFXYWNMNThTQU9aLUNxdWg5bUJzZVVhX3RSYlVJNGtqZkYxZVRNZHZqV0k0bU03VXp1OXhiTQ?oc=5",
+   "date": "Sat, 21 Nov 2026 10:20:18 GMT",
+   "vu_le": "2026-11-21T23:30:34.910099+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Michael Burry Says ‘I Told You So’ as Wall Street Caught Off Guard by AI Selloff - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdzh2ZF9CQ1FlWE1oRUVfNE5rdlBOTVMydU45UC1oM2J0dTJTaS1rdHpIX3RZUlBJZU10Y1k5WDRucV9Jd2lXZGtHUk5TTmlod3FNUXp6N1F3MW9KNXVrTkFBd1FOQVdYYUxnVTBKWWpza2dYeVpBcko4NWZOV1ozQVJHeFR2aV9GQVBqR1NDQ0xERUwtWmpLbEdDcndrUG5KU0xQTFl6QXBuR2lSbmh3N1VGMmhjNFQyS0VYT2hSaw?oc=5",
+   "date": "Sat, 21 Nov 2026 14:44:00 GMT",
+   "vu_le": "2026-11-21T23:30:34.910099+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "L'économie mondiale a résisté en 2026, mais que nous réserve 2027? - L'Echo",
+   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2d5djFaZHFTUDNreUwwQ2JjOTBBOXloQlZaTmliSUFBTnNodW4zSzNYalNyUUdjend2b05UNlhqRjBLa0lxdFZWRHNGUW96TnUyOU40Ti1lLXd0S2VXRjV6VDlRTnVBMmJyXzJTUU53Sy1FUDdFclY4eDJkdEVoZ0lPOF9ycWQ0QVdjSjFLdEZJcFozTnpDME9MNnNTZkY1ekM5NDhLSW50LWt2RW9XcDY5LVRRaDVxNFRVZ3ZhNl8?oc=5",
+   "date": "Sat, 21 Nov 2026 04:04:36 GMT",
+   "vu_le": "2026-11-21T23:30:34.910099+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "Asia outnumbers North America and Europe combined in top 100 of global science ranking - VnExpress International",
@@ -6523,34 +6551,6 @@
    "titre": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail",
    "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOYWU0eXVPamUycFQzRGNubFBGaUxaeUI5QzdBaGdpczJTTldydzl5aTdDTEdRNVl4UEJBcnZ1TVpYVkNMS09EZERNeTdSSHRwaTRaY3FWUW5LTWEyYldTNzlXT1Q1OFpsSVZxVkR6ZmxnT3hEdnVxdnIzVjI5ajZOWDZDTTUxTThlOHFyYUtxeS1kcmV6b1N4c3ZhVEdVbTNaUVloYy1iWTZPOFE1aS1tdEY0OUlNNzllRTRVM2hzc19PVW9XYTJiMzhSUXp6a0EwelgzbnBZMGp1MGtDZHRYY2ZGalNiVkZ2dUxTd01yalNoVHluWFlHYURFMXphek5Sd0ZSRUM3Ml91UXNHLUdaaw?oc=5",
    "date": "Sat, 21 Nov 2026 11:35:57 GMT",
-   "vu_le": "2026-11-21T11:40:34.953378+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Opera (OPRA) Lifts 2026 Guidance, Is The 51% Undervaluation Case Still Compelling? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDZqRGYzakNINEJYOGpaNTJWZlVxMmlqbUp4WEhTY1I5dWlFYzZlMjVHSGh4YXg2SzhvekJkQXVWaHZMaDB6YmJrSnRIVWxZR2w5R1kwWXlyY3pfdGh6amgxbktTamEtN1haeW5NTjN3bDlTVm8wOHBiV3RBUGFQenpFeVdnSC1JX0NCSzVzeURHTlNERmcyeUtlNA?oc=5",
-   "date": "Sat, 21 Nov 2026 10:06:21 GMT",
-   "vu_le": "2026-11-21T11:40:34.953378+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Royal Bank Of Canada (TSX:RY) Stock May Trade Below Fair Value After 144% Run - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQy13dFRRckNYVmpsaTBVQ0pFUzN3QVQtcFNYRkNEOGlYTVNoNG83R1I3aGoxTkNJVUVUSVBJbFk1R29tNl9Pd0lNTzVEOF9TY056aHdGTF85RkppaTEzaERla3ZZUlUyNzVUVjNaSGM4bm5DS2RvVVVmX2hhejE2clhtSjVscHZkR2o4ZVZxamFTa3A1LXpPelllSjFjRHk3VG9jdzNGRno5OUFMZ2daaTZFRGpIa1NPUkxuS0tybjZtSVVSMnVzazROQnVQN2FNaUtj0gHYAUFVX3lxTFBJcVp6VzNkUi02d2M1R1ZZVVpWNUtxNUJqd3RDeVJmRnpodi1rei1obmc0ZEsya3FuQ205UkJEUkxkMHV1V3c4eHBGTWIwcDdzcWtram1KMzRsbzhma2dsVTJyYW9XbU5fZ2R0TGoxRE5tXzBNUThqYmJxdkhhTmt5R1kwZkJSOU90Zk5Ra0dBdHlZSWpKNjZZNUV5UEIwOEdDTVZyc3JkWFNqMUoxaUFYaWtvSGItay1OSldiM1Y0MmZtam5pNDg2ZnYwMDZqTGpPZXdvLVJJdA?oc=5",
-   "date": "Sat, 21 Nov 2026 04:20:25 GMT",
-   "vu_le": "2026-11-21T11:40:34.953378+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Trump Wants Cheaper Credit, but US Inflation Was 3.6% in September: Fed’s Tough Call - NiftyTrader",
-   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWlkUnIxNUhES0xTamg5X1FhZlg1RGJxSEQ4ZHdxTkM3RHJDaDhPN0lZU29US2pZOTdtZGVKTjdlMndTWWJKNTQ0SDFNVDBxNUNjeDdMQ3kzek9RekNZZ2hQTDBEMUlmODJ2TzZ5Um1HNURaWFRfdUJyZWFpaEpFTg?oc=5",
-   "date": "Sat, 21 Nov 2026 04:51:37 GMT",
-   "vu_le": "2026-11-21T11:40:34.953378+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Sun Pharma gets NSE, BSE nod to reclassify Valia family as public shareholders - scanx.trade",
-   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDdKSGk3Umd4NDczVWhOZzRMNkJ0UHA1czhzeWtBZ29TMnlZcnNYNngwd2NLZVlQaHAxVGM1cU1ac190NnhaQ2JfdkV0dUwzbnloeVg3OHFQeXYtVmMzWW4xTk1GZE5YSkFIeXpWQkZYN0MtaDNJQ19rbHBFQ0huX3hKaWpMU3V2Uk9zZGtYckVDQ3Nqd2c0SnNVQ3d3Sm9GM0pJLUhYdk1sSFlVYmZlcmx4Q1BwRmtLRmNmWHpkUlhiaFZuRzFrVlMxd3VPdmc?oc=5",
-   "date": "Sat, 21 Nov 2026 02:00:45 GMT",
    "vu_le": "2026-11-21T11:40:34.953378+00:00"
   }
  ],
