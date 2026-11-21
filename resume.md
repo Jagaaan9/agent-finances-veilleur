@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 50891.77 EUR, jour -5.18 %, mois -31.98 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 50873.04 EUR, jour -5.22 %, mois -32.01 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,9 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] Hong Kong Stocks Sink 1.89% As Hang Seng Enters Bear Market - BusinessToday Malaysia
+- [Résultats d'entreprises] Why Stocks Fall Despite Beating Earnings Expectations - EBC Financial Group
+- [Crypto] XRP price: What next for Ripple-linked token as ETF assets slip under $1 billion - CoinDesk
 - [Intelligence artificielle] Wall Street Had a Big Week. Why are AI and Tech Stocks Still Crashing? - Yahoo Finance
 - [Défense, énergie, matières premières] TransDigm Group Heads These 3 Space Stocks To Watch - Yahoo Finance
 - [Anthropic (FR)] Anthropic : 600 salariés à plus de 91 millions d'euros, la France ne compte que 1 800 foyers au-dessus de 100 millions - JeChange
@@ -453,7 +456,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] HeartFlow (HTFL) Surges as Q2 Revenue Beats Consensus and Full-Year Guidance Is Raised - Yahoo Finance
 - [Petites valeurs en croissance] Is Roblox (RBLX) Undervalued Following Regulatory Scrutiny And Rising Safety Costs? - Simply Wall St
 - [Petites valeurs en croissance] Ushio (TSE:6925) Posted Healthy Earnings But There Are Some Other Factors To Be Aware Of - Simply Wall St
-- [Pays émergents] Stock Market Weekly Round-Up (16-20 November 2026) - The Indian Awaaz
-- [Pays émergents] BSE SENSEX Jumps to 83,919.71 Defying the Global Tech Sell-Off Amid the Historic Meeting of Trump, Xi and Putin - BBN Times
-- [Crypto] Bitcoin drops below $60,000. Is bitcoin's price volatility an investing opportunity? - Yahoo Finance
-- [Marchés
+- [Pays émergents] Stock Market Weekly Round

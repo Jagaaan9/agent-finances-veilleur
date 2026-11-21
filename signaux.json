@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T06:00:40.038897+00:00",
+ "mis_a_jour": "2026-11-21T06:10:35.342085+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 50891.77,
+   "prix": 50873.04,
    "devise": "EUR",
-   "jour_pct": -5.18,
-   "mois_pct": -31.98,
-   "volume": 123.69965825,
-   "volume_relatif": 0.59,
+   "jour_pct": -5.22,
+   "mois_pct": -32.01,
+   "volume": 126.41634876,
+   "volume_relatif": 0.61,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3754,6 +3754,27 @@
  },
  "actualites": [
   {
+   "sujet": "Chine et Asie",
+   "titre": "Hong Kong Stocks Sink 1.89% As Hang Seng Enters Bear Market - BusinessToday Malaysia",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc3lMWFRRS3FZb3VIWE1ud3oyYWwtaFBBdDBQTXYyVFFrdmxpZmpjX1huNjEyaWZWa2xfMFRzZldYMnRKWlk3X3JwbGRSeVVudXpYdzJ6bFZSTjVRV3RySGVEQ052c1pSSWJENHZWN2dDcHZtY05xc3JnUkxjNy0wdUk2NEluaVZqZkU4Q1pvM2kwZzBvYmZjZVhKMGFjSEF6MVVyck93?oc=5",
+   "date": "Sat, 21 Nov 2026 02:00:00 GMT",
+   "vu_le": "2026-11-21T06:10:35.342085+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Why Stocks Fall Despite Beating Earnings Expectations - EBC Financial Group",
+   "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TR3RMaDMwRGN5NnZ6TXFaMUZxS01COVVtdlZmZWVXUXRjUFJRT0JieXZLTHdNNUM2N0lkMUx2NmNjN0VLMWpJQU9KUldOcnJ4emdGS3dmejJ1eWEtUWJ3U3czcnNJNGxibTIwU0tQRnhOeXR3?oc=5",
+   "date": "Fri, 20 Nov 2026 11:04:00 GMT",
+   "vu_le": "2026-11-21T06:10:35.342085+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price: What next for Ripple-linked token as ETF assets slip under $1 billion - CoinDesk",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTlR2b2NrTFp4Z1Vvckk2RHVOem5CaW5aZ3VJODJFZnNibTdKYnAyb2phbW53VkktRTRDTEJWazVEY1EyS3g3Q0pqeTQwNm9NeUNpem42VlZMYWc0Qld6bHRZYm54WXVkQkgycWhoSDhfTWVVa3pGa0pGbTUzcHVhSkR1TE5IY3NOTlhRSmFyYlhzOXhkUnN2dlpKRUpMRU9QVlo0MUEteXkzM3k1WVpYYWtoREtPUQ?oc=5",
+   "date": "Sat, 21 Nov 2026 05:59:19 GMT",
+   "vu_le": "2026-11-21T06:10:35.342085+00:00"
+  },
+  {
    "sujet": "Intelligence artificielle",
    "titre": "Wall Street Had a Big Week. Why are AI and Tech Stocks Still Crashing? - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3o4VzdIaVZQaWZ3UjBzaVBsOFkyekw3Z0U1SkVZT1pkM3hsZlNTODNtbVJNSWRHRWI4ckNvU0V1TUtOazlKTkM3NVdCVVJXd0xDZ0lRQ2V4YUhGZlBveGNkRHNKeXQtdkRqTUVneDYxdDhjNFVmVnZpOEd1RURucDh6Ry0zMWctaDM4QzB5TldMNEU?oc=5",
@@ -6531,27 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ0xYT1o0QUtrZExjSFFUa0luSmRIaVF5S0dmYmVBRnY5SThNRHdyT2RKTmlPaEJabVotNThPOG9WYnhxbW5ESmZfaWtZYkoxc1pNN09WWHFuazlqQUhJb2l4d0FXR1FmdnBzcmx0cmxxOFlDbEV6T0NleVRCTnhNVTNsOUlEa2NxUklTdkxOU3hKR2ZaamtWb2xUcWs2bUZ4?oc=5",
    "date": "Fri, 20 Nov 2026 13:28:00 GMT",
    "vu_le": "2026-11-20T15:50:52.061619+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Winners and losers of Q3: BWX vs the rest of the defense contractors stocks - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT1Z0MzZzNk4xVU50aDRuWEJ4YldmcW41RUdyYVljaHJMaEtWcEMtcko5NEVwWlJqZ084SjRMSWR4U2w3a0RiVkRsZ1gtbk9OVmRaSXZTV2xTam9mNlo4ME00Uno3LVJWMHlWd2ZCWUYybzJic0pFYkFoYVlON05hbm1hVGtzMDU2aDdFTmVRbFNGbjNXVE9vNmJETlFHQ2pyQ1c3Ui1IU2w2eXpudXA4ZkJ1cXNLeEtOdUM1SUhfMzRBczFmU1hGMDhOR1Z5OEdk?oc=5",
-   "date": "Fri, 20 Nov 2026 03:34:00 GMT",
-   "vu_le": "2026-11-20T15:50:52.061619+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Les Bourses mondiales doutent de la rentabilité de l'IA, Anthropic chute de 9% - Zonebourse",
-   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcGFscm5KX01NOV9uY0cyVERnZFUyZFQwd3dycXRlSTBCSGk4T2Y5cmxGREtVcFMtRlNfZEpMZHRRZWFsTHdnM3ZQV1lLbm5DVkViY0FYTS1LdzBaeEg1bm9wTk5TNll5VHVObi1LeGNvWEtOOUhMZ092cEtheEtudU1Ud1h6dTFPZ05zQ3hXLW04T21MdnV1aWwwN1lCRUZEc2FGY2w4djFGNV9KTmdDNWtDZXkta1BZYkFCblNqd0EtdElvdTFweGlyRkUxMlhVM19n?oc=5",
-   "date": "Fri, 20 Nov 2026 15:19:20 GMT",
-   "vu_le": "2026-11-20T15:40:36.133883+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street Analysts Believe Unity Software (U) Could Rally 26.25%: Here's is How to Trade - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcHM4aXhOMEdwb0RRM1RtZFBJb05jN3R4RmcwR1FJTkpIZ0hwcG83V1hHX0U1WnlxdzRlaVR0a0JGVW9VSXM0Nk1rQVR0Rm92NmR4cGJTejlZNEJieUVGNU9VX3ZWVC03eGZqd1pUZVZ3RF84czNaN0xLbU1aTVFUTnNlWnRPV2NrRjZQZF93MjFkcmNFWUoxUklrOGFfNDRU?oc=5",
-   "date": "Fri, 20 Nov 2026 13:55:03 GMT",
-   "vu_le": "2026-11-20T15:40:36.133883+00:00"
   }
  ],
  "erreurs": []
