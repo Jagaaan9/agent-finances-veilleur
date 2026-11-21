@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T09:00:36.993960+00:00",
+ "mis_a_jour": "2026-11-21T09:10:36.095637+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52740.25,
+   "prix": 52861.65,
    "devise": "EUR",
-   "jour_pct": -1.74,
-   "mois_pct": -29.51,
-   "volume": 192.14789954,
-   "volume_relatif": 0.92,
+   "jour_pct": -1.51,
+   "mois_pct": -29.35,
+   "volume": 193.45770085,
+   "volume_relatif": 0.93,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3754,6 +3754,48 @@
  },
  "actualites": [
   {
+   "sujet": "Anthropic (FR)",
+   "titre": "Deux jours après son entrée en bourse Anthropic chute de 12%, le Nasdaq recule de 3% - RTBF",
+   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZU02SVktRHdzbUZHNHJiTEZMMFBTeWZyZHA2ZU9uOC1mb1NXZHo3dXdNelB1TFdHVHVmWE5pbUZFLUZ5cWNKS0VFcHVjMEE4dEV6MFBrX3BBRXZkMzFCTlFnN3M5TEpnUDYwQnF4UWp4amNWYlY3cWJKMWQya2NUSnp1OXFNZGpiRVYwTlpfSFB1UUc3eHQwZVdreTR0Z0xnQ1FUNnl0RnpiVkd0dGl6Tmo3SC1NcE1TSGc?oc=5",
+   "date": "Sat, 21 Nov 2026 09:01:49 GMT",
+   "vu_le": "2026-11-21T09:10:36.095637+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic signe une entrée en Bourse historique, malgré les turbulences pour l'IA - La Provence",
+   "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYzRxZDI3T0s3VGZvdWtGNmgxZHVJZ3dyXy11TUJGNVVLbjZIMGE5RzQxV1hVSzBzWFZnNjBzYjMzSEI4WnBySGdpYTRnTmhMakFPSTBGOXdORkotaXVjTEJITWtpU2NITWZuWUNOaTl4c0JSSHVJU2JfYkJGZUR0LVM5bVNzTUNfWERZRl84UzRTanNJYXdyWXJ3WHNHSUpBTHVnOGItd1RLQ2FGM2xIaHFMWjBsVWZmNnN5SG55WElCd3l0NjVZaGxsTHlPcjVnOWpOaEF4YVJ5dERZWEFMb2RsUGJBTFk?oc=5",
+   "date": "Sat, 21 Nov 2026 01:34:24 GMT",
+   "vu_le": "2026-11-21T09:10:36.095637+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Quatre banques américaines se taillent la part du lion dans l’IPO d’Anthropic - L'Agefi",
+   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVEVRb1pzLW8xaVpYbFVreXR0QTlwcDVud0trR093WmxnaHNzbVJOTExfN2hFdzdZSVNheE14QUlsSThTcF9ZeExuc2hzZlo5MTBITHVvb3ZwSlBNQnQ5UU8yZWFBMF9vMjBrVWhUNWZZS2ZsTGRRVk5sd1JPcEs3eXdua3lGMnRYMUFjWmQzbXNtUHZnY0VwOHAyZXhTUnk3WFFNR2k0dmRlSDA2SFdJTnBycUc1dWl2aUE?oc=5",
+   "date": "Sat, 21 Nov 2026 09:00:00 GMT",
+   "vu_le": "2026-11-21T09:10:36.095637+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "AMD vs. Nvidia: Which AI Chip Stock Is the Better Buy on the Dip? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFhyenJ3MFQtY0ttcElNS19SNE0ySmFlcFBBaDk5Ym9FNnhVNV9UTjUxTFJ4ZHNuaGs5d1JCRGlrNTlCVG9CaWxNanpvb0JnSlAyWVh0QUNLQXRWV3FHNHVfR21iaXgzREphbldZWWpzUkhtSlRWUC05bllfSllSRnZnR0xvcVVWNGthS0JB?oc=5",
+   "date": "Sat, 21 Nov 2026 08:50:02 GMT",
+   "vu_le": "2026-11-21T09:10:36.095637+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "ETH price on Nov 21, 2026 at 5am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTjRaTGt2OU9oNVBNY09YVFFmSXVWSzZsS2RRTVdnRXhqRkZIR0NsY1ZOblM0RE1ReVl6RHdueExfVm1UM2pqNWtRWmRoUUZSNHpURlVodVk1ampsdkFDazMycTkwSk5TVkc3V21EVGpQbmJhcTRXcGVpN2RGaFgyY2JhWHZQWUJRODY2LU92RTJXWW5IM2dkazJsX1VONDA2YWNsbF9JSk9IRy1udmc?oc=5",
+   "date": "Sat, 21 Nov 2026 09:06:40 GMT",
+   "vu_le": "2026-11-21T09:10:36.095637+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 21, 2026 at 2am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS2NYSkNIWE4yRWdqY25GVkhIdUhzMWY3TlpaWXFqa3RNeDFiWExNNWlUbDFkdFd3SnNIelJDR2NSMXNvN3VPX1dJdDFUY3VnMG55OHpqSXdHRHZ4RXFCcmxZMXNpejMzandlRTFybENzS1hRNlFUYW56ZDJEa2dLWUljTDFIVWtkV2puc1dUc1RqdVU0bU1GTDVQM0loU0t4NXJCQU56VVJUMWo3N3c?oc=5",
+   "date": "Sat, 21 Nov 2026 06:11:02 GMT",
+   "vu_le": "2026-11-21T09:10:36.095637+00:00"
+  },
+  {
    "sujet": "Chine et Asie",
    "titre": "AMD Stocks Plunge 7.72% as Short Seller Questions China Firmware Ties - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONXEwS21FSEp3ZllMRDk0enF1d0Z3bnppTlVMZDJuMVZMNU90N1lnLUNqRlAtUzgyUnBaMDh5dGd3bVNDeC0zbWxwT3pVYzI5OUFJeDh6NDlOV1lPUnBfVlhES1hzTHcySDhIMDgtU2wyRFRZXy1SbGlkZ0ZMNVpOam9ZZndObjFVZlVLMUs0MUk?oc=5",
@@ -6509,48 +6551,6 @@
    "titre": "AI Stocks' Wild Ride Gets Bumpier As Nvidia Chaos, Blue Tsunami Spook Investors - Investor's Business Daily",
    "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU291OEFTamphSmg2LXZBUzlrbzJzelRKUnZ0bEd6cTE1dFBWd1V4Xzk0RE1lOVBzTUprLUpDODVHb1J5RWNoT2FzODVnR2Fzd2tpb0NjckNxZlhMWXMzSGdjc2tadFFxREd3eFF6TDktOHRXZnNTMmJ6UEUxemNwdWNoMXNYWE5GY1piNlJxT0ZGaWRjR3pLSjNEekUxR251elAwWWdn?oc=5",
    "date": "Fri, 20 Nov 2026 16:52:00 GMT",
-   "vu_le": "2026-11-20T17:20:37.196591+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Global Tech Stocks Slide As Anthropic Faces Day-Two Decline - Morningstar",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVmlLdHF5Z01ZY213U0FTbEpqTjRpX3A1WU1ZdzFpTzVuMjJON0FUS3VCbnlLbEpmbVYtcXBmQ1V1bzlwWGhpMUtxellzMDJORUFkeHVCdnMyVnN3clJvSENzRmRjZmJpVkZWZFdiZlBJbUtaUHFSano3MTZVSGYwNXBEVW5WWUlmU2hxZEdKcXJZMjRXb1pWUkM1RHVqYlZ1UTRR?oc=5",
-   "date": "Fri, 20 Nov 2026 16:05:57 GMT",
-   "vu_le": "2026-11-20T17:20:37.196591+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "SpaceX Eyes “At Least $32 Billion” of AI Chip Debt the Day Its Biggest Compute Tenant Goes Public - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVIyRmlUT2d6eE1vMFBHS3l4YklpZm1xbkFfNDNQLWlsTm93SDQtU2NETXd5X3ZEVEdjcXByM2pRMzgxVkNXRE90VXFmZWNKX0ZEWlZUYlVWWHdESmNJYjVqdzViYzFOZ1JJY0k4YS1wT2lLNjJnd1NBTndkNlp6UXhzT1BtNDhJaUtNTXdpNHB3aHM4Nk9F?oc=5",
-   "date": "Fri, 20 Nov 2026 16:52:14 GMT",
-   "vu_le": "2026-11-20T17:20:37.196591+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "New York drops no-bid AI phone-tracking deal but still seeks devices, NYCLU says - Superpower Daily",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdF9mYTZFOHBKMmk2ZHBIZVFKZjZDQVRIdjBwb2tOUzlsN1B4c19sRV9Wclc1RHpMb3daY1JRTmRWNjBrUld4dHpGUTdhcW5JS0lMa2xuR3NIMzNtd01aOEdET1g4SEZXbC1Ya2Zra2pESG1HN2d4VThzM2pQTk5WZmh3VURxcGlNVXJteGpIc3cxeDJ1bFpJd0NvbHhNY2I2d2dIZ0hRVGxGX2FSNk5mS2lDcw?oc=5",
-   "date": "Fri, 20 Nov 2026 16:57:46 GMT",
-   "vu_le": "2026-11-20T17:20:37.196591+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Defense Stocks To Research - November 20th - MarketBeat",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM01lSmFEdGIycWtVLXBKbkZJbHVVRjJ0c29rY1ZSYzE5SzZZZkFkNlVuMl9KMEdPVUtlNmlZcU9LemRQRTNDcVEyeVpVZkhZZ1NQNklyVFZkd1lyTTZVRHFjR2FXTGpxWWcwNVVIOEZPZW54dlMyM3VwaExzYVFDa0Z0ODlJQTZtTlVYVGduQnI2MkFlQ3ZtVXpKM3hVaHYy?oc=5",
-   "date": "Fri, 20 Nov 2026 17:16:59 GMT",
-   "vu_le": "2026-11-20T17:20:37.196591+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "FTSE 100 drops 0.93% to 10,452.68 as defensive stocks weigh - ad-hoc-news.de",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYVNRUHY1Y25JbC1EQnlURXRwMkgzVjhTX3NkejdnS0ppcW5hYkg1aGJjN0dqcWZ4VWlxUTI2cGJNYmVubTZaaVV2WVpPSWRBM2d4SXd2UjRrTUlqWDJDbHJ2UEdmWkFKd1FzN0RCeUo2aU5GZVFGb2xmZnpLQzVET2lvSE9Db0I5NGlwc3hYU1hMRDJxbmQ5bGNsaG1kYUdjLUhhaUtyTjV4WHBzVEcwcDllQjQ4c0dLZlNsQQ?oc=5",
-   "date": "Thu, 19 Nov 2026 21:53:30 GMT",
-   "vu_le": "2026-11-20T17:20:37.196591+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Crypto Brief - Lowenstein Crypto Newsletter - November 19, 2026 - JD Supra",
-   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5taFpVSFpJUGRUTzh2S1ExU2FuWENfRDljRGh4OVp4d3Nqd3h3TzVsdXAxV2lkeUFMWGJGallyd01lNHRTdENRN0dMbmNCQS1BMFZ5VTNUdkJBRjJEZGtWaURwQWRYYlp2ZWdGX2dsRHdGQkR0MmlhZjJwck1EZw?oc=5",
-   "date": "Fri, 20 Nov 2026 17:12:03 GMT",
    "vu_le": "2026-11-20T17:20:37.196591+00:00"
   }
  ],

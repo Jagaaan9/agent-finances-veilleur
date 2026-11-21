@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 52740.25 EUR, jour -1.74 %, mois -29.51 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 52861.65 EUR, jour -1.51 %, mois -29.35 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,12 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Deux jours après son entrée en bourse Anthropic chute de 12%, le Nasdaq recule de 3% - RTBF
+- [Anthropic (FR)] Anthropic signe une entrée en Bourse historique, malgré les turbulences pour l'IA - La Provence
+- [Anthropic (FR)] Quatre banques américaines se taillent la part du lion dans l’IPO d’Anthropic - L'Agefi
+- [Intelligence artificielle] AMD vs. Nvidia: Which AI Chip Stock Is the Better Buy on the Dip? - Yahoo Finance
+- [Crypto] ETH price on Nov 21, 2026 at 5am EST Crypto Prediction Market - Robinhood
+- [Crypto] XRP price at Nov 21, 2026 at 2am EST Crypto Prediction Market - Robinhood
 - [Chine et Asie] AMD Stocks Plunge 7.72% as Short Seller Questions China Firmware Ties - Yahoo Finance
 - [Intelligence artificielle] Nvidia’s latest chip scandal has an Alibaba connection, new report claims - Yahoo Finance
 - [Petites valeurs en croissance] Is Capgemini (ENXTPA:CAP) Undervalued As Cash Flow Supports AI Growth? - Yahoo Finance
@@ -454,8 +460,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Résultats d'entreprises] ​Intuit Stock Drops Over 10% as Mailchimp Sale and Weaker Outlook Hit Shares - EBC Financial Group
 - [Résultats d'entreprises] Vitasoy International Holdings Reports Profit Up 8%, Warns of H2 Pressure - TradingView
 - [Marchés mondiaux] S&P 500 correction: Five forces behind the market sell-off - CNBC
-- [Bourse de Paris et Europe] Cac 40 : Balayé par les craintes sur l'IA, le CAC 40 perd 5,3% sur la semaine, sa pire performance depuis début mars - BFM Bourse
-- [Intelligence artificielle] Officials approved the sale of 580,000 Nvidia chips to Chinese companies - The Washington Post
-- [Introductions en bourse] Singapore-Based DayOne Is Said to Pause US IPO Plans on Data Center, Market Concerns - Bloomberg.com
-- [Pays émergents] Daily Voice: FII buying is no big shift towards India, but worst of foreign selling is over, says Spark... - Moneycontrol.com
-- [Petites valeurs en croissance] 3 Undervalued Stocks Louis Navellier Likes After the Market Selloff - Tr
+- [Bourse de Paris et Europe] Cac 40 : Balayé par 
