@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T18:30:42.043126+00:00",
+ "mis_a_jour": "2026-11-21T18:40:35.753245+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54918.9,
+   "prix": 54956.1,
    "devise": "EUR",
-   "jour_pct": 2.32,
-   "mois_pct": -26.6,
-   "volume": 378.30883831,
-   "volume_relatif": 1.81,
+   "jour_pct": 2.39,
+   "mois_pct": -26.55,
+   "volume": 380.04800778,
+   "volume_relatif": 1.82,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "JO de Paris à 7 milliards, émeutes à 207 millions, Anthropic en Bourse… Les cinq infos économiques de la semaine - lejdd.fr",
+   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM3pTOXp3WE5yR3NOdEt3akt3bXFxaDlHSXBUMm5MTTVXbGRaeVE2NDRJTFV5VE9aWUdwYkpvMDlXSVZtOC1xcHBEcExJRGY0UzM1dkZwUUZVS1pVUk13cmFVY0xWVGppTC1HUzlhU0ZRd3ZjSlRPSzFsTkNoSG5ZYjJrOGNOSGMyV29pcXBPQzR6aU5pSjAyNW82aU05UXNTRHJJeGt2Z2lGamF4dUJ5LWpXSnhWSHp2empLRmJjanhaczZmTXdXV0diX3Q2dlpsYkpONGtuYktUMXNqTFZB?oc=5",
+   "date": "Sat, 21 Nov 2026 18:35:18 GMT",
+   "vu_le": "2026-11-21T18:40:35.753245+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Coherent stock falls 15% as the AI chip rout hits optical suppliers - Startup Fortune",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbTJCVjV6OUtoUHMydU9NcTRYZnRWemN1bHlDQVdCR0dFa1UzUk9TSUM3VnpZUl95RzVMSFRyb1c0T3IwbnZLdXRKcTVjRkdJeEgwdWl0aXowZ283dzBGSlVmdF8wWW1lQXBiU0dxR0RKckk2azVBdUhKWENSbWI1bE10X2d5YlN2NnZYcGM0RXpJV084UDNNUjVR?oc=5",
+   "date": "Sat, 21 Nov 2026 18:25:05 GMT",
+   "vu_le": "2026-11-21T18:40:35.753245+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Inference now drives two-thirds of AI workloads, changing where chips get deployed - SiliconANGLE",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWkVRcWdCQzBDME0wd2RVQkxwQzdUa2M5LWVSd0pZYnVqTmlXWU9zUDRSb1NURi1rQ1puWjNVZmRpaUxfbnh4MGhnUVdkZy1nNjBOaFJTWEdvbUE5Vk1KVVdVQjhiOWRFS2RvYUtkWlFUaUxNYWpyVnBCNnh5ZzVvbHlxVFlwckZFNHJNdGIwYXk1ZV9SeTNhTVJGaFFQMmp0WGc?oc=5",
+   "date": "Sat, 21 Nov 2026 18:28:00 GMT",
+   "vu_le": "2026-11-21T18:40:35.753245+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "3 AI Chip Stocks Retail Investors Are Watching After The Nvidia Selloff - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejlycTNOTWVaLXBObmZzQ29NbHBmT0ZMMDhJUVB1Tm85VXhCRjRKRWdpUHlYM2Mxc0xPZHZacEt2a05BUEFLaHM1c3FqU3doWVN6anJJOW84QjVleU1aRGNzV2RKM0k2R2tvY1JUTk9kbWh0VEdrYzg4YS1nWEZGUTQ4WEV3NlU2T3NxQVdFWjg?oc=5",
+   "date": "Sat, 21 Nov 2026 18:08:06 GMT",
+   "vu_le": "2026-11-21T18:40:35.753245+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "What Does BJ's Wholesale Club Holdings (BJ) Raised Guidance Mean After Q3? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNk9Ub0dGLTQ5R2JpLTZjVlVvUkc1RlZfVHFNUjZqSXJLSXAtWGlKQWZWVTZvaFgxbXN5NktlbFlLZDAxTm1xQ09YbkNmWG91NDRUcnpJYUFndEtlNVRNTi1rcGtoWU8yaWg3UWpaaW9ucEVJc0VEeDgzVUZTaEw2UHZXZ1cyY2ZtMWc1cjlhTnFOWThyTlY2N0RKb1c2dw?oc=5",
+   "date": "Fri, 20 Nov 2026 21:18:37 GMT",
+   "vu_le": "2026-11-21T18:40:35.753245+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Copart (CPRT) Stock May Look Reasonable On Vehicle Recycling Growth News - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRDJ5S3hQWFZmdmFMR2hFYzhTNVdzQ0FSMXBlQUNVRWNoSnJpZVdTZ05xalNpdkdQcjlKcEU0RkxxMm1mWl9yZ2lrN012cklFbHByQVZEXzFOTWJtUGljNHZVaUtmenNCYnhMbnpJZ3MzWnhZWHZhVjhhcFc1OXVkY1dlclhNS1NJMy1wZ2czeUxwNUlINVNJNXFnemRJV3hoYUllYnAzckxaNGhSV2ZuekVqSVFmQkZkY3A4clNYNTkxVkdWc2xRZzdPZC1XVDRHQmfSAdcBQVVfeXFMTVJKRk01UnpOTWJ6bkVqRXJwVnlGc09NaWloNFZ2SmNTODJLcHcydGhXb1FNcWpiUXhQeGxtb3k4MTZFbE5tdm8zVTZSVFBTcHk4VWRxNExrdE0zdG5ET1psdnFiYzRGN09FM3RVa0hWSmdQVVZXRG9hblZCVlJ3Wk9xWUZ1ZmdGUEI3TEVVNkJKTXFxaVdVdE83OFQyTU1VaEpwQXVCbnl0bmNxdUF6TFAxeU41V0x0dHpaNzhWdjd4TjB0U1VmcGpsUzFqQ1FtTlk3bVROcFE?oc=5",
+   "date": "Sat, 21 Nov 2026 18:11:13 GMT",
+   "vu_le": "2026-11-21T18:40:35.753245+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Electro Optic Systems Holdings Limited (EOS.AX) stock price, news, quote and history - Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80czMzSUxkOWxyNUZTX2xibWJyYmhWRW5vMm5rLWs1cUJFOF9RLVB0dGtHcGhfTWdPdU5WWkZOMUVvRUpPQ2NTY3pjNlpidkdLQnVZWA?oc=5",
+   "date": "Fri, 20 Nov 2026 21:39:12 GMT",
+   "vu_le": "2026-11-21T18:40:35.753245+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, says biz tech CEO - Fox Business",
@@ -6503,71 +6552,7 @@
    "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vb3NDaUdGb2I1TXNQRUdiOWRvNDZVNFJvVkNtOGpHRnctZnhSZTY4WWlNNkRHNWxBRVg5Vi1qVFh5WUIybURDSGN0QmRNN1F5WTFWR1pKRDVMLXhOVEVQOXZ4WmRPRk9HMExkWGdKSWItNXJlUHBiN1pxREVnZw?oc=5",
    "date": "Sat, 21 Nov 2026 00:04:54 GMT",
    "vu_le": "2026-11-21T04:20:35.590720+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Goldman Says Stock Selloff Has Legs as Panic Index Nears Maximum - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaU1jaG5wWHRDVVE3anRoZWtQUlpsTDhnbHVfRDNMSWVidGlNS0RNY2o4QmV4NnNSVThSRnc0VkVfcmx3SVhUMVF2RWtKalBYWERvUDdLd29yT0VXMEx3enNzeGNUTk1uVkhoaDVMZ25URDd4ZVkyVVhnZjhJMlI4UlBGOFV0UGc4NGN0Ulp0UnlXT0dUMk5XV01DYTEzMlBNaHRPX0Z5bnIyeGk0cktoYmxObE1WUQ?oc=5",
-   "date": "Fri, 20 Nov 2026 21:20:55 GMT",
-   "vu_le": "2026-11-21T04:20:35.590720+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 21, 2026 at 12am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQnlLWng4R3pLV2Z4ZHNvS3hxT1k2TUhBQ3BKb1EtN0JFVUpxNmJ5Y0dHLUljR0JMWXVuYXdwUTJEVzIzVU5FelJWNHp6bEk1clhoQ3NpOW0wYXVQMjdhcjNyaWdLNDBHMmtfWVI5NzlTby0yd0dVX0ZUNWtuaTFNQVZVRUZlT3lsSXJxZkFIUEwzbXVMNTE5TDRORklLa0hLVnlXZzFib3BReFVJSWN3?oc=5",
-   "date": "Sat, 21 Nov 2026 04:14:33 GMT",
-   "vu_le": "2026-11-21T04:20:35.590720+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVXQyRVlCTU5XNjdyZDVyTnNOVTUzVGlyWHAxYk5CUm9tME1VTllrVWNaREZHVkpzRVhYX1Q0ajZMUjBiUUloMTFvNGdxRFVlNlRYVkplVEJ1em4waFRfTFVCQXRPRlBhT29NSndpNGRDcVdtbW9Cdkl2NjQxZW1NSGVRcmJhbVFMSTlveGVwOGFSdWRnUXhVUi1UVmNwTjhqTjUtUDB4Q1VIR0duRjNyLW9MN0FFQmZSbFJGeE5kVHE?oc=5",
-   "date": "Sat, 21 Nov 2026 04:12:18 GMT",
-   "vu_le": "2026-11-21T04:20:35.590720+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Tumbles to Two-Year Low Under $58,000 as $2 Billion in Bullish Bets Get Wiped Out - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nUEY5OXFCZ2pyT3ZsZzJXdm1ONEZfeW55MVp5dlNKVEpyN2NjMVFSV2ZkdXE3SVVEaXFMLTRnT01JeUs3Zjg1bGw1QnZUQnM1N2FLN3JnVzIzYWtyUGhrV09QOGZqS0JBM3Q4RzFabHlleXU1UkE?oc=5",
-   "date": "Sat, 21 Nov 2026 03:25:00 GMT",
-   "vu_le": "2026-11-21T04:20:35.590720+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Photronics (PLAB) Stock Could Be 29% Undervalued Despite Fresh AI Supply Chain Uncertainty - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZnlzM0RidkFWT0xzY1ZNTVcxNTVQR0lSc2ZZUUpZbDEtdVRnX01BWlJidWRmWnFkUTlaTmVjYnc0a3RraWdGTF9ZMDdadnJOUWRDTzI1cnJHXzB5aGdET2VFa0tQRVZIM1RUd1JLc1hiR1loVTVhQ2hMWUI1TGJEbmhGV0doSXJvRHVrZUpLTVFMOHZfenhISlcwMA?oc=5",
-   "date": "Sat, 21 Nov 2026 03:16:00 GMT",
-   "vu_le": "2026-11-21T04:00:36.748241+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "U.S. Global Technology and Aerospace & Defense ETF (WAR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTREFxdnNZZDZaU2JXRmFfdkFxZGMtUWVlQnZqcXdCTzNPMkNoZ29MVmo3TGJWRzkwN1RpbEpLT3l2UUo1cHZCN1BDRDV0Q3hn?oc=5",
-   "date": "Fri, 20 Nov 2026 04:06:28 GMT",
-   "vu_le": "2026-11-21T04:00:36.748241+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Nvidia and SanDisk Bets Joined Bitcoin in a $1.76 Billion Liquidation Wave - BeInCrypto",
-   "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3Y3hVaUJUeV9YZUYyU3A3bnVKNlNVSi1wZ0NZZTctMG96WkptWW9CQ0ltNl9FbV94Q3k4X0xkMjF5RDlnZGp1ZFhfbDI3dTVpeTFSZjFTTGZVY0dOOGUzc191U09EelhwbVJFcWtSTG9WN0ZXcmRiSA?oc=5",
-   "date": "Sat, 21 Nov 2026 03:48:02 GMT",
-   "vu_le": "2026-11-21T04:00:36.748241+00:00"
   }
  ],
- "erreurs": [
-  "actu Anthropic: HTTP Error 503: Service Unavailable",
-  "actu Anthropic (FR): HTTP Error 503: Service Unavailable",
-  "actu Marchés mondiaux: HTTP Error 503: Service Unavailable",
-  "actu Bourse de Paris et Europe: HTTP Error 503: Service Unavailable",
-  "actu Banques centrales et taux: HTTP Error 429: Too Many Requests",
-  "actu Chine et Asie: HTTP Error 429: Too Many Requests",
-  "actu Intelligence artificielle: HTTP Error 503: Service Unavailable",
-  "actu Introductions en bourse: HTTP Error 503: Service Unavailable",
-  "actu Rachats et fusions: HTTP Error 503: Service Unavailable",
-  "actu Résultats d'entreprises: HTTP Error 503: Service Unavailable",
-  "actu Petites valeurs en croissance: HTTP Error 503: Service Unavailable",
-  "actu Pays émergents: HTTP Error 503: Service Unavailable",
-  "actu Défense, énergie, matières premières: HTTP Error 503: Service Unavailable",
-  "actu Crypto: HTTP Error 503: Service Unavailable"
- ]
+ "erreurs": []
 }
