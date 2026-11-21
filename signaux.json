@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T22:40:35.132216+00:00",
+ "mis_a_jour": "2026-11-21T22:50:34.876873+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54865.92,
+   "prix": 54836.66,
    "devise": "EUR",
-   "jour_pct": 2.22,
-   "mois_pct": -26.67,
-   "volume": 409.67819496,
-   "volume_relatif": 1.96,
+   "jour_pct": 2.17,
+   "mois_pct": -26.71,
+   "volume": 410.43735106,
+   "volume_relatif": 1.97,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,69 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street Plunges as Market Turmoil Raises Concerns for Agriculture - AgroLatam",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdlZyQmZlWEhPeUlDUkswNTJoc0hIU0dMT0JIM0syWURjQS1oMTFkOVByOU42NmptVjZIbWdRWDd1bGZ3amF4MEY4ODFtcjEwVlF2UmtrS2NwVmZ3VmdpOThHdTZhbWNKTm5BUDN0b0lxd0E2d093VkVMMnBOUUZKOTNDN1NleEJzNDVsVHB2RUdsOUY5c0x6YVRnVDFOVXZCdlR0U1NpOW8?oc=5",
+   "date": "Sat, 21 Nov 2026 20:58:59 GMT",
+   "vu_le": "2026-11-21T22:50:34.876873+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Sixième samedi de mobilisation pour la jeunesse et contre la vie chère - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVUJXUXliMFJGaENxMDU5UmhNa0FzaHU5XzhpUnRDTmkzQzFNUElZZmh0d0V1LXJsODhwc1hiVDJZaTRfTjVldUZfdEEzTnkxRWZSMGYzZXZYbl9WaXNtbFlBVG05TTdCZHNkek5ybUpub2sxejhacjZEb2hVUFVsTklRN0FyX1otX2U1ZEJZWnp6RDV2S3JsTERMQUFUNEJYRFViREtIZlk1QldCMjN3NjFfamVIR1FiMlBtQU83LV9DYWNxMjJEMkVpanZjcXpmTUk2QWd3eDEteVpVY1NTaDhDYXNlSFpZRVNCeHJkMVVlMEwzaXkwZl9pMU5RUQ?oc=5",
+   "date": "Sat, 21 Nov 2026 02:01:00 GMT",
+   "vu_le": "2026-11-21T22:50:34.876873+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Poétique mais puant, l'étourneau reçoit un accueil glacial à Rome - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaVZXRFJtN2xjVkk0YVNQdVU3RDRxU2FrcWI2bm9jbFBiWUF1ZzNsdXNlcERJN2hwSGdYWTdwZHR1MVdWWjdrX2NMckw4SHdRRWNjMlI5bExuWEVvMDk1VDdJdDB0M1ludHBRUVA0MUVCRzQtUVdad21YT3lqWjdXUVVBU2xZenVZaVNRUXFnVkdKX2JrQ1dDb0liQ0RtM3RPNDFFenVJMHlEeWNTd3MtNjRkWGFwcDVoaEFCc0gxWkU0d21xZVdyejlldldRY29BLWZaU19EZF9mdjVaT3BTeV9UX2dUOUxSc2JpRW43VmN4QVRydWc?oc=5",
+   "date": "Sat, 21 Nov 2026 16:58:00 GMT",
+   "vu_le": "2026-11-21T22:50:34.876873+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "L'art de tout avoir ? La manifestation d'intentions, nouvelle foi des réseaux sociaux - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPMmVuOExXcUp6SWlBcmZtbEJNaHJXcGNUQU5FbTVMTnllOVZoZFNqemlXcm5QbEZ2T3dFMDNRbnVDN2F6V2RoRE9CaDdLcmhETkJnN1dadDJDdGd3ZFdZV3BvN2U1dm1fQnljUFRaNlIxelRmb2M5SnVVUEhDMEp1dUtfZnVhbTRLd0pRZmhPbnpXOHRwZ1Jqc2JaOHNtMWNpYVJvMk1hT2xnNmh2VEZDMkhwU3RlMkU3YjVaTm93Qm5aeDNqbWd2VVk0QkFTVlN5Qm9GWlNUdEZUdXFVWFRmY1YtbXNnR254QXNzQllVZVZYemdhLWc3TzhIWlA2YjlhaGMwX0k1X0FvSFZXU0NEaVItREVDX2Q1ZDNmOFBYdnc?oc=5",
+   "date": "Sat, 21 Nov 2026 11:56:00 GMT",
+   "vu_le": "2026-11-21T22:50:34.876873+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Déraillement en Normandie : la SNCF défend ses agents après un premier point d'enquête - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZGtaTjFmNnVaWHhRbzFjNWRfY3pvZTZGUmI3X1cxX2o2bHBYTEJXaS01VHdQeEhBVnR2YWpaLUhtLXdTdjU3Q1RYQktpa0ZMY3dkYUROc01GQUZwb0J5eVdLNHNfVXh1cG5hamxmaGFhdXZMcDJLOEt5ZzlwQVBuVGhRWTVCTDU1TG5fWlE2WUFSMEF0U21MU29aaWl4a2dZaXMyeWJqejVLMzF4cDBmMW1wcWhvM3RQa2cxcnpJcGVjTE5nRHRmcDFLZUpzYzB5Q2dtZXlyaXF5R1lZa2czR3FIRnh4TW5Bd09hUjFTVFN6YXJ1X0FXNDZ1ZFNsanU5bXowY05EWmd3YXNZcUZYSA?oc=5",
+   "date": "Sat, 21 Nov 2026 19:11:00 GMT",
+   "vu_le": "2026-11-21T22:50:34.876873+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "La Finlande a détecté une attaque de drone contre un cargo russe en mer Baltique - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQjZ0RHZQbTZhV0QzN19XazIzNHRQUExBR1B1eEtBbVk2T1FBQThjeW1OOUJDcGsyeU1ORXkwMTF0NXR3SEhEcS1fb0w1VDR1cFR2eENRc0U3cTcyS1FmV0cyT3NKU1ZMMnpOWXVUUWtIM2JwWG1MaHk0QmhLaEotREYxX19LMTVlR0ZMenNxWER0aHhmZ0RQaE1yZkV6cXlMVk9TR2hFcTdRNjhKQlpZUVRvRDA1M3JZVEFnTG1YcUR4RGpkMDhBaW1tUGdoaU50a1YxS2pfYTlQREt6TTRVU1V0UzdDSlBkYlVIazFRNlg3LVNqVl9INlBLb01ZMXo3ZTRnMVZYbFlMRDQ?oc=5",
+   "date": "Sat, 21 Nov 2026 15:17:00 GMT",
+   "vu_le": "2026-11-21T22:50:34.876873+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Ruffin retire sa candidature et souhaite \"bonne campagne\" aux \"candidats de gauche encore en lice\" - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNOFdMdmVLb2p2T285SUxYeGxoWFdTQUl1ZmJ0NTBGQlktV0N6NFg0eXlvNU1UczcwVjlRekxyeDBBblV5ZU13RUF1Y2ZSQW5pcWIzYjZOOFRxZXlXQmthYkY4NzVBQUIzaVRvR3ZscFF6emhMd2pvcFlpTk45SFE3a2sxTFU4ejhTYzZTNGh5N2RFNDJsZG5iUkMyZGxnN3pmVF9ZZlNrbURPV2FiUzBmNDJvNFQ3VC1ST3RhM1NyMFE5QmtiMU5oVE5HU1lidV92ckcxODg1QW9LVEJHSERER0ZCQmpwNGpGMHpuUlRIVjU3d3lyeUc2UXR3QXN1czhXeEpITEQzTlRvbk80amF2TkJKRmFERzNZYmN3NHRoSQ?oc=5",
+   "date": "Sat, 21 Nov 2026 17:27:00 GMT",
+   "vu_le": "2026-11-21T22:50:34.876873+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Grands titres et actualités sur les capital-actions SSE STAR High-End Equipment Man (000687.SS) - Yahoo Finance France",
+   "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lVHlwRENHYV9adjNJTXVRQVhBdnJBSkpnb0FvcFAtaDJyZnNPeVU2VnEyWjY1RmV2TFhKVVRxMVhuMWd0c3pfNWVWeUxLV2VJR0d0SHNVQTZSSkVvbk1B?oc=5",
+   "date": "Sat, 21 Nov 2026 04:19:37 GMT",
+   "vu_le": "2026-11-21T22:50:34.876873+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Rebounds Above $60,000 After $2.4 Billion Liquidation Wave Wipes Out Leveraged Bets - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTktBYWZxbXJtWElUWTdsUnFhZGlQRzFQbjRiUGRLcHcxdk1CRnpXSTRDOEM2bWROd2Y2MGRlb3VKR1J3VU1Hb3dObXBpblAtbjlWNDF6VmVZZF9hNHJKMjJpT2JhMnhjVlU2WUxSbmpadVhHQXc?oc=5",
+   "date": "Sat, 21 Nov 2026 22:35:00 GMT",
+   "vu_le": "2026-11-21T22:50:34.876873+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market - Yahoo Finance UK",
@@ -6489,69 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZHY0UGVLcnhadkxtdHFvSWE0RF85SUM2X05wQzdUSHhrTmhUamU3ZkpBaThVLVlObndVMUNhQnZnaDF5NEpCeXB4R0hXZHJUdlV5dFJYd2d0dDdrUDJ6d1oxQjZoX2UzeWVMU1VFN1hDOXd1dWlNSWZpRTZ0eGNzVGVvOTNfMG1EdDJBOHVKeERtYVU4Nkp4UktaUGVfN0NRZDRMc2ZtTDhrVWsyaDRBcHFlRmV4NmI5OUhDU21jMzlFeWNyM1VDN1RLamRITi14RzE4WnlIcTlrTDV3VlZXaV9ZeXRmZU1FN0N2ZNIB7AFBVV95cUxNZHY0UGVLcnhadkxtdHFvSWE0RF85SUM2X05wQzdUSHhrTmhUamU3ZkpBaThVLVlObndVMUNhQnZnaDF5NEpCeXB4R0hXZHJUdlV5dFJYd2d0dDdrUDJ6d1oxQjZoX2UzeWVMU1VFN1hDOXd1dWlNSWZpRTZ0eGNzVGVvOTNfMG1EdDJBOHVKeERtYVU4Nkp4UktaUGVfN0NRZDRMc2ZtTDhrVWsyaDRBcHFlRmV4NmI5OUhDU21jMzlFeWNyM1VDN1RLamRITi14RzE4WnlIcTlrTDV3VlZXaV9ZeXRmZU1FN0N2ZA?oc=5",
    "date": "Fri, 20 Nov 2026 17:44:55 GMT",
    "vu_le": "2026-11-21T11:10:36.761154+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "L'euro se renforce alors que la BCE laisse entrevoir une hausse des taux d'intérêt - The Portugal News",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSFVmRkZRdWsxYmV2WTN2eWYwMi1GZmdpM1M2RlNhdl9WUVdHMm9ZazZnTG4tOUI5WEtfWExFeWRnZ0NPc2ltVU9mSDZaQlFIa3Y5My1tbHRmbEppOUNhUi0xWFdGZDdOWHBKbkM4TS1wSmVxX3dHd1dTNFhTa25RR1lPTnBGUnU2UTYwaFVOV0M2THo3NWtUa0J5OUdYSWI0Znpsd2ZRRkJEa24wTWh2aE40ZFFTUTUtWDVCWFBQWjZYcExveWtjVDFUQXdtQnY2VUYxeVVLU2k0MXJs?oc=5",
-   "date": "Sat, 21 Nov 2026 07:57:27 GMT",
-   "vu_le": "2026-11-21T11:10:36.761154+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Le dollar recule alors que le rallye alimenté par la Fed s’essouffle ; la baisse des rendements américains soutient le yen - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYmlMdVVEeEpnOW93ZDBGRHFvMHNlWTc3SXltOTM1Y1ktN0tkUVc2WFJiVENReFNILXhGV3B3NWY5VGZjdWM3bTFpeUNxbjE0a0U2Qk9IdDhibzl4b2dEM2FKT29WM1h3cXZGZ25DZUMyN3FFRHphZExybG1ObkctTGhOUmtaR1hhbWs4S3ZRWVl5d0FVNXZtZFZvZFZWSWJDQmxJWnk0LVhNdlB6d1psMEVSR2tCOThvMEZoYlhwRTFhTHZYNzhGamI4X1RQSi1TazFqNWFQTnE3OTJlaU1lbjZNdXVPLTJqMzhqZVhB?oc=5",
-   "date": "Fri, 20 Nov 2026 20:08:21 GMT",
-   "vu_le": "2026-11-21T11:10:36.761154+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Lisa Cook, de la Fed, juge de plus en plus urgent de lutter contre l’inflation - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa1g4d1lsVG4waDVMZFd4RnVGVG9GMW5uWnRIMXZTUWRHb2dzZEZrbERZcFJ2NTBFamk0eFhOc2YtUTZwSlVHbVlJWlJONjNhLTRLX3YwdkczZ3lFVnJuRzFQSGwxVXVick42dHVMT1pvMjR5aW03R1JUaFhiNHVrblhwTFhEN0Flc3lSeGdxR2l5NVdTX2YtOTMxNGJXejMzX0xBOXRPMVEycTJ1SjBpbnFiUkE3VktzVjA2aUdzMmh3SGpSaGJmblVVbnVvellMbWtv?oc=5",
-   "date": "Fri, 20 Nov 2026 18:56:31 GMT",
-   "vu_le": "2026-11-21T11:10:36.761154+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Le cours de Bitcoin passe sous 60 000 dollars pour la première fois depuis juillet - Yahoo Finance France",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFliX1E1WmpUNldBQkR6VnpGbmxUNHBMcThCbDR4cG5TekJsTnFBanRWYW1yR2xpNVRJM1NrSXFiQkNWODlpWXlfbmpIVnRyZk5lQ250X0pYSHVBaE91QUNiWVloUm4tWE5wTTVLZWtEak5iUjJITGU4SzE2MmhMVjdpWGZfSW1w?oc=5",
-   "date": "Fri, 20 Nov 2026 15:45:37 GMT",
-   "vu_le": "2026-11-21T11:10:36.761154+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Is L3Harris Technologies (LHX) A Bargain After Recent Weakness? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGNmeWtfdUxVcTZLZHh5M2FNRDVsRVlhM2dTQ0VOZ3oxaFdkWDI0YWdlZFhBbTZ0RlFMUFpHMV9mZVhXdXY0bUV2T2RhNlJIVmxSMjV4LVduQ3RGclZNUWRhN1FEZXp2SU5yNE54cGhYblVEcUtIUUNRVzJWQXlydmdkZWZyeU9sNlBVNmFvaGNvblBMOVBtWnJYR3dKRHhkTW1xTEZBMkw?oc=5",
-   "date": "Sat, 21 Nov 2026 09:10:24 GMT",
-   "vu_le": "2026-11-21T11:10:36.761154+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Can AeroVironment's $405 Million LOCUST X3 Order Expand Its Reach? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0lpUVp6VWNMX0tWcmFJbkxKTzBwa1d1YW55SjNCbno2bEJVdk5ZUFNncXIya3lSQi1LODJoWUNSWl9qT1hLbmZfVDRieXIwZXhac1pfTXRfMm5ROEJLcU03OVhjOTF4S1RfOXV4RHhaVm5jSFducElaci1PajVNakxZSDQtQ1VJMjlMYWloZThtVkpKSGlqRXc0Y3N3bkNLejAw?oc=5",
-   "date": "Fri, 20 Nov 2026 13:57:00 GMT",
-   "vu_le": "2026-11-21T11:10:36.761154+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "ETH price on Nov 21, 2026 at 7am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMzNmQzFRR2poeEV2a3k3UHdBa3hRYnFJSGF3c09ydTBVU0J1Z3pfSHlnaE01ZnlpRkZ3U3duLVdWR3NhZTQ5UEVqWlF6NzVnd3BLX3B2V0NhY0R3b09ENzVSX3VtY2JKdm5BZzBhYURWaUxQM3RWb0NsdzMzTDJuaFRIS1dXS1lQb2dEOUNqV0w3Zm9rNDFQTVNFVXhucGdiLWlETUhkOUM4eFN0eXc?oc=5",
-   "date": "Sat, 21 Nov 2026 11:04:49 GMT",
-   "vu_le": "2026-11-21T11:10:36.761154+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "eBay sellers are chasing Anthropic IPO hype by hawking $1,800 hoodies and $100 tote bags - Business Insider",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUJlOVBVcWZXbWczUXJoV1NqODNGSUI4T0xmQ0s4dEhQenlPVjl6MnhmSWFBWTdULXVUeDNlY0pMUVNnWGp6aTFDVkNvSnM5YjcxQUlfWGhjQTByeW9iS0F6TFlya3BkTDA4V1gwZUNLSzF4M09RV0R4OXhRd2UyZHhMQ054Ym1UOHdqMzFmOGNKTk5vckN1RmF6R2l2MGJ5c3Rn?oc=5",
-   "date": "Sat, 21 Nov 2026 10:15:00 GMT",
-   "vu_le": "2026-11-21T11:00:34.955738+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Nvidia : L'équivalent du PIB français envolé… Sur fond de scandale chez Nvidia et de craintes réglementaires, les géants de l'IA ont effacé plus de 3.500 milliards de dollars en six semaines à Wall Street - BFM Bourse",
-   "lien": "https://news.google.com/rss/articles/CBMihANBVV95cUxNblN2WUYwXy1XVVZ6bVBxSVN3YlRWYWVEeS1EZ2EzTFlhYl82R0RlWUVVazRkMjJjcVZzbVFPVjE4YW84aVpTNlF0RVdOeTlldlVxS3lXNUxXT04yM193RGVwMWZQd0E0UDF3M24zTl8zZ1Z5TVVYOXYwNUFqVm1MNldYYXZ3eTJhNjhNOXg1UnctdElvNkpnSDVVY09NNy01RXRWb0g5bm5kYjNZdUhncmRzWjhwWUFmRWNpdUdKSC01MzFLcnVmckI5LWtwRVh0NTg2TzB2RWdLOHFiQm5PQ291RFZxTXY5ZEdMcjFuNWFlLXdJbm5jVENMak9jbExQUVdaU3JzN2RONUsyT2pWeEJVTEptajZVNGRFRk1mcWF1cE1iR3lGRGZlOWxmbFJwVFBaZkdkeFdEeFFtY19mWElONVI0ejlWSGQwWVlqTEJld1JkUm5hQk0zSFlfU2V1Q3pEYnhqeFoxb3dpeGZxcnFrbHZpd29OaTU0YkxqYklMMnJf?oc=5",
-   "date": "Sat, 21 Nov 2026 10:44:42 GMT",
-   "vu_le": "2026-11-21T10:50:35.078565+00:00"
   }
  ],
  "erreurs": []
