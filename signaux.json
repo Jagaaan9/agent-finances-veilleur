@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T13:10:34.850487+00:00",
+ "mis_a_jour": "2026-11-21T13:20:34.991600+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54101.35,
+   "prix": 54043.71,
    "devise": "EUR",
-   "jour_pct": 0.8,
-   "mois_pct": -27.69,
-   "volume": 257.94696196,
-   "volume_relatif": 1.24,
+   "jour_pct": 0.69,
+   "mois_pct": -27.77,
+   "volume": 270.60257595,
+   "volume_relatif": 1.3,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "«La Fed réagira sur les taux en fonction des mouvements relatifs sur le pétrole et sur l’emploi» - L'Agefi",
+   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWN1b2pFbktnSkVrTzF3UHFyN2laNFRGR2ZUSFJSU1ZjUlZXY1pXYWlGY090N0lUYkZRQkpaSnV3MGJtTmc0bWxoaUpDZ2FQaVl4X2NHdDBsTS12SUpOWFBoWmpvNlJQVjFBOHBCUE84M1JRRE9EeWFNRmtLSzVORWRSTzdsMkRGUHJwMU1RRGRjU0gyWkxkbVVDVlAzQWdDeWJwMU5nTzlPbVA0NWN0Nmc2OHpkTzhtZU1YbkVSemZWSWplMHNGazBOMll6eXhCV2c?oc=5",
+   "date": "Sat, 21 Nov 2026 13:00:00 GMT",
+   "vu_le": "2026-11-21T13:20:34.991600+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "The AI boom had a really bad week — and it's raising loud alarms - NPR",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmRxSU1kdTl4dm94SzFXeVY5ZnhrNGpBZEI3OHZzZHhvQzBVRUpzakQxWEgyYmJSMVJMcDZKTk5va1pzRm1OQXlLTzU3NWNEcklOcHZXOW1Gc25iUVVrVHhmRDdlTzVmMEQ0R3FWOXQ5VXU5YWdETEJvRHo1N3NGaWMyejY?oc=5",
+   "date": "Sat, 21 Nov 2026 10:00:00 GMT",
+   "vu_le": "2026-11-21T13:20:34.991600+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Should You Investigate Crexendo, Inc. (NASDAQ:CXDO) At US$4.30? - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUczVGYxZUh4UXJXMFdiR3dEbHNaeFhDR0ZpODFDV2VyMTNFNUU4OHF1RDhmVnl6VXhBYl9ySjVvTnpYaHVZenBrNnVoWGNwWGlhVnByVHg5WXlzTllPeUdvVjVsakg0dFp5OTZERzVMQTFMZWtoQ1VHZW1WektZd0hfOG5RaEV3eU44cnlHbWhWa3NiMEFjTkRSNXdvQVpuUGk5RnVicW9ZeTI2UEpRVWRUV041aG5mSzdER3hxZ9IBxAFBVV95cUxORnYxeEJoZjdhNWVTci00Z1pNb2x2U1lrMEpUSkVwWFVMWTlQajlJZXFJMEdNR0FGMVNXVlBXYXB6WjFGX3BXMTh5NHFBT2YzZGZ1NEhka0RBR0xtSkJJLTFiTUIyV0RiRi1PcF9rbVVZTXNFS1c4THJKYk5yaVhoQ21RbFBZT1dxcGUyaFR1Wk5zaFo1MExIa1NrTUI3WndjQlQ0UTFUelVMc0NZTTZvdEtBYWdwLVB0c3NMMUpvTktnV1Rk?oc=5",
+   "date": "Sat, 21 Nov 2026 13:09:46 GMT",
+   "vu_le": "2026-11-21T13:20:34.991600+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic’s IPO could flood NYC’s luxury market - The Real Deal",
@@ -6530,27 +6551,6 @@
    "titre": "Hong Kong Stocks Hit 19-Month Low as Anthropic IPO Fails to Dispel AI Jitters - BigGo Finance",
    "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xZWdJWnNzakt3a0x6QkUxVkZwMDdYcWk0TUptRlNaNmdjcmdFVHYwRjFWY21uakxHYnctMWxJZ1ozZE9wNW9PQ3pDSXJDa0tIYjRHV0l0cGJWZnVfeTR4RjVfMy1ld1ZlMWtxMVZUN3dqRmZxZ2c?oc=5",
    "date": "Fri, 20 Nov 2026 19:05:00 GMT",
-   "vu_le": "2026-11-20T19:40:36.719047+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Ethereum, Silver & Taiwan Wiped 5–10%; India & Bonds Find Refuge as Nine New 52-Week Lows Hit on the Same Session - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVHhBZDNLNl9nRFNGdG9kU20wZFBaQ0QzN08yR3NoSW0tejJaQnhFakh2UE5aTlJSNmh1aEtLSVJwVDVfVE5ZYnhDX0hIbXk3VGExdHd4endNUmFGTUhFS1VCaThHeUhpTWp5bmlDYzR6RUNyZFRNMVBuUVpZdVpPZW1Wb0I4cURuSnJ4VUo1QnV6bUtiY3dXYWFLT09KeE1IQWdteEh6MEpUb3RfbTIxdFl4RkozUlVXNFN2eldPZWczTV83X0NBYjZWdl9TWjBMd003SE1qSnhZa3FWMDFkRlZPWFVzMzQwc1ZJaTJ5bXpxVDdZdDNXZ0VFd3NLcEZKNksyRk9mSG54NGlOYWdvLWhzQmJhMTVt?oc=5",
-   "date": "Fri, 20 Nov 2026 19:10:34 GMT",
-   "vu_le": "2026-11-20T19:40:36.719047+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Hot Picks: Three U.S. aerospace and defence stocks to watch - BNN Bloomberg",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjh0QVRxQ0RYUHlIaDBqOHQ3dVVYR3RzNDJXTzBvSlNRUnJkdlMzR2FERG1oN0R3RnZObDVOTVFfQlJRQ1Y1TWM1MzU0SDFPeWZWc0JKQThhZ2xndmc4eWFybTF4WFVQUEpNSjNVSzkweDhGSmpvb3k4RFdCN1ZhNlZKdXJHR1BKakVQUmxSdkxhdWJ3NzFvTnRfT1BnWnl6blVMX1JMTE5MUkxIc2tKZHJzTlQ2cE0?oc=5",
-   "date": "Fri, 20 Nov 2026 19:01:46 GMT",
-   "vu_le": "2026-11-20T19:40:36.719047+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Fell More Than 20% in November. History Says This Happens Next. - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZG4tLTFGNkZhY1V4am9Qa2U3M3dsd3VuUUlDMkpoYWpzMV9iNlZRQWloTjQ3TUQyZHNiU2JvXzFfcXNpSWM0TmxRZ3p6ZnpaU1V0dnZOdExQMG5pZXpibFBsT1hVVlhnbVBseDFKd1g4NzNUaEZiRTRDM1RpXzVZb0JDTi01WGUtSUwwdndCVnpVVzhvcHlVRkl3?oc=5",
-   "date": "Fri, 20 Nov 2026 17:35:02 GMT",
    "vu_le": "2026-11-20T19:40:36.719047+00:00"
   }
  ],
