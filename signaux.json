@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T08:00:36.304833+00:00",
+ "mis_a_jour": "2026-11-21T08:10:35.243799+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52919.32,
+   "prix": 52709.57,
    "devise": "EUR",
-   "jour_pct": -1.4,
-   "mois_pct": -29.27,
-   "volume": 151.01232551,
-   "volume_relatif": 0.72,
+   "jour_pct": -1.8,
+   "mois_pct": -29.55,
+   "volume": 155.52867138,
+   "volume_relatif": 0.75,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3323658863800,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3323658863800,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3323658863800,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China’s Popular Dining Bar Chain Starts Global Conquest in Hong Kong - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlpkLWlZbDk5VlJtTGNxQ3Q4bW8wWGRVZ1A0YWJQMXFHQlZIUy1rS2VMMUVOVXNBcUIxN2E1dEluSEVIbjFvZjVWQ1RhYUktMTU3WVJfelZ0MG1mcTRhck5EbGU3SkxITlFBY1dQZDBySE9lbjdMWUpUNmNwN1JhYjAxTFF6Nl9wZEZfbUU3Z0QxZTR6NDlaM21fU0s0bkpLMFhlZUtscmFIRnFkdm5OX3REZllkbkdCQzRudDNuODFjR2JS?oc=5",
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "vu_le": "2026-11-21T08:10:35.243799+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "CrowdStrike-Zscaler Reported Merger Talks Could Spark One of Cybersecurity’s Biggest Deals Ever: ZS Stock - Benzinga",
+   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTmpLTHpTZk9UNXl1Rm5FV1hnMDdKUzJPREhqdmR6ampUdnBxdmg3YzhWVFZRRlFYOTJVbEVoSmFZN3B4Y1RVQUVnWTN6cVNQbExkNURjZEVZMkhqTlE0Y1hSVWtIMmM4eHBhR1BoU2tjS0hlS0N6MTYwVDBkT2JyVksta1lMZjlscFk2MFZn?oc=5",
+   "date": "Sat, 21 Nov 2026 02:16:54 GMT",
+   "vu_le": "2026-11-21T08:10:35.243799+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "5 Undervalued PSU Bank Stocks with Improving Financials - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR3BhLUFfLTB1cTZaMVRvb3dVUllsVjVWSTh3RlFoVjVCRms4TzR1UXBneU80azdmXy1Ua25UVlVITW5HNG03TWdPVENfLVZGNW5YQXpWLUZ2VUZ0Z3ppeVlLc2NDUzIwd3ZBNTBvOEJfcW5ldGREdHVpVzEzX3FqS2lxS3VHbW12RERjTlVZVll4a3NBcGJhNXBOWVI0aUMxSTBhaDA2bWJGVWI1ZW02a0p4cHFmejY2WjlVNE9Kajc5cDQ?oc=5",
+   "date": "Sat, 21 Nov 2026 06:38:37 GMT",
+   "vu_le": "2026-11-21T08:10:35.243799+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 21, 2026 at 4am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUlBQb1Y3ZkdtVlJvR0FndVF2VUVLbWM0cGMzOFpUd3pLay1mZk5COUhqZjJ1aFZxQXdSa25zbDk0ZGpWYktGNXBFWkZGSU9RN25uNlN0MFhsbmE4dVd4MTZJOWh2Rm9tOVNaX3psRl9ObnZiM1o1ZFNKdFhsaFhYQXVUUnFlYndlVlRERTU0bHJ1ZUdLUWdCNm9IRUxtb3NKUDJZU0NpMXhSWHhLQXc?oc=5",
+   "date": "Sat, 21 Nov 2026 08:04:29 GMT",
+   "vu_le": "2026-11-21T08:10:35.243799+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "How are AI chip flows reshaping dollar dominance? Deutsche Bank explains - Investing.com",
@@ -6523,34 +6551,6 @@
    "titre": "FDA Filing Could Change The Case For Compass Pathways Stock (CMPS) - Simply Wall St",
    "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeFVCcGdpV3oyVU9JMFdWa2dlLVJ4X0V1VFNHeC1JbDZQanA0dUlsR3hQaERtcWhHQ2EyVzVuZjFwUEJTT0I5N1piRmxuZHRfcTFBQUV4TVJLeVNwX2xIaGQyaU1ia0NhVHRTcWp0ZnZaVzE4NHNSQ0xhU1ZZS2RDal9CbThUbE1jcUpzdHI0dnkxZ1BqSEE2djh5Y1FpTDdUNW83cm55Y2F3dWtVQkd6c3JUZ09JNHlnQlhpcGlDNFBiSl9OLTVyOVN6TS16aTBuSm1xdHVBRS1MSExDOS05ZFlnVQ?oc=5",
    "date": "Fri, 20 Nov 2026 15:11:21 GMT",
-   "vu_le": "2026-11-20T17:00:35.750332+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "The Copper and Iron Ore Behind Your Wiring and Appliances: $90,000 Across These 3 Miners Pays $5,330 a Year - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONkpPU0MzcDRUTmlScU5XLVFOX3VsYnBsZzM2UjlCbnAyNTdSdlNGVVRnMVB2aWVjb0FVeUlJVUV5RDhIRDFZTFdfZF94LWU5SzZwcS1BSExiSlVGSVZ6bEEzQlRTdDJEbEQ5YlA1cDVXWXJjNy0zNUZtSm1oYzFDSUdLRjlYNVB1YUROdmlrU25YaGxwQVdlN2RFc3JhdS04dHlUSTZkVGE1Q1pjdDh5eU5WLUhrMHpnZTI3NERnT3laVUFrNVc1Tk9YVFpFS0x5YWVyMzJNWmV2d1ZQV2VZ?oc=5",
-   "date": "Fri, 20 Nov 2026 16:54:00 GMT",
-   "vu_le": "2026-11-20T17:00:35.750332+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "BlackRock to Buy SulAmerica: Will Brazil Deal Fuel Its Growth? - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnd4Vk52MVRadW0yQ1V6ZWtrM1l4R0FfTDFIbTYtS1JneENWcDlfaURnM1dscnp3SDR0b2FhZGdyMUdTbC04S09sNS1XdnpQWlJkLThFUVlBRjNxRkx2V2h6LXBnWXRjRF9LWXNLR0JlbU1zNExlVVVGdmhER1NLbzNCOG13RzJaX241bS12ak5JWTB1clZ0aV8waklmeEtFNEJGd0pGSkhIY0N6NVl2b0hjbElhdEk?oc=5",
-   "date": "Fri, 20 Nov 2026 14:13:00 GMT",
-   "vu_le": "2026-11-20T17:00:35.750332+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "The Pentagon Keeps Spending. These 4 Defense Stocks Keep Raising Their Dividends - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT1lNT1pYcXJLTFQ3ZVJfQlZUQmluNTgzZFhGTHNPMlhxRGFQZk1PT1d4VnlYbnJtcDJQUXdRdVYzSWd3MUxOZmFFcUxRUDgza2RBUmZwQWVfUlZNUlRpRDFEMDRFaHE0dTdaUzAtd2NST1pRUGZraTZPZmwxalZNSENCU19Ib2lJR1hPNjBqRFRSSGxLZThhVkRhVm5UbHpwSEVmWTRmbk9ER1h1b2F3LWJqNzZSSTdsdExtU1l3ZTVWbmM?oc=5",
-   "date": "Fri, 20 Nov 2026 16:52:00 GMT",
-   "vu_le": "2026-11-20T17:00:35.750332+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Price Today: $61,321.59 at 7:15 a.m. ET - shattered.io",
-   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUVRxV0dlNEJZdGZTT01Ud3hBQXpKU2dhMTBUYWdFd0dBSWhCYzh2bHNDak5LY3dFNWRWb0FLMENIbDZ2cVJqbHE2NE9UaGlZRl9jb0pid0pFVFRMc2xWa0xBdW1mQTY0eExrOHR0Ql9JRGM1RGtlMFRad0ExaTNITFFn?oc=5",
-   "date": "Fri, 20 Nov 2026 16:43:36 GMT",
    "vu_le": "2026-11-20T17:00:35.750332+00:00"
   }
  ],
