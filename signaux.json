@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T10:10:35.419993+00:00",
+ "mis_a_jour": "2026-11-21T10:20:36.096128+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52999.99,
+   "prix": 52856.96,
    "devise": "EUR",
-   "jour_pct": -1.25,
-   "mois_pct": -29.16,
-   "volume": 204.5400594,
-   "volume_relatif": 0.98,
+   "jour_pct": -1.52,
+   "mois_pct": -29.35,
+   "volume": 205.427643,
+   "volume_relatif": 0.99,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3491,20 +3505,6 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "La tech s’effondre et entraîne les Bourses mondiales - L'Essentiel de l'Éco",
+   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ29Hb3h4dFdxeW84Vnl4RGdZdVk1UmNScVUzVVRfNkxFcl9DeW83Uk9wb3E2QXpGeGFEeWU3dmZPUGczYmU4OG9obkdCRXlMZXdzQzREZFg4cFFaNW5kMHY4OUN2Q3NKbHE0UF94NDZCM3dXcUNHZ0pWVWxhXzNqQ253amx4bWdJbWdmeHln?oc=5",
+   "date": "Sat, 21 Nov 2026 10:15:00 GMT",
+   "vu_le": "2026-11-21T10:20:36.096128+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "India Defies Global Market Crash as Sensex and Nifty Stay in Green - Coin Edition",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlJtczZSZEpfOG9XODdIMUZIVXVmWVR0OGkyNDF5R2x2Q2JxSUl5WVc3ZHhVSTlUZzBsV2M0VDhvaldpdk84RmptNXVwQ3NTeXNhOHM3WjJjamphZk9IdThQbDF3YTBjdXhIMGNlc0tnTGpUV1dhVkRRYnRvd2tfUTU4bE5XWVRRbUZFUE9ZZ2Ywa0RtSWc?oc=5",
+   "date": "Sat, 21 Nov 2026 09:55:43 GMT",
+   "vu_le": "2026-11-21T10:20:36.096128+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Dow Drops 1,100 Points: 6 Defensive Moves for Worried Boomers and Gen X Investors - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMHQ1X1lmeEpsTFh3aG5JMW5qSzZKMnpjeUJjREZOaDNrM3NETFhhQVJNN1h0c1NWZnFsNWhJNTQ1VnFEb1JKOHdjTU5EQTFpRnZxSVRKaUlaZkZvMGl6cGI4emtPVy16VENfY0pxTDVEX3JCZi1aUjBXZXFJam1KZXhOWkVhZnB5QU9TU1BiTWtheXMwajZ0QlN3YWlDSzBpVVBTXzlsZUlzTUZvRlNMTkdiSDBuWmVUQnNoM05aOHE3V2NjNWY2ZmNB?oc=5",
+   "date": "Fri, 20 Nov 2026 14:36:00 GMT",
+   "vu_le": "2026-11-21T10:20:36.096128+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Arxis, Inc. (ARXS) stock price, news, quote and history - Yahoo Finance Singapore",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NZDJocTdkT1JNeUxzYXlhalFIVkNIMG5kbTBEbnVpZzE4MTlraUtmNTBmNXdLMWs3cTJxSzhyNlFOSmdnbWVYRXFRd1UtYVd3YUE?oc=5",
+   "date": "Fri, 20 Nov 2026 19:19:04 GMT",
+   "vu_le": "2026-11-21T10:20:36.096128+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP Drops 8% In 24 Hours As Bitcoin Leads Crypto Market Sell-Off - MarketForces Africa",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZjNSYml3enM3eHpFeVlnLVlTaExOZjc1bWV0bzA2bDZkMlZQNWFrZGstbWVjeENXT0VpUGc2MmhXUHdfVVJhLW9YWjdvRGtTRHM1LXZXX3RXUjVsUmJ3b1JBYU5sSTZ3QzJOWFE3Ml9TdVl5ZC1hZmJ4LWRMckl2RTgwU0NRUFVZV0RhaVlhbHZyZVBT?oc=5",
+   "date": "Sat, 21 Nov 2026 09:56:20 GMT",
+   "vu_le": "2026-11-21T10:20:36.096128+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic says it will put humanity first. Will its IPO change that? - NPR",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZHZfWnMyaDJTTVJJSVJoZ3E0SjB6Sml1UzloelJMUVlybjlFTWJsTDNUVC1VZGJYRTBwTUQwVUtXTGF6M21jWXdYSDFib2g0TGljVV9iQzROeDZyMUhpTnFWZUVhRFRnTGZybjdEZGhfNVpFUUVjaUUyY1lzdHNVenhoQ2VxQnd4Z1k2dlNwV2hzNVdwaWQzQmFGVnJtZ1g0aGc?oc=5",
    "date": "Fri, 20 Nov 2026 17:22:40 GMT",
    "vu_le": "2026-11-20T17:50:36.646106+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Can Mondelez's Emerging Markets Fuel Long-Term Growth? - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRVZ6QUFFLVJ0N3VLNFplZS04TzBtbGVGWFZvbmlaczUxVDdWTXU0YnJKckhfUzNveUVySHRzNmNYSzN2Z1VPaVBUOXdwWWlZYUlUV2U5dGZVQlJLRXVjY2hwaVNhQjdvRUNoblFyS1Nvdlo0UU9ZeFVCdlR0VHBENHNxWDdqaGtZb2VvUV85ZlZQTXctZXR0YVhfVGNsUDhZMmlaY1hhUUFSakdkYWc?oc=5",
-   "date": "Fri, 20 Nov 2026 14:50:00 GMT",
-   "vu_le": "2026-11-20T17:50:36.646106+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "US stocks tumble, and the S&P 500 drops as the sell-off for AI stocks accelerates - Lowell Sun",
-   "lien": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NT3ltMGlGV1IyM19XM1VBQy1oTUdaUGNEMDBab09VczRZVE1zTDhFbjZtdElWTnFwZ09mbWMzUGtyRm9rWnJ1cDI4SThJTHAwZWxKR1VBNi0tMElnRHF4c2thN0d6ak1qV1dDZA?oc=5",
-   "date": "Fri, 20 Nov 2026 15:17:08 GMT",
-   "vu_le": "2026-11-20T17:40:35.059164+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "L'Europe finit en nette baisse, l'IA secoue le Nasdaq - Zonebourse",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT09zVjJuQW9xLVR2TlBENk1hT2pHNHFITWstTGF5NWxaRmlGOXJrZmlrektIeFpCZXdyYVFROWFkSms0emJrZXRkUF9wYTVZLUtobWdYaDlENEZlRFIycXhZcUdUZS1mdUdKcDlSeWVwNF95UGlPcVBLcTlWOEx6YUhFay1jeGNuUWNGNUNBTlhySWhXM0pJNVVOOXFNN2oyTXRRMmZWY2FPM2JoUDMwUjUxUQ?oc=5",
-   "date": "Fri, 20 Nov 2026 17:34:00 GMT",
-   "vu_le": "2026-11-20T17:40:35.059164+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Semaine éprouvante pour le CAC 40 qui repasse sous les 8 000 points - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOS0taTlNvTGZkY0RJY05LZUhPNE5EWS1kbDdwdG53VTE2T1NkdklNWmZENUdDWkpTcGI0TzhYNHNrelV5ZG5FMkZhZDNDbUI5NnBTWWlxZUgxbllOZ09kMFU1UlBIVzdtcTRBbVozYTF1SS1uNXAxb0hUN0ZzSUZCX0RlZHpHZzNOM1VBaUFvRExockN1MHVJQ2d3RmtGSEdOenpqYS1pdXJoRXlJMWhqSWNpZi1naEpURXNFM0Nsa0hMUG9LOThCeVR0bU43TnhaUkZoUWt1U2hFVm1wVnpWdE5SQ2hVT1RNcHhOamJYNTY2bUJIS1ZJUE5CWXloakRVZTlKLVFuQXlXXzI4ZTlUa1dxVW9kR2pGVUV5RjVVNHVqWng3akhQeHJOdElQRm1X?oc=5",
-   "date": "Fri, 20 Nov 2026 16:58:00 GMT",
-   "vu_le": "2026-11-20T17:40:35.059164+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Baidu fined US$75,000 as China wraps up Joyy antitrust case - South China Morning Post",
-   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQmdhRkxGSEh3V3l5RmFRUW9ZcUVTR0FFM2s3Z0ZXQThLUGVCaERTdGlFdFBrZW5xbnpKX1BaMEtVN2YxclRRUkg5dUZuTklGYXBlelhKTlotWEx1RVc3SUdTMjZNQ1REdGlPRzNJVzAtcXI2cVY2QmtBb0o0OHZsY05iLTVBZXE2YVdFNmRYSmMzdWZFbXZpZmszODFDajFjaUx0TWFTSVJsMERUQU9VRVMwMjN3cnR5S2d6a2lVRXJkRkNHQ1JNb2pRTzg?oc=5",
-   "date": "Fri, 20 Nov 2026 13:50:14 GMT",
-   "vu_le": "2026-11-20T17:40:35.059164+00:00"
   }
  ],
  "erreurs": []
