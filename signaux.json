@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T14:50:35.598463+00:00",
+ "mis_a_jour": "2026-11-21T15:00:35.312541+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55012.74,
+   "prix": 55025.91,
    "devise": "EUR",
-   "jour_pct": 2.5,
-   "mois_pct": -26.47,
-   "volume": 336.5390338,
-   "volume_relatif": 1.61,
+   "jour_pct": 2.52,
+   "mois_pct": -26.46,
+   "volume": 338.71018318,
+   "volume_relatif": 1.62,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,69 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "I’m taking the Warren Buffett approach to Anthropic stock! - Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPclM5VUxXYktKSktRWk03MGxfNS13eFFqYTFqWEhrVUE5WGI5aDNSNFhQdFRmUzlmVmd4MEUtbmRhSG5Ld1NEaTlfR3FSaTFyUGhLcGMzRVVjQVhtVXc5SnJ0ek1qLTJ4amU3RmoyTFFrLXhPWGlpUEJEWEVyeVRGOVFKTTNZWDVl?oc=5",
+   "date": "Sat, 21 Nov 2026 13:53:00 GMT",
+   "vu_le": "2026-11-21T15:00:35.312541+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "BCE : l’IA, au premier rang des préoccupations immédiates du secteur financier - Le Revenu",
+   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTXRjaF9Nb2l4MUdicFMxeEk1Q2lQcjctU2ZLYlg5d0R0X3E2b1Eya3JKeHFtV0hnbk80YXhfZGpKYzBFem5CajRuYkNJV2xHd082bnJoWXZoeEN6dmR3enE0M1A3U1hmZGdnb29XQ1dVNnd5LVVTbjZIQ0hNWW4wYTI5eXpfTktFX3JjS3FHY0V6U2VxRnBhbDlSbXhST2VIRzF6WnJRZkMzbjBqQW1yVHBfRDVmRzJuRDZUY2hpc2M0VWFfeUszMVUwY1dhWmtYa3lSaml3?oc=5",
+   "date": "Fri, 20 Nov 2026 15:29:00 GMT",
+   "vu_le": "2026-11-21T15:00:35.312541+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Goldman Sachs upgrades Chinese H-shares to overweight, forecasts a 23% gain for MSCI China next year - MLQ.ai",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ215S1l2RjMyT1dhcG1ZenNsOXJvT3JQNlpPQ1dZcWhHOU1FZTlJaEpCdUJFUml0ZzhycmVxb3ZsLTZua2JLREZBVGh1eVRXX2dUc0l1XzZ0LUlMdzJuczNZVkpLTEUtVzR0Vkp3QkdpUEkxN2xtVjFkWjJDSXJXWkFydGc2UXFCeDNQOGtxb3JtNUM1RXo1OE1SV3RiZy1MUEl3a0VLZTgtT29PejNpRWU4RWhhMUNtLU5r?oc=5",
+   "date": "Sat, 21 Nov 2026 14:36:23 GMT",
+   "vu_le": "2026-11-21T15:00:35.312541+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Hang Seng TECH Index (HSTECH.HK) charts, data and news - Yahoo Finance Singapore",
+   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YcWtQbXloeThKZ245azZ5cnhpczBhOWd4OWUtUjJRbm54MlJFVWhqX2NYS21CWFV4eXZUdW1wbVpVbjlUNkU3NUdqRm1XdzBRNUpjMmRsOXQ?oc=5",
+   "date": "Sat, 21 Nov 2026 11:17:13 GMT",
+   "vu_le": "2026-11-21T15:00:35.312541+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "S&P 500 and Dow enter correction territory, Nasdaq loses 2026 gains as Anthropic dives - New York Post",
+   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR0ptRHNPWHdjV0g3ODJVTXBDeUs2VkRUSTUtVHpUQ01pVVBHNE0tNi1HT2o0MVNhb1hwbGNZbkZ3ZkFEQTlWdmdqaXpaWTVsTHpfS21BV1lCV2dFbjFCUERwQVhTcWNDZFBycEJudVlIU1UtbzNRaTZJZDhXR2Z3Qm10Vm8yQkljV3VGN0ptSXpUTzVjbmhJbTRDZTZwT0psSGpSX0dLMDhzeDVNeW14am0zUVdmT0NhdFVHX0VMVkFpZw?oc=5",
+   "date": "Fri, 20 Nov 2026 21:41:02 GMT",
+   "vu_le": "2026-11-21T15:00:35.312541+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "At about 91% above its unaffected July 20 closing price, Utz Brands (UTZ) closes its cash merger. - Stock Titan",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTGFGT2hoSEgySGpPSWxFRk9GWEtxYkl2WWNHYXZvbl8zdVBQejNPYnlqLXh5b0lfNlgwNjRnNHk3dzJjUm9TelJjcTJyUFVJcFFpYWJIa2lpYmJwd3VUUGdkeVRhYVgxaWVEUXktNWlHcEFXY0g2QXAzeHFIMEpiSEtoZWx4VHoyUXVYenQ4NEpLTWJJT2Y4LU1iN0JLck41ZWYxMw?oc=5",
+   "date": "Fri, 20 Nov 2026 21:11:51 GMT",
+   "vu_le": "2026-11-21T15:00:35.312541+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Sell Intel: Forward Guidance And Downsizing Actions Will Not Quickly Reverse - Seeking Alpha",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdGZCOVhPSjJ3ZU5wM2VUS2xDRlRVLUxBWmNhYlBpNDg5MTJ0bGdfNjVWYnFQSF9yS3pMVDNFZl9vVG9FQTJMZG5zbThFNmhDM2tYWVhwQmVRbktpMWFVdHVaOG82M1RvVVcxdkpfVGhkUkFFR2g2em80bEhlZFFUazF6Mm9DQi1BS2pGa2VkV1BXdmVNdDJtRjhEUUhXMl9QWXZwYjZiMVFfUm12UWduZC1jY2xYVkk?oc=5",
+   "date": "Sat, 21 Nov 2026 13:53:58 GMT",
+   "vu_le": "2026-11-21T15:00:35.312541+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Outlook: Is a More Restrictive Fed Reducing Market Demand Appetite? - FOREX.com",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWG14cDhsWUVqcnNyeWxJQU01TkpEeGJHUE5pZFVFdEZNX0ozdjNEc2JITGgya0lPRTh5c0Nfb0JVMEZQajk1ZGNXWlBGM2NWQ2t2WVkzQWZVZ2ZwWktadkFuX28xcTFYR0ttb2FJYVV4NVE4MTJfV3pkd21ZdGg2ZGlYWTM5Tm1qeTl1LWhZSDBNNkhNdUJwLWpmcXFIUkx5aHF2NldyQ3RTanB0NWhPX1k2c09fOFctSldYVGxBdFp2RF84bjNV0gHHAUFVX3lxTFBYbXhwOGxZRWpyc3J5bElBTTVOSkR4YkdQTmlkVUV0Rk1fSjN2M0RzYkhMaDJrSU9FOHlzQ19vQlUwRlBqOTVkY1daUEYzY1ZDa3ZZWTNBZlVnZnBaS1p2QW5fbzFxMVhHS21vYUlhVXg1UTgxMl9XemR3bVl0aDZkaVhZMzlObWp5OXUtaFlIME02SE11QnAtamZxcUhSTHlocXY2V3JDdFNqcHQ1aE9fWTZzT184Vy1KV1hUbEF0WnZEXzhuM1U?oc=5",
+   "date": "Sat, 21 Nov 2026 14:09:56 GMT",
+   "vu_le": "2026-11-21T15:00:35.312541+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "ETH price on Nov 21, 2026 at 9am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPendFbDdsNDBiZUZEU0k3MTQ2M1VMVndHbFc4Z05qWEpoSmdyWC0yLUpocnhOTlczbXp6Z3VsRG83MmJud050dGFtdnkyN0FEY0V2ZFkyRmowQ0JoWVI2UjhNaWZtTmxfWVplWVRjcHUzQkdXLVBHM3AxdFdFQjFXY3dCU3BQSEJ6RHlNY0xzN0luZU05SUhxeGU5enIyMWk2cnhfZlZCdkxnMU5yRXc?oc=5",
+   "date": "Sat, 21 Nov 2026 13:17:44 GMT",
+   "vu_le": "2026-11-21T15:00:35.312541+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion' - Business Insider",
@@ -6489,69 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnBCQU4tZzI2am9oSUxXak55U2NuZ2duSUlYclFOUnVOWWlURXF5a01OR0ZPZDROcDQzbXV0NlRIOHNJM3FHVzl5NElXLUNMVlBtNUFKdDVQTjRyVDZHN3Yzcjg5Q1E2VmVkWWtOak1JUWNJNWx5ZkFUUTIyc1gxS3IzS2x3bm11d3I3UkZ1emd6cW1BQTRJdXREeDRMdw?oc=5",
    "date": "Fri, 20 Nov 2026 15:31:54 GMT",
    "vu_le": "2026-11-20T21:40:38.294454+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "$1,000 in Anthropic or Bitcoin: Which Could Be Worth More by 2030? - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQXkycUtFMndFSVkwcm5KQnNhM3dtUmJaX25PZ0hrNHV4Y3RZdHlMbkZ1Rm84S3lSckQwWjNoNmJOeUU4SkFBRHRyZ0FZZmxQZENHUUFPNGRfY0wzNWR4ZVN5WDM1X0dNMnNnak5MRHMwZ2JLSVl4eVlnbHd6MERSYUtxb3RDUzRKZUFLdVlwV0FHNkl3bnY4YzhPMHlNY0IxVWFWREg0ZzlOSE1RZnFPY3VZVFBSRG13Z1hWNXFB?oc=5",
-   "date": "Fri, 20 Nov 2026 21:12:00 GMT",
-   "vu_le": "2026-11-20T21:40:38.294454+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Bulle IA : «Il ne faut pas perdre de vue que les investisseurs ne sont pas forcément rationnels - Libération",
-   "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOVBkVjhYSDFrX3c3S1oyLVF0d3JEMU9NTldOQ0x6MHpaZ1dsbjFVcUY2LTc0NmRmN0tJNy1ORlduZ3djU0RKekZzWDZVYk0wVTFrQzZyUGhzeFhuN1Y1ZVkzYTBaemtUMUppUFlDMnhrenVLdjVlcV9GMm45eEdNT0gwUDBYRTd4U2t3bWt0MVYtUEFTb2s4bXFkRGlkWkVLcDdvNFVBem9CdENnVHY3dUNQOWpBM2c4S04xaW9HVHp5RFBRTDRjdnlmeHpjaG55cUtfS0FfUGhpOURSaG5MR2dwVVE3NUlzcnB1VUtUTkdOUjQyd1g0aTdDc3pnQWFWNi1vRUFicVd2N1RGMkRoNg?oc=5",
-   "date": "Fri, 20 Nov 2026 19:32:00 GMT",
-   "vu_le": "2026-11-20T21:30:36.326571+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "AI stock sell-off accelerates as markets head for steep weekly losses - Fast Company",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04aW1GVFF1TWVJc2lqS3pRYVpKbGQtS0M1WEpkVE1rUTFTUHVRcUdyQmpWSmQtNlplUzRoc3lUQWpPYkpJLW8tMER4b2RmRmlBNWJ2dlNmVUloVzZhSGFySjAtZUJWRDNkbjRuTHBkNnBfT3I2WUNoVWx4WVlmWGs?oc=5",
-   "date": "Fri, 20 Nov 2026 19:06:10 GMT",
-   "vu_le": "2026-11-20T21:30:36.326571+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia says no longer shipping 'Hopper' AI chips to China - AFP.com",
-   "lien": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZQlRJTDBGMm00UE1pUlp6VGYydDlOOU40M2xQN1VneEd5dVpaNnFERGJLOTNLLTVnYjlvUlY2OEhjQU9EaTh6U2RWTQ?oc=5",
-   "date": "Fri, 20 Nov 2026 15:07:09 GMT",
-   "vu_le": "2026-11-20T21:30:36.326571+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Toyota recall covers 314,029 U.S. vehicles over Takata airbag risk - finchannel",
-   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNckh4WlExMEFMX3hPSzZCdVRPOWtwRlI1TGYwVGFSMHdEV1c2NTFkLWVrS0ZfWi14NmdrM3EwMHZHMlJHUC1zQlNjMjBLZGFXLVRZU0tWSkJPOWowakNUeEhrZURHOW5tVGxVbk1mNU9XQzBmUm5PbGxsTk1fejJ5RExGd3pZaVNWZURhbmtkdndCb3BMMEctZE1qejJuSnNiQVBNSGo2MEl0VUFTOEhaZXNWVm9iOXhKdExOdDBMMTN6aWRmWXpzSWlJNHhjWHFWUWc?oc=5",
-   "date": "Fri, 20 Nov 2026 21:20:32 GMT",
-   "vu_le": "2026-11-20T21:30:36.326571+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin plunges below $59,000, on pace for its worst month since June 2022 - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRElXRUZRbXlfNVZIY09CRXlMTDV6a1JZeVpKQV9SYVpqX3F5X2RoYWV4YjNkeUJkX2ZXekpMM3ExRFpJYXRSYkk0cHk1aUk3R0U4ZktpTUI4VTNoUkp0ZEhNM1A0NExvNWhFY2RmVThRY0JuV0JyeUdHdGZEOFE4WE1aTFpxUmZqWnM2dHBaLXNQa1JWN0FGOUdEZzhKeUZPQmlKYmFHZmhNLVFLcUVrc2ZId0k2MjBlSHZ6SFZUT2VsT1FxVU93?oc=5",
-   "date": "Fri, 20 Nov 2026 20:44:09 GMT",
-   "vu_le": "2026-11-20T21:30:36.326571+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Why stock market is tanking despite massive Anthropic IPO - The Hill",
-   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52U2tnRzdwTmw5eW1NWVdDZy01UDlxQ2FaNUphZGhBNHdIakk1cUVMcEFPakZ4dDFVLURsTDZ6Qk9KU3lHc3RFN1pmRnNVR3pZZ29CeTNRNG5GdHhXMVJ3RU5pOVpldVpPR3VkNjJSb0FyMzdhRHVJd3I2NnhSUdIBgwFBVV95cUxNck9VckJQZmxROFdpRmtCZ1pSb1JJYUhtUFNEOXo2OEY2dUVPSWxCQkcweHBEMXhxRHdFSXFvdTFXN0trSkt4UXZYLU5zQ0FQU0puUzMweW8wZjRnaGpsZUFFNk9iSXJ6dUkwQW12VG14RDRVWlVnLVlPTEdfOThUWUdpaw?oc=5",
-   "date": "Fri, 20 Nov 2026 20:51:00 GMT",
-   "vu_le": "2026-11-20T21:20:37.300165+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic’s IPO Bust Punctuates $4 Trillion AI Wipeout on Wall Street - WSJ",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNlRWTmU1NlRGMjRnb2JGWUVrSTk4V3dTRWgyb2hlSXF6Y0FtVi1tREhvSUFPby1IVkphYVlXdGtpR2pvYmltRnpaUkI3RFBMeG05aExMWUs4Yi1rb05oTlBvNWpRUFhSNWc2NlRER205T1QzZU5PbVcwaTJEU1hpM1M2ZDFtd2RNamMtS2trTGtjWThBTXZ3MFJ6bEYxTTdxMmExQ1cwRXVTYk9OOENzTA?oc=5",
-   "date": "Fri, 20 Nov 2026 21:03:00 GMT",
-   "vu_le": "2026-11-20T21:20:37.300165+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries - StoneX",
-   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWU8ybzlxdUlpQzh6R1hNU0hOTDF6SllWeHhHWW1FZFI3Vkx4UXpMRjZfZjVrOFNVcUdZbEM2cmQxX1BaZVJmal9waTFFV2JZcHlYUXIteUhyQmdwVUJGRGJyQ3RZN2xxa210SUhUUGV2b2dOR1pCX0ZEcG1obXdGbFZzVkNWSV9pLWNCajF4V0FVUjZNek93dEczRWxpRUFNNFp1dmN0WlEydw?oc=5",
-   "date": "Fri, 20 Nov 2026 21:12:48 GMT",
-   "vu_le": "2026-11-20T21:20:37.300165+00:00"
   }
  ],
  "erreurs": []
