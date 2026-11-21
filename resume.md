@@ -1,4 +1,4 @@
-PASSAGE DU MATIN (avant l'ouverture de Trade Republic à 7h30). Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
+PASSAGE. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
 
 POSITIONS ET INDICES :
 - Anthropic, PBC Class A (NASDAQ:ANT) : 88.91 USD, jour -8.5 %, mois -20.26 %
@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 52564.83 EUR, jour -2.07 %, mois -29.74 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 52963.51 EUR, jour -1.32 %, mois -29.21 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 583275623.56029, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3323658863800, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3237568961859.6416, PER 13.8, volume x1.77 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3233820362273.5347, PER 13.8, volume x1.71 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272911458.269, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,11 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Morgan Stanley Ends Anthropic Stock Support After Just One Day - BeInCrypto
+- [Chine et Asie] Chinese regulator fines Baidu $96,600 over live-streaming business acquisition, China News - AsiaOne.com
+- [Résultats d'entreprises] Philip Morris: My Thesis Has Played Out, Smoke-Free Transition Looks Priced In (Rating Downgrade) - Seeking Alpha
+- [Petites valeurs en croissance] 5 Undervalued PSU Bank Stocks with Improving Financials - Equitymaster
+- [Défense, énergie, matières premières] Booz Allen Hamilton Holding Corporation (BAH) Stock Price, News, Quote & History - Yahoo! Finance Canada
 - [Petites valeurs en croissance] 5 Undervalued PSU Bank Stocks with Improving Financials - Equitymaster
 - [Pays émergents] Top 6 Semiconductor Stocks In India To Invest In November 2026 - Samco
 - [Résultats d'entreprises] Earnings call transcript: The Buckle tops Q3 2026 profit view, shares jump By Investing.com - Investing.com India
@@ -454,8 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Intelligence artificielle] Michael Burry Locks In Gains on Nvidia, Chipmaker ETF Puts As AI Rout Deepens - Yahoo Finance
 - [Résultats d'entreprises] Buckle stock rises as sales grow but quarterly profit slips - finchannel
 - [Crypto] ETH price on Nov 20, 2026 at 4pm EST Crypto Prediction Market - Robinhood
-- [Anthropic (FR)] Les banques de Wall Street s'apprêtent à connaître une année exceptionnelle, les introductions en bourse d'Ant - Boursorama
-- [Anthropic (FR)] Wall Street recule sous l'effet d'une vague croissante de ventes dans le secteur de l'IA ; le S&P 500 et le Do - Boursorama
-- [Intelligence artificielle] US lawmakers push for tougher AI chip rules amid China export crackdown - Al Jazeera
-- [Intelligence artificielle] The U.S. Approved 879,000 Nvidia and AMD Chips for China in 6 Months - Yahoo Finance
-- [Anthropic] Opinion: The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings - Mark
+- [Anthropic (FR)] Les banques de Wall Street s'apprêtent à connaître une année exce

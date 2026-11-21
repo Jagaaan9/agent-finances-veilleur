@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T06:50:35.338342+00:00",
+ "mis_a_jour": "2026-11-21T07:00:35.385048+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52564.83,
+   "prix": 52963.51,
    "devise": "EUR",
-   "jour_pct": -2.07,
-   "mois_pct": -29.74,
-   "volume": 138.17935205,
-   "volume_relatif": 0.66,
+   "jour_pct": -1.32,
+   "mois_pct": -29.21,
+   "volume": 140.40946026,
+   "volume_relatif": 0.67,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3323658863800,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3323658863800,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3323658863800,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Morgan Stanley Ends Anthropic Stock Support After Just One Day - BeInCrypto",
+   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZVlRCSVc3NEJVQ1h4TkdPdU1fQjY1TjNiQks4bm54LWhhUG5SRWVLNFJUQW9KT0RxMTdXYlpVVjRjQ3ZkbjBTdWIyVWhyWDI5WlJmWjA3LW9TWjBHYUtEVFZFWmlFYW4zM0VSYlNEdGt4UVFoN0FR?oc=5",
+   "date": "Sat, 21 Nov 2026 06:00:00 GMT",
+   "vu_le": "2026-11-21T07:00:35.385048+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Chinese regulator fines Baidu $96,600 over live-streaming business acquisition, China News - AsiaOne.com",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNem1PdDh6UUlmM3NDUjY3eUVwSlZzeklLUHlwVk1qRk5FWkNJZnJjNDFPY05KZG1vVC1yY0hUbXRoMHJFYm81VXhoQlZCeGNIY001WXNybmY5WF8tRHNFS0VBT2Q0eGNkazVxWXZ5WnhzOFY4RVU1Si1NQVI1djE3LXV4QjdKYjhObVp4WjV5RDktSU1fUC1HWjBxRlZZRUxnVEtTYXZiSklBQQ?oc=5",
+   "date": "Sat, 21 Nov 2026 06:52:23 GMT",
+   "vu_le": "2026-11-21T07:00:35.385048+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Philip Morris: My Thesis Has Played Out, Smoke-Free Transition Looks Priced In (Rating Downgrade) - Seeking Alpha",
+   "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWHdDY0tfRUtyaS1jZ0hwRkhTMkp0dG92LUNnV3Ztc2xWdmhTdkFsNUR6c1V2cmR3VHA0LVRtTnpUWG00RnRIZ3R2QkFZUGgxVHpCV1RHeDRKNTl1anZiUWlZNy1UNzBZR0ZXb2U5Q2poTzNKNUR6eXhFem53Zk1xdWFQdFpJa1NCQXZydWhjS3Q2TWgwTHBreGxwTTFPZXEzTEtLbVlYRkk0a3lkUGE2S1N6MmcwdGFEaGlRd3ItUGRfblRyUkFqcnpPekdQeDFrY25wSFViaWR0bjUwWE5nVWI1U0hNckU?oc=5",
+   "date": "Fri, 20 Nov 2026 12:45:00 GMT",
+   "vu_le": "2026-11-21T07:00:35.385048+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "5 Undervalued PSU Bank Stocks with Improving Financials - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rWDQ1UTl4M3VPTTQxcGRXOWRRUU5xVHBKa2pkbXFEQTJDaTR1Q1RrekhNMWdQQk1LN3E3SVJDdzZFZUt1ZWlBdl9ya3dxYmg1Q0dDdGR1T2dOX0twWU5hRUNKVGJIbVdIVUNlUWstTlY?oc=5",
+   "date": "Sat, 21 Nov 2026 06:38:37 GMT",
+   "vu_le": "2026-11-21T07:00:35.385048+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Booz Allen Hamilton Holding Corporation (BAH) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YaGNmNG52bkNRNXRObjdobTU2UjZlY1pOMFl5dUQzQUpRWk42R0gwXzNZQktXdlh2Q0lUbFdxdHdCc1c3ZmdMbmYwYmt1cHBH?oc=5",
+   "date": "Fri, 20 Nov 2026 16:30:54 GMT",
+   "vu_le": "2026-11-21T07:00:35.385048+00:00"
+  },
   {
    "sujet": "Petites valeurs en croissance",
    "titre": "5 Undervalued PSU Bank Stocks with Improving Financials - Equitymaster",
@@ -6516,41 +6551,6 @@
    "titre": "Anthropic stock is down during its second day of trading after a historic Wall Street debut - NBC News",
    "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcEhYWjFHYkI5RkFWM2NNbXZwVXFGREV3LUdUVTVLUmlxYll2S2I5WUs2UFZ4dzQ0aHFCck96eFpqUzc5THQtMndnZFhRVkxzc2NoREFRLWNwOXZDamtZWU9HN1VtQ0xidkF0UDZBWEt3MGxOU280X05xSF9LRU5BR2xuLWN5aVNXbDFoeXRfUUI0bVgxeUJyTFV2NWJIZkZINWVfZlk3RExaMmF1R3ZMYVJackhYcWcwdV9YMnlBQjM5X0FKQms1OUdVZXd0Nms?oc=5",
    "date": "Fri, 20 Nov 2026 15:36:11 GMT",
-   "vu_le": "2026-11-20T16:00:44.921576+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Le montant total de l'introduction en bourse d'Anthropic s'élève désormais à 93,5 milliards de dollars après l - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNVFZ0RWh4T2tkM0dfOVJwSnlCYVRmU2FWX0hkOWxmcGh0WDNFcUFZWmJ6aWFuOUk1RFdxdThjU1ZfVnFGM21LRUxHajRQSFgzV3lmTFU1dkRrNmxYal9lSjJDc3Zza2R3X2tPeW5MTzVwaHk0MDhFS3kwZ1pXNEFTT0tta09zRjhHZmFhWnp0S2hsWDFfcERHQnEwTlpublBFa1dFMGJ3RnViUWNWOHQ4cEZSa2dLSXlBejVvSmZVZ2E2Z2dRcW12Y2t1aV9EOXhjRW1GXy1EQ3NabzBYeVhfZnhaVjFMcGpMSndpaVRnUkdpSVB0RjMxZlR0QUhacUlkWmVCVjlMdjJ5YW9Sa0dEYjNpTXdQRy1WV1JBOUpBdFBsb2c0a0dCRk1rWWxXS3pQVFpzcXZUNVNzaGFlcXhKWDNWSzJiX2hFU0FqaG5UMUtPbjZwd3pVWjlrS2liZHg0b2xZdEtNWdIB7AJBVV95cUxQSVpSa0lDdnZVS3B0QmowWDh2a1FMcVIzZjRseWxULWQ4SUlUSXZMeFAtSEFzeElOU0d5clBFWF9FTGo5dGNxRnhpcmJBWFJmcnFBbmh6NnJvQkIxT2J0VHVYQThDWHhJdUVlUkd1N2FHRHZ2bVpyTHNEVm9waXlLSTcyamI5VndPWWVIQ3Qxb1JqczhJYXdCQ2h1V3pRTV9IYlVoQUNHWW5IS1MtdlVHM1RvZnl4dGpQNFNRZ09VZm00TWNyNmVOYUhyWWhOamJQVWdxUWo0SVJraVJiSUFuQi1KYWRsYWlnNjUyWUlzcmhWUWI2RldKZWxFdkx0ckFHWnlUdGh6dXVkVVVDVWpNYkpuSk5qcEc4VHhGa01XY25KX1JGdldra0dWY05HaG1RS3dxeXFXNkZEMFhtTlgwUWQtLXZVcnB3WE5DejZXT3I3anpXcUwwNHpJWUU1Y29VbE1BZ3Z1UDJNYkJf?oc=5",
-   "date": "Fri, 20 Nov 2026 12:49:22 GMT",
-   "vu_le": "2026-11-20T16:00:44.921576+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "US stocks open lower as tech sell-off continues and Anthropic falls 9% - Boston Herald",
-   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oY3B5b3J6SWNFSE0zRGU2a2tkOEREZHJLZ01jR3hyNEpnaDFGWm82SFJwVWNwVnVPTWN6Qi1XOWVLNEdtTl9pdE1wWHpXVlJXcnJfVWpNTTc5VzhpMjdYZEJDZ2hnZ2VMaDh1bGZXbzI?oc=5",
-   "date": "Fri, 20 Nov 2026 15:08:57 GMT",
-   "vu_le": "2026-11-20T16:00:44.921576+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street Analysts Believe Sezzle Inc. (SEZL) Could Rally 30.33%: Here's is How to Trade - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaGJScm8zeFBvc3FrR2lvRThiMmlPUk9KMmVqdDJkdkFnZXBUd2laQXc3MmVsenBWcVZqM3dyY2Zqam1CWmlOczJZUzFfek9ERFUwZGpkb1Z4eDU4Yy1LcFJvLVRUbXBfblB2Z3FXMkN3UkxMNDBrb2ZjcFhrQ1kwdWFjN0ZWSHVZV3dUZFNQQkVOTGJjSmE5Z3NjbzMwWlFkYVE?oc=5",
-   "date": "Fri, 20 Nov 2026 13:55:03 GMT",
-   "vu_le": "2026-11-20T16:00:44.921576+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Bessent préconise une hausse plus modérée des taux de la Fed et invoque le choc énergétique - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOM3hjX3c2TThDMkhaVURNcFUyZ0lQVThHS2VZZ2RsUTNEQk5zVXpUYU83MHZZTzAxTnAxS3dlZDlJNUNVTVpJX3g1OHhDcHJsTDl4N25NVGtGaHZHNTlqYWZsa1V3d284LVRjTE5JcEUwdDc2Ujd5QUZ5TVY3N0VFd0hPcHZQUHpsQnFPRmJmWHA2VUlYZjhpc1RBRUhLeGxwbllWZUt1VkRFMFlZTWV3MFp3eDY4bVQ0WldDMUVkX2tCaDJ3a0VmQ2Vhd2RVek1MemN1TzRrTTlKcHdBd0lJMElnRE41MU1xbmRXVkVkVmNQLWQxb2VITnZrMVg1bnd5ZWV1VjdHaUN3V2NFeWQ3X9IBlgJBVV95cUxNMVNlV2JWeV9OTUFNUXAyV3VlU0xYWXN4Y1lhR2dWeDVyckhDOEdfT3JQamt3UW51enpONkNHRmpnUTNCcUVnMlMtSC1LbUpsVEpOdWd4VV9VY1E2UmJSNjR3UXZaNVg2bW9tTE15Q1R6U2VwYkZLSXdocmtFQ25HZnVjTVNMb2xIQTloUjJQLXZBZzdreDVVOUFWWEczRnlYMEgzUUlKcGVTekl2OUowdTRsZ0J2RzY1bHlwR0VhZWV4VVR0bEM5ZDJWQy1fM0E2NUJDdm1OZHpWLUFOSk9BdFdfNlppSmdnRnl0OHo1bHpBb25nYzlVNkFsNXBJQmo3c2kyZGh6dlhDRHBpY1d4RGQ0SHY3dw?oc=5",
-   "date": "Fri, 20 Nov 2026 15:44:07 GMT",
-   "vu_le": "2026-11-20T16:00:44.921576+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "NVDA and ANT Fail to Save AI Stocks as Asia Faces Worst Market Week Since 2020 - Coinpaper",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOGNmcW9OaVhUZUdMemNoWFgzOW1OeHI5TzUtX0lmTEphdUFxT29zV1RjSkdzSE9nZHplNDdtMGZtMW5WRlA2LU5oWngxSWVKYzJKbEctQ084bnl6NXI5WVVhdlF4STYzT2FGcktLNmgydV9NMEI1M1dmOFlnWDY4WjNwd0tlRHlQMnNuaDhWZzhXRnRoYnNPWXRTSkw5dU91ekxuQ0k5NXN0WHVrSFhGdk1TWFA?oc=5",
-   "date": "Fri, 20 Nov 2026 14:18:15 GMT",
    "vu_le": "2026-11-20T16:00:44.921576+00:00"
   }
  ],
