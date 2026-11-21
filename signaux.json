@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T22:50:34.876873+00:00",
+ "mis_a_jour": "2026-11-21T23:00:35.567696+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54836.66,
+   "prix": 54819.09,
    "devise": "EUR",
-   "jour_pct": 2.17,
-   "mois_pct": -26.71,
-   "volume": 410.43735106,
+   "jour_pct": 2.13,
+   "mois_pct": -26.76,
+   "volume": 410.966208,
    "volume_relatif": 1.97,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "AI tech rout prompts US investors to rush into value stocks - The Standard (HK)",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNjFmUklOVUJUcVpVWlpFN0h6T0pYbkpTcWVIRFVSWXlYS1NPeDhBdHlVNTdScG5YeGdTcU1VY1MwakppWHFwM0I1VjdvOGNCS052eTYtQUVqRWFJSFNKbkw4Y0dDSUVGalpPTHA0LWpQUE9oUEFFSFo1amZ3WlpfZG5iUjJMSEhVRlNScS1zclh1NXRnMkVJaXdYR0FFbGo0clJRNE1EeVNmLUNPOUllTF9ocw?oc=5",
+   "date": "Fri, 20 Nov 2026 23:05:57 GMT",
+   "vu_le": "2026-11-21T23:00:35.567696+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market - Business Insider",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTFTaEtqLXhoMWV1OHRCVHJQRk9YN3Jud0h3T1ZHMXVRN0t1SC1JaW8wVWY5a2p2RDRBZTRYX21sbVgzcXVlMkpsS2s4UmlIanJLSU95QXNzdXRHQ1RmSDgzc29JazdJVHg2ZGJGQk9hUUFxYVZNUGZ4SmVoZXh1d1dEZW5wSy1mUWtkZHFRXzVNVmJZeXQ1WEpNVDdRTTYyQThPZA?oc=5",
+   "date": "Sat, 21 Nov 2026 22:02:00 GMT",
+   "vu_le": "2026-11-21T23:00:35.567696+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "FDI Screening Sweden: 2026 Guide for M&A Deals - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTy1aVHlSbXhjSXhaTktaTm91QnZ0d1ZEdzNHVnB4VHBZSDhuWGhqbjVYSG05cGczRThHNFNKckVTQkh4cldKNFhzZ1NmUy1jbmIxVXQ4TzhLZ0RuQjctc3dtUWZBNG90aE03RFpuQnhCTzNrSXdrbjJkWUl6SnFYVGQyZnFDb3FRdjlB?oc=5",
+   "date": "Sat, 21 Nov 2026 13:16:46 GMT",
+   "vu_le": "2026-11-21T23:00:35.567696+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Solana ETFs Defy Wall Street’s Big Crypto Sell-Off - BeInCrypto",
+   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNElVSkdIaWJoT0M2b3FvSGljZGZLVlVURnBCVnc2ZWhsLWtLX0hyLUhZcmFKekwwVHBOWXZ2SnZiLVlNQ3BYU0JZNDNvd25mTWcwZU54TTZJNWtOVXJhN2N6VzBLZGtSb01mMXduZzhlbjA?oc=5",
+   "date": "Sat, 21 Nov 2026 21:24:25 GMT",
+   "vu_le": "2026-11-21T23:00:35.567696+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "ETH price on Nov 21, 2026 at 6pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXRUYTdIY0hPTDFZVzVRQzRoSUZuZGVlY0g4eUtZU19FT0Y5NW5WVWx0Z3FyTl9rTnZRODVnOXJEaTJKRll2bXpzXzQ1b2E0Nkk3Z09zbXYwZmVhZnhuaUpOZ0NlRUFYZ0FVSDZwOGJqYnc5VUl4NDhIYlRXaGdhRWZlXzNaZldhd01YZm9ZLWp2WVgzQUs2TXNkMVZPX0xKTDFDckNqWnZFREM0RkE?oc=5",
+   "date": "Sat, 21 Nov 2026 22:06:49 GMT",
+   "vu_le": "2026-11-21T23:00:35.567696+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Wall Street Plunges as Market Turmoil Raises Concerns for Agriculture - AgroLatam",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX1k2dFpsTktLOFRkUm0zWmEyeERYaFJQOEcwdmlYcVdyWjBWX2IybC10ZUNRajBZTzlqQjNGVEpGSF83ZzZFRVVYVGdxTC1HQXkzd3JjN1dnNUkzSmZ1ZlpxTlNnYldaYkE4bFdHak9tQ2o4eVhCTm1LbWxlSjhMSmY1NWhGNDRRZGluUTUtdVAtaUR1c0tvbE9ybDQ0SHJtMFVuY0RTNTVaaU94ejJvcWtKcGpNUlE0cXowLXZkbFhyMHhMcmJVaWJEeGRXLUx1dHhrN2Jn?oc=5",
    "date": "Sat, 21 Nov 2026 11:15:02 GMT",
    "vu_le": "2026-11-21T11:20:35.160904+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Kratos Defense & Security Solutions shares fall nearly 7% as insider selling and bearish technicals weigh - Traders Union",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEJNSG5PYWFqb2FFSmk3ckZBT3B0Rmh6LXRWWkJhcmtZTzJBVUg4ZWMzV1dtdEtNV2Y3bC1iUDBxa1d6T0JKT3F6RWxsT2ZxZGpfcFo0bkN6T25JU19XRlJzcFVZVXl0bWpQWE1wM0w3VTBfTGpvOE1LcTZmVFlyZUR4THdxY3pqX1FTWUJMTUk3QU4y?oc=5",
-   "date": "Fri, 20 Nov 2026 17:45:33 GMT",
-   "vu_le": "2026-11-21T11:20:35.160904+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Pourquoi l’entrée en Bourse record d’Anthropic n’a pas suffi à rassurer les investisseurs face à la crise Nvidia - CoinMarketCap",
-   "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lUklnb1Y3YlVyMzFtTEdrRHdScnhvTDNWdnA0MmxRWFI5ZHEyOGJQZ3J3NTF0ZlMtZXhUTEhqQ1JkZVpPTWlUTkpYM1QteWNNcGF6SU9VMDJMTzhGR2FMbXpuR1N0VG1ELU1qa1N5RVdQcTNYeldneQ?oc=5",
-   "date": "Sat, 21 Nov 2026 11:08:15 GMT",
-   "vu_le": "2026-11-21T11:10:36.761154+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Le français OVHcloud entre dans la course à l’IA ; l’entrée en Bourse d’Anthropic ne rassure pas le marché : les temps forts de la semaine - L'Orient-Le Jour",
-   "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQVpnUEMzc3BYMVdlSzRZOGFScWpQeWJjQjktZFprWUt1UV9wbVp6MzhnUkdIVHBhMUFaWHhfM2l3RTdwb2tKRk9KVHhWQ2ZCUnp1WDZqajhyYVdnVTBnRUthdWItdTA3VWFoSWVZVkZCbzJ5cjRQM3VNZEV2VkJva0ZWUDUxV0lBQm1uNGlmYU54Sm1QS2dRaEhVRW8zRVVQdE1HZUhGT3Z3S1RzbVFQVGNPamVpOFlWZTdneVlEbU9rb2hTLVNaR0REdmc1WENMTTlhZFhkU05MNDVQeTBjbVpxTzRLR0RXVUQzZGZBUEgtX1VJT2tUeHo5UUVCV2RmR3hGc1IyOVNmRkNxZXlN?oc=5",
-   "date": "Sat, 21 Nov 2026 10:56:49 GMT",
-   "vu_le": "2026-11-21T11:10:36.761154+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Laurence Boone, figure de proue de l'économie européenne, va intégrer le directoire de la BCE - tv5monde",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMVk1UzhqWUY5ekxHQVB1MHhoTkJXVENIaGtXVzFDQVZZbTBQVWZ2ajFJUkFpTHpSMEhFSmx3WGpibE9Fd2w4ZkVBd3h4d18yeTRlcHUyUlYtc2sxbGR6MXdzQ0VZVkhVMzMyeXh2ZENsV3NZVFJ2MXN0T1pTVm5JNXUwVGszZVN2dFRPd1dhUkJMblpaODJUZlJVcW1IYi1Xdmp0UVNiekVEenpiTU05Q2lMTHhjcUw4emFMenFSNkFObmJpUlpRallTcm9jUGNzcUlkNFNXZjF2M09x?oc=5",
-   "date": "Fri, 20 Nov 2026 17:11:00 GMT",
-   "vu_le": "2026-11-21T11:10:36.761154+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "La Française Laurence Boone proposée au directoire de la BCE - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZHY0UGVLcnhadkxtdHFvSWE0RF85SUM2X05wQzdUSHhrTmhUamU3ZkpBaThVLVlObndVMUNhQnZnaDF5NEpCeXB4R0hXZHJUdlV5dFJYd2d0dDdrUDJ6d1oxQjZoX2UzeWVMU1VFN1hDOXd1dWlNSWZpRTZ0eGNzVGVvOTNfMG1EdDJBOHVKeERtYVU4Nkp4UktaUGVfN0NRZDRMc2ZtTDhrVWsyaDRBcHFlRmV4NmI5OUhDU21jMzlFeWNyM1VDN1RLamRITi14RzE4WnlIcTlrTDV3VlZXaV9ZeXRmZU1FN0N2ZNIB7AFBVV95cUxNZHY0UGVLcnhadkxtdHFvSWE0RF85SUM2X05wQzdUSHhrTmhUamU3ZkpBaThVLVlObndVMUNhQnZnaDF5NEpCeXB4R0hXZHJUdlV5dFJYd2d0dDdrUDJ6d1oxQjZoX2UzeWVMU1VFN1hDOXd1dWlNSWZpRTZ0eGNzVGVvOTNfMG1EdDJBOHVKeERtYVU4Nkp4UktaUGVfN0NRZDRMc2ZtTDhrVWsyaDRBcHFlRmV4NmI5OUhDU21jMzlFeWNyM1VDN1RLamRITi14RzE4WnlIcTlrTDV3VlZXaV9ZeXRmZU1FN0N2ZA?oc=5",
-   "date": "Fri, 20 Nov 2026 17:44:55 GMT",
-   "vu_le": "2026-11-21T11:10:36.761154+00:00"
   }
  ],
  "erreurs": []
