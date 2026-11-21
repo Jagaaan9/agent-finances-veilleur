@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T02:10:35.662793+00:00",
+ "mis_a_jour": "2026-11-21T02:20:36.214641+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53783.63,
+   "prix": 53755.11,
    "devise": "EUR",
-   "jour_pct": 0.21,
-   "mois_pct": -28.12,
-   "volume": 9.65074784,
+   "jour_pct": 0.15,
+   "mois_pct": -28.15,
+   "volume": 9.96018164,
    "volume_relatif": 0.05,
    "capitalisation": null,
    "per": null,
@@ -3754,6 +3754,13 @@
  },
  "actualites": [
   {
+   "sujet": "Banques centrales et taux",
+   "titre": "Le dollar recule alors que le rallye alimenté par la Fed s’essouffle ; la baisse des rendements américains soutient le yen - Zonebourse",
+   "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYm1JUkMxT3g0Q0RQYmVvaXQ0QXhNa1hFZ2hTU294Y2FkTmZjVkNmMjlwSzhsTk9LYnRTWUtBaDZoRnFHMDBtRVd5OEp1S3g0aklMdjRFZ1NBWUxOQzU4R09zOFNRVHRQbUwzZ1FHamdMZXBMbTcyMzYzM0k0d1RKdHhwSUJSNHRSNVZBelp5Z3JVa25PdnladUdDRThDc3h1bWJqelE1Ni1QR3ZXVWJOekJrYm9jZTNMTG5lQi0wZ1FJMDNpdm55V1ZLaGE1V0k4c1RLWkVRMEFoRFRSNFVhcmZUbkRNRG5yMnFxbTctSQ?oc=5",
+   "date": "Fri, 20 Nov 2026 20:08:21 GMT",
+   "vu_le": "2026-11-21T02:20:36.214641+00:00"
+  },
+  {
    "sujet": "Anthropic",
    "titre": "Watch Historic Market Selloff Deepens After Anthropic IPO - Bloomberg.com",
    "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWxyNnNiRzUzMmpabC1oV1Z3ZmxXVllzMk5HVWlYMHg3N3dEQUdtVW14LVBFTjl3Z3VXM2VUWWg1dHhtT0M4NlVidzJCZENfUGM1WGRoRDlYZ1NGVXlNenJtVW5vVnZzXzlscGRKbXIwVkJCZHNsNC00Y2pXSVhzcw?oc=5",
@@ -6544,13 +6551,6 @@
    "titre": "FTSE 100 Airtel Africa (LSE:AAF) Profit Growth and Mobile Money Listing Power Expansion - Kalkine Media",
    "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNemxMV2p1LVRYZV9pYm1BMHNrQmlod3hkUlNOZk5hb0dOUTBjY1pvT2ozTy1MRjliTHFyQ2ZVdjBkNWpxVEpBZG9uUEQzZWYxcFRSWFNyS1lFQnhxMVJkbndLSDZTZURDOXVfckYySDE4aTdqYi15TXRSOUUxYXF6RVA2ZnVFSzVqTy1HWHlxVHN2a05JR01PUHpXZTEwWWxldW9rOXMyRVg4T0hxWWRGaUlFYVpRdWRpbHdBSjh2Vm9xWlF3cGlITjJESnZ1UQ?oc=5",
    "date": "Fri, 20 Nov 2026 10:24:00 GMT",
-   "vu_le": "2026-11-20T14:50:35.067158+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next? - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2FuMGhEMVZaUk5BU2VZWFN0MFJ2WjM0anVIUlpyOG5wdjlnQVhJRWdJY1MzZkN6TG5nTnNJemlQNGxSazNQWlZNMk55MkltOHF0WWM5V05ZN0RYMzF6SmZZb0ZzT0Jsc0c4MGQ4WnNmdTJrblE3Wi1JWlFfV2diM21IVGRvTjFiTy1CUGl30gGTAUFVX3lxTE9IeHRGYTVZU3lFdXZOMWQxTVlLU19NU3Q1a29aaVRCTTcwRkpCMm9sYzYwTVlYUmlGYmE3S1MxT3pjYVpINFdmZG5xc0ZIWWp0LXVNcTFwdnQ3MGFmNl82ck1IOHVYMmotYWZwQ2hiZ2VDb0lFRzl4SGx0d2R5WU5pZGRsNl8tSTlQYVVIeG0yZjNxWQ?oc=5",
-   "date": "Fri, 20 Nov 2026 14:18:44 GMT",
    "vu_le": "2026-11-20T14:50:35.067158+00:00"
   }
  ],
