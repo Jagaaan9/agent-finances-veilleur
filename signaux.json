@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T11:40:34.953378+00:00",
+ "mis_a_jour": "2026-11-21T11:50:39.427515+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53108.67,
+   "prix": 53078.58,
    "devise": "EUR",
-   "jour_pct": -1.05,
-   "mois_pct": -29.02,
-   "volume": 245.45119357,
+   "jour_pct": -1.11,
+   "mois_pct": -29.06,
+   "volume": 246.68001943,
    "volume_relatif": 1.18,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "CAC 40, Air liquide, Anthropic, Société générale… les actions en Bourse au programme de Momentum - Yahoo Finance France",
+   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2VKdHlnQnIxeWhZZDI2MjdRWnZHUzNsdDB3YTduWTRON1FfNUJobjRDZm94c0ZLb25BeGNvR1BpbFRibG9PalBMMmRPYkhSeFZRNlhlS2d6OVhKOGpIN0NuYUYzRzhJYWU0TllMTW1oY0MycFFCOTRXTFJ3MjY1Z1lyQy1DTHF6bHpV?oc=5",
+   "date": "Sat, 21 Nov 2026 07:30:00 GMT",
+   "vu_le": "2026-11-21T11:50:39.427515+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic : Bourse, l'introduction historique entre euphorie et prudence - Presse Agence",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMURWUUJ2bkJmR2RaVVVTY01FMncwbnJPbEk1ZG83ZzdNSzBuY0gySHBaTTA4SnVHenhWNEs4MjZHa0hjV3NoY2tkNE5HWWdfanFDcmNLMnFzSElfN2RBaEhBbEI0OGhSSkk3NG1VZHVaMl9mMEFhQkJYZTNQcXVObXQxdGxURjZUbGZYRVczTlAzdVRiWXhFMklUNFQ?oc=5",
+   "date": "Sat, 21 Nov 2026 11:00:00 GMT",
+   "vu_le": "2026-11-21T11:50:39.427515+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries - FOREX.com",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkRENXRpbUs0Um0zQ0JGOGh5S1pBQ2Jadmh5aDRuSUFXYTJfNmJPMDVMU2Q1Z1RhWk5vM1hGR0ZpeEtVNkFpRUpNSWlTcVhHbGxnck5LUHpVSklXTWRrc1ZQeXpjX3NtYnJFa1JWMjBZcWFVRjRXWEFWZlhpVkdMWjI4WHo0SmdIUDhWUF91cTdqWmhOcDFNOEZsLUhyTERGNFdhanE4WjA?oc=5",
+   "date": "Fri, 20 Nov 2026 23:19:04 GMT",
+   "vu_le": "2026-11-21T11:50:39.427515+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "After Nvidia, will AMD be a target as China’s ‘2nd-choice’ supplier for AI chips? - South China Morning Post",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWExyVlp5cmlPYkhKVEhwWTVSM1BMQWkzVUg5N2hJVzUwTzh1RFM2QVJ2Tnh0ODg1VDlQTE5NaWttV3U4NTNTeWRJWC02Nmc4MlFlMjY2RktxeWc0S2VkOHFjSDNUemdLS1g1VHZpcGpxQkZCSVdxRUxpOXFmRHViSEh5Q1piZzRoRW1YeG9UbVRlbjBydmltNTR3RklBTUlWNEtTTVRBd2owbS1sUjVBQ0dR0gGyAUFVX3lxTE5YTHJWWnlyaU9iSEpUSHBZNVIzUExBaTNVSDk3aElXNTBPOHVEUzZBUnZOeHQ4ODVUOVBMTk1pa21XdTg1M1N5ZElYLTY2ZzgyUWUyNjZGS3F5ZzRLZWQ4cWNIM1R6Z0tLWDVUdmlwanFCRkJJV3FFTGk5cWZEdWJISHlDWmJnNGhFbVh4b1RtVGVuMHJ2aW01NHdGSUFNSVY0S1NNVEF3ajBtLWxSNUFDR1E?oc=5",
+   "date": "Fri, 20 Nov 2026 12:30:09 GMT",
+   "vu_le": "2026-11-21T11:50:39.427515+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcnRVU2FtckNYYW9xalcwdUNkUjJNTmxUdzRpdlVkbklJTklpUVNoTzNsR0NFaEtHd21TU1pybU45blU0VlUtU2NzOVVESjl6Y1F3M2hLVTVqZ2JFRjE2bGtjV1pDNC15djZic1hNWkV2UGdVUGdraUZGUXBmcnh4UDdYeUwxZnlKSWU4VlR6c2I2NjhFOGJKT01vYlhUX2dS?oc=5",
+   "date": "Sat, 21 Nov 2026 11:35:02 GMT",
+   "vu_le": "2026-11-21T11:50:39.427515+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - AOL.com",
+   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUEhEZ2huNVQtNTM2Ql8tRW1OQXJFbzdZTWRaNEdIVS1LVmVyWDZqYVJYLXNnak01N0FqeTAwbFFLam5hWkZDNFYxMTFKaUpSSVRDZjl4UWktNTdodnVOZ05INXh2eTVRdE1pcE8tbm5BNTI4UDdzTjdzLTdOX21TamlQQkQzdw?oc=5",
+   "date": "Sat, 21 Nov 2026 11:35:02 GMT",
+   "vu_le": "2026-11-21T11:50:39.427515+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Arm (ARM) Stock Looks Undervalued Despite Rich Sales Expectations - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHFnM2c1TGJJajJsQ2lXOGQ4eGhtUXZhYTA2bmI5ZWxfMnZCQ2M0ZmlYM2V0MlprTEhwUW9lb1d2MDcwbHhIbmxTMmh2eHU3MUh2VDdWTEJDcDRmWDJETnAwZlhEZ2s2S3VQby1fVXNkUHFlVS1id0FTOFNyc2kyZzVZWXktYWFZa1pjRkM5N3VDWnhnc21nRU93dmQ?oc=5",
+   "date": "Sat, 21 Nov 2026 02:14:00 GMT",
+   "vu_le": "2026-11-21T11:50:39.427515+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Stocks tumble as AI sell-off intensifies - Fox Business",
+   "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BcDdYUnQ5a0hiSzZGUXI5bFhlQXR5bjhrazYtdkIxeUtnWFo0TXEzbDduZ25BUUNxdlJoWEdQRUJxVFB4NVBmWWE1bW9pcUlyT19sTnBCQkt2eVE?oc=5",
+   "date": "Fri, 20 Nov 2026 22:26:05 GMT",
+   "vu_le": "2026-11-21T11:50:39.427515+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "L'influence de la Fed s'est affaiblie et le dollar américain a stagné après une forte hausse de quatre semaines. - Vietnam.vn",
@@ -6496,62 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUUMydDQ1R1BOQ1pyNjlSdmFnbUhYdnE1dHpUaG84Q2pJTEFBRlVabXI1MUN1TmdnaWlrbkxYYVN3MGU3WUJDSURBR1duR002OUU4b3cxd05fUW1VaVBfLXpSUWhkNkRreXYwZ0RNc3diZ0NuS2FaNkw1MkxFYjdFRTJZVmNMNkJiQndTSXVOdUdZNmJ5VWJPSzQ5STY4cW1FMjlvTUJwOFR2SEN4Nm9lcXAzSFBsYU54SWxhQlcxN21OMnRUMEl0bFZpN25TaEJTeXVESmFhdlZ2TUg0?oc=5",
    "date": "Fri, 20 Nov 2026 12:20:04 GMT",
    "vu_le": "2026-11-20T18:48:56.476034+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "MongoDB (MDB) Stock Could Be 21% Undervalued Despite Price Target Cut - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc1MtSTQ5bzE3R21tTVk2cXJySVJiR2prRGR0QklBM3hlMHJZYWhMNjJabmNNVnZSLWYtZExTRzVQWGVSVWtySGx5dXdFQ1FuMllRV0JBNzdVSVJBWHh0RHVwdHNIa1pHUks5WGdRdXRlR0tqVURCdS1Eb0cyLWZFNzA5Wkk3d00teW1HZnZpRVAxT3E4bjI1c2w2S2dVLXBhSFZF?oc=5",
-   "date": "Fri, 20 Nov 2026 17:09:51 GMT",
-   "vu_le": "2026-11-20T18:48:56.476034+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCODBxU1BOWDlQazNIZ0E1Zy03ajAxMG53RVVWRC1HVUpGeVVMWWFRd2hyUGZPb1R6UGg2V0ZGRUZkTEdubmxsMU92bnR3VFpGSmlTU3VzS2hkdl96NVlyX3lSYWxUZ2ZhemJsdUpUM1dtMUZ3MjFnTFdtMNIBgAFBVV95cUxNTURqUmZMVXJpQXpJejVMY2N6NldfZjlwUFhVMWtPSDRhYkRoQTY3NXIwVkZZMmFLcllLc2ZKSVRvTFh2VERyd0J5N3pyRHMxQ0ZLMzFsUXB3U3Ftamo3UlQ0bkFSXzdSOUtGUl9XUmxya01hNDlwdlEwcnNSY1JMVQ?oc=5",
-   "date": "Fri, 20 Nov 2026 18:05:29 GMT",
-   "vu_le": "2026-11-20T18:40:35.685635+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Supply Chain Stocks Sink Amid Wall Street Sell-Off, Though Air Freight Shows Resilience - WWD",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaEVNSkpDaVhmNmRQR2E1VWxHQVFKY2VRMWRxcE5HcVI2YzQxenAxRWZzTmVVb2pfSTkwWkNqSkxxTl9lajNNMGhHbFZERmJYN3Y1TEhxX1RpbW02Z2wwamoyN0Q1c0hNUmtjcGVKY3VJdHUyVzlKZy1RWXFRaWt0YUVJZVN3cTZWQjZsTzU5X25aZmc1ZlVCVFROeTJKMUhJcUZVZnNuMDVMZ2RWZVJGWDhwdU9Vb2c?oc=5",
-   "date": "Fri, 20 Nov 2026 18:38:45 GMT",
-   "vu_le": "2026-11-20T18:40:35.685635+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "ALSTOM Cours Action ALO, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ieFVPRVM5TGxmaUg5SUJrRVdIdlFhaFNXaVZZaHJraHI4ZWNqaDlJV3JPODFXUk4yUzR6bjBJZ3JIQzRPNVJqMnJPTjUtVkRXSGc?oc=5",
-   "date": "Fri, 20 Nov 2026 17:35:46 GMT",
-   "vu_le": "2026-11-20T18:40:35.685635+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Datavault AI (DVLT) Stock Looks Undervalued On Founder Lawsuit Turmoil - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSnBpRGptODdtZmFFZDFQWFhUb0tBeHo1SGRYQUxhdF9ORDNiaUxFQTBjYVNLVm5KLTk0NHV1alk0QUd4bUlYQ3Z4dHFjamNYZ0N3bDVvQjVVaVF0Y01xZU9GUXNPZC12TnZ5aGs3WnFVeFAxVENtdDBaVy0yanJlMkZZTEhZQldNUmpPY2NhajBQSnlrZjZSVWdNTGh2T3dERmlrRkMtMC1PbTFvQVhYa0RkUTV3TlNSMGQtLVY4dFlOWGFfRmt6MHM4V3pZb2k5RFQzb9IB1AFBVV95cUxNSnBpRGptODdtZmFFZDFQWFhUb0tBeHo1SGRYQUxhdF9ORDNiaUxFQTBjYVNLVm5KLTk0NHV1alk0QUd4bUlYQ3Z4dHFjamNYZ0N3bDVvQjVVaVF0Y01xZU9GUXNPZC12TnZ5aGs3WnFVeFAxVENtdDBaVy0yanJlMkZZTEhZQldNUmpPY2NhajBQSnlrZjZSVWdNTGh2T3dERmlrRkMtMC1PbTFvQVhYa0RkUTV3TlNSMGQtLVY4dFlOWGFfRmt6MHM4V3pZb2k5RFQzbw?oc=5",
-   "date": "Fri, 20 Nov 2026 17:09:29 GMT",
-   "vu_le": "2026-11-20T18:40:35.685635+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "BlackRock to Buy SulAmerica: Will Brazil Deal Fuel Its Growth? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOE8zZjItMzdJbHIxQVZsUTJPNXVyV1Zsd1hyRWxDczItYnV3aDlTWEc0a0w5N3R0MVJBbVhiYnZrZXAxNTFKZGE1QXhJaUNGSlkzZTNsekQwT2NlRTZCbUdaM0plU1BBRUtDLU55VE5Uc2xSM2lwMTRENjVsdGdSaC1lUm0tT0hrNnY0RW1UWm9tLTI2angydmNRVkZyd1E1T2tB?oc=5",
-   "date": "Fri, 20 Nov 2026 14:13:00 GMT",
-   "vu_le": "2026-11-20T18:40:35.685635+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Cybersecurity Stocks Rise as Investors Bet on AI-Era Defense Spending - KITV",
-   "lien": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdkZZWnJwWkNpZW5NTmUtM0dfWkVzZmdVU3RoYk9Cbkl0SlhGRVQ4Sm9jRk1weVRuWU5NTDlRU0EtdGJOMmNCNGFpeXFoRDZfeUtTenhyR3lScGxYQ0xhMFF6SEYzbVVGTEVrakFhNm5IbHNONEpSREhCOHZhVlV1VnlfRFRzZS1rVVdTY050azhoZ3NvTmxoZy1MUnlyNV9xVHpiNkxvVlZ4ckdUVXMwdUNfVlc0MFJqQzJaeFVrQVkzVG4xZVBZeWR0dTYxdElvblpQRjEwVkEycE5MQS01cEp3NDJ0SzBITlNiQ2RLcTd3SzJjUTNWSHNwUUZmd1B1?oc=5",
-   "date": "Thu, 19 Nov 2026 21:52:00 GMT",
-   "vu_le": "2026-11-20T18:40:35.685635+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Falls Below $60,000 for First Time Since July in AI-Led Selloff - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSFpQUzJETTkzMy0tMXlOaXVmNUdxMkFvWFloVGRlWC1GcHFhSVZBcDNXQ1IyMURCa3p2SnJOekFydEwxdUpfQS13OUVTWXhtWkJQWTZsZldtZWFqN1FBeWRKRmZZMDhpcW9waUREdURYLVlaWENwb3JHN1VsWkt5NGdCa3JTdk0tdTcwM01nRjhhSkc2RHc?oc=5",
-   "date": "Fri, 20 Nov 2026 18:19:00 GMT",
-   "vu_le": "2026-11-20T18:40:35.685635+00:00"
   }
  ],
  "erreurs": []

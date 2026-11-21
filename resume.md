@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53108.67 EUR, jour -1.05 %, mois -29.02 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53078.58 EUR, jour -1.11 %, mois -29.06 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - G-Resources Group Limited (HKEX:1051, secteur Finance) jour -2.05 %, mois -7.97 %, prix 5.485 HKD, capi 2472715327, PER 9.4, volume x16.68 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
 - Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
+- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 5047665185, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 665841152, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3641703802, PER None, volume x1.08 la normale
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,14 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] CAC 40, Air liquide, Anthropic, Société générale… les actions en Bourse au programme de Momentum - Yahoo Finance France
+- [Anthropic (FR)] Anthropic : Bourse, l'introduction historique entre euphorie et prudence - Presse Agence
+- [Chine et Asie] Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries - FOREX.com
+- [Chine et Asie] After Nvidia, will AMD be a target as China’s ‘2nd-choice’ supplier for AI chips? - South China Morning Post
+- [Intelligence artificielle] If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - Yahoo Finance
+- [Intelligence artificielle] If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - AOL.com
+- [Petites valeurs en croissance] Arm (ARM) Stock Looks Undervalued Despite Rich Sales Expectations - Yahoo Finance
+- [Défense, énergie, matières premières] Stocks tumble as AI sell-off intensifies - Fox Business
 - [Banques centrales et taux] L'influence de la Fed s'est affaiblie et le dollar américain a stagné après une forte hausse de quatre semaines. - Vietnam.vn
 - [Intelligence artificielle] If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail
 - [Résultats d'entreprises] Opera (OPRA) Lifts 2026 Guidance, Is The 51% Undervaluation Case Still Compelling? - Yahoo Finance
@@ -449,11 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Résultats d'entreprises] Why Stocks Fall Despite Beating Earnings Expectations - EBC Financial Group
 - [Crypto] XRP price: What next for Ripple-linked token as ETF assets slip under $1 billion - CoinDesk
 - [Intelligence artificielle] Wall Street Had a Big Week. Why are AI and Tech Stocks Still Crashing? - Yahoo Finance
-- [Défense, énergie, matières premières] TransDigm Group Heads These 3 Space Stocks To Watch - Yahoo Finance
-- [Anthropic (FR)] Anthropic : 600 salariés à plus de 91 millions d'euros, la France ne compte que 1 800 foyers au-dessus de 100 millions - JeChange
-- [Crypto] Bitcoin falls to its lowest in two years - Reuters
-- [Bourse de Paris et Europe] CAC 40 : les grands perdants de la semaine - Le Revenu
-- [Banques centrales et taux] L'inflation a dépassé son objectif fixé à 67 mois, et la Fed a été avertie du coût d'un report des hausses de taux d'intérêt. - Vietnam.vn
-- [Banques centrales et taux] Les cours mondiaux de l'or ont chuté de plus de 35 % par rapport à leur pic de 5 595 dollars, la pression des taux d'intérêt de la Fed ayant fait chuter le précieux métal à son plus bas niveau en 14 mois. - Vietnam.vn
-- [Résultats d'entreprises] Earnings call transcript: The Buckle tops Q3 2026 profit view, shares jump - Investing.com
-- [Défense, énergie, matières premières] How This Defense Stock Is Creating S
+- [Défense, énergie, matières premières] TransDigm Group 
