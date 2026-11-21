@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T18:10:39.750828+00:00",
+ "mis_a_jour": "2026-11-21T18:20:35.208635+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54847.14,
+   "prix": 54865.9,
    "devise": "EUR",
-   "jour_pct": 2.19,
-   "mois_pct": -26.69,
-   "volume": 375.47451416,
-   "volume_relatif": 1.8,
+   "jour_pct": 2.22,
+   "mois_pct": -26.67,
+   "volume": 376.45783316,
+   "volume_relatif": 1.81,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, says biz tech CEO - Fox Business",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjVQWHNJMWw0Y21HYTVDN0lhX0ZYQS1FdzFCLV9nbVRzS09jNFN5UXRaanhHM2tXbGJkVGtlZVdMMnlTa2RTR29MUU1KbXVkekg1X19VeU5ISGJCbG9FRU5nSkNrZG1MWFJBaVZWY3pGUm5vUmZUWl96aWl6TVNDcUFCOXFxRmlYTFhRLTlqdTQ2S2FWTjJ4RWNBbnlVS2dtemlUSF9nOVlpZFpONElOdUhB0gG3AUFVX3lxTFBNVVBhQ1VSV2VIc0Z5OTJfSU1FUmc2UVFZNDJPX19TSjgteXV4QWxmbDZQWGQwa0M3S0tLUTY1V3ZTRXhUTmVNLTNBSk15QTRuQ1ZzSDY5VkFVT3laUl9XemZJVWZBVG9TU21UaW1US3JvWGZ3dGpiakppUDJobkQ2NW5lVGxEZUdCTlBnaGhEVWNvRE43ZTEySTBZaDJ6VzFuY08xN2FJRkFWUzI1Rkg0eEljUHl0OA?oc=5",
+   "date": "Sat, 21 Nov 2026 17:54:21 GMT",
+   "vu_le": "2026-11-21T18:20:35.208635+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Technology at Work, Heritage for All: The \"Chinese Approach\" to Safeguarding the Leshan Giant Buddha - Lohud",
+   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVzV6QUFZWklGTGsxSFhSNUpLc3JfYWFqX0NTNG94T1kyT05GZ203OGY4Y3hsc29KcmVaRXlET0cySExRSVA5NVVnYkZLUUJMMGRHUnFpRmR1eTYwZnhfZjBCR25aWERnNHd5cm9NbF9SN0k0Wjl1WEFKc3RjVUw4bXR4TnVFNHVlMkJfLUtBT2ZpbVZST2FqRHFqQnN0emJOcmtNV09QajhoZmxGMXBxOUJwSUhKOGl2cEVBMldTRS1hN3UteE8yWXlQM3FoZ25VVWgxc2t4VUR1RUtFSWc0?oc=5",
+   "date": "Sat, 21 Nov 2026 11:20:02 GMT",
+   "vu_le": "2026-11-21T18:20:35.208635+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "USCC 2026 Report: Chips, AI, Data and Research - CASRAI",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDFvWk9qSGZZUmg4em1KMGh0RDFfcy1fZ2U0dUFnVmVXaW9ZTVlrMEVsRDNENHliOFRkOWtPQm4zN3I4aW1pQnQtblJiU3dlWjRMcmM0cEZQZmJDcFJrYUVzYXVrQzFPZHpEbl85aFpFckROeVBzM3drelFhRjhwaWdSSjEyaVFzWnlBWnhPRUg4Qmhob3c?oc=5",
+   "date": "Sat, 21 Nov 2026 18:07:18 GMT",
+   "vu_le": "2026-11-21T18:20:35.208635+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic’s IPO Reveals the AI Boom’s Biggest Problem - InvestorPlace",
@@ -6531,27 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3Y3hVaUJUeV9YZUYyU3A3bnVKNlNVSi1wZ0NZZTctMG96WkptWW9CQ0ltNl9FbV94Q3k4X0xkMjF5RDlnZGp1ZFhfbDI3dTVpeTFSZjFTTGZVY0dOOGUzc191U09EelhwbVJFcWtSTG9WN0ZXcmRiSA?oc=5",
    "date": "Sat, 21 Nov 2026 03:48:02 GMT",
    "vu_le": "2026-11-21T04:00:36.748241+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Dogecoin price on Nov 20, 2026 at 8pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORVB2WDNFVmU3ajFKZm1COThNX0pKN1BPclVnVDlIbGtRdmxRMDctTkVrdTVPVjdzZ1pEMUxSQ1hHVVI0cWtodkRkQnEtaFFRYXZWRzdudDFERGtRZFc5ZFVGMUFNMmlralVxWjBvWm5CVm5OQXROVEpBeDl2MGI0bTlyeHJvWTJXcnhra1FJU3luWW1fbWtaVEQxYWlSaElpLWtqV2o2aHcxa1R2QkVydzhQN2c?oc=5",
-   "date": "Sat, 21 Nov 2026 00:07:21 GMT",
-   "vu_le": "2026-11-21T04:00:36.748241+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Les marchés financiers “plongent” tandis que les inquiétudes liées à l’IA s’intensifient - Courrier international",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbDU1Nm9lb3NNSzhjRGdGZ1RrWl9qLUpXb242Nm84TjNDck1VSGc5S3ZNTWw1Y2UwaFh6MlZRR01oRTZlcXRFQWtIaHFjSXdta1hZN3k2SEp3LXlkZ0RSQzNDYlJ3TWxnQnQ3ejZXN3MtbFFyRnJuQ0RUcmdSS1BlQjNXZ0hvb3dnNkFucHVHU1V6cU9UMTRVZXJrWUR6bUJJcU5ONTl1bjlLbFVyNjl4clRDczdFWE5WR0c1eXR4NlN0aFE2VlJHVS1mZkZoYWZRMmRRWmNiZFpQNmxOMXkw?oc=5",
-   "date": "Sat, 21 Nov 2026 03:48:52 GMT",
-   "vu_le": "2026-11-21T03:50:35.963966+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Bessent exhorte la Fed à éviter une forte hausse des taux, invoquant le choc énergétique - Mezha.net",
-   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaW9sSzlFS2hsaDgxTUdCOTk2LXgtaXd5OWFCTHZWT0dMd0lOUGZYVGltWlRoUXMtNWpJM2tSd1d1ZFVxQlkzM2pKTjFmQ3dWTlFSUWNKZFk3TGs5T1NuNTlsTkhEQThfVlBKcHA4V3JIeW9WaWdYU3A1cHRQOTFxbjRJWC1kdGxRVENlOUF6ME91SDA?oc=5",
-   "date": "Fri, 20 Nov 2026 08:46:00 GMT",
-   "vu_le": "2026-11-21T03:40:38.494258+00:00"
   }
  ],
  "erreurs": []
