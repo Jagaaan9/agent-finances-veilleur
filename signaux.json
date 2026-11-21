@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T03:30:39.628900+00:00",
+ "mis_a_jour": "2026-11-21T03:40:38.494258+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52873.66,
+   "prix": 52151.42,
    "devise": "EUR",
-   "jour_pct": -1.49,
-   "mois_pct": -29.33,
-   "volume": 19.10683415,
-   "volume_relatif": 0.09,
+   "jour_pct": -2.84,
+   "mois_pct": -30.3,
+   "volume": 50.30297778,
+   "volume_relatif": 0.24,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3754,6 +3754,20 @@
  },
  "actualites": [
   {
+   "sujet": "Banques centrales et taux",
+   "titre": "Bessent exhorte la Fed à éviter une forte hausse des taux, invoquant le choc énergétique - Mezha.net",
+   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaW9sSzlFS2hsaDgxTUdCOTk2LXgtaXd5OWFCTHZWT0dMd0lOUGZYVGltWlRoUXMtNWpJM2tSd1d1ZFVxQlkzM2pKTjFmQ3dWTlFSUWNKZFk3TGs5T1NuNTlsTkhEQThfVlBKcHA4V3JIeW9WaWdYU3A1cHRQOTFxbjRJWC1kdGxRVENlOUF6ME91SDA?oc=5",
+   "date": "Fri, 20 Nov 2026 08:46:00 GMT",
+   "vu_le": "2026-11-21T03:40:38.494258+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "BTC price on Nov 20, 2026 at 11pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdFZaY2Nyekh4UXJnd3FGbktWZUpxT0JSZy1xdlpEcFg2ZlhicmY5RE5uc1FHWXFwRVFaUmYtS3lzZjFVVGdSVEx6SmtQUk5aSE5LYWdHczYzZnU2YmZXNVAzOUU3TjQ3SlFMT1FlTmFvUTl1TTNKVzFFdVluSy1ZZFo0ZkJfVHF2SFRMNEdSVmlUcEcyNlBjNXhGUHZRYzc5cHlWVnJHbW9RN2VOTHBv?oc=5",
+   "date": "Sat, 21 Nov 2026 03:30:02 GMT",
+   "vu_le": "2026-11-21T03:40:38.494258+00:00"
+  },
+  {
    "sujet": "Rachats et fusions",
    "titre": "Beeline and TYTL to Host Joint Stakeholder Update Call on Merger Agreement with TYTL Corp. - Quantisnow",
    "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NtcDlickFrUGxZSUdWNl9sdDhFT2lqZU14TWpyaVZraXNHM282U1czRTFhWXZDWW13ZVdFMGZ6VFRFdDd1NTNSMkRwck8zNUR2ZkVRd3NSMzNnRzZVU1lFaFdEcWVuZHp1N1F0NHlTUTh2dzBGaWdQVWhtLVhBZ0ZSZGxuU3FrY1BIeFNneHdxbkhxNXlIOXhmYjZqSnNlNXc?oc=5",
@@ -6538,20 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjE0d3NmdV95OUFITC0tTnR6MUY3OUktbHQtR0NSeHdqeVJ5bXZST21zY1JOZ2xHbmtqYmtORy1Na2pCRTZGOWdPVXJFUTFiNVdhS2FEbC1sSnJSLVlnOGVfQmRuRUZaU2hDakp2NmRudXBWbktsNWw2cnQzQ1gxT21ZY1dCUHFwVEM2ODVpdEh5MnFfdUgyNFJZbnlhREI5THZN?oc=5",
    "date": "Fri, 20 Nov 2026 15:02:37 GMT",
    "vu_le": "2026-11-20T15:10:35.864171+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Lendemain de fête difficile pour Anthropic, dont l'action chute de 9% après une entrée en Bourse historique à Wall Street - BFM Bourse",
-   "lien": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNYnBjUWlnQmU5MExZS0lJX0JXdEJOeVZCR05CeDRkOUtBVnZ5bWJZV3pjZ3Bmb2Y1Vll2cUN2LTNxR1VfcFNTZlkzODRtVEtxSVBtZ1BqQmNCLUx0Qm5JT1k0MjUwdUJOYll5YzF4S0ZjS3p0Rm50d1h4S1lueUNKa0pWSHJ4MTFzSDVfVDlqWmZmX2R5MDQ0aDJQVUstVGt6bGhGcGF1MjVLa1FvbkwtQ2ZnSEVSMEFuczdmZlZOTDR4RmU5YnFHSXYyYU9DU0JWc3NjUzdwdEJmTkxYVzJJbnFMdDN0VlBJSngxaWRLM1lpWmFhYTk5Qzl4bkhmNHBZaHhrWXhVOVU4S2xMQUVlVlFwX3EtanVLWkVvLQ?oc=5",
-   "date": "Fri, 20 Nov 2026 14:40:18 GMT",
-   "vu_le": "2026-11-20T15:00:35.549646+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "US stocks open lower as tech sell-off continues and Anthropic falls 9% - LancasterOnline",
-   "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMGJoR2h4Z1BaNGpNQU5GaFpNeFVEV2ttSTY3SkV4dFM4VWcxNDBXNGJQY0t3bFBubUwzTk9TRlN5clpEeGh2Z1ZZaDNlOFVFWVBxTDZGYUx1UWh6eFJkM1hCVC1aVTg2R2FOSUxuNHNNNjBOTGh0OVVON2ZXdFMxVGM0Tk9lTGtKblowLW5FdWQwZHhsRU1QdnFpSzZzenkxYWJTR2lOY3B0REI2WlJqZ0QyOXEtMFZjWXNJQ3FNYTlYZjk5RUFtRm0tN0hJaW5iYTdrZU9OdEdiREw3QUFyRmNvUEVKemMzMld5ODhLbG1JRUJOOUN4NWtZd0ZGZw?oc=5",
-   "date": "Fri, 20 Nov 2026 14:38:29 GMT",
-   "vu_le": "2026-11-20T15:00:35.549646+00:00"
   }
  ],
  "erreurs": []

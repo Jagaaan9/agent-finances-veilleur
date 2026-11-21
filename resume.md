@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 52873.66 EUR, jour -1.49 %, mois -29.33 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 52151.42 EUR, jour -2.84 %, mois -30.3 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,8 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Banques centrales et taux] Bessent exhorte la Fed à éviter une forte hausse des taux, invoquant le choc énergétique - Mezha.net
+- [Crypto] BTC price on Nov 20, 2026 at 11pm EST Crypto Prediction Market - Robinhood
 - [Rachats et fusions] Beeline and TYTL to Host Joint Stakeholder Update Call on Merger Agreement with TYTL Corp. - Quantisnow
 - [Intelligence artificielle] Michael Burry warns AI stocks mirror 1929 and 2000 crashes — and singles out Nvidia's risky deals - Yahoo Finance
 - [Crypto] SOL price on Nov 20, 2026 at 11pm EST Crypto Prediction Market - Robinhood
@@ -459,6 +461,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Introductions en bourse] Anthropic Slides After Debut as AI Stocks Extend Losses - Unite.AI
 - [Rachats et fusions] DOJ closes investigation into $66.8 billion NextEra-Dominion merger - upi
 - [Crypto] XRP price at Nov 21, 2026 at 5pm EST Crypto Prediction Market - Robinhood
-- [Anthropic (FR)] Anthropic chute de 9 % pour sa deuxième séance à Wall Street - Yahoo Finance France
-- [Bourse de Paris et Europe] L'Europe ouvre dans le rouge, plombée par la "tech" malgré l'IPO record d'Anthropic - Zonebourse
-- [Introductions en b
+- [Anthropic (FR)] Anthropic chute 
