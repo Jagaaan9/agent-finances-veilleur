@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55151.5 EUR, jour 2.75 %, mois -26.29 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55190.26 EUR, jour 2.83 %, mois -26.24 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - G-Resources Group Limited (HKEX:1051, secteur Finance) jour -2.05 %, mois -7.97 %, prix 5.485 HKD, capi 2472715327, PER 9.4, volume x16.68 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
+- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 5047665185, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 665841152, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3641703802, PER None, volume x1.08 la normale
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,15 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Watch Anthropic IPO Fails to Calm AI Jitters - Bloomberg.com
+- [Chine et Asie] Beijing to restrict young Chinese firms from overseas listings - Communications Today
+- [Intelligence artificielle] Worried About a Market Crash? This AI Stock Should Bounce Back Fastest. - Yahoo Finance
+- [Petites valeurs en croissance] LifeStance Health Group, Inc. (LFST): A Mental Healthcare Growth Stock With Improving Profitability - Yahoo Finance
+- [Petites valeurs en croissance] Lockheed Martin (LMT) Stock May Be 31% Undervalued Following Vulcan Failure News - Simply Wall St
+- [Petites valeurs en croissance] Xylem Fell While Profit Rose - Simply Wall St
+- [Défense, énergie, matières premières] Intuitive Machines vs. Rocket Lab: Which Space Stock Is a Better Buy for 2027? - The Globe and Mail
+- [Crypto] BTC price on Nov 22, 2026 at 5pm EST Crypto Prediction Market - Robinhood
+- [Crypto] Bitcoin Price Rebounds to $60K After Crash Near $55K, Leaving Billions in Liquidations - Bitcoin News
 - [Bourse de Paris et Europe] Wall Street siffle-t-elle la fin de l'euphorie IA ? - Bourse Direct
 - [Banques centrales et taux] Otavio (Tavi) Costa : les hausses actuelles des taux de la Fed pourraient entraîner un krach déflationniste - Traders Union
 - [Rachats et fusions] Adani Energy Solutions Bags Major Renewable Power Deal In West Bengal, 2,500 MW Supply Capacity On The Horizon - Free Press Journal
@@ -447,14 +456,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Intelligence artificielle] The Week in Breakingviews: Know your chip customer - Breakingviews
 - [Intelligence artificielle] Cotton claims Lutnick ignored his ‘many letters’ warning of chip sales to China - The Hill
 - [Petites valeurs en croissance] Cigna (CI) Stock Could Be Cheap As Shares Drop 4% - Simply Wall St
-- [Petites valeurs en croissance] Coherent Buyback Puts Fabrinet Stock Back In The AI Infrastructure Spotlight - Simply Wall St
-- [Pays émergents] NSE Nifty 50 Gains 10.7% as AI Sell-Off Redirects Flows - Multibagg AI
-- [Pays émergents] What Does Diageo (LSE:DGE) Risk From India's Scotch Tariff Shock? - Simply Wall St
-- [Crypto] HYPE price on Nov 21, 2026 at 11am EST Crypto Prediction Market - Robinhood
-- [Crypto] Crypto Crashes Pile Up as Once-Diehard Fans Chase New Bets - Yahoo Finance UK
-- [Anthropic] Anthropic's IPO Premium Shrinks as Banks Draw Blame - The Defiant
-- [Marchés mondiaux] This Stock Market Selloff Could Block the Fed’s Rate Hikes - 24/7 Wall St.
-- [Bourse de Paris et Europe] CAC 40 en baisse de près de 2%, krach de l'IA, Ubisoft... Le journal de la Bourse du vendredi 20 novembre 2026 - MoneyVox
-- [Bourse de Paris et Europe] La Bourse de Paris finit dans le rouge et recule de plus de 5% sur la semaine - France 24
-- [Bourse de Paris et Europe] Krach boursier : l'intelligence artificielle détruit tout, jusqu'à l'or - Le Revenu
-- [Bourse de Paris et Europe]
+- [Petites valeurs en croissance] Coherent Buyback Puts Fabrinet Stock Back In The AI In

@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T21:10:35.449846+00:00",
+ "mis_a_jour": "2026-11-21T21:20:40.415218+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55151.5,
+   "prix": 55190.26,
    "devise": "EUR",
-   "jour_pct": 2.75,
-   "mois_pct": -26.29,
-   "volume": 402.33071869,
-   "volume_relatif": 1.93,
+   "jour_pct": 2.83,
+   "mois_pct": -26.24,
+   "volume": 403.80467172,
+   "volume_relatif": 1.94,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,69 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Watch Anthropic IPO Fails to Calm AI Jitters - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcEtCaWVNSW1uUE54WWZxRlp3Skx6b0E3cEpiTlNfNDNibDY1VUN6ZWtzYldsQlpKSlVkemt1ZWZvc0lpcHVrSHFCUVQ5dG1nNnVkbTQ4anUtMzBUcHI3X1pwOWo4OW9JLXFLWnNlZGx3UjJhbEdKZlZZck56eHRoLV9kd0xqMDMzVDVsdFlXNjhpYzZBbWhCTg?oc=5",
+   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
+   "vu_le": "2026-11-21T21:20:40.415218+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Beijing to restrict young Chinese firms from overseas listings - Communications Today",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWXNKQ1V1cXIyYndLRjNYakZkT2ZxbUE2a2lkVUVKalBxV3IyemZiaDBQeUNPVXFPV29Sc3ljc2tvYk1YWUZnYkU4YVFreFdIZWZHVjdNbHg1Y3hhOVpMbHhyLTNxS2ZwS0JpVThpbDNaMkxoeEdFS1h2ZXk5TjRWbEwzZlZLdW16Zzk2YVZlY3F2aHkySWJrU2JGS0RNd3k3cjlR?oc=5",
+   "date": "Sat, 21 Nov 2026 07:09:11 GMT",
+   "vu_le": "2026-11-21T21:20:40.415218+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Worried About a Market Crash? This AI Stock Should Bounce Back Fastest. - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTVyc1NGTTZBaHVvWWVvZ3JuQ2YyeUUydmRtNkExdjR5TlpRLUZmRUcwaWhsR1VDbVRpdV94YlZwTGFEVWtHY0JnVUFoc3k0SHN4ZXJUODJzdDBBQUQ5Z0V1SmhXZG9IZkdnU1ZkNEVsT3VEOGpzZmh3T1lTRDR0Y2RoTWdpck9janhnUTFHaVk5UFp6M2pGcDdn?oc=5",
+   "date": "Sat, 21 Nov 2026 18:47:02 GMT",
+   "vu_le": "2026-11-21T21:20:40.415218+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "LifeStance Health Group, Inc. (LFST): A Mental Healthcare Growth Stock With Improving Profitability - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONFlHQUVGbDhyam40RnowOGhoOVFDMEdQNjlsd0FkMTBBSTZMZmhGN2FCbU00Mm9HanlWVm8wLWtPUjRvU0puaHotbkxtaDVPeXU3NmVQaTkxalJuNnJQay0xUkM3TXhWSnlnTFpNdGxOazlOV3psdnBySFhPTTU4V0pHY2hobmZ5TlNuckdndV9jaUtXeElLRg?oc=5",
+   "date": "Sat, 21 Nov 2026 15:01:37 GMT",
+   "vu_le": "2026-11-21T21:20:40.415218+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Lockheed Martin (LMT) Stock May Be 31% Undervalued Following Vulcan Failure News - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbDkyYXAtdHdGa1hGaDVuYjB5WWptc3pkMU9wbGoyWGxfeG1hVjU1T2k3bkNHc1F4OWVLWWM5UUdQcjlkUDRYS2k0SGxsWVZERzFzSFB5ekRQZWl1ejJNZUN4a2NQQU5JMEgyRlRZajJkYUJ0VlV5VnhGX1FZODRJbW1fMkZLX1NIRW91WGNMM3labU1sdnJYNDlaanAtaFhCQVk0aEtfMGl0M1ZWR3IxYy13RUFBVGFfVEp3S2FfeWRVR2pjWXJXYzduNktoSHlsMmc?oc=5",
+   "date": "Sat, 21 Nov 2026 21:08:21 GMT",
+   "vu_le": "2026-11-21T21:20:40.415218+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Xylem Fell While Profit Rose - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZmRTYlI1ZS11RmRKbVB6LVNnaUZFSjZOX2JheHk2QndXNC10cWpNX2ZKd3BxdGFFbG1ESGwwb05yZjRVeENWdUJqQVFMdXNwR0NqRGdiTG0tTk5DTjduZERtS2pacFc0WVV2REVRUDlORHZfQm81VFFTdFItcEZBQk1ra0tvUmhJLVUtU1ZnOUxJMHNKTkVrYlFB0gGfAUFVX3lxTE1CbXlVWk5ESGpfUUdSR2FURmNmV1VPVzVMV3M2N2R0aUxIMFNhNm5nRzZWS1NIMkVmTXhsV2dSeFFrR1huRnpUek1hTlNENUwycUFvOHBLOHFCU2plVmtBMlNQdTJlXzg4Vm9aYVBtYlU4NE44OEpfUDkxYnhjLU9KbFJDMFYtUklBQUxuUFNueW9DcUZCQXljR1lXSWdHZw?oc=5",
+   "date": "Sat, 21 Nov 2026 21:07:49 GMT",
+   "vu_le": "2026-11-21T21:20:40.415218+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Intuitive Machines vs. Rocket Lab: Which Space Stock Is a Better Buy for 2027? - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV2dXa2Fsd09TZEU4SkNDR0c5ZkJLTG8xSUx2QzJjSjAteUFvWmhDVjNZb1VsM3J4NWdZMUxaZm1MRlNHNzRfUENBWlVqc2lLaWVYQ1hIbnA3S1EtU2dQQ0VTQ1FNMjJEQkpOWFRJOGNvUkdrSFZNa2ZrN0F1NmtRU1A0b1hZSTF3N2lLWTM0dmhnZU1Ubk9zY2hsbVpYWDgzQnI3MmRUR0doS0pSZlRMTGNCUmo1b0E4ekl3RW02Q2pIYVkyQ1A0dzFia0xHWDFBUVdscWdGX2NDbm5vWUZEN0JwaUpSbDZ0NDBKQ0tQdXJSUQ?oc=5",
+   "date": "Fri, 20 Nov 2026 22:44:03 GMT",
+   "vu_le": "2026-11-21T21:20:40.415218+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "BTC price on Nov 22, 2026 at 5pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZzdBMFIxV1VTNDZjenhNUExzTGN6ZUdEZ2FQOUpSRnhNX2ViVFRGR01Eemc2Wk1SeWxScC1pUHNON1lYRnk4RXUxRUQxSU1ZbjYzb1oyTTEtcElON0pWSkl4bjk4dkUwUWtvb0lXMHNkZkw2LWhxemFraUlKRjhLQ0JTWGROUkhRS0J0MEZ2MXZwOGtLbUhTSTNFaG4zZk5DR0NrOVo1TENtb19DM2c?oc=5",
+   "date": "Sat, 21 Nov 2026 21:08:56 GMT",
+   "vu_le": "2026-11-21T21:20:40.415218+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Price Rebounds to $60K After Crash Near $55K, Leaving Billions in Liquidations - Bitcoin News",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazlzQjFNcmlTbV85WEN2NmVNWGtjT2FaR3dEZnJCMWxYQm9NQ05zb1hYTHVmTnpKZ1g5dWdhU29pNjdvcElqTVJvaHVwa0V1anpCYWxrYUY4T28wTXBJc3BsNEVjR0lCeEtuV3F3R3FfWmFYXzBkak1TamM2aVJUUFZ3UDhlaHhuRFBsbjZkeXFtbVljcDhpZG9HZ3c5TEg2al9wcVk5RQ?oc=5",
+   "date": "Sat, 21 Nov 2026 19:24:57 GMT",
+   "vu_le": "2026-11-21T21:20:40.415218+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "Wall Street siffle-t-elle la fin de l'euphorie IA ? - Bourse Direct",
@@ -6489,69 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNDVSLXNpdFhCa012ZjZqMVlBLTB5eF9sbXFrd2RBWG9mMzVpTU5wa2k5clJIcXFpXzNCT0VmR0lKcFNSLU5KNWgzUm90OWxob2MwcEx4czUwVkdNdXk2cVpEQm96RFNZWkxLUGZFUFZzeVpPeXg3WGVpVFI3TUxsQkw1RGE1ZV9jSTd3VFB4dUc2ZGVOenNrblZ1eGlYclU?oc=5",
    "date": "Sat, 21 Nov 2026 08:04:54 GMT",
    "vu_le": "2026-11-21T08:50:35.368396+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Is Capgemini (ENXTPA:CAP) Undervalued As Cash Flow Supports AI Growth? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQVpjYXh4UlE1MFZrV0NPdnFxdDRtMDVDaXZuT2wyVUlDTkMwdl9yM2VkM29VMkJfT2lVOFF5SmRPTjVXVWNhWUtsbmdORHV3ZUhkaHhUVUZHVm1KaklTWjlKemR0Qy1Md05zbzlNakxvMlNiZ1hvX29fUXpVVl9QQ3BkRUZfRU1KcHl3WEpCSjNCNVMwckNMRGUzaW9iZW1GRjlQaQ?oc=5",
-   "date": "Sat, 21 Nov 2026 08:16:08 GMT",
-   "vu_le": "2026-11-21T08:50:35.368396+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Nifty gains 10.7% as global AI sell-off redirects flows - Multibagg AI",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaWdlbUVrdEdORF9pRkdXY1lKWmhTVG1wYUExd3FYVllOSW9HSlRyQ1lOODlVRFU2S2QwZXFLelNFTzFlcnF6bFphLVVQc050MFdpelJKZDZYV0xmd3JHX2JLaDY4c3dXeWdVQWpSV2R0Wk16X0FuSFBCRk9TZk5hS2J2eDdoV1hPX3djX3Q1amZDWU1iM3FQejJYWUdGU1ZjV1J3?oc=5",
-   "date": "Fri, 20 Nov 2026 18:00:37 GMT",
-   "vu_le": "2026-11-21T08:50:35.368396+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Tesla stock extends rally as Musk-Trump alliance fuels gains - ET Auto",
-   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY2NxQkx6aVFGbmt3ZUFJb0JQN0NiaVNwNDk5Q3ZZQzVtRHZRYjh5NG1fWEZ3YjhEcm5FVlhBeWZLcG9BM2txZTVfb016MzZzYXJoYWFVdEJwMDh0alFYZmR4Vm9qNkMzZlJscmpwMVhjUGRORG9MX3c5T01vc0tCMndlalBDeVJBeEtOV3luelQ4XzludU5LUkdPNlo1RjJKYnVuNHZHcGkzUlowbHppTkVpVkx3VzhhZTFVZFplcV8yZ1hsU05wQ2l2RW93OFYwaEhRNk52Z0prQdIB1AFBVV95cUxPSWRzMUU2RFFBbkpMS0o2M1R2S3VSRUFONVM4YWw4emVkdHlmYjJDT0ppSnZrSlFVRkVNS2lwVkw3ZUVQLVNKVXdwdFR2eTlnU1Q3cGVacDQxZWlBNmVHQ2lXLXZzdmFzVnVKZUxXZHVSWmlPaEpVc3FJWWNDM2xzWTdQMi1za3ZXMjc5RkhJWTJubnJDVXhPZWlPOGs0SzRGUFlKLTFpalhyN09JbFVEenUtMW45S3FyOXFQdlc5b3RDQVdmTlFZRDVnZHBKR1VMU3NyVw?oc=5",
-   "date": "Sat, 21 Nov 2026 00:18:55 GMT",
-   "vu_le": "2026-11-21T08:50:35.368396+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Investor Focus: Anthropic’s Record-Breaking IPO, Nvidia’s Earnings, and an Undervalued UK Defense Stock - Morningstar",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3U2SjhqNnZ3MG5UXzZIcmZGWjNXWjZHZks1SjRKYUF6enYxeWhxMml1SV9qTU50UVhFUExNQlRyeGlIdVRmaEN4ZEtjbkxuSXB5ZnhsLU40WEJpYTB6UVBIMzNhLW81aU5zemo1Q2l6RkJ6MHQwUFdTS3hRQ3JNXzJaS2Y3MHplYlZFdlRLYm13emY5UzluMDVrQlFQdVkz?oc=5",
-   "date": "Sat, 21 Nov 2026 08:16:08 GMT",
-   "vu_le": "2026-11-21T08:50:35.368396+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "La Fed prévoit de nouvelles hausses progressives des taux d’intérêt - Finance et Investissement",
-   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbjhCblNIVW03b0JuQUNUWVdOemhYaHh2dHo2b2w3Q3VvUE93RG9qT2JpejZvVzFMbThzVGYzQWQzWWV5YXoxTHRoYWFYcE1rMmlGYlFfQ1ZhM2Y1RjgweE1KUXBCSExnSU91SWVOUWxvSnF5LVR3WENmMFVwd1Q5UTFyd0pJNG5vc01VaVJZQ0U3TU5WY2ZyWWVSYlQyVm1GaUdMeUlzZDZmWjk4R0xuSnRDUEIyQnJm?oc=5",
-   "date": "Fri, 20 Nov 2026 13:07:31 GMT",
-   "vu_le": "2026-11-21T08:40:36.357572+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "AMD vs. Nvidia: Which AI Chip Stock Is the Better Buy on the Dip? - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdDJjTUItNjhtVWNMb0FRa3hKZThKYXNDbWxweWdZTXVtUXBCalAwMC15d3M2LU1Ta216M3poTmo4eTVyQ0xqMGFTX2VHd0Z3LW9EZFJEaWVDaEtVdXFsWTBReFk4dlI2RE9BQVJDb0Z0a3A3dGpGNGtxaWlvdU93VW1TSy1OVFlIYkV3UkNDYk5mZnBpQWUxMzF5cm1HT2FJejlEY1hmYVU?oc=5",
-   "date": "Sat, 21 Nov 2026 08:30:02 GMT",
-   "vu_le": "2026-11-21T08:40:36.357572+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "AI Stocks Explained: 5 Layers, and All 12 Fell This Week - FourWeekMBA",
-   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbk5FaFVDNEkwczVkNWQ2OTBvTGktbkJhQ1VlQmp2ZDVqZFRBTXBxWjNUZ1BkNW1rbXVuTHNyM3lEN3MxWnFVWnhwUURpb1JsSGEtQ0I2Z3VseVBJWHZSb2RtMWJvaWZMbW43Z1c0VTltNHlRX3drQTBQRHh5ODFBVThNQXkzQQ?oc=5",
-   "date": "Sat, 21 Nov 2026 07:20:13 GMT",
-   "vu_le": "2026-11-21T08:40:36.357572+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Nasdaq Drops 5.28% as Tech Stocks Tumble and Treasury Yields Fall - JournalArta",
-   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ3dWRlRITjQ5WWxtT1RzQkFZT2xSYmRZXzRZYWkzLU56WUZKTXZkNWhKdDJiNzJaU0lyLXRpdGI4el9wUy1BYmhPMGR3MDVoV2pnaGl3dWppSUYyVzZ5cUFqajlpNDVYY25uWlA1NXlhdzZiZ1FiSURnb2J5X0M2Z3JfVW4?oc=5",
-   "date": "Sat, 21 Nov 2026 04:28:56 GMT",
-   "vu_le": "2026-11-21T08:40:36.357572+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Plunges to Two-Year Low As US Market Turmoil Deepens - تسنیم",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNXNpZWlyU1lDbm0zNW1xV09wVlNTZHpwSkV1R2phb2tmLUVJMDIzR0dKX3pfVWgyeE1hb21oTW5TTS1veWJiRmtIem81eWVzMDlCQ3ctblM0Qm5TMWxuMm5uNzZNYmxNdERxbVN3eXhQajMxd3JIbXZKT3AtOVJoTnNidWhEbDlVZUlHSzVoeFBNRE5PcHllQXY5NGxFVmJpVHZMZVpYZWZHWE15bGY5S3hid9IBuAFBVV95cUxNV0V4WWFmdC1Gbnc4TWRGTUNadHpSWVZVVXFCZ3ZmSnRfVEV0VEl6dndNTFNReFlmTktKc1BONkNWdWY1SnJSVklwWlRSbEo3b3RYU01NVWxFNWp3c05XVHhtNXBRbnZzd2xySTFHYUlRTTlkM0JmNEpQY25VTjdTUmQ5TmFlbTRGaDBRdE1XN2RQa2x6RXhxWjB3d1FIV3ljWlRJeVpXVW5pUFh2OHhBM3RNUG9IM0o1?oc=5",
-   "date": "Sat, 21 Nov 2026 08:32:16 GMT",
-   "vu_le": "2026-11-21T08:40:36.357572+00:00"
   }
  ],
  "erreurs": []
