@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54849 EUR, jour 2.19 %, mois -26.69 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54917.29 EUR, jour 2.32 %, mois -26.6 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - G-Resources Group Limited (HKEX:1051, secteur Finance) jour -2.05 %, mois -7.97 %, prix 5.485 HKD, capi 2472715327, PER 9.4, volume x16.68 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
 - Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
+- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 5047665185, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 665841152, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3641703802, PER None, volume x1.08 la normale
@@ -317,6 +317,14 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 - CNBC
+- [Bourse de Paris et Europe] Bourse : après l'effondrement, le pire est ailleurs - Le Revenu
+- [Chine et Asie] Technology at Work, Heritage for All: The "Chinese Approach" to Safeguarding the Leshan Giant Buddha - The Detroit News
+- [Intelligence artificielle] Bessent says no further restrictions are needed for Nvidia chip exports to China - PBS
+- [Pays émergents] 5 Midcap Stocks with Robust Revenue Growth in Q2FY27 - Equitymaster
+- [Défense, énergie, matières premières] Top Defense Stocks To Watch Now - November 21st - MarketBeat
+- [Crypto] 21Shares Forecasts Bitcoin to Hit New Highs in 2027 Predictions List - Benzinga
+- [Crypto] Crypto News: Pepeto Announces a Security Upgrade While the XRP Price Set To Rise Despite the Anthropic IPO Pulling Money Out of Crypto - markets.businessinsider.com
 - [Bourse de Paris et Europe] CAC40 : une baisse de 5,3 % sur la semaine, sous les 8.000 points - Le Revenu
 - [Bourse de Paris et Europe] TELEPERFORMANCE Cours Action TEP, Cotation Bourse Euronext Paris - Boursorama
 - [Bourse de Paris et Europe] SEB Cours Action SK, Cotation Bourse Euronext Paris - Boursorama
@@ -450,11 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Crypto Outlook: Is a More Restrictive Fed Reducing Market Demand Appetite? - FOREX.com
 - [Marchés mondiaux] Stock Market Sell-Off: History Says This Is the Smartest Move Investors Can Make Right Now - Yahoo Finance
 - [Marchés mondiaux] A 10% drop for the stock market is unnerving, but it’s not that unusual - WTOP News
-- [Intelligence artificielle] You Know These AI Chips That Are Making Billions of Dollars? The Workers Building Them Say They're Being Paid Peanuts, and Now They're Realizing They Have Leverage - Futurism
-- [Crypto] Anthropic and Bitcoin Are Both Falling: Where Is the Money Going? - Yahoo Finance
-- [Chine et Asie] China's A-Share Style Shift: High-Flying Concept Stocks Hit Limit-Down in Batches as Semiconductor Equipment and Manufacturing Buck the Trend - BigGo Finance
-- [Marchés mondiaux] Stock Market Sell-Off: History Says This Is the Smartest Move Investors Can Make Right Now - The Motley Fool
-- [Marchés mondiaux] Wall Street Asks What Can Save AI Trade After Anthropic Wipeout - Bloomberg.com
-- [Banques centrales et taux] Nagel (Bundesbank) défend que la BCE relève les taux jusqu’à un niveau restrictif pour l’économie - Demócrata
-- [Rachats et fusions] BILL Holdings to Be Acquired by TPG and Corpay at $63.25 Per Share in Cash Merger - Kalkine Media
-- [Résultats d'entreprises] PWR Q1 Deep Dive: Strong Data Center and Utility Demand D
+- [Intelligence artificielle] You Know These AI Chips That Are Making Billions of Dollars? The Workers Building Them Say They're Being Paid Pe
