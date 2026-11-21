@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53695.62 EUR, jour 0.04 %, mois -28.23 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53772.66 EUR, jour 0.18 %, mois -28.13 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -22,7 +22,7 @@ POSITIONS ET INDICES :
 - Evolent Health Inc Class A (NYSE:EVH, secteur Commercial Services) jour 13.7 %, mois -20.41 %, prix 3.9 USD, capi 441111514.8104957, PER None, volume x2.2 la normale
 - Gap, Inc. (NYSE:GAP, secteur Retail Trade) jour 11.44 %, mois -10.21 %, prix 20.94 USD, capi 7355596484.643961, PER 5.8, volume x3.39 la normale
 - Tungsten Mining NL (OTC:TGNMF, secteur Non-Energy Minerals) jour 10.64 %, mois -10.34 %, prix 0.13 USD, capi 202311226.74285716, PER None, volume x1.9 la normale
-- Pasqal Holding SA (NASDAQ:PSQL, secteur Electronic Technology) jour 10.0 %, mois -44.07 %, prix 3.3 USD, capi 700569163.8, PER None, volume x4.19 la normale
+- Pasqal Holding SA (NASDAQ:PSQL, secteur Electronic Technology) jour 10.0 %, mois -44.07 %, prix 3.3 USD, capi 700569163.8, PER None, volume x4.2 la normale
 - Global Payments Inc. (NYSE:GPN, secteur Finance) jour 9.95 %, mois 7.87 %, prix 91.83 USD, capi 24301504833.411278, PER 109.2, volume x2.75 la normale
 - Syntec Optics Holdings, Inc. Class A (NASDAQ:OPTX, secteur Electronic Technology) jour 9.77 %, mois -12.03 %, prix 6.29 USD, capi 253360449.15183246, PER None, volume x0.85 la normale
 - Sompo Holdings,Inc. Unsponsored ADR (OTC:SMPNY, secteur Finance) jour 8.84 %, mois -1.32 %, prix 21.67 USD, capi 39577466411.61992, PER 12.3, volume x0.51 la normale
@@ -37,7 +37,7 @@ POSITIONS ET INDICES :
 - Keel Infrastructure Corp. (NASDAQ:KEEL, secteur Technology Services) jour -19.59 %, mois -44.11 %, prix 1.375 USD, capi 849590312.6461987, PER None, volume x1.31 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109642.747604, PER 5.1, volume x99.36 la normale
 - Sinda Limited (NYSE:SIND, secteur Non-Energy Minerals) jour -18.69 %, mois -16.99 %, prix 9.09 USD, capi 1443409261.4865832, PER None, volume x7.17 la normale
-- Northern Dynasty Minerals Ltd. (AMEX:NAK, secteur Non-Energy Minerals) jour -18.64 %, mois -51.72 %, prix 0.4152 USD, capi 233526590.1139726, PER None, volume x1.93 la normale
+- Northern Dynasty Minerals Ltd. (AMEX:NAK, secteur Non-Energy Minerals) jour -18.64 %, mois -51.72 %, prix 0.4152 USD, capi 233526590.1139726, PER None, volume x1.95 la normale
 - MARA Holdings, Inc. (NASDAQ:MARA, secteur Technology Services) jour -18.57 %, mois -35.1 %, prix 5.085 USD, capi 1969961521.2009609, PER None, volume x1.12 la normale
 
 ÉCRAN États-Unis : volumes anormaux :
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 583275623.56029, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3323658863800, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3237568961859.6416, PER 13.8, volume x1.76 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3233820362273.5347, PER 13.8, volume x1.7 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272911458.269, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,11 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Stock market selloff pushes mortgage rates down - RealEstateNews.com
+- [Chine et Asie] Hua Hong Grace Semiconductor Limited (1347.HK) Stock Price, News, Quote & History - Yahoo! Finance Canada
+- [Chine et Asie] Chinese tech firms fear AI hits from US curbs after Nvidia fallout - WHEC.com
+- [Crypto] BTC price on Nov 20, 2026 at 8pm EST Crypto Prediction Market - Robinhood
+- [Crypto] XRP price at Nov 20, 2026 at 8pm EST Crypto Prediction Market - Robinhood
 - [Résultats d'entreprises] Gap Stock Rips 17.6% to $22.10 on Q3 Beat and Old Navy Turnaround; $25.50 Upside Target in Play - TradingNEWS
 - [Anthropic] Anthropic IPO launch: How tech stocks are performing Friday - Mashable
 - [Rachats et fusions] The RXO deal must close before C.H. Robinson (CHRW) can tap its new loan, and it can draw only once. - Stock Titan
@@ -453,8 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] Is BP (BP) Stock Undervalued Right Now? - Yahoo Finance
 - [Crypto] Ripple’s CEO Says Investors Sold XRP and Bitcoin to Buy Anthropic Shares - Yahoo Finance
 - [Anthropic] Anthropic IPO haul rises to $93.5B after underwriters exercise greenshoe - Virginia Business
-- [Anthropic] Anthropic post-IPO hype is here. One strategist's advice: 'Stick to your fundamentals.' - Yahoo Finance
-- [Anthropic (FR)] « L’entrée en Bourse d’Anthropic est probablement davantage dictée par la peur que par la foi en l’avenir de l’IA » - Le Monde.fr
-- [Marchés mondiaux] Yahoo Finance - Stock Market Live, Quotes, Business & Finance News - Yahoo Finance
-- [Banques centrales et taux] La Fed ouverte à des hausses de taux consécutives à un rythme mesuré - Investing.com France
-- [Banques centrales et taux] La BCE moins accommodante que la FED ! - Club Patrimoine
+- [Anthropic] Anthropic post-IPO hype is here. One strategist's advice: 'Stick to your fundamentals.'
