@@ -13,12 +13,12 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53840.89 EUR, jour 0.31 %, mois -28.04 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53943.23 EUR, jour 0.5 %, mois -27.9 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - Energy World Corporation Ltd (OTC:EWCLF, secteur Utilities) jour 142.33 %, mois -16.72 %, prix 0.0727 USD, capi 280141418.56315786, PER None, volume x12.24 la normale
-- LiveWire Group, Inc. (NYSE:LVWR, secteur Consumer Durables) jour 51.63 %, mois -38.12 %, prix 0.99 USD, capi 203359507.3058661, PER None, volume x5.75 la normale
+- LiveWire Group, Inc. (NYSE:LVWR, secteur Consumer Durables) jour 51.63 %, mois -38.12 %, prix 0.99 USD, capi 203359507.3058661, PER None, volume x5.76 la normale
 - Evolent Health Inc Class A (NYSE:EVH, secteur Commercial Services) jour 13.7 %, mois -20.41 %, prix 3.9 USD, capi 441111514.8104957, PER None, volume x2.2 la normale
 - Gap, Inc. (NYSE:GAP, secteur Retail Trade) jour 11.44 %, mois -10.21 %, prix 20.94 USD, capi 7355596484.643961, PER 5.8, volume x3.39 la normale
 - Tungsten Mining NL (OTC:TGNMF, secteur Non-Energy Minerals) jour 10.64 %, mois -10.34 %, prix 0.13 USD, capi 202311226.74285716, PER None, volume x1.9 la normale
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - KWG Living Group Holdings Limited (HKEX:3913, secteur Finance) jour 0 %, mois -4.2 %, prix 0.114 HKD, capi 230947913, PER None, volume x16.81 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 4929084342, PER None, volume x1.05 la normale
 - Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 2941617737, PER 2857.1, volume x5.28 la normale
+- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 4929084342, PER None, volume x1.05 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 4206552544.9999995, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 582864017, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3253783353, PER None, volume x1.08 la normale
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 583275623.56029, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3323658863800, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3323658863800, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3237568961859.6416, PER 13.8, volume x1.77 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3233820362273.5347, PER 13.8, volume x1.71 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272911458.269, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,11 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] S&P 500 correction: Five forces behind the market sell-off - CNBC
+- [Bourse de Paris et Europe] Cac 40 : Balayé par les craintes sur l'IA, le CAC 40 perd 5,3% sur la semaine, sa pire performance depuis début mars - BFM Bourse
+- [Intelligence artificielle] Officials approved the sale of 580,000 Nvidia chips to Chinese companies - The Washington Post
+- [Introductions en bourse] Singapore-Based DayOne Is Said to Pause US IPO Plans on Data Center, Market Concerns - Bloomberg.com
+- [Pays émergents] Daily Voice: FII buying is no big shift towards India, but worst of foreign selling is over, says Spark... - Moneycontrol.com
 - [Petites valeurs en croissance] 3 Undervalued Stocks Louis Navellier Likes After the Market Selloff - TradingView
 - [Pays émergents] Pernod Ricard (ENXTPA:RI) Stock May Look Reasonable Following Scotch Duty Uncertainty - Yahoo Finance
 - [Crypto] BTC price on Nov 20, 2026 at 9pm EST Crypto Prediction Market - Robinhood
@@ -455,9 +460,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] Le S&P 500 et le Dow Jones s'orientent vers une correction, le recul d'Anthropic pesant sur les valeurs liées - Boursorama
 - [Marchés mondiaux] Wall Street Slides on Mounting AI Selloff, S&P 500, Dow Set to Confirm Corrections - GV Wire
 - [Banques centrales et taux] BCE : vers un doublement des réserves obligatoires des banques - Crédit News
-- [Chine et Asie] Hong Kong Stocks Hit 19-Month Low as Anthropic IPO Fails to Dispel AI Jitters - BigGo Finance
-- [Pays émergents] Ethereum, Silver & Taiwan Wiped 5–10%; India & Bonds Find Refuge as Nine New 52-Week Lows Hit on the Same Session - The Globe and Mail
-- [Défense, énergie, matières premières] Hot Picks: Three U.S. aerospace and defence stocks to watch - BNN Bloomberg
-- [Crypto] Bitcoin Fell More Than 20% in November. History Says This Happens Next. - Yahoo Finance
-- [Anthropic] The Anthropic IPO: What it means for the AI trade, and the health of the IPO market - CNBC
-- [Marchés mondiaux] 7 reasons why tech stocks are getting hammered again -
+- [Chine et Asie] 
