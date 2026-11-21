@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T10:50:35.078565+00:00",
+ "mis_a_jour": "2026-11-21T11:00:34.955738+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52921.16,
+   "prix": 52872.6,
    "devise": "EUR",
-   "jour_pct": -1.4,
-   "mois_pct": -29.27,
-   "volume": 222.48651771,
-   "volume_relatif": 1.07,
+   "jour_pct": -1.49,
+   "mois_pct": -29.33,
+   "volume": 238.53421763,
+   "volume_relatif": 1.14,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "eBay sellers are chasing Anthropic IPO hype by hawking $1,800 hoodies and $100 tote bags - Business Insider",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUJlOVBVcWZXbWczUXJoV1NqODNGSUI4T0xmQ0s4dEhQenlPVjl6MnhmSWFBWTdULXVUeDNlY0pMUVNnWGp6aTFDVkNvSnM5YjcxQUlfWGhjQTByeW9iS0F6TFlya3BkTDA4V1gwZUNLSzF4M09RV0R4OXhRd2UyZHhMQ054Ym1UOHdqMzFmOGNKTk5vckN1RmF6R2l2MGJ5c3Rn?oc=5",
+   "date": "Sat, 21 Nov 2026 10:15:00 GMT",
+   "vu_le": "2026-11-21T11:00:34.955738+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Nvidia : L'équivalent du PIB français envolé… Sur fond de scandale chez Nvidia et de craintes réglementaires, les géants de l'IA ont effacé plus de 3.500 milliards de dollars en six semaines à Wall Street - BFM Bourse",
@@ -6544,13 +6551,6 @@
    "titre": "Why Anthropic Stock Is Falling Today - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPblZvdExzbkhTSmNjVFFfcWkwR3c1VThwLXpxMUZ0bldjMmR6Mm9TM1AyN0NrZ0FscE4wN3AwYTZ5TzhldGJKbWhRU1RXX2N2QXByeUhUTW1FLVEyZFhOY1pvb3JsLTRXa2NOMWRibG1Rc0dUOVQ5V04yODM0X184UzBNUTB5UGFZQ0pqX0tBSHd0T2JxZG1HdC1VTFl5UlE?oc=5",
    "date": "Fri, 20 Nov 2026 16:42:01 GMT",
-   "vu_le": "2026-11-20T18:00:39.531722+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "La décision de la banque chargée de l'introduction en Bourse d'Anthropic de clôturer sa position visait à stab - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNLTJRM2dTekRoNHBJVWVhSW9OQ0otQnpIMDgzNU1GYUZ2SFZwQXRTTDBZc214X3MyY1F3RG1faS0zNGNUNDlNb0JPYzMwWnZVSkZzY3p0MmVBRUxkaFJnbEhsVXlXYzVKSk5LNWhUUHdTUVlZZ0VZMmo5WTQ2YlZuQ1FkX2NNbVI2UEVHSXpqd2JteHVOSGgyUTNaVk5qWko2X0pmazlrcFhJbVNjV3lQczNQZFg0OEpaOFVNN1BvY1BtNUZmUm04TEZIS2U2QzkyMnFEQXhpa2hCa1NqcXFlS1ZqZWUyZDd0eHAwUE4zOEdMd2ZqbV9QSm9lUnIzbng1cFhuLWxDTWY1RmtTd3U1Wkl5NWpHVFhXU04zWHVDNGxFR2dnM1R5VXNNSXR4VnJLV1RqUjBEeEVIaHF6b0h3SlBMcXFEY2FRX0x1bUZNYmpyTlJiaGlyVGNxRHNsaHVScnVIQjRnSUswTmVkLWFyazZNQWrSAfQCQVVfeXFMTS0yUTNnU3pEaDRwSVVlYUlvTkNKLUJ6SDA4MzVNRmFGdkhWcEF0U0wwWXNteF9zMmNRd0RtX2ktMzRjVDQ5TW9CT2MzMFp2VUpGc2N6dDJlQUVMZGhSZ2xIbFV5V2M1SkpOSzVoVFB3U1FZWWdFWTJqOVk0NmJWbkNRZF9jTW1SNlBFR0l6andibXh1TkhoMlEzWlZOalpKNl9KZms5a3BYSW1TY1d5UHMzUGRYNDhKWjhVTTdQb2NQbTVGZlJtOExGSEtlNkM5MjJxREF4aWtoQmtTanFxZUtWamVlMmQ3dHhwMFBOMzhHTHdmam1fUEpvZVJyM254NXBYbi1sQ01mNUZrU3d1NVpJeTVqR1RYV1NOM1h1QzRsRUdnZzNUeVVzTUl0eFZyS1dUalIwRHhFSGhxem9Id0pQTHFxRGNhUV9MdW1GTWJqck5SYmhpclRjcURzbGh1UnJ1SEI0Z0lLME5lZC1hcms2TUFq?oc=5",
-   "date": "Fri, 20 Nov 2026 17:08:05 GMT",
    "vu_le": "2026-11-20T18:00:39.531722+00:00"
   }
  ],
