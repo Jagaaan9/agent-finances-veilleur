@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T20:40:37.653739+00:00",
+ "mis_a_jour": "2026-11-21T20:50:35.554746+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55119.06,
+   "prix": 55029.27,
    "devise": "EUR",
-   "jour_pct": 2.69,
-   "mois_pct": -26.33,
-   "volume": 399.43394837,
+   "jour_pct": 2.53,
+   "mois_pct": -26.45,
+   "volume": 400.78633211,
    "volume_relatif": 1.92,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "The S&P 500 Is Now Below Every Wall Street Year-End Target for 2026 - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbmx6VFBvcllRSmkwN1dKeFB1LUlrRkNicDNvTHplVTFZTWtyMGZTWnhURlZuZVFkekM0Y2dQVDlIU2luT3BLTWFHUlhCRC0xekIxai1iVTU4aTFPbUgxMWVLYzMtd1JqUmlyemxVajFjMlVTSlBfYWtwVUZHNjQ3WGIzSnNoRFFlT2JTTjlqY3lPak5qUnJnWEZWb3ZULUFSTTdnbDdOc29PdjgtcVpF?oc=5",
+   "date": "Sat, 21 Nov 2026 20:42:00 GMT",
+   "vu_le": "2026-11-21T20:50:35.554746+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "États-Unis : piratages informatiques du ministère de l'Agriculture et du FBI, selon des médias - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSVhnSXU0OF91cjJBYWQ4YUVUS3N5cXBWaUlIZUlyVGRIeld1Y2NFNVlwRl9yb1NmcmNQWW1kS3dfUjB0MEM3cGVnODhnbm5CSG1abkhoMDVLbUpVRjJTd3FCSlY1Qk5kRXB2QXhGNU5LU0poYjNCSjNiekhIRXBtMWZmUHpINENydkZXb3hMdzJTXzN5NTRscFVZSXlNZ3kzLTBNLWZDRlNOZVlpMXdsYUdETjhnRVJCLWhGQmp3ekRqa05Tb2Y4Ny03YmNXN0wxYmNjek1WNGJpczNtWVdYdl9wY2FsTWtuNExoRm9GX3FlMTFZZWxjQmtyNFJ2UXRsWE1uTmRDYklySm4tRG12Vml4QXpVMEtWZnYwbFRMb08tV1AyVXc?oc=5",
+   "date": "Sat, 21 Nov 2026 17:53:00 GMT",
+   "vu_le": "2026-11-21T20:50:35.554746+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Babylon prévoit de suspendre le staking Bitcoin : l'inflation du BABY est réduite de plus de 60 %, transition vers le p… - 深潮TechFlow",
+   "lien": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wbGJRalpDeldUNjJDX2F2T1M0YVlWb0JsU21sVloxYW80UEo5WXY4NEY3STJmdnQyemctNlhsZmQ2cmhOcHY3bGVZT043YzVQaGtra1g3bjZJbmVI?oc=5",
+   "date": "Sat, 21 Nov 2026 08:22:13 GMT",
+   "vu_le": "2026-11-21T20:50:35.554746+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "L’euro progresse légèrement grâce au repli du dollar américain, mais reste en passe de signer une troisième semaine de baisse - www.tmgm.com",
+   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbnd0Y3FuSkFZT3NEd0MxVUdNRUJqM3I5SEZJcllfQldKdkpVVzRRWlhDdG5ZM1dKaFB1OUYzR2Uxd3ZzVURBSk9hbmpsV0t2RnVobFkycm5lYXo0eWlsYzBDemtHNTB3NVd6M2NSeUg1VDRvX2pLTmhubjJ6UUZ3MDdVeDBWOE1yZW9rNzA0RVFyVWMyRE5aREllZ1A3ZWRRYURfWlUwMzR1ZGJ6eHVidHZwb1pOOVJhR0ptTGQycXJyZlp3Q2JQNWM0TXFxeDQ?oc=5",
+   "date": "Fri, 20 Nov 2026 21:21:42 GMT",
+   "vu_le": "2026-11-21T20:50:35.554746+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Regulatory Approvals France M&A: 2026 Guide - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzloV19MVElxdlZ6RnROanIyNGYyWmFBX204cDJrenFlZ1JKMEllRm12amxSQWRGVnNlRW1PdHZ3NG1BUlhUQzJtejc3ZnZWOWQ4b2k4LWtZMjByZVZYaXUzbVVIR200Z0dwR2kzbTZyRWJ1WFgyLS1INTlfcndqNWhVMTRyaTNL?oc=5",
+   "date": "Sat, 21 Nov 2026 13:11:37 GMT",
+   "vu_le": "2026-11-21T20:50:35.554746+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "$1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years? - Yahoo Finance",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObE9Zd25PckpQanREbUNFWjU5S082TmRiM0hZMV9vajkycG53Zl9sdmZSTmtWUHdYNWpJck12MFpFR3U5NU1qR3l3M0ZzdnhRcjNNNmdSdG84YjFwbHJQZTA3U19hSE9xbUczZmUtTkNDTTRIMjhvRlFtV3pkS3ZTNWpmUldycTVPbl9FYTQwQlZ6Q0laUGR0YVZ4dV8?oc=5",
    "date": "Fri, 20 Nov 2026 08:02:08 GMT",
    "vu_le": "2026-11-21T08:00:36.304833+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Nigeria leads African bourses with 72% dollar gain as eight markets beat Wall Street - bne IntelliNews",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV0ZZMGh6U3ZnRDNTM1pOVTJ2dy1IQnpYTDd1dUFZOGgzbFNuRVMxNm1XX3N2QnRMYThMUFExemw4Z0lfYWE1WVprTnY2RFNUQUtDaGluTEpwOWpBZVVMTkFOOUM4QXhGdHZ0ei1RNUcxYnBiV2lyS2thRVdxQjExeFpXcXpINTJweDhSS1pycmNaTmp4aExwdlF2RWg5YmExQnU4ek5JMDNWcEw4N2VNT3hZczkzTUVQQ0tF?oc=5",
-   "date": "Fri, 20 Nov 2026 11:09:27 GMT",
-   "vu_le": "2026-11-21T08:00:36.304833+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Nasdaq 100 has worst week since 2020 on AI drama - Moneycontrol.com",
-   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUmNXbmxoZHRiNW9ab0F6RGFfaHNOUVlnazk4MjZONW85dzhNT3M4LWNLeG85RjRzVk4wbmRqNUEzLTI2aWUyUXdRRmg2dnVFNmJZeG9sWmZBVnU3REJxQXJRYnBGcmp0MWpFbmp6Z3BuaWVXcngzQkhESExjQ01ldEd1Q1haNTJQelltVkJEUHR3Y3dHaUk4UTFDT3d3VjUtVnU5QzI4YzhITDM3WnZ6SWVBQXhnaW9a0gG4AUFVX3lxTE1SY1dubGhkdGI1b1pvQXpEYV9oc05RWWdrOTgyNk41bzl3OE1PczgtY0t4bzlGNHNWTjBuZGo1QTMtMjZpZTJRd1FGaDZ2dUU2Yll4b2xaZkFWdTdEQnFBclFicEZyanQxakVuanpncG5pZVdyeDNCSERITGNDTWV0R3VDWFo1MlB6WW1WQkRQdHdjd0dpSThRMUNPd3dWNS1WdTlDMjhjOEhMMzdadnpJZUFBeGdpb1o?oc=5",
-   "date": "Sat, 21 Nov 2026 01:40:18 GMT",
-   "vu_le": "2026-11-21T08:00:36.304833+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Anthropic shares slide 10% after blockbuster stock market debut - India Today",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZzAtR0trZkFZakI0MkFVT21lbDRhTEc3R1gxUGhxT2sxd3ZiRmVkZ3BMMU55RER6WExPbThueWdOaGI1RWZzOGFyVUpXclJVWVF5bEFDWE1KQkZpNXdBWGJsUDhrZE8wOWthRWlpQThra3BmaGw4clpONTRfb3VzZ2RRa3VkdDJ3cHN3bjU2NERDU25pQzBnUlhGVlVpdGVybXhzZ3VCb3p5R1Z2bWJSXy0yYTVJZzFDT3ZWaDZja9IBxAFBVV95cUxPdU9RNGJDQzB4ZXloNnR3T3NRQ01CaGVPa0lEMU1sSjlMQkp1QzZyMThEcnh4ek5nSVFtbkppdEM5X3BuanVXSW1FTTNfbVN6S29NQnpUd3NtMTM0UzBZZUhSZHBMY1VGc3pfSWtNeVFsaWtrQjRKOUFOeXE4NFAtSzlVcEVPU1RZRDBScDJDbTVXeERiczhDbFU4SkxsMmFFdnc1VkE5XzM2eW5uVmdodnd1b3M3d2F6QXFiRFFDSmV6cjZ1?oc=5",
-   "date": "Fri, 20 Nov 2026 14:06:28 GMT",
-   "vu_le": "2026-11-21T08:00:36.304833+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Zcash, NEAR Lead Crypto Losses As Anthropic's Market Debut Fails To Spark Risk-On Rally - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbGlfMWFXbWEtaHZsWFJHcUxOQzVJb01xZU9fTjFPdlF5V3RnLVN5Y3RIRlJlZEJBMGR0MEg0cmtwUU5ZSFNXR2Jpb0NESTBfa1lQSU4tMGNZbm5fYXdhMGhNRDk0alBhcTJ6eUx6Q1N5d2FzaE9KZ2cyakprN0JJN1JsLW9EdFlpLVJKN3p6N0VMVG94ZlA4WXRn?oc=5",
-   "date": "Sat, 21 Nov 2026 07:38:00 GMT",
-   "vu_le": "2026-11-21T08:00:36.304833+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Booz Allen Hamilton Holding (BAH) Could Be 8% Undervalued As AI Growth Story Builds - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzdKaEVneTJneDVCbDhBUG1NRmRTNE1scHhWVTA3OUFteVVmSXZacEVaVnpIdHdvSnJPUThvb1VnalhVWkh2dUZySUsyRmZXUDBaNDRrcFB2UHFMcnJONURNLUxteFQyeHRvY3pBQmtiNEowbkNjWGVmQlUyTVJncWc3Q0Vhck10M211NExUNGxLMWpWckxEdDJ5NTM?oc=5",
-   "date": "Sat, 21 Nov 2026 07:11:00 GMT",
-   "vu_le": "2026-11-21T07:50:35.584558+00:00"
   }
  ],
  "erreurs": []
