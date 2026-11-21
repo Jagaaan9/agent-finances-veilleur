@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T10:30:35.259124+00:00",
+ "mis_a_jour": "2026-11-21T10:40:36.418708+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53033.83,
+   "prix": 52840.1,
    "devise": "EUR",
-   "jour_pct": -1.19,
-   "mois_pct": -29.12,
-   "volume": 218.3170542,
-   "volume_relatif": 1.05,
+   "jour_pct": -1.55,
+   "mois_pct": -29.38,
+   "volume": 221.14368777,
+   "volume_relatif": 1.06,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Dan Ives Says Anthropic IPO Sees 'Very Strong Appetite,' Calls It A 'Big Win' for Tech Sector After 'White-Knuckle' Nvidia Period - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONDd6eXZEelJZTjdyZDMwWFotaEZya1pSVF9jUWptNU5NOXF4bWtaVTJlZTdpb0lRblRadG93d295UU9GZ1lGN2JqZlN2c25fRXl6UzVNeHNSRXVEUVNzRGVIU05oV1ZqZ1dLNEMzQlFEeXFoLURVeElDc28tSFRqLW9OcUtaV05qU1Q0eVp3bmFSdWpFR3c?oc=5",
+   "date": "Sat, 21 Nov 2026 03:30:00 GMT",
+   "vu_le": "2026-11-21T10:40:36.418708+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Analysis | Entitled and out of touch, AI CEOs are heading for a fall - The Washington Post",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVE04c2JFeVQtdll3WmNoaW1ES3dYTzI2eFBXNEs1V2tjOE1pVlE1Tk1vRWl2WnkwY2dVYmxDbzJNaXVRWWs1OTZsRGJ5RGYxNktjZW43UThxUnNsOG5pamR2RjdVaUo3ajMwZDlYbWFXcnZjUzJ6VXJSekhmSnh0RWJqXzhfVXFyVC1kSVhMc0RBVlp3OUJXWS1CWW9OOGttSnRoSkxoWG5uemRi?oc=5",
+   "date": "Sat, 21 Nov 2026 10:19:20 GMT",
+   "vu_le": "2026-11-21T10:40:36.418708+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Trump's Accounts Turned Defensive (NYSEARCA:VIG) - Seeking Alpha",
+   "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Sd1c4bUZ4bU01R2NaSkVUcmJFOEgyLUFKOEF0MjNBcWpEWXJRcjVRRDdOekFNZkVUdGJCdDA1N0taUHo3TUhlRmJXMWZfOG5ZYmV4REpFU3kwTWJBLUlmZEx3YURYUkNjVzhKMy11ZWtQY21HQ1R5M3RuZ2o?oc=5",
+   "date": "Fri, 20 Nov 2026 16:47:08 GMT",
+   "vu_le": "2026-11-21T10:40:36.418708+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Maximus (MMS) Stock May Be Undervalued On Agile Defense Deal - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdy1Ca0xPUXlBV3ZINUVhWldyRzJYcV9KWGZrZHBKZ29mMjF2Umtick9rTmtiY1hfdk1JMmI4X2hWR1JUUGs4WFllcXNPNjR1cUFyUFlEZUdNRVlpV0lDNFFhYzV6REVubHA0Q0lPQ1lveWFFUjBKcVBXWHhJR2hHZ3V1azlyQmRFeWd6U0VzLVpmNFJ3LUxSTmNwTGtEZ2s?oc=5",
+   "date": "Fri, 20 Nov 2026 18:09:31 GMT",
+   "vu_le": "2026-11-21T10:40:36.418708+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Red Cat Holdings, Inc. (RCAT) stock price, news, quote and history - Yahoo Finance Australia",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OQ3VDWjVnZ0QwYndNcTJEYWNtV1MtMlE2LXpEa0FKUFdZZXcxZS1FdzQ2Y3hqUlQ5b2NWOERzM0lHbWdTSXFHZVpVWWZ4WEcydkE?oc=5",
+   "date": "Fri, 20 Nov 2026 14:07:53 GMT",
+   "vu_le": "2026-11-21T10:40:36.418708+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Leonardo DRS wins a BAE Systems contract for a new THAAD seeker sensor and expands its Dallas foundry - MLQ.ai",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZjAzeThkWk1SNGNBR3ZZenFOOUN6d3k1Z09GdXJzRi1oV2NxdzlkbWxSNGxqd2dGeUlteUZONzZEdDVKdk9WTlFleDJ3dFFnQ2VWejNZZGlrX0NmRVZLTlAzVFpyY2RtZ3JGZE9Wc2k4RG9qamVNSENXeVNURmFKWnIxZFdRQ3RPaFlKS0ZpVHowLU5RLVR3Sm5vMWUxSUNmdG93aFpSYmJVNXRoTGNoWTVpUnE5cldKeEZwbi1EZw?oc=5",
+   "date": "Fri, 20 Nov 2026 16:43:44 GMT",
+   "vu_le": "2026-11-21T10:40:36.418708+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Anthropic porte sa levée en Bourse à 93,5 milliards de dollars - Brief IA",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOZUlCLUFucjIwZEloRUFuQl93MFMzNUFhT05SNE9FYnFmQWhydU5Mams4azF5OHpTQm5Pc0pwaHZDUU9WemZfMnRRMnY4aU5aSENXX3hucUs0NVdrT3pFQ1liamZpcEhhUDF5a2hyY0hFRUNfX2s4aE1uWmN5QjFzR2RlVl9mQ3ZfNG1jX2dKSnF2Ukh2aGZ3WjBwM29BLVp3S3YxVjItd2NyekVPYlp3alZ5R3c5d21xaGFNdzVDS1FFYUpHLWVNczVRXzd1dWNDcTByS0NqelJRWnpnT2VwbWhta3dSWnQ1bjdtUk9WdnZ5VS12eGJfOGdMdUFwRXhDZDl5T2lEb2V0S01Ya3VzZkxUSU8tcThJVkdFeUpuSnUwcUNKdXZSNkhWMmN3dXFKOGJ4eTNCc2JFQW5ZbFk2MnVUV3Y?oc=5",
    "date": "Fri, 20 Nov 2026 13:40:00 GMT",
    "vu_le": "2026-11-20T18:00:39.531722+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Kongsberg Gruppen ASA (KOG.OL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4b3dCZW14NXcyX0lJZWZ0UWs3RHlqUmRNcGt0aFE0d3pJUEY1TGJNUGM3U0YzdHJndU1UNTgycXQ4Y1p5ZnczbnBZQnFzTWFjeklBTw?oc=5",
-   "date": "Fri, 20 Nov 2026 10:10:39 GMT",
-   "vu_le": "2026-11-20T18:00:39.531722+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic stock slips after record IPO. Should you hold, sell, or buy more? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQ1ZiZkpfQVpiV0szMFJjUk1vN2hYdHVULWNFbkVQMDFBd1lnM3g0aUFUQjVUNlFXTnpxYV8tcDN6ZFZfQnVJclFpOVJqc25WSE9ZT2xJMUVwMklvWXF5dW9CNXZ0OWNWVkhoTmN6OGFqRFozbUs4WjllRVRtWWdOcjNOVG5Gc21PQnA0WHRHTl92MmxDcms1Q3RuRXhSSWFITnlBdG51eVQyS0MxOXY2T0FKdlB6di11TlNUNlUxMnl1VkZsS1VkS3ZVNVJ0RXoxaHZoQUdTbWlaSmQwa0Z4NQ?oc=5",
-   "date": "Fri, 20 Nov 2026 16:37:50 GMT",
-   "vu_le": "2026-11-20T17:50:36.646106+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Broadcom Stock Falls on Report Google is Cutting AI Chip Shipments - Barron's",
-   "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Cd2w3NzJtb0xha0ZJazRHS09nRUVPanNPN192RmRWOGVxdW52QThWZzVwbG9VVmNpT1F6MkZaQVdjV09aMU9razJCVUpfckppUllpQWZCN3hIeHh6VkhhLWRWRC11QWRkSjhMaFlQQ1pyWVFCZ0VsQ2RiWmw?oc=5",
-   "date": "Fri, 20 Nov 2026 17:42:00 GMT",
-   "vu_le": "2026-11-20T17:50:36.646106+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Why Congress Should Tighten AI Chip Export Controls After Nvidia’s Scandal - The National Interest",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPblRYUlpIVHNBcE9MZkJUVlAtRG91S3lzTng0Y3JQdExvSGptTHBvbFEyZGN1eTNKMzU0a0pSWHp1a0VCQVlWbE5kR0xORDlVUlN0YmhMOW43bmJ1SUVDRk9UR2d0S2pPNmJGRnNyRHl2SWI2OTRaMmRvWThqb0kzWFA3ekVHTEk1Q3FGaExjUzh6Q0ppM3IzN3VBaGNyZGRtMnBZSml1Y3Y2OFRvLVFfN1UwSHd3YTg?oc=5",
-   "date": "Fri, 20 Nov 2026 16:43:06 GMT",
-   "vu_le": "2026-11-20T17:50:36.646106+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "SpaceX Just Raised $32 Billion for AI Chips. Lenders Want Elon Musk to Keep Them on Earth. - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXMyTHFaQ0I1OHJMOWxUeV9zU1Q2S09MN3YzMzE1Y0I5aHlSeXlrNW8yb3NGR0V0b1NQTkpYSGp6eXJSbzRaMzVaRW5KWllJYXdwYVlNUDJJdk1ncU03SGtCeEpYcjlIU0Z0STZxX3lqS1kzZTV2a2xiOTYtOUl6a3l5aWVVc1Nobnp3b0dqdmNURnBWaUN6aGp6LTlfTHpSSW5Gd3JqTnlGbzBJR3RLNUhKa3hIYlEtYkdwZEI3czBhWk43VTlQZHpR?oc=5",
-   "date": "Fri, 20 Nov 2026 17:28:02 GMT",
-   "vu_le": "2026-11-20T17:50:36.646106+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "SanDisk Stock Has Pulled Back. Here’s Where Shares Could Be Headed Next - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaGpFWlpmeWxFQVlQTkNHS3NHTFRRd0hDMGRxR1p5Y0NoV0NKTHFYbXFrcnUtMVY4a1FjcmFJSWk0NmRzdG51UWIzWFUzbzMxVHl5OEtnMXJTRjVmTnJhM042Nkw5ODU1V29GcEo0a0RSVHFLWWxRS2NRUGhfMUlQRmxOY19oZXhZY1dVXzlvMFJmdC1kbGdKMTV1ZG9MM2NxRjZYVlBPd1hDclZaQ2ExRk5DMA?oc=5",
-   "date": "Fri, 20 Nov 2026 17:39:00 GMT",
-   "vu_le": "2026-11-20T17:50:36.646106+00:00"
   }
  ],
  "erreurs": []
