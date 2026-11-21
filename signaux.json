@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T23:30:34.910099+00:00",
+ "mis_a_jour": "2026-11-21T23:40:36.495202+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54919.92,
+   "prix": 54906.89,
    "devise": "EUR",
-   "jour_pct": 2.32,
-   "mois_pct": -26.6,
-   "volume": 413.53247405,
+   "jour_pct": 2.3,
+   "mois_pct": -26.61,
+   "volume": 413.90118609,
    "volume_relatif": 1.98,
    "capitalisation": null,
    "per": null,
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "AI Selloff Has Opened New Ways To Play Semiconductor Short Exposure - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2REdlJpRXhsTWt3VlBXaUtvZnd3aGVIdXR3akhjRWhkYWFTcC1oY2xjcHBOQnZkOWFYekdvZW1QLXlaQkFtcmFlQ2VtcmN3Nzl2MWcxQzZHYzc1cllwU2o4cnhaZjVlMGtGdjgwbVN2clRyRmh5XzV3MHM4TXFYZ2lSZDRCYThsM2w3Tl8tUkVsMGgySGc?oc=5",
+   "date": "Sat, 21 Nov 2026 21:10:24 GMT",
+   "vu_le": "2026-11-21T23:40:36.495202+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Is It Too Late To Consider Buying SUNIC SYSTEM Co., Ltd. (KOSDAQ:171090)? - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdWlxaUxfblZvRDBSTHB5a3RZV0xuT1ljR2VzV0lSQlZpMXlvS19xYWEtSDVvVDBOOVg5QnlYbGRmTDFqTUxTMy1oREN0OE93VW5iNFl3VXpnbHZBS25GOW9CZUtOeTdSajhFV0JxYjZlLVdocVJLc0t4TFdHdFB5ODU5LXMzZmxjYWN4RGV4aFZ5Ykk3S2lMWFk3a244a0Y5a3pkOWs1bnBsYTV5enFVYzZxQ1JQTGVlWjBzeDBKekVOMTYzN3BETzlLNEQyWlRFMmhxbDQ4UlhPcjM5clYyVtIB5gFBVV95cUxQOTg2RC1zYTdkdlR3dWUwWTl1ZVZ4UnN2QW9vZGgzS3QtOE5PeEJBLVFpTnFpMkZtNmFHdjJQbnBPLXRaTkdnWl9icHBsWE9adjA1SmdWZXhSUV9MU1UyVW5IeTNWc1kzMGJMRlJpS0lWZ2kxQXJSZUx3N3RjbUhWTnlURlY1SUhjeWRXRTJKXzljd2V3blJFNUFfUnFNeUJ5bFJETjU5X1JWdG91LUxlNnUyOEFTUklQS1FLREFTSVBFajUwYzZOWjlYbURtZ3Z6MzRSSGhiTzhyWHVtQmd6R1N3WC0yUQ?oc=5",
+   "date": "Sat, 21 Nov 2026 23:28:11 GMT",
+   "vu_le": "2026-11-21T23:40:36.495202+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Anthropic ou le pari de plus en plus vertigineux de l’IA - Le Monde.fr",
@@ -6538,20 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BcDdYUnQ5a0hiSzZGUXI5bFhlQXR5bjhrazYtdkIxeUtnWFo0TXEzbDduZ25BUUNxdlJoWEdQRUJxVFB4NVBmWWE1bW9pcUlyT19sTnBCQkt2eVE?oc=5",
    "date": "Fri, 20 Nov 2026 22:26:05 GMT",
    "vu_le": "2026-11-21T11:50:39.427515+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "L'influence de la Fed s'est affaiblie et le dollar américain a stagné après une forte hausse de quatre semaines. - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbG5RQlc0OEkwLWhTc3NWM2l3N1dlX182Si1EaGYyT3E1a2cxMDR1U0ZKRTd2MGNLMElQaEY0cWxMS2VINFFtYnpJS3Qtb1EybDdfdmtBT2xhV0V6eU5sXzNtZUEyN3Nkc2x3dVFrMEVLd193aDQ1aXVoNERpZ203LVJ2VEZNZVF3VGRGVkhtNDdXSHlVY25VYQ?oc=5",
-   "date": "Sat, 21 Nov 2026 11:38:22 GMT",
-   "vu_le": "2026-11-21T11:40:34.953378+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOYWU0eXVPamUycFQzRGNubFBGaUxaeUI5QzdBaGdpczJTTldydzl5aTdDTEdRNVl4UEJBcnZ1TVpYVkNMS09EZERNeTdSSHRwaTRaY3FWUW5LTWEyYldTNzlXT1Q1OFpsSVZxVkR6ZmxnT3hEdnVxdnIzVjI5ajZOWDZDTTUxTThlOHFyYUtxeS1kcmV6b1N4c3ZhVEdVbTNaUVloYy1iWTZPOFE1aS1tdEY0OUlNNzllRTRVM2hzc19PVW9XYTJiMzhSUXp6a0EwelgzbnBZMGp1MGtDZHRYY2ZGalNiVkZ2dUxTd01yalNoVHluWFlHYURFMXphek5Sd0ZSRUM3Ml91UXNHLUdaaw?oc=5",
-   "date": "Sat, 21 Nov 2026 11:35:57 GMT",
-   "vu_le": "2026-11-21T11:40:34.953378+00:00"
   }
  ],
  "erreurs": []
