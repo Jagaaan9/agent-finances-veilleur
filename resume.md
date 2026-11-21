@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53167 EUR, jour -0.94 %, mois -28.94 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 52795.55 EUR, jour -1.64 %, mois -29.44 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,10 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Petites valeurs en croissance] Booz Allen Hamilton Holding (BAH) Could Be 8% Undervalued As AI Growth Story Builds - Yahoo Finance
+- [Pays émergents] India's AI-free appeal draws record foreign buying, earnings will decide if it lasts - BusinessLine
+- [Défense, énergie, matières premières] Australian Utility Stocks Offering Defensive Dividends as Recession Fears Rise - Yahoo Finance
+- [Défense, énergie, matières premières] PepsiCo Stock And Other Defensive Value Picks For Higher Rates - Yahoo Finance
 - [Pays émergents] What Does Diageo (LSE:DGE) Risk From India's Scotch Tariff Shock? - Simply Wall St
 - [Pays émergents] Indian markets may see reasonable upside over next 12 months; FPIs unwinding underweight positions: HSBC MF's Cheenu Gupta - Big News Network.com
 - [Anthropic (FR)] CAC 40, Air liquide, Anthropic, Société générale… les actions en Bourse au programme de Momentum - Capital.fr
@@ -455,9 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] Anthropic IPO: What It Means for Your 401(k) - 401k Specialist
 - [Anthropic (FR)] Wall Street termine en baisse, pénalisée par l'IA - Investir Les Echos
 - [Crypto] How exactly did Trump get so rich on crypto? We explain - Oregon Public Broadcasting - OPB
-- [Anthropic (FR)] L’IA fait de nouveau dérailler les Bourses mondiales - Le Devoir
-- [Chine et Asie] China Tightens Offshore IPO Rules for Red-Chip Firms, Threatening Hong Kong Listing Pipeline - Tekedia
-- [Intelligence artificielle] Data Center AI Chips Could Change the Winners: Broadcom and Marvell - 24/7 Wall St.
-- [Intelligence artificielle] 3 Edge AI Stocks To Watch As Apple Pushes More AI On Device - Yahoo Finance
-- [Résultats d'entreprises] How Investors Are Reacting To Nippn Stock Earnings Beat - Yahoo Finance
-- [Crypto] Fairmint plans tokenized sto
+- [Anthropic (FR)] L’IA fait de nouveau dérailler le
