@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T09:40:38.047895+00:00",
+ "mis_a_jour": "2026-11-21T09:50:36.481974+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -10,7 +10,7 @@
    "mois_pct": -20.26,
    "volume": 400459784,
    "volume_relatif": null,
-   "capitalisation": 1175358373313.5957,
+   "capitalisation": 1175358443874,
    "per": null,
    "bourse": "NASDAQ",
    "secteur": "Technology Services"
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52820.69,
+   "prix": 52873,
    "devise": "EUR",
-   "jour_pct": -1.59,
-   "mois_pct": -29.4,
-   "volume": 202.64908989,
-   "volume_relatif": 0.97,
+   "jour_pct": -1.49,
+   "mois_pct": -29.33,
+   "volume": 203.64798171,
+   "volume_relatif": 0.98,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -211,7 +211,7 @@
     "mois_pct": -16.72,
     "volume": 155000,
     "volume_relatif": 12.24,
-    "capitalisation": 280141418.56315786,
+    "capitalisation": 280141438.46,
     "per": null,
     "bourse": "OTC",
     "secteur": "Utilities"
@@ -225,7 +225,7 @@
     "mois_pct": -38.12,
     "volume": 42779389,
     "volume_relatif": 5.76,
-    "capitalisation": 203359507.3058661,
+    "capitalisation": 203359516,
     "per": null,
     "bourse": "NYSE",
     "secteur": "Consumer Durables"
@@ -239,7 +239,7 @@
     "mois_pct": -20.41,
     "volume": 4418845,
     "volume_relatif": 2.2,
-    "capitalisation": 441111514.8104957,
+    "capitalisation": 441111517,
     "per": null,
     "bourse": "NYSE",
     "secteur": "Commercial Services"
@@ -253,7 +253,7 @@
     "mois_pct": -10.21,
     "volume": 28020745,
     "volume_relatif": 3.39,
-    "capitalisation": 7355596484.643961,
+    "capitalisation": 7355596314,
     "per": 5.8,
     "bourse": "NYSE",
     "secteur": "Retail Trade"
@@ -267,7 +267,7 @@
     "mois_pct": -10.34,
     "volume": 163415,
     "volume_relatif": 1.9,
-    "capitalisation": 202311226.74285716,
+    "capitalisation": 202311232.88235295,
     "per": null,
     "bourse": "OTC",
     "secteur": "Non-Energy Minerals"
@@ -281,7 +281,7 @@
     "mois_pct": -44.07,
     "volume": 3054929,
     "volume_relatif": 4.2,
-    "capitalisation": 700569163.8,
+    "capitalisation": 700569153,
     "per": null,
     "bourse": "NASDAQ",
     "secteur": "Electronic Technology"
@@ -295,7 +295,7 @@
     "mois_pct": 7.87,
     "volume": 9549720,
     "volume_relatif": 2.75,
-    "capitalisation": 24301504833.411278,
+    "capitalisation": 24301506294,
     "per": 109.2,
     "bourse": "NYSE",
     "secteur": "Finance"
@@ -309,7 +309,7 @@
     "mois_pct": -12.03,
     "volume": 913555,
     "volume_relatif": 0.85,
-    "capitalisation": 253360449.15183246,
+    "capitalisation": 253360447,
     "per": null,
     "bourse": "NASDAQ",
     "secteur": "Electronic Technology"
@@ -323,7 +323,7 @@
     "mois_pct": -1.32,
     "volume": 133042,
     "volume_relatif": 0.51,
-    "capitalisation": 39577466411.61992,
+    "capitalisation": 40374095694.70342,
     "per": 12.3,
     "bourse": "OTC",
     "secteur": "Finance"
@@ -337,7 +337,7 @@
     "mois_pct": -18.86,
     "volume": 858500,
     "volume_relatif": 3.32,
-    "capitalisation": 213190737.42857146,
+    "capitalisation": 213190749.09090906,
     "per": null,
     "bourse": "OTC",
     "secteur": "Energy Minerals"
@@ -367,7 +367,7 @@
     "mois_pct": -39.25,
     "volume": 11297671,
     "volume_relatif": 4.73,
-    "capitalisation": 408738466.52618456,
+    "capitalisation": 408738442,
     "per": null,
     "bourse": "NASDAQ",
     "secteur": "Electronic Technology"
@@ -381,7 +381,7 @@
     "mois_pct": -36.24,
     "volume": 882168,
     "volume_relatif": 21.94,
-    "capitalisation": 635500653.10923,
+    "capitalisation": 487791328.19362,
     "per": null,
     "bourse": "OTC",
     "secteur": "Technology Services"
@@ -395,7 +395,7 @@
     "mois_pct": -41.01,
     "volume": 2296252,
     "volume_relatif": 2.78,
-    "capitalisation": 495782208.9,
+    "capitalisation": 397136006.09999996,
     "per": 1.8,
     "bourse": "NYSE",
     "secteur": "Miscellaneous"
@@ -409,7 +409,7 @@
     "mois_pct": -60.31,
     "volume": 288650,
     "volume_relatif": 1.36,
-    "capitalisation": 721732681.1954199,
+    "capitalisation": 737771169.9211199,
     "per": null,
     "bourse": "OTC",
     "secteur": "Finance"
@@ -423,7 +423,7 @@
     "mois_pct": -44.11,
     "volume": 33020517,
     "volume_relatif": 1.31,
-    "capitalisation": 849590312.6461987,
+    "capitalisation": 849590293.9999999,
     "per": null,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
@@ -437,7 +437,7 @@
     "mois_pct": -3.64,
     "volume": 235249,
     "volume_relatif": 99.36,
-    "capitalisation": 2244109642.747604,
+    "capitalisation": 2244109532.460526,
     "per": 5.1,
     "bourse": "OTC",
     "secteur": "Non-Energy Minerals"
@@ -451,7 +451,7 @@
     "mois_pct": -16.99,
     "volume": 3014999,
     "volume_relatif": 7.17,
-    "capitalisation": 1443409261.4865832,
+    "capitalisation": 1443409247,
     "per": null,
     "bourse": "NYSE",
     "secteur": "Non-Energy Minerals"
@@ -465,7 +465,7 @@
     "mois_pct": -51.72,
     "volume": 9520991,
     "volume_relatif": 1.96,
-    "capitalisation": 233526590.1139726,
+    "capitalisation": 233526573.57152542,
     "per": null,
     "bourse": "AMEX",
     "secteur": "Non-Energy Minerals"
@@ -479,7 +479,7 @@
     "mois_pct": -35.1,
     "volume": 46444824,
     "volume_relatif": 1.12,
-    "capitalisation": 1969961521.2009609,
+    "capitalisation": 1969961571.9999998,
     "per": null,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
@@ -495,7 +495,7 @@
     "mois_pct": -0.08,
     "volume": 495000,
     "volume_relatif": 386.57,
-    "capitalisation": 1126995926.5152636,
+    "capitalisation": 1126995983.0070333,
     "per": null,
     "bourse": "OTC",
     "secteur": "Finance"
@@ -509,7 +509,7 @@
     "mois_pct": -4.0,
     "volume": 100463,
     "volume_relatif": 195.76,
-    "capitalisation": 16648729955.641537,
+    "capitalisation": 16648728913.30472,
     "per": 19.7,
     "bourse": "OTC",
     "secteur": "Transportation"
@@ -523,7 +523,7 @@
     "mois_pct": 1.61,
     "volume": 492988,
     "volume_relatif": 151.42,
-    "capitalisation": 11831307849.533659,
+    "capitalisation": 11831306976.92633,
     "per": 13.1,
     "bourse": "OTC",
     "secteur": "Health Services"
@@ -537,7 +537,7 @@
     "mois_pct": -3.64,
     "volume": 235249,
     "volume_relatif": 99.36,
-    "capitalisation": 2244109642.747604,
+    "capitalisation": 2244109532.460526,
     "per": 5.1,
     "bourse": "OTC",
     "secteur": "Non-Energy Minerals"
@@ -551,7 +551,7 @@
     "mois_pct": -13.38,
     "volume": 1000110,
     "volume_relatif": 94.41,
-    "capitalisation": 16833728129.884443,
+    "capitalisation": 16833728129.88322,
     "per": 9.8,
     "bourse": "OTC",
     "secteur": "Producer Manufacturing"
@@ -565,7 +565,7 @@
     "mois_pct": -10.49,
     "volume": 1384977,
     "volume_relatif": 66.13,
-    "capitalisation": 276915903080.1175,
+    "capitalisation": 276912686285.1621,
     "per": 10.7,
     "bourse": "OTC",
     "secteur": "Finance"
@@ -579,7 +579,7 @@
     "mois_pct": 6.87,
     "volume": 542812,
     "volume_relatif": 61.54,
-    "capitalisation": 6336731602.867867,
+    "capitalisation": 6336731651.692077,
     "per": 15.0,
     "bourse": "OTC",
     "secteur": "Consumer Non-Durables"
@@ -593,7 +593,7 @@
     "mois_pct": -22.28,
     "volume": 5400433,
     "volume_relatif": 44.91,
-    "capitalisation": 1293906337.229616,
+    "capitalisation": 1293906379.7878788,
     "per": 17.9,
     "bourse": "OTC",
     "secteur": "Energy Minerals"
@@ -607,7 +607,7 @@
     "mois_pct": -12.72,
     "volume": 585609,
     "volume_relatif": 44.02,
-    "capitalisation": 3308345173.389334,
+    "capitalisation": 3308345077.8345876,
     "per": 7.2,
     "bourse": "OTC",
     "secteur": "Producer Manufacturing"
@@ -637,7 +637,7 @@
     "mois_pct": -4.46,
     "volume": 769405,
     "volume_relatif": 1.47,
-    "capitalisation": 19673735528,
+    "capitalisation": 19953455844,
     "per": 14.9,
     "bourse": "EURONEXT",
     "secteur": "Technology Services"
@@ -651,7 +651,7 @@
     "mois_pct": 15.46,
     "volume": 2745136,
     "volume_relatif": 1.07,
-    "capitalisation": 100508059698,
+    "capitalisation": 101863517750,
     "per": 25.5,
     "bourse": "EURONEXT",
     "secteur": "Health Technology"
@@ -665,7 +665,7 @@
     "mois_pct": 4.91,
     "volume": 290045,
     "volume_relatif": 0.91,
-    "capitalisation": 6223283477,
+    "capitalisation": 6273413960,
     "per": null,
     "bourse": "EURONEXT",
     "secteur": "Finance"
@@ -679,7 +679,7 @@
     "mois_pct": 12.64,
     "volume": 2119975,
     "volume_relatif": 1.47,
-    "capitalisation": 43522590487,
+    "capitalisation": 43843648257,
     "per": 22.6,
     "bourse": "EURONEXT",
     "secteur": "Consumer Non-Durables"
@@ -693,7 +693,7 @@
     "mois_pct": -16.51,
     "volume": 666741,
     "volume_relatif": 1.1,
-    "capitalisation": 5716018580,
+    "capitalisation": 5749099981,
     "per": 11.8,
     "bourse": "EURONEXT",
     "secteur": "Commercial Services"
@@ -707,7 +707,7 @@
     "mois_pct": 6.41,
     "volume": 4956756,
     "volume_relatif": 1.16,
-    "capitalisation": 39976467860,
+    "capitalisation": 40189179161,
     "per": 10.0,
     "bourse": "EURONEXT",
     "secteur": "Communications"
@@ -721,7 +721,7 @@
     "mois_pct": 7.55,
     "volume": 996416,
     "volume_relatif": 1.38,
-    "capitalisation": 17824658486,
+    "capitalisation": 17900036492,
     "per": 14.9,
     "bourse": "EURONEXT",
     "secteur": "Consumer Non-Durables"
@@ -735,7 +735,7 @@
     "mois_pct": -12.12,
     "volume": 228120,
     "volume_relatif": 0.7,
-    "capitalisation": 3964582056,
+    "capitalisation": 3976555845,
     "per": 8.4,
     "bourse": "EURONEXT",
     "secteur": "Commercial Services"
@@ -749,7 +749,7 @@
     "mois_pct": -21.46,
     "volume": 121890,
     "volume_relatif": 1.17,
-    "capitalisation": 2404861684,
+    "capitalisation": 2408923849,
     "per": 9.9,
     "bourse": "EURONEXT",
     "secteur": "Commercial Services"
@@ -763,7 +763,7 @@
     "mois_pct": 4.22,
     "volume": 161753,
     "volume_relatif": 1.34,
-    "capitalisation": 10761825433,
+    "capitalisation": 10779535694,
     "per": 23.4,
     "bourse": "EURONEXT",
     "secteur": "Health Technology"
@@ -779,7 +779,7 @@
     "mois_pct": -34.49,
     "volume": 3621314,
     "volume_relatif": 7.16,
-    "capitalisation": 579608961,
+    "capitalisation": 444890534,
     "per": null,
     "bourse": "EURONEXT",
     "secteur": "Technology Services"
@@ -793,7 +793,7 @@
     "mois_pct": -24.32,
     "volume": 842420,
     "volume_relatif": 6.76,
-    "capitalisation": 6662410530,
+    "capitalisation": 5515530510,
     "per": null,
     "bourse": "EURONEXT",
     "secteur": "Health Technology"
@@ -807,7 +807,7 @@
     "mois_pct": -28.05,
     "volume": 2247363,
     "volume_relatif": 6.33,
-    "capitalisation": 542191913,
+    "capitalisation": 458336670,
     "per": null,
     "bourse": "EURONEXT",
     "secteur": "Commercial Services"
@@ -821,7 +821,7 @@
     "mois_pct": -16.08,
     "volume": 5045085,
     "volume_relatif": 7.21,
-    "capitalisation": 4708666586,
+    "capitalisation": 4022446488,
     "per": 11.4,
     "bourse": "EURONEXT",
     "secteur": "Non-Energy Minerals"
@@ -835,7 +835,7 @@
     "mois_pct": -14.02,
     "volume": 3090725,
     "volume_relatif": 2.26,
-    "capitalisation": 1978294825,
+    "capitalisation": 1736306837,
     "per": null,
     "bourse": "EURONEXT",
     "secteur": "Communications"
@@ -849,7 +849,7 @@
     "mois_pct": -23.21,
     "volume": 570227,
     "volume_relatif": 1.38,
-    "capitalisation": 3912238899,
+    "capitalisation": 3448499935,
     "per": null,
     "bourse": "EURONEXT",
     "secteur": "Electronic Technology"
@@ -863,7 +863,7 @@
     "mois_pct": -12.02,
     "volume": 631486,
     "volume_relatif": 1.46,
-    "capitalisation": 235585288,
+    "capitalisation": 208300816,
     "per": null,
     "bourse": "EURONEXT",
     "secteur": "Health Technology"
@@ -877,7 +877,7 @@
     "mois_pct": -11.1,
     "volume": 4732035,
     "volume_relatif": 1.8,
-    "capitalisation": 36719311240,
+    "capitalisation": 32761833968,
     "per": 76.1,
     "bourse": "EURONEXT",
     "secteur": "Electronic Technology"
@@ -891,7 +891,7 @@
     "mois_pct": 4.95,
     "volume": 306633,
     "volume_relatif": 1.33,
-    "capitalisation": 525946979.00000006,
+    "capitalisation": 476046886,
     "per": null,
     "bourse": "EURONEXT",
     "secteur": "Health Technology"
@@ -905,7 +905,7 @@
     "mois_pct": -46.94,
     "volume": 526929,
     "volume_relatif": 1.5,
-    "capitalisation": 358026553,
+    "capitalisation": 324637824,
     "per": 19.0,
     "bourse": "EURONEXT",
     "secteur": "Electronic Technology"
@@ -921,7 +921,7 @@
     "mois_pct": -16.08,
     "volume": 5045085,
     "volume_relatif": 7.21,
-    "capitalisation": 4708666586,
+    "capitalisation": 4022446488,
     "per": 11.4,
     "bourse": "EURONEXT",
     "secteur": "Non-Energy Minerals"
@@ -935,7 +935,7 @@
     "mois_pct": -34.49,
     "volume": 3621314,
     "volume_relatif": 7.16,
-    "capitalisation": 579608961,
+    "capitalisation": 444890534,
     "per": null,
     "bourse": "EURONEXT",
     "secteur": "Technology Services"
@@ -949,7 +949,7 @@
     "mois_pct": -24.32,
     "volume": 842420,
     "volume_relatif": 6.76,
-    "capitalisation": 6662410530,
+    "capitalisation": 5515530510,
     "per": null,
     "bourse": "EURONEXT",
     "secteur": "Health Technology"
@@ -963,7 +963,7 @@
     "mois_pct": -28.05,
     "volume": 2247363,
     "volume_relatif": 6.33,
-    "capitalisation": 542191913,
+    "capitalisation": 458336670,
     "per": null,
     "bourse": "EURONEXT",
     "secteur": "Commercial Services"
@@ -977,7 +977,7 @@
     "mois_pct": -2.93,
     "volume": 1092390,
     "volume_relatif": 4.58,
-    "capitalisation": 470039179,
+    "capitalisation": 436827153,
     "per": 100.8,
     "bourse": "EURONEXT",
     "secteur": "Consumer Services"
@@ -991,7 +991,7 @@
     "mois_pct": -16.45,
     "volume": 268348,
     "volume_relatif": 2.58,
-    "capitalisation": 433079623,
+    "capitalisation": 406784085,
     "per": null,
     "bourse": "EURONEXT",
     "secteur": "Technology Services"
@@ -1005,7 +1005,7 @@
     "mois_pct": -4.09,
     "volume": 4535788,
     "volume_relatif": 2.38,
-    "capitalisation": 30914164522,
+    "capitalisation": 29789526031,
     "per": 22.1,
     "bourse": "EURONEXT",
     "secteur": "Technology Services"
@@ -1019,7 +1019,7 @@
     "mois_pct": -2.98,
     "volume": 181553,
     "volume_relatif": 2.31,
-    "capitalisation": 1233788909,
+    "capitalisation": 1185482695,
     "per": 9.0,
     "bourse": "EURONEXT",
     "secteur": "Commercial Services"
@@ -1033,7 +1033,7 @@
     "mois_pct": -14.02,
     "volume": 3090725,
     "volume_relatif": 2.26,
-    "capitalisation": 1978294825,
+    "capitalisation": 1736306837,
     "per": null,
     "bourse": "EURONEXT",
     "secteur": "Communications"
@@ -1047,7 +1047,7 @@
     "mois_pct": -18.15,
     "volume": 685470,
     "volume_relatif": 2.22,
-    "capitalisation": 632258549,
+    "capitalisation": 577393129,
     "per": null,
     "bourse": "EURONEXT",
     "secteur": "Electronic Technology"
@@ -1063,7 +1063,7 @@
     "mois_pct": -18.18,
     "volume": 144143,
     "volume_relatif": 6.58,
-    "capitalisation": 351522613.73950005,
+    "capitalisation": 342807151.3284022,
     "per": null,
     "bourse": "LS",
     "secteur": "Commercial Services"
@@ -1077,7 +1077,7 @@
     "mois_pct": 4.44,
     "volume": 1265261,
     "volume_relatif": 1.4,
-    "capitalisation": 419281965,
+    "capitalisation": 440894416,
     "per": null,
     "bourse": "XETR",
     "secteur": "Retail Trade"
@@ -1105,7 +1105,7 @@
     "mois_pct": -26.26,
     "volume": 904019,
     "volume_relatif": 1.54,
-    "capitalisation": 2912323266,
+    "capitalisation": 3029970412,
     "per": null,
     "bourse": "XETR",
     "secteur": "Technology Services"
@@ -1133,7 +1133,7 @@
     "mois_pct": 8.26,
     "volume": 566233,
     "volume_relatif": 1.69,
-    "capitalisation": 2794603283,
+    "capitalisation": 2876316694,
     "per": 13.4,
     "bourse": "XETR",
     "secteur": "Communications"
@@ -1161,7 +1161,7 @@
     "mois_pct": -8.26,
     "volume": 967196,
     "volume_relatif": 2.46,
-    "capitalisation": 2387716956,
+    "capitalisation": 2447189500,
     "per": 12.3,
     "bourse": "XETR",
     "secteur": "Finance"
@@ -1189,7 +1189,7 @@
     "mois_pct": 7.61,
     "volume": 347407,
     "volume_relatif": 3.0,
-    "capitalisation": 33841425340,
+    "capitalisation": 34667454728,
     "per": 12.8,
     "bourse": "XETR",
     "secteur": "Finance"
@@ -1205,7 +1205,7 @@
     "mois_pct": -34.07,
     "volume": 116748,
     "volume_relatif": 28.02,
-    "capitalisation": 579608961,
+    "capitalisation": 444890534,
     "per": null,
     "bourse": "XETR",
     "secteur": "Technology Services"
@@ -1219,7 +1219,7 @@
     "mois_pct": -22.64,
     "volume": 331618,
     "volume_relatif": null,
-    "capitalisation": 1171577407149.5671,
+    "capitalisation": 1071986760553.7972,
     "per": null,
     "bourse": "XETR",
     "secteur": "Technology Services"
@@ -1261,24 +1261,10 @@
     "mois_pct": -53.91,
     "volume": 397852,
     "volume_relatif": 1.47,
-    "capitalisation": 385442375.19184995,
+    "capitalisation": 321248909.9536678,
     "per": null,
     "bourse": "XETR",
     "secteur": "Electronic Technology"
-   },
-   {
-    "symbole": "XETR:LPK",
-    "nom": "LPKF Laser & Electronics SE",
-    "prix": 6.92,
-    "devise": "EUR",
-    "jour_pct": -16.83,
-    "mois_pct": -39.03,
-    "volume": 793586,
-    "volume_relatif": 4.37,
-    "capitalisation": 203811269,
-    "per": null,
-    "bourse": "XETR",
-    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "TRADEGATE:SFT",
@@ -1335,6 +1321,20 @@
     "per": 24.2,
     "bourse": "TRADEGATE",
     "secteur": "Non-Energy Minerals"
+   },
+   {
+    "symbole": "TRADEGATE:LPK",
+    "nom": "LPKF Laser & Electronics SE",
+    "prix": 6.88,
+    "devise": "EUR",
+    "jour_pct": -15.48,
+    "mois_pct": -39.91,
+    "volume": 241407,
+    "volume_relatif": 3.7,
+    "capitalisation": 203811269,
+    "per": null,
+    "bourse": "TRADEGATE",
+    "secteur": "Producer Manufacturing"
    }
   ],
   "Allemagne : volumes anormaux": [
@@ -1361,7 +1361,7 @@
     "mois_pct": -34.07,
     "volume": 116748,
     "volume_relatif": 28.02,
-    "capitalisation": 579608961,
+    "capitalisation": 444890534,
     "per": null,
     "bourse": "XETR",
     "secteur": "Technology Services"
@@ -1375,7 +1375,7 @@
     "mois_pct": -21.67,
     "volume": 170000,
     "volume_relatif": 23.02,
-    "capitalisation": 223805569.09059402,
+    "capitalisation": 215360083.8576106,
     "per": null,
     "bourse": "LS",
     "secteur": "Non-Energy Minerals"
@@ -1445,7 +1445,7 @@
     "mois_pct": -45.25,
     "volume": 109000,
     "volume_relatif": 10.28,
-    "capitalisation": 1917920464.5166764,
+    "capitalisation": 1785934472.0165625,
     "per": 12.4,
     "bourse": "LS",
     "secteur": "Electronic Technology"
@@ -1459,7 +1459,7 @@
     "mois_pct": 6.14,
     "volume": 139424,
     "volume_relatif": 8.89,
-    "capitalisation": 3057809578.3588552,
+    "capitalisation": 2771139948.742738,
     "per": null,
     "bourse": "LS",
     "secteur": "Electronic Technology"
@@ -1489,7 +1489,7 @@
     "mois_pct": 108.21,
     "volume": 479083000,
     "volume_relatif": 3.98,
-    "capitalisation": 1358277954,
+    "capitalisation": 1894797720,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Health Technology"
@@ -1503,10 +1503,52 @@
     "mois_pct": 27.78,
     "volume": 5310629,
     "volume_relatif": 9.27,
-    "capitalisation": 218508582,
+    "capitalisation": 284473451,
     "per": 1.8,
     "bourse": "HKEX",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "HKEX:396",
+    "nom": "Hing Lee (HK) Holdings Limited",
+    "prix": 0.31,
+    "devise": "HKD",
+    "jour_pct": 29.17,
+    "mois_pct": 39.01,
+    "volume": 8124000,
+    "volume_relatif": 12.82,
+    "capitalisation": 250509764,
+    "per": null,
+    "bourse": "HKEX",
+    "secteur": "Consumer Durables"
+   },
+   {
+    "symbole": "HKEX:928",
+    "nom": "King International Investment Limited",
+    "prix": 1.125,
+    "devise": "HKD",
+    "jour_pct": 19.68,
+    "mois_pct": 52.03,
+    "volume": 1120872,
+    "volume_relatif": 2.47,
+    "capitalisation": 208172808,
+    "per": 112.5,
+    "bourse": "HKEX",
+    "secteur": "Health Technology"
+   },
+   {
+    "symbole": "HKEX:2370",
+    "nom": "Redco Healthy Living Company Limited",
+    "prix": 1.085,
+    "devise": "HKD",
+    "jour_pct": 17.3,
+    "mois_pct": -8.05,
+    "volume": 125500,
+    "volume_relatif": 0.31,
+    "capitalisation": 217000008,
+    "per": null,
+    "bourse": "HKEX",
+    "secteur": "Finance"
    },
    {
     "symbole": "HKEX:2473",
@@ -1517,7 +1559,7 @@
     "mois_pct": -11.67,
     "volume": 662825000,
     "volume_relatif": 6.13,
-    "capitalisation": 426937508,
+    "capitalisation": 491906223,
     "per": 9.7,
     "bourse": "HKEX",
     "secteur": "Retail Trade"
@@ -1531,7 +1573,7 @@
     "mois_pct": 65.38,
     "volume": 4699400,
     "volume_relatif": 2.83,
-    "capitalisation": 7269210460,
+    "capitalisation": 8313193203.000001,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Retail Trade"
@@ -1545,7 +1587,7 @@
     "mois_pct": -1.37,
     "volume": 148000,
     "volume_relatif": 21.76,
-    "capitalisation": 388552008,
+    "capitalisation": 437120991,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Retail Trade"
@@ -1559,7 +1601,7 @@
     "mois_pct": -2.56,
     "volume": 228000,
     "volume_relatif": 1.73,
-    "capitalisation": 835401891,
+    "capitalisation": 831005043,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Finance"
@@ -1573,52 +1615,10 @@
     "mois_pct": 31.15,
     "volume": 186000,
     "volume_relatif": 1.01,
-    "capitalisation": 319125748,
+    "capitalisation": 354584156,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Retail Trade"
-   },
-   {
-    "symbole": "HKEX:1566",
-    "nom": "CA Cultural Technology Group Ltd.",
-    "prix": 5.64,
-    "devise": "HKD",
-    "jour_pct": 10.59,
-    "mois_pct": 5.72,
-    "volume": 8825200,
-    "volume_relatif": 1.79,
-    "capitalisation": 8242905973.999999,
-    "per": null,
-    "bourse": "HKEX",
-    "secteur": "Consumer Services"
-   },
-   {
-    "symbole": "HKEX:8450",
-    "nom": "EDICO Holdings Limited",
-    "prix": 0.68,
-    "devise": "HKD",
-    "jour_pct": 10.57,
-    "mois_pct": 3.03,
-    "volume": 900000,
-    "volume_relatif": 1.21,
-    "capitalisation": 615000010,
-    "per": null,
-    "bourse": "HKEX",
-    "secteur": "Commercial Services"
-   },
-   {
-    "symbole": "HKEX:2671",
-    "nom": "USAS Building System (Shanghai) Co.,Ltd.",
-    "prix": 8.25,
-    "devise": "HKD",
-    "jour_pct": 10,
-    "mois_pct": 15.06,
-    "volume": 311100,
-    "volume_relatif": 0.83,
-    "capitalisation": 903522316,
-    "per": null,
-    "bourse": "HKEX",
-    "secteur": "Producer Manufacturing"
    }
   ],
   "Hong Kong / Chine : plus fortes baisses": [
@@ -1631,7 +1631,7 @@
     "mois_pct": -60.61,
     "volume": 10944100,
     "volume_relatif": 12.91,
-    "capitalisation": 5033166340,
+    "capitalisation": 3226925822,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Producer Manufacturing"
@@ -1645,24 +1645,10 @@
     "mois_pct": -34.27,
     "volume": 380000,
     "volume_relatif": 3.88,
-    "capitalisation": 936008977,
+    "capitalisation": 662940580,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Technology Services"
-   },
-   {
-    "symbole": "HKEX:6968",
-    "nom": "Ganglong China Property Group Limited",
-    "prix": 0.106,
-    "devise": "HKD",
-    "jour_pct": -26.9,
-    "mois_pct": 37.66,
-    "volume": 4349000,
-    "volume_relatif": 2.0,
-    "capitalisation": 235160841,
-    "per": null,
-    "bourse": "HKEX",
-    "secteur": "Finance"
    },
    {
     "symbole": "HKEX:2570",
@@ -1673,7 +1659,7 @@
     "mois_pct": -43.6,
     "volume": 602080,
     "volume_relatif": 7.04,
-    "capitalisation": 362583199,
+    "capitalisation": 265316545.00000003,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Utilities"
@@ -1687,7 +1673,7 @@
     "mois_pct": 61.11,
     "volume": 127240000,
     "volume_relatif": 1.53,
-    "capitalisation": 410528953,
+    "capitalisation": 321765922,
     "per": 290,
     "bourse": "HKEX",
     "secteur": "Finance"
@@ -1701,7 +1687,7 @@
     "mois_pct": -23.08,
     "volume": 2242000,
     "volume_relatif": 8.56,
-    "capitalisation": 542317207,
+    "capitalisation": 426541618,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Consumer Durables"
@@ -1715,24 +1701,10 @@
     "mois_pct": -74.19,
     "volume": 5174000,
     "volume_relatif": 0.92,
-    "capitalisation": 2909609432,
+    "capitalisation": 2314850903,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Producer Manufacturing"
-   },
-   {
-    "symbole": "HKEX:2178",
-    "nom": "Petro-king Oilfield Services Ltd.",
-    "prix": 0.107,
-    "devise": "HKD",
-    "jour_pct": -17.69,
-    "mois_pct": -41.21,
-    "volume": 7255000,
-    "volume_relatif": 6.43,
-    "capitalisation": 224831691,
-    "per": null,
-    "bourse": "HKEX",
-    "secteur": "Industrial Services"
    },
    {
     "symbole": "HKEX:9999",
@@ -1743,7 +1715,7 @@
     "mois_pct": -22.22,
     "volume": 34289663,
     "volume_relatif": 4.62,
-    "capitalisation": 595202149484,
+    "capitalisation": 490428753418,
     "per": 13.5,
     "bourse": "HKEX",
     "secteur": "Technology Services"
@@ -1757,27 +1729,41 @@
     "mois_pct": -3.57,
     "volume": 280000,
     "volume_relatif": 0.86,
-    "capitalisation": 538548219,
+    "capitalisation": 445126602,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Utilities"
+   },
+   {
+    "symbole": "HKEX:1499",
+    "nom": "OKG Technology Holdings Limited",
+    "prix": 0.082,
+    "devise": "HKD",
+    "jour_pct": -16.33,
+    "mois_pct": -25.45,
+    "volume": 6610000,
+    "volume_relatif": 7.56,
+    "capitalisation": 440381813,
+    "per": null,
+    "bourse": "HKEX",
+    "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "HKEX:627",
+    "nom": "Vision Synergy Holdings Limited",
+    "prix": 0.74,
+    "devise": "HKD",
+    "jour_pct": -15.91,
+    "mois_pct": -37.82,
+    "volume": 240006,
+    "volume_relatif": 0.44,
+    "capitalisation": 1051298195.0000001,
+    "per": null,
+    "bourse": "HKEX",
+    "secteur": "Finance"
    }
   ],
   "Hong Kong / Chine : volumes anormaux": [
-   {
-    "symbole": "HKEX:1679",
-    "nom": "Risecomm Group Holdings Limited",
-    "prix": 0.695,
-    "devise": "HKD",
-    "jour_pct": -2.11,
-    "mois_pct": -41.6,
-    "volume": 4436000,
-    "volume_relatif": 83.33,
-    "capitalisation": 202797861,
-    "per": null,
-    "bourse": "HKEX",
-    "secteur": "Electronic Technology"
-   },
    {
     "symbole": "HKEX:1660",
     "nom": "Seven Elements Investment Holdings Limited",
@@ -1787,7 +1773,7 @@
     "mois_pct": -3.06,
     "volume": 52016000,
     "volume_relatif": 80.77,
-    "capitalisation": 1115100044,
+    "capitalisation": 1177049985,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Finance"
@@ -1801,7 +1787,7 @@
     "mois_pct": -5.17,
     "volume": 878000,
     "volume_relatif": 38.17,
-    "capitalisation": 369260109,
+    "capitalisation": 351480903,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Health Technology"
@@ -1815,7 +1801,7 @@
     "mois_pct": -4.29,
     "volume": 7206000,
     "volume_relatif": 31.69,
-    "capitalisation": 430172824,
+    "capitalisation": 405937732,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Health Services"
@@ -1843,7 +1829,7 @@
     "mois_pct": -20.63,
     "volume": 200000,
     "volume_relatif": 22.35,
-    "capitalisation": 109915703700.5485,
+    "capitalisation": 108762857489.10524,
     "per": 8.3,
     "bourse": "HKEX",
     "secteur": "Consumer Durables"
@@ -1857,7 +1843,7 @@
     "mois_pct": -1.37,
     "volume": 148000,
     "volume_relatif": 21.76,
-    "capitalisation": 388552008,
+    "capitalisation": 437120991,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Retail Trade"
@@ -1885,7 +1871,7 @@
     "mois_pct": -14.06,
     "volume": 1909000,
     "volume_relatif": 17.29,
-    "capitalisation": 562242393,
+    "capitalisation": 572654279,
     "per": null,
     "bourse": "HKEX",
     "secteur": "Electronic Technology"
@@ -1903,23 +1889,23 @@
     "per": null,
     "bourse": "HKEX",
     "secteur": "Finance"
+   },
+   {
+    "symbole": "HKEX:1051",
+    "nom": "G-Resources Group Limited",
+    "prix": 5.485,
+    "devise": "HKD",
+    "jour_pct": -2.05,
+    "mois_pct": -7.97,
+    "volume": 170100,
+    "volume_relatif": 16.68,
+    "capitalisation": 2472715327,
+    "per": 9.4,
+    "bourse": "HKEX",
+    "secteur": "Finance"
    }
   ],
   "Chine continentale : plus fortes hausses": [
-   {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 2941617737,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
    {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
@@ -1929,10 +1915,24 @@
     "mois_pct": 18.63,
     "volume": 27473758,
     "volume_relatif": 1.05,
-    "capitalisation": 4929084342,
+    "capitalisation": 5914901287,
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -1943,7 +1943,7 @@
     "mois_pct": -25.07,
     "volume": 17796405,
     "volume_relatif": 1.4,
-    "capitalisation": 4206552544.9999995,
+    "capitalisation": 5047665185,
     "per": 39.7,
     "bourse": "SZSE",
     "secteur": "Electronic Technology"
@@ -1957,7 +1957,7 @@
     "mois_pct": -25.73,
     "volume": 39833739,
     "volume_relatif": 2.21,
-    "capitalisation": 582864017,
+    "capitalisation": 665841152,
     "per": null,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
@@ -1971,7 +1971,7 @@
     "mois_pct": 12.13,
     "volume": 34238185,
     "volume_relatif": 1.08,
-    "capitalisation": 3253783353,
+    "capitalisation": 3641703802,
     "per": null,
     "bourse": "SZSE",
     "secteur": "Distribution Services"
@@ -1985,7 +1985,7 @@
     "mois_pct": -26.09,
     "volume": 163605229,
     "volume_relatif": 2.46,
-    "capitalisation": 2997883261,
+    "capitalisation": 3309351826,
     "per": null,
     "bourse": "SSE",
     "secteur": "Finance"
@@ -1999,7 +1999,7 @@
     "mois_pct": 38.18,
     "volume": 13324520,
     "volume_relatif": 2.15,
-    "capitalisation": 1456538003,
+    "capitalisation": 1602643716,
     "per": null,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
@@ -2013,7 +2013,7 @@
     "mois_pct": -33.68,
     "volume": 28065481,
     "volume_relatif": 2.3,
-    "capitalisation": 4309477818,
+    "capitalisation": 4741725561,
     "per": 96.3,
     "bourse": "SSE",
     "secteur": "Electronic Technology"
@@ -2027,7 +2027,7 @@
     "mois_pct": -8.58,
     "volume": 47748775,
     "volume_relatif": 1.12,
-    "capitalisation": 3449997526,
+    "capitalisation": 3796015146,
     "per": null,
     "bourse": "SZSE",
     "secteur": "Consumer Services"
@@ -2041,7 +2041,7 @@
     "mois_pct": -2.8,
     "volume": 40559291,
     "volume_relatif": 1.76,
-    "capitalisation": 7989669291,
+    "capitalisation": 8790979732,
     "per": 61.5,
     "bourse": "SZSE",
     "secteur": "Process Industries"
@@ -2057,7 +2057,7 @@
     "mois_pct": -7.42,
     "volume": 18422140,
     "volume_relatif": 1.59,
-    "capitalisation": 9066176373,
+    "capitalisation": 7253568073,
     "per": 1227.1,
     "bourse": "SZSE",
     "secteur": "Process Industries"
@@ -2071,7 +2071,7 @@
     "mois_pct": -26.75,
     "volume": 3925767,
     "volume_relatif": 0.97,
-    "capitalisation": 2019864901,
+    "capitalisation": 1664876080,
     "per": null,
     "bourse": "SSE",
     "secteur": "Technology Services"
@@ -2085,7 +2085,7 @@
     "mois_pct": -15.51,
     "volume": 18168074,
     "volume_relatif": 1.27,
-    "capitalisation": 6265816641,
+    "capitalisation": 5186456049,
     "per": 179.4,
     "bourse": "SZSE",
     "secteur": "Electronic Technology"
@@ -2099,7 +2099,7 @@
     "mois_pct": -38.05,
     "volume": 11035041,
     "volume_relatif": 1.06,
-    "capitalisation": 3152279456,
+    "capitalisation": 2620035482,
     "per": 64.4,
     "bourse": "SSE",
     "secteur": "Process Industries"
@@ -2113,7 +2113,7 @@
     "mois_pct": -38.12,
     "volume": 11225810,
     "volume_relatif": 3.32,
-    "capitalisation": 3506227593,
+    "capitalisation": 2921856466,
     "per": null,
     "bourse": "SZSE",
     "secteur": "Health Technology"
@@ -2127,7 +2127,7 @@
     "mois_pct": 16.87,
     "volume": 10621970,
     "volume_relatif": 1.38,
-    "capitalisation": 3416274966,
+    "capitalisation": 2847425371,
     "per": 271.0,
     "bourse": "SZSE",
     "secteur": "Consumer Durables"
@@ -2141,7 +2141,7 @@
     "mois_pct": -19.09,
     "volume": 12757638,
     "volume_relatif": 1.43,
-    "capitalisation": 3616937792,
+    "capitalisation": 3019769956,
     "per": null,
     "bourse": "SZSE",
     "secteur": "Commercial Services"
@@ -2155,7 +2155,7 @@
     "mois_pct": -35.27,
     "volume": 5338907,
     "volume_relatif": 2.12,
-    "capitalisation": 3304093759,
+    "capitalisation": 2766799929,
     "per": null,
     "bourse": "SSE",
     "secteur": "Industrial Services"
@@ -2169,7 +2169,7 @@
     "mois_pct": 9.17,
     "volume": 22132352,
     "volume_relatif": 0.85,
-    "capitalisation": 5669032829,
+    "capitalisation": 4789492894,
     "per": 101.2,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
@@ -2183,7 +2183,7 @@
     "mois_pct": -17.59,
     "volume": 12681409,
     "volume_relatif": 1.57,
-    "capitalisation": 6292478411,
+    "capitalisation": 5337184821,
     "per": null,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
@@ -2199,7 +2199,7 @@
     "mois_pct": -40.45,
     "volume": 222140308,
     "volume_relatif": 10.21,
-    "capitalisation": 1661783315,
+    "capitalisation": 1505547251,
     "per": null,
     "bourse": "SZSE",
     "secteur": "Industrial Services"
@@ -2213,7 +2213,7 @@
     "mois_pct": 29.18,
     "volume": 25008438,
     "volume_relatif": 8.31,
-    "capitalisation": 3741985419,
+    "capitalisation": 4116332287.9999995,
     "per": null,
     "bourse": "SSE",
     "secteur": "Producer Manufacturing"
@@ -2227,7 +2227,7 @@
     "mois_pct": -0.25,
     "volume": 9564910,
     "volume_relatif": 7.93,
-    "capitalisation": 2889057488,
+    "capitalisation": 3178288005,
     "per": 22.4,
     "bourse": "SSE",
     "secteur": "Process Industries"
@@ -2241,7 +2241,7 @@
     "mois_pct": -2.2,
     "volume": 87782402,
     "volume_relatif": 5.99,
-    "capitalisation": 2886440881,
+    "capitalisation": 2739803467,
     "per": null,
     "bourse": "SSE",
     "secteur": "Producer Manufacturing"
@@ -2255,7 +2255,7 @@
     "mois_pct": 8.5,
     "volume": 54040067,
     "volume_relatif": 5.8,
-    "capitalisation": 5186988510,
+    "capitalisation": 5014568002,
     "per": 714.7,
     "bourse": "SZSE",
     "secteur": "Electronic Technology"
@@ -2269,7 +2269,7 @@
     "mois_pct": -4.53,
     "volume": 145868558,
     "volume_relatif": 5.78,
-    "capitalisation": 4632200110,
+    "capitalisation": 4492498799,
     "per": null,
     "bourse": "SZSE",
     "secteur": "Process Industries"
@@ -2283,7 +2283,7 @@
     "mois_pct": 9.33,
     "volume": 183644631,
     "volume_relatif": 5.62,
-    "capitalisation": 3071270739,
+    "capitalisation": 2769393665,
     "per": null,
     "bourse": "SSE",
     "secteur": "Industrial Services"
@@ -2297,7 +2297,7 @@
     "mois_pct": -1.42,
     "volume": 137670058,
     "volume_relatif": 5.53,
-    "capitalisation": 7864818006,
+    "capitalisation": 8652260765,
     "per": 47.0,
     "bourse": "SSE",
     "secteur": "Electronic Technology"
@@ -2311,7 +2311,7 @@
     "mois_pct": -1.51,
     "volume": 27711650,
     "volume_relatif": 5.53,
-    "capitalisation": 5817126705,
+    "capitalisation": 5743290317,
     "per": 46.9,
     "bourse": "SSE",
     "secteur": "Process Industries"
@@ -2325,7 +2325,7 @@
     "mois_pct": -1.86,
     "volume": 69610544,
     "volume_relatif": 5.46,
-    "capitalisation": 2638241312,
+    "capitalisation": 2379348429,
     "per": 10.2,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
@@ -2341,7 +2341,7 @@
     "mois_pct": 109.8,
     "volume": 48351100,
     "volume_relatif": 10.34,
-    "capitalisation": 5709326881,
+    "capitalisation": 7933739952,
     "per": null,
     "bourse": "TSE",
     "secteur": "Health Technology"
@@ -2355,7 +2355,7 @@
     "mois_pct": 164.29,
     "volume": 23368900,
     "volume_relatif": 3.44,
-    "capitalisation": 9078530823,
+    "capitalisation": 12082936707,
     "per": null,
     "bourse": "TSE",
     "secteur": "Commercial Services"
@@ -2369,7 +2369,7 @@
     "mois_pct": 8.05,
     "volume": 398600,
     "volume_relatif": 3.15,
-    "capitalisation": 1873110134,
+    "capitalisation": 2217431850,
     "per": 17.3,
     "bourse": "TSE",
     "secteur": "Technology Services"
@@ -2383,7 +2383,7 @@
     "mois_pct": -10.14,
     "volume": 3671500,
     "volume_relatif": 30.63,
-    "capitalisation": 1425131889,
+    "capitalisation": 1634128343,
     "per": null,
     "bourse": "TSE",
     "secteur": "Technology Services"
@@ -2397,7 +2397,7 @@
     "mois_pct": -20.38,
     "volume": 3881100,
     "volume_relatif": 7.44,
-    "capitalisation": 6449049347,
+    "capitalisation": 7081979919,
     "per": 225.1,
     "bourse": "TSE",
     "secteur": "Electronic Technology"
@@ -2411,7 +2411,7 @@
     "mois_pct": -11.76,
     "volume": 31948400,
     "volume_relatif": 0.93,
-    "capitalisation": 1674936279,
+    "capitalisation": 1794574585,
     "per": null,
     "bourse": "TSE",
     "secteur": "Electronic Technology"
@@ -2425,7 +2425,7 @@
     "mois_pct": -13.63,
     "volume": 1900600,
     "volume_relatif": 0.77,
-    "capitalisation": 154215000000,
+    "capitalisation": 164841000000,
     "per": 31.9,
     "bourse": "TSE",
     "secteur": "Technology Services"
@@ -2439,7 +2439,7 @@
     "mois_pct": -22.73,
     "volume": 5050400,
     "volume_relatif": 5.67,
-    "capitalisation": 1194961304,
+    "capitalisation": 1337646385,
     "per": null,
     "bourse": "TSE",
     "secteur": "Commercial Services"
@@ -2453,7 +2453,7 @@
     "mois_pct": 5.56,
     "volume": 2060800,
     "volume_relatif": 0.63,
-    "capitalisation": 6505921692,
+    "capitalisation": 6867361786,
     "per": null,
     "bourse": "TSE",
     "secteur": "Distribution Services"
@@ -2467,7 +2467,7 @@
     "mois_pct": 4.28,
     "volume": 1615000,
     "volume_relatif": 1.93,
-    "capitalisation": 94423602539,
+    "capitalisation": 98902192383,
     "per": 14.2,
     "bourse": "TSE",
     "secteur": "Commercial Services"
@@ -2483,7 +2483,7 @@
     "mois_pct": 0,
     "volume": 2979600,
     "volume_relatif": 0.63,
-    "capitalisation": 636826172,
+    "capitalisation": 509460938,
     "per": null,
     "bourse": "TSE",
     "secteur": "Finance"
@@ -2497,7 +2497,7 @@
     "mois_pct": -25.93,
     "volume": 10729500,
     "volume_relatif": 5.73,
-    "capitalisation": 1600235462,
+    "capitalisation": 1297488213,
     "per": null,
     "bourse": "TSE",
     "secteur": "Health Technology"
@@ -2511,7 +2511,7 @@
     "mois_pct": -23.45,
     "volume": 1363100,
     "volume_relatif": 1.29,
-    "capitalisation": 2367796593,
+    "capitalisation": 1926672844,
     "per": null,
     "bourse": "TSE",
     "secteur": "Health Technology"
@@ -2525,7 +2525,7 @@
     "mois_pct": -20,
     "volume": 118700,
     "volume_relatif": 2.37,
-    "capitalisation": 3401020363,
+    "capitalisation": 2826200020,
     "per": 10.2,
     "bourse": "TSE",
     "secteur": "Technology Services"
@@ -2539,7 +2539,7 @@
     "mois_pct": -45.55,
     "volume": 1664300,
     "volume_relatif": 2.47,
-    "capitalisation": 93435344410,
+    "capitalisation": 77668791389,
     "per": 8.5,
     "bourse": "TSE",
     "secteur": "Process Industries"
@@ -2553,7 +2553,7 @@
     "mois_pct": -41.94,
     "volume": 1442900,
     "volume_relatif": 0.67,
-    "capitalisation": 83783809137,
+    "capitalisation": 70589508486,
     "per": 13.1,
     "bourse": "TSE",
     "secteur": "Producer Manufacturing"
@@ -2567,7 +2567,7 @@
     "mois_pct": -25.32,
     "volume": 1807600,
     "volume_relatif": 1.37,
-    "capitalisation": 1766019993,
+    "capitalisation": 1488502565,
     "per": null,
     "bourse": "TSE",
     "secteur": "Technology Services"
@@ -2581,7 +2581,7 @@
     "mois_pct": -32.17,
     "volume": 289700,
     "volume_relatif": 0.37,
-    "capitalisation": 5324156632,
+    "capitalisation": 4534796042,
     "per": null,
     "bourse": "TSE",
     "secteur": "Health Technology"
@@ -2595,7 +2595,7 @@
     "mois_pct": -7.35,
     "volume": 4390200,
     "volume_relatif": 2.27,
-    "capitalisation": 17457653458,
+    "capitalisation": 14871334427,
     "per": null,
     "bourse": "TSE",
     "secteur": "Health Technology"
@@ -2609,7 +2609,7 @@
     "mois_pct": -35.56,
     "volume": 109918800,
     "volume_relatif": 1.59,
-    "capitalisation": 20190980043457,
+    "capitalisation": 17268225793457.002,
     "per": 13.4,
     "bourse": "TSE",
     "secteur": "Communications"
@@ -2639,7 +2639,7 @@
     "mois_pct": -17.84,
     "volume": 544400,
     "volume_relatif": 60.02,
-    "capitalisation": 4313882434,
+    "capitalisation": 4230387936,
     "per": 5.5,
     "bourse": "TSE",
     "secteur": "Producer Manufacturing"
@@ -2653,7 +2653,7 @@
     "mois_pct": -5.98,
     "volume": 563600,
     "volume_relatif": 57.22,
-    "capitalisation": 50094950001,
+    "capitalisation": 49821456188,
     "per": 8.0,
     "bourse": "TSE",
     "secteur": "Finance"
@@ -2667,7 +2667,7 @@
     "mois_pct": 15.18,
     "volume": 1206500,
     "volume_relatif": 43.32,
-    "capitalisation": 4488573721,
+    "capitalisation": 4471243320,
     "per": 35.4,
     "bourse": "TSE",
     "secteur": "Technology Services"
@@ -2681,7 +2681,7 @@
     "mois_pct": -10.14,
     "volume": 3671500,
     "volume_relatif": 30.63,
-    "capitalisation": 1425131889,
+    "capitalisation": 1634128343,
     "per": null,
     "bourse": "TSE",
     "secteur": "Technology Services"
@@ -2695,7 +2695,7 @@
     "mois_pct": 7.04,
     "volume": 3731900,
     "volume_relatif": 18.66,
-    "capitalisation": 16180601921,
+    "capitalisation": 16813235402.999998,
     "per": null,
     "bourse": "TSE",
     "secteur": "Health Technology"
@@ -2709,7 +2709,7 @@
     "mois_pct": -55.82,
     "volume": 14433700,
     "volume_relatif": 13.09,
-    "capitalisation": 16058167339,
+    "capitalisation": 13958939438,
     "per": 30.9,
     "bourse": "TSE",
     "secteur": "Technology Services"
@@ -2723,7 +2723,7 @@
     "mois_pct": -22.78,
     "volume": 354500,
     "volume_relatif": 11.37,
-    "capitalisation": 1449735117,
+    "capitalisation": 1516008722,
     "per": null,
     "bourse": "TSE",
     "secteur": "Finance"
@@ -2737,7 +2737,7 @@
     "mois_pct": 109.8,
     "volume": 48351100,
     "volume_relatif": 10.34,
-    "capitalisation": 5709326881,
+    "capitalisation": 7933739952,
     "per": null,
     "bourse": "TSE",
     "secteur": "Health Technology"
@@ -2751,7 +2751,7 @@
     "mois_pct": -20.38,
     "volume": 3881100,
     "volume_relatif": 7.44,
-    "capitalisation": 6449049347,
+    "capitalisation": 7081979919,
     "per": 225.1,
     "bourse": "TSE",
     "secteur": "Electronic Technology"
@@ -2767,7 +2767,7 @@
     "mois_pct": 5.57,
     "volume": 353600,
     "volume_relatif": 5.48,
-    "capitalisation": 1378179470.25,
+    "capitalisation": 1653780121.25,
     "per": null,
     "bourse": "BSE",
     "secteur": "Consumer Durables"
@@ -2781,7 +2781,7 @@
     "mois_pct": -15.57,
     "volume": 5266433,
     "volume_relatif": 234.99,
-    "capitalisation": 14578729489,
+    "capitalisation": 17493128341,
     "per": 167.7,
     "bourse": "NSE",
     "secteur": "Process Industries"
@@ -2795,7 +2795,7 @@
     "mois_pct": -16.24,
     "volume": 121218,
     "volume_relatif": 54.35,
-    "capitalisation": 14578729489,
+    "capitalisation": 17493128341,
     "per": 168.7,
     "bourse": "BSE",
     "secteur": "Process Industries"
@@ -2809,7 +2809,7 @@
     "mois_pct": 3.53,
     "volume": 248487,
     "volume_relatif": 47.47,
-    "capitalisation": 265545658,
+    "capitalisation": 318413374,
     "per": 16.1,
     "bourse": "BSE",
     "secteur": "Health Technology"
@@ -2823,7 +2823,7 @@
     "mois_pct": -22.6,
     "volume": 5783857,
     "volume_relatif": 3.64,
-    "capitalisation": 216900869,
+    "capitalisation": 256772352,
     "per": 3.6,
     "bourse": "BSE",
     "secteur": "Industrial Services"
@@ -2837,7 +2837,7 @@
     "mois_pct": 40.03,
     "volume": 2363477,
     "volume_relatif": 12.5,
-    "capitalisation": 14627484681,
+    "capitalisation": 17096279826.000002,
     "per": 7.5,
     "bourse": "BSE",
     "secteur": "Distribution Services"
@@ -2851,7 +2851,7 @@
     "mois_pct": 36.84,
     "volume": 112970399,
     "volume_relatif": 46.57,
-    "capitalisation": 14627484681,
+    "capitalisation": 17096279826.000002,
     "per": 7.4,
     "bourse": "NSE",
     "secteur": "Distribution Services"
@@ -2865,7 +2865,7 @@
     "mois_pct": 21.62,
     "volume": 5469427,
     "volume_relatif": 0.88,
-    "capitalisation": 395985595,
+    "capitalisation": 456906461,
     "per": null,
     "bourse": "BSE",
     "secteur": "Distribution Services"
@@ -2879,7 +2879,7 @@
     "mois_pct": 8.67,
     "volume": 745941,
     "volume_relatif": 184.03,
-    "capitalisation": 92054699074,
+    "capitalisation": 104004111649,
     "per": 55.8,
     "bourse": "BSE",
     "secteur": "Health Services"
@@ -2893,7 +2893,7 @@
     "mois_pct": 28.81,
     "volume": 18711481,
     "volume_relatif": 319.86,
-    "capitalisation": 92054699074,
+    "capitalisation": 104004111649,
     "per": 55.8,
     "bourse": "NSE",
     "secteur": "Health Services"
@@ -2909,7 +2909,7 @@
     "mois_pct": 2.25,
     "volume": 104000,
     "volume_relatif": 4.91,
-    "capitalisation": 628882090,
+    "capitalisation": 508077100,
     "per": 20.9,
     "bourse": "BSE",
     "secteur": "Process Industries"
@@ -2923,7 +2923,7 @@
     "mois_pct": -11.95,
     "volume": 331145,
     "volume_relatif": 4.71,
-    "capitalisation": 450000000,
+    "capitalisation": 398000002,
     "per": 57.7,
     "bourse": "BSE",
     "secteur": "Transportation"
@@ -2937,7 +2937,7 @@
     "mois_pct": -18.75,
     "volume": 105600,
     "volume_relatif": 6.33,
-    "capitalisation": 1205596154.7,
+    "capitalisation": 1076077343.25,
     "per": 10.4,
     "bourse": "NSE",
     "secteur": "Consumer Durables"
@@ -2951,7 +2951,7 @@
     "mois_pct": 50.2,
     "volume": 575436,
     "volume_relatif": 1.05,
-    "capitalisation": 2059239725,
+    "capitalisation": 1853315774,
     "per": null,
     "bourse": "NSE",
     "secteur": "Distribution Services"
@@ -2965,24 +2965,10 @@
     "mois_pct": -53.84,
     "volume": 246000,
     "volume_relatif": 110.81,
-    "capitalisation": 572612460,
+    "capitalisation": 515406190.00000006,
     "per": null,
     "bourse": "BSE",
     "secteur": "Industrial Services"
-   },
-   {
-    "symbole": "BSE:KARNAVATI",
-    "nom": "Karnavati Finance Ltd.",
-    "prix": 1.83,
-    "devise": "INR",
-    "jour_pct": -9.85,
-    "mois_pct": 30.71,
-    "volume": 538157,
-    "volume_relatif": 1.56,
-    "capitalisation": 204014997,
-    "per": 2.4,
-    "bourse": "BSE",
-    "secteur": "Finance"
    },
    {
     "symbole": "BSE:PRAKASHSTL",
@@ -2993,7 +2979,7 @@
     "mois_pct": -5.0,
     "volume": 161207,
     "volume_relatif": 5.86,
-    "capitalisation": 626501407,
+    "capitalisation": 565251285,
     "per": 69.0,
     "bourse": "BSE",
     "secteur": "Non-Energy Minerals"
@@ -3007,7 +2993,7 @@
     "mois_pct": -4.73,
     "volume": 891352,
     "volume_relatif": 7.94,
-    "capitalisation": 626501407,
+    "capitalisation": 565251285,
     "per": 68.8,
     "bourse": "NSE",
     "secteur": "Non-Energy Minerals"
@@ -3021,7 +3007,7 @@
     "mois_pct": -32.67,
     "volume": 149341,
     "volume_relatif": 1.53,
-    "capitalisation": 58801437704,
+    "capitalisation": 53642416752,
     "per": 32.3,
     "bourse": "BSE",
     "secteur": "Technology Services"
@@ -3035,10 +3021,24 @@
     "mois_pct": -32.62,
     "volume": 1433816,
     "volume_relatif": 1.24,
-    "capitalisation": 58801437704,
+    "capitalisation": 53642416752,
     "per": 32.3,
     "bourse": "NSE",
     "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NSE:IPHL",
+    "nom": "Indian Phosphate Ltd.",
+    "prix": 78.5,
+    "devise": "INR",
+    "jour_pct": -8.56,
+    "mois_pct": 6.08,
+    "volume": 352800,
+    "volume_relatif": 2.25,
+    "capitalisation": 1961684306.5,
+    "per": 6.6,
+    "bourse": "NSE",
+    "secteur": "Process Industries"
    }
   ],
   "Inde : volumes anormaux": [
@@ -3051,7 +3051,7 @@
     "mois_pct": 28.81,
     "volume": 18711481,
     "volume_relatif": 319.86,
-    "capitalisation": 92054699074,
+    "capitalisation": 104004111649,
     "per": 55.8,
     "bourse": "NSE",
     "secteur": "Health Services"
@@ -3065,7 +3065,7 @@
     "mois_pct": -15.57,
     "volume": 5266433,
     "volume_relatif": 234.99,
-    "capitalisation": 14578729489,
+    "capitalisation": 17493128341,
     "per": 167.7,
     "bourse": "NSE",
     "secteur": "Process Industries"
@@ -3079,7 +3079,7 @@
     "mois_pct": 8.67,
     "volume": 745941,
     "volume_relatif": 184.03,
-    "capitalisation": 92054699074,
+    "capitalisation": 104004111649,
     "per": 55.8,
     "bourse": "BSE",
     "secteur": "Health Services"
@@ -3093,7 +3093,7 @@
     "mois_pct": -53.84,
     "volume": 246000,
     "volume_relatif": 110.81,
-    "capitalisation": 572612460,
+    "capitalisation": 515406190.00000006,
     "per": null,
     "bourse": "BSE",
     "secteur": "Industrial Services"
@@ -3107,7 +3107,7 @@
     "mois_pct": 7.87,
     "volume": 206078,
     "volume_relatif": 94.48,
-    "capitalisation": 57003724821,
+    "capitalisation": 56996290282,
     "per": 14.2,
     "bourse": "BSE",
     "secteur": "Process Industries"
@@ -3121,7 +3121,7 @@
     "mois_pct": 1.48,
     "volume": 2094414,
     "volume_relatif": 73.57,
-    "capitalisation": 593162658962,
+    "capitalisation": 583162557407,
     "per": 6.5,
     "bourse": "BSE",
     "secteur": "Finance"
@@ -3135,7 +3135,7 @@
     "mois_pct": 6.05,
     "volume": 9835142,
     "volume_relatif": 66.88,
-    "capitalisation": 124254625344,
+    "capitalisation": 127933340316,
     "per": 30.9,
     "bourse": "NSE",
     "secteur": "Non-Energy Minerals"
@@ -3149,7 +3149,7 @@
     "mois_pct": -4.9,
     "volume": 1236604,
     "volume_relatif": 58.8,
-    "capitalisation": 50843356688,
+    "capitalisation": 50565357224,
     "per": 108.3,
     "bourse": "NSE",
     "secteur": "Finance"
@@ -3163,7 +3163,7 @@
     "mois_pct": 13.95,
     "volume": 2466675,
     "volume_relatif": 55.1,
-    "capitalisation": 5238949216,
+    "capitalisation": 5273542189,
     "per": 9.2,
     "bourse": "BSE",
     "secteur": "Utilities"
@@ -3177,7 +3177,7 @@
     "mois_pct": -16.24,
     "volume": 121218,
     "volume_relatif": 54.35,
-    "capitalisation": 14578729489,
+    "capitalisation": 17493128341,
     "per": 168.7,
     "bourse": "BSE",
     "secteur": "Process Industries"
@@ -3193,7 +3193,7 @@
     "mois_pct": 155.85,
     "volume": 175809,
     "volume_relatif": 0.61,
-    "capitalisation": 544183888.204991,
+    "capitalisation": 544183869,
     "per": null,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
@@ -3207,7 +3207,7 @@
     "mois_pct": 141.55,
     "volume": 297110,
     "volume_relatif": 2.79,
-    "capitalisation": 259688194.6717655,
+    "capitalisation": 259688200,
     "per": null,
     "bourse": "NASDAQ",
     "secteur": "Producer Manufacturing"
@@ -3221,7 +3221,7 @@
     "mois_pct": 82.14,
     "volume": 312078,
     "volume_relatif": 1.88,
-    "capitalisation": 272357712.64,
+    "capitalisation": 272357702,
     "per": null,
     "bourse": "NASDAQ",
     "secteur": "Retail Trade"
@@ -3235,7 +3235,7 @@
     "mois_pct": 81.38,
     "volume": 133328,
     "volume_relatif": 0.51,
-    "capitalisation": 3568613761.96383,
+    "capitalisation": 3568613823.0000005,
     "per": null,
     "bourse": "NASDAQ",
     "secteur": "Retail Trade"
@@ -3249,7 +3249,7 @@
     "mois_pct": 76.3,
     "volume": 1111624,
     "volume_relatif": 0.24,
-    "capitalisation": 3504999291.5391536,
+    "capitalisation": 3504999311,
     "per": null,
     "bourse": "NASDAQ",
     "secteur": "Health Services"
@@ -3263,7 +3263,7 @@
     "mois_pct": 67.72,
     "volume": 1964451,
     "volume_relatif": 0.77,
-    "capitalisation": 1807843726.176287,
+    "capitalisation": 1807843740,
     "per": null,
     "bourse": "NASDAQ",
     "secteur": "Health Technology"
@@ -3277,7 +3277,7 @@
     "mois_pct": 66.04,
     "volume": 7920389,
     "volume_relatif": 0.51,
-    "capitalisation": 329660124.4444445,
+    "capitalisation": 329660115,
     "per": null,
     "bourse": "NASDAQ",
     "secteur": "Health Technology"
@@ -3291,7 +3291,7 @@
     "mois_pct": 65.75,
     "volume": 2696679,
     "volume_relatif": 0.67,
-    "capitalisation": 294540986.2410714,
+    "capitalisation": 294541004.00000006,
     "per": null,
     "bourse": "NYSE",
     "secteur": "Consumer Non-Durables"
@@ -3305,7 +3305,7 @@
     "mois_pct": 63.15,
     "volume": 1124950,
     "volume_relatif": 0.64,
-    "capitalisation": 533849351.1417219,
+    "capitalisation": 533849353.99999994,
     "per": null,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
@@ -3319,7 +3319,7 @@
     "mois_pct": 61.8,
     "volume": 168568,
     "volume_relatif": 2.0,
-    "capitalisation": 226562069.89461362,
+    "capitalisation": 226562075,
     "per": null,
     "bourse": "AMEX",
     "secteur": "Commercial Services"
@@ -3335,7 +3335,7 @@
     "mois_pct": 58.72,
     "volume": 155267,
     "volume_relatif": 0.51,
-    "capitalisation": 244742686.40926,
+    "capitalisation": 251898898.09345502,
     "per": null,
     "bourse": "LSE",
     "secteur": "Health Technology"
@@ -3349,7 +3349,7 @@
     "mois_pct": 52.4,
     "volume": 9550769,
     "volume_relatif": 2.35,
-    "capitalisation": 271480785,
+    "capitalisation": 271602856,
     "per": null,
     "bourse": "LSE",
     "secteur": "Transportation"
@@ -3363,7 +3363,7 @@
     "mois_pct": 38.68,
     "volume": 457593,
     "volume_relatif": 1.08,
-    "capitalisation": 3233262534.901965,
+    "capitalisation": 3163954854.013857,
     "per": 3.0,
     "bourse": "LSIN",
     "secteur": "Transportation"
@@ -3377,7 +3377,7 @@
     "mois_pct": 34.19,
     "volume": 911896,
     "volume_relatif": 3.13,
-    "capitalisation": 1640196555.711831,
+    "capitalisation": 1615345154.527977,
     "per": 70.9,
     "bourse": "LSIN",
     "secteur": "Electronic Technology"
@@ -3391,7 +3391,7 @@
     "mois_pct": 31.25,
     "volume": 3664100,
     "volume_relatif": 0.77,
-    "capitalisation": 1198537249,
+    "capitalisation": 1157588596,
     "per": null,
     "bourse": "LSE",
     "secteur": "Commercial Services"
@@ -3405,7 +3405,7 @@
     "mois_pct": 26.86,
     "volume": 647410,
     "volume_relatif": 0.79,
-    "capitalisation": 661468994.206965,
+    "capitalisation": 641307727.85346,
     "per": 39.3,
     "bourse": "LSIN",
     "secteur": "Health Technology"
@@ -3419,7 +3419,7 @@
     "mois_pct": 25.08,
     "volume": 1352399,
     "volume_relatif": 1.17,
-    "capitalisation": 760502071,
+    "capitalisation": 730814741,
     "per": 57.1,
     "bourse": "LSE",
     "secteur": "Commercial Services"
@@ -3433,7 +3433,7 @@
     "mois_pct": 24.25,
     "volume": 254861,
     "volume_relatif": 0.38,
-    "capitalisation": 45005788831.73237,
+    "capitalisation": 43919328934.7779,
     "per": null,
     "bourse": "LSIN",
     "secteur": "Health Technology"
@@ -3447,7 +3447,7 @@
     "mois_pct": 23.74,
     "volume": 5255721,
     "volume_relatif": 0.72,
-    "capitalisation": 3546830195,
+    "capitalisation": 3460322177,
     "per": 17.8,
     "bourse": "LSE",
     "secteur": "Retail Trade"
@@ -3461,27 +3461,13 @@
     "mois_pct": 22.33,
     "volume": 763218,
     "volume_relatif": 1.58,
-    "capitalisation": 583275623.56029,
+    "capitalisation": 586152442.851264,
     "per": null,
     "bourse": "LSIN",
     "secteur": "Finance"
    }
   ],
   "États-Unis : grosses sociétés à PER bas": [
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3323658863800,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
    {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
@@ -3491,22 +3477,22 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
-    "capitalisation": 3323658863800,
+    "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOG",
-    "nom": "Alphabet Inc. Class C",
-    "prix": 264,
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
     "devise": "USD",
-    "jour_pct": -2.59,
-    "mois_pct": -20.8,
-    "volume": 38097241,
-    "volume_relatif": 1.77,
-    "capitalisation": 3237568961859.6416,
-    "per": 13.8,
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3519,7 +3505,21 @@
     "mois_pct": -21.27,
     "volume": 57606333,
     "volume_relatif": 1.71,
-    "capitalisation": 3233820362273.5347,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOG",
+    "nom": "Alphabet Inc. Class C",
+    "prix": 264,
+    "devise": "USD",
+    "jour_pct": -2.59,
+    "mois_pct": -20.8,
+    "volume": 38097241,
+    "volume_relatif": 1.77,
+    "capitalisation": 3235509897216.9995,
     "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
@@ -3533,7 +3533,7 @@
     "mois_pct": -43.19,
     "volume": 630309205,
     "volume_relatif": 1.6,
-    "capitalisation": 3025272911458.269,
+    "capitalisation": 3025272970581.0005,
     "per": 13.5,
     "bourse": "NASDAQ",
     "secteur": "Electronic Technology"
@@ -3547,7 +3547,7 @@
     "mois_pct": -7.28,
     "volume": 6686810,
     "volume_relatif": 1.51,
-    "capitalisation": 1524081966307,
+    "capitalisation": 1433642301357,
     "per": 1.6,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
@@ -3561,7 +3561,7 @@
     "mois_pct": -7.84,
     "volume": 12517446,
     "volume_relatif": 2.02,
-    "capitalisation": 825044799619.819,
+    "capitalisation": 825044793231.3053,
     "per": 13.0,
     "bourse": "NYSE",
     "secteur": "Finance"
@@ -3575,7 +3575,7 @@
     "mois_pct": -35.64,
     "volume": 59422966,
     "volume_relatif": 1.85,
-    "capitalisation": 672642419577.1702,
+    "capitalisation": 672642428248.0001,
     "per": 8.0,
     "bourse": "NASDAQ",
     "secteur": "Electronic Technology"
@@ -3589,7 +3589,7 @@
     "mois_pct": -28.75,
     "volume": 39864888,
     "volume_relatif": 2.05,
-    "capitalisation": 621492977207.6415,
+    "capitalisation": 584718244828.4908,
     "per": 5.8,
     "bourse": "NASDAQ",
     "secteur": "Electronic Technology"
@@ -3603,7 +3603,7 @@
     "mois_pct": 8.06,
     "volume": 132378,
     "volume_relatif": 2.0,
-    "capitalisation": 455053020458.69653,
+    "capitalisation": 466583987885.5666,
     "per": 6.4,
     "bourse": "OTC",
     "secteur": "Finance"
@@ -3619,7 +3619,7 @@
     "mois_pct": 37.74,
     "volume": 1898472,
     "volume_relatif": 0.95,
-    "capitalisation": 3859224965,
+    "capitalisation": 3776499257,
     "per": 3.0,
     "bourse": "EURONEXT",
     "secteur": "Transportation"
@@ -3633,7 +3633,7 @@
     "mois_pct": 15.46,
     "volume": 2745136,
     "volume_relatif": 1.07,
-    "capitalisation": 100508059698,
+    "capitalisation": 101863517750,
     "per": 25.5,
     "bourse": "EURONEXT",
     "secteur": "Health Technology"
@@ -3647,7 +3647,7 @@
     "mois_pct": 12.64,
     "volume": 2119975,
     "volume_relatif": 1.47,
-    "capitalisation": 43522590487,
+    "capitalisation": 43843648257,
     "per": 22.6,
     "bourse": "EURONEXT",
     "secteur": "Consumer Non-Durables"
@@ -3661,7 +3661,7 @@
     "mois_pct": 9.64,
     "volume": 308245,
     "volume_relatif": 1.18,
-    "capitalisation": 15076160645,
+    "capitalisation": 15012800537,
     "per": 29.6,
     "bourse": "EURONEXT",
     "secteur": "Commercial Services"
@@ -3675,7 +3675,7 @@
     "mois_pct": 9.15,
     "volume": 1238620,
     "volume_relatif": 1.25,
-    "capitalisation": 120469446370,
+    "capitalisation": 119475832947,
     "per": 33.8,
     "bourse": "EURONEXT",
     "secteur": "Process Industries"
@@ -3689,7 +3689,7 @@
     "mois_pct": 8.37,
     "volume": 336101,
     "volume_relatif": 1.23,
-    "capitalisation": 7737015955,
+    "capitalisation": 7605645996,
     "per": 24.8,
     "bourse": "EURONEXT",
     "secteur": "Commercial Services"
@@ -3703,7 +3703,7 @@
     "mois_pct": 8.09,
     "volume": 433203,
     "volume_relatif": 1.15,
-    "capitalisation": 232226395041,
+    "capitalisation": 231401866150,
     "per": 36.9,
     "bourse": "EURONEXT",
     "secteur": "Consumer Non-Durables"
@@ -3717,7 +3717,7 @@
     "mois_pct": 7.96,
     "volume": 185861,
     "volume_relatif": 0.96,
-    "capitalisation": 10374987143,
+    "capitalisation": 10249054034,
     "per": 9.6,
     "bourse": "EURONEXT",
     "secteur": "Industrial Services"
@@ -3731,7 +3731,7 @@
     "mois_pct": 7.73,
     "volume": 241858,
     "volume_relatif": 0.87,
-    "capitalisation": 5638600224,
+    "capitalisation": 5595557401,
     "per": 15.6,
     "bourse": "EURONEXT",
     "secteur": "Commercial Services"
@@ -3745,7 +3745,7 @@
     "mois_pct": 7.55,
     "volume": 996416,
     "volume_relatif": 1.38,
-    "capitalisation": 17824658486,
+    "capitalisation": 17900036492,
     "per": 14.9,
     "bourse": "EURONEXT",
     "secteur": "Consumer Non-Durables"
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "CAC40 : les indicateurs économiques à suivre du 23 au 27 novembre - Le Revenu",
+   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdzY5RXh3S0VuT0VQMDB6WHI4TFpYMTNBdHdlWFRNWkU0RmdRalZDcEl6SVl2ZDJsRV8xYTFXZGVrU1lZZzJ3X015ZFFnTHBKWE1XNWtLay0xdnp3aGVrSk9VR3ZISUFnckxYVTN3NzNSU2Y3b3U4ZVpHaEE4SXhJZ0FkX0VzNmNiNFhVT0NKemw0THVXZlpVckZyQXRoWGVSSUdpUGNEQzdHdnpSUmVfQWRhZTREbjlXSjU3NTg0V1hLSnNJQ0EtNFhkX05RWjQ3bFE?oc=5",
+   "date": "Sat, 21 Nov 2026 09:30:00 GMT",
+   "vu_le": "2026-11-21T09:50:36.481974+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Arthur Hayes Tells Traders To Skip Bottom-Fishing And Wait For A Washington 'Bailout' - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSzFNeUc1Y3pyd3pvbGNENW1kLUxfZ21mNlE2WFU2QUxWX1QzMEd2aUp2aWhfb1Q3LS1fRGY2YTIzSkVHMFduVTJMWkJDQTRtQjZ3dVptUDRlcjE4OXUxc19Jek5tbG1sc1pHc0QzRHBPR1hPdGxzbTl4V0JGaVdqN0hBS2FlajQ0WThOSkFiR2tjNnZkQXhsVU1IS20?oc=5",
+   "date": "Sat, 21 Nov 2026 08:49:37 GMT",
+   "vu_le": "2026-11-21T09:50:36.481974+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "Le CAC 40 repasse sous les 8 000 points - Zonebourse",
@@ -6537,20 +6551,6 @@
    "titre": "Clôture Paris : le CAC 40 chute de 1,9%, sous les 8.000 points - Boursier.com",
    "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT3gxZTJBU2VQcDJnVGN2MDhQM3hhck5kVjNoZ3h1Uk9qWXZPZDZsRHduLTZ0ZGhMOUF3YW9FQjdwS3FPQUdqNUtEcExLTHptLXVvelIzZ3NMMjMyZ1lMNjB2blRDT3pQcFJPQWE4SEJsVVI2RDc1RUNNRlpvcm92MHB2Nm9OSkpKUzJvaVk3WDZVUnlIbl9xTFlpM3FnajlhUkRLTVlFWTBzcTdneHVaMnhQalFVRm9NRmdB?oc=5",
    "date": "Fri, 20 Nov 2026 17:00:03 GMT",
-   "vu_le": "2026-11-20T17:30:37.127167+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Datavault AI (DVLT) Stock Looks Undervalued On Founder Lawsuit Turmoil - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLUhKQVFGOEVvSXFhRGxkSTZVeXFud0gyTEM2cDdPTnNFN0o1Z3luZ1ZWalFjUzEzX0tiZ1FMeURTNkFWTnJXdXVhY0FDZmdTWmUxQXlGM1FxR0hxOXI5d3IwYWtLOXVoWERqVVNQN1VZcVlBVzlrd2l3Sm1NaGxqdHpORmV6QUNObndKckdpZUZQa2EzS3hCb1o1c1BKeDFTQmZvNWJrYkFkYzhfNnItQUJRc2FVSmZyTWRTbmpoX29OWEtOcE15TjdCYW9jeHfSAdQBQVVfeXFMTUpwaURqbTg3bWZhRWQxUFhYVG9LQXh6NUhkWEFMYXRfTkQzYmlMRUEwY2FTS1ZuSi05NDR1dWpZNEFHeG1JWEN2eHRxY2pjWGdDd2w1b0I1VWlRdGNNcWVPRlFzT2Qtdk52eWhrN1pxVXhQMVRDbXQwWlctMmpyZTJGWUxIWUJXTVJqT2NjYWowUEp5a2Y2UlVnTUxodk93REZpa0ZDLTAtT20xb0FYWGtEZFE1d05TUjBkLS1WOHRZTlhhX0ZrejBzOFd6WW9pOURUM28?oc=5",
-   "date": "Fri, 20 Nov 2026 17:09:29 GMT",
-   "vu_le": "2026-11-20T17:30:37.127167+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Can Mondelez's Emerging Markets Fuel Long-Term Growth? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaENQN0dCc013QTZ3WURGNlgtS21fdVhjbHNQT2JVVUZzelZiOVJkNkxjWi1XVTFnYlJ3THBVZGpJLXVaOVFmQTdQRDE5WVVlNElSUGlnTjliQzBQbzlvWENLTThMb0RIYXlhZWRDMjR1cUQ1Zm1WbVRlS3VQWUlSYWJ1X1JWclpRMUVXcW41SEtqbXEtQ1BaQWl5elNtTFZoQWV3?oc=5",
-   "date": "Fri, 20 Nov 2026 14:50:00 GMT",
    "vu_le": "2026-11-20T17:30:37.127167+00:00"
   }
  ],
