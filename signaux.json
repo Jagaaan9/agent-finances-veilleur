@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T13:50:35.938059+00:00",
+ "mis_a_jour": "2026-11-21T14:00:34.601861+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55349.09,
+   "prix": 55315,
    "devise": "EUR",
-   "jour_pct": 3.12,
-   "mois_pct": -26.02,
-   "volume": 304.06488189,
-   "volume_relatif": 1.46,
+   "jour_pct": 3.06,
+   "mois_pct": -26.07,
+   "volume": 316.50639514,
+   "volume_relatif": 1.52,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China's A-Share Style Shift: High-Flying Concept Stocks Hit Limit-Down in Batches as Semiconductor Equipment and Manufacturing Buck the Trend - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qOUF1V2hHOXVDX3RYQlJBS1VyN2lpbV9sc3ZHVFFEZ0lkRG95SlJieUdaanBoTHRyYzBtbV84cHZWZ0Jyel9XVHhHN2FNUnRON2t5aVlwQTM4T2xvUF9uU1JqaWh4ZlhyaGMtSDJ1WFZaY2VyeFE?oc=5",
+   "date": "Fri, 20 Nov 2026 15:25:00 GMT",
+   "vu_le": "2026-11-21T14:00:34.601861+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Stock Market Sell-Off: History Says This Is the Smartest Move Investors Can Make Right Now - The Motley Fool",
@@ -6545,13 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3l4RFFsS191QTB1b2VicGdIRlZESmozTURmT2NKbUFiMU5qVUZIcDdFM0ctV3p6Vmgwc2JoYi16WFh2dGxkTERLTHE5aW9jcmRHaF9uVGd4QXJFcHUyVzRndVRQTmZwcFZZbV9pWlFlNGZVNVNhWWp5MmQ3ckh0ZF8wTGRxeHZ0dUs0ZDN4SktpRVBCc1JqWEZsQVVJOXgzbFdBOUx1V011TEJGNENwbDIxNA?oc=5",
    "date": "Fri, 20 Nov 2026 19:32:41 GMT",
    "vu_le": "2026-11-20T20:00:42.848428+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic's IPO bank closed position meant to stabilize stock, removing source of support - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVpRUnlwbWF4cmpjRkg1N1ZnRU9Dc1ZIRFFQU3pyMHNac0tJSXlINUg5YUdLRl9mMUEzQTRkZTdQWHJwRkhJbmYyWV9VYkt4dDVTSGRib3VzbVVENWd1WWllZkhzR2E5SGhrNm5xOUM1QzBfdFFqZlNvNmJDUHFNeU1IdnRMclVkRmdsNTRxTWVZY0hQYWJHN05EZ2xxZTFORDZ0V1g2eWZEWnBGRnVEVVNROURGMVFCTzkwbA?oc=5",
-   "date": "Fri, 20 Nov 2026 17:10:35 GMT",
-   "vu_le": "2026-11-20T19:50:35.355254+00:00"
   }
  ],
  "erreurs": []
