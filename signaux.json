@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T21:08:14.099615+00:00",
+ "mis_a_jour": "2026-11-21T21:10:35.449846+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55142.48,
+   "prix": 55151.5,
    "devise": "EUR",
-   "jour_pct": 2.74,
-   "mois_pct": -26.3,
-   "volume": 402.23333538,
+   "jour_pct": 2.75,
+   "mois_pct": -26.29,
+   "volume": 402.33071869,
    "volume_relatif": 1.93,
    "capitalisation": null,
    "per": null,
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Wall Street siffle-t-elle la fin de l'euphorie IA ? - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmlxRTNwZElRWTBRSGl1VjNzS25LazZRWkRJZXZxTFVhaVhGLWstWjJFemxfaXY3dFRGX3ZKYTdfdksxTDJWVW5qVDJtQlhsTkN4WjRHS2kwR2Z4b2pBRW0zSTk3aFV4UTBYdmdJenhQaFF6dFF1MGxLS19Dakw5QkIzNE9yOHpHUjd1UEZ2S1pHTFZKTGRIa0RVWmJobXVXUFRBRTAyM3JlaUQydmFVSzBqOU1sbTBUTVQ3SnRnMnhEQUZwN2cxMkhXT3pFNkFGRmxJOW1VcjVSSUdGY3VvVFpn?oc=5",
+   "date": "Sat, 21 Nov 2026 11:15:00 GMT",
+   "vu_le": "2026-11-21T21:10:35.449846+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Otavio (Tavi) Costa : les hausses actuelles des taux de la Fed pourraient entraîner un krach déflationniste - Traders Union",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMjZuTlRCelc5TXd5UEZQU1k3TUI3NFhWU2pVSEI0V1dUTzcyYWJlSVU5UEVoNzY5T0pONmdDM05oZWtUSFZqM1RZamdGNkN0Rk5oenVibVpsWWdxSnBLVDA2d1Qtck1fc2d4OUI5eHltWmpMcC1kYVFDSXhHaUw0ZkNRSjBXRlItU21Db3B5dkQyalJt?oc=5",
+   "date": "Sat, 21 Nov 2026 17:40:16 GMT",
+   "vu_le": "2026-11-21T21:10:35.449846+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Adani Energy Solutions Bags Major Renewable Power Deal In West Bengal, 2,500 MW Supply Capacity On The Horizon - Free Press Journal",
+   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc2YxRzVjLWU0cC1YVW9iN1l5elNaaDZKRFUzWm9na19UYjBadDdwbFoxb202LUkzVDA4S0pYRXR4NERCa3czeFhkb1BJalF4YkZhRmxib0ZsQXYwbEt0TDEwOF8wdzRoamJEYm1DVmJwUXZlY2dXSjNyRkNWczZfQUJpaUtVT09kTngyZFg4bklyQ3F3RXE5REVqaENZeVFDUmZwdG4yT3lUUEYzdmE4WDNiMW16YVExcHQ0czVPd0NGZ09wMkZGVV94Y0VMeFRNWEZQbFdlU1FSZVFqT25oWG1yTdIB6AFBVV95cUxOOUgzWnFQdUNsb0JVX1ljZi1PSWQ0SGp6c3d4VkZ0RFZ4a2ZmVmNBSExULXd0aGlmVnZuQkNJWHNxR0c0U05HazhDNk9jQmo1WG0ySGpPYVpySU1rcEFaNnZWeGlJX2YtUmNwaWtGQk9qa3V3SmFtWHk2Q3BZSnJBU0RPQlViS2p4cDF6bXhpMG9ObE9iWEM1TVQtaXR1Z3ZGNVhESUVTRzlkdGVDWHp4VmNEbTdwY1l5aEpscng2OHp3bXM4OElvVXF0M1BaSTR1MDMtM1F1TzFXeHQ3YzhWM2RlYXVJM2h1?oc=5",
+   "date": "Sat, 21 Nov 2026 07:30:36 GMT",
+   "vu_le": "2026-11-21T21:10:35.449846+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 22, 2026 at 5pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRTBHZ0piMEZQUVRPRHRBN0laWlowQkVlRG9hV0pyRG5JbmxaVlZVZ29RanM1djdBX3pIbmFwRlh2R2c0Z3VFMDZiZWZKamM0WVVEU3FNSlBTdmMta0U3TXFqVzZLbnplTkFwSU5ZMDZwX0xYZ3g5UVJPSTJ3SzgyZExNQWhHMDk5dW8yWm9vVDJWOVlCQVRUaEVJM192Rl9rRjRGdXpGckxyemNPOEE?oc=5",
+   "date": "Sat, 21 Nov 2026 21:08:57 GMT",
+   "vu_le": "2026-11-21T21:10:35.449846+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "ETH price on Nov 22, 2026 at 5pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTmR4X3BRdldaM1p5Z0ZNWGFpWUFXS1pPQ1ktbzQ2d2tGN0dWWGY2clVoMFd4Q1RKd3h1UXNoZUVqUGZKUVFIRngtbGE2V0NtQjc0RXFiSmtQR1VTWlloUFlmZ0hLSzhBaEVPNnY5eE1RRmpOSUtEbTlnZGZCQjk2S3R5RWhzdHB1czVBWE5kVk5xTlZEdEtzNVF1OU5Fcnh2Q01xSUZHckU2YTI1Znc?oc=5",
+   "date": "Sat, 21 Nov 2026 21:08:56 GMT",
+   "vu_le": "2026-11-21T21:10:35.449846+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "Rivian Buys Chinese LiDAR via Singapore After Denying RoboSense Ties - Electric Vehicles",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNXNpZWlyU1lDbm0zNW1xV09wVlNTZHpwSkV1R2phb2tmLUVJMDIzR0dKX3pfVWgyeE1hb21oTW5TTS1veWJiRmtIem81eWVzMDlCQ3ctblM0Qm5TMWxuMm5uNzZNYmxNdERxbVN3eXhQajMxd3JIbXZKT3AtOVJoTnNidWhEbDlVZUlHSzVoeFBNRE5PcHllQXY5NGxFVmJpVHZMZVpYZWZHWE15bGY5S3hid9IBuAFBVV95cUxNV0V4WWFmdC1Gbnc4TWRGTUNadHpSWVZVVXFCZ3ZmSnRfVEV0VEl6dndNTFNReFlmTktKc1BONkNWdWY1SnJSVklwWlRSbEo3b3RYU01NVWxFNWp3c05XVHhtNXBRbnZzd2xySTFHYUlRTTlkM0JmNEpQY25VTjdTUmQ5TmFlbTRGaDBRdE1XN2RQa2x6RXhxWjB3d1FIV3ljWlRJeVpXVW5pUFh2OHhBM3RNUG9IM0o1?oc=5",
    "date": "Sat, 21 Nov 2026 08:32:16 GMT",
    "vu_le": "2026-11-21T08:40:36.357572+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic : l’introduction en Bourse ne dissipe pas les craintes sur l’IA - Leconomiste Maghrebin",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY21Hc013bkt3TlVTb3dxbjk1NnlUeU9MNTJpWjZSbkYyTTM3dk9zV3ZqRU1NbGZrT1U1TjFMUGVFSXI4RUQyeGpRTzNiMEFhSzdmUWItbHpxSmhFNDREQ1lWUS1QaUV2UHJkNFVmYk1lcGMyLVRRR1E0SWNGTVRQcnN2N01XWS1yclhMaGh1VXRRcjBwUmVxU2NLVUZza3R5akFhci1RYXZwTi1DdENnVkpGa0VWa0QxOXc?oc=5",
-   "date": "Sat, 21 Nov 2026 07:42:16 GMT",
-   "vu_le": "2026-11-21T08:30:35.549940+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Asset managers highlight resilience despite weaker results and outflows - thenational.co.za",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcGZtY0ZOWGMwcHhpSi01MWFMMlZPTC1wOE5zbjJTY2dEZWFRTDYtSHlDODVXNTAySmlZeTNFWEdKMW9MdXZ0OEJDU2lIcGJzVGNyU1FMTXVLYmdFRHVTZ2JGYXg5RFlDVmtXRExndlNUdTZCdlB1eTdibDMzbG5DcHliQWhuOFl6MTAwNFdsbjR6X3Z0bUcwNUFTalR3b1l5VVhfNmJURkhlbFkzSG1XM1JsaTE?oc=5",
-   "date": "Sat, 21 Nov 2026 08:00:00 GMT",
-   "vu_le": "2026-11-21T08:20:35.729902+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China’s Popular Dining Bar Chain Starts Global Conquest in Hong Kong - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlpkLWlZbDk5VlJtTGNxQ3Q4bW8wWGRVZ1A0YWJQMXFHQlZIUy1rS2VMMUVOVXNBcUIxN2E1dEluSEVIbjFvZjVWQ1RhYUktMTU3WVJfelZ0MG1mcTRhck5EbGU3SkxITlFBY1dQZDBySE9lbjdMWUpUNmNwN1JhYjAxTFF6Nl9wZEZfbUU3Z0QxZTR6NDlaM21fU0s0bkpLMFhlZUtscmFIRnFkdm5OX3REZllkbkdCQzRudDNuODFjR2JS?oc=5",
-   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
-   "vu_le": "2026-11-21T08:10:35.243799+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "CrowdStrike-Zscaler Reported Merger Talks Could Spark One of Cybersecurity’s Biggest Deals Ever: ZS Stock - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTmpLTHpTZk9UNXl1Rm5FV1hnMDdKUzJPREhqdmR6ampUdnBxdmg3YzhWVFZRRlFYOTJVbEVoSmFZN3B4Y1RVQUVnWTN6cVNQbExkNURjZEVZMkhqTlE0Y1hSVWtIMmM4eHBhR1BoU2tjS0hlS0N6MTYwVDBkT2JyVksta1lMZjlscFk2MFZn?oc=5",
-   "date": "Sat, 21 Nov 2026 02:16:54 GMT",
-   "vu_le": "2026-11-21T08:10:35.243799+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "5 Undervalued PSU Bank Stocks with Improving Financials - Equitymaster",
-   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR3BhLUFfLTB1cTZaMVRvb3dVUllsVjVWSTh3RlFoVjVCRms4TzR1UXBneU80azdmXy1Ua25UVlVITW5HNG03TWdPVENfLVZGNW5YQXpWLUZ2VUZ0Z3ppeVlLc2NDUzIwd3ZBNTBvOEJfcW5ldGREdHVpVzEzX3FqS2lxS3VHbW12RERjTlVZVll4a3NBcGJhNXBOWVI0aUMxSTBhaDA2bWJGVWI1ZW02a0p4cHFmejY2WjlVNE9Kajc5cDQ?oc=5",
-   "date": "Sat, 21 Nov 2026 06:38:37 GMT",
-   "vu_le": "2026-11-21T08:10:35.243799+00:00"
   }
  ],
  "erreurs": []
