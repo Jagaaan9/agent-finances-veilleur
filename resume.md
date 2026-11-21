@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53804.21 EUR, jour 0.24 %, mois -28.09 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53813.73 EUR, jour 0.26 %, mois -28.08 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -32,12 +32,12 @@ POSITIONS ET INDICES :
 - China Rare Earth Holdings Limited (OTC:CREQF, secteur Non-Energy Minerals) jour -99.4 %, mois -40.0 %, prix 0.0003 USD, capi 248969543.02837998, PER None, volume x11.65 la normale
 - Canadian Solar Inc. (NASDAQ:CSIQ, secteur Electronic Technology) jour -24.94 %, mois -39.25 %, prix 6.02 USD, capi 408738466.52618456, PER None, volume x4.73 la normale
 - UBISOFT Entertainment Unsponsored ADR (OTC:UBSFY, secteur Technology Services) jour -21.67 %, mois -36.24 %, prix 0.6794 USD, capi 635500653.10923, PER None, volume x21.94 la normale
-- Fundrise Innovation Fund, LLC (NYSE:VCX, secteur Miscellaneous) jour -19.9 %, mois -41.01 %, prix 14.01 USD, capi 495782208.9, PER 1.8, volume x2.76 la normale
+- Fundrise Innovation Fund, LLC (NYSE:VCX, secteur Miscellaneous) jour -19.9 %, mois -41.01 %, prix 14.01 USD, capi 495782208.9, PER 1.8, volume x2.77 la normale
 - New World Development Co Ltd Sponsored ADR (OTC:NDVLY, secteur Finance) jour -19.65 %, mois -60.31 %, prix 0.13 USD, capi 721732681.1954199, PER None, volume x1.36 la normale
 - Keel Infrastructure Corp. (NASDAQ:KEEL, secteur Technology Services) jour -19.59 %, mois -44.11 %, prix 1.375 USD, capi 849590312.6461987, PER None, volume x1.31 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109642.747604, PER 5.1, volume x99.36 la normale
 - Sinda Limited (NYSE:SIND, secteur Non-Energy Minerals) jour -18.69 %, mois -16.99 %, prix 9.09 USD, capi 1443409261.4865832, PER None, volume x7.17 la normale
-- Northern Dynasty Minerals Ltd. (AMEX:NAK, secteur Non-Energy Minerals) jour -18.64 %, mois -51.72 %, prix 0.4152 USD, capi 233526590.1139726, PER None, volume x1.95 la normale
+- Northern Dynasty Minerals Ltd. (AMEX:NAK, secteur Non-Energy Minerals) jour -18.64 %, mois -51.72 %, prix 0.4152 USD, capi 233526590.1139726, PER None, volume x1.96 la normale
 - MARA Holdings, Inc. (NASDAQ:MARA, secteur Technology Services) jour -18.57 %, mois -35.1 %, prix 5.085 USD, capi 1969961521.2009609, PER None, volume x1.12 la normale
 
 ÉCRAN États-Unis : volumes anormaux :
@@ -300,7 +300,7 @@ POSITIONS ET INDICES :
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272911458.269, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1524081966307, PER 1.6, volume x1.51 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -2.98 %, mois -7.84 %, prix 310.68 USD, capi 825044799619.819, PER 13.0, volume x2.02 la normale
-- Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour -13.89 %, mois -35.64 %, prix 594.51 USD, capi 672642419577.1702, PER 8.0, volume x1.84 la normale
+- Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour -13.89 %, mois -35.64 %, prix 594.51 USD, capi 672642419577.1702, PER 8.0, volume x1.85 la normale
 - SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour -13.11 %, mois -28.75 %, prix 103.57 USD, capi 621492977207.6415, PER 5.8, volume x2.05 la normale
 - Industrial and Commercial Bank of China Limited Unsponsored ADR Class H (OTC:IDCBY, secteur Finance) jour -0.2 %, mois 8.06 %, prix 19.97 USD, capi 455053020458.69653, PER 6.4, volume x2.0 la normale
 
@@ -317,6 +317,8 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Watch Anthropic IPO Could Mark End of the AI Trade - Bloomberg.com
+- [Petites valeurs en croissance] Coherent (COHR) Stock May Still Look Reasonable Despite Fresh AI Optimism - Simply Wall St
 - [Anthropic (FR)] Anthropic IPO Buy wait or avoid Seven questions investors should ask - Saxo
 - [Anthropic (FR)] L’introduction en bourse (IPO) d’Anthropic a suscité une demande des investisseurs particuliers supérieure à celle de l’entrée en Bourse de SpaceX - Zonebourse Suisse
 - [Anthropic (FR)] ENQUÊTE IMMÉDIAT-Le Nasdaq plonge de 5 % au lendemain de l'entrée en bourse d'Anthropic, mais les investisseur - Boursorama
@@ -457,5 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost - The Block
 - [Crypto] Bitcoin crashes below key level as extreme fear grips market - Yahoo Finance
 - [Anthropic] The Climate Question Hanging Over Anthropic’s IPO - Time Magazine
-- [Anthropic] DW News. . Protesters gathered outside the Nasdaq stock exchange and Anthropic's headquarters as the AI company made its Wall Street debut. Anthropic raised more than $81 billion in a record-breaking offering that valued the company at $1.5 trillion. #dwn - Facebook
-- [Anthropic (FR)] Les difficultés rencontrées p
+- [Anthropic] DW News. . Protesters gathered outside the Nasdaq stock exchange and Anthropic's headquarters as the AI compa
