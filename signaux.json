@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T05:20:36.300775+00:00",
+ "mis_a_jour": "2026-11-21T05:30:35.075082+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 51261.33,
+   "prix": 51237,
    "devise": "EUR",
-   "jour_pct": -4.49,
-   "mois_pct": -31.49,
-   "volume": 113.53503385,
-   "volume_relatif": 0.54,
+   "jour_pct": -4.54,
+   "mois_pct": -31.52,
+   "volume": 115.94155326,
+   "volume_relatif": 0.56,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 4929084342,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 4929084342,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3323658863800,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3323658863800,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3323658863800,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "La Réserve fédérale est confrontée à des désaccords internes concernant sa politique de taux d'intérêt. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUWNhV29PZXR2NENKdkdEWVhVT3BSTWd5X29oSGxmOER3eklwVUtSVDRTS2d6eDdid1RmOUFlTWpqanZ6dklseTlKNDFaQlllS1NnVUJOM1FRSVlPMHA5aS1yLWs5MGVraFBoZW5QNXJQOWJyaHdOZHhua0M4b0t1TXlR?oc=5",
+   "date": "Sat, 21 Nov 2026 05:23:06 GMT",
+   "vu_le": "2026-11-21T05:30:35.075082+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "BTC price on Nov 21, 2026 at 1am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXItd0taVGFqYnpELVlmREFrYkZJR3NVd2FIcThCbVUyZjZLci0xaDVqQ1oyZnRnTHNGS2c4U2RfYzZzUnF1R2VpRmJvQVlXS2t1YWtmWXJIUUNBVWQ2TTVURXFDRE4wV0ZRM0pwTno0TVpOVThBS0FpU0dyeVcxT1lVakE4YTZhbE1ZT3o0b2pzcE9QR01RWWNVbnJIZ0tpaXZTLUphbWZXcnVpWEE?oc=5",
+   "date": "Sat, 21 Nov 2026 05:26:48 GMT",
+   "vu_le": "2026-11-21T05:30:35.075082+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Falls 3.57% to $56,814 as Valuation Concerns Weigh on Markets - Global Banking & Finance Review",
+   "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52Ynh0ZjBBRkE5TEpiTThkcDByMFl4Mi05LVZlaUxfYU04OGJzLUI0SmVmMXlWaGtJOFpOTTJpRWdMR1U3M3lDdjJUVGNKSlluNGc3cUd0MUtFQ1VJNW4yVkt5T3FFb29DdWxKc0JfWC1yajE1?oc=5",
+   "date": "Sat, 21 Nov 2026 04:15:54 GMT",
+   "vu_le": "2026-11-21T05:30:35.075082+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "Le dollar américain se dirige vers une quatrième semaine de hausse consécutive sur fond d'anticipations de resserrement de la politique monétaire par la Fed. - Vietnam.vn",
@@ -6530,27 +6551,6 @@
    "titre": "Markets react to Anthropic’s IPO - NBC News",
    "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnY3M0NvaFh4RE55MF9haHhEY3JmOWh1UUlhU0dkUjhLazAydlJoQi1OazhJY3gzN3JkWlRLZ21Td1hyVENETlpadThDdks1Y095SUd0OFF3dDJkeFN2MC1PLWZseDFWUnJFMjNIRE5VejhVYld1T3p1T0R4bjZhaw?oc=5",
    "date": "Fri, 20 Nov 2026 14:29:49 GMT",
-   "vu_le": "2026-11-20T15:30:36.361244+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Share Slump Nearly Erases IPO Pop as AI Trade Unravels - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWx3SUw5VXNrMldJUzZ3UnQ4SGxJWXBHNTEwcWViWlJhMC1GaVJQZ3ZWNXdmajdFR3N6SHJaYlU2c0ZJcTFaOGpRdndOU0d0enNJdzdMY1NYdWt3Vk1QMnNSTFZUcHp4dXJCOUItQzJFck5GZDlkNXppT2lCRmJhcGl0bW80cEs2VVhTd240Q0pWRFFEUUxFTHo0VVVjaDVCc3hqVnJMSnp5Mm9UOHVObk9EakYxdw?oc=5",
-   "date": "Fri, 20 Nov 2026 14:36:49 GMT",
-   "vu_le": "2026-11-20T15:30:36.361244+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Après une introduction en bourse record, l'action d'Anthropic chute de 9 % - France 24",
-   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0dCdzlSYmY4RzJreEZEbFVTMFpXNG5MM0ZuclR6cndPdEEtdDFqMHBTR1Y2ZWpvV282VnN2UzBVWVlfM04yRm1saUkzeXQ3aUE2MWRfb3BMQXBrQ0dDZkxkdllhOHUtcGV3YWpleUkwT3hWMzBvZTZxbG5LQWo2MG1lb3NIblBWbU1xaVNabWE1dGpLYkdsX1FiMkdtT0VjaGY3cS12WVVvUGIxSi1jMmRaRHpvdnR4SENyS1hFbC1SdC1YTXc?oc=5",
-   "date": "Fri, 20 Nov 2026 14:46:33 GMT",
-   "vu_le": "2026-11-20T15:30:36.361244+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic chute de 9 % pour sa deuxième séance à Wall Street - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUEc4R0JYdDMzMV95OFA1NGZadlNzYTRxYTM4TDlHd1lVaE1QYjJMM0pCOHZrbjRDVldlMnJKdU13ZndHc2hvRFR5WUxjVERDRGM0RkRseEpxRFllOTd3aV9heW1FbVhSUW5nWDVnUW9LalRqTXdvNE9OS3JmX05WejgxTVhDenhFaThXNXh2eUlFb0tCT25TZ3FVRlpydXZaMG44ZFczWFBfWjJrQ2xqS0FCbWF2cm9qc2YzRGRQanNWZFFTdUpsamRtdTZhZjJMdmp0bDNBVWVEM1B3bXd1MFVQOWZaMlZwOXFFeGtKendyZDNGU25r?oc=5",
-   "date": "Fri, 20 Nov 2026 14:44:00 GMT",
    "vu_le": "2026-11-20T15:30:36.361244+00:00"
   }
  ],
