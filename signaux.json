@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T07:10:36.449188+00:00",
+ "mis_a_jour": "2026-11-21T07:20:34.920649+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53346.24,
+   "prix": 53208.95,
    "devise": "EUR",
-   "jour_pct": -0.61,
-   "mois_pct": -28.7,
-   "volume": 145.14870055,
-   "volume_relatif": 0.7,
+   "jour_pct": -0.87,
+   "mois_pct": -28.88,
+   "volume": 147.4393133,
+   "volume_relatif": 0.71,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 4929084342,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 4929084342,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3323658863800,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3323658863800,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3323658863800,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Global Tech Selloff Snares Chinese Stocks Amid Doubts About the AI Boom - www.citynewsservice.cn",
+   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVndDRDZpcG1yMmxhdmNXUW4xUk81aEVfSG83cC1wVkcxaUx6UkxFeGl1bzBCM3ZZYURLczRocDZyTnRZVEE3cWlkX3R4c0Q2VU5GeTJCem9sa0tBS1pPSi15Snloa2lNV1JlaXBsNXVWWXJJRWRQbnY3Y3VWMmYxbDBqZTRxUG1OOXB0Z0ZaNHRsVjFUQTIxYTV0WFZybFNfSER2MmtYUFNIdVFnVmMtRVdnWlBCRC16QlBhQ3MxcVVRekN4Z1E5NU12LTNtdjZIeG92UGs0cTQ?oc=5",
+   "date": "Sat, 21 Nov 2026 05:48:38 GMT",
+   "vu_le": "2026-11-21T07:20:34.920649+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Indian markets may see reasonable upside over next 12 months; FPIs unwinding underweight positions: HSBC MF's Cheenu Gupta - ANI News",
+   "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZlZ0WVBoQ0s5cGZaa01xNktrc1NaalNtdXlJNEstdXloY3lDY0tkUWtCZHlfQmlfUlZIZTJINWRiR0ZzOTMweURsWFdXdm8zZU9WV2NScGxRUlR5dUo4Y0I2RWhuaW5JZm1xY1Y3dVBWSWJqNXFoalg0RklXOU0wZF9vWVRwOUxvTHVXRGVIQjVkY2pYcHpzRUlkYjVSb3VNZnVrdW5xUkprR0pHMUY0Uy1XQ0k5TWxmTWJkUXZEOUtxV0dqZ2owRHUyYVRiTFpJUmJPenl2NHBhVFZGWElLLUJUb0wwZFM3ZG9IcjJXTkcwTXVvelk3Tm53NkpFc2s?oc=5",
+   "date": "Sat, 21 Nov 2026 07:10:00 GMT",
+   "vu_le": "2026-11-21T07:20:34.920649+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "BTC price on Nov 21, 2026 at 3am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOVNQYl9RekFuNVptem5UUkZteDdGX0YyVWtQLTlfS210X2ZVS3d5TnJpUFl6NTFXeG9WSGNGeWVoSERNOFpwZkxnR1NXeGExUkZ6ckpnWUlHY3NZdVVHNFR5aEZBYXZmd1JZVXBpVEk3WlFJamxOYlFtSmRfX0xwQUdodWRqTTROVFpqRkx1N0dKSXFjYVJTalZrekxfWWZZR1FfeDlFU1pBVUhPb3c?oc=5",
+   "date": "Sat, 21 Nov 2026 07:10:15 GMT",
+   "vu_le": "2026-11-21T07:20:34.920649+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 21, 2026 at 3am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNVB3VFRaRFhIN1MyOXBxN0JPYTRGQkF4SFRBTEx2Y3h5OEVDWEJaS09BYjFjTXBvb3NNX3kwYjBzNG44Vmh3UFladmxOUjF2ZUJJeXJFaVNMUTNWc1ROYUtwZ3BHZktKdkl0WkltMjJNR1dhVnRsRDBwOS1qY0tFc0pyVTdvZG9VcGFqM2Y4QjVkZXNjYlNGTkxvRGM3TDQwWklOd1dZRzh5a1JoLXc?oc=5",
+   "date": "Sat, 21 Nov 2026 07:10:15 GMT",
+   "vu_le": "2026-11-21T07:20:34.920649+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic IPO fails to prevent a tech stock wipeout - Morning Brew",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VMUZOeVFlRUZTZ18xTVNCa1VRU1RHOEtyZ1RWTVhydEtsb0VVblItLXVnQkJHY1RiUnpWR0ZxVHpIUUFpNjJfenpDR1hicV9kaTR3ZzJhd2s5eENEZ2E5aHhleVpPQVQ4QkNWLVlrdnVGVTZEWmtJMThzSTM1UQ?oc=5",
    "date": "Fri, 20 Nov 2026 12:29:38 GMT",
    "vu_le": "2026-11-20T16:30:37.260630+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Chinese tech firms fear AI hits from US curbs after Nvidia fallout - The Washington Post",
-   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeDJqdTczaVp5cllkNlJUU3UydmpMSjA4QWpyT1VIZ1NReUhrLTk0Y0t4Qi0wZ1UtbV8zRHJPV3NpZ2owZGFzd0RxUEFNWkdnZE82Q0h3YVJVZDBJdVo4YWpSdE5TRFkyUEpoU05ob1pLU2VBdGhObFdYeHRvOTVCeHMwSThLSExnd1JHRUpoNnF5ekJRang5MnRqbWVySnN2NVFzNnBGYlFQQzE0cE1qVXR1R1Z5NTZsTmk3UVB4al9GYmhLMUtRaVUzNXFFWUUxVVE?oc=5",
-   "date": "Thu, 19 Nov 2026 23:41:27 GMT",
-   "vu_le": "2026-11-20T16:30:37.260630+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Investment Managers Positive On AI, US Tech Stocks In 2027 - Family Wealth Report",
-   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUNNSlk2c1hGOC1zUkpJUlRCU2FPT01LSFRWVjREN3ctMFVZRmFPWkNQRGxLUF9jNDZQUjAtbFJ5Q0F6dFU1TGNuU2RRNE1xMEZqWEcwNzMwYUF1bDlZT2l1ZUlOM1VHVlVweDdoSzE4aUhvVlQxZllFNll3M1RDYklqeFRIT0cwQnI5QUtmUjlOQU9RVkRlQ19JdXR5M0FKTERRaTZnRUpNSjg?oc=5",
-   "date": "Fri, 20 Nov 2026 12:35:28 GMT",
-   "vu_le": "2026-11-20T16:30:37.260630+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Should You Invest in Anthropic? Here’s What to Consider. - The New York Times",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jWUVoNlRPZ2V0RFJGNlh4NDl4a2ZlYlB3Y1RwbmxnQTdhU3o0OW8ycFdzTUtCR0lxS0lBTnFWQUV6UjA5a0FvWFZSLXdTVURCWDcyWUdPRFlmd1dNMDZkUnNwMlZMbE9ZNHcza0RwVldxTWt4RTBXQktqQkx6STQ?oc=5",
-   "date": "Fri, 20 Nov 2026 14:39:00 GMT",
-   "vu_le": "2026-11-20T16:20:36.071512+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Bessent préconise une hausse plus modérée des taux de la Fed et invoque le choc énergétique - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1OTE4V1NuUXJwcE5pR09WMkJnWnhFR2htR0dncmpRdVQ0a2RRTkxTVmdaT2pHamFPelZiWF94ZjBZVHhXYnJDMlZoelpOYXFEbTVURkd3M2Z5VHlScFZoS2tuRHJmR3ptRFJXOGVZLUlzcDJmc1pJ?oc=5",
-   "date": "Fri, 20 Nov 2026 15:44:07 GMT",
-   "vu_le": "2026-11-20T16:20:36.071512+00:00"
   }
  ],
  "erreurs": []
