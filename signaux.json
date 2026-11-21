@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T16:40:37.272198+00:00",
+ "mis_a_jour": "2026-11-21T16:50:35.121738+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54712.33,
+   "prix": 54835.31,
    "devise": "EUR",
-   "jour_pct": 1.94,
-   "mois_pct": -26.87,
-   "volume": 362.35976087,
+   "jour_pct": 2.16,
+   "mois_pct": -26.71,
+   "volume": 363.09071305,
    "volume_relatif": 1.74,
    "capitalisation": null,
    "per": null,
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "L'Espagnol Pablo Hernandez de Cos s'impose dans la course à la présidence de la BCE - Les Echos",
+   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSTFjdEJyZkpXQXNmV3d1Tmp2TWh5MjhOeVVMYTcyUnFTdGd3d1JpX0xUMzVmZUdjYkJuSzNmTUFiS3UwN2ZRQWpteHVXa2hYSlhfdXJ1SlBFcTgtSk5GTzgxRkU1UXdjalJaMC1pWF9HdVlPQTJNenRTRGQtb0tiemM1UjZXWDBwSVNYbHNvYUZaWnJ0Z0lUa1NNUzZ6eWpiZkpfQ3VaZnVrTVJhcTVlbEtzc01GNDM3R3RVeXZMUlFCYWVNWFMyQlZzZFRsUVpxd3NKT1B0QTI1RzdpVkZyTHp3?oc=5",
+   "date": "Sat, 21 Nov 2026 08:25:09 GMT",
+   "vu_le": "2026-11-21T16:50:35.121738+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "BCE : l’Espagnol Pablo Hernandez de Cos sur le point d’être choisi comme successeur de Christine Lagarde - Le Figaro",
+   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS2xDMW8tdzNtMXh0NDlHMF9KVUlwYk91blNhYkxwZzB4ZGVuemNkSFhNRkd2N0NLODE3OF9qUkVrUkN6Q2tuckJLRDZBekY4bXNBSG5mRkFra3VMSzNRWjBYRVRqMkIwU1RTaGpISEVHYVV3UW55Qk5DUTNxQ08xNWh3ZWo1ajFEZWg1S3EwRW8yTUpWYTdzbFFUOFk2clJXSng0VG5QZ3NDVGVYZHlYSWcxX2U2Z2ZYQkNNdzBBdW1HU3NqWlBqUFdKeWZnWG0waHZUcVdFYk50eGhKMUVydw?oc=5",
+   "date": "Fri, 20 Nov 2026 18:56:00 GMT",
+   "vu_le": "2026-11-21T16:50:35.121738+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "La gouverneure de la Fed, Lisa Cook, estime que le FOMC ne peut pas se permettre d’attendre avant de relever encore les taux - Zonebourse Suisse",
+   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNzFaNktoa0Ztb0c5NUtZV1o4QXQ5VWhlcHRZU1FHOHh4aXIybXpiN3NYSktiZ2RoZWhyOHJxZk1naVZ1aU5yLWlMdENNVmM2dW5hSk5DaDZtZlVCUExUblJaamRrN3k3NjhJZ3FabHlvTEZ3N0YtV3Y2SlBqMFBSRDlrTmpaYU1YdjZYYS1POEFlODBMcjBBSG1nbzBvMXNGb0ZjWXE1QTk2elBwZEotdG1ZazQzUFJ5cmJmV0dLV3hGNXdvbHBwTTk0QlZLS3VmRjMzQ3lOVF81bFNRU3RHeDV2OHFKWTZXZGI2Vg?oc=5",
+   "date": "Fri, 20 Nov 2026 17:37:26 GMT",
+   "vu_le": "2026-11-21T16:50:35.121738+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "TCBX: SEC Form S-4 filed by Third Coast Bancshares Inc. - Quantisnow",
+   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1Z6cnVWRVkycjQ0Q2pPMjI1UU14S3NIWkxoY2FpdlZjQmtNbFNXWlcyNWw2eFVUVFpTSUU2a0VLcDZ5WGJtS0JPUFNDWXEtNElYSldVSm01bXVyRlc4NDg3ZTA5NTQzV2prSW5VZkppUi1jYXdNN25QTlJweko2NjJQckN1RUZHcnUzN2tScmQ?oc=5",
+   "date": "Fri, 20 Nov 2026 22:20:42 GMT",
+   "vu_le": "2026-11-21T16:50:35.121738+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Lululemon Athletica (NASDAQ: LULU) Stock Trades At A Deep Discount To Colgate-Palmolive (NYSE: CL), But The Bargain May Come With Strings Attached - Foreign Policy Journal",
+   "lien": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQnNERDcxOFB6dUpadmpJSW1XN1RIaXlHc0xlV3Y1Wk9QM25nb3UybklFT3BEeTFxUjZic1JMaHF0SXNwbDljUlUtQ3N6eEJrZlFLcVN2ak5WeENoY0dIMEdfMHRoWkhDaXlza2NPUlpySUYweGFrT01BQUhndFVFR3FRWDVpeFEzQmJpVWNZQXZwWl82VTBVQ2VMVTc2Q1BqX0RpMVFYSjBEbEdibjJJblpCOUk2TUh0Tm5mZjZxNW4zczVkZTBkWEROelB1QmdIdXJ5bWY1VTBQV3d3UlR2NWRLcE5Sd3k4dFl3dHlQbDV1aTd2bUlxTXpBRk1yQV9CVzlsdGpON3F6VFJXVnk2UlU5aGxUT2M?oc=5",
+   "date": "Sat, 21 Nov 2026 16:44:00 GMT",
+   "vu_le": "2026-11-21T16:50:35.121738+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Anthropic vaut 1 600 milliards de dollars après ses débuts en Bourse - Brief IA",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObkx0Ui1ETVZ4bWFDSFFjckd6Y1l3LWxkWHdGNUZmVFdXMUVVN0pQc0loVlBXTnlMUUtJY2xWalhvenhwckQySldVV2xTRlhQRDJqckRRdGlOOWFXTXVIa0RBNUl0bWxFOEt5MmItRHY1MGZEMTg2dWJ5QVJlQTVJR2YtTm1fcmZEUXk4Z0pTODZQZGs?oc=5",
    "date": "Sat, 21 Nov 2026 00:05:42 GMT",
    "vu_le": "2026-11-21T00:10:39.893441+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Hua Hong Grace Semiconductor Limited (1347.HK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KZ2o4dHNDQjVsTk92c21XRGFtWHctcENCal9iaXM4Nms2MzVYYVlRWWdqdHZReUNLNlJOa2hYdThNUm5WVXI4TEJuQ2xHVU1iUnZOQzdn?oc=5",
-   "date": "Fri, 20 Nov 2026 16:27:59 GMT",
-   "vu_le": "2026-11-21T00:10:39.893441+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Chinese tech firms fear AI hits from US curbs after Nvidia fallout - WHEC.com",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1B6bklfQVJsbEZ4OFJNbDhXV3ZKOXh1SnViNHdJdVBPZklsWnUxQnpuOTV4VVhzMlJCVmdzQUJKYzZZa1RZMjJkb1RvTnpQSU02Y0wzVzh0REQ0cDZ3bmhRSnJFWjZJUUVLNkc4MHpWeDY4SnZtOTlYTVR4VldDOVhYejNxY3VXRksyRTZwVFRVX3NPakh6ZThwQlJWMEtEY1E?oc=5",
-   "date": "Fri, 20 Nov 2026 00:19:52 GMT",
-   "vu_le": "2026-11-21T00:10:39.893441+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "BTC price on Nov 20, 2026 at 8pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVHdMc2RFUzExcXE1T2ZvR1JBbXNvd3BfTkJocTRpLW1XQjBGMWRMbEE1RHNkeWtmRC1wMWFaUUVCd3lQdndmUUhoSndmYTc3WlEwMlJRdjk1Q0FaWE9CWkd4cG1rUnlDWkQ5MXNYVjgzX1J6Xzc0R1hQS2o1cjFkbUhKb21CMXdWbkQxZG1EWXJRaEFQOHVhdXlzUFBzMW41djdkekR6WjQxNVZoVHc?oc=5",
-   "date": "Sat, 21 Nov 2026 00:07:21 GMT",
-   "vu_le": "2026-11-21T00:10:39.893441+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 20, 2026 at 8pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZU1RZUwzWHdkaHBtUzVpM2lpUEljb2gzYy1NeXczY1BVYzlnQ2dVeXQwTkxEbV9URjRwUlo3YnZuUVBFN0dGOG55aTZDdHVfYlloMVE5S2RGcXJLcU1wOEtjMWhrZ0hRSkY1TTBPRVRIeFpPaUFKRUxIVE1rcE5aR3RWaVVyMW0wTWNrUVJQUXN5Ui1wS1JkbjE0N0QyTVZDVzE2QXQwOVE4cTBkeXc?oc=5",
-   "date": "Sat, 21 Nov 2026 00:07:21 GMT",
-   "vu_le": "2026-11-21T00:10:39.893441+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Gap Stock Rips 17.6% to $22.10 on Q3 Beat and Old Navy Turnaround; $25.50 Upside Target in Play - TradingNEWS",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ2IzVHFTNUxRd3lQRWVEUzZFNUhHUWQ0QV9CSzhsZmpXT3BCYUE4UXE1WlRULUk2TTFXUWxjOFZLenBTckUzVVN4TVB3ZDVDM0w5X3kzXzQ0SWUwUmloMlJVZTJ1MnJyVFdLQXdSVmo4Z3cxMDdpU2xSRDZkc0NfQW1DMDJYdnY4cEZjUlFJa3o5ZEtiNU05TzZGMUhRM0IwRnNoVUZWRlE2ME1rakM0S3RtTm9YTnFaU1dPQ0RnbnpNclBQZVF3?oc=5",
-   "date": "Fri, 20 Nov 2026 17:44:33 GMT",
-   "vu_le": "2026-11-21T00:00:35.763575+00:00"
   }
  ],
  "erreurs": []
