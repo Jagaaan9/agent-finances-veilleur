@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T19:00:35.799511+00:00",
+ "mis_a_jour": "2026-11-21T19:10:35.878479+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54848.9,
+   "prix": 55027.08,
    "devise": "EUR",
-   "jour_pct": 2.19,
-   "mois_pct": -26.69,
-   "volume": 381.87586725,
-   "volume_relatif": 1.83,
+   "jour_pct": 2.52,
+   "mois_pct": -26.45,
+   "volume": 384.41288924,
+   "volume_relatif": 1.84,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Intelligence artificielle : les secrets de l'entrée en bourse record d'Anthropic - CANAL+",
+   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUgzUmFiakRtV2tweWRQRDZpUy1VVjZRdF81TzBqWnE0eDRmRzZFemxTbWJMcUQxby0wZEV2ck13b0ctLWlHMlFHcW1EWmtVUGZkUmxWWGZWakVkSk50anFMVEtwelRYSDVvbjVWZGJOWUR0VmNieWhWdmU0Z2ZOS3d5R011OVBqU0h3MVVtNE5ZSHJxaVZwRXBJVm45UnVlNjUteXhlWExqRV81UlFyQ2cxTW5vUlRXRFJGTWdjSmgtSGdnOWprWEdWMEstZw?oc=5",
+   "date": "Sat, 21 Nov 2026 15:26:25 GMT",
+   "vu_le": "2026-11-21T19:10:35.878479+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "CAC40 : une baisse de 5,3 % sur la semaine, sous les 8.000 points - Le Revenu",
+   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa1pOX012OEd3QmZtYno0ODk4STRqalhsNzAzYVV1WlMxNUQtWm9TelFkUm5pSlpGRnp1ZzI1SnVzNllIUW5jNkZMNkE5dlgyOFVZOXdYUDZGdG5UcjJNZ2wtQnBsdjBXWDFFd2JkR3liQ3pVd1dpOXRoakdoaXJXYXl4c3lpTGNJUWlvN1JMaW1pVXZBRVpiMXJvMlBkTFloZnJ4ZkRyNlFObjMzQXk2MFNCbmp3TGVuNjI4UEdDcEVjRXVheUNFbA?oc=5",
+   "date": "Sat, 21 Nov 2026 07:00:00 GMT",
+   "vu_le": "2026-11-21T19:10:35.878479+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Worried About a Market Crash? This AI Stock Should Bounce Back Fastest. - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWkVxTzhPdGZDdnhkbWFMTmlmeTdLMm1mYlEzUldnMGJfYWhMWkEtUWxIZnJDckxPWFVqdzAtSlVyaF9VSHJ1c2JMS1NXajVVMmZTTURoQmhvWjN0U1JyYVN2ak8xMXdldDdQRkRIVFRsNlR5RXNwaWYwcjJaaGdBMV9tMmU4Yk5CQ0xQcW15bkJhcEJ4MmxkZGRSZmQwMUZ6NUwzM2Rkd05kZm0ySU53U1BnSERUTU42RGREUG9NVXJGb21YWWl5aVp6OGoyUFItMnpJY0tha25vSXI0aW9vTHkxUkc4UFBtT0E?oc=5",
+   "date": "Sat, 21 Nov 2026 18:55:34 GMT",
+   "vu_le": "2026-11-21T19:10:35.878479+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOb0hkRGZyZGN5Z2lLaW5UN1NhOWx5Wk8wRkM1bnZCam1Ndm9idVRGUktMUzZzSzVleVZqY21PNWgzNVpHNU5qTDdLUFd5R0R2SWRKZHFGOHdULXNsRFlsbzdUdGoxSXV5Q3F6NFc2SjB0YXB2azA4cXNFc2N1TGpxWVIwQ2JnbFdyZHliS3pMeUJkd0FUREJ2bmI5UFFoZ2ZoN09McEVfQnF0bHF0WnFTTUpnZzA0Q1dDVmQ3dVJweDVmYnZYT3EtM19RbTFLb0dXdFNPejNTdklkOFM5VXNtWE5GWkN1bGUxTTVRRkRUX3llYWYtOXJEVmxoald2OHZvbWxFOThnZEFremV6?oc=5",
+   "date": "Sat, 21 Nov 2026 12:03:01 GMT",
+   "vu_le": "2026-11-21T19:10:35.878479+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Is Now The Time To Look At Buying China XLX Fertiliser Ltd. (HKG:1866)? - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ1ZycHhsdmc5SXJtM3JIRm44SjJIRzAzeEh2akpNNzF0TktBaWU1Y3lqb1lFRzVOTnR0aGhoVTRXSkN0YnQzUWxJcU1SRmVoVjNXUjBiMmFqdE9Dc2ZIUm9NcWdmNG54bHhJWjcyaGVsRHpzcnZ4MmJBQVNFOENPTHpKWGNXNWRvZWU1MXdyY0pFcnFkOE5yM3daWE5qZEJ0ZnctOHBhZFNsdDRhU29jcFo4bE1LWGZFTmFkeUdDVzJHSzZxTGtydjA0R25wUUxfQ0k4OUVlN1M1Nktf?oc=5",
+   "date": "Fri, 20 Nov 2026 22:48:24 GMT",
+   "vu_le": "2026-11-21T19:10:35.878479+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Why Applied Aerospace & Defense Stock Tanked This Week - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRWpVM3hndDhsb0dtMVVGMkV3cG10TkJzZ3lneUhJMnZHWU84U1VtMHZoQkxEdEY4QVh5alZhcXJzQTBxbEJ5eV9TZVRDQ2d5cG1kWG1QOEd1d2k1UmdaWnFQbkFzak1tT0xWOXNYYjNJSWNJMEtlUDJVVUNzQ2RjeExmTEg2NEk4NVBYTnk5QUItNWxPUkczX1FvaDZkWTVyOXpqRXd4eE52SnJoQ0dUYWxxM1BKNE1IT2FMYm4xT3VncEIyWTBDalpUaw?oc=5",
+   "date": "Sat, 21 Nov 2026 16:56:53 GMT",
+   "vu_le": "2026-11-21T19:10:35.878479+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Red Cat Holdings, Inc. (RCAT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXdGYwam5URkJjMi1jdm02NHpHcWc3WjdRd2ZlYmsyQmR1Njk0a3FIQm92TW4tcHU3MnhNVWRXZ1NFV0hMT0dDRmxkUFJRYmhiYWdiSzhhaEFzaHVzTnJLYUFB?oc=5",
+   "date": "Sat, 21 Nov 2026 06:56:58 GMT",
+   "vu_le": "2026-11-21T19:10:35.878479+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Actualités ANTHROPIC RG-A - USD - Marché NASDAQ en direct, résultats ANT - Boursorama",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdy1Ma2g0SDlreWZEZjhXWEVSQkdRMGo1SDJHSWtCblZsSDV3ejZSTlRDamJPUVdVMndJVmk3VlF4SUtBeGIzNzlUcUh1SlF6UGt4SkVrdU55bVczVXp0LXN5YldMRlprZWUyNzBUeEo2ejhYU2NUMloxWC00YzVoM0UwczVUTlpCN21Ia0l0Q292Zw?oc=5",
    "date": "Fri, 20 Nov 2026 09:45:05 GMT",
    "vu_le": "2026-11-21T05:40:40.766892+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "La Réserve fédérale est confrontée à des désaccords internes concernant sa politique de taux d'intérêt. - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUWNhV29PZXR2NENKdkdEWVhVT3BSTWd5X29oSGxmOER3eklwVUtSVDRTS2d6eDdid1RmOUFlTWpqanZ6dklseTlKNDFaQlllS1NnVUJOM1FRSVlPMHA5aS1yLWs5MGVraFBoZW5QNXJQOWJyaHdOZHhua0M4b0t1TXlR?oc=5",
-   "date": "Sat, 21 Nov 2026 05:23:06 GMT",
-   "vu_le": "2026-11-21T05:30:35.075082+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "BTC price on Nov 21, 2026 at 1am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXItd0taVGFqYnpELVlmREFrYkZJR3NVd2FIcThCbVUyZjZLci0xaDVqQ1oyZnRnTHNGS2c4U2RfYzZzUnF1R2VpRmJvQVlXS2t1YWtmWXJIUUNBVWQ2TTVURXFDRE4wV0ZRM0pwTno0TVpOVThBS0FpU0dyeVcxT1lVakE4YTZhbE1ZT3o0b2pzcE9QR01RWWNVbnJIZ0tpaXZTLUphbWZXcnVpWEE?oc=5",
-   "date": "Sat, 21 Nov 2026 05:26:48 GMT",
-   "vu_le": "2026-11-21T05:30:35.075082+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Falls 3.57% to $56,814 as Valuation Concerns Weigh on Markets - Global Banking & Finance Review",
-   "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52Ynh0ZjBBRkE5TEpiTThkcDByMFl4Mi05LVZlaUxfYU04OGJzLUI0SmVmMXlWaGtJOFpOTTJpRWdMR1U3M3lDdjJUVGNKSlluNGc3cUd0MUtFQ1VJNW4yVkt5T3FFb29DdWxKc0JfWC1yajE1?oc=5",
-   "date": "Sat, 21 Nov 2026 04:15:54 GMT",
-   "vu_le": "2026-11-21T05:30:35.075082+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Le dollar américain se dirige vers une quatrième semaine de hausse consécutive sur fond d'anticipations de resserrement de la politique monétaire par la Fed. - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNenJYYWstaGtCc2hsN2I0aXE5Y0lfS0VYcm9GWVVnVTlIN2gzTDRTX3hZMHNiNFprU3BtUzJLeDlJWWwwY2pSdF9kWFd2T1Y5NXdIaDVka3dDVW4tdUE2cG5YZ0IwMnBVbERCSGNwRDVlNHlYaUlnWWw3Z3gxaHA1eWdtVEZPWTFSbTdwMHFZeEl0ckE0ZDdv?oc=5",
-   "date": "Sat, 21 Nov 2026 01:15:10 GMT",
-   "vu_le": "2026-11-21T05:20:36.300775+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "India-Italy bilateral trade projected to potentially exceed EUR 50 billion by 2035: ASSOCHAM - www.indiagazette.com",
-   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNckNvaEV2UkJGTXlzS091N1loYzl1dHFaNndQQnRra1VHQ0ZNUklmN2RVRGZ4UU15LVlhbWowSzA2VE1jX0ptNDF2NTlWSlB2QXZqVml0bzhwTFhiaWQ4SmJub0ZyN1RpODI5WGlUM01JVmduaU5Gc3RJS2FNN0l0Q0k1dC1nR19XekJSbHZNNmNtb0libkdRX0dnUXdVcVlyRXR4Umtqa3VCczVSTjNtTHBlZTA4SmJKTnRkSDhjMzRJYnpndExnZEN2dndkaUxQ?oc=5",
-   "date": "Sat, 21 Nov 2026 00:31:00 GMT",
-   "vu_le": "2026-11-21T05:20:36.300775+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust - WSJ",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY1h6VEhXUGRDcE9hX25QQllJOF9uSmhUNERBSVdBNjRkU0gyaGRySGN0MXVXZERzUmhmdXJIUms2cFJJU2ZvdkVjUlB0RjRxSTQ4RFBiYTV0T0MyUFB5cWw0RWtuZzZrQXFwLUJqb3VsZGhacHR0NF9wTVMwc0tYUW1obFhUNHNVX0JEQnFKX2pRc1RWRGsxVw?oc=5",
-   "date": "Fri, 20 Nov 2026 22:55:41 GMT",
-   "vu_le": "2026-11-21T05:00:40.551330+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Semaine éprouvante pour le CAC 40 qui repasse sous les 8 000 points - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQnNYTVFXX1J1c1dxY3p3WFEtQTVvNWp2ZHdUN2VyU0JBTi03YTVaRFpMc2VfUDlJZU50Qkp4cEozRjdHRWo4ZkFIVm4yWW82eVhzWHlNcnVzbC05cmI4NzRmaUhDdHhrblFadVJGdl9aX1NaWlQ5d1hzTExlRzNfcUVNcWZiWGV5dTdDT3JGanVMTGZlVVE3TC1yQ3dXaEJLeURUY1dNVUYzM1VBZXJxbjZuQ1ZoSk5HRnF3c3FNWnc0UDQ3ZEtkbTJBME9HX0o5R2xCY0hYM2JkaTh0WTdvSjF5Y3hpbHRKbmdoTENESGRYZmstdTltUE1rWEx4aU5iX0ZvU2hSdzBYQk55YW1LMEtveHBoZkNpOVpLVy05ODE3eWdkdWww?oc=5",
-   "date": "Fri, 20 Nov 2026 16:58:00 GMT",
-   "vu_le": "2026-11-21T04:50:35.436279+00:00"
   }
  ],
  "erreurs": []
