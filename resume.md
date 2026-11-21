@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55097.43 EUR, jour 2.65 %, mois -26.36 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55119.06 EUR, jour 2.69 %, mois -26.33 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,15 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] $1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years? - Yahoo Finance
+- [Banques centrales et taux] Cours, actualités, cotation et historique des capital-actions USD/CHF (CHF=X) - Yahoo Finance France
+- [Chine et Asie] "I'm a big fan of China"Tesla CEO Elon Musk made an official visit to Shenzhen, a technology hub in - 매일경제
+- [Chine et Asie] Chinese scientists’ magic comb restores nearly 100% hair growth in mice study - South China Morning Post
+- [Chine et Asie] 3 Stocks Investors Are Watching for Asia Pacific Trade Growth - Simply Wall St
+- [Chine et Asie] NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo! Finance Canada
+- [Chine et Asie] Nikkei swings harder than Nasdaq as AI fears deepen - FOREX.com
+- [Chine et Asie] Technology at Work, Heritage for All: The "Chinese Approach" to Safeguarding the Leshan Giant Buddha - The Des Moines Register
+- [Pays émergents] Indian markets may see reasonable upside over next 12 months; FPIs unwinding underweight positions: HSBC MF's Cheenu Gupta - ChiniMandi
 - [Rachats et fusions] Dollar and euro notes were priced to help fund Boston Scientific’s (BSX) proposed Penumbra acquisition. - Stock Titan
 - [Anthropic] $1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years? - 24/7 Wall St.
 - [Banques centrales et taux] Wall Street : consommation, inflation et résultats technologiques au programme la semaine prochaine - Le Revenu
@@ -447,12 +456,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Marchés mondiaux] Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street's AI Sell-Off - Yahoo Finance
 - [Bourse de Paris et Europe] Le CAC 40 chute de plus de 5 % et signe sa deuxième pire semaine de l'année - ABC Bourse
 - [Intelligence artificielle] ASML vs. SK Hynix: Which Artificial Intelligence Stock Is a Better Buy for 2027? - The Motley Fool
-- [Crypto] Top 5 crypto biases every investor must overcome now - shattered.io
-- [Anthropic (FR)] IPO d’Anthropic : 74 milliards d’euros levés, les chiffres - Luxe.net
-- [Bourse de Paris et Europe] BOUYGUES Cours Action EN, Cotation Bourse Euronext Paris - Boursorama
-- [Chine et Asie] Technology at Work, Heritage for All: The "Chinese Approach" to Safeguarding the Leshan Giant Buddha - azcentral.com and The Arizona Republic
-- [Défense, énergie, matières premières] Arista Networks And 2 More Defensive Stocks To Own - Yahoo Finance
-- [Anthropic (FR)] Les actions d’Anthropic chutent de 8,5% lors de leur deuxième séance, dans un mouvement de vente des titres liés à l’IA - Unite.AI
-- [Banques centrales et taux] Les cours de l'or ont chuté à leur plus bas niveau en 14 mois en raison des pressions sur les taux d'intérêt et d'une vague de ventes massives sur les marchés boursiers. - Vietnam.vn
-- [Chine et Asie] Hong Kong Stock Market Close | Hang Seng TECH Index Plunges 6.5% in a Week; NVIDIA's Sudden Leadership Change Severely Impacts AI Computing Power Supply Chain - 富途牛牛
-- [Intelligence artifi
+- [Crypto] Top 5 crypto biases every inves
