@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54839.93 EUR, jour 2.17 %, mois -26.7 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54848.9 EUR, jour 2.19 %, mois -26.69 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,13 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Actualités ANTHROPIC RG-A - USD - Marché NASDAQ en direct, résultats ANT - Boursorama
+- [Banques centrales et taux] Le prix de l'or chute à son plus bas niveau en 14 mois, perdant près de 9% en une seule semaine - Laodong.vn
+- [Chine et Asie] Technology at Work, Heritage for All: The "Chinese Approach" to Safeguarding the Leshan Giant Buddha - The Columbus Dispatch
+- [Intelligence artificielle] Worried About a Market Crash? This AI Stock Should Bounce Back Fastest. - The Globe and Mail
+- [Intelligence artificielle] NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance Australia
+- [Crypto] BTC price on Nov 21, 2026 at 1pm EST Crypto Prediction Market - Robinhood
+- [Crypto] Better Buy: Bitcoin vs. Ethereum - The Motley Fool
 - [Chine et Asie] SSE Composite Drops to 3,533.79 as the AI Trade Cools and China Holds Rates - BBN Times
 - [Crypto] What Bitcoin Did After SpaceX’s IPO and What It Could Do After Anthropic’s - 24/7 Wall St.
 - [Anthropic (FR)] JO de Paris à 7 milliards, émeutes à 207 millions, Anthropic en Bourse… Les cinq infos économiques de la semaine - lejdd.fr
@@ -450,11 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Banques centrales et taux] Lisa Cook, de la Fed, juge de plus en plus urgent de lutter contre l’inflation - Zonebourse
 - [Intelligence artificielle] 3 Chip Stocks Retail Investors Are Reading for AI Fab Buildout Exposure - Yahoo Finance
 - [Petites valeurs en croissance] Is Hut 8 Corp. (NASDAQ: HUT) Priced for Too Much AI Growth? - Yahoo Finance
-- [Défense, énergie, matières premières] 3 Defense Stocks To Watch As Federal Contractor Rules Tighten - Yahoo Finance
-- [Défense, énergie, matières premières] Palantir Just Dropped 25% in a Month. Is It Time to Sell, or Load Up? - Yahoo Finance
-- [Crypto] Bitcoin Crashes Below $56,000 as $2.7 Billion Crypto Liquidation Wipes Out Traders - 24/7 Wall St.
-- [Crypto] Bitcoin drops to lowest level in more than two years - Seeking Alpha
-- [Crypto] After the Midterm Elections, VanEck's Matthew Sigel Is Still Bullish on Bitcoin. Here's Why He's Right. - The Motley Fool
-- [Anthropic] I’m taking the Warren Buffett approach to Anthropic stock! - Yahoo Finance UK
-- [Banques centrales et taux] BCE : l’IA, au premier rang des préoccupations immédiates du secteur financier - Le Revenu
-- [Chine et Asie] Goldman S
+- [Défense, énergie, matières pre
