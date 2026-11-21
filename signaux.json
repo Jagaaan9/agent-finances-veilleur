@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T06:30:35.609135+00:00",
+ "mis_a_jour": "2026-11-21T06:40:38.406018+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 51178.46,
+   "prix": 51717.03,
    "devise": "EUR",
-   "jour_pct": -4.65,
-   "mois_pct": -31.6,
-   "volume": 133.68318751,
-   "volume_relatif": 0.64,
+   "jour_pct": -3.64,
+   "mois_pct": -30.88,
+   "volume": 135.94685715,
+   "volume_relatif": 0.65,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 4929084342,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 4929084342,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Earnings call transcript: The Buckle tops Q3 2026 profit view, shares jump By Investing.com - Investing.com India",
+   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMHZTUXJDR0RMeTBXVm1pQUNheXFBby16UlJZbG5tVi1kVm5mWnh5bmlxQ053Y1NUelFtdmJnb2hmOVkyZThXQWl3YV9lekszQV9ZelRpQld2dEdkdndIVE13OEtCbEFBMndYalVDTDlJODRvSGNuZWhTMHFWRllrMkZFMlNYMVVGZXlnX2o5V01iRjQ5VDBEQlV0cUw5YzZyQjBZLWlmaWtoLWFGcFZDRnJVa1ZFMTFmV3VKbVJPNWV4ZERHQzBLQ1QxdmVPQQ?oc=5",
+   "date": "Fri, 20 Nov 2026 15:48:13 GMT",
+   "vu_le": "2026-11-21T06:40:38.406018+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Is Higher FFO Guidance Altering The Investment Case For SL Green Realty (SLG)? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbU8xN0VrNE9EbkJrNDRtQnJOS1lnNTBTb2l0N1dfNElDeGlpWW1nbVNjS2RmVnBZaGdfUm9WeXZyajFfOVF5QS15d3VlWDdxUkxydHZSeW1qYnozNERtUzE1SmZNa09uMkZwdmZ5Y2tVY29lSG5BWWF3NUlIampXNkZ3RV9zUEl0bnB4OWhiWmhJUktXcVRyT2tud1VXeG5yTUVj?oc=5",
+   "date": "Sat, 21 Nov 2026 02:14:00 GMT",
+   "vu_le": "2026-11-21T06:40:38.406018+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Is It Time To Consider Buying Atrem S.A. (WSE:ATR)? - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmNsTmd6dVdBbnNmY1p6anoxOXVFbkNKWWVxRUpWcWNCWlFVZU8wZXJkLWFJR04xT0lGTzNoUk45bDZMT29ZMmdVTFFvRHE1bUxwOVp5aGlqY29peEswbXZubU9PWWdhbGNRQUVkd0tnckZkTGl5OVN4bmFkaGs2M2Q1dnV4c0xpZTBYVE5wVjRmWTlMSnRxb1QwenBtMno4bllWb2F0Vzlvb2V6SlE3U3ZHLVptblFJ0gG-AUFVX3lxTE5rUU12cDhmVjc2MzhmYTJaR2RVaDNJM2VRM2RpOFVjR245eVZLaUhOVFY1Q0k3RlhGN2Q2S2pqQ011d0w2blNhN0hFOFpwZGFEd1ozeTdlOTA5cTh1Vl9pM2tZdWx5N3dOdm9LOFVEQktpSlBnR1pBaUQwWDlCRkVGanVYMkRlbUJzY1RsYUZmZG5zT3B5ZnF2TWlhRkRLZXhwSjFJSjU4YTlfMlFxakFjby0wMWJWZmM2SjBQN3c?oc=5",
+   "date": "Sat, 21 Nov 2026 06:31:20 GMT",
+   "vu_le": "2026-11-21T06:40:38.406018+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Indonesian leader chases Sukarno's phantom with defiant posture - Nikkei Asia",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNGJkejljV1Jrb2dEYzZOQTQ3R2twMGk5dnVVUm5BdDFIUU00MGV2WHdiT0FRMmFidWJaeFB2OWU2aktPSXg3YXJJUWdLUWhMb0ZOZHE3eC1UcGx1V1J0aURuQ21QZUdGOURfaURDSnBtX1Rwbk9sLS1pN2Q5VzVTN0JYTmVpNWRHdXNiSmwyWkVzMHlsYTdJUTFMMmcwM01RYVpUdHBxY1Q?oc=5",
+   "date": "Sat, 21 Nov 2026 03:18:00 GMT",
+   "vu_le": "2026-11-21T06:40:38.406018+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Why Is Bitcoin Dropping? BTC Falls 10% Below $57K - Bitcoin Foundation",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWU5faWhXRGtfclFmQ1B1Tm5VcEF6QmF2WWo0NTltX2IzWDFodDBibER4dW41alNsRjVVV0Rqa2ZXNm81WjB3NEpMczR6UzRXUXBDaTZnYkxmdWNNYzdNRjc4cUp6S0I0dmxKb3NlZUdwWDRSTldFRFUxREJTVWFyUkJMSFhaRm1OYkZNZmJsczVFQlFfbDgyek1PNVRSVkVRMEZNSDlBZHVmZw?oc=5",
+   "date": "Sat, 21 Nov 2026 06:36:19 GMT",
+   "vu_le": "2026-11-21T06:40:38.406018+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Why Is Bitcoin Dropping? Liquidations Near $2.4B - Bitcoin Foundation",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVHpZc2pNSmFTdFJ4cGVHSUZkUnFNNDZRV1NmRDRaMXpjMTl6Z1VNek5oSzdlZGI3VUdva2k4RXpOQjlQMU9McTVuUmljVzVlNldzZ2ltT1FoVGRMeUR6S09VUWEtalZVOU9mWUxZNHZIZnFUTzc5ZkxSeHBZYjNSc2NOOFdqdng5VS1UTXRFdzYyZWZ4c3VReEpoenI?oc=5",
+   "date": "Sat, 21 Nov 2026 06:36:18 GMT",
+   "vu_le": "2026-11-21T06:40:38.406018+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP Selloff: $18M in Long Liquidations as ETF Assets Slip Below $1B - Bitcoin Foundation",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFFZRFlzQXFQc3NVUkxHMzM4RGRvbTZrc29vc1dqb0FObWRfTkpMLWFodG5xLXE4S0tRTGxyTW9kdmJvY0d2SWVRM2NvY00yNGdQQWRyQmVLMTR0TlJJV25WUnRmNDBsR0stV1lmaTNOTmt5MzRyMUhZY0F1T255VEV4Vy1TRHVuc3ROY0lIVktOeVN0TkVtNlBwOTJyQksyNDRZb29tNUpBb3FRVVE?oc=5",
+   "date": "Sat, 21 Nov 2026 06:36:18 GMT",
+   "vu_le": "2026-11-21T06:40:38.406018+00:00"
+  },
   {
    "sujet": "Crypto",
    "titre": "SOL price on Nov 21, 2026 at 2am EST Crypto Prediction Market - Robinhood",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNFgtOGEzdkVzNnJCVzFTSndpekhMMnQzeC1EeDVCUlJqWFZMVFFvbDV0OXZLSnNMS0tsaFlqZkN4bHNjSVF3LV9CWmhjWXJpOGs5ZUJjWVZ1akZvVFVjcWdBeDBqeVBCMS00MlVad09QRmd6UG9ramhsZWxPQ1BhVkU1UlpZVDRmNGxJak1vdVczVEV2YlhnaE1neEEzeHp5djVmNmdpazhZTWM3dTRNWG1WWUpMSHFoRW1ONFlnNU14WU9kNGZycWM2UVBqVjAwaUQ2em1FLU9SYzZRUGc?oc=5",
    "date": "Fri, 20 Nov 2026 15:27:56 GMT",
    "vu_le": "2026-11-20T16:00:44.921576+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic IPO expected to continue fueling demand for San Francisco real estate - NBC Bay Area",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY0hDSUd1Z21nYnowMnlhdXRGTkZVYzZDelBZVXhzblFocmRVQmY2Q213VFVidkV3a2ppbV80MGxXbnpMNEN6dnNza0NUUy0yRE93dzE1ZnR5d1NzcV9rYThYQ2dTb0tWYWJMc0dncEZNY0dDZmhiLWV1czR4ZE5TRFl5djV2Z0dSMzZ2WnJkaFdnRTdXVHN2eHhmUmR5TnlCQ2fSAaoBQVVfeXFMTjNKa0lxQzZkZU5jeXhPNmljRlMyaldFQno0aFQ3NGRCRHdYb19CVVFfTnhRbllWdllmMmNxbUp6NU9iWFdBRmx4X2szUGdwcEFCdTg4b2hJQ21HdzlteG0wMTlmODgzQ04yXzJ0UXQ5d0lrRGQtaWxmYzRhV08wUy1OZ25ZUEk2TUs1Nl9KNHFlWTI4cXJfNHFSYk1pel81LWpNZWp5U0JGT2c?oc=5",
-   "date": "Fri, 20 Nov 2026 14:56:33 GMT",
-   "vu_le": "2026-11-20T15:50:52.061619+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "The snowballing selloff in global markets - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5",
-   "date": "Fri, 20 Nov 2026 15:13:44 GMT",
-   "vu_le": "2026-11-20T15:50:52.061619+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street Analysts See a 31.98% Upside in Tapestry (TPR): Can the Stock Really Move This High? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbE1mX2hYd2Vha1lIV0I0WU9GZHBzNGQwbG5lenRtS3c5cEUzalE2eU0zbjg4cnZUSEZpc0tKd1VIZmZqd1R0cTQ0VHdwTEVXQ3QxVDVIczBhVHJpc3BwMlY1Q0VEeDFBZENFd0xLLW1Wa3YxRXdJbDd5UUg1b3V2c0tKRXExUVBqTWNPTlRXb3FqblVMU2ZR?oc=5",
-   "date": "Fri, 20 Nov 2026 13:55:02 GMT",
-   "vu_le": "2026-11-20T15:50:52.061619+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Le CAC 40 repasse sous les 8 000 points... - Fortuneo",
-   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTzRvWGdBWUdrTXhRXzJFVTNDNHJkVDYyZldJZ0lTUkNnUk5ZQ3lRZ0lYV0syN3FXNTQ5czRnYzJUQzFvWHZwbHMwcEthcmNVM25ISWtDNlQzenBici0zUTFyelNVb0F0RzVyMzk2YjdIQU9NZGg4dGZiT2dId3lKaUFIeGkxaThYZlRPTFdR0gGTAUFVX3lxTE9hTnBMaG4ybW5NN3NwUlZuSDRKbUdzSVFqR2NFUHBiSG1obGFfc0M2Ui03SDVqUng0MHNNcHNpN3BZZ1E2N2RpME9IRTdXSDhWWG1ac1JNaWZFTnprYVBhUDgybGRpaF9DSjR1N1JrUWRzaUhpN0QtNWVNa1plV3g2U0h5bk95eWlaQ2xsRnJmSkk1bw?oc=5",
-   "date": "Fri, 20 Nov 2026 09:40:00 GMT",
-   "vu_le": "2026-11-20T15:50:52.061619+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "GETLINK Cours Action GET, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SbDFSTFRKRkFzeXFKRmNOTWc1RFFraGQwZEpDakRZdG0zcjhjRU5IWHlaOUJRMC1wODBvVDJ6MkV6ZFFibk5BUTRPdFhvX0hLS1E?oc=5",
-   "date": "Fri, 20 Nov 2026 14:11:05 GMT",
-   "vu_le": "2026-11-20T15:50:52.061619+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Les valeurs à suivre à Paris et en Europe - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZV9iaU1jV243MDlnZmlWSnQ5ZDQ1SmEwMGsxM3BKYW4zb0xYenVmaFYxN1hLRkg4QTMyWkdudkR5X2lGaVRpMzgtdkRmMllTeXVRbHlyT3d4ZGhxaXdIajlSZDhBQjU4VjEyeFBtZ0Q3MkhCdUNRd0FYLUVyNTBwODg4UWQxNEdyazhncWV3VlhLam1uTk14N3hWdE1leTl0SHhyTk5iOVdzTlpCRE95eEVfNUxJU3c1OGxN0gHAAUFVX3lxTE9wY2Y0WmNQLWo2cHlJVUJSMHUxUzB6NnJwVld3Y09tSlV3dUd2bzRWT1NhaWkxSXpxc25YeHBvZFRMTC1xdGxZUzFoa2FLR0ZTVkp6Y21WNkNSNm9ETktIZ0ZVYUdLMnJBV1E3QkZsOHMwa0x6OGk2eG5JNE1hRHM4M1pTalgxQTMwWkVjNHZKcmpwMUxDckNVTEdUb2hlZ0lsWXhzaGpaSDN6bHFVS0dPWVotQzFYOEpyOE5mYmg0VQ?oc=5",
-   "date": "Fri, 20 Nov 2026 06:13:28 GMT",
-   "vu_le": "2026-11-20T15:50:52.061619+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Hang Seng Tech Index expands to 50 stocks, adding CATL and Luxshare - MLQ.ai",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON01SVU1PQUU4X0lZMnF3ekhjTTkzQ0VPMjExLUhPSndxdlUzcUdrdlh3ckFEbEszc0ZYdUl4M3VESUpJdUVHU01rRnc3TE9xVkJ5N2VBWHVpcUREYnFfVXhoNDBpcmJwbG1VTksxTFZXVU1oUVR5ZkpHZ0l1V1hpR1k4ZEltNGhpQklmNjRQUDM?oc=5",
-   "date": "Fri, 20 Nov 2026 15:38:44 GMT",
-   "vu_le": "2026-11-20T15:50:52.061619+00:00"
   }
  ],
  "erreurs": []
