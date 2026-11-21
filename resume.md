@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53078.58 EUR, jour -1.11 %, mois -29.06 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53122.63 EUR, jour -1.03 %, mois -29.0 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - G-Resources Group Limited (HKEX:1051, secteur Finance) jour -2.05 %, mois -7.97 %, prix 5.485 HKD, capi 2472715327, PER 9.4, volume x16.68 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
+- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 5047665185, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 665841152, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3641703802, PER None, volume x1.08 la normale
@@ -317,6 +317,13 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] Chinese Tech Stocks Slide As New US Chip Curbs Threaten Cloud Growth - Forbes Middle East
+- [Chine et Asie] Chinese scientists’ magic comb restores nearly 100% hair growth in mice study - South China Morning Post
+- [Chine et Asie] China’s Tech Index Gets Bigger, Broader, Stronger - NAI500
+- [Intelligence artificielle] If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail
+- [Intelligence artificielle] US Holds Nvidia AI Chip Export Policy to China - CASRAI
+- [Crypto] XRP price at Nov 21, 2026 at 6am EST Crypto Prediction Market - Robinhood
+- [Crypto] Etsy AI Policy Seller Backlash Before Dec. 16 - Bitcoin Foundation
 - [Anthropic (FR)] CAC 40, Air liquide, Anthropic, Société générale… les actions en Bourse au programme de Momentum - Yahoo Finance France
 - [Anthropic (FR)] Anthropic : Bourse, l'introduction historique entre euphorie et prudence - Presse Agence
 - [Chine et Asie] Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries - FOREX.com
@@ -450,11 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Pays émergents] Indonesian leader chases Sukarno's phantom with defiant posture - Nikkei Asia
 - [Crypto] Why Is Bitcoin Dropping? BTC Falls 10% Below $57K - Bitcoin Foundation
 - [Crypto] Why Is Bitcoin Dropping? Liquidations Near $2.4B - Bitcoin Foundation
-- [Crypto] XRP Selloff: $18M in Long Liquidations as ETF Assets Slip Below $1B - Bitcoin Foundation
-- [Crypto] SOL price on Nov 21, 2026 at 2am EST Crypto Prediction Market - Robinhood
-- [Crypto] Bitcoin developers fix 'medium' bug that could have delayed transactions - CoinDesk
-- [Chine et Asie] Hong Kong Stocks Sink 1.89% As Hang Seng Enters Bear Market - BusinessToday Malaysia
-- [Résultats d'entreprises] Why Stocks Fall Despite Beating Earnings Expectations - EBC Financial Group
-- [Crypto] XRP price: What next for Ripple-linked token as ETF assets slip under $1 billion - CoinDesk
-- [Intelligence artificielle] Wall Street Had a Big Week. Why are AI and Tech Stocks Still Crashing? - Yahoo Finance
-- [Défense, énergie, matières premières] TransDigm Group 
+- [Crypto] XRP Selloff: $18M in Long Liquidations as ETF A

@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T11:50:39.427515+00:00",
+ "mis_a_jour": "2026-11-21T12:00:34.847023+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53078.58,
+   "prix": 53122.63,
    "devise": "EUR",
-   "jour_pct": -1.11,
-   "mois_pct": -29.06,
-   "volume": 246.68001943,
-   "volume_relatif": 1.18,
+   "jour_pct": -1.03,
+   "mois_pct": -29.0,
+   "volume": 247.43447545,
+   "volume_relatif": 1.19,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Chinese Tech Stocks Slide As New US Chip Curbs Threaten Cloud Growth - Forbes Middle East",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1dYVVExZjd3VmF4ZXJxZnpVTFdta2hVYzNoR2hWQUMtWVRUOVZfa2xrWXhlZWd6aFZ6NWxJVG1aUmZ5cE80WkszWkk3VUFBLWZ2SzJFVjRSUDZVR1lVYm1rdXlCZXJvZ0ItdVkyNmJkZl94T3FMM01DaG1KWGRvOTJHZnRiNHpiRjB4eU9RZ1VvU0Jab0tZSzBYaUZTd1g3UnE4R3lrdVFWSlJtMGJSeXBIRQ?oc=5",
+   "date": "Fri, 20 Nov 2026 12:25:09 GMT",
+   "vu_le": "2026-11-21T12:00:34.847023+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Chinese scientists’ magic comb restores nearly 100% hair growth in mice study - South China Morning Post",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTGtlUkZVYjhXeW1SQzRJbGMxZHJnUzloZmNCbjNWVGI1aExyU0dSYTNwRVBuNXIybkhLUV9waDdlX0lqdU13WUVXNWktclVEa3paQXlCTUhIUTJldVdYMWh1ank5d2REaFNWQmNjeFVFM1BwUm9VMVdoMHAzN2ZUM2U4eXE0S29ESWo5MXpqQml6c1dlcTZGRUJjaGg3bnFjYU9pWGFyZ3M0ZUhNdVMySjlpMndBUQ?oc=5",
+   "date": "Sat, 21 Nov 2026 03:05:05 GMT",
+   "vu_le": "2026-11-21T12:00:34.847023+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China’s Tech Index Gets Bigger, Broader, Stronger - NAI500",
+   "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR0tKZEx6NVRLd1BxMXdsVXFsd2YzakFLYnJYVU5BQk1XcHJqUmhXckdGbWtPV2FDSWR6OTFXLU1GMGhRbnktOXFPZUFyWlZPeGF0RmJwWHNncXR3S2wzYkV5OS0tTXowdktKUFBrYzZKRG8yRXBKT0NacHlRTGFhTEwtOHRtamc?oc=5",
+   "date": "Fri, 20 Nov 2026 12:32:16 GMT",
+   "vu_le": "2026-11-21T12:00:34.847023+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNaFcwTERiT1JjcF9rLXdNRXg5THNkVHc5SmlYUW55Vlg1dXJ0UjZQWXZkWFJfdU9IVlZNVXpzT3FFQ21RYWxLTC1rZmdPblVVanpXNFZZZkhPQVVBRl9qU2F0QW5OU2RCZzVZdnplZVpmV1pBS21tS09NVWtLdlBlNGZqUlZ5SmF4Yld0YUJDMmhDeUV3MnU0SjBwWkphdmVYUHN1U2NnWVBselM5eldGZjhyNnNBb1dnUkUxemZ1Q3Iza1VWelN5Ynl5dXRDQXA1MGF5MjVOOXNZSXpWblRmOXZhZ3JYOFlhOVZ5TGl0QUJodXp2bnRqNHdCWS1aOVgzSWpKYVMzMHdudkcxRlM4?oc=5",
+   "date": "Sat, 21 Nov 2026 11:53:33 GMT",
+   "vu_le": "2026-11-21T12:00:34.847023+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "US Holds Nvidia AI Chip Export Policy to China - CASRAI",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTU9kbDRaTDdIQmdCODdtbDl6b0M1eWltUUdPSTJBcHRXWi1NZ2V1dE5iZWhVU3liaGdsWkZsamJ1ZHZHYmxoLXlJZk12aElfRUdJNFl3RUFRLXZqamJ3Q3FQb05PYXl6SF9FX053NzZVVnJZcHJRVllvNjlLVm9OMDlxU3NqRWRVOGI3azZiZlJ4R0FFdmc?oc=5",
+   "date": "Sat, 21 Nov 2026 11:42:22 GMT",
+   "vu_le": "2026-11-21T12:00:34.847023+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 21, 2026 at 6am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUpvdlMzTHBDUHVFenM1TjRrbUwtbmJuV1F6TGpoanczWmE4SExnOUpiQnRQbUlWbVQyS2VsVHY0MkhLekNEd0szdjhKS2RZYzhCa1I0YzBhWHBsenRFbjQ1RFhOcVlkdmFDNDdKd3k0cTd5TVVMRUNJNTFZV0xIdm9Kd0FxNHhOT1V3XzdEN3hjbzRfcmJyUFRkTFp5SWIzQ3FuMWtmY1FpSXhhT2c?oc=5",
+   "date": "Sat, 21 Nov 2026 10:04:54 GMT",
+   "vu_le": "2026-11-21T12:00:34.847023+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Etsy AI Policy Seller Backlash Before Dec. 16 - Bitcoin Foundation",
+   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmNtYWxYVkJBOGJzT0FTaXJLWHQzUXlNSGVIcTNLblN3R0hUSzdCQ3k2WC1ZSHF6WmxOV2VQT3hNRXdSSnFKZGFLOExPbFNTd0tiRldwY1M3eWllbEwzTDU5enktYjlkcGtWTzlMamRzSU9RMkhwejVYRDRWRWJkT0JVRF9FRmpKQnh3eGRlYXY5UlNjTWMtOGpzQnBfUmdLU3F3Ym5PMFlsa2FaWS1zRQ?oc=5",
+   "date": "Sat, 21 Nov 2026 11:57:41 GMT",
+   "vu_le": "2026-11-21T12:00:34.847023+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "CAC 40, Air liquide, Anthropic, Société générale… les actions en Bourse au programme de Momentum - Yahoo Finance France",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTIyc1lNRlM0dUtBdFNtakxtaDhUYVAxanI0WEdmeUZXblNRRnNIRkdzdTcxTlktYlB6UlpyTzNTUlJqX2ZLMG1mNXF3REdqVlhEZWppbWNzM3dLSUpIdTVnSFpGY2N6WEl1R01WaWVuZmpsZEpaejd5Vklsc0hkMXlSaGEzaE55anAxcWp3elUtV1NOb29Idm1FbkEtSkRjMG5SbzlDZlYzamtUTVdXdVdKZHo?oc=5",
    "date": "Fri, 20 Nov 2026 15:00:32 GMT",
    "vu_le": "2026-11-20T18:50:48.158428+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Inflection Point Acquisition Corp. VII (IPXG): Elroy Air SPAC deal video cites $46M Army contract and $70M Barq order - Quantisnow",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdzZUNFFzNkZIaGNHSGlUY002M2NpeVp6QVA2MUZFRUg2ekpnMUJfS3pBYllPR3FqeFRnT203WkFKLWx4dWEtYlRNZVhWMlB6WFpkYW1EWWxhb3ZqeG1nQ1JwTEdwY2dqbExTSnMxMm0tWGxlRnRjdHUzNEFxWWhHRHktak5YclREQVRHZDBaQ1VLMURZV3VaVGx1cGlUNHV4SXZRZw?oc=5",
-   "date": "Fri, 20 Nov 2026 12:30:08 GMT",
-   "vu_le": "2026-11-20T18:50:48.158428+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Sandisk (NASDAQ: SNDK) stock price falls following 8-for-1 split amid NAND price decline - Beinsure",
-   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVFluSWR1a0YySDhPTEhGYXphN0psWFk2Z1A2Mk5kTlQxdVNQZ2Y4dmdMS3RoakhIM3Y3Sl9TZnNvVzNJTVAwTndZNFFUVm5Yd1ZZbjlsbC1OODIwZ3J5aW1uRll3a2JqMnVrel9zN2hXcld0OUhVb0ZDWElxLXA4VWR3?oc=5",
-   "date": "Fri, 20 Nov 2026 18:49:09 GMT",
-   "vu_le": "2026-11-20T18:50:48.158428+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin crash live: price below $60,000 - CryptoTicker.io",
-   "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XQUU5ZVBYUHRfalJxSUFUTzEzeE0xalF1OWo5R3otY0NZTWN5NndRNmIyX1FDN1ZOMVdELXFuUjNjZnJTLWlBVkNDM242bFFnTnozWDZPSkRiZXJaNFJndTlFekM?oc=5",
-   "date": "Fri, 20 Nov 2026 17:15:51 GMT",
-   "vu_le": "2026-11-20T18:50:48.158428+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic IPO Didn’t Save the AI Trade - Barron's",
-   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3BYUzVOZW1MMGtKZ0xKMTFLRm5pZEZ4VDhEVkJFSjNoVjR5NnJwa0E0SmIya3pmQ19DZXZHTk1FUjYxS29LZ2ZEcWh2RFZvWlRjalJ5RGlqckFKUVN4azM1R1NPcHJ4N3dCNHpPSlVCa1hJZWlDeE4yN1FDZkdpUw?oc=5",
-   "date": "Fri, 20 Nov 2026 18:40:00 GMT",
-   "vu_le": "2026-11-20T18:48:56.476034+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic stock falls in first full day of trading following record-breaking IPO - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkZoR2d3Vk5pOENPUTVFMWNTN09wWU81LUN5aEFyNHhtUjIxZ2p6T1A0QVQ1TnM1WDd5TzNaVFhhTEdqbVdMYmRpQ3ppNU1UQWhEeXNfTno2NVM1Wk5FNTQzY2lmTkllZUtsaUFkNWVTellOazFvNFVoTnMxQXZwU3FvM1J3VjFPUkp4VDlVSUdXcHgxNzJqa1lXVFRMbFJURmZFWlhhV2Y2ZDNJSThGWk56WFB5MFc3a3pqYWx6eHk?oc=5",
-   "date": "Fri, 20 Nov 2026 18:47:16 GMT",
-   "vu_le": "2026-11-20T18:48:56.476034+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Trump affirme que les taux d'intérêt sont trop élevés parce que la Fed est “politisée” - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRHlzWHB4MXl1N3ZZYVRQR3h3a2dXaGZSclUxV2tGTDRSZTFfcVFITl9sS19YUnFsMm1hUWllbjNsOWFPYnNNSDN4V0RuTl9fNTlucHY1djlxX29wN3MwaUZUd00zLWFGRWZLS1E2SXV6QXktQ1B0MWV5Z3I0cDdMVXlGTVlDSV81eHAtaFRwRXRuUENtb25fM0EzLUNYcHhyVHd5WTJ2eTcwTURubnNEMEpFY0ZPRU03bzBZZTFtWTZzdkJualRSOE8wOHkyZ283U3RzTHhfYjlkeVpSbjBqOTFrWVhqZjV4SXNqZ2FGVlQ4SVVBVmcxNGNJZVppRk16UGRUYkg2T3JkN00t0gGMAkFVX3lxTFBEeXNYcHgxeXU3dllhVFBHeHdrZ1doZlJyVTFXa0ZMNFJlMV9xUUhOX2xLX1hScWwybWFRaWVuM2w5YU9ic01IM3hXRG5OX181OW5wdjV2OXFfb3A3czBpRlR3TTMtYUZFZktLUTZJdXpBeS1DUHQxZXlncjRwN0xVeUZNWUNJXzV4cC1oVHBFdG5QQ21vbl8zQTMtQ1hweHJUd3lZMnZ5NzBNRG5uc0QwSkVjRk9FTTdvMFllMW1ZNnN2Qm5qVFI4TzA4eTJnbzdTdHNMeF9iOWR5WlJuMGo5MWtZWGpmNXhJc2pnYUZWVDhJVUFWZzE0Y0llWmlGTXpQZFRiSDZPcmQ3TS0?oc=5",
-   "date": "Fri, 20 Nov 2026 17:37:19 GMT",
-   "vu_le": "2026-11-20T18:48:56.476034+00:00"
-  },
-  {
-   "sujet": "Introductions en bourse",
-   "titre": "Nasdaq Futures Slide, Anthropic Shares Reverse IPO Gains — LITE, IREN, SNDK, NVDA In Focus - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUUMydDQ1R1BOQ1pyNjlSdmFnbUhYdnE1dHpUaG84Q2pJTEFBRlVabXI1MUN1TmdnaWlrbkxYYVN3MGU3WUJDSURBR1duR002OUU4b3cxd05fUW1VaVBfLXpSUWhkNkRreXYwZ0RNc3diZ0NuS2FaNkw1MkxFYjdFRTJZVmNMNkJiQndTSXVOdUdZNmJ5VWJPSzQ5STY4cW1FMjlvTUJwOFR2SEN4Nm9lcXAzSFBsYU54SWxhQlcxN21OMnRUMEl0bFZpN25TaEJTeXVESmFhdlZ2TUg0?oc=5",
-   "date": "Fri, 20 Nov 2026 12:20:04 GMT",
-   "vu_le": "2026-11-20T18:48:56.476034+00:00"
   }
  ],
  "erreurs": []
