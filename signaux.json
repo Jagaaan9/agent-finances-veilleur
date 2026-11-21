@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T09:50:36.481974+00:00",
+ "mis_a_jour": "2026-11-21T10:00:35.606738+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52873,
+   "prix": 52922.39,
    "devise": "EUR",
-   "jour_pct": -1.49,
-   "mois_pct": -29.33,
-   "volume": 203.64798171,
+   "jour_pct": -1.4,
+   "mois_pct": -29.27,
+   "volume": 203.99213802,
    "volume_relatif": 0.98,
    "capitalisation": null,
    "per": null,
@@ -1091,7 +1091,7 @@
     "mois_pct": -5.53,
     "volume": 117783,
     "volume_relatif": 0.97,
-    "capitalisation": 226775867.13242066,
+    "capitalisation": 237638079.0383335,
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Health Technology"
@@ -1119,7 +1119,7 @@
     "mois_pct": -42.21,
     "volume": 175327,
     "volume_relatif": 0.73,
-    "capitalisation": 446106328.3748165,
+    "capitalisation": 455175818.93819034,
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Commercial Services"
@@ -1147,7 +1147,7 @@
     "mois_pct": 1.85,
     "volume": 255450,
     "volume_relatif": 2.18,
-    "capitalisation": 419281965,
+    "capitalisation": 440894416,
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Retail Trade"
@@ -1175,7 +1175,7 @@
     "mois_pct": 2.24,
     "volume": 104649,
     "volume_relatif": 0.98,
-    "capitalisation": 124539177933,
+    "capitalisation": 125973957390,
     "per": 14.2,
     "bourse": "GETTEX",
     "secteur": "Communications"
@@ -1233,7 +1233,7 @@
     "mois_pct": -33.12,
     "volume": 238271,
     "volume_relatif": 14.38,
-    "capitalisation": 579608961,
+    "capitalisation": 444890534,
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Technology Services"
@@ -1247,7 +1247,7 @@
     "mois_pct": -56.66,
     "volume": 744862,
     "volume_relatif": 1.13,
-    "capitalisation": 385442375.19184995,
+    "capitalisation": 321248909.9536678,
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Electronic Technology"
@@ -1275,7 +1275,7 @@
     "mois_pct": -39.2,
     "volume": 251353,
     "volume_relatif": 2.99,
-    "capitalisation": 115279165174.28456,
+    "capitalisation": 98591878612.44296,
     "per": 12.6,
     "bourse": "TRADEGATE",
     "secteur": "Communications"
@@ -1289,7 +1289,7 @@
     "mois_pct": -53.57,
     "volume": 195749,
     "volume_relatif": 1.76,
-    "capitalisation": 25891393401.311527,
+    "capitalisation": 21721308026.960224,
     "per": 383.4,
     "bourse": "TRADEGATE",
     "secteur": "Technology Services"
@@ -1303,7 +1303,7 @@
     "mois_pct": -28.05,
     "volume": 307469,
     "volume_relatif": 2.94,
-    "capitalisation": 1964890075.9738424,
+    "capitalisation": 1660799922.475671,
     "per": 24.4,
     "bourse": "GETTEX",
     "secteur": "Non-Energy Minerals"
@@ -1317,41 +1317,27 @@
     "mois_pct": -28.84,
     "volume": 580601,
     "volume_relatif": 2.15,
-    "capitalisation": 1964890075.9738424,
+    "capitalisation": 1660799922.475671,
     "per": 24.2,
     "bourse": "TRADEGATE",
     "secteur": "Non-Energy Minerals"
    },
    {
-    "symbole": "TRADEGATE:LPK",
-    "nom": "LPKF Laser & Electronics SE",
-    "prix": 6.88,
+    "symbole": "TRADEGATE:T2T",
+    "nom": "T1 Energy Inc.",
+    "prix": 1,
     "devise": "EUR",
-    "jour_pct": -15.48,
-    "mois_pct": -39.91,
-    "volume": 241407,
-    "volume_relatif": 3.7,
-    "capitalisation": 203811269,
+    "jour_pct": -15.25,
+    "mois_pct": -55.36,
+    "volume": 137440,
+    "volume_relatif": 0.85,
+    "capitalisation": 301580303.3481389,
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Producer Manufacturing"
    }
   ],
   "Allemagne : volumes anormaux": [
-   {
-    "symbole": "GETTEX:SWQ",
-    "nom": "Silver Mines Limited",
-    "prix": 0.0702,
-    "devise": "EUR",
-    "jour_pct": -5.01,
-    "mois_pct": 9.69,
-    "volume": 121200,
-    "volume_relatif": 28.35,
-    "capitalisation": 201447936.32686993,
-    "per": null,
-    "bourse": "GETTEX",
-    "secteur": "Non-Energy Minerals"
-   },
    {
     "symbole": "XETR:UEN",
     "nom": "UBISOFT Entertainment",
@@ -1389,7 +1375,7 @@
     "mois_pct": -17.99,
     "volume": 133219,
     "volume_relatif": 21.34,
-    "capitalisation": 2887629757.226818,
+    "capitalisation": 2761132533.773611,
     "per": 7.5,
     "bourse": "TRADEGATE",
     "secteur": "Non-Energy Minerals"
@@ -1403,7 +1389,7 @@
     "mois_pct": -33.12,
     "volume": 238271,
     "volume_relatif": 14.38,
-    "capitalisation": 579608961,
+    "capitalisation": 444890534,
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Technology Services"
@@ -1417,7 +1403,7 @@
     "mois_pct": -15.91,
     "volume": 108980,
     "volume_relatif": 13.62,
-    "capitalisation": 402304609.30081266,
+    "capitalisation": 372723381.57333344,
     "per": 48.2,
     "bourse": "GETTEX",
     "secteur": "Non-Energy Minerals"
@@ -1431,7 +1417,7 @@
     "mois_pct": -19.29,
     "volume": 3851879,
     "volume_relatif": 13.13,
-    "capitalisation": 324191382.4019408,
+    "capitalisation": 272389385.3639174,
     "per": null,
     "bourse": "GETTEX",
     "secteur": "Producer Manufacturing"
@@ -1473,10 +1459,24 @@
     "mois_pct": -30.36,
     "volume": 107400,
     "volume_relatif": 8.42,
-    "capitalisation": 2814274446.998532,
+    "capitalisation": 2709402781.452441,
     "per": null,
     "bourse": "SWB",
     "secteur": "Consumer Durables"
+   },
+   {
+    "symbole": "SWB:PBB",
+    "nom": "Deutsche Pfandbriefbank AG",
+    "prix": 2.572,
+    "devise": "EUR",
+    "jour_pct": -1.91,
+    "mois_pct": -11.25,
+    "volume": 136985,
+    "volume_relatif": 8.39,
+    "capitalisation": 349635797,
+    "per": null,
+    "bourse": "SWB",
+    "secteur": "Finance"
    }
   ],
   "Hong Kong / Chine : plus fortes hausses": [
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Should You Really Buy Anthropic Stock After Its Historic IPO? History Offers a Clear Answer. - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPal9RU1JBdFN4ZDIteWhOQ29nSVBSY3pYZ3Y3VW1kRS16UVVfb1Nlb2d6b1NrOTgyMHdDUlc1X3VuQ05XMEJ2TExqNVowVDJtZUxEU19nQ0k2a3FPRi1FY3FZbFpqN1VkLTdIcDMzNUFmODY5WjJSaENvT3ljWWZVQjZqM0xfYnEyNnMwNG9rMjl2Y05Hb1ZXVXhFdXlHaUFzTXc?oc=5",
+   "date": "Sat, 21 Nov 2026 09:44:02 GMT",
+   "vu_le": "2026-11-21T10:00:35.606738+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Hits a Two-Year Low as CoinShares Sees ‘Advanced Capitulation’ - www.trendingtopics.eu",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQU9rZmdyc3VOTC15MnlhcnZLUFJ1Tzk5REVoZHc5bDRPdTJzLWQ1QjJ2NnVJWVNrN1VjQkpIbWVJaXpjVWR3OWJrNDJFZ0pfQnFZb0ctLWt2MGZFbWkzTXFHa3FJSFgxbTE2NDZFdkJLbXQtMTl4WV81LVBnczJYbDRiQ0otZzlh?oc=5",
+   "date": "Sat, 21 Nov 2026 09:48:58 GMT",
+   "vu_le": "2026-11-21T10:00:35.606738+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "CAC40 : les indicateurs économiques à suivre du 23 au 27 novembre - Le Revenu",
@@ -6537,20 +6551,6 @@
    "titre": "Anthropic plonge après des débuts fulgurants, alors que les inquiétudes liées à l'IA persistent - Boursorama",
    "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNGlwTGdhVDRDa3k3VVJ1Q3RQVzJBcUdZN1FRREFjMTB5ZlRaa3NtQThHMXdXNUFsMHFxLXJjTmdlN2M0YTUybElPMEs3M21PMWMweTZLcU1lS0JGeGNDRmNOY1hPbmxXME5EUGN0Z282emloT1ZNeDFYWlRxVEVCTkZzN0kwRTBIaUZPbkR2UUc0Y3BPY3ZzN2JCY25Vb3JkNHk2MTh0S0dNS29LeGdMRlh0ZGNWWFN1SXY1WVZuSF9qTWh6dEFibHdsRVVMTjR1c3lZM1h4bVlZNGlUcW9UR3lqc1o5ZlV2eU1YQUN3WFZlcDhjelk2VVRHSzk4b1dMc3hhUUU1QdIBhwJBVV95cUxPNGlwTGdhVDRDa3k3VVJ1Q3RQVzJBcUdZN1FRREFjMTB5ZlRaa3NtQThHMXdXNUFsMHFxLXJjTmdlN2M0YTUybElPMEs3M21PMWMweTZLcU1lS0JGeGNDRmNOY1hPbmxXME5EUGN0Z282emloT1ZNeDFYWlRxVEVCTkZzN0kwRTBIaUZPbkR2UUc0Y3BPY3ZzN2JCY25Vb3JkNHk2MTh0S0dNS29LeGdMRlh0ZGNWWFN1SXY1WVZuSF9qTWh6dEFibHdsRVVMTjR1c3lZM1h4bVlZNGlUcW9UR3lqc1o5ZlV2eU1YQUN3WFZlcDhjelk2VVRHSzk4b1dMc3hhUUU1QQ?oc=5",
    "date": "Fri, 20 Nov 2026 14:36:35 GMT",
-   "vu_le": "2026-11-20T17:30:37.127167+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock Market Midday, Nov. 20: Nasdaq Plunges Nearly 3% as AMD and Micron Lead a Brutal Semiconductor Sell-Off - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQTI2OU91ajVQOVJDTGFqbVdseVZrcmIySkoxU0tqTm9BbjFqQmVMWXBNT0VScjFpUmJiTFJtSDl4SmhXQi1VTThGa2hsWi1VTHlGWk1kVXVEMWlrTFBTMlQ3Vk5VTWtLa18yME93NFFhcC1mZFNzZl9mXzVIOUpkcTVjcDlMWkdwSXhETzVVVUpxMk1MYm1wT01mcmpsQXJ0aGRYRTFwVnRzTk02dkx2amFFWjNteG45NTFMeXFJZjU3MjMyLXU5ZUQtOWMtS0VkbENnMkJFME9NS1JlRG1yczN4Q1Y4REM1MzZFYUtZcExOcTVqQk1Ga3BR?oc=5",
-   "date": "Fri, 20 Nov 2026 17:00:02 GMT",
-   "vu_le": "2026-11-20T17:30:37.127167+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Clôture Paris : le CAC 40 chute de 1,9%, sous les 8.000 points - Boursier.com",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT3gxZTJBU2VQcDJnVGN2MDhQM3hhck5kVjNoZ3h1Uk9qWXZPZDZsRHduLTZ0ZGhMOUF3YW9FQjdwS3FPQUdqNUtEcExLTHptLXVvelIzZ3NMMjMyZ1lMNjB2blRDT3pQcFJPQWE4SEJsVVI2RDc1RUNNRlpvcm92MHB2Nm9OSkpKUzJvaVk3WDZVUnlIbl9xTFlpM3FnajlhUkRLTVlFWTBzcTdneHVaMnhQalFVRm9NRmdB?oc=5",
-   "date": "Fri, 20 Nov 2026 17:00:03 GMT",
    "vu_le": "2026-11-20T17:30:37.127167+00:00"
   }
  ],
