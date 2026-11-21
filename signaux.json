@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T05:10:35.016853+00:00",
+ "mis_a_jour": "2026-11-21T05:20:36.300775+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 51362.69,
+   "prix": 51261.33,
    "devise": "EUR",
-   "jour_pct": -4.31,
-   "mois_pct": -31.35,
-   "volume": 112.6670484,
+   "jour_pct": -4.49,
+   "mois_pct": -31.49,
+   "volume": 113.53503385,
    "volume_relatif": 0.54,
    "capitalisation": null,
    "per": null,
@@ -3754,6 +3754,20 @@
  },
  "actualites": [
   {
+   "sujet": "Banques centrales et taux",
+   "titre": "Le dollar américain se dirige vers une quatrième semaine de hausse consécutive sur fond d'anticipations de resserrement de la politique monétaire par la Fed. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNenJYYWstaGtCc2hsN2I0aXE5Y0lfS0VYcm9GWVVnVTlIN2gzTDRTX3hZMHNiNFprU3BtUzJLeDlJWWwwY2pSdF9kWFd2T1Y5NXdIaDVka3dDVW4tdUE2cG5YZ0IwMnBVbERCSGNwRDVlNHlYaUlnWWw3Z3gxaHA1eWdtVEZPWTFSbTdwMHFZeEl0ckE0ZDdv?oc=5",
+   "date": "Sat, 21 Nov 2026 01:15:10 GMT",
+   "vu_le": "2026-11-21T05:20:36.300775+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "India-Italy bilateral trade projected to potentially exceed EUR 50 billion by 2035: ASSOCHAM - www.indiagazette.com",
+   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNckNvaEV2UkJGTXlzS091N1loYzl1dHFaNndQQnRra1VHQ0ZNUklmN2RVRGZ4UU15LVlhbWowSzA2VE1jX0ptNDF2NTlWSlB2QXZqVml0bzhwTFhiaWQ4SmJub0ZyN1RpODI5WGlUM01JVmduaU5Gc3RJS2FNN0l0Q0k1dC1nR19XekJSbHZNNmNtb0libkdRX0dnUXdVcVlyRXR4Umtqa3VCczVSTjNtTHBlZTA4SmJKTnRkSDhjMzRJYnpndExnZEN2dndkaUxQ?oc=5",
+   "date": "Sat, 21 Nov 2026 00:31:00 GMT",
+   "vu_le": "2026-11-21T05:20:36.300775+00:00"
+  },
+  {
    "sujet": "Intelligence artificielle",
    "titre": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust - WSJ",
    "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY1h6VEhXUGRDcE9hX25QQllJOF9uSmhUNERBSVdBNjRkU0gyaGRySGN0MXVXZERzUmhmdXJIUms2cFJJU2ZvdkVjUlB0RjRxSTQ4RFBiYTV0T0MyUFB5cWw0RWtuZzZrQXFwLUJqb3VsZGhacHR0NF9wTVMwc0tYUW1obFhUNHNVX0JEQnFKX2pRc1RWRGsxVw?oc=5",
@@ -6537,20 +6551,6 @@
    "titre": "Anthropic chute de 9 % pour sa deuxième séance à Wall Street - Bourse Direct",
    "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUEc4R0JYdDMzMV95OFA1NGZadlNzYTRxYTM4TDlHd1lVaE1QYjJMM0pCOHZrbjRDVldlMnJKdU13ZndHc2hvRFR5WUxjVERDRGM0RkRseEpxRFllOTd3aV9heW1FbVhSUW5nWDVnUW9LalRqTXdvNE9OS3JmX05WejgxTVhDenhFaThXNXh2eUlFb0tCT25TZ3FVRlpydXZaMG44ZFczWFBfWjJrQ2xqS0FCbWF2cm9qc2YzRGRQanNWZFFTdUpsamRtdTZhZjJMdmp0bDNBVWVEM1B3bXd1MFVQOWZaMlZwOXFFeGtKendyZDNGU25r?oc=5",
    "date": "Fri, 20 Nov 2026 14:44:00 GMT",
-   "vu_le": "2026-11-20T15:30:36.361244+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Malgré les succès de Nvidia et d'Anthropic, le Cac 40 perd plus de 4 % sur la semaine, sa plus forte baisse depuis huit mois - Investir Les Echos",
-   "lien": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNdHhtRzJDT18xVzBONE9FTFJIWHJmaGNHMjJ1OWFSZTJYNUk4aGdJM2NWYzAzQjNhNXBad0d2QmVBNWs5S3lNTHVTenFrZ0NXWUpVVkU5VW9WYUtNRjhVY3hSbzFvd1BiU1Z5VW9PNWFWbzd5bTN2cUZlT2FJUHdidGFudFRQMV9RTEE1VzRLMkNMUzM3RUNTM1JpWi02d29JVHZMWkZWNkVBNDVzTC1vQmRJeWpJMTJmMlpWTFZVNDN0blFXMVh3MjNmWG82MDlSSHM1ZnpwVFk3N1hlb3BqdHZWRnhuVE1TbjZLbElVVFFSdXd2b3FSR2lGeVNWUFZkemthdl9iTHNNeXJhTURkSlZlU1l1SFBWRmc?oc=5",
-   "date": "Fri, 20 Nov 2026 14:43:10 GMT",
-   "vu_le": "2026-11-20T15:30:36.361244+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Intelligence artificielle : les secrets de l'entrée en bourse record d'Anthropic - France 24",
-   "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOangzaTVMTWE0QjZfWHlCXy1zd2p3SGVILUE2bXV1S3FUd2RxUGREYnlkVzBhLTFzakZSMUhLNDcyM2tQUzhpV0lsZHRoU282V1ZycGpqa2JmWmFUVGlRY2ZUZHVmQW5kbEpERjkwX00wTzhBZXkydTBBWHE0TlR6SkJpSzBkUHRRcHBWYW9ocE1Bc2xsb1I2ZHRBaWFRa2R2WlBrSXFwaXJkVHRPTWl0Sks4WG90VENIOUxCVXRpOGM4aVFCMF9KZ3FXcnJqRDlZc1ZRRHB3a3g3V2c?oc=5",
-   "date": "Fri, 20 Nov 2026 14:49:12 GMT",
    "vu_le": "2026-11-20T15:30:36.361244+00:00"
   }
  ],

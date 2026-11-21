@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 51362.69 EUR, jour -4.31 %, mois -31.35 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 51261.33 EUR, jour -4.49 %, mois -31.49 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,8 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Banques centrales et taux] Le dollar américain se dirige vers une quatrième semaine de hausse consécutive sur fond d'anticipations de resserrement de la politique monétaire par la Fed. - Vietnam.vn
+- [Pays émergents] India-Italy bilateral trade projected to potentially exceed EUR 50 billion by 2035: ASSOCHAM - www.indiagazette.com
 - [Intelligence artificielle] U.S. Stocks Extend Plunge as AI Boom Turns to Bust - WSJ
 - [Bourse de Paris et Europe] Semaine éprouvante pour le CAC 40 qui repasse sous les 8 000 points - Bourse Direct
 - [Crypto] XRP price at Nov 20, 2026 at 11pm EST Crypto Prediction Market - Robinhood
@@ -456,7 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Banques centrales et taux] Wall Street dévisse, mais le "Fed put" reste hors de portée - Boursorama
 - [Anthropic] Anthropic IPO Nears Its IPO Price as SpaceX Offers a Warning - Forbes
 - [Anthropic] Why Anthropic's day-one valuation wasn't built to last in this market - CNBC
-- [Marchés mondiaux] U.S. stock market slumps amid rising tech and AI worries - The Washington Post
-- [Rachats et fusions] Corpay Invests Alongside TPG to Acquire BILL - Quantisnow
-- [Crypto] Crypto Market Today, Nov. 20: Bitcoin Plunges Below $60,000 as Wall Street's Sell-Off Spreads to Crypto - The Motley Fool
-- [Marchés mondiaux] UK stocks sink as global sellof
+- [Marchés mondiaux] U.S. stoc
