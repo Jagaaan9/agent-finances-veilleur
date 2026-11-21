@@ -1,4 +1,4 @@
-PASSAGE. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
+PASSAGE DU SOIR (après la clôture américaine) avec bilan du jour. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
 
 POSITIONS ET INDICES :
 - Anthropic, PBC Class A (NASDAQ:ANT) : 88.91 USD, jour -8.5 %, mois -20.26 %
@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55047.94 EUR, jour 2.56 %, mois -26.43 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55122 EUR, jour 2.7 %, mois -26.33 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - G-Resources Group Limited (HKEX:1051, secteur Finance) jour -2.05 %, mois -7.97 %, prix 5.485 HKD, capi 2472715327, PER 9.4, volume x16.68 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
 - Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
+- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 5047665185, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 665841152, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3641703802, PER None, volume x1.08 la normale
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,19 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Intelligence artificielle : les secrets de l'entrée en bourse record d'Anthropic - CANAL+
+- [Bourse de Paris et Europe] CAC 40 : −5,27 % cette semaine, que faire lundi ? - https://www.leconseilpatrimoine.fr/
+- [Banques centrales et taux] [XAUUSD] D1 : Une zone de demande à 3 400 avant 3 253 ? pour OANDA:XAUUSD par BMR_MasteTrade - TradingView
+- [Banques centrales et taux] Prévisions EUR/USD : la paire se renforce au-dessus de 1,0950, mais reste sous la résistance de la moyenne mobile simple à 100 jours - www.tmgm.com
+- [Banques centrales et taux] La France propose Laurence Boone au directoire de la BCE dans le cadre d'un remaniement clé - IndexBox
+- [Chine et Asie] China Isn’t Collapsing. It’s Decaying | Logan Wright | Ideas Lab [Ep.55]｜Top Traders Unplugged - finance.biggo.com
+- [Chine et Asie] Hong Kong film rides new wave by breaking from typical genres - China Daily
+- [Chine et Asie] Editorial | Hong Kong’s dim sum bond index will sustain global yuan momentum - South China Morning Post
+- [Pays émergents] Ethereum, Silver & Taiwan Wiped 5–10%; India & Bonds Find Refuge as Nine New 52-Week Lows Hit on the Same Session - The Globe and Mail
+- [Défense, énergie, matières premières] Intuitive Machines vs. Rocket Lab: Which Space Stock Is a Better Buy for 2027? - The Globe and Mail
+- [Défense, énergie, matières premières] ARK Space & Defense Innovation ETF (ARKX) Stock Price, News, Quote & History - Yahoo! Finance Canada
+- [Défense, énergie, matières premières] Applied Aerospace & Defense shares plunge 23% o... - Pluang
+- [Crypto] Russia allows exchanges to launch crypto trading with Central Bank approval - Crypto Briefing
 - [Chine et Asie] China's high-tech FDI surges 31.3% in first 10 months - chinadailyhk
 - [Chine et Asie] Trump’s Treasury Secretary Keeps Nvidia’s H200 China Policy as House Data Show Nearly 880,000 AI Chips Approved - TIKR.com
 - [Crypto] Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday? - Barron's
@@ -444,18 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Intelligence artificielle] Nvidia (NVDA) shares fell sharply as SEC investigates potential accounting issues - Beinsure
 - [Crypto] Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open - CoinDesk
 - [Anthropic] After Blockbuster Anthropic IPO, Dario Amodei Heads To Puglia - Forbes
-- [Bourse de Paris et Europe] Budget européen : Paris et Berlin fustigent un nouveau projet revu à la baisse - Bourse Direct
-- [Bourse de Paris et Europe] Bourse : après l'effondrement, le pire est ailleurs - Le Revenu
-- [Bourse de Paris et Europe] Macron dénonce un "agenda agressif" de la Russie sur le "territoire européen", un "pari irresponsable" - Bourse Direct
-- [Bourse de Paris et Europe] Ubisoft -23 %, Worldline -15,5 %, Vallourec -14,6 %… : la semaine noire qui a coûté 5,2 % au CAC 40 - Le Tribunal du Net
-- [Banques centrales et taux] Laurence Boone, figure de proue de l'économie européenne, va intégrer le directoire de la BCE - France 24
-- [Banques centrales et taux] Cours de l'or aujourd'hui, 21 novembre : la chute se poursuit, atteignant un plus bas en 14 mois. - Vietnam.vn
-- [Défense, énergie, matières premières] 4 Defence Stocks to Watch as Ministry Seeks 20% Defence Capex Hike in FY28 - Equitymaster
-- [Crypto] Bitcoin Surges After Two-Year Low Performance - GV Wire
-- [Bourse de Paris et Europe] AMUNDI Cours Action AMUN, Cotation Bourse Euronext Paris - Boursorama
-- [Bourse de Paris et Europe] Le CAC 40 sous 8000 pts, -5% en 1 semaine : Céder à la panique ou profiter des soldes? - Investing.com France
-- [Banques centrales et taux] Prévisions Bitcoin et or : le BTC et le XAU poursuivent leur repli, pénalisés par les anticipations d’une Fed restrictive - www.tmgm.com
-- [Banques centrales et taux] Le prix de l'or chute de 9,4% en une semaine, au plus bas depuis 14 mois - IDNFinancials
-- [Anthropic] Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 - CNBC
-- [Bourse de Paris et Europe] Bourse : après l'effondrement, le pire est ailleurs - Le Revenu
-- [Chine et Asie]
+- [Bourse de 
