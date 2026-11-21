@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55190.26 EUR, jour 2.83 %, mois -26.24 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55121.86 EUR, jour 2.7 %, mois -26.33 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,12 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] IPO d'Anthropic ANT : cours de l'action Claude et faits clés 2026 - Bleap
+- [Chine et Asie] HK50|HK50|Price:22240.000|Chg%:-511.000 - TradingKey
+- [Chine et Asie] Dream of gas-powered vehicles falters in China’s hydrogen capital - Financial Times
+- [Pays émergents] Foreign Investors Pour Record Rs 1.22 Lakh Crore into Indian Equities in November - boldnewsonline.com
+- [Défense, énergie, matières premières] Electro Optic Systems Holdings Limited (EOS.AX) stock price, news, quote and history - Yahoo Finance Singapore
+- [Défense, énergie, matières premières] Utility Stocks Investors Are Turning To After The AI Sell Off - Yahoo Finance
 - [Anthropic] Watch Anthropic IPO Fails to Calm AI Jitters - Bloomberg.com
 - [Chine et Asie] Beijing to restrict young Chinese firms from overseas listings - Communications Today
 - [Intelligence artificielle] Worried About a Market Crash? This AI Stock Should Bounce Back Fastest. - Yahoo Finance
@@ -450,10 +456,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] 21Shares Forecasts Bitcoin to Hit New Highs in 2027 Predictions List - Benzinga
 - [Crypto] Crypto News: Pepeto Announces a Security Upgrade While the XRP Price Set To Rise Despite the Anthropic IPO Pulling Money Out of Crypto - markets.businessinsider.com
 - [Bourse de Paris et Europe] CAC40 : une baisse de 5,3 % sur la semaine, sous les 8.000 points - Le Revenu
-- [Bourse de Paris et Europe] TELEPERFORMANCE Cours Action TEP, Cotation Bourse Euronext Paris - Boursorama
-- [Bourse de Paris et Europe] SEB Cours Action SK, Cotation Bourse Euronext Paris - Boursorama
-- [Bourse de Paris et Europe] SODEXO Cours Action SW, Cotation Bourse Euronext Paris - Boursorama
-- [Intelligence artificielle] The Week in Breakingviews: Know your chip customer - Breakingviews
-- [Intelligence artificielle] Cotton claims Lutnick ignored his ‘many letters’ warning of chip sales to China - The Hill
-- [Petites valeurs en croissance] Cigna (CI) Stock Could Be Cheap As Shares Drop 4% - Simply Wall St
-- [Petites valeurs en croissance] Coherent Buyback Puts Fabrinet Stock Back In The AI In
+- [Bourse de Paris et Europe] TELEPERFORMANCE Cour
