@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T04:30:35.182696+00:00",
+ "mis_a_jour": "2026-11-21T04:40:37.772257+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 50889.06,
+   "prix": 51038.22,
    "devise": "EUR",
-   "jour_pct": -5.19,
-   "mois_pct": -31.98,
-   "volume": 102.94574191,
-   "volume_relatif": 0.49,
+   "jour_pct": -4.91,
+   "mois_pct": -31.79,
+   "volume": 104.48610806,
+   "volume_relatif": 0.5,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3754,6 +3754,27 @@
  },
  "actualites": [
   {
+   "sujet": "Anthropic (FR)",
+   "titre": "ENQUÊTE IMMÉDIAT-Le Nasdaq plonge de 5 % au lendemain de l'entrée en Bourse d'Anthropic, mais les investisseur - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQWTJWajVfbzhXRzJWdk9QSmpVeDFrcW1XNEFyZVNsWnA3akRFa3RYS2RXNWZSWnhSdHhmc0hyY3c3Z3BvcjV4Wk1EenNfWHNCVVdIRlk1ZngxT1RaNGJ6ZFE4eDEzOEM5QlByN3lhQVN1WFc0T3FON0QzQkJnWkdLNk13a3pTcXVlWGFNVDBOV0tuV0MtZWVYeXhpQWVldFk1cFo3aTUtUUYtNk1ncU82VjZlRk9lLXlpeEhZREFsZEtNUnR3dm1TRlg5UjJwejYtMmZKb0cyZ1dLWVBqRE56Yl90bFZ5UmpJaloycTdrV3hreHA1a0hlWEc3TENPQUYwNGEta2ZLYjhDT2tORGtuWFRhTG5RWmQ1N0hBM2Z1SUV6OGp4ZDZEc01Tdi1mQi1tQi1DVXN0V1ZCUE3SAcACQVVfeXFMTXBYeEpjb2F4Z1R1dHYzd294ZFIyVTZPLV9tRWdvZXZjbGxHbFVMZkdpd095aWd1TDRUX01iTU5WZ0p5M0JxRlItTDRtYXY2Q0t2OFJ1VkgzdmVJMkQyVkkzQVVsZlY2ZFlqMHB0UVVUQkpCazRZbkU2RW5lelNwWDZiVWVrTTZIYmFpTWN1aDVjd2NsOUNjUjZqWHZNVjJ4cC1tdUlWR29IZXF4OE5nRmJKU3ZwVmVyaW5ZdXdYMVFtRGZKWWlHYTdDc0Z3c2ItZ3JidV9zNmU2YlFGbWs2ZVduTktRMWU1Q3BuMjFiU1FDbVV6ZGNGWFdGcGNWZDh1RmJwanAtaEZkOHBvbDB3TDRWQUdiNVJaYlZaRHVIN0dUei10SW1xTVJELWNBc0lRNU1FRU9GSDNobjhjNXhiZXc?oc=5",
+   "date": "Fri, 20 Nov 2026 21:10:24 GMT",
+   "vu_le": "2026-11-21T04:40:37.772257+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Arxis, Inc. (ARXS) stock price, news, quote and history - Yahoo Finance - Yahoo Finance Singapore",
+   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FbDBMbW9kSGlJUEFJel9zeTk0SldEREx2LWctd01xeVFoc2Q0VjdxZlRNMlQ4OXVFQXRrUHF1Wm8wUkJPRmhGNC1IQ29zZF9DUXUtM2NnNnMweVNuTjZqZVRn?oc=5",
+   "date": "Fri, 20 Nov 2026 21:10:49 GMT",
+   "vu_le": "2026-11-21T04:40:37.772257+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "ARK Invest Adds More Anthropic Shares While Trimming Crypto Stocks As Bitcoin Slides - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTklYb2p0ZDVLc1dIdVhGS25WSE5UbzZSbHdjYXFqMS1rMXBzcEN5WERCSVdOVThPRUVCOVJXaFNFaVZaTWxtWDAwUG0zMnQ3WU93T05UTmliLVRVeFdGbFlKY2VqVlk3TGJwbUJnamVYRVVVaE4xZGNiR1hNdnAzX1l4aHR5TUszT2xsYkJKR2o5bUlnOVp2NkFn?oc=5",
+   "date": "Sat, 21 Nov 2026 04:19:00 GMT",
+   "vu_le": "2026-11-21T04:40:37.772257+00:00"
+  },
+  {
    "sujet": "Pays émergents",
    "titre": "Daily Voice: FII buying is no big shift towards India, but worst of foreign selling is over, says Spark... - Moneycontrol.com",
    "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNS1IRlhsZ2JDdW9PanZKMDl5WFE3M1NfcF94MGQ2bkJNY2k5NFhxT0QwZTJQa3l5Qnlfa1U0Ymt2WHZuVGk4ZHdJRW9IVGVFSXA2b0dqOWRveWgxY0QtT0NZQmdRWGtTQjZlM3RiUVNqN0p6cmF4UG8tWGI3MnE4YWROU3VnTmoydGEzNjI1bXdLNWR4VzVORnYtY3lBdldHanYzSXJHcHY1Z0Q4SHR4M2hPZDM1RHE1V2NNSEVES2ROakpQSTlCdG1RbEhoN3RrQ2laY0tiRGQzMG93ZW9vQjM3R2xGY3o3VXBDT2RXVW1rQ1dhLThfQ1pHUEdTdGN4d0Fj0gGDAkFVX3lxTE81LUhGWGxnYkN1b09qdkowOXlYUTczU19wX3gwZDZuQk1jaTk0WHFPRDBlMlBreXlCeV9rVTRia3ZYdm5UaThkd0lFb0hUZUVJcDZvR2o5ZG95aDFjRC1PQ1lCZ1FYa1NCNmUzdGJRU2o3SnpyYXhQby1YYjcycThhZE5TdWdOajJ0YTM2MjVtd0s1ZHhXNU5Gdi1jeUF2V0dqdjNJckdwdjVnRDhIdHgzaE9kMzVEcTVXY01IRURLZE5qSlBJOUJ0bVFsSGg3dGtDaVpjS2JEZDMwb3dlb29CMzdHbEZjejdVcENPZFdVbWtDV2EtOF9DWkdQR1N0Y3h3QWM?oc=5",
@@ -6531,27 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMXI5UER3LUFIRFR2VVl4U0Fjd0Jtekpmb1BzM2JNYXdXTF9tZFFCNUR0WjlWQXpsb1A3a2VMMkZwOXFVRmxEcDJjam4zN0FlRUZha2lJaVRMeW55RG85OFBTUEtCODhYaFcyUVdiUGd2dmdLaU5oS1YzYXNYTVlMVXRxY0ROVk5jU3BEUHlISVNtS0xuOTA1TnBlbGhUR2VYaXc?oc=5",
    "date": "Fri, 20 Nov 2026 15:18:38 GMT",
    "vu_le": "2026-11-20T15:30:36.361244+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Stock Falls Sharply After Record IPO - Investor's Business Daily",
-   "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzTGM2MWk2M2dvcEhRNnd0VkZuVm9hcWdudzJQYWlyV1kyUFFPTkIxaEdwVUNyWV9KeUdkMVp6Y2VLTGxtbVUxdVdMa0tSM29FVnU5Z2diai1KcklGZ25JWEhsT2x3NFBFc0xKSnltelRvMnM1cy03clo5RQ?oc=5",
-   "date": "Fri, 20 Nov 2026 14:00:00 GMT",
-   "vu_le": "2026-11-20T15:20:35.390665+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Le montant total de l'introduction en bourse d'Anthropic s'élève désormais à 93,5 milliards de dollars après l - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQSVpSa0lDdnZVS3B0QmowWDh2a1FMcVIzZjRseWxULWQ4SUlUSXZMeFAtSEFzeElOU0d5clBFWF9FTGo5dGNxRnhpcmJBWFJmcnFBbmh6NnJvQkIxT2J0VHVYQThDWHhJdUVlUkd1N2FHRHZ2bVpyTHNEVm9waXlLSTcyamI5VndPWWVIQ3Qxb1JqczhJYXdCQ2h1V3pRTV9IYlVoQUNHWW5IS1MtdlVHM1RvZnl4dGpQNFNRZ09VZm00TWNyNmVOYUhyWWhOamJQVWdxUWo0SVJraVJiSUFuQi1KYWRsYWlnNjUyWUlzcmhWUWI2RldKZWxFdkx0ckFHWnlUdGh6dXVkVVVDVWpNYkpuSk5qcEc4VHhGa01XY25KX1JGdldra0dWY05HaG1RS3dxeXFXNkZEMFhtTlgwUWQtLXZVcnB3WE5DejZXT3I3anpXcUwwNHpJWUU1Y29VbE1BZ3Z1UDJNYkJf0gHsAkFVX3lxTFBJWlJrSUN2dlVLcHRCajBYOHZrUUxxUjNmNGx5bFQtZDhJSVRJdkx4UC1IQXN4SU5TR3lyUEVYX0VMajl0Y3FGeGlyYkFYUmZycUFuaHo2cm9CQjFPYnRUdVhBOENYeEl1RWVSR3U3YUdEdnZtWnJMc0RWb3BpeUtJNzJqYjlWd09ZZUhDdDFvUmpzOElhd0JDaHVXelFNX0hiVWhBQ0dZbkhLUy12VUczVG9meXh0alA0U1FnT1VmbTRNY3I2ZU5hSHJZaE5qYlBVZ3FRajRJUmtpUmJJQW5CLUphZGxhaWc2NTJZSXNyaFZRYjZGV0plbEV2THRyQUdaeVR0aHp1dWRVVUNVak1iSm5KTmpwRzhUeEZrTVdjbkpfUkZ2V2trR1ZjTkdobVFLd3F5cVc2RkQwWG1OWDBRZC0tdlVycHdYTkN6NldPcjdqeldxTDA0eklZRTVjb1VsTUFndnVQMk1iQl8?oc=5",
-   "date": "Fri, 20 Nov 2026 12:49:22 GMT",
-   "vu_le": "2026-11-20T15:20:35.390665+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic plonge après des débuts fulgurants, alors que les inquiétudes liées à l'IA persistent - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQRGprc00xNlh2cnBiai1Ga3pkaTZId3g3ZnF5SU1mNnV1Rm5qeGsyQzVGeTN0cVRvcXM4Z2oyenEtWktnMUxVRVdjVTdMVHlRZ19wN0N4OE5EZjdiMkVvaWMxcjNOUjVna25NdEhXN05rMFdjTHFaQ2RiT0hrWlRJUUNfTmtEa0RocVl3ci0zdDNhdUtEZkdneWFISkV5UmxOdDlmTW0xdld3TVdpZEI1eDVXRVZ5S3ZXVTNmR0g5WDViRC1FcW54cUN5UC0zaHkwdGIyT1BqNFo2anVkcndPdkJ6ZW5aYkZkS0g2OWdOMDNzal9mdlZxNUhEdENHUHhCb0VKLVRQVdIBhwJBVV95cUxQRGprc00xNlh2cnBiai1Ga3pkaTZId3g3ZnF5SU1mNnV1Rm5qeGsyQzVGeTN0cVRvcXM4Z2oyenEtWktnMUxVRVdjVTdMVHlRZ19wN0N4OE5EZjdiMkVvaWMxcjNOUjVna25NdEhXN05rMFdjTHFaQ2RiT0hrWlRJUUNfTmtEa0RocVl3ci0zdDNhdUtEZkdneWFISkV5UmxOdDlmTW0xdld3TVdpZEI1eDVXRVZ5S3ZXVTNmR0g5WDViRC1FcW54cUN5UC0zaHkwdGIyT1BqNFo2anVkcndPdkJ6ZW5aYkZkS0g2OWdOMDNzal9mdlZxNUhEdENHUHhCb0VKLVRQVQ?oc=5",
-   "date": "Fri, 20 Nov 2026 13:00:29 GMT",
-   "vu_le": "2026-11-20T15:20:35.390665+00:00"
   }
  ],
  "erreurs": []
