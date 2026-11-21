@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T22:20:35.483785+00:00",
+ "mis_a_jour": "2026-11-21T22:30:36.181809+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54969.27,
+   "prix": 54999.9,
    "devise": "EUR",
-   "jour_pct": 2.41,
-   "mois_pct": -26.53,
-   "volume": 408.92300444,
+   "jour_pct": 2.47,
+   "mois_pct": -26.49,
+   "volume": 409.28308639,
    "volume_relatif": 1.96,
    "capitalisation": null,
    "per": null,
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Pays émergents",
+   "titre": "3 of the best ASX ETFs to buy and hold for 10 years - The Motley Fool Australia",
+   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbk41WjBmelcwcWV3UmhYdk9KakplbnlsN0xKdjZqcGVoUnFfZkx5Tkw5MEJIZ2ZZRkFwNlIxbkI5cXRCV21hN2ZybjJKVXltVy14TXBIZm90alpMb0dWZ3RmaFRKdFBLRFN1X3ZQcmFzVnZrNmFvR0VsU1VSMEdTYUFzMF9kV3VNS2czSW93NU9aZjg?oc=5",
+   "date": "Sat, 21 Nov 2026 22:15:22 GMT",
+   "vu_le": "2026-11-21T22:30:36.181809+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "We May Be Witnessing Wall Street's Biggest Bubble Burst in Real Time (and I'm Not Talking About Artificial Intelligence) - The Motley Fool",
@@ -6544,13 +6551,6 @@
    "titre": "HKSTP Debuts at MEDICA 2026, Forging Hong Kong-Europe Pathways for Life and Health Tech - Akron Beacon Journal",
    "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMF9SMjNHYllVbExZcTVkci1oRUcyN0NWNVg2SUJ2Mms2YlQ2VTAtS2V6RTlHTVhtMjYxSldMNXl6NXVtUmFPck5yOEhsM2M0ZkxWTUVidnBMRnp2Y1V5TDE5ckJnN2xYNnJKSngzb2NnU0I3WWxpQUY0OE5qemM3R2RwNTl4ZVJ0dW11XzVDRC1qZ1JxM0QwMDJVYk91Q3dJSFdXWWhUSFpOcWJsbEZveTZJXzQwYjg4ZHhwOFo3ZEZvM09kdDZVaHpZaEhBbFJUdGhMX1R0NzFLek43?oc=5",
    "date": "Fri, 20 Nov 2026 12:00:02 GMT",
-   "vu_le": "2026-11-21T10:50:35.078565+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Data centers full of U.S. chips are serving Chinese AI models–undermining Trump’s tech ambitions - Fortune",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CVzl4LXRnWUdVdlJ2VEg4VnE3VmxlUWt2REtJMHRJVF8yOWJTZnltWGlZaHVTbUF4TUFmNE4wdzhkQ3p4dG5pRXFqRGNSbi1yUzBwQktjTk1KWW50WkxWbGp2RzFvZTZsR01vbVlRYmNWVEpBWW9qbXAwSTRRMFE?oc=5",
-   "date": "Sat, 21 Nov 2026 10:00:00 GMT",
    "vu_le": "2026-11-21T10:50:35.078565+00:00"
   }
  ],
