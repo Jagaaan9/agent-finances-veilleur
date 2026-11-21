@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T02:50:36.303960+00:00",
+ "mis_a_jour": "2026-11-21T03:00:35.708431+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53457.6,
+   "prix": 53387.19,
    "devise": "EUR",
-   "jour_pct": -0.4,
-   "mois_pct": -28.55,
-   "volume": 10.87165254,
+   "jour_pct": -0.53,
+   "mois_pct": -28.65,
+   "volume": 11.15873288,
    "volume_relatif": 0.05,
    "capitalisation": null,
    "per": null,
@@ -3754,6 +3754,34 @@
  },
  "actualites": [
   {
+   "sujet": "Anthropic (FR)",
+   "titre": "Le Nasdaq plonge de 5 % au lendemain de l'entrée en bourse d'Anthropic, mais les investisseurs continuent de croire en l'IA - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4OWp3RmVfYWUyMllNLTFMUVg0Z2xhX3FQOExDY19zWGt2czN5QVpUZFhTVFNsWEk2SXJWOG9CaWhPcW11MC0tVUkwMVZiTlo1U0x3Mm9TeHJ4VnlVUW81RzBOWTF3RENvMGNaZng4NGtFNkpXbUVN?oc=5",
+   "date": "Fri, 20 Nov 2026 21:12:41 GMT",
+   "vu_le": "2026-11-21T03:00:35.708431+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "No further shareholder vote is needed for the merger that would take Bumble (BMBL) private. - Stock Titan",
+   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVRvMnZaUXpIYjE4QzBlMC1QWUI2bEpLOFZWLVBPVmJxVXVCX21GMkVFWm5qNVEzeEd6a2s1d191T3FzWmZ4cldISzNkYXVQeTlmSmU5ajdGUjZfNkdnUVZUOGRtemFfdU15ZGxJV0FFNy1JNjZqc29IR3dvOGFJM1lBczBMRHVXeWY3QTZET3h3YTc3UWo4QmZFT3ZVOXBPY0pOT09FOVpLNVpxREdDYXlCcXBZOFA0YkVXWXVB?oc=5",
+   "date": "Fri, 20 Nov 2026 21:05:18 GMT",
+   "vu_le": "2026-11-21T03:00:35.708431+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "US Stocks, Corporate Bonds, Copper and Oil Flash Warning in Unison as US Economic Boom May Be Nearing Its End - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kOG1IS05pTVFpdHhXS25CZWRGOGsyQW1HNHk5WjZpd1BscWozWmxqNG9aZVg2b3MyMnpSRU5yNGExMHh5bXM3enhPNVpjVHZrUzEwSkdNdktwbnNwTmZRUXJmS0VMZ0o4NmsyMEdpVU5nSFhaSlE?oc=5",
+   "date": "Fri, 20 Nov 2026 09:25:00 GMT",
+   "vu_le": "2026-11-21T03:00:35.708431+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Nvidia Shares Slide as Investors Rotate to Defensive Stocks - Wisevoter",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV0t1WmdOWENWWlBUSnptN3plcmVicFdTOHI4VG1KRmc5ZFZuUWhMTDA3VGRUZDRiVGZpR1p1SG1RUkE1M3B3MkhpM3JFXzFsVEtyYy1teVF1RE1KS1FPR3RRNGp0X1F1dVh2bjZIUHRpMnB4NHpxREpaMGN6alhpZk5Cc1RIb3Q1eHNDS29qczFOWUpQVzhXQXpR?oc=5",
+   "date": "Sat, 21 Nov 2026 02:49:56 GMT",
+   "vu_le": "2026-11-21T03:00:35.708431+00:00"
+  },
+  {
    "sujet": "Rachats et fusions",
    "titre": "Mergers & Acquisitions Laws and Regulations Report 2026 United Kingdom - ICLG",
    "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSFRBWjVQbXNxNG9wNkcwQUI3NEVYWDVZdHZQU3daWDBMd1Q3MXZwWHM3c041SzVCMFhBQVhFTzZtOXVGWVU4anRDVjJWR0JFOS11LU9HRVRDRm84QXZ4NWNQeXBJdWVJVjhwZmJjWVBKX2FNWGF4WDVLa3BUSGc5RmlWNmFyMFM3SXcxVlE3RGJOV1d2SEU2Sg?oc=5",
@@ -6523,34 +6551,6 @@
    "titre": "AIR FRANCE-KLM Cours Action AF, Cotation Bourse Euronext Paris - Boursorama",
    "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oZGRqT0RwNDhIdzJYcEN1XzdPa3VfRzlGcmI0OGlhOHk3aVJjdUU5aDE3NUVJS0g5aUdHR3dCaTQtSW9xeVFLUFZCcHVNVkRY?oc=5",
    "date": "Fri, 20 Nov 2026 11:57:12 GMT",
-   "vu_le": "2026-11-20T15:00:35.549646+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Baidu’s Hong Kong unit fined 500,000 yuan for proceeding with livestreaming acquisition before approval - 联合早报",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZGI3eUhOM1UyT0tHak1pT2NIendXRFptM3I3TVFnXy1iTy1OM3dmLUdtM3JWcXk3YmVGeEJtdUxTQ2dwbTRKY1dtbWpKU1hHQ29hMFRlZGF3TlpsRm96VjA2R0FRekF5M1NMaE9ESnRMN2hqNXZuSS13dkp6aXgtOGFuUmVHcnhDYmg3eXpPQ2NZc083eXN3N255MlNfN1VraDZuRHJScUI4VFBOaF9wZkFkSnJ1TjNpcl93Q0FfTmZZRWNjN2VMWndpeTItWXBtREdnejVKU284aWhyRkRz?oc=5",
-   "date": "Fri, 20 Nov 2026 12:18:52 GMT",
-   "vu_le": "2026-11-20T15:00:35.549646+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Bath & Body Works Q3 2026 slides: earnings beat amid transformation - Investing.com Nigeria",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYWlqZV96bkZOZXZLeGstV1RRZU84anRIQ0RBYTNkVFdMT2h5TWhOcXZtSllUY29DVUFCLTNjamk3ZFVKOUVZRGQ2cDZPQTExS3RpTWw3aUItaUdxSlFXRmF5ajA0ZFpEeERmZXZQenJJWENGNk9oYXBqWTRBQ2s1ejlELUx6U2NIMjNPZW5oVk9aWU1TSHdhZVRHOWxXQ1VQb1JUUW9TZ2RSYjBYdi16VGN0VEtaeV8wTHRwaDhxckpSRnIz?oc=5",
-   "date": "Thu, 19 Nov 2026 21:21:07 GMT",
-   "vu_le": "2026-11-20T15:00:35.549646+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "TechFlow Intel: Anthropic Surges 17% on Debut with Market Cap Exceeding $1.7 Trillion, AMD Plunges 8% Amid Short-Sellin… - 深潮TechFlow",
-   "lien": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tTnl3TkU3Z2pyUEdGS2N3clBtZ0dwSDRLNmhpczNINi1mcTNpWDdYQnV0akFBc3F1UVU2WXlaWmVQRUh1WTJhRGI2N01EYktXWllnVG5MTXViZUhT?oc=5",
-   "date": "Fri, 20 Nov 2026 14:52:15 GMT",
-   "vu_le": "2026-11-20T15:00:35.549646+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "VanEck Drops Gemini As Custodian Of Its Crypto ETFs - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWllmbVVQX2VmWTkwRGhtNmJURnhQZWIzdVZ6WFBKR2NubGFpV3RlUVZNeTBqYXZWMnI3TmNYY2FqY1lwSGtQWUIza1BjSk0tbHFLU2NtQTJKbkMxdmk0QzRGNGc4ajRWNmlid0VuZ3lLMWZaZGJSb2hlS2Faa01jRmJxT0dXRzVvTFk0T0VzZmg1emRHS3JtTTNaNTY1TkJyRjNF?oc=5",
-   "date": "Fri, 20 Nov 2026 14:51:00 GMT",
    "vu_le": "2026-11-20T15:00:35.549646+00:00"
   }
  ],

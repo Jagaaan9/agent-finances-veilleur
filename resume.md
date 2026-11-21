@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53457.6 EUR, jour -0.4 %, mois -28.55 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53387.19 EUR, jour -0.53 %, mois -28.65 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,10 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Le Nasdaq plonge de 5 % au lendemain de l'entrée en bourse d'Anthropic, mais les investisseurs continuent de croire en l'IA - TradingView
+- [Rachats et fusions] No further shareholder vote is needed for the merger that would take Bumble (BMBL) private. - Stock Titan
+- [Résultats d'entreprises] US Stocks, Corporate Bonds, Copper and Oil Flash Warning in Unison as US Economic Boom May Be Nearing Its End - BigGo Finance
+- [Défense, énergie, matières premières] Nvidia Shares Slide as Investors Rotate to Defensive Stocks - Wisevoter
 - [Rachats et fusions] Mergers & Acquisitions Laws and Regulations Report 2026 United Kingdom - ICLG
 - [Défense, énergie, matières premières] What are defensive stocks? Why Walmart and other staples rose Friday as the market fell - Nacionale
 - [Crypto] Veteran trader who nailed 2018 Bitcoin crash issues this brutal warning - Yahoo Finance
@@ -457,9 +461,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Bitcoin Poised For 'Great' 2027 as Fed Eyes Aggressive Rate Cuts, Expert Says - Benzinga
 - [Anthropic] Anthropic’s IPO Drew More Retail Investor Demand Than SpaceX - Bloomberg.com
 - [Marchés mondiaux] Wall St slides on mounting AI selloff, S&P 500, Dow set to confirm corrections - Reuters
-- [Marchés mondiaux] Supply Chain Stocks Sink Amid Wall Street Sell-Off, Though Air Freight Shows Resilience - Yahoo Finance
-- [Marchés mondiaux] Wall Street tumbles to its longest losing streak since 2024 as the Dow drops 1,100 points - AP News
-- [Anthropic] Anthropic IPO Makes Its Biggest Suppliers Shareholders - The Futurum Group
-- [Intelligence artificielle] Exclusive | Top Republican Senator Says Lutnick Ignored His China Chip Warnings - WSJ
-- [Petites valeurs en croissance] Eli Lilly (LLY) After ObesityWeek Is The Stock Still Undervalued - Yahoo Finance
-- [Résultats d'entreprises] Earnings reactions: beats 
+- [Marchés mondiaux] Supply Chain Stocks Sink Amid Wall Street Se
