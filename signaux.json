@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T07:30:38.135856+00:00",
+ "mis_a_jour": "2026-11-21T07:35:34.968659+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53111.84,
+   "prix": 53121.37,
    "devise": "EUR",
-   "jour_pct": -1.05,
-   "mois_pct": -29.01,
-   "volume": 148.40125252,
+   "jour_pct": -1.03,
+   "mois_pct": -29.0,
+   "volume": 148.61709109,
    "volume_relatif": 0.71,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3323658863800,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3323658863800,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3323658863800,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "CAC 40, Air liquide, Anthropic, Société générale… les actions en Bourse au programme de Momentum - Capital.fr",
+   "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZGdwNS0tOURsYUcwYXFXMmRVVUFDMXozQTFUYnNHTm9Ud0NUeFFJRXF4ZEVsWWVORXNJX0hKZnpHYlllb1d0OWJPZVFzeXRzdlBlZVVlY0RsYmJhbXU3NUdzcTVTektCNGNNQUlNc0dWN3pBZ0tRUWVkQXFkeHFHM01FMWRGaG1KNkxpS2hZMEVFRlFwYnVTYll0Sm5WYzk5OGRoRmtXa1RMdGluSzk5QlFBa2h0MVVla0V3NGZad3luNDYxQTVJZWppNUVBVjJ5X3JGMDVIN1BzTk0?oc=5",
+   "date": "Sat, 21 Nov 2026 07:30:00 GMT",
+   "vu_le": "2026-11-21T07:35:34.968659+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Wall Street Had a Big Week. Why are AI and Tech Stocks Still Crashing? - BeInCrypto",
+   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLSUxEWjdZNHFXNUZGSHprM3R0alMzN1FQNkhxT1BCTG5DbGF5Y0M2QzFrOTh5clZBZTRVWEJEck1ZNG1oNVZnTUlWcUFLV3JaTzAzX1ZTTEdBMjFqbnJrRExBTjRJeG5OMFhZbXVWOXRFdkk4Ulc0?oc=5",
+   "date": "Sat, 21 Nov 2026 06:00:00 GMT",
+   "vu_le": "2026-11-21T07:35:34.968659+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Inter & Co Is Down 57% Even Though Profit Rose - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcWJVeWl0NFBpREhLYmVYcHR2eDBnMkxFbkFSckxmY0JDSEFfTnBxd0JIRk5BbFZQN0V3T2JXeGpuTHZDaHBzdHBLTFdnYlJMeXRUaTdNZV9RZDZUZEpfUkpOdWdxc3dXVjE0OGNTckhfT05aS3JyWjhiZm1QMmhUWkdaQVZWanJOME5QLXVLQS1NOUZXNFc3Mkx4Y0pWOGtKazlEeTRqQkI3VDjSAbABQVVfeXFMUFkyRC03a1Z1REtKemJpNHZ2amJTN0x4ZWdGN0NiX1RkMG5LeWI1MGZYNWhMNjIwSXBBb2d4TWZ5NC1vdnhTS0dEczBjZVlrcWdiTlFvbF9naEpIcm5QUGQ3eElXSlI3UEFJSXduNGw5cVlwUi04b0ZyeVlERUwwRW11ZUtqUVVDalBIOW9TV3NtdS1jSE44UjQ0ZjRkWnhrTm5ERURPVnR1V3ViNkFWY0U?oc=5",
+   "date": "Sat, 21 Nov 2026 07:10:47 GMT",
+   "vu_le": "2026-11-21T07:35:34.968659+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "ETH price on Nov 21, 2026 at 3am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT3ctV2RvREtBZkxWNVUxQW81NEkwMGU5dFFSZjc2aUNReEJPR094c0tvUERVMWM1azZCTm43QzJLQi1YUkg1LUt4NTVQOTBrbEJYbnFKdFJta3ljOThETWh5aGVyY1VsaldyLXRTalQ1Qjk3WmF1Y0xRckJKclpraktoYmltTEJpdDNqZU14VzBXYkFhOWRSNm5iZzNacEV3WE9IUFhLR3dtSDQybEE?oc=5",
+   "date": "Sat, 21 Nov 2026 07:10:15 GMT",
+   "vu_le": "2026-11-21T07:35:34.968659+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "Global Tech Selloff Snares Chinese Stocks Amid Doubts About the AI Boom - www.citynewsservice.cn",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdldzZmpOcTNJX2cxTjhZaTQyM3JQemt4QlRROWFicDdLbHppODVUSXRSSFlnT00tMnUtdTRhU1ZjQ1loby13RGtuZVhpSFY0S2tkNGVrWFFTNkVMZjF3b3FmLWJ6VFRFd2dpNkRqQXNtSmxvd0RyV0pXSnpiVzVqc1pJUUszYXIyRjN0Y2NXV2lUZDFDSzl0QzlqTUEyT1l1a0w1NUNrOWdyTi1GRjVQZl9oNnA5U1U3LTdfSTA4MkJjY2hEYTBVMzgxZnRzTzhlNXNUejRkRV9GV2JGYnowcVloY3NUbkswMGNrU2hOdlhYZl9lak9YQ3d1S09haFVKaVF6VWhoN3JQV2VXSGpsQVhHWdIBkwJBVV95cUxPdldzZmpOcTNJX2cxTjhZaTQyM3JQemt4QlRROWFicDdLbHppODVUSXRSSFlnT00tMnUtdTRhU1ZjQ1loby13RGtuZVhpSFY0S2tkNGVrWFFTNkVMZjF3b3FmLWJ6VFRFd2dpNkRqQXNtSmxvd0RyV0pXSnpiVzVqc1pJUUszYXIyRjN0Y2NXV2lUZDFDSzl0QzlqTUEyT1l1a0w1NUNrOWdyTi1GRjVQZl9oNnA5U1U3LTdfSTA4MkJjY2hEYTBVMzgxZnRzTzhlNXNUejRkRV9GV2JGYnowcVloY3NUbkswMGNrU2hOdlhYZl9lak9YQ3d1S09haFVKaVF6VWhoN3JQV2VXSGpsQVhHWQ?oc=5",
    "date": "Fri, 20 Nov 2026 15:27:59 GMT",
    "vu_le": "2026-11-20T16:40:36.230654+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Construction Partners (ROAD) Could Be 42% Undervalued After Earnings Guidance Lands - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzV5anAtZVJ5M0FiUWF4UXR2WW5TMmd5Yk1vMHdxYVdQSXZIb0ZqMy0xNVRHdWhaZHJqbHpzeld4UEItcXVBNUtkb3p0aGpidnFoVmIxUmNGVnVqLVdGbVR5dG9TTmpCRU5BZF84SEh4Q0c2RlUxRTQwQWQ0X1BoOWFYeXJzY2I0QjdXVw?oc=5",
-   "date": "Fri, 20 Nov 2026 03:13:00 GMT",
-   "vu_le": "2026-11-20T16:40:36.230654+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "BTC price on Nov 20, 2026 at 11am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNejlUalBZeTdBV3NUdzhGek9rZG5tOHM5aFRRQ1JDVHJIZ3lNM3U1TnhXSjFNU1pUNVlFQ0dDNWVQZmNiWmJxdUJTNFpRcXZRb0JRVmJFbURwTnowaC1Jc2x2UlQxRkF2dzFsYjBnVFRQTy1GSk5RUG55MVdsNmlKX1lpN2xfY1pnVTRVQ3NmTkVWWW9KRTN4Q0ZJT0N2TnlCelFfY0RwSUMtTjBFR3E0?oc=5",
-   "date": "Fri, 20 Nov 2026 15:03:08 GMT",
-   "vu_le": "2026-11-20T16:40:36.230654+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin plunges below $60,000, on pace for its worst month since June 2022 - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeGdzcHNQMmZDeW5FZ1hwZ29NblFwbFN4d0t5LW5Tc29abE80Y3lYdGs5SGZrckVVa1lRdlcyZTZjM0hxa202Y25hR1dCMS1GeTFnRi1EZWZnTmNJOFcwcFdBUzU1ZVBoUmpTSjgwd1M1dklveGx5d2RJVFEwd09XUFp1OHo3M05RT0x3RGNwd0pkal9FbXI5N3VQWHdGeGpYTGR0TkxwUmgyMklOMnVoZzVuQV9oc1g5bHZFZHJBMFpGcFUwUmtN?oc=5",
-   "date": "Fri, 20 Nov 2026 16:29:08 GMT",
-   "vu_le": "2026-11-20T16:40:36.230654+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "CATL and Hesai added to Hong Kong's Hang Seng Tech Index as Momenta joins Hang Seng Composite Index - CnEVPost",
-   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VMUZOeVFlRUZTZ18xTVNCa1VRU1RHOEtyZ1RWTVhydEtsb0VVblItLXVnQkJHY1RiUnpWR0ZxVHpIUUFpNjJfenpDR1hicV9kaTR3ZzJhd2s5eENEZ2E5aHhleVpPQVQ4QkNWLVlrdnVGVTZEWmtJMThzSTM1UQ?oc=5",
-   "date": "Fri, 20 Nov 2026 12:29:38 GMT",
-   "vu_le": "2026-11-20T16:30:37.260630+00:00"
   }
  ],
  "erreurs": []
