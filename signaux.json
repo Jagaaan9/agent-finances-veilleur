@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T10:40:36.418708+00:00",
+ "mis_a_jour": "2026-11-21T10:50:35.078565+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52840.1,
+   "prix": 52921.16,
    "devise": "EUR",
-   "jour_pct": -1.55,
-   "mois_pct": -29.38,
-   "volume": 221.14368777,
-   "volume_relatif": 1.06,
+   "jour_pct": -1.4,
+   "mois_pct": -29.27,
+   "volume": 222.48651771,
+   "volume_relatif": 1.07,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Nvidia : L'équivalent du PIB français envolé… Sur fond de scandale chez Nvidia et de craintes réglementaires, les géants de l'IA ont effacé plus de 3.500 milliards de dollars en six semaines à Wall Street - BFM Bourse",
+   "lien": "https://news.google.com/rss/articles/CBMihANBVV95cUxNblN2WUYwXy1XVVZ6bVBxSVN3YlRWYWVEeS1EZ2EzTFlhYl82R0RlWUVVazRkMjJjcVZzbVFPVjE4YW84aVpTNlF0RVdOeTlldlVxS3lXNUxXT04yM193RGVwMWZQd0E0UDF3M24zTl8zZ1Z5TVVYOXYwNUFqVm1MNldYYXZ3eTJhNjhNOXg1UnctdElvNkpnSDVVY09NNy01RXRWb0g5bm5kYjNZdUhncmRzWjhwWUFmRWNpdUdKSC01MzFLcnVmckI5LWtwRVh0NTg2TzB2RWdLOHFiQm5PQ291RFZxTXY5ZEdMcjFuNWFlLXdJbm5jVENMak9jbExQUVdaU3JzN2RONUsyT2pWeEJVTEptajZVNGRFRk1mcWF1cE1iR3lGRGZlOWxmbFJwVFBaZkdkeFdEeFFtY19mWElONVI0ejlWSGQwWVlqTEJld1JkUm5hQk0zSFlfU2V1Q3pEYnhqeFoxb3dpeGZxcnFrbHZpd29OaTU0YkxqYklMMnJf?oc=5",
+   "date": "Sat, 21 Nov 2026 10:44:42 GMT",
+   "vu_le": "2026-11-21T10:50:35.078565+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "HKSTP Debuts at MEDICA 2026, Forging Hong Kong-Europe Pathways for Life and Health Tech - Akron Beacon Journal",
+   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMF9SMjNHYllVbExZcTVkci1oRUcyN0NWNVg2SUJ2Mms2YlQ2VTAtS2V6RTlHTVhtMjYxSldMNXl6NXVtUmFPck5yOEhsM2M0ZkxWTUVidnBMRnp2Y1V5TDE5ckJnN2xYNnJKSngzb2NnU0I3WWxpQUY0OE5qemM3R2RwNTl4ZVJ0dW11XzVDRC1qZ1JxM0QwMDJVYk91Q3dJSFdXWWhUSFpOcWJsbEZveTZJXzQwYjg4ZHhwOFo3ZEZvM09kdDZVaHpZaEhBbFJUdGhMX1R0NzFLek43?oc=5",
+   "date": "Fri, 20 Nov 2026 12:00:02 GMT",
+   "vu_le": "2026-11-21T10:50:35.078565+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Data centers full of U.S. chips are serving Chinese AI models–undermining Trump’s tech ambitions - Fortune",
+   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CVzl4LXRnWUdVdlJ2VEg4VnE3VmxlUWt2REtJMHRJVF8yOWJTZnltWGlZaHVTbUF4TUFmNE4wdzhkQ3p4dG5pRXFqRGNSbi1yUzBwQktjTk1KWW50WkxWbGp2RzFvZTZsR01vbVlRYmNWVEpBWW9qbXAwSTRRMFE?oc=5",
+   "date": "Sat, 21 Nov 2026 10:00:00 GMT",
+   "vu_le": "2026-11-21T10:50:35.078565+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "French Regulator Drops Live Nation Arena Review Despite Unresolved Competition Concerns - TicketNews",
+   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZUphRDRCNTVxVDh5ZW5fVElXY3Fkb3N5U3UzV3JIZmVPVkZOWkwwZ2E4elBuSUt0X041SWF4Mnc2TXpmQ3AyUzJJemxXVTFtSG5CRjFKNGVtTWN4R2lCMUdYVmRaeHlvSk5iVHRJWVFMZmJmT0NyY3ZBelhCcjhjREc4eWxPVGRhSlE?oc=5",
+   "date": "Fri, 20 Nov 2026 19:43:44 GMT",
+   "vu_le": "2026-11-21T10:50:35.078565+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Apollo (APO) Stock May Be 30% Undervalued As AI Credit Risks Loom - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeFk2S18wRXlJdVpvQVNPOVVoRl9wVllUTGY2eXJ3Y2c4N2JlSUprUEc4dVFEN0FjeHk2dEk2QzJteEx1cVp3VWMwLTQzd2xoYzlvbVZiRHF1UUZRT28zZ0F1YnZmY2xSWEVKVXlBdUxNM0NlV3ZmNDZrclUtWjJNOG5KdE5wRGx4RnJqZ0pqSnJWdw?oc=5",
+   "date": "Sat, 21 Nov 2026 09:11:42 GMT",
+   "vu_le": "2026-11-21T10:50:35.078565+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "MDA Space Ltd. (MDA.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04TEJDUmowUERTaVVqcUZ2WE12UjRnLVZmRjNiRThvS0RmazBoTmVYbU9ULTI3dFp4UDVYVG1yMDdSRjFYNXVnd2F1MjJVN2UtVDloZg?oc=5",
+   "date": "Fri, 20 Nov 2026 16:50:03 GMT",
+   "vu_le": "2026-11-21T10:50:35.078565+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Dan Ives Says Anthropic IPO Sees 'Very Strong Appetite,' Calls It A 'Big Win' for Tech Sector After 'White-Knuckle' Nvidia Period - Yahoo Finance",
@@ -6509,48 +6551,6 @@
    "titre": "La décision de la banque chargée de l'introduction en Bourse d'Anthropic de clôturer sa position visait à stab - Boursorama",
    "lien": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNLTJRM2dTekRoNHBJVWVhSW9OQ0otQnpIMDgzNU1GYUZ2SFZwQXRTTDBZc214X3MyY1F3RG1faS0zNGNUNDlNb0JPYzMwWnZVSkZzY3p0MmVBRUxkaFJnbEhsVXlXYzVKSk5LNWhUUHdTUVlZZ0VZMmo5WTQ2YlZuQ1FkX2NNbVI2UEVHSXpqd2JteHVOSGgyUTNaVk5qWko2X0pmazlrcFhJbVNjV3lQczNQZFg0OEpaOFVNN1BvY1BtNUZmUm04TEZIS2U2QzkyMnFEQXhpa2hCa1NqcXFlS1ZqZWUyZDd0eHAwUE4zOEdMd2ZqbV9QSm9lUnIzbng1cFhuLWxDTWY1RmtTd3U1Wkl5NWpHVFhXU04zWHVDNGxFR2dnM1R5VXNNSXR4VnJLV1RqUjBEeEVIaHF6b0h3SlBMcXFEY2FRX0x1bUZNYmpyTlJiaGlyVGNxRHNsaHVScnVIQjRnSUswTmVkLWFyazZNQWrSAfQCQVVfeXFMTS0yUTNnU3pEaDRwSVVlYUlvTkNKLUJ6SDA4MzVNRmFGdkhWcEF0U0wwWXNteF9zMmNRd0RtX2ktMzRjVDQ5TW9CT2MzMFp2VUpGc2N6dDJlQUVMZGhSZ2xIbFV5V2M1SkpOSzVoVFB3U1FZWWdFWTJqOVk0NmJWbkNRZF9jTW1SNlBFR0l6andibXh1TkhoMlEzWlZOalpKNl9KZms5a3BYSW1TY1d5UHMzUGRYNDhKWjhVTTdQb2NQbTVGZlJtOExGSEtlNkM5MjJxREF4aWtoQmtTanFxZUtWamVlMmQ3dHhwMFBOMzhHTHdmam1fUEpvZVJyM254NXBYbi1sQ01mNUZrU3d1NVpJeTVqR1RYV1NOM1h1QzRsRUdnZzNUeVVzTUl0eFZyS1dUalIwRHhFSGhxem9Id0pQTHFxRGNhUV9MdW1GTWJqck5SYmhpclRjcURzbGh1UnJ1SEI0Z0lLME5lZC1hcms2TUFq?oc=5",
    "date": "Fri, 20 Nov 2026 17:08:05 GMT",
-   "vu_le": "2026-11-20T18:00:39.531722+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Le Nasdaq recule alors qu'Anthropic ne parvient pas à raviver l'optimisme autour de l'IA - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeWZUdlYzcUVwTFZvWUxwX1p2MjhzR1kzeFBocHc2N0FtN3VsOExfakljSFByeE9lZnZidEJvektQM3NTTEJoaXM3dVU4eG4zVUEwcTZEMEhJYTh4WDBLOEp3ckRsZWdhQ3BTbWh2Q2UxVnhQNnJiMmFqc3Z5RHA1aThNZ0RZdmtUQnZmNVp3R01QdjJ2Q2RUaGZRM0gwd0wxR1NPdmVHUkoyUllqaldaX21RQnp3TF9sRWUwMlBNZHMxNndYMkJNYnlSWEJxVW9jZFBoaUtfbnhkVXRrRG84eTBwbjd6X1ZBQmxoQ0t5eVpXZW1LdElLeWdBTjctNmvSAf8BQVVfeXFMT3lmVHZWM3FFcExWb1lMcF9adjI4c0dZM3hQaHB3NjdBbTd1bDhMX2pJY0hQcnhPZWZ2YnRCb3pLUDNzU0xCaGlzN3VVOHhuM1VBMHE2RDBISWE4eFgwSzhKd3JEbGVnYUNwU21odkNlMVZ4UDZyYjJhanN2eURwNWk4TWdEWXZrVEJ2ZjVad0dNUHYydkNkVGhmUTNIMHdMMUdTT3ZlR1JKMlJZampXWl9tUUJ6d0xfbEVlMDJQTWRzMTZ3WDJCTWJ5UlhCcVVvY2RQaGlLX254ZFV0a0RvOHkwcG43el9WQUJsaENLeXlaV2VtS3RJS3lnQU43LTZr?oc=5",
-   "date": "Fri, 20 Nov 2026 15:28:42 GMT",
-   "vu_le": "2026-11-20T18:00:39.531722+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Canadian dollar falls for third straight week as stock market selloff deepens - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaldKSDBTbjV1YlJscDY2UGJJVGlaLWwxOUxRR0pzZzI5UlEtaUYydlRVTDFxQk92WUMxcjJvRGwzV3h2eGx5WE1fVEJwYzdlOEdnUzluTGVnemFFenNhNjhuaVZlQkdjZG5JbzZZZW5wRXNJV1lvSEZOeVZma18tdGo4TDdTcFY1QVFkN254RVBPTEZRaEpPMkhjOGU1SzNEazcyOU5pbzNucVQtdWxOa2cxWDBCMlpK?oc=5",
-   "date": "Fri, 20 Nov 2026 17:34:51 GMT",
-   "vu_le": "2026-11-20T18:00:39.531722+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Anthropic shares fall a day after blockbuster opening - BBC",
-   "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvWXdRRmxWOFNxR2NhcHRNVlFLaXJGVGtlY1dQcWs3U1M1dHNKVGxLbEJ5RGRvT0Q4WjB2c2FjeldhcVlWMGNqYTNJLXFXRXU5bVB4NTRlZUVlNnc?oc=5",
-   "date": "Fri, 20 Nov 2026 16:27:47 GMT",
-   "vu_le": "2026-11-20T18:00:39.531722+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "La Fed pourrait avoir besoin de nouvelles hausses de taux pour maîtriser l’inflation - Investing.com France",
-   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOblMwaU1wWjVoSDdYdkRqQ0QwY0trNmQyWEdnNWhSX3l3R2ZvMmcyVkhfZVVTQmlGRGZuWW8tczVNMkdaYkhRUVdralI3Zk1HT0ZvQTFCenNPQWhsYngxVy0tM2R2cEE1cmI2QU5TZzlPRjlkRWxXT19pdF93RVRpMlVlRHdoQl9GT3ZEdlJwS254dElJVVZ0VVJSOTdWcnNmc3h0cmg2ZUR3bzZ6UVJ5N0Zzd2lsUGpsenpQSjVCcnVHRTRzQVkxRGhIbGVOYTA?oc=5",
-   "date": "Fri, 20 Nov 2026 17:50:00 GMT",
-   "vu_le": "2026-11-20T18:00:39.531722+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "[The Gap Q3 2026 Earnings Call] Gap Raises Annual Profit Outlook as Adjusted EPS Jumps 32% to $0.82, But Warns Warm October Weather Chills Holiday Sales - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZX21SMElJU2htQi1DVlVxak1MSXlKWUhQRXdxNkZXNGtiVDZsMEdQdDZ2M3R0QVhuNFk4THozNUxkXzJORGZVS0d5TVhnXzNzaHh2eVk3ZEpOemdS?oc=5",
-   "date": "Fri, 20 Nov 2026 15:34:00 GMT",
-   "vu_le": "2026-11-20T18:00:39.531722+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Defense Stock VisionWave (Nasdaq: VWAV) Positions for Recurring Revenue in Defense Supply-Chain Intelligence with Milestone-Tied Critical Minerals Platform Acquisition - Investorideas.com",
-   "lien": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOZUlCLUFucjIwZEloRUFuQl93MFMzNUFhT05SNE9FYnFmQWhydU5Mams4azF5OHpTQm5Pc0pwaHZDUU9WemZfMnRRMnY4aU5aSENXX3hucUs0NVdrT3pFQ1liamZpcEhhUDF5a2hyY0hFRUNfX2s4aE1uWmN5QjFzR2RlVl9mQ3ZfNG1jX2dKSnF2Ukh2aGZ3WjBwM29BLVp3S3YxVjItd2NyekVPYlp3alZ5R3c5d21xaGFNdzVDS1FFYUpHLWVNczVRXzd1dWNDcTByS0NqelJRWnpnT2VwbWhta3dSWnQ1bjdtUk9WdnZ5VS12eGJfOGdMdUFwRXhDZDl5T2lEb2V0S01Ya3VzZkxUSU8tcThJVkdFeUpuSnUwcUNKdXZSNkhWMmN3dXFKOGJ4eTNCc2JFQW5ZbFk2MnVUV3Y?oc=5",
-   "date": "Fri, 20 Nov 2026 13:40:00 GMT",
    "vu_le": "2026-11-20T18:00:39.531722+00:00"
   }
  ],

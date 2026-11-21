@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 52840.1 EUR, jour -1.55 %, mois -29.38 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 52921.16 EUR, jour -1.4 %, mois -29.27 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -294,8 +294,8 @@ POSITIONS ET INDICES :
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,12 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Nvidia : L'équivalent du PIB français envolé… Sur fond de scandale chez Nvidia et de craintes réglementaires, les géants de l'IA ont effacé plus de 3.500 milliards de dollars en six semaines à Wall Street - BFM Bourse
+- [Chine et Asie] HKSTP Debuts at MEDICA 2026, Forging Hong Kong-Europe Pathways for Life and Health Tech - Akron Beacon Journal
+- [Intelligence artificielle] Data centers full of U.S. chips are serving Chinese AI models–undermining Trump’s tech ambitions - Fortune
+- [Rachats et fusions] French Regulator Drops Live Nation Arena Review Despite Unresolved Competition Concerns - TicketNews
+- [Petites valeurs en croissance] Apollo (APO) Stock May Be 30% Undervalued As AI Credit Risks Loom - Yahoo Finance
+- [Défense, énergie, matières premières] MDA Space Ltd. (MDA.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada
 - [Anthropic] Dan Ives Says Anthropic IPO Sees 'Very Strong Appetite,' Calls It A 'Big Win' for Tech Sector After 'White-Knuckle' Nvidia Period - Yahoo Finance
 - [Intelligence artificielle] Analysis | Entitled and out of touch, AI CEOs are heading for a fall - The Washington Post
 - [Défense, énergie, matières premières] Trump's Accounts Turned Defensive (NYSEARCA:VIG) - Seeking Alpha
@@ -453,10 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Banques centrales et taux] Bessent exhorte la Fed à éviter une forte hausse des taux, invoquant le choc énergétique - Mezha.net
 - [Crypto] BTC price on Nov 20, 2026 at 11pm EST Crypto Prediction Market - Robinhood
 - [Rachats et fusions] Beeline and TYTL to Host Joint Stakeholder Update Call on Merger Agreement with TYTL Corp. - Quantisnow
-- [Intelligence artificielle] Michael Burry warns AI stocks mirror 1929 and 2000 crashes — and singles out Nvidia's risky deals - Yahoo Finance
-- [Crypto] SOL price on Nov 20, 2026 at 11pm EST Crypto Prediction Market - Robinhood
-- [Introductions en bourse] Anthropic just had its record-smashing IPO. Seaport is 'cautious' on the stock - CNBC
-- [Anthropic (FR)] Le Nasdaq plonge de 5 % au lendemain de l'entrée en bourse d'Anthropic, mais les investisseurs continuent de croire en l'IA - TradingView
-- [Rachats et fusions] No further shareholder vote is needed for the merger that would take Bumble (BMBL) private. - Stock Titan
-- [Résultats d'entreprises] US Stocks, Corporate Bonds, Copper and Oil Flash Warning in Unison as US Economic Boom May Be Nearing Its End - BigGo Finance
-- [Défense, énergie, matières premières] Nvidia Shares Slide as Investors Rotate to Defen
+- [Int
