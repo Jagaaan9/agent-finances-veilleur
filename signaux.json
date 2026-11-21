@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T13:00:36.199254+00:00",
+ "mis_a_jour": "2026-11-21T13:10:34.850487+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53680.25,
+   "prix": 54101.35,
    "devise": "EUR",
-   "jour_pct": 0.01,
-   "mois_pct": -28.25,
-   "volume": 255.83091967,
-   "volume_relatif": 1.23,
+   "jour_pct": 0.8,
+   "mois_pct": -27.69,
+   "volume": 257.94696196,
+   "volume_relatif": 1.24,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic’s IPO could flood NYC’s luxury market - The Real Deal",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0FKVGVRemxJOXp2eEYyc1RaNFZkRjNQMGswY3JWZjVQYW9kMlVTQzltaWk4cTZRMFA4QUVpUXJFZ0tBS0s2UXFUQzVTWmZReUh2YUxJVkUyVzMtSlQ3RWUtRWl3cThhUDcyZzJ2UXBJX1JtTDFaZk1pUmJnRGhtMkxEQmhSRy1fanJjMVVwdmlPSEozMWVjV3BQTQ?oc=5",
+   "date": "Sat, 21 Nov 2026 13:00:00 GMT",
+   "vu_le": "2026-11-21T13:10:34.850487+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Who Is Lisa Su? AMD CEO as Shares Fall on a Short Report - The Profile | Polina Pompliano",
+   "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yeGpoMkJ6Y0JIY2FBYlBhRDFoX1VQT3htbUVTRXVUS2ZBN05KeWtqTXhib29oam5NRXUyNW01bTJIZlJ5RV83ZU5XWEtKbm1sbW0zWHA5MGpvZXM?oc=5",
+   "date": "Fri, 20 Nov 2026 16:07:46 GMT",
+   "vu_le": "2026-11-21T13:10:34.850487+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Bessent vows to enforce AI chip export restrictions and close remote access gaps - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NUk5qcTZVaGlaSGpUVnJYSm5UcVNVTG9WNXJNeGtJd2hOTERtZ296OTZTNl9QNWF4QWJQSVVxSFRKQ1VVd0lXbENvRjd3bmxFcGJWUEVmYTZmbFVrUmhwR3RMYXhZNjgxdGNCbHBQZlBfY0Fwb2FoNTB6SQ?oc=5",
+   "date": "Fri, 20 Nov 2026 15:32:38 GMT",
+   "vu_le": "2026-11-21T13:10:34.850487+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Porsche shares plunge after delayed EV launch hits guidance - ET Auto",
+   "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ3lwTHI0Q2RQaXQwdU9IVXNSVmRQbHdvelNmak04QU9qb2R2WGFjOF9HVUxZck9IMHhBS1llTWdaWWFHM0NYcXM0RUl4VGJnZWFLZHZ5dG1iTVBtRVFfLUhiQmJXMERfWVE3TG1qd3NBT2hkN3p0ODktT3N0b0RkZlY4UkVHbXhaeDZnaFJJMXdTSVN5b2F3clV3V1ZfVURFWDluejNNbGY1Nm83YlhyTER6a0hTQVV2UFBWcHYxT2NTdUJlTDNuZUp2QVJYanQzWkkyb2I0YmRROU9KZ3NPNWx3aTdmRHRiYUtJWV9HUXJUZjTSAe4BQVVfeXFMTVRZM2xzNjFEcFRjSV92T1lJbjZEX05EYzVxTVVRWUZJRkJSZUhhMFcxbDhvcWkwcE93MTNiUFJmaHJGaFVTRTJ1bGZ6ODFIOF9rQXlmaXlMS25HUkQxeVFGcUxCTlgzT0pOZ2JpR0d0b1BXYkhVcXZwNE9Mc1ppbThXTXpfNU5UWXZuZ0laOUlISVJ5WWNod0ZITXpSeWhZdkxOd2JsdWhYZkpZM0twOV9ORVBydWxLdmdJZUpaajFPZ0FlYXBFNnlYUGpIUmNuS09ZZzl4eWZMRlpLbkc1Rk9icERnaXVnTEsySnppZw?oc=5",
+   "date": "Sat, 21 Nov 2026 05:42:36 GMT",
+   "vu_le": "2026-11-21T13:10:34.850487+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade - WSJ",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZG4tLTFGNkZhY1V4am9Qa2U3M3dsd3VuUUlDMkpoYWpzMV9iNlZRQWloTjQ3TUQyZHNiU2JvXzFfcXNpSWM0TmxRZ3p6ZnpaU1V0dnZOdExQMG5pZXpibFBsT1hVVlhnbVBseDFKd1g4NzNUaEZiRTRDM1RpXzVZb0JDTi01WGUtSUwwdndCVnpVVzhvcHlVRkl3?oc=5",
    "date": "Fri, 20 Nov 2026 17:35:02 GMT",
    "vu_le": "2026-11-20T19:40:36.719047+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "The Anthropic IPO: What it means for the AI trade, and the health of the IPO market - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUy1yM2pUYUtFTXAtU2ZSVXNxQXdQSDBLMVNHY1psYXRSRThlMHhGMGlPMUVfYW5Ud0M5Q3JEV0t4RmJhdURpLVcyU1BRV3BPQ3dtVDVvMnpuMWFfM0VsOGViS0RFSzBSWTJWN3g3NEZjQ1VabldoZG5RTDhKUUhIcW1nVlRCd1pGbldOR09pclhLZWZzbXRYWnFPYkY1LWdxVl9yT0JmajZtbTJBUUpNZUhkSk1oRWYtUHo0OUFCYkM1UQ?oc=5",
-   "date": "Fri, 20 Nov 2026 17:54:22 GMT",
-   "vu_le": "2026-11-20T19:30:37.721222+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "7 reasons why tech stocks are getting hammered again - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMFYxNnlJbDhVMXJOcDg2M3JOR3o3S1Q2QURjcHh4ZEtTNEd6eWg2ZjNITXd3bVFfMWdsOC1QWjlCWkxmTHAtUFlmOUpkbk1HZ2FqSHZpbkhDUWhjSF8xTUdlQk1QVWJMd3RYbllhU3BsNC1DeW00bFF2RGpoM29pZUh3N25MVVNmYnRzWTdra0ZpLXV2dUVvbGpOdjJRaDlzUFhxcW5BN3Y4Y2Ztc1E?oc=5",
-   "date": "Fri, 20 Nov 2026 18:37:47 GMT",
-   "vu_le": "2026-11-20T19:30:37.721222+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Spying Suspect’s Chip Network Has Ties to Chinese Military Suppliers - The New York Times",
-   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjhXZ2xYTDVHWE9xVzhIZVdLOVF3XzB2WEcxNnRlUFNCZzNvSDFtZG81UFZRTnJyLWJzTXdKbER1MExJcVhlUy11ckx1X1hnQjM0Z3NLNm1RMHlBSmdacjdOMHlfSDBSSUVHeVQ2bDQ1SWFVTUlHb2g5aVZWTGluWGt4TUtkMU5nSXc?oc=5",
-   "date": "Fri, 20 Nov 2026 18:05:36 GMT",
-   "vu_le": "2026-11-20T19:30:37.721222+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Former Cintas CEO Meets With President Trump in Attempt To Override FTC on UniFirst Deal - Advertising Specialty Institute",
-   "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOVRIWUpUYjRrTHFjMC1LU05IVXVRYUdwZldIREZSTXhpUURUTzZqTUZ2UEE1UllsUDFOQnQ5TUl1SVJ5UE9jbnVOdEFFRUkyZEZGMVFqWnAtRGNEZ2xzS1hnWTFtdmJoS21DMENYaFl5alcwUkJESzE4ME5OVVY2LU1ESHI1Y2dXVEdnX1VicTRCSE43QXpCcVlFejgwMEVMUV91SUd6ZGpsaG8zeE1ZSFR4NDNJNzZiMkhPcWx1WTE1TXFyaURWRGo3S3VUQ3ZwWWFWRTkzUnhTRjFZSnVOMXRhbzJBMG1a?oc=5",
-   "date": "Fri, 20 Nov 2026 14:33:56 GMT",
-   "vu_le": "2026-11-20T19:30:37.721222+00:00"
   }
  ],
  "erreurs": []
