@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T16:30:37.721371+00:00",
+ "mis_a_jour": "2026-11-21T16:40:37.272198+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54793.31,
+   "prix": 54712.33,
    "devise": "EUR",
-   "jour_pct": 2.09,
-   "mois_pct": -26.77,
-   "volume": 361.44562666,
-   "volume_relatif": 1.73,
+   "jour_pct": 1.94,
+   "mois_pct": -26.87,
+   "volume": 362.35976087,
+   "volume_relatif": 1.74,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic vaut 1 600 milliards de dollars après ses débuts en Bourse - Brief IA",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWRyb0labTgxVTE3OFZiZXprQWpmMGszOC11UXE2U0RNMlpDd2xBSXB5czhsX2huWlZQU2xhLVRJdDRtdTg5QjlRSUxENFk0WGRkZU5wdDVHZFNDVGlVZjJucmhhMkszNUE3OWd0UFg1RVMtYnFHWlEtT1pXbzVCYmwxUDlIV3R2ZFdsSjF1NllaVFJQV084cTRnbk1uSERn?oc=5",
+   "date": "Sat, 21 Nov 2026 16:16:58 GMT",
+   "vu_le": "2026-11-21T16:40:37.272198+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street's AI Sell-Off - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbVFiSFQyZkVZQnhMSWJEMkliQ1Jrb1RiYXBSbTlId0kybU5KbW1XOGpuRDdXSE9wZGFOTWo2QzJZV2pIWXVlVG9Xd3pZek5Wd09sTGFDMHgxdGFzNkNtOVM4bDNNdTZsZUF3d2otZnhaaFRqbm5JWWZPRlBzVnZudllNVWpSUVdHOWFLVUdjaG41SzJa?oc=5",
+   "date": "Fri, 20 Nov 2026 21:55:02 GMT",
+   "vu_le": "2026-11-21T16:40:37.272198+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Le CAC 40 chute de plus de 5 % et signe sa deuxième pire semaine de l'année - ABC Bourse",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPREFzbk5LZUJ3MndCcGQyX1lEZkFrTFhHb0RrRzJHclU2WUdiMGg3LW9tQ2ZDd3NvVlU3ajgxODZ5TDAyYUZpXzByT0xEQVVJYm9IZTU0VWNxajhlVmQtRmlwd2M1QnlMQzBVSU1wS2hXSjhrWnUyZW00VXRJV1YySWNDXzV4UHhVVWNyUVVudnlpd3VkMTRWeEo4WV9nVnNZLXp1RTFBUzhEZkt0QXBnUF9NbGw?oc=5",
+   "date": "Fri, 20 Nov 2026 17:31:53 GMT",
+   "vu_le": "2026-11-21T16:40:37.272198+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "ASML vs. SK Hynix: Which Artificial Intelligence Stock Is a Better Buy for 2027? - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnNXU29aa1Q5Q1VOdzhGZ1dmWGp0dl9FbDc4Q3luVl9OLVY4NGl4d19iWFV0ZFdIVVpkVm5XVFUtTGFoTF9WNzViWUEwRG1zVHdtXzk5bkxkVm5yLWdud0YxRHo4VXFHY00wY2sycTB1SGxPdEhvRzVhQWRsUkk0SGhSR0l1RGpSMGpkZFJySGxwSE5Yd3JqM2praE5EWlNlaDRNdzRiT2tEb1M3TktSd083enFDMFJnNXd5Z3d4NWtBMUVNcTl6akhR?oc=5",
+   "date": "Sat, 21 Nov 2026 16:25:01 GMT",
+   "vu_le": "2026-11-21T16:40:37.272198+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Top 5 crypto biases every investor must overcome now - shattered.io",
+   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBocFlkR1JpSTVRY1pzQ0M4b1BGWFlURHNlRS1Xem5relpYN3d1NUR3cEwyZ3NUeUMwdkJHczFPWnRTTzF0dEU2MVZPRDNyeEx6QW5TelRySzNnOXg0b1YxWWtTNEJzNnpTc1dzWDcwX2R4eTg?oc=5",
+   "date": "Sat, 21 Nov 2026 16:39:23 GMT",
+   "vu_le": "2026-11-21T16:40:37.272198+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "IPO d’Anthropic : 74 milliards d’euros levés, les chiffres - Luxe.net",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ2IzVHFTNUxRd3lQRWVEUzZFNUhHUWQ0QV9CSzhsZmpXT3BCYUE4UXE1WlRULUk2TTFXUWxjOFZLenBTckUzVVN4TVB3ZDVDM0w5X3kzXzQ0SWUwUmloMlJVZTJ1MnJyVFdLQXdSVmo4Z3cxMDdpU2xSRDZkc0NfQW1DMDJYdnY4cEZjUlFJa3o5ZEtiNU05TzZGMUhRM0IwRnNoVUZWRlE2ME1rakM0S3RtTm9YTnFaU1dPQ0RnbnpNclBQZVF3?oc=5",
    "date": "Fri, 20 Nov 2026 17:44:33 GMT",
    "vu_le": "2026-11-21T00:00:35.763575+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic IPO launch: How tech stocks are performing Friday - Mashable",
-   "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16aTJVSnAzRkhjZGJwUGpwTm0tY0NWSnVPd3ZRaEh0NlZUNEJMQm5TZ3NGZlkwbEVnV3RzcXJiaE56aVRJT1ctaUgzZC1nZUxxMFktVGg2am5idUNOLXdoWVlHaUQyTlRwV19GbFVDRQ?oc=5",
-   "date": "Fri, 20 Nov 2026 23:10:07 GMT",
-   "vu_le": "2026-11-20T23:50:42.605387+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "The RXO deal must close before C.H. Robinson (CHRW) can tap its new loan, and it can draw only once. - Stock Titan",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGIyTEFCQzdCU0RHVU05QXM4blpHQzBlWjF5WjNsUkNneWR5NmgyWHdDbkVpTnRKZmxKOUtWVi1XZElZR2p5STEydU9GcERka19DdVhtRnotaXRhZElXLTZvc0FRM3ZCblkwekZHZkhmVUdxMEd2RWx5R1RBa0dPaW1aOGIwa0p4b0s3U1FQVHZJRlpIM0VyZjhRTnVXNlhMa3BjOVFqQkdFQWpJVEdwLXRBUTJhdw?oc=5",
-   "date": "Fri, 20 Nov 2026 13:23:37 GMT",
-   "vu_le": "2026-11-20T23:50:42.605387+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "ESCO Technologies rises on earnings beat, strong guidance By Investing.com - Investing.com Canada",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWGVVNkFpSjUxWlA5N01MN3dHRDBfX1BXYXVzMVQ5UFBxakRLeUtOTXg3TDM0aFRDMGR5YUdpRElxUHVsY1dia2p4bVhsMFlVUFRVcXZ1ZmRpNVlhWERTcHpHdERWWFJNclZSUWZMRGtFeFE3Q1NVZkxYYmp4VkxWRWdTbFFvdm9XbGFUc2kzNkFPR2Zzc1ctMm1NT3ZJaVdZY2lWTjJ3?oc=5",
-   "date": "Fri, 20 Nov 2026 01:11:32 GMT",
-   "vu_le": "2026-11-20T23:50:42.605387+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic IPO: What It Means for Your 401(k) - 401k Specialist",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMGxKZ0t4aDhkSWZ0SG9pcFRJWnBjS0VCODdoSFJuU08tMlEzSGRuQWpEaG9vaERKX2ZYUmF4QWVZRDBLS0FqLUxoN0FvMXROUE9hZTFMOXo2aFJtOWZ2cUZGVGFaNTJSN0cyUmZSckxWWXZnMy1ZeV9lWE1IY2xOSllqS0Zsd0FLZmdQX1hhQkhuVGJQUU9zeWE5MA?oc=5",
-   "date": "Fri, 20 Nov 2026 23:05:57 GMT",
-   "vu_le": "2026-11-20T23:40:35.273792+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Wall Street termine en baisse, pénalisée par l'IA - Investir Les Echos",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUl9WZ1FVaW5BVVVMMXprcDNHZnZvbHo1Nl9ZU0p0UFFYOWd3Q2hJTWZtSFAwSXUtZ2swaTBhd0hmTF9DOFQ3RzhZTEw3NzhVNXpFZHBoaU00V2FTUWE3NjJGXzM1R3FUNEhXUUkwd25PRnM3X21vLXRrNGNXMEwyOENNUDNvdFRYSkhsMGgwVGJGWTQ1VVdFcnFaOWpGRGQ5RnNrQ1dFODJmZ3dZbGJsT19teTZDMHNEeWlqZA?oc=5",
-   "date": "Fri, 20 Nov 2026 21:47:24 GMT",
-   "vu_le": "2026-11-20T23:40:35.273792+00:00"
   }
  ],
  "erreurs": []
