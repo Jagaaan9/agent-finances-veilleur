@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T22:00:35.920614+00:00",
+ "mis_a_jour": "2026-11-21T22:10:38.625195+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55122,
+   "prix": 54926,
    "devise": "EUR",
-   "jour_pct": 2.7,
-   "mois_pct": -26.33,
-   "volume": 405.19008226,
-   "volume_relatif": 1.94,
+   "jour_pct": 2.33,
+   "mois_pct": -26.59,
+   "volume": 408.62199092,
+   "volume_relatif": 1.96,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -2938,7 +2938,7 @@
     "volume": 105600,
     "volume_relatif": 6.33,
     "capitalisation": 1076077343.25,
-    "per": 10.4,
+    "per": 22.8,
     "bourse": "NSE",
     "secteur": "Consumer Durables"
    },
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Tech stocks plummet worldwide as Anthropic IPO fails to calm AI jitters - The Times of Israel",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcVQwZHdFRVdaYlY2N21SY2xxcU80QnJWeFFwTWNXZGJSdVlwLXdCLVQwc3BwVmFtbUpiS3cyRVBqcHZiTGFNNFloV0xfZ1ozSTRwQmJrNEczRFhlRmItNExrdlRWQU9idEVFUDdqNmpFS0x3TzJpcEYwbmlJam1lRzVBMTA4bVpHYXFyaU5uYUtKQUMtUm8wWUc0Q29DZWNwRlFlaNIBqgFBVV95cUxNVlBpd2hpOWhBaHpIQjNPOFppRGQzY01oQWJ3UGcxRktmOTBGNjFJSUU1Rm9Ba2ZHaDFUR1pHZWg4SFlzVF9mM3pVUm43eEhEVXEzaXgwSjRYcGZ1Wkw1eUw3bUtnZENwNEZlaFRHNlplaW5FcVFCdTE5U1dkcHl3bDQ5VXg5WVRyTU9yN1c4aXp6RG00NmY2OWJ5SlZLcEs5MW41TjdZajRhdw?oc=5",
+   "date": "Sat, 21 Nov 2026 08:49:42 GMT",
+   "vu_le": "2026-11-21T22:10:38.625195+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Alice Huang’s links to the chip underworld - Financial Times",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2I2emFfUExveWExQWtzSi1INmtBc2JuXzA1VXphamhsZ0Q4Ukd4WEoxZWMyVWdkVFdGMk1Mdm1adDdVN2diUS1aUkN3dEhjX2xtYXBWWFZLbk5RYVpxeE5VZUVOZng1MmtncWdBdHlkNlMyejFzbWxCRW5Sc3VBcno1ZS0?oc=5",
+   "date": "Sat, 21 Nov 2026 17:00:10 GMT",
+   "vu_le": "2026-11-21T22:10:38.625195+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "BTC price on Nov 21, 2026 at 6pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd0lqTHVaek9TWTY3SFdMQUlCNEw3SVlvNkhUWlpwa195aXhNczladExKNTJKb1o3XzdRWjRna2dXUWxvUnFRMVpKX2VpOXlxU3hBekZRQmhUcHdjZUFYU3BwbG5mWjdjNEQwWEVteTc2aDQwRkFZMGhieWd5Z3lnUGZSbTlkYVFCVlFCSUcwTTBVT3laa3g2a05KbUFza1FJOUxNWTRLU3FmajBza3c?oc=5",
+   "date": "Sat, 21 Nov 2026 22:06:48 GMT",
+   "vu_le": "2026-11-21T22:10:38.625195+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "3 Altcoins Defy the Market Crash as Bitcoin Hits a Two-Year Low - Cryptonews.net",
+   "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00ZkZWbTRfRElaVmdQT0RxYlVpRS1nRUJPSmxlaUthb3dRY3NIYTRZTXJIZHhoSmxFYVhMZ29uM2h2enpGRjVvVFMxUXFWV2hzRTcyNWNjaU1HczA?oc=5",
+   "date": "Sat, 21 Nov 2026 22:00:38 GMT",
+   "vu_le": "2026-11-21T22:10:38.625195+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 21, 2026 at 6pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmFLTGU4d05tMlg1V1ZpYnA1Q1dSeVgzSmx2Nnk5ak9uY2VRdDYtdHQzSkd6NlAweVFuWjMxdUtsemRjYzdxc2lFTDdtTFZZZVo0QnpBWHpjbGxMTHdZeGJDWjF0b3NuWWhWS2dibnlzRHprWG01Z2tTUDFpb2NUSkVXeDhQSkdkV294WTV5YkY3cEF3Q3hfeVNjVmtaVDRsSFk3SEoyUUxLTXJKRGc?oc=5",
+   "date": "Sat, 21 Nov 2026 22:06:48 GMT",
+   "vu_le": "2026-11-21T22:10:38.625195+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Intelligence artificielle : les secrets de l'entrée en bourse record d'Anthropic - CANAL+",
@@ -6516,41 +6551,6 @@
    "titre": "Dan Ives Says Anthropic IPO Sees 'Very Strong Appetite,' Calls It A 'Big Win' for Tech Sector After 'White-Knuckle' Nvidia Period - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONDd6eXZEelJZTjdyZDMwWFotaEZya1pSVF9jUWptNU5NOXF4bWtaVTJlZTdpb0lRblRadG93d295UU9GZ1lGN2JqZlN2c25fRXl6UzVNeHNSRXVEUVNzRGVIU05oV1ZqZ1dLNEMzQlFEeXFoLURVeElDc28tSFRqLW9OcUtaV05qU1Q0eVp3bmFSdWpFR3c?oc=5",
    "date": "Sat, 21 Nov 2026 03:30:00 GMT",
-   "vu_le": "2026-11-21T10:40:36.418708+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Analysis | Entitled and out of touch, AI CEOs are heading for a fall - The Washington Post",
-   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVE04c2JFeVQtdll3WmNoaW1ES3dYTzI2eFBXNEs1V2tjOE1pVlE1Tk1vRWl2WnkwY2dVYmxDbzJNaXVRWWs1OTZsRGJ5RGYxNktjZW43UThxUnNsOG5pamR2RjdVaUo3ajMwZDlYbWFXcnZjUzJ6VXJSekhmSnh0RWJqXzhfVXFyVC1kSVhMc0RBVlp3OUJXWS1CWW9OOGttSnRoSkxoWG5uemRi?oc=5",
-   "date": "Sat, 21 Nov 2026 10:19:20 GMT",
-   "vu_le": "2026-11-21T10:40:36.418708+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Trump's Accounts Turned Defensive (NYSEARCA:VIG) - Seeking Alpha",
-   "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Sd1c4bUZ4bU01R2NaSkVUcmJFOEgyLUFKOEF0MjNBcWpEWXJRcjVRRDdOekFNZkVUdGJCdDA1N0taUHo3TUhlRmJXMWZfOG5ZYmV4REpFU3kwTWJBLUlmZEx3YURYUkNjVzhKMy11ZWtQY21HQ1R5M3RuZ2o?oc=5",
-   "date": "Fri, 20 Nov 2026 16:47:08 GMT",
-   "vu_le": "2026-11-21T10:40:36.418708+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Maximus (MMS) Stock May Be Undervalued On Agile Defense Deal - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdy1Ca0xPUXlBV3ZINUVhWldyRzJYcV9KWGZrZHBKZ29mMjF2Umtick9rTmtiY1hfdk1JMmI4X2hWR1JUUGs4WFllcXNPNjR1cUFyUFlEZUdNRVlpV0lDNFFhYzV6REVubHA0Q0lPQ1lveWFFUjBKcVBXWHhJR2hHZ3V1azlyQmRFeWd6U0VzLVpmNFJ3LUxSTmNwTGtEZ2s?oc=5",
-   "date": "Fri, 20 Nov 2026 18:09:31 GMT",
-   "vu_le": "2026-11-21T10:40:36.418708+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Red Cat Holdings, Inc. (RCAT) stock price, news, quote and history - Yahoo Finance Australia",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OQ3VDWjVnZ0QwYndNcTJEYWNtV1MtMlE2LXpEa0FKUFdZZXcxZS1FdzQ2Y3hqUlQ5b2NWOERzM0lHbWdTSXFHZVpVWWZ4WEcydkE?oc=5",
-   "date": "Fri, 20 Nov 2026 14:07:53 GMT",
-   "vu_le": "2026-11-21T10:40:36.418708+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Leonardo DRS wins a BAE Systems contract for a new THAAD seeker sensor and expands its Dallas foundry - MLQ.ai",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZjAzeThkWk1SNGNBR3ZZenFOOUN6d3k1Z09GdXJzRi1oV2NxdzlkbWxSNGxqd2dGeUlteUZONzZEdDVKdk9WTlFleDJ3dFFnQ2VWejNZZGlrX0NmRVZLTlAzVFpyY2RtZ3JGZE9Wc2k4RG9qamVNSENXeVNURmFKWnIxZFdRQ3RPaFlKS0ZpVHowLU5RLVR3Sm5vMWUxSUNmdG93aFpSYmJVNXRoTGNoWTVpUnE5cldKeEZwbi1EZw?oc=5",
-   "date": "Fri, 20 Nov 2026 16:43:44 GMT",
    "vu_le": "2026-11-21T10:40:36.418708+00:00"
   }
  ],

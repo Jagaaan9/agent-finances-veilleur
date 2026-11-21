@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55122 EUR, jour 2.7 %, mois -26.33 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54926 EUR, jour 2.33 %, mois -26.59 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -247,7 +247,7 @@ POSITIONS ET INDICES :
 ÉCRAN Inde : plus fortes baisses :
 - Shine Fashions India Ltd (BSE:SHINEFASH, secteur Process Industries) jour -19.21 %, mois 2.25 %, prix 20.44 INR, capi 508077100, PER 20.9, volume x4.91 la normale
 - Mega Corporation Limited (BSE:MEGACOR, secteur Transportation) jour -11.56 %, mois -11.95 %, prix 1.99 INR, capi 398000002, PER 57.7, volume x4.71 la normale
-- Emerald Tyre Manufacturers Ltd. (NSE:ETML, secteur Consumer Durables) jour -10.74 %, mois -18.75 %, prix 55.25 INR, capi 1076077343.25, PER 10.4, volume x6.33 la normale
+- Emerald Tyre Manufacturers Ltd. (NSE:ETML, secteur Consumer Durables) jour -10.74 %, mois -18.75 %, prix 55.25 INR, capi 1076077343.25, PER 22.8, volume x6.33 la normale
 - Balaxi Pharmaceuticals Limited (NSE:BALAXI, secteur Distribution Services) jour -10.0 %, mois 50.2 %, prix 33.57 INR, capi 1853315774, PER None, volume x1.05 la normale
 - Ajwa Projects Limited (BSE:AJWA, secteur Industrial Services) jour -9.99 %, mois -53.84 %, prix 93.7 INR, capi 515406190.00000006, PER None, volume x110.81 la normale
 - Prakash Steelage Limited (BSE:PRAKASHSTL, secteur Non-Energy Minerals) jour -9.78 %, mois -5.0 %, prix 3.23 INR, capi 565251285, PER 69.0, volume x5.86 la normale
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,11 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Tech stocks plummet worldwide as Anthropic IPO fails to calm AI jitters - The Times of Israel
+- [Chine et Asie] Alice Huang’s links to the chip underworld - Financial Times
+- [Crypto] BTC price on Nov 21, 2026 at 6pm EST Crypto Prediction Market - Robinhood
+- [Crypto] 3 Altcoins Defy the Market Crash as Bitcoin Hits a Two-Year Low - Cryptonews.net
+- [Crypto] XRP price at Nov 21, 2026 at 6pm EST Crypto Prediction Market - Robinhood
 - [Anthropic (FR)] Intelligence artificielle : les secrets de l'entrée en bourse record d'Anthropic - CANAL+
 - [Bourse de Paris et Europe] CAC 40 : −5,27 % cette semaine, que faire lundi ? - https://www.leconseilpatrimoine.fr/
 - [Banques centrales et taux] [XAUUSD] D1 : Une zone de demande à 3 400 avant 3 253 ? pour OANDA:XAUUSD par BMR_MasteTrade - TradingView
@@ -452,9 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] RPSG Ventures Ltd Upgraded to Buy on Strong Financials and Bullish Technicals - MarketsMojo
 - [Petites valeurs en croissance] Confidence Petroleum India Ltd is Rated Buy - MarketsMojo
 - [Bourse de Paris et Europe] NEXANS Cours Action NEX, Cotation Bourse Euronext Paris - Boursorama
-- [Bourse de Paris et Europe] X-FAB SILICON Cours Action XFAB, Cotation Bourse Euronext Paris - Boursorama
-- [Chine et Asie] U.S. stocks plunge as AI rout deepens - 巴士的報
-- [Intelligence artificielle] Nvidia (NVDA) shares fell sharply as SEC investigates potential accounting issues - Beinsure
-- [Crypto] Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open - CoinDesk
-- [Anthropic] After Blockbuster Anthropic IPO, Dario Amodei Heads To Puglia - Forbes
-- [Bourse de 
+- [Bourse de Paris et Europe] X-FAB SILICON Cours Act
