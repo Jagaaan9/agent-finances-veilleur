@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53106.84 EUR, jour -1.06 %, mois -29.08 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53186.35 EUR, jour -0.91 %, mois -28.91 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - KWG Living Group Holdings Limited (HKEX:3913, secteur Finance) jour 0 %, mois -4.2 %, prix 0.114 HKD, capi 230947913, PER None, volume x16.81 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 2941617737, PER 2857.1, volume x5.28 la normale
 - Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 4929084342, PER None, volume x1.05 la normale
+- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 2941617737, PER 2857.1, volume x5.28 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 4206552544.9999995, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 582864017, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3253783353, PER None, volume x1.08 la normale
@@ -317,6 +317,8 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Intelligence artificielle] Michael Burry warns AI stocks mirror 1929 and 2000 crashes — and singles out Nvidia's risky deals - Yahoo Finance
+- [Crypto] SOL price on Nov 20, 2026 at 11pm EST Crypto Prediction Market - Robinhood
 - [Introductions en bourse] Anthropic just had its record-smashing IPO. Seaport is 'cautious' on the stock - CNBC
 - [Anthropic (FR)] Le Nasdaq plonge de 5 % au lendemain de l'entrée en bourse d'Anthropic, mais les investisseurs continuent de croire en l'IA - TradingView
 - [Rachats et fusions] No further shareholder vote is needed for the merger that would take Bumble (BMBL) private. - Stock Titan
@@ -459,6 +461,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] Anthropic chute de 9 % pour sa deuxième séance à Wall Street - Yahoo Finance France
 - [Bourse de Paris et Europe] L'Europe ouvre dans le rouge, plombée par la "tech" malgré l'IPO record d'Anthropic - Zonebourse
 - [Introductions en bourse] Anthropic’s IPO Succeeds, But AI Stocks, Bitcoin & Asian Markets Sink – What’s Next - TradingView
-- [Crypto] Bitcoin Poised For 'Great' 2027 as Fed Eyes Aggressive Rate Cuts, Expert Says - Benzinga
-- [Anthropic] Anthropic’s IPO Drew More Retail Investor Demand Than SpaceX - Bloomberg.com
-- [Marchés mondiaux] Wall St slides on mounting AI selloff, S
+- [Crypto] Bitcoin Poi

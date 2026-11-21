@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T03:10:35.760122+00:00",
+ "mis_a_jour": "2026-11-21T03:20:36.499912+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53106.84,
+   "prix": 53186.35,
    "devise": "EUR",
-   "jour_pct": -1.06,
-   "mois_pct": -29.08,
-   "volume": 17.11638671,
-   "volume_relatif": 0.08,
+   "jour_pct": -0.91,
+   "mois_pct": -28.91,
+   "volume": 18.43875511,
+   "volume_relatif": 0.09,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 2941617737,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 2941617737,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Michael Burry warns AI stocks mirror 1929 and 2000 crashes — and singles out Nvidia's risky deals - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUppLWR4d2dnRV9rVHBJVTRhWlpVSjBWUWM2T2ZfeFZOeGVHYk13LUY0T1ZNX1M1VTMxUWlkV0s3ZGhScHhJZ2ZaTUVCSm9kZEd2Qm9Bb3BxczJmVW5mQng2eGZOUll6T0xQb2VVQlhDdTRqT3Z2SzlRR3R2R0lUdFFIVDVFR0kzSnhoaWxQMEZobERjN3JiZzVR?oc=5",
+   "date": "Fri, 20 Nov 2026 22:30:00 GMT",
+   "vu_le": "2026-11-21T03:20:36.499912+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 20, 2026 at 11pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0k0QVQwVjFhb3A4OGtQWWVETzlpclRuZjd6Q1k5RWNjRkwwNFVmZzNYWVVPMTNFX3dGcDhWdTZlbExuRmg3d2V5cEU2SzdzN2tkY2gtTTdid05hdlZJWGZVamZyY3hmOXJ2ZDFnXy1aUVFCVEpkVlRuNG9CdHZtb2l1TGF5dzFhSkI3TG5TRVY5LUliS3VHTUVXak9Oc1l3cTBpRVlobjRiN2t5cFNF?oc=5",
+   "date": "Sat, 21 Nov 2026 03:11:57 GMT",
+   "vu_le": "2026-11-21T03:20:36.499912+00:00"
+  },
   {
    "sujet": "Introductions en bourse",
    "titre": "Anthropic just had its record-smashing IPO. Seaport is 'cautious' on the stock - CNBC",
@@ -6537,20 +6551,6 @@
    "titre": "Les Bourses européennes reculent / Les investisseurs craignent que les investissements massifs dans l’IA ne génèrent pas suffisamment de bénéfices - Informat.ro",
    "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPelZXc2xpVUtWVWNnWXVRQThteWZNODVoVUVDMHFtWkdaWExITDNTUVB2RWRLanNOWDFSOUtVREZHVkcxaTZpeUtvVHRjUGVsWWY5R1NYUlhoRUZha25YeDRxTlpjaFJZT3NlUU1wOXFrMXh6VTJ4NXUzV0xmaDdiTmxlZ0NWVUZ4S1FDd3cwTkZjanJSNEZJX2ZSNTM3N2FRX2NXcE5UNnBsR2RHVEV1QVpWaG0zclZob2I4TkJGWG5sTGY0?oc=5",
    "date": "Fri, 20 Nov 2026 11:59:49 GMT",
-   "vu_le": "2026-11-20T15:00:35.549646+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Agenda des sociétés pour la journée -Cac 40 - ABC Bourse",
-   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUlprTVhXOWppSUVmRy1jWjdESGZ1d3pSckhnN3JWNWR0VWVnV2FocGRTZ1FqQy1XeWxyUmRTMnVIdDhVa1pSX1Y1cWtPMm5hLTgySGVsWDZ1c2tUOThSRm5sUFh6aEV1cFBtN1dWdXh0b3dDMGNxNEExQ3lQem1QSDZR?oc=5",
-   "date": "Fri, 20 Nov 2026 07:00:07 GMT",
-   "vu_le": "2026-11-20T15:00:35.549646+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Les doutes sur l'IA gagnent l'Europe, séance difficile en vue pour le Nasdaq - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTTctRzY5WFhQV3V4WnVabXhoaFFGQmdOU0tyYnRxaTdVeDZUblFhRTFyNnJyblJHMXpZQWoySDNXME90T2dVdzQtamZ1WVhiLXFWakNidzA4a3Rsck5kdENTeG5PZVpZelZoeFJ2d1g1OGZ1VVlYWVI2Z18wdVotUEtsY1FsS0JhQXBOaGo0am5GR2tQRE0zLVRDQ2ljczZGSjZUaEJDVE9fbG5rNGZNYmpYMlRScjZhQVg5eGJNSTlMdFJhc2ZyOWlIUkJWUHhmOVF3VDZhdTJuSXhmMTIzUlBLUlA4aGM0SEhfekZR0gHuAUFVX3lxTE9NNy1HNjlYWFBXdXhadVpteGhoUUZCZ05TS3JidHFpN1V4NlRuUWFFMXI2cnJuUkcxellBajJIM1cwT3RPZ1V3NC1qZnVZWGItcVZqQ2J3MDhrdGxyTmR0Q1N4bk9lWll6Vmh4UnZ3WDU4ZnVVWVhZUjZnXzB1Wi1QS2xjUWxLQmFBcE5oajRqbkZHa1BETTMtVENDaWNzNkZKNlRoQkNUT19sbms0Zk1ialgyVFJyNmFBWDl4Yk1JOUx0UmFzZnI5aUhSQlZQeGY5UXdUNmF1Mm5JeGYxMjNSUEtSUDhoYzRISF96RlE?oc=5",
-   "date": "Fri, 20 Nov 2026 12:38:49 GMT",
    "vu_le": "2026-11-20T15:00:35.549646+00:00"
   }
  ],
