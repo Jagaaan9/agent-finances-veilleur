@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T17:00:36.935438+00:00",
+ "mis_a_jour": "2026-11-21T17:10:40.843652+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54779.12,
+   "prix": 54849,
    "devise": "EUR",
-   "jour_pct": 2.06,
-   "mois_pct": -26.79,
-   "volume": 365.02861229,
-   "volume_relatif": 1.75,
+   "jour_pct": 2.19,
+   "mois_pct": -26.69,
+   "volume": 366.17959394,
+   "volume_relatif": 1.76,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,90 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "CAC40 : une baisse de 5,3 % sur la semaine, sous les 8.000 points - Le Revenu",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ1NVQmcwdVN6UWc2bnVyWHhxNV9yNmlNVmpkYkJ0U1hfVWJvNURoWjA3WnJ1MWttN2g2TVFOckVBUnVLWUNUT19qSnpaOGxWLXpPZUVZbFpNT2NKZmMxZm1YSmlHR28tX2dERnJsT2hCVFlETWdfYVoxV0hjS3U4Z1VBQlFHMzE2UTBwUmE2WjhaSGhRVlNvcHRmdWtaQ1ZNT29hMUhJeXFHUFpJY2l4YjNNZ2tUeWFiYmNtdXRnZXFBRjJDUFAw?oc=5",
+   "date": "Sat, 21 Nov 2026 07:00:00 GMT",
+   "vu_le": "2026-11-21T17:10:40.843652+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "TELEPERFORMANCE Cours Action TEP, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qTm15NEw5c0NZVzI1N0gyd1FRZlZSWmZWazNZcjZzRXdYSVBDaGhadFY1bHlwOHE2dEZQb2Y1TnBOY01pU3Y5VEh3TjZyemZEVVE?oc=5",
+   "date": "Sat, 21 Nov 2026 11:15:15 GMT",
+   "vu_le": "2026-11-21T17:10:40.843652+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "SEB Cours Action SK, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCeUwzX0lSYXdhcHhCMXVxNDNqaDBnQ3FhMWliV29PVUt1VUItc29HMEtlYTZRLXphUkpja2pvYUlsMzNaS0FFQ3ZmOVJTRE5n?oc=5",
+   "date": "Sat, 21 Nov 2026 11:29:20 GMT",
+   "vu_le": "2026-11-21T17:10:40.843652+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "SODEXO Cours Action SW, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUN2E1bkNnSFpOUS1Ud2VPUU81QWFPX0lDY3RRVUhNeG9IUEg2NWJ0aUNVQnFxRkxfVmduWEtjSHJsRnpGMzJHaDZkWHM0alBD?oc=5",
+   "date": "Sat, 21 Nov 2026 09:20:43 GMT",
+   "vu_le": "2026-11-21T17:10:40.843652+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "The Week in Breakingviews: Know your chip customer - Breakingviews",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2F0TnNnQkZUZllpb2NHdG9LajViUXVsRkxVMXphZXZHNmg1TXI1b3dIaFJFY19lYzhXRjAzSmlnYUtnTTlqYmc5dWdtZXE3UnlQSzhMT1pCNmpHcktNX1RBNGN0VXByMTU2NVdReENRNmJjQlBMTnZ2NkZYcUpTX3paS0RiQmZkYUhGc3pKVTNqZXhYU2hBVEc3cG55dDlMcXc0UDFhTVVfMFF1?oc=5",
+   "date": "Sat, 21 Nov 2026 15:37:20 GMT",
+   "vu_le": "2026-11-21T17:10:40.843652+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Cotton claims Lutnick ignored his ‘many letters’ warning of chip sales to China - The Hill",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjEzWnBIUkNrQkdlQWtQR2czUlNMdThDLXFUaExaTEtVd0pNWXl0OGRqLXdPdjFfejlRQUF5dVo3cnoyZm54dkxMWlRPOWk2UnUxc3RiS3JNLWVRMzRXTF80Y2hjUGc5ekNRemhGc1hwcGl2RG1OemplMU5Bc1JCNk1MeGpHWHN3QVNTdXRfeU9LMk1lcHfSAZsBQVVfeXFMTVhyWWVPdUpqRFlEbVJqYkRXelZGT2I5U18yNXF1VThKQkFxOGE5QURnb1IyR2s5V2h4WnBEX0U4SHF1RFpVMGZ5SzdxcEdUR3ZzNmxMSnNfYzhKN09uYkRKdmFBT1VOU2NSRTdHakZaZDc1NkpaOVYyc2hWRnVVQjE0WVZ6Z3A2QnlIX2VPeG83d1RBd3pXbTNGQ28?oc=5",
+   "date": "Sat, 21 Nov 2026 14:51:00 GMT",
+   "vu_le": "2026-11-21T17:10:40.843652+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Cigna (CI) Stock Could Be Cheap As Shares Drop 4% - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakM5RlRCeVcyNzhONG04ZjU5SHVWQnhvRzQ3RjJNSDFWZEpJVWwxVGRQRnBHVGJ5aGpMRTFvZk5zWUhRLWx3ZUlfVmk3ZHUtTVIyX1hrYV9ORVVYRzlLU0R3bkxyN3VZVldsTFJiYkwtMF94cGFhdUw3RkZmN2wtOHY4R05VRDRnOVJobDRYaWd1NlBISWFFZEJYci1QTE5uRnhvWDZOT1ZXUzdELXFFeVVvRkrSAboBQVVfeXFMTkR6SU03cm9pQlJnYktPZFJtOW1ncXIzMXFDS0RzU3o1T3hsamU4a054M3dJYU44RzVyblhDNGlRelhJaXYtNlhCTzFjRE5Ob20tZW00X2lzYy1MM3BIUkNSaC1xdmwtenl6V3lKRF84T1BTUXFKOFZTSXkxeTVyRUJIQVVKS21uQkF0T3V3WWh4aGswUzd5enJiZ0lxaXJEYnR2MlgtUFVDYnRja3Y4SVhuNzNqZ0VrSmhR?oc=5",
+   "date": "Sat, 21 Nov 2026 15:13:34 GMT",
+   "vu_le": "2026-11-21T17:10:40.843652+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Coherent Buyback Puts Fabrinet Stock Back In The AI Infrastructure Spotlight - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObmIzYzJDRmFDazA0NzFwbXkxXzVEWUVPOWM1UGFHUlZQQWI5Sm9TSkdZdWxfbm5BQmtFRDVvbHotU2k1SWxkNTBqeERGOHA3eXNxc2tSVVVaaHNBWEZNelBvbHdHTWxpbTZoN1lxT1p5NTJmdmhWX25jZHlqeGRLWi11NE5oRkJCcTVQWUY2QTN0ZTZwa0xsajFoSXRlazd5WEplM25SUGNnbUdfOUFLWHV0cUF4SXNnZXpJ0gHAAUFVX3lxTE85WGxQLWd1LUNOSzlJU3MyQy1teDBnV1BySXFmcjBiZG1XWTNaU3JwMkdLTmhLakNua3c1ZmM3dHlNbDRHUWdYbEU2ZjJkaGJ3TTNZdlZfTm1yVGtxX201VzBJV2NTSHNHWWlmM245cnJkVEZ5SlVWcDlNVnhmY2xyLTlwZDV4ZnE2R1laakVnN1BsZjdTZ3FoejN4d2RraWROQjQzWnBKaHFnQ1V5UklQREQ4cWF6Q3pNaXBmaVptOQ?oc=5",
+   "date": "Sat, 21 Nov 2026 13:09:02 GMT",
+   "vu_le": "2026-11-21T17:10:40.843652+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "NSE Nifty 50 Gains 10.7% as AI Sell-Off Redirects Flows - Multibagg AI",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMm52am9mQ0dtVEVmTFR5NVg4UUV4cW5RbVk1dXlxWHJ1c3oyazJBQ2Z4T3FIaGRMbzNOVGdqb1hlN3E4M0hRVXJ6c2JONXRvLVM3SVk1VWNGaksxclBtZ1dIcWJNZERfbjNOSE1MR2I5MGtNdTY3a19RTzRfMVdjSTJQaGRkQy1OUl9KT1EzQTNCX2pINVRZY3d6ZkNHaEk?oc=5",
+   "date": "Sat, 21 Nov 2026 04:00:40 GMT",
+   "vu_le": "2026-11-21T17:10:40.843652+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "What Does Diageo (LSE:DGE) Risk From India's Scotch Tariff Shock? - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOenJVS1ZJOEQzc1BRYXlyMEJpZE1KYm5tSUlza2xiMEY2ZGpqRVU0ZFFCQ2FUNzBaTFhtUHJEbFl1aE1wWTlOdHVqNjZ4bmluaGJpQ3F3QUJOMFpQcmh5UVpOb2dFYmxrai1OVXJfV1ZlOTU1dVAyT2NJSV9ZOFNzVnlPOFJMbG5vMEVGalpjQnJidGJ4RlROc3RoNXVKQm5ic05YTjNSZVRsbk5zQ00zVGJUaldOSGVhSGlVVW1tVWU0a3gyMzZyY3ZvYlNzbGJkV0ZiYWIwYUt3RV9ITFHSAd4BQVVfeXFMTnpyVUtWSThEM3NQUWF5cjBCaWRNSmJubUlJc2tsYjBGNmRqakVVNGRRQkNhVDcwWkxYbVByRGxZdWhNcFk5TnR1ajY2eG5pbmhiaUNxd0FCTjBaUHJoeVFaTm9nRWJsa2otTlVyX1dWZTk1NXVQMk9jSUlfWThTc1Z5TzhSTGxubzBFRmpaY0JyYnRieEZUTnN0aDV1SkJuYnNOWE4zUmVUbG5Oc0NNM1RiVGpXTkhlYUhpVVVtbVVlNGt4MjM2cmN2b2JTc2xiZFdGYmFiMGFLd0VfSExR?oc=5",
+   "date": "Sat, 21 Nov 2026 07:09:54 GMT",
+   "vu_le": "2026-11-21T17:10:40.843652+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "HYPE price on Nov 21, 2026 at 11am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjBZZHR2ak9Fd0tVd2d4UUhjbER0RkRnM1lUWTVtVFR0RE54dzhseXhhUGFqOVF3S21GY2xveE5HQWtNR193QnNJY3FqWjJiU2w2SUdVT1U5LVg5TDB6c0JPXzRVbmNkQ014OWgwSXJ3Mmw1RHdhR0U2XzFiSXY3bGJpaHFFUUJ3NkV0WGVUczdtczBXbUdvdDlzQ0pHVXpjRjRYT0tzTTB0ZUZCR2Y5aw?oc=5",
+   "date": "Sat, 21 Nov 2026 15:04:33 GMT",
+   "vu_le": "2026-11-21T17:10:40.843652+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Crashes Pile Up as Once-Diehard Fans Chase New Bets - Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWNlMVlXUVVHQ29HVTRrOF9uZEdKT3dPa2F1NndhRVJJSG9oLXZqenpoazV4NG9YWEFOOGhBTk02TUw1UFp2YkhMdUJkQk4xb3Uzc0t5MDl4VmxIZ3hOTEZMejY3bU40VWQ2ZnFoVGxad1RCN2ZtZ0w0dHJjMW93R2xwYXF1VFl6?oc=5",
+   "date": "Sat, 21 Nov 2026 13:30:00 GMT",
+   "vu_le": "2026-11-21T17:10:40.843652+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic's IPO Premium Shrinks as Banks Draw Blame - The Defiant",
@@ -6468,90 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZnlEekNZd3h6NndyWGxabnljbDlsTGtNOXBrZmtoZEVLc1ZpSTlTOHhKcy1lYjh3SExScTU3Y1doSkN2a2JrX09LZHo3Y1J3SUZsdzMyWHJQWDFSSTgzNUl1SFJlR3cwVUh0YTBBQzBUX1ZIWFRvdXRqWjZqaE1BYVExTEpPZHF5bTZSMVRSUDZjVW9OWHEtRnBEaDRuelA5VFI3NmZhdlpIeTVmanY5ei1VX01uNjVmVUx0bEJDZVh5eUJrMW1OUm1iTVJCYkHSAc8BQVVfeXFMTWZ5RHpDWXd4ejZ3clhsWm55Y2w5bExrTTlwa2ZraGRFS3NWaUk5Uzh4SnMtZWI4d0hMUnE1N2NXaEpDdmtia19PS2R6N2NSd0lGbHczMlhyUFgxUkk4MzVJdUhSZUd3MFVIdGEwQUMwVF9WSFhUb3V0alo2amhNQWFRMUxKT2RxeW02UjFUUlA2Y1VvTlhxLUZwRGg0bnpQOVRSNzZmYXZaSHk1Zmp2OXotVV9NbjY1ZlVMdGxCQ2VYeXlCazFtTlJtYk1SQmJB?oc=5",
    "date": "Fri, 20 Nov 2026 17:32:38 GMT",
    "vu_le": "2026-11-21T01:50:36.370228+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "​Intuit Stock Drops Over 10% as Mailchimp Sale and Weaker Outlook Hit Shares - EBC Financial Group",
-   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoQlBiM3YtZDFFYTdKMXp3ZDNLVzlpVGdzdWx6S3hReEtIRVhJUVdaaXZGYjNfQzdaVFBlTGl1QklDWkJCZ2FIY3I1Z2lOOV91Mi14aFVmMlhfOGFhTl9NR0tfN0ZUM2FXVnVfSjJHQi00eDA?oc=5",
-   "date": "Fri, 20 Nov 2026 03:30:51 GMT",
-   "vu_le": "2026-11-21T01:30:35.515566+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Vitasoy International Holdings Reports Profit Up 8%, Warns of H2 Pressure - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM1pqN3JZdjZZNGtmV21FcXN0aXlySjViZi1nNzNfZm9VdjZJUVlkV2k4dmN5ZnpjVUhtNnpET253c185bTV4VjV4NHpuVm5lUEcxT0d0T0ttWFE3c0Z4NWtlVjdQU1BfYlNEaWE0LUx4ZWUwREdzTDBfb01JbnY4TDVreE5CczlObGs2VXZTaElkRnZkSG93NzhFdy04Q2std0NyOHZ1ZFU4RXBUOHN5b1VLRU8zN21KbVpiejFyMXVDZXFIZnFoX2R2QUlwUQ?oc=5",
-   "date": "Fri, 20 Nov 2026 08:39:00 GMT",
-   "vu_le": "2026-11-21T01:30:35.515566+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "S&P 500 correction: Five forces behind the market sell-off - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVdEZSRFJHbTVUcnFhajRic19hWTN3bFdWTTNHcG4xZ1FOUkIwbTlxM25RRnNubWg4eFdMN091NVdrNFRrLXNxYkVRdE5RMmxUdjEtLVB1d0ZvS0V0S05mVGRpdWliYXE0YV9sSHZndlNfenJBUl90YlZR0gF_QVVfeXFMTjdUUUM2aGNWRGk0VGM5TGpacVBtZjNLNnRiWmE1clBxSnBZenR2anotRF9lU1pEQXJKVjhoaEh6VHZ5b2hWMktPZEI0N1FmWW80S2N0anRHS3djeHVuOTRibk1wanNiNEZoY0FyVlFxbXA4N1hWWlZIZzlWdHVqdw?oc=5",
-   "date": "Fri, 20 Nov 2026 23:53:21 GMT",
-   "vu_le": "2026-11-21T01:20:35.158745+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Cac 40 : Balayé par les craintes sur l'IA, le CAC 40 perd 5,3% sur la semaine, sa pire performance depuis début mars - BFM Bourse",
-   "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdFBINS1UM2ZKUVFBcTRGbzdMQVBjSDRsUHduUkluVkNZaGQyNTNtNHQ0VnhhYTc4VlpMUmdSRzZuZFpNdm9zalNHa2xhU3BBLXFjMkNHR0h4bDBldnRYanVSMmZtVWlNbVVFMGxZczFud3FnQTgxRG1nOHNTNmJFVmg4REUzZm1pSkJONkNHMlNMQVpkeEd1eW5tSVEtTmpZYmdWVmt1d1RRaF9ucW91NGY2cTZJOXFmQldZTEpTYUJaYnl3SzhKMERWbjhHVGp0QURiRmxMWFFkalpUSDU5YnBCMXM0a3dVSEhad092RGQyUTZHQkJmY2NZRllrNnpfRUdfSm9B?oc=5",
-   "date": "Fri, 20 Nov 2026 16:52:38 GMT",
-   "vu_le": "2026-11-21T01:20:35.158745+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Officials approved the sale of 580,000 Nvidia chips to Chinese companies - The Washington Post",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTNWdm5ZVVFLUDV0SDQtRy1KMzV3dlVUVDg5aTJaMXNZTXpxRmY4Z3VKUFA2dVhKclpKbml2MjQxZmdLdEgyMGE2dkRzdnJnSzRkU0ItdVNuSnpVMHhSeHdzZXM3Y2ZJaGZsVzJ2cVRWTFNZWGlmckVxcUk1eTNSdzVZZ0hnNDE0cHlsblcxVGJuNnYtTUMwNFpISUktUGNyMWZlTGRwWlV0QW5kN3ZWV0wxNnRYQQ?oc=5",
-   "date": "Sat, 21 Nov 2026 00:47:34 GMT",
-   "vu_le": "2026-11-21T01:20:35.158745+00:00"
-  },
-  {
-   "sujet": "Introductions en bourse",
-   "titre": "Singapore-Based DayOne Is Said to Pause US IPO Plans on Data Center, Market Concerns - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWVZLWWg4US0wTHJaZjFVUE1XYkpjdEN5YXE4MW1laU5DYlZ0djBNNndsQUVnY042M25rOS16TXdBS0FzSHgxdzFaa2NKYjJZdDBTa19WM1M0aExkcmpNVnhXWE1URkVSdmFlcjdvbUVtZEhFV3VXMjdpWVo4aUVoVGJqaHRrM1E2a24tN3RSejhOaDNhQXZVRWhDZF8tajE5Mk5XX1B5NmlDcjZTVHBoYWU1VFJJU3ZROW8yTERFUXc3VHg5VEY1WGo5QmM1dms?oc=5",
-   "date": "Fri, 20 Nov 2026 05:41:00 GMT",
-   "vu_le": "2026-11-21T01:20:35.158745+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Daily Voice: FII buying is no big shift towards India, but worst of foreign selling is over, says Spark... - Moneycontrol.com",
-   "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNl9USGRxMnE4RlFSQ0pvQV83Ui04TVFpMWNva0FUUUhhWGUxV3pFTEd4VkloYkNhbzVMa1RrbWxlWjh0TGZ0cjFvRHByYXpUNDdhOTF5dmZkWXF0a0szcFZ5Q2NzdUFzYXd1dThZbG9lSGVObzhwX2pmbXhDSUk0UUgybXVvWHNBd0piSFNYci1UYVZVYU1MNFBQbFhSeDRvdVc4QTRUZFppNUNoZzhXQ1FZTnRVbkFNbjl5RUR3YlljbG9jeTNmejRoNHF6ZlllVTlNT3BmRVFKQkNMcHRGb2tjZXJtUWtDVS04bUdBNHNTdVhyc3U0RmRpQldUUdIBgwJBVV95cUxPNS1IRlhsZ2JDdW9PanZKMDl5WFE3M1NfcF94MGQ2bkJNY2k5NFhxT0QwZTJQa3l5Qnlfa1U0Ymt2WHZuVGk4ZHdJRW9IVGVFSXA2b0dqOWRveWgxY0QtT0NZQmdRWGtTQjZlM3RiUVNqN0p6cmF4UG8tWGI3MnE4YWROU3VnTmoydGEzNjI1bXdLNWR4VzVORnYtY3lBdldHanYzSXJHcHY1Z0Q4SHR4M2hPZDM1RHE1V2NNSEVES2ROakpQSTlCdG1RbEhoN3RrQ2laY0tiRGQzMG93ZW9vQjM3R2xGY3o3VXBDT2RXVW1rQ1dhLThfQ1pHUEdTdGN4d0Fj?oc=5",
-   "date": "Sat, 21 Nov 2026 01:08:55 GMT",
-   "vu_le": "2026-11-21T01:20:35.158745+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "3 Undervalued Stocks Louis Navellier Likes After the Market Selloff - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTjQzZkRHN3VINXc5NDRteG42dVZWcnZRM2haelhHbUxsall6cWhIVnNxOU1UOUZCYzNGR2RMM1NjQlhmYUtDTjZMQnZtUzltNHdsblJNX3pDMnZXeDhxV2hac203RGk5aFdzNzQtek9Lc1NmTUNQeUtnZnhNYXZFdTZ5ZXlaSXlWeURjRHp0cWRWRnR3Rlk1Qm92aUk2VVJZQ3Z5bGx4dmI1aHBmX0dTV1l2ZGJ5QUFXRnZFV3MxVGRSZ2FTTndmczZjWQ?oc=5",
-   "date": "Fri, 20 Nov 2026 18:56:10 GMT",
-   "vu_le": "2026-11-21T01:10:35.863274+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Pernod Ricard (ENXTPA:RI) Stock May Look Reasonable Following Scotch Duty Uncertainty - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVg0Z0ZRS3ZFZnp5N1BVNlk4Rjh0bG1YTmRMV0xCeWJlWmZiak9JV0ZBZ1A3UGZCNHJVYTR6Yjd0VlN5WDVYYjZKS1pyOWw2ZkVCUVFRZm1ZalNlN1VxNFlYVUg1N3FMY0NPQ0FKUXRGaUZQMHYybEoxR0wtTTlWMDFLN2pUZEtYVVp0VzJDcU9UaG5Nb1lxSWNR?oc=5",
-   "date": "Sat, 21 Nov 2026 00:17:00 GMT",
-   "vu_le": "2026-11-21T01:10:35.863274+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "BTC price on Nov 20, 2026 at 9pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd2JhSk44QmxuV0o5X1c3V2ZVbHBHT2JmU1lUWmdiQjFqdC0xMDZXYm5YYWlKVWJmRFN0X05sdFNobV9wa3FGVlVpam1STGdsbmlTYjVFQXNKbDBsNVVjRWVXSlJYNkdNNkdhTGk5YnJfMENIWGU5ODNrc09Rb2RpZXhBdExPTXgzanRzX3NncDNrTlVSVlBBWFVsUFlYS2phZjE1T0p0SFVsZW5vQ1E?oc=5",
-   "date": "Sat, 21 Nov 2026 01:05:35 GMT",
-   "vu_le": "2026-11-21T01:10:35.863274+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "3 signals the biggest Bitcoin treasury company checks before its next move - Yahoo Finance Australia",
-   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRGpKOGdaZEFfeW1wdkdYYWQ5VzJPOHkwdWR0U3ZsOEotcEQ5VHlNb0llbmtNVk9ZWEZJaUZVeGFZaVlWMzVMV0hNbklScE9zaTEyNTZKMVRPeDNic0h5bGlWei15N2pRMkNHQnY2MzVsdWJVYXpFWFR2WVRzdkdZQmpXMEQ2MldGTWQ0?oc=5",
-   "date": "Sat, 21 Nov 2026 00:30:00 GMT",
-   "vu_le": "2026-11-21T01:10:35.863274+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "BASF drops Evonik takeover bid - Indian Chemical News",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0welE4ZDdfSUhRa2x2blRXZjZvTUphd3FjTnF6QXpnc1NWZ2g5ZVBoSE11dFpNblZmMldFX21DQjhDdXJWaXp6WlJxZmViZGVFckhXajB2bnVsODh1NkFwS1RDOU5XQzNxWlZIMVZhR1YzamtPY0tJRlBHaDNfWHfSAYYBQVVfeXFMTTQ0OFo2LUF6eFZhZFNHZWhCUFdnWFdobjNJeWJ3QUEwRU9OZnphVEdjeksxTVNlMnpYUVdoM3VXZHBkdXl1TVJiTGtmZXl2cV9jWlhCNnlYQWpLVG1CVzdrb0ZtUmlPUEt2dnlyeldkeEZFaVY1eWM4YUM2MVppUlJEMk9VNXc?oc=5",
-   "date": "Fri, 20 Nov 2026 04:22:48 GMT",
-   "vu_le": "2026-11-21T01:00:36.117747+00:00"
   }
  ],
  "erreurs": []

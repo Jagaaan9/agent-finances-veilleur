@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54779.12 EUR, jour 2.06 %, mois -26.79 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54849 EUR, jour 2.19 %, mois -26.69 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,18 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Bourse de Paris et Europe] CAC40 : une baisse de 5,3 % sur la semaine, sous les 8.000 points - Le Revenu
+- [Bourse de Paris et Europe] TELEPERFORMANCE Cours Action TEP, Cotation Bourse Euronext Paris - Boursorama
+- [Bourse de Paris et Europe] SEB Cours Action SK, Cotation Bourse Euronext Paris - Boursorama
+- [Bourse de Paris et Europe] SODEXO Cours Action SW, Cotation Bourse Euronext Paris - Boursorama
+- [Intelligence artificielle] The Week in Breakingviews: Know your chip customer - Breakingviews
+- [Intelligence artificielle] Cotton claims Lutnick ignored his ‘many letters’ warning of chip sales to China - The Hill
+- [Petites valeurs en croissance] Cigna (CI) Stock Could Be Cheap As Shares Drop 4% - Simply Wall St
+- [Petites valeurs en croissance] Coherent Buyback Puts Fabrinet Stock Back In The AI Infrastructure Spotlight - Simply Wall St
+- [Pays émergents] NSE Nifty 50 Gains 10.7% as AI Sell-Off Redirects Flows - Multibagg AI
+- [Pays émergents] What Does Diageo (LSE:DGE) Risk From India's Scotch Tariff Shock? - Simply Wall St
+- [Crypto] HYPE price on Nov 21, 2026 at 11am EST Crypto Prediction Market - Robinhood
+- [Crypto] Crypto Crashes Pile Up as Once-Diehard Fans Chase New Bets - Yahoo Finance UK
 - [Anthropic] Anthropic's IPO Premium Shrinks as Banks Draw Blame - The Defiant
 - [Marchés mondiaux] This Stock Market Selloff Could Block the Fed’s Rate Hikes - 24/7 Wall St.
 - [Bourse de Paris et Europe] CAC 40 en baisse de près de 2%, krach de l'IA, Ubisoft... Le journal de la Bourse du vendredi 20 novembre 2026 - MoneyVox
@@ -445,15 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Marchés mondiaux] Wall Street Asks What Can Save AI Trade After Anthropic Wipeout - Bloomberg.com
 - [Banques centrales et taux] Nagel (Bundesbank) défend que la BCE relève les taux jusqu’à un niveau restrictif pour l’économie - Demócrata
 - [Rachats et fusions] BILL Holdings to Be Acquired by TPG and Corpay at $63.25 Per Share in Cash Merger - Kalkine Media
-- [Résultats d'entreprises] PWR Q1 Deep Dive: Strong Data Center and Utility Demand Drive Robust Growth and Guidance Lift - TradingView
-- [Crypto] What Is the Best Crypto to Buy With $500 During This Crash? - 24/7 Wall St.
-- [Crypto] Crypto Crashes Pile Up as Once-Diehard Fans Chase New Bets - Bloomberg.com
-- [Crypto] How Low Could XRP Go if Bitcoin Falls to $50,000? - Yahoo Finance
-- [Bourse de Paris et Europe] Le Cac 40 enfonce plusieurs seuils, dont celui des 8.000 points en fin de semaine - Investir Les Echos
-- [Crypto] Bitcoin Has Traded Below Its 200-Week Average Only 8.4% of the Time. History Says This Is When Patient Investors Get Paid. - The Motley Fool
-- [Banques centrales et taux] «La Fed réagira sur les taux en fonction des mouvements relatifs sur le pétrole et sur l’emploi» - L'Agefi
-- [Intelligence artificielle] The AI boom had a really bad week — and it's raising loud alarms - NPR
-- [Petites valeurs en croissance] Should You Investigate Crexendo, Inc. (NASDAQ:CXDO) At US$4.30? - Simply Wall St
-- [Anthropic] Anthropic’s IPO could flood NYC’s luxury market - The Real Deal
-- [Chine et Asie] Who Is Lisa Su? AMD CEO as Shares Fall on a Short Report - The Profile | Polina Pompliano
-- [Chine et Asie] Bessent vows to enforce AI chip export restrictions and close remote access ga
+- [Résultats d'entreprises] PWR Q1 Deep Dive: Strong Data Center and Utility Demand D
