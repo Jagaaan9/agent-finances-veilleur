@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T15:50:39.429145+00:00",
+ "mis_a_jour": "2026-11-21T16:00:35.161733+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54762.16,
+   "prix": 54657.21,
    "devise": "EUR",
-   "jour_pct": 2.03,
-   "mois_pct": -26.81,
-   "volume": 356.81440948,
-   "volume_relatif": 1.71,
+   "jour_pct": 1.83,
+   "mois_pct": -26.95,
+   "volume": 357.79708991,
+   "volume_relatif": 1.72,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Trump affirme que les taux d'intérêt sont trop élevés parce que la Fed est “politisée” - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNW4tNmp5Q2VObDFocTdsMjU0OFBhVE9sOFQ0MC1kSWVrbVdnNzlPNENmMU5PNDAzbk8yTEdlMm5OSWlqN1VfeUpUNDVmeVBSd3B2V1Z1TWVZNzVMdEVnSHhIX2pjdUQ0ZDR4RzJRMlE2WDRFWE9KbEp5UGN4RExfVDdjNEZCZU9qU0pSaXByenpqdw?oc=5",
+   "date": "Fri, 20 Nov 2026 17:37:19 GMT",
+   "vu_le": "2026-11-21T16:00:35.161733+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Wonder explores sale of delivery service Grubhub: report - The Business Times",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDFuT2pvb3NFSGx3ZW5DN3RDY1h1eHNYaHhaSXZidzNxbm9qc1FqZktmQ0pkaHFPYkdkOWxkN2c0ek9RSTVuTzFBdHNlSURNUXFnZUJhMDF0WHBTT3NYU0JHZXpIaGZMbmlvcFhkdGFQOG1qMlFZVU1NTV9Td204R196WkFlTW1pTms4VGhWNHpyVFo0SzVodDFtTlZJWDBG?oc=5",
+   "date": "Sat, 21 Nov 2026 02:28:00 GMT",
+   "vu_le": "2026-11-21T16:00:35.161733+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "As the EQT deal moves forward, Range Resources (RRC) updates its FAQ for employees on accrued vacation. - Stock Titan",
+   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbUxabVFDTllPTkNVVzJnZjlBa0RPbFpsRllzZVFuTHpLd0tiV3AzTExEeC1lQXo4NDF3RF9LbldPRURRSlVfa09OY3VBeHNxUVRpU1k4ZEQ1d2VMYnUtZzdydUtGODYtLVFybk0yUUdlbkVaUVpsTXpJZkNITWNoOWR4eHVVV3pHMU5Rd29LR2lWX0RkYTFTQndZZkhoTmxnMXZtd21SMEQwWndJTFI3aU12TDZ6V0tBR1IwWA?oc=5",
+   "date": "Fri, 20 Nov 2026 21:00:46 GMT",
+   "vu_le": "2026-11-21T16:00:35.161733+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Loses $60K for First Time Since July as AI Stocks Crash - Bitbo",
+   "lien": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iTXp2WU5BQ2pyczJmdGxMNmh3UXU1NjFpM1NQN0hlZko1aDNxdGVqVHNZejFkelBnV1JQQlJFM1NqWEZMVEZHeUNlRUFhR2JLZ1pfd1Zhb3JOdUFt?oc=5",
+   "date": "Sat, 21 Nov 2026 15:40:00 GMT",
+   "vu_le": "2026-11-21T16:00:35.161733+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Dogecoin price on Nov 21, 2026 at 7am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVdBN25ORUg4Q1NnZWM3ZWJsWGZvTldRNEpSZVNQenZrODIwV1VjckNtRWpzd19tVno5V3ZwWEtZeTFUN2w5Y3pISUFRRmRRaDhScVBKYXE2Uk5Va3hsZEhpNl9lS2RObzNkeW1DNnAtemRDZzZaNTFBR2Q2Tmh2VEFzVjJWSkFkTEtsTVh6eVlqcGRtQkxOQTVXQlNDN3NRWTRjZVcwb0lsMGdhOUxnZUdhMzY?oc=5",
+   "date": "Sat, 21 Nov 2026 11:04:49 GMT",
+   "vu_le": "2026-11-21T16:00:35.161733+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "A 10% drop for the stock market is unnerving, but it's not that unusual - ABC News - Breaking News, Latest News and Videos",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTY1dW16VnhxWkNxb0piOExVZnlHejBxeExiY1dqZjZUR0JlWDFLeDlvMFJFNnFINnE2a052YnBPNmZjNzEwcVh1SE5yaDJZcWJzTGdreHBqcGhQOG52dzdhRHRWWXZhRjBWMVZZd2c4TnhHZllkQmFkRjFDRE8zUF93OG5wUTc0X3daY1U3aGhRYlRI?oc=5",
    "date": "Fri, 20 Nov 2026 22:08:07 GMT",
    "vu_le": "2026-11-20T22:50:35.709669+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Should You Consider These 2 Defensive US Stocks From Healthcare and Consumer Retail Sectors - kalkine.ca",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLXc3STVpTzZpbElCaVJOenZ3X3FxVlpuYWFVSjc5cG4tUEhOSy01LUh4SGdIQlNwdGdyRUUzeHh4cFU3UWhCQ3h1X0dkNDdDRUEwa3c0SkF2aGtlZkR6cjctNHY3MmtQUHZyc0pVZ1g3UFBCNXU4Skl4aXF6bEI2RnpTTFcybWlObWc0NWVSbFVMQ2ZldnI1STZkNWo4MWk4c3h1UnZBaVhkY3ZtTVZLRmNKdXRtVU5XRWMyYm1scERjakgy?oc=5",
-   "date": "Fri, 20 Nov 2026 11:43:26 GMT",
-   "vu_le": "2026-11-20T22:50:35.709669+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Insurer Tops Alternative Buy Point As Investors Play Defense - Investor's Business Daily",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdFFpMXBlU2ttYzNHLXlEZ1Fic0RvZlJ6YW5IazFndk1HMTlZWnRPZGtzWGY5Zjd4WWVXaXd6RExmNjJldUM1aG5vQWo4X1VKSUVKRkRLaFYtZmJlN2FHNlotQkptM0IxVFNkT0JZd1B4aHFSWk1PX0I5bGpaTXBvc3k1Qm9VelZhRDdaMkJQNmE0UQ?oc=5",
-   "date": "Fri, 20 Nov 2026 18:59:00 GMT",
-   "vu_le": "2026-11-20T22:50:35.709669+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Lockheed Martin vs. SpaceX: Which Aerospace Stock Is a Better Buy for 2027? - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWdwYmxqS1RDSUFyX0NPYXhpVHdSMHo4MVkxLUZfTHYtMGhTUmJnTWU1UnZvVmJoUmE5QjB2ZW14d3FKOTFPWmJtNldYcDdCRmNnWk1ocFFZeDRvcVM4eGtQSHlwclBRTXZWUXFwRDFDc3Y3c0xVNmhXX2k0RGJyZlVhR3FoOVhvcEJRYnI1ckVxOGJ6OHhNOUZUSUg3akZVX3FobncteFBSRWUzOVNUaFBUVWxvZGMzQVpWLWRFbGRuOTA?oc=5",
-   "date": "Fri, 20 Nov 2026 16:30:02 GMT",
-   "vu_le": "2026-11-20T22:50:35.709669+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Wall Street's Last Line Of Defense Is Breaking (SPX) - Seeking Alpha",
-   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWXZuUnljUWdUb3l1ZU1Sa0N0aFZSdUJ0SURHQ0FsQWZ2dFBnWktrb3FMNXc2X080OHE2WTBnOHR6Q0FKbktkLUQ5RzNIZUMwczJITDZvTkNxZExRRHV0VHNSR04xU3ppUWluT2tISFUwSDA2cDdabUNFSmdZWjVvREY5X1NsYXZoZlE3bWZPaw?oc=5",
-   "date": "Fri, 20 Nov 2026 19:27:49 GMT",
-   "vu_le": "2026-11-20T22:50:35.709669+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Michael Burry Locks In Gains on Nvidia, Chipmaker ETF Puts As AI Rout Deepens - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDVVZmZ2c21mYktfR2JxN1hqb2xLT1MwRjc4bi1hM0E3ejFOT0tBaGVfQ0ZKak1LUjNhcEZLTzlkT3pKeDFVbWpJd1A2NkNicVUtV3o0VFR0cko2anRPaXpzUkRxVnh2RDBGb3l0dVo2RG1uNnIwMEVfaWgxVXczeVA2X1BoNXlBellpQUxEZG5ZSkltYU1CeTV1ME02dw?oc=5",
-   "date": "Fri, 20 Nov 2026 18:32:41 GMT",
-   "vu_le": "2026-11-20T22:40:34.824160+00:00"
   }
  ],
  "erreurs": []
