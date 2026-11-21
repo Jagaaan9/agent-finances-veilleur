@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53771 EUR, jour 0.18 %, mois -28.13 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53783.63 EUR, jour 0.21 %, mois -28.12 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,9 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Watch Historic Market Selloff Deepens After Anthropic IPO - Bloomberg.com
+- [Rachats et fusions] Report: CrowdStrike in Talks to Acquire Zscaler, a Deal That Would Reshape Cybersecurity - BigGo Finance
+- [Crypto] XRP price at Nov 20, 2026 at 10pm EST Crypto Prediction Market - Robinhood
 - [Anthropic] Robinhood CEO reveals how Anthropic IPO shares reached retail investors - Fox Business
 - [Marchés mondiaux] Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory - Fox Business
 - [Marchés mondiaux] Has AI's honeymoon ended on Wall Street? - Yahoo Finance
@@ -457,7 +460,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Strategy Is Down 44% in a Month as Crypto Stocks Crumble: Can MSTR Stock Get Back to $100 This Year? - Yahoo Finance
 - [Anthropic] Tech Rout Deepens as Anthropic Stock Slides - Yahoo Finance
 - [Marchés mondiaux] US Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 sink on AI selloff after Anthropic IPO - Beinsure
-- [Bourse de Paris et Europe] DANONE Cours Action BN, Cotation Bourse Euronext Paris - Boursorama
-- [Chine et Asie] AMD drops 7.7% as short seller Hunterbrook alleges a blacklisted Chinese firm kept getting its firmware - CEO경제신문
-- [Crypto] Bitcoin Falls to More than Two-Year Low as Global Markets Sink - Bloomberg.com
-- [Anthropic] Anthropic's IPO bank closed position meant to st
+- [Bourse de Paris et Europe] DANONE Cours Action BN, Cotation Bourse Euronex

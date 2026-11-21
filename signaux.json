@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T02:00:35.985301+00:00",
+ "mis_a_jour": "2026-11-21T02:10:35.662793+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53771,
+   "prix": 53783.63,
    "devise": "EUR",
-   "jour_pct": 0.18,
-   "mois_pct": -28.13,
-   "volume": 7.72211947,
-   "volume_relatif": 0.04,
+   "jour_pct": 0.21,
+   "mois_pct": -28.12,
+   "volume": 9.65074784,
+   "volume_relatif": 0.05,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3755,6 +3755,27 @@
  "actualites": [
   {
    "sujet": "Anthropic",
+   "titre": "Watch Historic Market Selloff Deepens After Anthropic IPO - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWxyNnNiRzUzMmpabC1oV1Z3ZmxXVllzMk5HVWlYMHg3N3dEQUdtVW14LVBFTjl3Z3VXM2VUWWg1dHhtT0M4NlVidzJCZENfUGM1WGRoRDlYZ1NGVXlNenJtVW5vVnZzXzlscGRKbXIwVkJCZHNsNC00Y2pXSVhzcw?oc=5",
+   "date": "Sat, 21 Nov 2026 00:31:25 GMT",
+   "vu_le": "2026-11-21T02:10:35.662793+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Report: CrowdStrike in Talks to Acquire Zscaler, a Deal That Would Reshape Cybersecurity - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5idlFmMVQ1TGgzWU9BY0R1WjBKc0lZajE1dU4xWUpMQXNOUzhXQk9xODNmQzI5LUJ2UW1YZ3U2bXEyS2Q2U0E1NmE5R19GZ3FBbHRBbFlJZGZLRDRIOHJOaXRXd0hXOV9vcTJKUW9xWGpSeWFWcXc?oc=5",
+   "date": "Fri, 20 Nov 2026 21:35:00 GMT",
+   "vu_le": "2026-11-21T02:10:35.662793+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 20, 2026 at 10pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEhDZUdXZENRRTlqQzlDcFZZVGY4REZkZVVIZkRvcHVDWWlMcUkyT21QS3Z5Q2hxTlVZZDVEdXBiUmJzcVZ1NVFheEJaaTc1b1E4QXJrdWI3bzRXcS1QSVRvNmZJbVI5OU9LTzBia2V3Qnh0NnVIMC1mZlliakFicXB6S2Q4dU5pVUx4QmsxMkFuTWdDT3c0QVJMQlJuMzFOMGl6M29WakVmM09aWkJr?oc=5",
+   "date": "Sat, 21 Nov 2026 02:03:49 GMT",
+   "vu_le": "2026-11-21T02:10:35.662793+00:00"
+  },
+  {
+   "sujet": "Anthropic",
    "titre": "Robinhood CEO reveals how Anthropic IPO shares reached retail investors - Fox Business",
    "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVZGFHYTVUYWVlLUo4UDFBZ21tU0dvRUpwbGdwTVA1TWhVVzlqWjVXeEhwZVdBd2llcnBZbTFBRHpMclp6TU1xY295WTVkVV90X0tDTDYtQU9nOGc?oc=5",
    "date": "Sat, 21 Nov 2026 00:58:38 GMT",
@@ -6531,27 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2FuMGhEMVZaUk5BU2VZWFN0MFJ2WjM0anVIUlpyOG5wdjlnQVhJRWdJY1MzZkN6TG5nTnNJemlQNGxSazNQWlZNMk55MkltOHF0WWM5V05ZN0RYMzF6SmZZb0ZzT0Jsc0c4MGQ4WnNmdTJrblE3Wi1JWlFfV2diM21IVGRvTjFiTy1CUGl30gGTAUFVX3lxTE9IeHRGYTVZU3lFdXZOMWQxTVlLU19NU3Q1a29aaVRCTTcwRkpCMm9sYzYwTVlYUmlGYmE3S1MxT3pjYVpINFdmZG5xc0ZIWWp0LXVNcTFwdnQ3MGFmNl82ck1IOHVYMmotYWZwQ2hiZ2VDb0lFRzl4SGx0d2R5WU5pZGRsNl8tSTlQYVVIeG0yZjNxWQ?oc=5",
    "date": "Fri, 20 Nov 2026 14:18:44 GMT",
    "vu_le": "2026-11-20T14:50:35.067158+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Why Donald Trump’s Crypto Presidency Is Deep in the Red - Newsweek",
-   "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbE5wcHRKNnZOcTRvRVlISkhQcnc2aDlHdmI2eXMtNVJLQlhpbGo5dE9xaGJiNnhrT2ZhWWxWVUFkNWlzdnVsb3NLcEhhM2k1OHB2WTlZbU5jZWNTWjZWVWhTN2ozUUxJVF9SOGwzdDFycThPOGpfNm1fWXZVT3phaWxwdw?oc=5",
-   "date": "Fri, 20 Nov 2026 14:19:00 GMT",
-   "vu_le": "2026-11-20T14:50:35.067158+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "HKSTP Debuts at MEDICA 2026, Forging Hong Kong-Europe Pathways for Life and Health Tech - USA Today",
-   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYy1MUjJNN0psTVozSGFsU0FsSmxBV3lvRl9MSVUwcnJxNllkVTg1RmVtTERMQ29yQ29fRVZWNEtCQkxqLWRZVGFPcTVCdUxTN2M2YVVCam1PN19RcEJLU3FBMWJtNjhERDlJNjItRWN3ZXpQQVV5WmE5clB6R1AtTGVvYjFnTUh5dFRnbXRJazl1TURKdDZieFR5NmI4djM5VDgyOWFYUTJNdEhYTWZuOFBsdGMtWVc3SEl0R1RkY2pGWl9YRHFtNWpJdFd1RlJ5MERZYjN6bw?oc=5",
-   "date": "Fri, 20 Nov 2026 12:39:02 GMT",
-   "vu_le": "2026-11-20T14:40:36.435841+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "SpaceX Sells $32 Bil Of Debt For AI Chips. But Yields, Orbital Deployment Raise Concerns. - Investor's Business Daily",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnpWWjMyRktmbkp0QXYyWnBRNnJDU0hOZXoxeG9oQmw4QUFDVll5WnVQbklIZzFTdXZyeFFXdE5PWjdzcU1NLUhjSExHWHRwSXNXb1FyX0cwcEFQal9OUm4zUG96SFZtZzN4UlpFdjQwYlgwWmJPOWNBQi1aaEkzRjgyVFhxdkRHazRoX0Q4SkRoRHhqUzNqQVlPamFTYW1tem9TT0l5LVhhMWE2SjhWUEZkdTlYS0ttYkd5dQ?oc=5",
-   "date": "Fri, 20 Nov 2026 14:31:00 GMT",
-   "vu_le": "2026-11-20T14:40:36.435841+00:00"
   }
  ],
  "erreurs": []
