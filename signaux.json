@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T12:50:35.391071+00:00",
+ "mis_a_jour": "2026-11-21T13:00:36.199254+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53711.27,
+   "prix": 53680.25,
    "devise": "EUR",
-   "jour_pct": 0.07,
-   "mois_pct": -28.21,
-   "volume": 254.26636707,
-   "volume_relatif": 1.22,
+   "jour_pct": 0.01,
+   "mois_pct": -28.25,
+   "volume": 255.83091967,
+   "volume_relatif": 1.23,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3755,6 +3755,27 @@
  "actualites": [
   {
    "sujet": "Anthropic",
+   "titre": "Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade - WSJ",
+   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82dmNNTGZ4OGRheE9CWDlFVW01c1dGLVVLNHBFX04yX0ZVcmF0V2hoTlRKRmF3T3F5MGJiYlBBaFVvUFd6eTNud2YzSzdsVFM1TWRlUmhYUE1mWklkUWlrbURFNEpobEhENVB3YWZCUGVMbDYtSnRB?oc=5",
+   "date": "Sat, 21 Nov 2026 03:25:29 GMT",
+   "vu_le": "2026-11-21T13:00:36.199254+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China's Fund Managers File for First Batch of Four Index ETFs, Adding Tools for Semiconductor and Computing-Power Themes - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LUjRvcGV0LUtxckZrM3Y5Tkx0LTJsQTFXQnFZc0lidzNNaGtrODg5U0p1RkZ2bWNOOWQ2d3VhbWFNQXJSaU54Yk9WUFlpXzllX3EtVnNSNDNJa2NxLXM5V2UzQTM5d2Q3SVgxbzFkd3g2N0NXWVE?oc=5",
+   "date": "Fri, 20 Nov 2026 13:05:00 GMT",
+   "vu_le": "2026-11-21T13:00:36.199254+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Building a distinctive fashion identity for the global clothing market - www.indiagazette.com",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVE5aHcwcVFBNE1FTXhTR05ENUY5bFUzVzd4VEx6QzA3UFNzemNWWW1udklEcnVuRDJBSlNZMktaZmg2MVFlZXZ5U2NuVVlvMEMxTGNiVFgta0RDNFdvaVpvNm52TWhGdnpESkNSaVRjMEFJMTY3RS1TWTBhLWl0UVJHNHNGNWNQRWZkUXRUd21wVmc1VFAwRHh1TDNUYzZ4RmgxUWNsV05ES202eUt5VDZPWnY?oc=5",
+   "date": "Sat, 21 Nov 2026 08:12:00 GMT",
+   "vu_le": "2026-11-21T13:00:36.199254+00:00"
+  },
+  {
+   "sujet": "Anthropic",
    "titre": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - NPR",
    "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3FPem5vX0lZRzBlVnN0UGR3UkFUSmZXek1yY3ZmOVlIX0lOVy1kR0dWcVZoenFHSGdRS1R6MHRtenpxX2ZOVnE3UkNmOWdteXpQZUhFTHFMSTZFcG16d0hPMm9SaVlMTDdLVVpHMDljMmg3S0ZyM1hmTXotZ2w3cGhMaGNjOWFILWV4UjQ2dGxreVRGUEVrQXdSWFFMWThHLUtwVEFrWHJVLVQyQmlWdFoyX2pRRElfRm1NTnNqTnlENmQtSXNvdjZFVQ?oc=5",
    "date": "Sat, 21 Nov 2026 12:30:16 GMT",
@@ -6531,27 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPOVRIWUpUYjRrTHFjMC1LU05IVXVRYUdwZldIREZSTXhpUURUTzZqTUZ2UEE1UllsUDFOQnQ5TUl1SVJ5UE9jbnVOdEFFRUkyZEZGMVFqWnAtRGNEZ2xzS1hnWTFtdmJoS21DMENYaFl5alcwUkJESzE4ME5OVVY2LU1ESHI1Y2dXVEdnX1VicTRCSE43QXpCcVlFejgwMEVMUV91SUd6ZGpsaG8zeE1ZSFR4NDNJNzZiMkhPcWx1WTE1TXFyaURWRGo3S3VUQ3ZwWWFWRTkzUnhTRjFZSnVOMXRhbzJBMG1a?oc=5",
    "date": "Fri, 20 Nov 2026 14:33:56 GMT",
    "vu_le": "2026-11-20T19:30:37.721222+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost - The Block",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQemlPdVVuNGdobDZSaU9MTHRMTU9ZT0pQNVh6cEI4dFZMaXFWc0lxbnRqUG5PWlh3a1plN0l4OXJQR2ZJbEl0VVh4WExiRFFybC0tb1QzZUZVd2ZBUW9ORzQ0akxzS25kVHB0X2ktdUR1QW0zdUJlelU2amluWDgzZUl4aGNHSGF5S3RsS1pRbkRianJIenZLMlM0dUkzemdIQzByZUgyVW9LQzdZTktKMEJPenc?oc=5",
-   "date": "Fri, 20 Nov 2026 18:17:00 GMT",
-   "vu_le": "2026-11-20T19:30:37.721222+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin crashes below key level as extreme fear grips market - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWE9YdVhKSlBRSDl4T2FKbG9xdkV1dXU2YWFuUGdsTFJ0UmoxekFXbU9PcUFOUks5cktsR2g3bXBnUU1HeGlBbVVCRGRpSGFsaW9WeWhzc1g4RHlZal9oRElJekxiUGt0c3pReERSZF9uTlVaX2FJTHhxSEx6TDNraV82Y3Q3ODhsa1kwTkV1QlpDUVdZLXhXeUs3RS0?oc=5",
-   "date": "Fri, 20 Nov 2026 19:22:16 GMT",
-   "vu_le": "2026-11-20T19:30:37.721222+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "The Climate Question Hanging Over Anthropic’s IPO - Time Magazine",
-   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tdTFxdEwyaUVZNGRUcExhcTBWdGZkMm5pcGFWa2xfWVdMRmxnX2JrNy1xRHRPaURjTlluc1hvbWpiWHNURWRoalNqdjNXYTlaU3FFXzdyWU83elVwdEVVXzVvZU1tYW4wX3RCMXExNlJTd3c?oc=5",
-   "date": "Fri, 20 Nov 2026 19:15:12 GMT",
-   "vu_le": "2026-11-20T19:20:42.877150+00:00"
   }
  ],
  "erreurs": []

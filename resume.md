@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53711.27 EUR, jour 0.07 %, mois -28.21 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53680.25 EUR, jour 0.01 %, mois -28.25 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,9 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade - WSJ
+- [Chine et Asie] China's Fund Managers File for First Batch of Four Index ETFs, Adding Tools for Semiconductor and Computing-Power Themes - BigGo Finance
+- [Pays émergents] Building a distinctive fashion identity for the global clothing market - www.indiagazette.com
 - [Anthropic] Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - NPR
 - [Anthropic] Anthropic IPO: Amazon, Google And The Art Of The AI Cloud Deal - Yahoo Finance
 - [Crypto] Anthropic and Bitcoin Are Both Falling: Where Is the Money Going? - 24/7 Wall St.
@@ -451,7 +454,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Pays émergents] AI Stocks Are Crashing Abroad. Why India Is Watching From the Sidelines - LinkedIn
 - [Pays émergents] Nigeria leads African bourses with 72% dollar gain as eight markets beat Wall Street - bne IntelliNews
 - [Pays émergents] Nasdaq 100 has worst week since 2020 on AI drama - Moneycontrol.com
-- [Pays émergents] Anthropic shares slide 10% after blockbuster stock market debut - India Today
-- [Crypto] Zcash, NEAR Lead Crypto Losses As Anthropic's Market Debut Fails To Spark Risk-On Rally - Yahoo Finance
-- [Petites valeurs en croissance] Booz Allen Hamilton Holding (BAH) Could Be 8% Undervalued As AI Growth Story Builds - Yahoo Finance
-- [Pays émergents] India's AI-free appe
+- [Pays émergents]
