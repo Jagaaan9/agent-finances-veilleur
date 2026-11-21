@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T20:20:35.169884+00:00",
+ "mis_a_jour": "2026-11-21T20:30:36.427791+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54996.64,
+   "prix": 55097.43,
    "devise": "EUR",
-   "jour_pct": 2.47,
-   "mois_pct": -26.49,
-   "volume": 396.42057745,
-   "volume_relatif": 1.9,
+   "jour_pct": 2.65,
+   "mois_pct": -26.36,
+   "volume": 398.56323438,
+   "volume_relatif": 1.91,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Dollar and euro notes were priced to help fund Boston Scientific’s (BSX) proposed Penumbra acquisition. - Stock Titan",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYUdvQmhmUDVFMmRxOFB6V25DNFFjWEdVVXZNVnJVdUxWZkZTelpET1ZhWnBCUHNYcG40b0xVVk1EbklaR1lVbzVnVnNiNFZHb21tUHl2R0VkX0FySDZ1N05Nd25UR2FaV1BaaC1rcWRKQ2lZTXduWkNnbWxWV3czSUFjeDBTLVZITW9VeENyNWVUMTRVS2lUbnFIcnlSN09jekw2SmN5aVNsR0hKUjRV?oc=5",
+   "date": "Fri, 20 Nov 2026 21:07:02 GMT",
+   "vu_le": "2026-11-21T20:30:36.427791+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "$1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years? - 24/7 Wall St.",
@@ -6545,13 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT3ctV2RvREtBZkxWNVUxQW81NEkwMGU5dFFSZjc2aUNReEJPR094c0tvUERVMWM1azZCTm43QzJLQi1YUkg1LUt4NTVQOTBrbEJYbnFKdFJta3ljOThETWh5aGVyY1VsaldyLXRTalQ1Qjk3WmF1Y0xRckJKclpraktoYmltTEJpdDNqZU14VzBXYkFhOWRSNm5iZzNacEV3WE9IUFhLR3dtSDQybEE?oc=5",
    "date": "Sat, 21 Nov 2026 07:10:15 GMT",
    "vu_le": "2026-11-21T07:35:34.968659+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Global Tech Selloff Snares Chinese Stocks Amid Doubts About the AI Boom - www.citynewsservice.cn",
-   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVndDRDZpcG1yMmxhdmNXUW4xUk81aEVfSG83cC1wVkcxaUx6UkxFeGl1bzBCM3ZZYURLczRocDZyTnRZVEE3cWlkX3R4c0Q2VU5GeTJCem9sa0tBS1pPSi15Snloa2lNV1JlaXBsNXVWWXJJRWRQbnY3Y3VWMmYxbDBqZTRxUG1OOXB0Z0ZaNHRsVjFUQTIxYTV0WFZybFNfSER2MmtYUFNIdVFnVmMtRVdnWlBCRC16QlBhQ3MxcVVRekN4Z1E5NU12LTNtdjZIeG92UGs0cTQ?oc=5",
-   "date": "Sat, 21 Nov 2026 05:48:38 GMT",
-   "vu_le": "2026-11-21T07:20:34.920649+00:00"
   }
  ],
  "erreurs": []
