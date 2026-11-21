@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T12:40:36.010456+00:00",
+ "mis_a_jour": "2026-11-21T12:50:35.391071+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53701.59,
+   "prix": 53711.27,
    "devise": "EUR",
-   "jour_pct": 0.05,
-   "mois_pct": -28.23,
-   "volume": 252.76248868,
-   "volume_relatif": 1.21,
+   "jour_pct": 0.07,
+   "mois_pct": -28.21,
+   "volume": 254.26636707,
+   "volume_relatif": 1.22,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - NPR",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3FPem5vX0lZRzBlVnN0UGR3UkFUSmZXek1yY3ZmOVlIX0lOVy1kR0dWcVZoenFHSGdRS1R6MHRtenpxX2ZOVnE3UkNmOWdteXpQZUhFTHFMSTZFcG16d0hPMm9SaVlMTDdLVVpHMDljMmg3S0ZyM1hmTXotZ2w3cGhMaGNjOWFILWV4UjQ2dGxreVRGUEVrQXdSWFFMWThHLUtwVEFrWHJVLVQyQmlWdFoyX2pRRElfRm1NTnNqTnlENmQtSXNvdjZFVQ?oc=5",
+   "date": "Sat, 21 Nov 2026 12:30:16 GMT",
+   "vu_le": "2026-11-21T12:50:35.391071+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic IPO: Amazon, Google And The Art Of The AI Cloud Deal - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzZQaWxDcTNpTWhzZEVnV2xHalRtNHNlTXdjNk4zTUxfaExVY0diTlFtSDRQeV9JYVZyYTV0cWxUX3dmSUt5bm1fRWFTMXhUZkFQZ2phNFlrd01Pa1ZCQWJKLVNDdGxWSHJVY1FpNy1mR3ZFYmhRY1FKYmRtanFrN1Y2eEtZSnRSbkhLUE1Ja3hib3lqVnhYMXZZOA?oc=5",
+   "date": "Sat, 21 Nov 2026 11:08:30 GMT",
+   "vu_le": "2026-11-21T12:50:35.391071+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Anthropic and Bitcoin Are Both Falling: Where Is the Money Going? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdE9IOG1zX3JxLUZLb3FoV2hPYWtMRmNtVlc0VWYtQWthYWctR25wVmdJaXAyMmZycUxVdHhZOHY5alRyQ3NsZkZnSzVXZHVodDN5clM1dG5UVXlCU1I4QWRGSEcwLVYtUWl2ZGM4V3VqZkRwbEhtLXZndHQ4UndwbVNuSFN6QnF3UVZYSlYwNC0yenI2NGQxbGJjTENUVmdBd0VmR25ER1JDRm1HUWQwTm50YnQ1dEIzVU9xZmN2OA?oc=5",
+   "date": "Sat, 21 Nov 2026 12:31:00 GMT",
+   "vu_le": "2026-11-21T12:50:35.391071+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "Congress files detail AMD requests to export AI chips to China, says Hunterbrook - Yahoo Finance",
@@ -6530,27 +6551,6 @@
    "titre": "The Climate Question Hanging Over Anthropic’s IPO - Time Magazine",
    "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tdTFxdEwyaUVZNGRUcExhcTBWdGZkMm5pcGFWa2xfWVdMRmxnX2JrNy1xRHRPaURjTlluc1hvbWpiWHNURWRoalNqdjNXYTlaU3FFXzdyWU83elVwdEVVXzVvZU1tYW4wX3RCMXExNlJTd3c?oc=5",
    "date": "Fri, 20 Nov 2026 19:15:12 GMT",
-   "vu_le": "2026-11-20T19:20:42.877150+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "DW News. . Protesters gathered outside the Nasdaq stock exchange and Anthropic's headquarters as the AI company made its Wall Street debut. Anthropic raised more than $81 billion in a record-breaking offering that valued the company at $1.5 trillion. #dwn - Facebook",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1ExVnoydEZDMHlBLS1HYURfaEJZNlJWX3pRd19weXhGTzNOd2JHakNuOU1aZFhsVklOZ09FaEVZREt3dlRBTFp5bkFSb0RzdElhZHpzN0Q5SEVyRG5hTlVxcTRFNkZBam94cW9jbjVJUjAzblNBYjN3WGNQSWE0Y20wZ0pmUzNkTERFSjM2Q1NEQlVXWDVnM2t3dkU?oc=5",
-   "date": "Fri, 20 Nov 2026 19:09:06 GMT",
-   "vu_le": "2026-11-20T19:20:42.877150+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Les difficultés rencontrées par Anthropic après son introduction en bourse constituent un retour à la réalité pour le secteur de l'IA - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQcFhienFCMi03aWt6UUJJMWVJZUNuQVZxeEd4eS1LcF9UY19qcTVGbzhzQ0pacWh3MWJSeS1NZVpEWE9NeHQ4NVJGWFpZY3ZYdm5qNXpPM3VoZ0VnWmpUZk5NMmRjMmxOWjU0RmhWSnh2WHVlc25xVWE2VkVxS0ZSTXFGUlVYbUJzQktNMjdZVmQxdkdaNzZ6WWhBczJ2Smh0NFFyOFJDTVVhRzlucjRwdmhqc0lmS1VZbWd5dEh1YXctdC0ycjQtQVhrTElfZVA3bE5tY3BUTXRTYXBUbEE2S1VMbVFnT04tZGhoWE1Wa0xnUEExVk1nY0l3dFpPRkk0bVRpR1IyTWpzR0gwOWN4VUxna0FxcVJ4V2toaVlUa2t2VEVFV19UbWVDU1RmRVd1T0RyUWd3?oc=5",
-   "date": "Fri, 20 Nov 2026 17:12:00 GMT",
-   "vu_le": "2026-11-20T19:20:42.877150+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "SIH Partners dépasse les 5% du capital de Renault - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRzVJdEtLMFVmUHN5M2tiS0hpVVcxbGVlN3Vpbkw3dnJnZzBGMjBVVjYxcHVzZUhUbmJmbW5aWEs0b0d5MTdaeHZvRnZJY3EzeGV1YklWVkFMSjMxZ0ZpUFN5OEc2YkNXWE9hWXVMX3dHNl9oNTFDRVphWENGX3FpdmR2NE9TeVU2SlM2RFVwMGFGYjZJeXdvZzhUelFSSGZtN3gzQWk0SlhnVEVwN2k1eXVUYnl0NXNnMFNMdU5RRGpwRFhnZUFiVlo0aFQxU1ctMXVsakJ1R3J3Q2xjb09jaEVzZnRRQU5CUF9yRjFPeDMwMDQxNElrV2VTRU04QQ?oc=5",
-   "date": "Fri, 20 Nov 2026 15:53:00 GMT",
    "vu_le": "2026-11-20T19:20:42.877150+00:00"
   }
  ],
