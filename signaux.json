@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T16:20:35.610885+00:00",
+ "mis_a_jour": "2026-11-21T16:30:37.721371+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54574,
+   "prix": 54793.31,
    "devise": "EUR",
-   "jour_pct": 1.68,
-   "mois_pct": -27.06,
-   "volume": 359.01485077,
-   "volume_relatif": 1.72,
+   "jour_pct": 2.09,
+   "mois_pct": -26.77,
+   "volume": 361.44562666,
+   "volume_relatif": 1.73,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3755,6 +3755,34 @@
  "actualites": [
   {
    "sujet": "Anthropic (FR)",
+   "titre": "IPO d’Anthropic : 74 milliards d’euros levés, les chiffres - Luxe.net",
+   "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fLVppQU5tN3hzeHB0cTVUbE9fTnBqY2VLQ0VIemUzakw3YWtNQWxDeUNDbXNDUDA3WGFlclNQa29OZG1PMXBKYXF2ekhwMXpfUVNqd0VPeTEwbmk2THNmUUMzMEk5VERkdnNEVjhR?oc=5",
+   "date": "Sat, 21 Nov 2026 14:28:17 GMT",
+   "vu_le": "2026-11-21T16:30:37.721371+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "BOUYGUES Cours Action EN, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FRnRQY2lqUkxRT3htOEdjOEJvZDUzVk11MnVaWG4xQVU1aHczaFBQcXIyMFZyNF81T0YxYWtLSzZDVVZ2UC00bmVLOV9tUXlp?oc=5",
+   "date": "Sat, 21 Nov 2026 07:11:22 GMT",
+   "vu_le": "2026-11-21T16:30:37.721371+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Technology at Work, Heritage for All: The \"Chinese Approach\" to Safeguarding the Leshan Giant Buddha - azcentral.com and The Arizona Republic",
+   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMWNaQzNkQnNjcG90OThQanRWOFRGTHowQ20zVWVpZko3NFJ6a0tEZlFDdzZwTUktNlNMbUI2RU9ETmx3RlpHSWNob3hMa19mcHZ2bEZzeWVsdExRa0pNZU5WVFJDaEcwems5Q3ExUnpYV3FmVTNoWExBNG1PVFIxcVItMHFBaWJjMXpjZUlxNTNINVpUczF4WDE3TDg0dHQwSVV0ejJhdTBaM0tRVUdCRnFlODlfakxUODU2N01nak1IRkJRRndNTXg0Q0lpd2pMai1VTmw3bWREVFlCTFZ5dl9QV3k?oc=5",
+   "date": "Sat, 21 Nov 2026 11:17:04 GMT",
+   "vu_le": "2026-11-21T16:30:37.721371+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Arista Networks And 2 More Defensive Stocks To Own - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSENvY1FZVm1hT082Q2JDVnRITkpQVml3YnRRTk9ZRVRqa0MtcHpYdjFDZ2JWVTlaVGVLa0N5SXgtN2s4YU5ZeFppNndFYUNMbDJySHVvZDB1LUJkMXZwZng1QVYtVDZlY25fNjRhTG9rZ0diamNZZUVQeXN5VG5iYV9ETWp3Tk5WbU1jQ2p5S0sxRHBpT2tpZDNLQUYzUQ?oc=5",
+   "date": "Sat, 21 Nov 2026 16:10:04 GMT",
+   "vu_le": "2026-11-21T16:30:37.721371+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
    "titre": "Les actions d’Anthropic chutent de 8,5% lors de leur deuxième séance, dans un mouvement de vente des titres liés à l’IA - Unite.AI",
    "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVdWRVY4WXpOc0drek1XUFMzTmpUc3NBR1RRVTNteFRsWE1YaUd6b3pDcU9pSGEwWHRDeVRqQklkZU1DNWF1ejM5emZEU0hxZFZuZUpubnhsaWtnUzJXVVhhakNXNlNMME1iOGJUdF9FdUtxTG9nN2pualFiN25iczUtcHgwb2pVbERWSlpuaw?oc=5",
    "date": "Sat, 21 Nov 2026 13:52:03 GMT",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUl9WZ1FVaW5BVVVMMXprcDNHZnZvbHo1Nl9ZU0p0UFFYOWd3Q2hJTWZtSFAwSXUtZ2swaTBhd0hmTF9DOFQ3RzhZTEw3NzhVNXpFZHBoaU00V2FTUWE3NjJGXzM1R3FUNEhXUUkwd25PRnM3X21vLXRrNGNXMEwyOENNUDNvdFRYSkhsMGgwVGJGWTQ1VVdFcnFaOWpGRGQ5RnNrQ1dFODJmZ3dZbGJsT19teTZDMHNEeWlqZA?oc=5",
    "date": "Fri, 20 Nov 2026 21:47:24 GMT",
    "vu_le": "2026-11-20T23:40:35.273792+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "How exactly did Trump get so rich on crypto? We explain - Oregon Public Broadcasting - OPB",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUVfWU96YklOVm9YbVRoNFZBdGlfMTFqdWNFTjF5bmpRVHZZektGa0xhamVOUU1XbkJLZlI0OUwwa3UxYTk4NXhiM3VwOENrcjRiVHpwd3ZubXFiVklydkVIR3Bhb3c5T0tSbGJ3Nk0wRUp2c09HR0w2WlRESXI4R1dsSExFWDkx?oc=5",
-   "date": "Fri, 20 Nov 2026 16:56:09 GMT",
-   "vu_le": "2026-11-20T23:40:35.273792+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "L’IA fait de nouveau dérailler les Bourses mondiales - Le Devoir",
-   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVThOeXNaOWtuS3VuQ3B1UFZTR0lFMjhzS1NNaEQtWHBlOVd2QmFQdmRfOW9aYXJzeXJnbXlXVEJzTmFNM295dl9GLTF5UW55NWxJSDBGUEZtT0k2QllVTF9NdHhDOG5pNFVWV2tXRHFzT3lycnJQanBTOF9Sb1RkZ3BUZXV3MjFkOEFJWjl3?oc=5",
-   "date": "Fri, 20 Nov 2026 22:27:33 GMT",
-   "vu_le": "2026-11-20T23:30:35.245657+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China Tightens Offshore IPO Rules for Red-Chip Firms, Threatening Hong Kong Listing Pipeline - Tekedia",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3BBX3pFUDhLU2d3SUFRQ21yYURQUk45SXNGa2xuZTMxSUtLNF9QbUNPMjJQSHJsSlFMUU1nZHF4RE5GUzg1LTBaTWFMcjZlLXAyUTFMN1pGWGdlbTBNUVFJbWhqVEFRN3Y5WktiMVMwVDdYRDUyMmNMTGgyWWhEMHJKMmd5aEFqaEc1enFDMVZ0VFQ3eEhvYkFCZWNLRlNYODVJdG9xYzM5MVJXOUFiTkRJay1RUW8?oc=5",
-   "date": "Fri, 20 Nov 2026 18:27:34 GMT",
-   "vu_le": "2026-11-20T23:30:35.245657+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Data Center AI Chips Could Change the Winners: Broadcom and Marvell - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY3NZVVZuWVdpZVRFVXBmcmo0OWU1cDFobFppOFp1OVQ3aEhwczNHcHRBZEtNRUtqT19YZWtSYTlUTmVMYkhSZDIxTUxMZkVveHNEYkEtcDF5TWpPMFczUE96R3NESXhUQy05T0N0M3JjOVM1NXlVV200NEpsN3l0ZFV3dTF1QTI0Rkdpb1BPOXJqWDIyaTZkVENHZzdfdzhTbWZ3eTd4aUQwV0pYYUVj?oc=5",
-   "date": "Fri, 20 Nov 2026 23:25:00 GMT",
-   "vu_le": "2026-11-20T23:30:35.245657+00:00"
   }
  ],
  "erreurs": []
