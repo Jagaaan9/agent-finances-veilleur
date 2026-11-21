@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T13:30:39.016028+00:00",
+ "mis_a_jour": "2026-11-21T13:40:35.377771+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54402.9,
+   "prix": 55212.67,
    "devise": "EUR",
-   "jour_pct": 1.36,
-   "mois_pct": -27.29,
-   "volume": 278.16426194,
-   "volume_relatif": 1.33,
+   "jour_pct": 2.87,
+   "mois_pct": -26.21,
+   "volume": 292.42439381,
+   "volume_relatif": 1.4,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "PWR Q1 Deep Dive: Strong Data Center and Utility Demand Drive Robust Growth and Guidance Lift - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPalctRkNPellOMGZPVVNGOVVLTFdpLUFtc3J5Mk1HS1NsUnFJeUY2azMtZDNnN2JEbTVYWGhrd3FyZUNwc0N0ZzA2SHZXZmJ2bE9KSF9DUGNpZjVnTDI0UDR0UmR0ZlUxYXI4RHU3TUVhM3FoTGM5OVU4TnZJRlpPeEhFOFlQMzVEQUdNYXRfTUhPMk9MdjYtOHl0WmRGbmZZSnhJaEh3aW83d2xjVm1lbnZyZUc5XzlGQnhzZUJKVnBVV2FXMEF1c29IVm9IQjhxM0ttV1hLYWQxdlZ5WU9pVExGWHhVS1U?oc=5",
+   "date": "Fri, 20 Nov 2026 14:39:45 GMT",
+   "vu_le": "2026-11-21T13:40:35.377771+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "What Is the Best Crypto to Buy With $500 During This Crash? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUJ4cG5zSGR2MlZvM1U0d2hacExORGdwMnBGdkozbTRoemxhdl9ac1dZckM2ejYyeHdYTWhrUkNrSXRIWVdka0xaUDNhWF9SbXhBS3VmTXpRb3oxM2ZMWDZVRE1iZnpRZXlRa1Byb2tDTlJSSnY5b1pfc3FUa2VRNllHdThQVDJBYlRXTFNMcVJwcDBjdDV3M2o3eVJoempBUEQwVXFHUW15ZjhSamprR0N1Y1pFRzg?oc=5",
+   "date": "Sat, 21 Nov 2026 12:53:00 GMT",
+   "vu_le": "2026-11-21T13:40:35.377771+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Crashes Pile Up as Once-Diehard Fans Chase New Bets - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWldzZ3FOMDVsVnZRTE5qZlduOGVUNG9BWUgyalhNcUtUOHUwLW1iOUVtNjBtNWVVUkZMMzZ2cnF2b0ZFQVdsQlZzcHRxV1RuQldoUWoxZmZiNXhZbGloaWRtckdPREQzbGM5OW5KaTlYM09KUXNSbVR0UnBoSnZFd0oyeEJTWFRrX0N6a0I1TFV5OVl5d25Ic0M0bGZpcWxTWWgyX0FLSDZsX3RIeWc?oc=5",
+   "date": "Sat, 21 Nov 2026 13:30:00 GMT",
+   "vu_le": "2026-11-21T13:40:35.377771+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "How Low Could XRP Go if Bitcoin Falls to $50,000? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYzExX0Z0RFh5STM5dEMwMGV5OW8tOEktZ1NRZWdndnotaTVPVE5SbmNSNEh4RFd6emNNWnhlOHlZZks4bFlCZXBaS25WTU5Nek9Kd0hTQ0pYUkd5NjdBLXB5LVVhN2ZYY2s0Y250NlhzSUJBX3d4SzAxc0QtNF8xTktQcjZMYWtoUlpHLU5nR2lKZkUwN3A0?oc=5",
+   "date": "Sat, 21 Nov 2026 12:46:55 GMT",
+   "vu_le": "2026-11-21T13:40:35.377771+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "Le Cac 40 enfonce plusieurs seuils, dont celui des 8.000 points en fin de semaine - Investir Les Echos",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGhUaE92cUtDUUpTc21vQUtCNHJlZFYzcDVxLTVCenhCR05SandqQ2V4bWxaOUMyR3g4bG13ZkNCMXpnUVZWOTVIS0F3aWZZZXhVZk5qVGZ6RlVPZlhacmRTUUVONi1BZzAwcVhVVlZkQUVVMy1GUjU5cHA4anpqUVAzM0ZzUmtXc3A4aGRoamowWmxxRGNnbHdIbHQ5NHVFbldGUA?oc=5",
    "date": "Fri, 20 Nov 2026 15:38:56 GMT",
    "vu_le": "2026-11-20T19:50:35.355254+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Chips are crashing like it's 2008 as the Nasdaq 100 nears a bear market - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmc2cHN6ZXN3Y1BKcGNfazRTNUNYTWp2enR1RVp4d2VEWnE4NE4yWFhwQkpYSDRMdzU5U3RTQTdtMzFOSGtVYmd4RnZNYWthSGdPUVY2MmRab3FUX0lLQWdZZ19tSmh0NktIWUxLMXVQRVl3dDByUExZbzVENzhiY25vRTl2cnNJcEtkR202Q0tIdlFWWURQTEFDaHVORU1FYkR6MXJQaFpZdTU3Q1hvcjRPdXU3NXI3ekZKclJycmVROU84Q0E?oc=5",
-   "date": "Fri, 20 Nov 2026 19:28:05 GMT",
-   "vu_le": "2026-11-20T19:50:35.355254+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Did Earnings Beat Just Shift Dollar Tree's (DLTR) Investment Narrative? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVhwRmpQcVRxWmYwVUZ3WXBGWEpjdWp4d01VLXpjUHVJUWhyd1FBYThQZmNBclZwS05PMjBCTkNmYkxsd1IzMS11R1RxVDRWc0l5blk3c3l5cnh1a1RuMHlGbk10REhGWE9POGY1UjJsZlEyMWtWVXdSNk5fNWc3MURZdmY2ZnJhYXRXMWVuNzE0NDN1ejVfUg?oc=5",
-   "date": "Fri, 20 Nov 2026 18:09:43 GMT",
-   "vu_le": "2026-11-20T19:50:35.355254+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Le S&P 500 et le Dow Jones s'orientent vers une correction, le recul d'Anthropic pesant sur les valeurs liées - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPQWtSMXlvbUZJeFdXcnRaanBSVlNyTmxqNEF2VnRjbDNuQzZqMS1UYlhrWHNfLTBReXd3M0VHdE1KYlIxOGtPNXdQd3ZqUTVpQVM5OE9DQ19MSnV2eEZWSU84dHhxREVWczRCdl9XWFEzNTJpY2tweFRHX0ppOHBMWTVkQm1GdUI0a2IxeHZMUy1pQWFHQXZhSDNsRTZ0MEVIREg1VDJGbHZ0NmxteUI4OGI4ODQ4Vzh3aDFEUDhzcEdfTkpELTR1R1JHZkRseUtEWFczQ1JxMEYxblNFcmFyZVU4UENEMTljTndWLU9wZ29PMHlaallaWXZUV2ZsMHByblJndjdpNG1WWmZlV0pCQkpIVl85X1lJYVhwM1VtVzNfWkXSAaMCQVVfeXFMT0FrUjF5b21GSXhXV3J0WmpwUlZTck5sajRBdlZ0Y2wzbkM2ajEtVGJYa1hzXy0wUXl3dzNFR3RNSmJSMThrTzV3UHd2alE1aUFTOThPQ0NfTEp1dnhGVklPOHR4cURFVnM0QnZfV1hRMzUyaWNrcHhUR19KaThwTFk1ZEJtRnVCNGtiMXh2TFMtaUFhR0F2YUgzbEU2dDBFSERINVQyRmx2dDZsbXlCODhiODg0OFc4d2gxRFA4c3BHX05KRC00dUdSR2ZEbHlLRFhXM0NScTBGMW5TRXJhcmVVOFBDRDE5Y053Vi1PcGdvTzB5WmpZWll2VFdmbDBwcm5SZ3Y3aTRtVlpmZVdKQkJKSFZfOV9ZSWFYcDNVbVczX1pF?oc=5",
-   "date": "Fri, 20 Nov 2026 17:43:18 GMT",
-   "vu_le": "2026-11-20T19:40:36.719047+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street Slides on Mounting AI Selloff, S&P 500, Dow Set to Confirm Corrections - GV Wire",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0pJWEJ3Wlh1UVZpNENBSGl0ZkNHYmlEUTRqMTNzcVNoeUhPclZlY3hiUXRnM09FYUtSaDJ1bFh0YWdHZ2RoQ01Obl9hUXRnX1ZaWUNPUUJ1ODR3R29IdTEtMG5jQU9RX3duQUtDNGNkLTEzVk1CVGEwcWw1elNsRlVLV2lFYlBhaWZJVjh2c0hRV25VU2ltUzRySlhyRGk1SXQxX25hTk1oOUpiWXRN?oc=5",
-   "date": "Fri, 20 Nov 2026 19:33:34 GMT",
-   "vu_le": "2026-11-20T19:40:36.719047+00:00"
   }
  ],
  "erreurs": []
