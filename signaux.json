@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T10:20:36.096128+00:00",
+ "mis_a_jour": "2026-11-21T10:30:35.259124+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52856.96,
+   "prix": 53033.83,
    "devise": "EUR",
-   "jour_pct": -1.52,
-   "mois_pct": -29.35,
-   "volume": 205.427643,
-   "volume_relatif": 0.99,
+   "jour_pct": -1.19,
+   "mois_pct": -29.12,
+   "volume": 218.3170542,
+   "volume_relatif": 1.05,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic porte sa levée en Bourse à 93,5 milliards de dollars - Brief IA",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEd5cEFsZXpVZDhmSldISVZITGRyTGFhMFBsaExJdERRNm9hdlE5X1VZZmpTbnRhRnRtaFJmenBDQWk2SEVucWpsYlZ6MndYOEZJUW9rZEtRNU5OcmktRHRDcG8yM3NrUGhvTHN2aUEtNmpIdG93ZlliTXRVbUItQWFjc1NCd3ZWbmYzM05ReU9oV1Jrbk04Nw?oc=5",
+   "date": "Sat, 21 Nov 2026 10:11:14 GMT",
+   "vu_le": "2026-11-21T10:30:35.259124+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Here’s My Top AI Stock to Buy With Nvidia in Uncertain Territory - AOL.com",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFUzlYOERoWTQyVXhaWTQ1ZkFxSFZsSWR0Wm9sdWpCUXVia3hPYW5EV3dUOWpwQ2NEZlFUZFFmcHVoZ1B2M25SLWdpWWJwVlJ2ZVlzaC14SFRlbDFWMWRHYnNDa2ZXTzNITV8weGVfbDN4b3BiZ1E?oc=5",
+   "date": "Sat, 21 Nov 2026 07:51:00 GMT",
+   "vu_le": "2026-11-21T10:30:35.259124+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "La tech s’effondre et entraîne les Bourses mondiales - L'Essentiel de l'Éco",
@@ -6537,20 +6551,6 @@
    "titre": "SanDisk Stock Has Pulled Back. Here’s Where Shares Could Be Headed Next - 24/7 Wall St.",
    "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaGpFWlpmeWxFQVlQTkNHS3NHTFRRd0hDMGRxR1p5Y0NoV0NKTHFYbXFrcnUtMVY4a1FjcmFJSWk0NmRzdG51UWIzWFUzbzMxVHl5OEtnMXJTRjVmTnJhM042Nkw5ODU1V29GcEo0a0RSVHFLWWxRS2NRUGhfMUlQRmxOY19oZXhZY1dVXzlvMFJmdC1kbGdKMTV1ZG9MM2NxRjZYVlBPd1hDclZaQ2ExRk5DMA?oc=5",
    "date": "Fri, 20 Nov 2026 17:39:00 GMT",
-   "vu_le": "2026-11-20T17:50:36.646106+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Post Q3 CY2026 deep dive: Volume stabilization and cost actions offset inflationary pressures - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUzVCMGIwTFB2cHNxeV9IMTVCZ2xqNTJpTmpjbnpaTlZfS1VUVWtpYnhIVlc1cDAtel9OMnA0X19WN1ExcFAwTG81ckJBcGphQ2pLdlFPRFdpR3FxcGR0akpYclRpUXBmMXptVDhnWUNKMW9BVFJwakZ0UG5oSlBwUGJHTnd3V1FlaXZMWmhrTWkxa01Pc0FreURocUFnRzRwekNPbjl6d212TkhkNnkxR2x6Y3M3WWJwVVVVQTRJc0VOa1N3RVl6YU9rU01rUlhfZi1VZGJuVm96RUpWVXdhclVjSXRGUkls?oc=5",
-   "date": "Fri, 20 Nov 2026 15:25:42 GMT",
-   "vu_le": "2026-11-20T17:50:36.646106+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Trane Technologies plc (TT) Delivered 11% Revenue Growth, but Its Stock Fell: Is the Market Missing an Opportunity? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZHZfWnMyaDJTTVJJSVJoZ3E0SjB6Sml1UzloelJMUVlybjlFTWJsTDNUVC1VZGJYRTBwTUQwVUtXTGF6M21jWXdYSDFib2g0TGljVV9iQzROeDZyMUhpTnFWZUVhRFRnTGZybjdEZGhfNVpFUUVjaUUyY1lzdHNVenhoQ2VxQnd4Z1k2dlNwV2hzNVdwaWQzQmFGVnJtZ1g0aGc?oc=5",
-   "date": "Fri, 20 Nov 2026 17:22:40 GMT",
    "vu_le": "2026-11-20T17:50:36.646106+00:00"
   }
  ],
