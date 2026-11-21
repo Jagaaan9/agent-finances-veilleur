@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T15:40:36.148887+00:00",
+ "mis_a_jour": "2026-11-21T15:50:39.429145+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54569.7,
+   "prix": 54762.16,
    "devise": "EUR",
-   "jour_pct": 1.67,
-   "mois_pct": -27.07,
-   "volume": 353.64144717,
-   "volume_relatif": 1.7,
+   "jour_pct": 2.03,
+   "mois_pct": -26.81,
+   "volume": 356.81440948,
+   "volume_relatif": 1.71,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,69 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "A 10% drop for the stock market is unnerving, but it's not that unusual - ABC News - Breaking News, Latest News and Videos",
+   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd045UnVGay1hWGVJME1yaEczSnBDd3pUdEpRVWRKbUpYeC1RWHIwY2Z1R0t4MVhoclZlQ1BOMmgwamtIazJCNEJab2MtemtzOEFCeFdoa3dlMmVJZzloVjE2cTRzaEJyR0FmaE1aREVNQk0zc3NvMzU0UlZ5UGltZ1lnV2RCTkdiUnBBendJbm7SAZYBQVVfeXFMTlFLemtKM2JKbW1fZEZBU2R0OWJGa3RMOFEyeE9tMDExM3JaQmR4bWR1NFNGZzBIR2hma1FtNUtOcklSYW1nUzhXcndGbWFodjlDWFczS0ZUVmoxcld0MkUwdlVKWllsTG94U0dwRFZ6dzE5UXhNMGZJbTlrTnRsclRScGM0bzBFUU0zVEJwdGwzeDV4cUZn?oc=5",
+   "date": "Sat, 21 Nov 2026 14:59:43 GMT",
+   "vu_le": "2026-11-21T15:50:39.429145+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street’s Fear Index Just Hit 9.7. History Says the S&P 500 Could Rally 10.5% in 3 Weeks - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGcwWU5zUDZCMUNPeUcxdGVVWW9IUnE4T3BIbl80OVJMUXVRTXFZcEphQVE1QmRlMTdwZENsSVJwY05mM0doQ1YzOVB0ZDgwRXdpS0M0ZHliX2kwbnhOTXRfQ2RGSGg4VzlraHdTVXh3ai0wLXdzc3VZdTh4SVY4UVFRczFSLUNRX3U3d1NfSjByRGdmTUNN?oc=5",
+   "date": "Sat, 21 Nov 2026 15:28:29 GMT",
+   "vu_le": "2026-11-21T15:50:39.429145+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "L'Europe finit en nette baisse, l'IA secoue le Nasdaq - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYm81TXdKTk9yeExDRGl5ODBWYjVxRHRnVDd6ZElLSGx6S01UY0RDOVMweU53UXRKOUdLZ3prZkhSMHRMRUZoLXIxaUFlNXFnMHFzb21TdEt0TTBfOTZHRWs2Qmdrc1pYM2hxTGg4OEtCUXQ3Z04xcXl6eTNyTWV1bzU1OGduQXpDbG80MHZyMmxwZVJiRDdmSWZxSmdTNVh0aDZyVXFkdEtGTG5iMDlPbndlQVc5d3lGTlUwQ3haYkNjRFhGTzM0MTBUQ3dtcTDSAc8BQVVfeXFMTWJvNU13Sk5PcnhMQ0RpeTgwVmI1cUR0Z1Q3emRJS0hsektNVGNEQzlTMHlOd1F0SjlHS2d6a2ZIUjB0TEVGaC1yMWlBZTVxZzBxc29tU3RLdE0wXzk2R0VrNkJna3NaWDNocUxoODhLQlF0N2dOMXF5enkzck1ldW81NThnbkF6Q2xvNDB2cjJscGVSYkQ3ZklmcUpnUzVYdGg2clVxZHRLRkxuYjA5T253ZUFXOXd5Rk5VMEN4WmJDY0RYRk8zNDEwVEN3bXEw?oc=5",
+   "date": "Fri, 20 Nov 2026 17:09:56 GMT",
+   "vu_le": "2026-11-21T15:50:39.429145+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Présidentielle: près d'un maire sur deux exclut de parrainer un candidat - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaDh3b1lodGpFdFJ1c0FmY3FibEczekxwVFJmNDFySE1TN2JsT3BPbWZQSE9TRUVfRnpNSEtzZWlvd3pXV256bWlRUFlRYWl4M2hjSkkzTzJybjQ1QkhvcjJNOTROLUY1aUNYTEpDbmVNRlZTZVo5djBNSU1iUW5iazk4ZjVJUjdmZGpqckZBM2R2dXM3WXl4dDJPTFpneUZ2RzVWbkk2ZU55MEIzUnM3NUpqak5FX1V4bWI4ZWVJMXY4eFBHajZLWXhJT3p4QjJvUHVGUHFKd0RHVFhrcTZKQzhjNWNTS2UtdzFqZGhuOFlWVjVvb0FySWx4RklfMS14?oc=5",
+   "date": "Fri, 20 Nov 2026 17:02:00 GMT",
+   "vu_le": "2026-11-21T15:50:39.429145+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Trump accuse la Réserve fédérale d’être très politisée et s’en prend aux taux d’intérêt élevés - Demócrata",
+   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY2E0T1Zmdjk1aGIwMlMyZTZhNktjX25aZkNEVWRkenhsM0ZrTkd2Tng5VHhJSHNkOFV2enN5clZNa3FGY1RHeVNMeHhHUGxFMVZmYlFzdy1sdk43cHJZdnNUNEE3ajc4bm9qTGJJTzFyQjJFNHNMeDd5T1M4VzMzVFQzQ3VWWnZyYXdkWTNidU41UXI3X2Y2WGp1aVNIMkNDSkxPU0pWM3BPUUUxWTNIYzlLcTBNWV9qU1Z6MlJveHJGZlZEbEFVcG96SzXSAdIBQVVfeXFMTzh5X2xuRk9JOUFmMmZJRlV1NmhjdnJJLU9jVXU2alFqMGJrSGljOHYzTVY2bmJyaVd3M09OQ3k0OVpBZjF3dVBIRDVpd1FLN1BNOG5veHRJYmtVMC1YWTNJYWRPcHFXVmV3aUlncTVUbjZiQmVfd0pWbHBjbUpmZEwtVTh2enpBY3dqWkZscF9jV3NwM2JtYkh5OEdyVXZ4ajM1eHBpdnZqc3poQldKWGdwbFhOTnVFOHFnWW1UU2cwQVJrMVllYkxJZURYRThTemVn?oc=5",
+   "date": "Fri, 20 Nov 2026 19:26:35 GMT",
+   "vu_le": "2026-11-21T15:50:39.429145+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Nagel (Bundesbank) défend que la BCE relève les taux jusqu’à un niveau restrictif pour l’économie - Demócrata",
+   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRVRPSGZaZjJGY1NQUFV4ZVUyYzVZUHNsWDhLcnFmbmZ0d3FvT293RE1xYm94cjJnZlZFeDA3dmU5TTFVY0tFY2lrZGRPbzExQ2ZlLXRSUmJQTHM1M3dkemRIekt5OUhZUFFkVGtOUDFoYXZUbUdvRi0yVi1nbTF6RkJ6TFRhY3NTTG4zRmVLaDhHazJ3ZzFDbEpHaF9tSjRPYUYybEJZRW5tR3lRbVdjNUEwRXJXR3RHQnVGc3VoMjBaSmtRNnFLZjJieHRQVUszZ0tR0gHTAUFVX3lxTFBFVE9IZlpmMkZjU1BQVXhlVTJjNVlQc2xYOEtycWZuZnR3cW9Pb3dETXFib3hyMmdmVkV4MDd2ZTlNMVVjS0VjaWtkZE9vMTFDZmUtdFJSYlBMczUzd2R6ZEh6S3k5SFlQUWRUa05QMWhhdlRtR29GLTJWLWdtMXpGQnpMVGFjc1NMbjNGZUtoOEdrMndnMUNsSkdoX21KNE9hRjJsQllFbm1HeVFtV2M1QTBFcldHdEdCdUZzdWgyMFpKa1E2cUtmMmJ4dFBVSzNnS1E?oc=5",
+   "date": "Fri, 20 Nov 2026 16:16:45 GMT",
+   "vu_le": "2026-11-21T15:50:39.429145+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Lisa Cook, de la Fed, appelle à de nouvelles hausses de taux face à une inflation persistante - Actualités et statistiques - IndexBox",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ1BZYk5XN1lQaHk2c3FhdmJ3M3ZRc0FHWXJ5a3BnY09hMHlVLTFjXzRneFhZcEk4dkZOSGtnRF9hNHNCZ2dxNXZGcTYtRE5aUUF5MjFCLWFzeVZzT0VwUmNQbk1GQ3JGNmJRQkVEZ0I1YlRPR0VLSHJJMUVyc19zQzhWWTVEZ3FOVlotZ1FKTkNBXzRGd3dqNFM4WHNoUmlJLW9XZTRCcw?oc=5",
+   "date": "Fri, 20 Nov 2026 17:30:43 GMT",
+   "vu_le": "2026-11-21T15:50:39.429145+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "3 Space Stocks With Revenue Growth Up To 16% - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTUVDRFM3S21hX293TWx1bk9QYUNmc0JPVTRTMnR1TmVsNXlqVE83Smd4RTNwQVZFMkQwR1hVVHVCOERUcWM3ZGEyUjUyaWM1Nl8wcDBsd2djZV9xUFN5dDdiNjh2ZXNGdnhzcWo3bjRZdGdyWUowcDg4LWdDN0xPTzZzRUhJM1U0YzdtSnZYVHhwMWVWbEk2aE13?oc=5",
+   "date": "Sat, 21 Nov 2026 14:09:29 GMT",
+   "vu_le": "2026-11-21T15:50:39.429145+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Price Today, November 21, 2026: BTC Rebounds Above $60,000 as Solana Leads Crypto Gains - Eurasia Business News",
+   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX1piSlJxUXozY05JbW5HTklaY1gtN1lYcm16UjZPX2xKTVNiVlg4Yl93Q2tyNXcwMjQ4UVAzVjh5UjdHR2hpSDR4SUc1RG04SzI1WVVSNFRlcTN6cVYwSy1ka1FfYnN2ZXFqWlIxdXdGaTRpV0VOWWdqdkNyTlQ3elJ3azcxRHpDYWlpcGxQVE9wTjVPM183X250dnN4OHRKbUJVT0pmQkozYWZCSExmNzRmcDEtSjBBR0dhaWZucFFSYjhpTm9ERy03bWFITDQ?oc=5",
+   "date": "Sat, 21 Nov 2026 15:37:51 GMT",
+   "vu_le": "2026-11-21T15:50:39.429145+00:00"
+  },
   {
    "sujet": "Petites valeurs en croissance",
    "titre": "5 Best US Stocks to Buy Under $25 - Yahoo Finance",
@@ -6489,69 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDVVZmZ2c21mYktfR2JxN1hqb2xLT1MwRjc4bi1hM0E3ejFOT0tBaGVfQ0ZKak1LUjNhcEZLTzlkT3pKeDFVbWpJd1A2NkNicVUtV3o0VFR0cko2anRPaXpzUkRxVnh2RDBGb3l0dVo2RG1uNnIwMEVfaWgxVXczeVA2X1BoNXlBellpQUxEZG5ZSkltYU1CeTV1ME02dw?oc=5",
    "date": "Fri, 20 Nov 2026 18:32:41 GMT",
    "vu_le": "2026-11-20T22:40:34.824160+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Buckle stock rises as sales grow but quarterly profit slips - finchannel",
-   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTm9HMmJEbzlXS2VIXzFlOGVYOTdEOUJCYW1NZndQUFBtX0cxZGJ4ZlZpVW9ZM1U5Zlc3M2EtMHZOelVFZWF4elNDdFhNcUtSUlVqdzdzcjVqdmhiZjJ1QzRZa0hHaXQ1clItNGE2amU4R2haZnNqcjZJWGd1eTBkQmJSZjZObFc0TXN3amtBT1NrZVF4dUhRN3dudnFCWjhkT2k5NmtBZVpQVXZUcE9kZExvY1RxNC1xcmQ1Uk5nMkdTTFIzdUhGNlRhcXVwMXY0ZWg5SUFzRTJQQmJlU0dScEM3TEw?oc=5",
-   "date": "Fri, 20 Nov 2026 16:31:51 GMT",
-   "vu_le": "2026-11-20T22:40:34.824160+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "ETH price on Nov 20, 2026 at 4pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGFmZGdqVjNxVXZOeEFHaS0xNzZ4cmNzQVNxTXJ5TW5pbzBFdE9kMEdfd3JnWE9KRGV6dHhKU29JVVJ0VVZHNjktbWYxVW9QTkVaWUdyZ0tBT0pKWTQ3VmNER1o0NnhFYmE3amRhakVSS1N4QlY0ZGdTMnI1aDg5aTU4NjNtejFHN3ZyV2trTXFQdnc3bFlFblNGQnJCQ3BtdW1kVXRjMlBBTGtMc3c?oc=5",
-   "date": "Fri, 20 Nov 2026 20:08:54 GMT",
-   "vu_le": "2026-11-20T22:40:34.824160+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Les banques de Wall Street s'apprêtent à connaître une année exceptionnelle, les introductions en bourse d'Ant - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNSjRuUXFYOGlhRXdONlRUWUpLQXJreXBDdFF3YkRPTl9hbm5pdTlIUGlpSEllanhLLVpEMU1WbEM4akZYZlRuQ1BvMF80YjhpQVFzd0ZxZGxOWm93dm8wSWVqUm1SYW1yT1V1ZVl1clY3Tm1nTzlYR2daY1FDaDF2MkVCWERRNEs1eU9BZkVMR0E1d19ldGJnWWxPVFQ4Ujk5akR5T2JhYTVRRXB2MHJDME44TW9WYkJSLVE4b0pnSUFfNUFYMXJtVXl0ZnJXWW1XNXNMSXZORVItMWhUSFM0aHJEc250RnY3QmJXNjVfTERvMGs0R2ROY2ltZE0tSjVsazZDQlQxSzlIc2gwSlIwQ3B1UnFtQjd2dS1SOFlsS0d2YmszRXUtOXVRZnpCbFRKR2FkZDRVclJkUUpvVDJFeVA5SGZYZjhTZEJmQ095RmR2cmxjRGtSdmgyYlpMOW1URVFTaHl0aC1ObDVqUm41QnljMmUtMnJRZmNJ0gH7AkFVX3lxTE1KNG5RcVg4aWFFd042VFRZSktBcmt5cEN0UXdiRE9OX2Fubml1OUhQaWlISWVqeEstWkQxTVZsQzhqRlhmVG5DUG8wXzRiOGlBUXN3RnFkbE5ab3d2bzBJZWpSbVJhbXJPVXVlWXVyVjdObWdPOVhHZ1pjUUNoMXYyRUJYRFE0SzV5T0FmRUxHQTV3X2V0YmdZbE9UVDhSOTlqRHlPYmFhNVFFcHYwckMwTjhNb1ZiQlItUThvSmdJQV81QVgxcm1VeXRmcldZbVc1c0xJdk5FUi0xaFRIUzRockRzbnRGdjdCYlc2NV9MRG8wazRHZE5jaW1kTS1KNWxrNkNCVDFLOUhzaDBKUjBDcHVScW1CN3Z1LVI4WWxLR3ZiazNFdS05dVFmekJsVEpHYWRkNFVyUmRRSm9UMkV5UDlIZlhmOFNkQmZDT3lGZHZybGNEa1J2aDJiWkw5bVRFUVNoeXRoLU5sNWpSbjVCeWMyZS0yclFmY0k?oc=5",
-   "date": "Fri, 20 Nov 2026 18:58:10 GMT",
-   "vu_le": "2026-11-20T22:30:36.452176+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Wall Street recule sous l'effet d'une vague croissante de ventes dans le secteur de l'IA ; le S&P 500 et le Do - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNMTJnZkNjU1drYkZObklfRmtFYm9JS2dZUGROOVRoZENiV09TdnczS3h2bXFKTnNrUzhoSXVNSWsyRkZHSzhpSjdLazAzaWJaU3IyMWRvd2FNTE1rUDBJdk9ONWRwNFJFRXhZcmFVRVEtWGhUcjBTMER5QXpOVG9STWNaVWpaUGl3clJORjF2RTJPQThNOWU2ZlFWdHg1Nk9uM01XYmtlb2RTeEdRNU81TDBWblMwWGlzOXM5TDZnUzlOZlRrUUFJN25DSDRpaHhHdkpOWWFPZnpfS2VoNnVZNC1kMVJSYjdMWm84cDYtWUdIelBiY21Ibmg1UzIwSjhMZmE0Wk1qRXhyaE9rTjNkRHVxczZSV0pMWUloY2EtcXFQSG9HR0o2RnpYWVRJOEY0Z1ZWeDhFMmxIM2Q3cDI0QUhDNTJ1TE5TMU41R3BtTW1oTnZrSDZjc9IB2AJBVV95cUxNMTJnZkNjU1drYkZObklfRmtFYm9JS2dZUGROOVRoZENiV09TdnczS3h2bXFKTnNrUzhoSXVNSWsyRkZHSzhpSjdLazAzaWJaU3IyMWRvd2FNTE1rUDBJdk9ONWRwNFJFRXhZcmFVRVEtWGhUcjBTMER5QXpOVG9STWNaVWpaUGl3clJORjF2RTJPQThNOWU2ZlFWdHg1Nk9uM01XYmtlb2RTeEdRNU81TDBWblMwWGlzOXM5TDZnUzlOZlRrUUFJN25DSDRpaHhHdkpOWWFPZnpfS2VoNnVZNC1kMVJSYjdMWm84cDYtWUdIelBiY21Ibmg1UzIwSjhMZmE0Wk1qRXhyaE9rTjNkRHVxczZSV0pMWUloY2EtcXFQSG9HR0o2RnpYWVRJOEY0Z1ZWeDhFMmxIM2Q3cDI0QUhDNTJ1TE5TMU41R3BtTW1oTnZrSDZjcw?oc=5",
-   "date": "Fri, 20 Nov 2026 19:29:42 GMT",
-   "vu_le": "2026-11-20T22:30:36.452176+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "US lawmakers push for tougher AI chip rules amid China export crackdown - Al Jazeera",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVXZHdlYtQnFTY3k3TmNsR0JUZUxubmk5X2tkaFVxUTAwZkVIQTdwVWJudFdkcGQyRHlPTjRXUGNpelJ6eWs4ZmdVR0VwYlJSUFpuakZoVjlHRUNRN2ZJZElGUEg3YjZobVJvcFlJUXFBZ3QtOWk5OFZ4Qzd4YjZRZzZ3cUQ4SlYzaHU3THI0eF95TGVLYmJXSmdrME81dVFnVEpaSWZscThXVm9CNDNIYmxmZmZlZTTSAbwBQVVfeXFMTnBNanFqR2o1aFlhRVZHZDhObk5HbGNTQ3docVRMeTd5ZEczcHYzSVM0bDdFS2VuRC0yTUtZaFdQWlQxb2xfMTh1YllfV2VKeWpWdDBYcF9BSVVyTkR1X1JtU3ExY3JTdzFJMkF4MmNnWEsxRW00ZEdmdzQtMm41d0hHcU9WdUZ3WVNFQTFHbGxkS2F3TW9sNXBFcnVOci1QRmdVMHE0NWVOS0JmWmxEM05SSEM2aWtXUnB6cjc?oc=5",
-   "date": "Fri, 20 Nov 2026 22:20:03 GMT",
-   "vu_le": "2026-11-20T22:30:36.452176+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "The U.S. Approved 879,000 Nvidia and AMD Chips for China in 6 Months - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeThzTnFGaGFMbjlxc3VoZG1BZEhqVDRrbWh2UmR0ajh3V09uRk5sQ3NnVWxfX1hHMWVkMVNfRmVoY29wNkNpNnFKVVFzcGVxNVlESmFuN2U4YmJGWFI3dlZvdTNrQmxpMzBRS3FsTENDZGR0cmE1Y0E5RDZqR2J6Yk1OeEF6em5GdGhXbVcwVU9XRXc?oc=5",
-   "date": "Fri, 20 Nov 2026 14:28:55 GMT",
-   "vu_le": "2026-11-20T22:30:36.452176+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Opinion: The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings - MarketWatch",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNckhYaUM0Y3lvVWxQdnJXLVBUVGFFRi1TYkdydXBscF85Nnp5MGJLNW16TzJFbE9WQk11Tm5nTkRwTlNyckxWUElUSkdNdzRMRl9pdDVJUXJjRl9IQkR2Y180QVp1OGU0TUZwZTAtWldZOFhjc0hKVTBwVjFHNmg5ZVlGLUhrYWItbzR0RVdBbURBUU9ucVRoYmJFQWxzNkVscnpVSWhySFJRRGhJU2tnLU83Zk0zRHgtTC1kNzNrc3VGZDhqVEFGRElwTQ?oc=5",
-   "date": "Fri, 20 Nov 2026 21:39:00 GMT",
-   "vu_le": "2026-11-20T22:20:42.667182+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Stock Came Within 5 Cents of Its $83 IPO Price on Day 2, Then Bounced 6% to Close at $88.30. Facebook Closed Its Day 2 10% Below Its IPO Price - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVzBQUEZsWkFYNE5BYXc5NFAwamJFSEY3WXZhdERqT2N4b1lvcG9JZDBFMXZUMlFUUVBxX3kwYTZtek0xT1UxLUYyYkIxUnBPVGFHMGZLb2dGVzRNcVpUYzlxejVhbVhPQ04zSW1MQlZfN3ZGdERZLVFYZFpBeWxsa29IbWtOZUNTNWdsSDN5UjlvTkVyLVZPbThn?oc=5",
-   "date": "Fri, 20 Nov 2026 21:17:10 GMT",
-   "vu_le": "2026-11-20T22:20:42.667182+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Alibaba's AI Cloud Growth Could Slow Sharply as U.S. Tightens Chip Curbs - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWVqd1pCQy1qaXlSZDJONUJ3aTBLbzhOVmJFRTNxTHlqWEU0WW1HME50NVB5VGZPSW1ITnB1ZERaVmhScUlOYlB0YUQzLXgxc2RlZDRMMDJQNFdjaG9ZVG40dGVkZG5xcm1qUVVrNHNaVVRVWXlKYk5YVTJMVzJHWUQ0TnpSRXN6TDFYaHlpY3NzbURvOTJjaHZB?oc=5",
-   "date": "Fri, 20 Nov 2026 21:42:05 GMT",
-   "vu_le": "2026-11-20T22:20:42.667182+00:00"
   }
  ],
  "erreurs": []
