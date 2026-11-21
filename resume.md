@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54707.21 EUR, jour 1.93 %, mois -26.88 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54722.9 EUR, jour 1.96 %, mois -26.86 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,15 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] After Blockbuster Anthropic IPO, Dario Amodei Heads To Puglia - Forbes
+- [Bourse de Paris et Europe] Budget européen : Paris et Berlin fustigent un nouveau projet revu à la baisse - Bourse Direct
+- [Bourse de Paris et Europe] Bourse : après l'effondrement, le pire est ailleurs - Le Revenu
+- [Bourse de Paris et Europe] Macron dénonce un "agenda agressif" de la Russie sur le "territoire européen", un "pari irresponsable" - Bourse Direct
+- [Bourse de Paris et Europe] Ubisoft -23 %, Worldline -15,5 %, Vallourec -14,6 %… : la semaine noire qui a coûté 5,2 % au CAC 40 - Le Tribunal du Net
+- [Banques centrales et taux] Laurence Boone, figure de proue de l'économie européenne, va intégrer le directoire de la BCE - France 24
+- [Banques centrales et taux] Cours de l'or aujourd'hui, 21 novembre : la chute se poursuit, atteignant un plus bas en 14 mois. - Vietnam.vn
+- [Défense, énergie, matières premières] 4 Defence Stocks to Watch as Ministry Seeks 20% Defence Capex Hike in FY28 - Equitymaster
+- [Crypto] Bitcoin Surges After Two-Year Low Performance - GV Wire
 - [Bourse de Paris et Europe] AMUNDI Cours Action AMUN, Cotation Bourse Euronext Paris - Boursorama
 - [Bourse de Paris et Europe] Le CAC 40 sous 8000 pts, -5% en 1 semaine : Céder à la panique ou profiter des soldes? - Investing.com France
 - [Banques centrales et taux] Prévisions Bitcoin et or : le BTC et le XAU poursuivent leur repli, pénalisés par les anticipations d’une Fed restrictive - www.tmgm.com
@@ -448,14 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Pays émergents] India's NSE breaks into the world's top five stock markets - Big News Network.com
 - [Défense, énergie, matières premières] CAE Inc. (CAE.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada
 - [Défense, énergie, matières premières] Red Cat Holdings, Inc. (RCAT) latest stock news and headlines - Yahoo Finance UK
-- [Défense, énergie, matières premières] This TSX stock is a top defensive growth pick for 2027 as AI trade unravels - Financial Post
-- [Crypto] Crypto Outlook: Is a More Restrictive Fed Reducing Market Demand Appetite? - FOREX.com
-- [Banques centrales et taux] L’euro aborde une semaine dominée par l’inflation américaine avec une hausse des taux déjà intégrée dans les cours - www.tmgm.com
-- [Chine et Asie] Asian Stocks Look Like Bargains. Where to Invest Now. - Barron's
-- [Rachats et fusions] Why Apollo's £5.7 Billion easyJet Takeover Caps Its Funds At 49.9% Of The New Parent Company - Simple Flying
-- [Rachats et fusions] Unusual Volume Alert: Kroger (NYSE:KR) Shares Rise in Active Trading - kalkine.ca
-- [Rachats et fusions] BLNE: SEC Form DEFA14A filed by Beeline Holdings Inc. - Quantisnow
-- [Pays émergents] Equities Market Shrinks As Investors Dump Access, Honeywell, Others - MarketForces Africa
-- [Pays émergents] Indonesia's rupiah slips back after rate hike as political risk lingers - Yahoo Finance
-- [Défense, énergie, matières premières] Arxis, Inc. (ARXS) Stock Price, News, Quote & History - Yahoo! Finance Canada
-- [Crypto] XRP price at Nov 21, 
+- [Défense, énergie, matières premières] This TSX stock is a top defensive growth pick for 

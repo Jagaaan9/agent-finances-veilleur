@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T17:40:36.513392+00:00",
+ "mis_a_jour": "2026-11-21T17:50:35.833266+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54707.21,
+   "prix": 54722.9,
    "devise": "EUR",
-   "jour_pct": 1.93,
-   "mois_pct": -26.88,
-   "volume": 367.68958427,
-   "volume_relatif": 1.76,
+   "jour_pct": 1.96,
+   "mois_pct": -26.86,
+   "volume": 368.25601148,
+   "volume_relatif": 1.77,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,69 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "After Blockbuster Anthropic IPO, Dario Amodei Heads To Puglia - Forbes",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDhCN093ZTBxUmJKdExUcWo3TldsOGN6T0tKa0s2UmVNN2pUNTNrTzEtSkhHUW1aRGwxMjYyUGRDYVdRcmV3VVlWV3Z5dnZaWkhqNFZIWVlDa3kwZW1LOF9nVElPQW9wY3pnVDNnMlJ3Mks2dEQ3ang1dzZlUDNLSVBOdzJsREtiSnJQTGVHdkd0MExRMktscnFpN3lkd0pLZFg2RlhuaF9zZG56SUtwMGRYZVVoTmhs?oc=5",
+   "date": "Sat, 21 Nov 2026 17:41:21 GMT",
+   "vu_le": "2026-11-21T17:50:35.833266+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Budget européen : Paris et Berlin fustigent un nouveau projet revu à la baisse - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPVHd0eDJEWlJSZUExUmg4dnVMMjN2eUZYVFc3VDVudmNYWXhOeDM4VmFNZ2FJZ05ucmc3SVBSYmdNRVFJekdhTm5PdE1GUGw1ZEFZdnJrSEF3NmVibXduMzh1eWRaSG1oVm1heTB4RGJ6TnlIS19vVklXWkkwRDFpa0tHWHE1ZWgwRnhRdEpVVzVIMzF5X09IZ2hUR2ZhdjdTeUJka2FzVXpxbzkyeExUT1VObDZTb1JXREtXajZRT2lfelBsRWIwaG1XU3QtUnIwTTBJSTVQSHdGblB4bHlvVU9aOS1rVjhxem15WVVScW1ibWMxakNfYjdiTWx0MFA4NDZ2X0lVY3RsRTJqYUhadEQyNlQyeEk3?oc=5",
+   "date": "Sat, 21 Nov 2026 13:48:00 GMT",
+   "vu_le": "2026-11-21T17:50:35.833266+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Bourse : après l'effondrement, le pire est ailleurs - Le Revenu",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZVZrR09oa2RqMW1LbG95b195RndndFB0cURQM0NTaU5wM1hoTktyeXpldTVtOWktUjNLb2kxM3FWRnFWbXVqdngzWENDWHhxY1IwbjN2akVFbHNaU09qa05kLW5ZZVBvQWZ6eURjUk9Xd2NCYmhIcXQ4UlRiQkt3TTBYV21YWmdSbmhNRGxGWmF4S1g0N2NOWDR3?oc=5",
+   "date": "Sat, 21 Nov 2026 05:39:00 GMT",
+   "vu_le": "2026-11-21T17:50:35.833266+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Macron dénonce un \"agenda agressif\" de la Russie sur le \"territoire européen\", un \"pari irresponsable\" - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQT3dVQmVvN2JvaGZsbTJJOTZfXy1GSzA1enk1WEZOdFdyRHZwVVV0ZkVQM3FvSkxxYWZlUmhrMFBsMmV6VnZ0UWZBaTVkRDhEbHRHc1VyaU1PdTE5ODNONFFQRWVzUzlmVmlwbWxheWVvSjZnaHZ3WFMtd0pCMjZpM1ZCYkFqbXZrR19HbHZCdFhVbjBKNE1CMm92TGZMbDF5bVZGLU1rRWZCcTY4aUlxajNzemxCcWNCOWk4YllUMGp0UEpyZHZFTkswRnBTeER2OHoyTHdUeGpJTzdUVTkzNC01VUxyczl0dmZLRExxWmNyUDVORHAwbmNjbzE4bEw3TE9PMU10WXlLbjNqV3RPT1JvWXFWOXNnNXJiQW9JZDNzOFpUdXpGNGNn?oc=5",
+   "date": "Fri, 20 Nov 2026 20:30:00 GMT",
+   "vu_le": "2026-11-21T17:50:35.833266+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Ubisoft -23 %, Worldline -15,5 %, Vallourec -14,6 %… : la semaine noire qui a coûté 5,2 % au CAC 40 - Le Tribunal du Net",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWRvOVhvY1cwTGFqUDVyejExT09rRzNHazBfRE1TbWIxUzBaTnBGZTV5TzJPelRIQVJOZWhXNDkwNTQ2MHZ6TFRoNEJmdno0clZNYUlNSkpZZ3Bsc3RYSG9odVk1NFhMLU9SQ2tTdm1lZzZ2VWs0OGstU1o3T0dEQXotSkx4ZElpYWYwX21UUlhxdHJCZXM4QzlXd2FSQ1E?oc=5",
+   "date": "Sat, 21 Nov 2026 09:40:00 GMT",
+   "vu_le": "2026-11-21T17:50:35.833266+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Laurence Boone, figure de proue de l'économie européenne, va intégrer le directoire de la BCE - France 24",
+   "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYlF1M190LUJQN1hkVnkzY0VpVVUwNVhCbTFKbzl1Sy1uYXdId0otZ1lzMm1Xb01FU0RXTTF1cFRSTEtnRzRoN1p1Q1UtUnV4SWVXUVpEWFcyY2E1RE5UV2NMQWZ5TGJSYlNkWmFZaGlNSmxiQktZREhoQlJtWG1ScVczN1NYWWlSWkhHZHQ2eDcxOFlHdFlMRjV2akdySW9ZMGd4Z0NsUUNqS2FDZUJhcXpGOUxYU0dSaXhiOXcxX1d0OGFmUTB1dUU4bE9XVDR5OTNCbWs5T0xZanotUGRib2JTUjg2V1BfNjVtNFBTOV8?oc=5",
+   "date": "Fri, 20 Nov 2026 18:10:23 GMT",
+   "vu_le": "2026-11-21T17:50:35.833266+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Cours de l'or aujourd'hui, 21 novembre : la chute se poursuit, atteignant un plus bas en 14 mois. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnlPVVFsUjI3NTZWbVBzbzlFZUhlU085MjhZazJEeG1qeHdBM1ZuUXh2T01YTEZYUVVXT2l5Y1gyZnozcTJxTUZya0FZZWxFOS01QnZ6V2dXcGdhd2xiTE42STJLM29TNnNTRGVFdWtWMlpSckV5bTgxa3FYT1l1TEc2QzJ6bUxNdmpZ?oc=5",
+   "date": "Fri, 20 Nov 2026 23:29:51 GMT",
+   "vu_le": "2026-11-21T17:50:35.833266+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "4 Defence Stocks to Watch as Ministry Seeks 20% Defence Capex Hike in FY28 - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeU1QYXB6NkdtOXV0dXZOM081X0tXOTZ4RmtYSVNQUkVhYjd3SHExdklkaWRSYlBCWHc2blBtbjMxZDZISlFETkMydExwU2pxdTRPQ3pXLV80WVYzdENRTmotX0k3cndlRkJwTVduNzBuc2xjQXluRk9VLU1HVmtiRWFXckVXR0RqMTdPMzhUcWN5ZnZCcW9NZ0RxT2Z2R0lCVjBZZDdiMV9mbVFHWk5rRFQtaDFUMVprbXVFbFRST19ySk8wbV9fVWszTWNXSGZHN19abDQtdDFSRGM?oc=5",
+   "date": "Sat, 21 Nov 2026 11:07:45 GMT",
+   "vu_le": "2026-11-21T17:50:35.833266+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Surges After Two-Year Low Performance - GV Wire",
+   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95Q2F3VEtXeHRoTmFOMkVBYUF1eC1rRllmczgtbU5yV1dmZDY5OHN3eE9XRTFuZXFINVZpRDJvWXpOdHhkaHRYd0FnbWtQTFVKRWQ0WG5OcTdyQUtWQUdHSDRhTnZnaVFvcF8xVmxZT0RieGlWc1RlY1NNSjFmejA?oc=5",
+   "date": "Sat, 21 Nov 2026 17:49:58 GMT",
+   "vu_le": "2026-11-21T17:50:35.833266+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "AMUNDI Cours Action AMUN, Cotation Bourse Euronext Paris - Boursorama",
@@ -6489,69 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWl3S0FYbVg2T2x1cU9YMHNpZ0VfX3R2MmQ4SDU0b3Y5WlBqOWtqMVdiSUhjbkV3cjFIVVFtM0tOc0UydU53MThWLWdDdmdxUlplc3hKc19aekNWUUotbkdGX0ZYNFZZUVBXVFdLOFNGU09tckhOYXBFckc2WC1sUVZUcHRvX3hSblJ2SlBhNnl1TVphOGh1VXlGVWJvTW02RFRyTXpLR0JIcEhOOEdBWUFsQWt4QmNH?oc=5",
    "date": "Sat, 21 Nov 2026 02:38:07 GMT",
    "vu_le": "2026-11-21T02:50:36.303960+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Veteran trader who nailed 2018 Bitcoin crash issues this brutal warning - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYWxYbVkxU2lGQVBOU3dLcnQ5eE9HeEcyTi1zUGlDSkRhSGxCMW9GUWM2WGZ4QUNCVVJBNkxibXRKZXZHU1k1UThILXBnQml6a3hnbGN4RzY1NlRnaVZzbnBwd2hQMS1ORmV1Y2w4NW1yeGdrNnI1UzVuZExDcjhhMzVWQmNmalo4cXBjeXhtWnF4WW9FdTZ4bVl0NkVoMm5u?oc=5",
-   "date": "Sat, 21 Nov 2026 02:30:00 GMT",
-   "vu_le": "2026-11-21T02:50:36.303960+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock market sinks amid rapid tech sell-off - WORLD News Group",
-   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaVdnSS1neExZOEMzbkFOSU9YeGlHZzBFYWdyYWdBcllIX2dHemYycWRWOGZhbjZjTGRWbDBLX1lOUnVzTWZpVHhsM1lPcHdYRzNKMEJTcXIxbG45U25xOWlndEhJaU40VjdfdW9weHZ5bVl0NFpCMTdIb2dlY2F6Mw?oc=5",
-   "date": "Sat, 21 Nov 2026 02:00:00 GMT",
-   "vu_le": "2026-11-21T02:40:34.918168+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China, HK stocks sink as Wall St selloff dents sentiment - Business Recorder",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS25UTGpoRzJ4N1E0OXltRkJ4R19CaXNmbTZfMWw3bWFvb3p0Y29ZdGpCZzV5WHFVdkN4WXRrblduaHdkQV8tdVlFbmhTTV9sRGJLLXhqSzJGSXJvZmR3QWlVTjdSOWMzOHlydWtYZnRiRURBU1dUTElhdkN3anRfNFNqcGVOUk82Y3g2VWZ0aFZEd1VWelcwa1VLUdIBVkFVX3lxTE9tOXE1TGFqYzdYTlp1ZDdSVGNqMGlSaTBZVmN3R3B1a1RRa2FaRGhZa3Nyb1NVZzNMZ0VRVEVISmF0elRQcjA2QWZZc2Q1cEZ0QTh0cV9R?oc=5",
-   "date": "Fri, 20 Nov 2026 23:53:21 GMT",
-   "vu_le": "2026-11-21T02:40:34.918168+00:00"
-  },
-  {
-   "sujet": "Introductions en bourse",
-   "titre": "Abu Dhabi's MGX emerges as major winner in Anthropic IPO - www.thenationalnews.com",
-   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0pSWlBvc21zLTd5T2ZsZzZ6Y3YxbEdRMFEwNTV1c1NRYVZEbE52QXoyNzdNZU96TEZFQWhGX2ZUZzJoMlNLUllYNEQ0QkVkU3ZUWDZIZHJiOUEyX2thQWZ2RjVXRUdJRGhwZVZzaDJ6SkhUUjRNRC12aE9mekt0YVFidzhYTVVSU0JVTA?oc=5",
-   "date": "Fri, 20 Nov 2026 21:26:49 GMT",
-   "vu_le": "2026-11-21T02:40:34.918168+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Dominion-NextEra leaders face first public questions on merger - VPM",
-   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWVGMGVCVnZhNFJ5LThtUFpac0hnZ1BDNFRIcm9SdkwxdTlqcU5mUG1xdG82UFJtd2JZbXdmU0NJX215bVhxdlFaVDA2ZkVPc1lieFJqcnFkOWlDS1g2QTJQOXNvN0I1M0JuYjdTaTkzZzc1ek81Q05CWWZCZng3RGxSQTlSeFM4QlVvNE9qQ095XzhreklPeUFsSHd6UHZaNExoWFlfTzVwUQ?oc=5",
-   "date": "Fri, 20 Nov 2026 22:29:38 GMT",
-   "vu_le": "2026-11-21T02:40:34.918168+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Ares Capital’s MidCap Deal Pays a Premium to Market, a Discount to Book - ABF Journal",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTFvQ0l1cF8wM3VLT2pmR2xhS2tlUTZ2STVueGJ3RFk2M3ZYWUo2dHVOWFI3RGVuU2t5cXhPZzhKR2pPU1ZiYk1fZW9wWW9ubVRjcmZKem9qMVdwSm5IRnlXOS1SSjM4Tkw2RUFTM3J1QUszalJ2dHFhQUdpN3VvV2tFb3lwV1RpLV9pZU9SMHhMN0tVdmhvTkdDbDZOUQ?oc=5",
-   "date": "Fri, 20 Nov 2026 23:43:14 GMT",
-   "vu_le": "2026-11-21T02:40:34.918168+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "AMPERA, Berto Will Combine in Multimillion-Dollar Deal - POWER Magazine",
-   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVjJ3Y0FvQjUzT0F6RGVVbUVaTi1FSTJMUEdVb1l5UDZkdUFkcTBjcWN0dDUzZk5NeGNoS0liUUtScU4tS3BNZ1VJS2hGY0lSOU9VcnNKM3hhWUxWZGpQWnM0Z2JENFZTR05oSWx1Q1diY3B1eWpBRWoyclBBcFc1Z3Zpd1ZqZw?oc=5",
-   "date": "Fri, 20 Nov 2026 18:28:50 GMT",
-   "vu_le": "2026-11-21T02:40:34.918168+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "TCBX: SEC Form S-4 filed by Third Coast Bancshares Inc. - Quantisnow",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVQ0eHFPVTNJWnM4UTNsZFMwWXV3MFJGM3NwRUlDenpnUWxFT3FnM3o3OXNlcUZhWVptbmRVMUJoejh1NC15QjFUaFdJT0VvU1RBZHZkV2p6RU1RbVJ3UnZEZjhmTmRRclEyWHBBeGg4RUdiUWwyQkRCb242RVIwZGpYRlY4QTBKLUVVU2Y3WDJMUVJpYmc?oc=5",
-   "date": "Fri, 20 Nov 2026 22:20:58 GMT",
-   "vu_le": "2026-11-21T02:40:34.918168+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "3 US Stocks Helping Companies Handle Compliance Pressure - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1h1OXdLUU85bmpDcldrU1d3dGh3dnhDdDNJVVB3cDE4c0VLTkd5S21QeDB2bWFpcl9yNGViZEV4TjRlQThUa0FDckE2Vm4xQko3NzdNQWd4cXlBTGllU0hjbjB1U0U0LW9mckdYeDR4NTBSdFQwdG16WldkUG9ESnV1UVdKVzNoSmVMWEM5b3FqLTFpV3hLdHBhMnJuNl9kRkhpRzg0UnZxaEJaTEE3YlBfaFgxNHhOTVlieFdmRy1LRWtETUswOWVOY2jSAdIBQVVfeXFMUHJUTTdyeDZTV2pKcWlmZjJDVVNFaWxGbTMwWW82TTZKTWVvOVlSQkQ3T1RYMDNVajZYV21Ua0RMREFiVGxLTlB5Mk12dFdZdkVqSk1xLS02Ym1DbGpock5ac190WDBUZmZra0xSTnFFeklFemtycmtiZWwwYzFBMDNXU29zMGpWdFRaU2EzUkN6RGVCTDloTnRTd2ZnXzlwaUo1bmhGSU91c2JOSG83UGlLb25jcDByV3laM1BJaHRLRzloSFhSSHRVVm5qUlZNVGNn?oc=5",
-   "date": "Sat, 21 Nov 2026 02:11:38 GMT",
-   "vu_le": "2026-11-21T02:40:34.918168+00:00"
   }
  ],
  "erreurs": []
