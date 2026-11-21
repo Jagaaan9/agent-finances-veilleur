@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T07:00:35.385048+00:00",
+ "mis_a_jour": "2026-11-21T07:10:36.449188+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52963.51,
+   "prix": 53346.24,
    "devise": "EUR",
-   "jour_pct": -1.32,
-   "mois_pct": -29.21,
-   "volume": 140.40946026,
-   "volume_relatif": 0.67,
+   "jour_pct": -0.61,
+   "mois_pct": -28.7,
+   "volume": 145.14870055,
+   "volume_relatif": 0.7,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -978,7 +978,7 @@
     "volume": 1092390,
     "volume_relatif": 4.58,
     "capitalisation": 470039179,
-    "per": 6.7,
+    "per": 100.8,
     "bourse": "EURONEXT",
     "secteur": "Consumer Services"
    },
@@ -2910,7 +2910,7 @@
     "volume": 104000,
     "volume_relatif": 4.91,
     "capitalisation": 628882090,
-    "per": 16.5,
+    "per": 20.9,
     "bourse": "BSE",
     "secteur": "Process Industries"
    },
@@ -3753,6 +3753,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic IPO fails to prevent a tech stock wipeout - Morning Brew",
+   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUzk4NzhEUGpTWGM3YjNtaEJ4ZUF3a2Mwa2tkbk1Mb1BwX3dJYmIwUGYydnNxa3hfZzdFVW5NUmFUMmk0YlA2a1JwWF9DOVpCTG9lbDIwZVg3QndnOGNMVF9UWkxfVGVBZ2JEZXNwWFNiZWc5NkZaY1pwSlJNQ1BoVDFjWi02VHM4OG50VEtsdnk?oc=5",
+   "date": "Sat, 21 Nov 2026 07:01:00 GMT",
+   "vu_le": "2026-11-21T07:10:36.449188+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "HDFC Bank (HDB) Finds Its Spark Amid Wall Street Selloff - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTR4SFhtV0lFcWFLZmpWRGhuVUtpTTEySUxGMzQzWlVFd3dUdWFtWUIyYi01WUVuYW1rRVMwQ3FtV29fSDY4WnFnbE5FbERscmZhX2FfUUhSSklrUVRiUUdtZEVWU2tPa0lFNkJUNklJclFBLXhBWUVCVkhtcGgyalZKazhjTFZNLUNETElvZjc0cEs5?oc=5",
+   "date": "Sat, 21 Nov 2026 07:01:00 GMT",
+   "vu_le": "2026-11-21T07:10:36.449188+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "HKSTP Debuts at MEDICA 2026, Forging Hong Kong-Europe Pathways for Life and Health Tech - USA Today",
+   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLVVtTlZQdFY0NWF3dUtUcWc1RUxucmgtR1dxOFltVW52Qmt5dTFudXozbjZSMnMxZWRSSjFRREYtazQ1elBqZ2IwZDlrWTQydkZOb2k5VnEweUJiN0ZUVmhaN3l3bHIyMmVINkY0MHB2bXltZHYwTkczZzF5SmRGOGlUc3JPQnF6aENFSEhROXFQLTh3dzQxVmNPQmo5T2VrRXBVbjNKYk54WlUtbHJZS25FMFh1U05UNFhjak1tbFVFc3dDNy1SUHZWM0x0bHVybGduOQ?oc=5",
+   "date": "Fri, 20 Nov 2026 11:54:03 GMT",
+   "vu_le": "2026-11-21T07:10:36.449188+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China, HK stocks sink as Wall St selloff dents sentiment - Business Recorder",
+   "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tOXE1TGFqYzdYTlp1ZDdSVGNqMGlSaTBZVmN3R3B1a1RRa2FaRGhZa3Nyb1NVZzNMZ0VRVEVISmF0elRQcjA2QWZZc2Q1cEZ0QTh0cV9R0gFWQVVfeXFMT205cTVMYWpjN1hOWnVkN1JUY2owaVJpMFlWY3dHcHVrVFFrYVpEaFlrc3JvU1VnM0xnRVFURUhKYXR6VFByMDZBZllzZDVwRnRBOHRxX1E?oc=5",
+   "date": "Fri, 20 Nov 2026 23:53:21 GMT",
+   "vu_le": "2026-11-21T07:10:36.449188+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Indian Stocks Surge Against Global Market Tide as Nifty 50 Nears Record High on Foreign Inflows of Over 1 Trillion Rupees - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00M19YNjF3SFJRckF0Qkkxek15blJ2cHktYmh3S3NsNWw4VlFWblgtSnp0eS1qRms4eHJUdzl4aTlVQmlFZ3JLT3A1MmptZTBOWlVmbzNBQjNXMU1RSGFnOUh2RTFKcE5pOWR2bmlUTDlWSVpEVGc?oc=5",
+   "date": "Sat, 21 Nov 2026 06:55:00 GMT",
+   "vu_le": "2026-11-21T07:10:36.449188+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Arxis, Inc. (ARXS) stock price, news, quote and history - Yahoo Finance Australia",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96RnNHZFgyZm1LTmNOY29WVm1HLTQwWFdSZkNfN0tKem45Sklvd2lDbm5VOXhieFQ1RHZqSmNHZ1pYSlEydkdJYy1GemRmYVVobmc?oc=5",
+   "date": "Fri, 20 Nov 2026 20:33:11 GMT",
+   "vu_le": "2026-11-21T07:10:36.449188+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 21, 2026 at 3am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObUNLbnJKeTZ4bF9fd1UxTDJBa3J4bFdPQXUtSUFKS3BwOThmeHBOS1JtZzNFYURabkQtcVFlb3B4ZV9BZ2g5djV2NjVJakxxblhDXzJYYV9lc2wyQ1dkNjJyNXVDLU1vZ3FaSGpETGdLUWE5U0tFM3J3M0VYZHRadEl1bXdzcFRCYTRLc2ZJTUFKRUh3S0VLbGttY2c2dXhVUFlkZ2gyai1JcXFaakE?oc=5",
+   "date": "Sat, 21 Nov 2026 07:06:18 GMT",
+   "vu_le": "2026-11-21T07:10:36.449188+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Why Is Bitcoin Dropping? Strategy Faces $17B Loss - Bitcoin Foundation",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV3Z6UERreTZuSE9oTGg2OGR4UVVtLTR1TFlVWThPdDRURkZUMHJaYjNqbDBHUkoxdW44NGlyVzFmdmtWMnhLT0FUR3IwZnViNkRnTFREQUVRanZMM0tzRF9TUWxsLTJVMi1KbHJ3azN1aUczOE1LYWR2QlRBNlY2aWI4T0NBZ09kaTBYYlB5OVRCODItcVpDQmppZWVYRy02b3c?oc=5",
+   "date": "Sat, 21 Nov 2026 07:07:33 GMT",
+   "vu_le": "2026-11-21T07:10:36.449188+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Morgan Stanley Ends Anthropic Stock Support After Just One Day - BeInCrypto",
@@ -6496,62 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1OTE4V1NuUXJwcE5pR09WMkJnWnhFR2htR0dncmpRdVQ0a2RRTkxTVmdaT2pHamFPelZiWF94ZjBZVHhXYnJDMlZoelpOYXFEbTVURkd3M2Z5VHlScFZoS2tuRHJmR3ptRFJXOGVZLUlzcDJmc1pJ?oc=5",
    "date": "Fri, 20 Nov 2026 15:44:07 GMT",
    "vu_le": "2026-11-20T16:20:36.071512+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "A proposed merger is off, and Above Food is pursuing repayment of money it advanced. - Stock Titan",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0tCVlU1R1lvMGIxLXN5UjdnQkUzd1ZXclM4dUg4eEN6Zzc5OEF6bHAzX3QyOWYzNWJhM2Q5Z1ZmVmMwazRRR0pKU2hGbU5sb3Rtcnp5YjVMeGU2OXF5MW43cTJqRXhlUk1tQ0FxQm93NWRFeG9VSGFHTVVHRXRfbWpXdkRNT2s3TUpZZklWUkNVajNaaW9HbGI3Z1E2Y201NF9HSlVaTDUtOVlFRmUybWVqUFROZw?oc=5",
-   "date": "Fri, 20 Nov 2026 14:48:00 GMT",
-   "vu_le": "2026-11-20T16:20:36.071512+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Caterpillar (CAT) Stock May Be Below Fair Value Following Fresh AI Power Demand - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjhrRnNibVBhd2ZacnVub2lLbVkxSGxDNjU1REtEUXJNTzgwaXJrVnNSb09sUmIzaE5OUW9oS3FZNGpQX2otQnhpQ0czNC1UZ19vLXJCZTRGZUNKRlpSNkZIN1NKME03eXg4UTNRSkY1MzdjZy0yUWlmX2VHa2dTV0xIX2FndEZXejVxM21FOWhoQkRfTjBYbWRCRE1LeGZ4YjFZOFdwQlVNX29Ga1RxUWpJYVM3b3pWa0ZhakZMZ1JxQkQ2VXRTc25zRE3SAdIBQVVfeXFMTnFxVkRVVDRwVDNsalZMSWlFcVpIdXBDYWhURktwWkxPbnh4RG1mb2s3RzBud0VkUkw1TnY5aG1MMjBOUHVqaE9UUE1wTDNfU21PYzltbHJYZlZIVXg2TkUzejI1VzNlNlJtU2d0bWZTcGNfZ0NNeExHMUJNYVpOOHRldzgybFZ5S3ZzVXlQYWpjc1ZRT0wwZG5KUG1lNWtRNVkxTVFRaHd4VzlzM0QtTERJWE42M3U0cTNtSjZHTm1PUGJDVzBBdVZLSC1oWE85VElR?oc=5",
-   "date": "Fri, 20 Nov 2026 16:09:33 GMT",
-   "vu_le": "2026-11-20T16:20:36.071512+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Trump, Xi and Putin promise peace, but what changes for defence stocks? - Invezz",
-   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTRING5ZckFBbE41YmJydFNtd2IxZ3NFYVZNanBfMWk1QXpvN0h4OUxOXzVMLUJJbjlRM09aRmViRmJqN1N5MGhoaGZpMHVEQ29xbExobVVoUHFwZVo3UWhCT3ZlR3R5M1NhZGNjWjI2c2ZPd3p4ME1MbTFiZmVlcktyQVU?oc=5",
-   "date": "Fri, 20 Nov 2026 10:14:06 GMT",
-   "vu_le": "2026-11-20T16:20:36.071512+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 20, 2026 at 12pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVjFTMS1TeWl0V1I5TXpoX0FKVFdyZjFjS3A1NUd4YkRXQzZrczZpTGlVQzVkSk1uTVlhWk45eFQxekpsdkdjVWhpWU1zNVhuTkZsbVlfc3h2WDlBRGl1MEdIbjZiUHhDR3RwMzNfdzE2bXZSc0lKSThIX3NFbzN1N0lmWXJEN083b0ZLS1ZjN0dzV0xXSldYT1FfTXRrRnNqV2pMMzdWM0hERUhFSmdV?oc=5",
-   "date": "Fri, 20 Nov 2026 16:12:03 GMT",
-   "vu_le": "2026-11-20T16:20:36.071512+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "As Anthropic shares tank, investors scramble to hedge. It could be very expensive - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaFU0VW12dGhtRE91NjNWVUhNeTZ3dk92TnRhWnBseHc0cmx2bVhnN0VPRTQ1UTJ5TmtqU0oyeWxZVjhFZjl2Vjd6ZWtfc2prbnJ1OVVyLWhEZzItY0t0enM3NkdNN3hkLWVIbFlQX1c2WEpRTDFoXy0zd01fLU1KR1BfSlFPcjczR195c3BBbUVWTThyTEhnaDdCSzVOX2ZEMEdpMmhlOXhvZmlpWExxUDZhem81aGPSAbwBQVVfeXFMTjV6ZVFUSndjbFg2b1lrM2J1SVIwTWRPVkdXNFFpZWdrSnFuVkp2ck11RnZTOTZHMGtUa1pwWUxqY2F2UUZDaDl3NTROQkV0U21ZdE5ocDVKQ3pnd3FnZzlvMmljVS1tcWx6VHFKNE1kZTFmbVYtLUs2VkRGd1FOc1YxRzVHUThWU0NoVG9zZWRMTjVWWlRfSHBhbnJPamN1aTBuNGlCWkd5bFJqNEVfZ29XbHNjUm91OVhLbzY?oc=5",
-   "date": "Fri, 20 Nov 2026 14:44:57 GMT",
-   "vu_le": "2026-11-20T16:10:36.508470+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Utilico Emerging Markets trails semiconductor stocks but says rapid AI rollout reinforces its infrastructure remit - QuotedData",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX3hWVjd3ODF5VnNjcEhIb2VSTkRHTFlvSXJ4WTIyN3pJQVJ1anN5U3o3X1dwbnB6T1ZwNU9Ga1pyM3hFRV9oODdWNGRTWGJFYnFkQnlIZHNjLWVrWGF3cTY4dTctV1pnanRDT1NPekI2anF5b0tBMUhwMWJPU0FMVlZ5MzNHNVMzYlF1ZlJVWnZvcVQwLWNRa2lxaHNTX1dQVk1kT3pLbjFSRmtzNVkxNk1NcWg3VW5ZMWZGX3dZUGRhUmpLUXNNS0lITFVWTEZpd3pLdklxaFRLaDFVMlFZ?oc=5",
-   "date": "Fri, 20 Nov 2026 08:16:32 GMT",
-   "vu_le": "2026-11-20T16:10:36.508470+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin, Ethereum, XRP, and Solana slide as $90 billion exits crypto market - Crypto Briefing",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kNjhoQjJLWklFanpZUmNkVWx2dVdoeUFaYzZVZHZkSnlaR0FUZHZYS0RTZkpXU3FNVlZzWHlTX2Y5ZmN1Znc2UGtwcFh5SktxOXk1Vm9GXy1FNkJxNWpacm5lSWxTM3QwWjlsdkFxbU1oRXhsWDVBTmFIM2ktWjg?oc=5",
-   "date": "Fri, 20 Nov 2026 15:26:45 GMT",
-   "vu_le": "2026-11-20T16:10:36.508470+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic stock is down during its second day of trading after a historic Wall Street debut - NBC News",
-   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcEhYWjFHYkI5RkFWM2NNbXZwVXFGREV3LUdUVTVLUmlxYll2S2I5WUs2UFZ4dzQ0aHFCck96eFpqUzc5THQtMndnZFhRVkxzc2NoREFRLWNwOXZDamtZWU9HN1VtQ0xidkF0UDZBWEt3MGxOU280X05xSF9LRU5BR2xuLWN5aVNXbDFoeXRfUUI0bVgxeUJyTFV2NWJIZkZINWVfZlk3RExaMmF1R3ZMYVJackhYcWcwdV9YMnlBQjM5X0FKQms1OUdVZXd0Nms?oc=5",
-   "date": "Fri, 20 Nov 2026 15:36:11 GMT",
-   "vu_le": "2026-11-20T16:00:44.921576+00:00"
   }
  ],
  "erreurs": []

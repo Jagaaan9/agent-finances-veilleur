@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 52963.51 EUR, jour -1.32 %, mois -29.21 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53346.24 EUR, jour -0.61 %, mois -28.7 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -81,7 +81,7 @@ POSITIONS ET INDICES :
 - UBISOFT Entertainment (EURONEXT:UBI, secteur Technology Services) jour -23.24 %, mois -34.49 %, prix 3.2 EUR, capi 579608961, PER None, volume x7.16 la normale
 - Abivax SA (EURONEXT:ABVX, secteur Health Technology) jour -17.21 %, mois -24.32 %, prix 63 EUR, capi 6662410530, PER None, volume x6.76 la normale
 - Worldline SA (EURONEXT:WLN, secteur Commercial Services) jour -15.47 %, mois -28.05 %, prix 8.073 EUR, capi 542191913, PER None, volume x6.33 la normale
-- Elior Group SA (EURONEXT:ELIOR, secteur Consumer Services) jour -7.07 %, mois -2.93 %, prix 1.723 EUR, capi 470039179, PER 6.7, volume x4.58 la normale
+- Elior Group SA (EURONEXT:ELIOR, secteur Consumer Services) jour -7.07 %, mois -2.93 %, prix 1.723 EUR, capi 470039179, PER 100.8, volume x4.58 la normale
 - Atos Group (EURONEXT:ATO, secteur Technology Services) jour -6.07 %, mois -16.45 %, prix 20.42 EUR, capi 433079623, PER None, volume x2.58 la normale
 - Dassault Systemes SE (EURONEXT:DSY, secteur Technology Services) jour -3.64 %, mois -4.09 %, prix 22.25 EUR, capi 30914164522, PER 22.1, volume x2.38 la normale
 - Derichebourg SA (EURONEXT:DBG, secteur Commercial Services) jour -3.92 %, mois -2.98 %, prix 7.485 EUR, capi 1233788909, PER 9.0, volume x2.31 la normale
@@ -245,7 +245,7 @@ POSITIONS ET INDICES :
 - Jupiter Life Line Hospitals Ltd. (NSE:JLHL, secteur Health Services) jour 12.87 %, mois 28.81 %, prix 317.4 INR, capi 92054699074, PER 55.8, volume x319.86 la normale
 
 ÉCRAN Inde : plus fortes baisses :
-- Shine Fashions India Ltd (BSE:SHINEFASH, secteur Process Industries) jour -19.21 %, mois 2.25 %, prix 20.44 INR, capi 628882090, PER 16.5, volume x4.91 la normale
+- Shine Fashions India Ltd (BSE:SHINEFASH, secteur Process Industries) jour -19.21 %, mois 2.25 %, prix 20.44 INR, capi 628882090, PER 20.9, volume x4.91 la normale
 - Mega Corporation Limited (BSE:MEGACOR, secteur Transportation) jour -11.56 %, mois -11.95 %, prix 1.99 INR, capi 450000000, PER 57.7, volume x4.71 la normale
 - Emerald Tyre Manufacturers Ltd. (NSE:ETML, secteur Consumer Durables) jour -10.74 %, mois -18.75 %, prix 55.25 INR, capi 1205596154.7, PER 10.4, volume x6.33 la normale
 - Balaxi Pharmaceuticals Limited (NSE:BALAXI, secteur Distribution Services) jour -10.0 %, mois 50.2 %, prix 33.57 INR, capi 2059239725, PER None, volume x1.05 la normale
@@ -317,6 +317,14 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic IPO fails to prevent a tech stock wipeout - Morning Brew
+- [Marchés mondiaux] HDFC Bank (HDB) Finds Its Spark Amid Wall Street Selloff - Yahoo Finance
+- [Chine et Asie] HKSTP Debuts at MEDICA 2026, Forging Hong Kong-Europe Pathways for Life and Health Tech - USA Today
+- [Chine et Asie] China, HK stocks sink as Wall St selloff dents sentiment - Business Recorder
+- [Pays émergents] Indian Stocks Surge Against Global Market Tide as Nifty 50 Nears Record High on Foreign Inflows of Over 1 Trillion Rupees - BigGo Finance
+- [Défense, énergie, matières premières] Arxis, Inc. (ARXS) stock price, news, quote and history - Yahoo Finance Australia
+- [Crypto] SOL price on Nov 21, 2026 at 3am EST Crypto Prediction Market - Robinhood
+- [Crypto] Why Is Bitcoin Dropping? Strategy Faces $17B Loss - Bitcoin Foundation
 - [Anthropic] Morgan Stanley Ends Anthropic Stock Support After Just One Day - BeInCrypto
 - [Chine et Asie] Chinese regulator fines Baidu $96,600 over live-streaming business acquisition, China News - AsiaOne.com
 - [Résultats d'entreprises] Philip Morris: My Thesis Has Played Out, Smoke-Free Transition Looks Priced In (Rating Downgrade) - Seeking Alpha
@@ -452,11 +460,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] Is Now The Time To Look At Buying China XLX Fertiliser Ltd. (HKG:1866)? - Simply Wall St
 - [Crypto] Weekly Wrap: Crypto Falls As Stocks Struggle - Yahoo Finance
 - [Petites valeurs en croissance] Generac (GNRC) Stock May Be 23% Undervalued Despite AI Backlog Growth - Yahoo Finance
-- [Défense, énergie, matières premières] Should You Consider These 2 Defensive US Stocks From Healthcare and Consumer Retail Sectors - kalkine.ca
-- [Défense, énergie, matières premières] Insurer Tops Alternative Buy Point As Investors Play Defense - Investor's Business Daily
-- [Défense, énergie, matières premières] Lockheed Martin vs. SpaceX: Which Aerospace Stock Is a Better Buy for 2027? - The Motley Fool
-- [Défense, énergie, matières premières] Wall Street's Last Line Of Defense Is Breaking (SPX) - Seeking Alpha
-- [Intelligence artificielle] Michael Burry Locks In Gains on Nvidia, Chipmaker ETF Puts As AI Rout Deepens - Yahoo Finance
-- [Résultats d'entreprises] Buckle stock rises as sales grow but quarterly profit slips - finchannel
-- [Crypto] ETH price on Nov 20, 2026 at 4pm EST Crypto Prediction Market - Robinhood
-- [Anthropic (FR)] Les banques de Wall Street s'apprêtent à connaître une année exce
+- [Défense, énergie, matières premières] Should You Consider These 2 Defensive 
