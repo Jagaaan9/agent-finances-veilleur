@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T11:20:35.160904+00:00",
+ "mis_a_jour": "2026-11-21T11:30:35.626410+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52804.24,
+   "prix": 52879.02,
    "devise": "EUR",
-   "jour_pct": -1.62,
-   "mois_pct": -29.42,
-   "volume": 240.83699987,
-   "volume_relatif": 1.15,
+   "jour_pct": -1.48,
+   "mois_pct": -29.32,
+   "volume": 241.20245573,
+   "volume_relatif": 1.16,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Un chercheur d'Anthropic affirme avoir résolu l'un des plus célèbres problèmes du monde grâce à l'IA - Euronews.com",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWE1lcjl1OS1qLW4wQTUyTVk1aVFiSW1WVTR0NXpZZVpOd1RTenRuUGw0a1VvdEZJenc4OGpiZng0YTAyVFAwMGZELWpBY1RidE9SX0ZmcTMwTzlWWnM2dGE1bUt4OXpmZkRLOUU5b2w4Vm5RSjFucE5PcUw0VzlUMUJ4UWpYOEFDOWZrRWhMTi1QRGszbi1YZS01VDNNZV9SdDRwU0JJdUhRZ21aWklZaVV2dEpxQVk?oc=5",
+   "date": "Sat, 21 Nov 2026 10:19:08 GMT",
+   "vu_le": "2026-11-21T11:30:35.626410+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic IPO: Amazon, Google And The Art Of The AI Cloud Deal - Forbes",
@@ -6545,13 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUhFbHp2dmJHTGlUTlYyTmpNRzVvbkhVLXVuc0xIV1llTTVlOG9nQnBmU2ozZmNpQ3djMENkNTRPRlo5VXJjNlc2UnQ3bXhjRlhFLS1YRy1XZjVCX0hFNnVsUk9LamxPOG9RNVc1c00teEhTSWx5Ym5qeDY4OGlwaGV2RQ?oc=5",
    "date": "Fri, 20 Nov 2026 18:20:38 GMT",
    "vu_le": "2026-11-20T18:30:35.969302+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic chute de 9 % pour sa deuxième séance à Wall Street - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUZ4SjlRRTdPcVdOZXRWZjQtN1QwcV9ETms2SS1FQVUxNlRES2c0Wm5GcjVBS0ZyUlJuYlFfcXJJbVJzcUpkaEZ5TUZpeFA4bGdMdE11UmNLb1Yta1puRzdmU21xZHhYU0NscDJKZGVENTdlbWQ0Sko4WGRCbzF3ZGhLczNrZGoyNjJ6TU1nOGVmQ1BOcVg2QzU5anNUb1kxSDBYa0VvVGJ6eHB2V3B5U2lZZmtzWUdNR3Rvd0RNOEtLTEZTTEFtdUc4cGY0aUlFcnVoVHl2Q085UFRUOGJxYkRZOThwUTZnalZWbjJn?oc=5",
-   "date": "Fri, 20 Nov 2026 14:44:00 GMT",
-   "vu_le": "2026-11-20T18:20:38.609287+00:00"
   }
  ],
  "erreurs": []
