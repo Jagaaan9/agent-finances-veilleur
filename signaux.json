@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T23:10:35.679517+00:00",
+ "mis_a_jour": "2026-11-21T23:20:36.841621+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54886.42,
+   "prix": 54973,
    "devise": "EUR",
-   "jour_pct": 2.26,
-   "mois_pct": -26.64,
-   "volume": 411.4787329,
-   "volume_relatif": 1.97,
+   "jour_pct": 2.42,
+   "mois_pct": -26.53,
+   "volume": 413.23488679,
+   "volume_relatif": 1.98,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Asia outnumbers North America and Europe combined in top 100 of global science ranking - VnExpress International",
+   "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdExRSVpLVjgzUk56c0JOU0JtOEdaNEhObWxUVmZLSTQtYTlFNVVaNUtNcW5OdXF6em5Mc2dmNjNJNnJXLUt4QnlCdnYtSHJtblllTTBkYjA3ZnFQQjRGODh1anlSczVXMjdhU3VoSFlobVhGZ3FEcnFrSU5GZHN4ZVBfdnNNc3V3YVRQUXktd21FVGJhNkJ0SGlEaE9mbEdyQm9ta25oQlU4aFl0cXdmd2NSVGpub1JWUVJVc2tRM044d2ZYSGpyaUdmaDVlbV9raExoWGR3aEc1dDg?oc=5",
+   "date": "Sat, 21 Nov 2026 23:00:00 GMT",
+   "vu_le": "2026-11-21T23:20:36.841621+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Goldman Sachs Market Panic Index Hit 9 out of 10 – What Does It Mean? - BeInCrypto",
+   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10ekpaSzQ4QTNZQzl1dE1UQVlvV3dUSHJtSnF3R1Q3aUZVa2N4U1VHLVpsVGlLN2VjcHlVTU91YXRGdXA0UjFwbzdBQVNvOWZpdndMX2F1NHA1SUR3MVVuTEQ0SFFkajBCOWtmeEZPYVhlNFZTMFBr?oc=5",
+   "date": "Sat, 21 Nov 2026 21:24:25 GMT",
+   "vu_le": "2026-11-21T23:20:36.841621+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "CUHK School of Life Sciences advances translational research in iPSC-based vascular regeneration technology “Super Vascular Endothelial Cell” technology offers new hope for refractory ischemic diseases and receives prestigious national recognition - CUHK Communications and Public Relations Office",
@@ -6537,20 +6551,6 @@
    "titre": "Sun Pharma gets NSE, BSE nod to reclassify Valia family as public shareholders - scanx.trade",
    "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdDdKSGk3Umd4NDczVWhOZzRMNkJ0UHA1czhzeWtBZ29TMnlZcnNYNngwd2NLZVlQaHAxVGM1cU1ac190NnhaQ2JfdkV0dUwzbnloeVg3OHFQeXYtVmMzWW4xTk1GZE5YSkFIeXpWQkZYN0MtaDNJQ19rbHBFQ0huX3hKaWpMU3V2Uk9zZGtYckVDQ3Nqd2c0SnNVQ3d3Sm9GM0pJLUhYdk1sSFlVYmZlcmx4Q1BwRmtLRmNmWHpkUlhiaFZuRzFrVlMxd3VPdmc?oc=5",
    "date": "Sat, 21 Nov 2026 02:00:45 GMT",
-   "vu_le": "2026-11-21T11:40:34.953378+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Zcash Just Dropped Below $1,000 for the First Time Since September. Is This a Buy-the-Dip Opportunity? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSTRhRERscWhVMHpDaVZRTFQ0RVdYWVM3NjlUUGFQeTFIVEZyN093aHJkcVlsdk91X3l2cDZtc2p1WEllQURrWWd1ZFVzREItamIyaFdOWnRYa0xnTjhrYzFUMWkzc2MyT0Fzc2ZEX0ZYZHozZ3Zyd2p4cWpQRm5OUlNzdWJyeTZseVVYRHBmUWVJVHRTcXc?oc=5",
-   "date": "Sat, 21 Nov 2026 11:23:02 GMT",
-   "vu_le": "2026-11-21T11:40:34.953378+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "How Low Will Bitcoin Price Drop? Analysts Predict - BeInCrypto",
-   "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Fc21YUXdMcGt1OEdCcE90bDAtZkxsWnItQm15RkFfVHJzSmZCa3NCTmZXbU1DT0NGTjJmbU03cVFldk5sc0E0ZmhoalBPS0FOVlo4a3dFanJDZUFzZWpST1psWE4?oc=5",
-   "date": "Sat, 21 Nov 2026 11:04:05 GMT",
    "vu_le": "2026-11-21T11:40:34.953378+00:00"
   }
  ],
