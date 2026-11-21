@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T01:50:36.370228+00:00",
+ "mis_a_jour": "2026-11-21T02:00:35.985301+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53757.41,
+   "prix": 53771,
    "devise": "EUR",
-   "jour_pct": 0.16,
-   "mois_pct": -28.15,
-   "volume": 7.50116276,
+   "jour_pct": 0.18,
+   "mois_pct": -28.13,
+   "volume": 7.72211947,
    "volume_relatif": 0.04,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 4929084342,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 4929084342,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3323658863800,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3323658863800,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3323658863800,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Robinhood CEO reveals how Anthropic IPO shares reached retail investors - Fox Business",
+   "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVZGFHYTVUYWVlLUo4UDFBZ21tU0dvRUpwbGdwTVA1TWhVVzlqWjVXeEhwZVdBd2llcnBZbTFBRHpMclp6TU1xY295WTVkVV90X0tDTDYtQU9nOGc?oc=5",
+   "date": "Sat, 21 Nov 2026 00:58:38 GMT",
+   "vu_le": "2026-11-21T02:00:35.985301+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory - Fox Business",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGo2a2JDeFFQWXZZSUFuc1hYVkctMXBGZzVJWjhCSU4tV21qenB4bVNuLUJFTG1hakVYdGNlQ2tuRXFnOXlnSzFJVjZHWVg3V09EWVVhb1o5NVY3YWJpcHZ4MGFyYm9faWdPOGVsRERlakFST214NC1RZDA4UTBjdUZmYmZtOUdUOWZNNFE1M3dVdGVneWtKeWl4Sll0aFZFcW1qUUtFM2RfVUhkTGNJ0gG0AUFVX3lxTFBlZXlISGdZNkJyblRJX1V4NW9OQTFrYkNHWFZoazJzTDZZUHI4US1sT01jSkhtWVFxeUVqYkdJdzIwYmxjWFFsRTNMYWhUdk9wVWl3aVpUTmhvZi1IQ1ZJcFdKODc1TDdJb2tLZzZ0RzB6d3o4WERicXJ5OGNvcFZpTTl5RmhQRTRkWERGeUFPTmVUeU56dl9ObDNPcTgxeDU2bHlCaDFiSVdQaXlQMlozdzZ1Tw?oc=5",
+   "date": "Sat, 21 Nov 2026 00:47:21 GMT",
+   "vu_le": "2026-11-21T02:00:35.985301+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Has AI's honeymoon ended on Wall Street? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdW02SHVNQUZPSDdlWHkzX1JPenFtUHZ0dFo0T0dBLWptSXUzaDhwcjlHUkFwbUcxcGE3YnRidUVGQTM5TzltYUdMSkFiS2dQRThxdGhGcWhtRUhIUVFMcnJjR29oalE3UGVKUW5jWkl1a2tXeFo2M3JRS2dkbjlzSEx2ZVVyblJuM2t5dUotcHFCWHpZanhiU2pUZ0I?oc=5",
+   "date": "Sat, 21 Nov 2026 00:46:00 GMT",
+   "vu_le": "2026-11-21T02:00:35.985301+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Should Raised Earnings Guidance Require Action From Riskified Stock Investors? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRDNJMHJqcVlWWGxnM3J1UVdCeXozQnQ5aEZ1emZJMkxsQ0xucjE2NUQ2ZUh4bEJjcFdBcXQtR3pvUEM1QUoyVDFpNm1STFUwdVlqR0dVNmRkdDh6RDktYVZYWTAzSjlkVjBWbVd5cVBLUk0tazZpajBwR3J1ektTakpXYTY3azNjQ04zVk9qalZILTJfQXJBMl9xLUswZnFFTEoyVWU2dw?oc=5",
+   "date": "Sat, 21 Nov 2026 00:17:00 GMT",
+   "vu_le": "2026-11-21T02:00:35.985301+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Is Now An Opportune Moment To Examine Nihon Dengi Co., Ltd. (TSE:1723)? - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcTBWZmlHQ2ZaY2EzbkREQkh3ZEhheGNEcVZGdnlJNlZTVnZiSDZhSXJIMnQ4dENEd1N4WEVzRlB0c2JCeTdqWXBvamZ6OEZjdXlSWk1OWmM1eHVxMExoTkJzbmYydllvLUJZR0JBWmpJQmVvaUhwbExkSGJrV1FGT3REeUJRcFp0Sk5WMG1vVjBzUUhRVU5sU291WGkyTkk1cnNCSE4wWVdRaXNOSjh2NFhyVDJKOVZLLU9lTTBtRUFwdURtRGZaU1BZcUFhLVFUNFN3X2p30gHbAUFVX3lxTE9JcHpLNkJsd19WUTF5eXhHTDZzb3JJM2xVa3NQckxCNktvNDZhN3dYUEtUaENUOUw4OXNtOWJOLUpscktmak5ucGhBSDRWalZwcVkzMFF4OGEzekdobUdraWFBaVhGN3prZVRfRXp5eldBMjNMcXg0MVcwOWIzbDVoQkEyUVBjbW1rbXpSdWV5VldkemREN2ZNcVNaQURBczI4bHI5c2Z0TzFvOUo3aGxlVnI3aFJqaDAxREZTTGlCb0lkcFU3YnVfc3pNdHNTblN0Ykp3X05PTUF2MA?oc=5",
+   "date": "Sat, 21 Nov 2026 01:48:27 GMT",
+   "vu_le": "2026-11-21T02:00:35.985301+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "ADANIENSOL Stock Price and Chart — NSE:ADANIENSOL - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlZUF3Y2ttWFdKV2x6RzhzSlh6MmtBTl9RMFZvdmpLRFFQVkhqRFY3blZNU25tX1ZiT2Rma0JqOVJxSHZVTnZCM0laTFFMbXNnZHlkRW9SRkdORkJlbTNrMw?oc=5",
+   "date": "Fri, 20 Nov 2026 09:05:54 GMT",
+   "vu_le": "2026-11-21T02:00:35.985301+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "US markets lose $6 trillion in a week as S&P 500 suffers longest losing streak since 2020 - Moneycontrol.com",
+   "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNN3pjeHNiTk9aNzlLaFRxc1lKRkFHdjRnOTNnQ2J4bWFDamZsSkhQOWFGUFVha1BzTWRuQUhlaWVMcEJYbE1sdTQ4ODRRUHVxcWpyTmFXQkRxZnpPN0daV1MxXzZUWHVlOHQwVmZhWHY2ZmdrdnRYM0FGU2RrR1ZpYzVkd3pSWWxuTmtmZHVlVEtWdW55ZWxfa1hJclBLOFFRNFRQMmR3eXNYaU9pOEhUZkpacElOSjc5SG1fWTNxZGdjMXc5WThYeFBSaHBPc1pCUlpvU1hIN2JkWWhTbzV0NV9wMU05LU1fcUxTWHpR0gHuAUFVX3lxTE03emN4c2JOT1o3OUtoVHFzWUpGQUd2NGc5M2dDYnhtYUNqZmxKSFA5YUZQVWFrUHNNZG5BSGVpZUxwQlhsTWx1NDg4NFFQdXFxanJOYVdCRHFmek83R1pXUzFfNlRYdWU4dDBWZmFYdjZmZ2t2dFgzQUZTZGtHVmljNWR3elJZbG5Oa2ZkdWVUS1Z1bnllbF9rWElyUEs4UVE0VFAyZHd5c1hpT2k4SFRmSlpwSU5KNzlIbV9ZM3FkZ2MxdzlZOFh4UFJocE9zWkJSWm9TWEg3YmRZaFNvNXQ1X3AxTTktTV9xTFNYelE?oc=5",
+   "date": "Fri, 20 Nov 2026 21:41:31 GMT",
+   "vu_le": "2026-11-21T02:00:35.985301+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "L'Europe finit en nette baisse, l'IA secoue le Nasdaq - Boursorama",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnpWWjMyRktmbkp0QXYyWnBRNnJDU0hOZXoxeG9oQmw4QUFDVll5WnVQbklIZzFTdXZyeFFXdE5PWjdzcU1NLUhjSExHWHRwSXNXb1FyX0cwcEFQal9OUm4zUG96SFZtZzN4UlpFdjQwYlgwWmJPOWNBQi1aaEkzRjgyVFhxdkRHazRoX0Q4SkRoRHhqUzNqQVlPamFTYW1tem9TT0l5LVhhMWE2SjhWUEZkdTlYS0ttYkd5dQ?oc=5",
    "date": "Fri, 20 Nov 2026 14:31:00 GMT",
    "vu_le": "2026-11-20T14:40:36.435841+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Exclusive | Wall Street Pledged to Mobilize $500 Billion for Nvidia—but Hasn’t Put Up a Dime - WSJ",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWjdzR25CWl9WWlp1SVp4cVl0OE1TUWhmVXBKZVJ1RFNudjFKOEtabjJCX1o0bTRteGZPbVZmRURDazJ3a2UtajRYQ3d2eENyUFpCNHoxZzlSWFRHYnlITVNoSWx4V0g5bjN0S2o0MWVsMm9XSzN3Znd2Zk9CbVkxc2VKa0xJUDRWRGh0aVdEcU4tNTVNVkw3cV9SQUc0d3Nya1dCNkFLTlc0VWdqTWh6M0VwZlQ?oc=5",
-   "date": "Fri, 20 Nov 2026 14:02:03 GMT",
-   "vu_le": "2026-11-20T14:40:36.435841+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "The Friday File: Nvidia; US AI chips; Telus - Mobile World Live",
-   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSVVMekd6V1k1d2hfVUFnTkhZUEVYenc5bWtmWTVpaDJmeDItSHdoVVlhUHJlTlhDSC1INnc0ZHJ0ZEtsX2JuVWgyN3NDU3pyR2hIZDhyMzBuejJDM0lhUWlWcnVQcU9xN2V6emVzSWh5cDFmdjRodzVuR2stSm11eFYxQVZwd0pkd2c?oc=5",
-   "date": "Fri, 20 Nov 2026 12:39:46 GMT",
-   "vu_le": "2026-11-20T14:40:36.435841+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Quebecor slams Bell-Telus merger prospects, as analysts say bidding war could loom - BNN Bloomberg",
-   "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXZkX2t1MGlnNGhpOU9EWk0xSHp1dFktT3p3RWZJbnNrYXdnTERTV05yY1VmMlZScmZWZU5fMTdFbGdUSVpJSnlqcFNScmltbTJaZHQ4RU9jVWpTS1lQUVV4b1Y0Qi1YaUdQeHhKT1I4ZDYwT0h5Vnd5eE9DQjFtWUZWNUZRX09xVS0xenc4eC1VYy1NcjZTOHBkai1Sc1d0SjdFNlk0bmlwQ3N4QTJybVRhUUs0eWlEQkNfVkVrREQ3eXVpX2J2bUpGRFg0NHdNNUpGdnZwamY1ZFU?oc=5",
-   "date": "Thu, 19 Nov 2026 18:24:35 GMT",
-   "vu_le": "2026-11-20T14:40:36.435841+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWmZadko1d2NDa3h3cVJUNGZTbHZjcUZGd1ZNYkxOWlBwLWd3Rk9KcHFuVWdVcUVWMUVNQW5iSklCZkEtaC13bGZWZlpKQl9JUmNzSlFBdjViaGZENDBGdWU2Z3FPQk5hZGRNUlVmckQ2aUtOWkIxQlhVa1AwVXFkd2JkYVVva2czQk1NUtIBkgFBVV95cUxPWHg0Ym8yVHNqV2lITW81aDhBSzZyN2M4ekMzelRIQ003YVVGZWkxRjhHMGl1TXBoVWEwUnF0aG9zZ0JFTnFjWWxjQWFnWVhiS2Y3R3ZfallHd2RwczdSQWFoaDYtdmxKSVRiX2ZNeHJqcGVTdldlcjQ3RHpqQWlOVFpjOHU3NHNCWjEzaGZmbFdkdw?oc=5",
-   "date": "Fri, 20 Nov 2026 14:29:45 GMT",
-   "vu_le": "2026-11-20T14:40:36.435841+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping - Bitcoin Magazine",
-   "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IREdHMkI1ZHA5RndIU1FSQXMyZkpPVWpqXzRyZE1ESXRTWWs1a1BjaXF2dUZDY2VubjhYSXo5S0J2RFNDU1MxcGxabzduNVg2UFBvS01zZ0FCU29HX1NCbC1RMUFkTGhoX2w4TTZfWlNnUHRBT1dMazdYMA?oc=5",
-   "date": "Fri, 20 Nov 2026 14:25:00 GMT",
-   "vu_le": "2026-11-20T14:40:36.435841+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "U.S. Senate passes bill to ban prediction market bets on war and death - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmZvdDdtbk90YVpaT0xySWlKbUpzaGNRekN5NV9XLWpYOFFIVEdGZ2llR1czaEh1YW5pMGdzTHdkckZ4czE4VlRSa21nOXlyVWhCRlNHMmdsYnEySTZVZFBzSk5HUWhBMEQzTG9qT2k4R0NfQmZpUjJ0Wk0yTjZFb0UtWkxKNW1MbGpJZWJNcE45SU9DRkVaVU1lc01paWhLV0lGN0l6ZWZuZjFpTGtEZnRnTQ?oc=5",
-   "date": "Fri, 20 Nov 2026 14:25:57 GMT",
-   "vu_le": "2026-11-20T14:40:36.435841+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Breaking: Anthropic stock is crashing, and AI stocks have lost over 50% in 5 months. - Marcus on AI | Substack",
-   "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5raTRzek5uVS1BOXFSRVd0YWN0MGpFSFM3TXY0UGVDNzJsNVExZjg3dnY2V3REUlpSWUxYUU1BQUFzdHJRVDJSNWdzREFwT0dUUHpXeWZDVUEwSnVBUnZBaFBUNVRNSG10WDU4UWVMUGlsT0ZmUW9Gbmp3?oc=5",
-   "date": "Fri, 20 Nov 2026 14:20:06 GMT",
-   "vu_le": "2026-11-20T14:30:36.960351+00:00"
   }
  ],
  "erreurs": []
