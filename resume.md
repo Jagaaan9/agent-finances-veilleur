@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53096.68 EUR, jour -1.07 %, mois -29.03 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53374.76 EUR, jour -0.56 %, mois -28.66 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,16 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] "This is a painful tech sell-off": Anthropic shares slump - Axios
+- [Anthropic] eBay sellers are chasing Anthropic IPO hype by hawking $1,800 hoodies and $100 tote bags - Yahoo Finance UK
+- [Banques centrales et taux] POINT HEBDO-Shopping, puces et banques centrales - Boursorama
+- [Chine et Asie] Exclusive | Deal on duty-free Swiss exports to China a boon for Hong Kong, top diplomat says - South China Morning Post
+- [Intelligence artificielle] If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail
+- [Pays émergents] BlackRock to Buy SulAmerica: Will Brazil Deal Fuel Its Growth? - The Globe and Mail
+- [Défense, énergie, matières premières] Booz Allen Hamilton Holding Corporation (BAH) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada
+- [Défense, énergie, matières premières] Arxis, Inc. (ARXS) stock price, news, quote and history - Yahoo Finance UK
+- [Défense, énergie, matières premières] Electro Optic Systems Holdings Limited (EOS.AX) stock price, news, quote and history - Yahoo Finance Australia
+- [Crypto] ‘Dump It Now’—Panic Suddenly Sweeps Bitcoin As Crypto Braces For Massive $2 Trillion Weekend Price Crash - Forbes
 - [Intelligence artificielle] If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail
 - [Résultats d'entreprises] BJ’s Wholesale Club beats estimates, raises guidance By Investing.com - Investing.com Australia
 - [Pays émergents] Top 20 Shares For Long-Term Investment In India For November 2026 - Samco
@@ -445,15 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Chine et Asie] HKSTP Debuts at MEDICA 2026, Forging Hong Kong-Europe Pathways for Life and Health Tech - USA Today
 - [Chine et Asie] China, HK stocks sink as Wall St selloff dents sentiment - Business Recorder
 - [Pays émergents] Indian Stocks Surge Against Global Market Tide as Nifty 50 Nears Record High on Foreign Inflows of Over 1 Trillion Rupees - BigGo Finance
-- [Défense, énergie, matières premières] Arxis, Inc. (ARXS) stock price, news, quote and history - Yahoo Finance Australia
-- [Crypto] SOL price on Nov 21, 2026 at 3am EST Crypto Prediction Market - Robinhood
-- [Crypto] Why Is Bitcoin Dropping? Strategy Faces $17B Loss - Bitcoin Foundation
-- [Anthropic] Morgan Stanley Ends Anthropic Stock Support After Just One Day - BeInCrypto
-- [Chine et Asie] Chinese regulator fines Baidu $96,600 over live-streaming business acquisition, China News - AsiaOne.com
-- [Résultats d'entreprises] Philip Morris: My Thesis Has Played Out, Smoke-Free Transition Looks Priced In (Rating Downgrade) - Seeking Alpha
-- [Petites valeurs en croissance] 5 Undervalued PSU Bank Stocks with Improving Financials - Equitymaster
-- [Défense, énergie, matières premières] Booz Allen Hamilton Holding Corporation (BAH) Stock Price, News, Quote & History - Yahoo! Finance Canada
-- [Petites valeurs en croissance] 5 Undervalued PSU Bank Stocks with Improving Financials - Equitymaster
-- [Pays émergents] Top 6 Semiconductor Stocks In India To Invest In November 2026 - Samco
-- [Résultats d'entreprises] Earnings call transcript: The Buckle tops Q3 2026 profit view, shares jump By Investing.com - Investing.com India
-- [Résultats d'entrepris
+- [Défense, énergie, matière
