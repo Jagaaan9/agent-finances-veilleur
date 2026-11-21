@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54819.09 EUR, jour 2.13 %, mois -26.76 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54886.42 EUR, jour 2.26 %, mois -26.64 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - G-Resources Group Limited (HKEX:1051, secteur Finance) jour -2.05 %, mois -7.97 %, prix 5.485 HKD, capi 2472715327, PER 9.4, volume x16.68 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
+- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 5047665185, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 665841152, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3641703802, PER None, volume x1.08 la normale
@@ -317,6 +317,11 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] CUHK School of Life Sciences advances translational research in iPSC-based vascular regeneration technology “Super Vascular Endothelial Cell” technology offers new hope for refractory ischemic diseases and receives prestigious national recognition - CUHK Communications and Public Relations Office
+- [Chine et Asie] Geely Automobile Holdings Limited (0175.HK) Stock Price, News, Quote & History - Yahoo! Finance Canada
+- [Chine et Asie] Geely Automobile Holdings Limited (0175.HK) stock price, news, quote and history - Yahoo Finance Australia
+- [Crypto] Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto - Yahoo Finance
+- [Crypto] Russia Opens Regulated Crypto Trading, but No Exchange Has a Green Light Yet - BigGo Finance
 - [Chine et Asie] AI tech rout prompts US investors to rush into value stocks - The Standard (HK)
 - [Intelligence artificielle] The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market - Business Insider
 - [Rachats et fusions] FDI Screening Sweden: 2026 Guide for M&A Deals - Global Advisory Experts
@@ -450,10 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Intelligence artificielle] If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail
 - [Petites valeurs en croissance] Is Now The Time To Look At Buying China XLX Fertiliser Ltd. (HKG:1866)? - Simply Wall St
 - [Défense, énergie, matières premières] Why Applied Aerospace & Defense Stock Tanked This Week - The Globe and Mail
-- [Défense, énergie, matières premières] Red Cat Holdings, Inc. (RCAT) Stock Price, News, Quote & History - Yahoo! Finance Canada
-- [Anthropic (FR)] Actualités ANTHROPIC RG-A - USD - Marché NASDAQ en direct, résultats ANT - Boursorama
-- [Banques centrales et taux] Le prix de l'or chute à son plus bas niveau en 14 mois, perdant près de 9% en une seule semaine - Laodong.vn
-- [Chine et Asie] Technology at Work, Heritage for All: The "Chinese Approach" to Safeguarding the Leshan Giant Buddha - The Columbus Dispatch
-- [Intelligence artificielle] Worried About a Market Crash? This AI Stock Should Bounce Back Fastest. - The Globe and Mail
-- [Intelligence artificielle] NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance Australia
-- [Crypto] BTC price on Nov 21, 2026 at 1pm EST Crypto 
+- [Défense, énergie, matières premières] Red Cat H
