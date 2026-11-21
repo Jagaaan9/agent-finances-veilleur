@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54783.1 EUR, jour 2.07 %, mois -26.78 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54694.97 EUR, jour 1.9 %, mois -26.9 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,13 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic: IPO Priced To Pop, Use Caution Though (NASDAQ:ANT) - Seeking Alpha
+- [Banques centrales et taux] Laurence Boone, figure de proue de l'économie européenne, va intégrer le directoire de la BCE - TradingView
+- [Banques centrales et taux] Le dollar recule, le rallye alimenté par la Fed s’essouffle ; la baisse des rendements américains soutient le yen - Zonebourse
+- [Rachats et fusions] ZIM Just Posted Huge Profits, But Its $35 Buyout Is Still in Limbo - MarketBeat
+- [Résultats d'entreprises] Anthropic And Nvidia Are Saying The AI Bubble Is Finally Popping - Seeking Alpha
+- [Pays émergents] Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More - Inc42
+- [Crypto] BlackRock Said Bitcoin Moves Against AI Stocks: Then Both Crashed Together - 24/7 Wall St.
 - [Bourse de Paris et Europe] BIOMERIEUX Cours Action BIM, Cotation Bourse Euronext Paris - Boursorama
 - [Intelligence artificielle] What China Gets From Its AI Honeypots and Smuggled Chips - Rolling Stone
 - [Petites valeurs en croissance] First Advantage Corporation (FA) Rallying as Revenue Growth and Profitability Accelerate - Yahoo Finance
@@ -450,10 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] Un chercheur d'Anthropic affirme avoir résolu l'un des plus célèbres problèmes du monde grâce à l'IA - Euronews.com
 - [Anthropic] Anthropic IPO: Amazon, Google And The Art Of The AI Cloud Deal - Forbes
 - [Anthropic (FR)] Anthropic établit un record en introduction en bourse : chaque employé devient millionnaire en dollars américains. - Vietnam.vn
-- [Chine et Asie] AMD Craters 18% After Research Report Claims Chipmaker ‘Has Its Own China Problem’ - Breitbart News
-- [Intelligence artificielle] If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Motley Fool
-- [Défense, énergie, matières premières] Kratos Defense & Security Solutions shares fall nearly 7% as insider selling and bearish technicals weigh - Traders Union
-- [Anthropic (FR)] Pourquoi l’entrée en Bourse record d’Anthropic n’a pas suffi à rassurer les investisseurs face à la crise Nvidia - CoinMarketCap
-- [Anthropic (FR)] Le français OVHcloud entre dans la course à l’IA ; l’entrée en Bourse d’Anthropic ne rassure pas le marché : les temps forts de la semaine - L'Orient-Le Jour
-- [Banques centrales et taux] Laurence Boone, figure de proue de l'économie européenne, va intégrer le directoire de la BCE - tv5monde
-- [Banques cent
+- [Chine et Asie] AMD Craters 18% After Research Report Claims Chipmaker ‘Has Its Own China Problem’ - Br

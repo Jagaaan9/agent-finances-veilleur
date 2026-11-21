@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T15:20:36.150054+00:00",
+ "mis_a_jour": "2026-11-21T15:30:35.084971+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54783.1,
+   "prix": 54694.97,
    "devise": "EUR",
-   "jour_pct": 2.07,
-   "mois_pct": -26.78,
-   "volume": 346.31816863,
-   "volume_relatif": 1.66,
+   "jour_pct": 1.9,
+   "mois_pct": -26.9,
+   "volume": 349.81248798,
+   "volume_relatif": 1.68,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,14 +3469,14 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
+    "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3497,14 +3497,14 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
+    "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "prix": 39.73,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic: IPO Priced To Pop, Use Caution Though (NASDAQ:ANT) - Seeking Alpha",
+   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNFhrcnhQUm42ZU41TFlMRFNZNTZhY0RiS3lzZkQ4OU9UNjdnZGRXNTM2V0hyYmpkNDZfMkFncUJRTWZBTW5aTk5KdlJSZTVlSWkwTUF2T0doR0xKNERibXF0RlBmcGk1UmtMdmZ2NU5tUHRhcmpOdWZQbUdCNFppRFo4VlF4VENINk1JNWpzc0k?oc=5",
+   "date": "Sat, 21 Nov 2026 15:00:36 GMT",
+   "vu_le": "2026-11-21T15:30:35.084971+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Laurence Boone, figure de proue de l'économie européenne, va intégrer le directoire de la BCE - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aQUNIcVpZUUJRTmtNVlZ1Um1iNkljaVFzZ01FRjZXTzNTTDRIM0FOUm1wWExYWXhyd09LMFNMSFlpanFKb216UDlhanJyU1JlSmJUa3BEc0FNWm9Dbm5wb1lR?oc=5",
+   "date": "Fri, 20 Nov 2026 18:04:03 GMT",
+   "vu_le": "2026-11-21T15:30:35.084971+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Le dollar recule, le rallye alimenté par la Fed s’essouffle ; la baisse des rendements américains soutient le yen - Zonebourse",
+   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMkVNNEtZNnozbXg2TlRMeHp4SDFyVVdxMmthQWg2THYwRVpnMDJHa2oxUDlJVmQ3dU5lcmRFR1pVV1dIMF85NjlVeWJqLUNmYzFpU2FpR3pWU1dtcmR0XzhWUXZhUC1fU2xwV2RBS3U5NWZpX0ZnVFJwMWRxY3ZUYXZaZGE2b2NvRGV6Q0doQWlBOE4zb25wZHhuY1JIcjNTbXFiWk9rSWVpd1l6cHplY2thUE10cmhQeVZ2VFlpYm9IclEzZ3prMl8wUWN1cHhwSmNzSlZhQWd6dkZ1cGRnZjI5aF9tOGJpZENtdQ?oc=5",
+   "date": "Fri, 20 Nov 2026 15:34:33 GMT",
+   "vu_le": "2026-11-21T15:30:35.084971+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "ZIM Just Posted Huge Profits, But Its $35 Buyout Is Still in Limbo - MarketBeat",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGFpcUU3anVCMzlaMkJWbjBlZm9uUFVBMEZ4dFptUl9zNG5oS21JM1NJZ01SR3lKX0U3ZW9ZS2pPaUIwczRrbW9WYk9wQ1QzcnpYWTQxSVdOelZmcndFN040cExUdDlPejBtVkRPOGZtcnZxX00xSXpWUE1iQ0pORFE4WmcxNVdUdWZtOW8ydFJWd2FkSFp2T1JBdnVoRmEwM2w0?oc=5",
+   "date": "Sat, 21 Nov 2026 15:25:32 GMT",
+   "vu_le": "2026-11-21T15:30:35.084971+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Anthropic And Nvidia Are Saying The AI Bubble Is Finally Popping - Seeking Alpha",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOExsYVF5bHI3Rm9XQTZoMTFJTVhEbFJ5bnhMdjJIdEVzRFBJc21STEhyVTdNLUpjZ3FYVVcwdWRMTWs3V1pHQXEzUTVPZXR3X2daWUV6UXFWMmE2aXR0eDlQVmUtYlc5ems1aWtEdGg0UzVFSlVNWXQ1NW94bFFzdnk4eGN5aml6Rkt3SE44R2k0WTNzR2JnUEU4bWk5d0xjSkRod3RrdWM?oc=5",
+   "date": "Fri, 20 Nov 2026 18:22:12 GMT",
+   "vu_le": "2026-11-21T15:30:35.084971+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More - Inc42",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVU94dFhyMVNPZFBOeklEbER6NHMwNzZpZDdzamhwdXpTYWZjWkh1cVN6WFhGV2UxZWlyVEZrOUlRak5NSFQ5UWstcjFjMHNzWFNuTzZaRUFVWXVhM0YzU0F6clJYMWp1VlBSOTV2SEdTYlVFbTZkYTJQMzYyNzRZWllNaWhDWFduSmhKcmxicm51d1JuMGVjR3R3?oc=5",
+   "date": "Sat, 21 Nov 2026 12:17:25 GMT",
+   "vu_le": "2026-11-21T15:30:35.084971+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "BlackRock Said Bitcoin Moves Against AI Stocks: Then Both Crashed Together - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRXgxNEYxNmR5Q2lGMXQwSGZCOTV5c0tXd0c1YlJqd0tGMlNfNTQ2eDk2UkJIbmZtZzliN2JCWWUyVnR6QTlOX05UcFdMWkFyRVB3T08yRHR3eDNjNS1zMXRfMTBUNjdjeEdqUXZWbGplRW9ONk1fUUl2TmVHRW9oQ2kxNTBaTUU2OFA1b01fSjVoZTRkMmxuV0lGMEFpVmlNUGVsZTRHS0RNTG9mSFZHNVBZSU04MVo1Q2ZiQ2Z5VV9MUE5OMU1iM1Z6XzE?oc=5",
+   "date": "Sat, 21 Nov 2026 13:33:00 GMT",
+   "vu_le": "2026-11-21T15:30:35.084971+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "BIOMERIEUX Cours Action BIM, Cotation Bourse Euronext Paris - Boursorama",
@@ -6502,55 +6551,6 @@
    "titre": "Wall Street Nears Breaking Point as Fear Grips Global Markets - Bloomberg.com",
    "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzFZMUV0TnJwY0RVNXBBYzRZQVJZQ0lUYnhrMWhsTnZwU0xpVUlLejFRbTRvZUxOM3JLbmZGRTBNS0kyZ2NJMEtuUHZVRDE0YlFhM0NHaHF1eHZ0cnJsTlE0VHNBWVdodC01ZEtLZ0dUR3kycTBxSC1QdVNzUVRTaG9KcUtSQXZsWTZjdm5XdzR5UHJPZkgtV2xSeHJZMW15dnpDNG4xci16UmhXOXR4dTFR?oc=5",
    "date": "Fri, 20 Nov 2026 21:52:00 GMT",
-   "vu_le": "2026-11-20T22:10:36.540160+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street rout pushes S&P 500, Dow into correction - Honolulu Star-Advertiser",
-   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWt0LWstT2dMYk1hN0VXNml5WHEwczViQUphM0lhLXlNUnE0QjNKS2JEQWU1cTlIeVFkNHJuNTRBdWN2d0xnTmVlMm1tbzlzOWd0RXppTFdUeDZEZVhwNUJ1R1BEckxqV0NoNU9yNkhwRkthdnVDNFFPX2Z1RDh5YWNwelBtcDVaRThZeWZNVkhpb2pmelducC1xQkhhQUQyZTRDblBFYjVicWc?oc=5",
-   "date": "Fri, 20 Nov 2026 22:00:27 GMT",
-   "vu_le": "2026-11-20T22:10:36.540160+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Salesforce could owe Braze (BRZE) $300M if their buyout deal ends under specified regulatory conditions. - Stock Titan",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlZHaVA3MXZyc1NpUW91dE10NlRGYnRuQ1lYRElWbUk2cWpNTDhVVW05SEE4dl9NNlV1dGs3THVqeHE2UWR6RzY3Y2JuUE1JSmtmVkZyOG5DdWlhdHgyMEo5QkEtYll1cUo1VzFHbHNwTTJpSXg5VFFpWDZ4Um92bjllM1VDbzM0RHhCREFISm5iTFJTZHhEcVdJeTIzSEx1VnZyNXhSWkt0dDNDbWNPNUFUcnc?oc=5",
-   "date": "Fri, 20 Nov 2026 21:54:42 GMT",
-   "vu_le": "2026-11-20T22:10:36.540160+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "CrowdStrike is reportedly looking to acquire Zscaler, and soon - Techzine Global",
-   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTU5hVmgwVU03aWttTlk4SGlEWmNGMkxRRk0wUHhBLVBiODJKTUUzaDdZaHNxVXR4cnNiY1VSVTdLRk5Kb1ZybXdrUk94T0VvX0NrdlF6M01JM0dZblFQUFNoQTlJdkF0SW1hUWFLQXd2QVY3eXV6RjFGaVkySHY5Uk1GZDhNU3hxUkRGVEpzZzU0V2VLTWJkTU9HZ3pSU1VjWWlINDBDclVEZUd1?oc=5",
-   "date": "Fri, 20 Nov 2026 22:07:12 GMT",
-   "vu_le": "2026-11-20T22:10:36.540160+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Xometry (NASDAQ:XMTR) Shows High Growth Momentum With a Breakout Setup - ChartMill",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcW8xbHpyUkdKVUwzd1g5VjRHTnFWNWVwUm93WngtcFRYZGZ4TVNGYjU0bm9iSlJ0bF9lVWVUQTJicDh0bEFRNmNhQWczb1RIY3djRmhWSFZqRjFDdGlDRnduZmtwT2NVSXRLRjhiLVJrQURBMzJVM2llcnMtUUJqWjRGbXBiSHZyLTRsVDJnY1cyWGhSVUJhVFFNTE80TkNNRHFlWlhLRlVXOEctTFpSU1JLak04bUFHTnBr?oc=5",
-   "date": "Fri, 20 Nov 2026 11:21:11 GMT",
-   "vu_le": "2026-11-20T22:10:36.540160+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Construction Partners (ROAD) Could Be 42% Undervalued After Earnings Guidance Lands - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY0V5RVI0aGlZNTlDbGI5ekhUS1RqUWREZjR4TEt0cjNGZllDaUU2WlVPQ2pMY09TS3dUTXA5RS1kcEktVmFtUzREZkdRRkNWbWtZZ3dndEkxajgwTUxITlpqY0t6NXhBWjV3SnI2NnJoOWMtS3hlMVR0ZUtfYWI4NWd0YW44ZGRreGdSczl5ekhVam1SZnNoUGVldkFId0tHM1E?oc=5",
-   "date": "Fri, 20 Nov 2026 03:13:00 GMT",
-   "vu_le": "2026-11-20T22:10:36.540160+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Does Earnings Beat Change The Bull Case For Norbit (OB:NORBT)? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa0NxV3c5a2RsN1FyaHJ4TDFTR29pRmhSWHVuNmxPdEJYQzBReV90QWI5RVBJWlJISWJlUVBKb1ZQVENLSHVHM1o5eEl4NDZROURQRGZoSzFXWlJoOTJuTTNYSWtaVm9KTTlvT3k5NGFtMGZheHMzbFJwWVJpQUZ1bXRHS2hkbXozeVg0QThMV2R2OG55V2l2WWZZSQ?oc=5",
-   "date": "Fri, 20 Nov 2026 01:10:00 GMT",
-   "vu_le": "2026-11-20T22:10:36.540160+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Learn Why The Bull Case For Everpure Stock Could Change Following Earnings Beat - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQelhlNFMta3FUaGozQXEtTWVqREhoSTQ2UHhhUTRzQkNvUmlSd2ViUWNfMUZLa3RIcEd3cW4zYkpKVVJpQnQ2LWhydUd3b2t3djdOOVQ3dXh5NlBIY1U1VGpOeWVldWFjeTQ0MTFCU2NmNGZDSG9uN1dpRElocWNaSTNHRQ?oc=5",
-   "date": "Fri, 20 Nov 2026 02:10:00 GMT",
    "vu_le": "2026-11-20T22:10:36.540160+00:00"
   }
  ],
