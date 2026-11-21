@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T10:00:35.606738+00:00",
+ "mis_a_jour": "2026-11-21T10:10:35.419993+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52922.39,
+   "prix": 52999.99,
    "devise": "EUR",
-   "jour_pct": -1.4,
-   "mois_pct": -29.27,
-   "volume": 203.99213802,
+   "jour_pct": -1.25,
+   "mois_pct": -29.16,
+   "volume": 204.5400594,
    "volume_relatif": 0.98,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic says it will put humanity first. Will its IPO change that? - NPR",
+   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWZST3piU2NqZVJlVFlPQU9BY1F3eXNMR3VQdVd3OTRTcUF0b0FHSmp3MFZpZHFYaWNrOE9zRnl5LXBlNDlwaXQxaHhKY0VDVjQyVHhiT2ZQZHA0c2pwWFJ2VkItZEtmMHFfSmg3VU44dHgta0VnUHNVZy1sZGhRT0V3?oc=5",
+   "date": "Sat, 21 Nov 2026 10:00:00 GMT",
+   "vu_le": "2026-11-21T10:10:35.419993+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "Should You Really Buy Anthropic Stock After Its Historic IPO? History Offers a Clear Answer. - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUtLb0Nkejh1QklVOWVhYWx2aDd2SXcwRHN5S0V3NlhlRVJXNjF4QVRwUzE3UmRTU1dfdXNTRUdJZ3ZOM3lhdm1jNW5CakdSblg5TmJiRW5vSUxqdUU2cVREZGpjcHEzYTU5WUUwUnl0UlAxbXoyV1FVQ0NhTFZsbnprYzNwN1dZdDFfbVdWY0FEZHFwdGZvNFFTbXdrNnZ4b0E?oc=5",
+   "date": "Sat, 21 Nov 2026 09:24:02 GMT",
+   "vu_le": "2026-11-21T10:10:35.419993+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Should You Really Buy Anthropic Stock After Its Historic IPO? History Offers a Clear Answer. - Yahoo Finance",
@@ -6538,20 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQmdhRkxGSEh3V3l5RmFRUW9ZcUVTR0FFM2s3Z0ZXQThLUGVCaERTdGlFdFBrZW5xbnpKX1BaMEtVN2YxclRRUkg5dUZuTklGYXBlelhKTlotWEx1RVc3SUdTMjZNQ1REdGlPRzNJVzAtcXI2cVY2QmtBb0o0OHZsY05iLTVBZXE2YVdFNmRYSmMzdWZFbXZpZmszODFDajFjaUx0TWFTSVJsMERUQU9VRVMwMjN3cnR5S2d6a2lVRXJkRkNHQ1JNb2pRTzg?oc=5",
    "date": "Fri, 20 Nov 2026 13:50:14 GMT",
    "vu_le": "2026-11-20T17:40:35.059164+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Plunges to $59,000, Its Lowest Level Since July - www.trendingtopics.eu",
-   "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtdWVaN2ExZ0dvZ09zRFlsZ0dIYV9tNXh5cUlPMGttemhrOHRRWVY2LVh3cWpiM3praHdhVlNhcUJBOW0tdXRnWXV2RVdNZGxIU3VmS0hfc0I2THVRZnY4MzFnOGI1eEg1RWRMd1ZRVVBFSks5aXFkdnVn?oc=5",
-   "date": "Fri, 20 Nov 2026 17:32:57 GMT",
-   "vu_le": "2026-11-20T17:40:35.059164+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic plonge après des débuts fulgurants, alors que les inquiétudes liées à l'IA persistent - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNGlwTGdhVDRDa3k3VVJ1Q3RQVzJBcUdZN1FRREFjMTB5ZlRaa3NtQThHMXdXNUFsMHFxLXJjTmdlN2M0YTUybElPMEs3M21PMWMweTZLcU1lS0JGeGNDRmNOY1hPbmxXME5EUGN0Z282emloT1ZNeDFYWlRxVEVCTkZzN0kwRTBIaUZPbkR2UUc0Y3BPY3ZzN2JCY25Vb3JkNHk2MTh0S0dNS29LeGdMRlh0ZGNWWFN1SXY1WVZuSF9qTWh6dEFibHdsRVVMTjR1c3lZM1h4bVlZNGlUcW9UR3lqc1o5ZlV2eU1YQUN3WFZlcDhjelk2VVRHSzk4b1dMc3hhUUU1QdIBhwJBVV95cUxPNGlwTGdhVDRDa3k3VVJ1Q3RQVzJBcUdZN1FRREFjMTB5ZlRaa3NtQThHMXdXNUFsMHFxLXJjTmdlN2M0YTUybElPMEs3M21PMWMweTZLcU1lS0JGeGNDRmNOY1hPbmxXME5EUGN0Z282emloT1ZNeDFYWlRxVEVCTkZzN0kwRTBIaUZPbkR2UUc0Y3BPY3ZzN2JCY25Vb3JkNHk2MTh0S0dNS29LeGdMRlh0ZGNWWFN1SXY1WVZuSF9qTWh6dEFibHdsRVVMTjR1c3lZM1h4bVlZNGlUcW9UR3lqc1o5ZlV2eU1YQUN3WFZlcDhjelk2VVRHSzk4b1dMc3hhUUU1QQ?oc=5",
-   "date": "Fri, 20 Nov 2026 14:36:35 GMT",
-   "vu_le": "2026-11-20T17:30:37.127167+00:00"
   }
  ],
  "erreurs": []
