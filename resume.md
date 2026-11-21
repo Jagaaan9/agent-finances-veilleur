@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54956.1 EUR, jour 2.39 %, mois -26.55 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54839.93 EUR, jour 2.17 %, mois -26.7 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,8 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] SSE Composite Drops to 3,533.79 as the AI Trade Cools and China Holds Rates - BBN Times
+- [Crypto] What Bitcoin Did After SpaceX’s IPO and What It Could Do After Anthropic’s - 24/7 Wall St.
 - [Anthropic (FR)] JO de Paris à 7 milliards, émeutes à 207 millions, Anthropic en Bourse… Les cinq infos économiques de la semaine - lejdd.fr
 - [Intelligence artificielle] Coherent stock falls 15% as the AI chip rout hits optical suppliers - Startup Fortune
 - [Intelligence artificielle] Inference now drives two-thirds of AI workloads, changing where chips get deployed - SiliconANGLE
@@ -455,6 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] After the Midterm Elections, VanEck's Matthew Sigel Is Still Bullish on Bitcoin. Here's Why He's Right. - The Motley Fool
 - [Anthropic] I’m taking the Warren Buffett approach to Anthropic stock! - Yahoo Finance UK
 - [Banques centrales et taux] BCE : l’IA, au premier rang des préoccupations immédiates du secteur financier - Le Revenu
-- [Chine et Asie] Goldman Sachs upgrades Chinese H-shares to overweight, forecasts a 23% gain for MSCI China next year - MLQ.ai
-- [Chine et Asie] Hang Seng TECH Index (HSTECH.HK) charts, data and news - Yahoo Finance Singapore
-- [Chine
+- [Chine et Asie] Goldman S

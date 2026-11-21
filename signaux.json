@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T18:40:35.753245+00:00",
+ "mis_a_jour": "2026-11-21T18:50:34.845739+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54956.1,
+   "prix": 54839.93,
    "devise": "EUR",
-   "jour_pct": 2.39,
-   "mois_pct": -26.55,
-   "volume": 380.04800778,
-   "volume_relatif": 1.82,
+   "jour_pct": 2.17,
+   "mois_pct": -26.7,
+   "volume": 380.74601456,
+   "volume_relatif": 1.83,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3754,6 +3754,20 @@
  },
  "actualites": [
   {
+   "sujet": "Chine et Asie",
+   "titre": "SSE Composite Drops to 3,533.79 as the AI Trade Cools and China Holds Rates - BBN Times",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXktYnZXX3ZXblJCVWxFUkFxaFRfRG5LUV9xWUNYbWRsNi1UN3o1OFNoVGVQZmZtX09PNlUyTjVHcUVma2tGMWxmX053eEIyYXFNd0hSNGxQemJFMVd2OHVIaVFmM2RISlNpNnNVNEFPY1h0STJvNUhfcGFxb0k0bFV5Vm80eXRxWGdBM2pBR2lSbzUtZEo0bGtOTF9CbkxlSVI1MldkNm9NRHRsWU5neV9ZSHNyZw?oc=5",
+   "date": "Fri, 20 Nov 2026 21:58:24 GMT",
+   "vu_le": "2026-11-21T18:50:34.845739+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "What Bitcoin Did After SpaceX’s IPO and What It Could Do After Anthropic’s - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHJqdk05Nl8yLWhyeThBdHNGTnVjaGZ2MzE3aERfZGJUaW1ybU95OXZxRWkxcUhBVVV4MWV4Q2ZYa2w2ZzFBNzhmZGNmM3FkV00yRUxyUWlyVERJWElmQ2o1dnl0NG50Ulh5Wl9VN21XdVRXMlpwZlZvMlgxWGYwWGQ5TW03cHphSXptYjdsUXdDOG5abHYtOTNyWTdscUZOR3ZydGVqWHY2MTJucjNrTTdEbG42YU12V1AyUGhrTEE1OHZ6cDJRTlVPYw?oc=5",
+   "date": "Sat, 21 Nov 2026 18:12:00 GMT",
+   "vu_le": "2026-11-21T18:50:34.845739+00:00"
+  },
+  {
    "sujet": "Anthropic (FR)",
    "titre": "JO de Paris à 7 milliards, émeutes à 207 millions, Anthropic en Bourse… Les cinq infos économiques de la semaine - lejdd.fr",
    "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM3pTOXp3WE5yR3NOdEt3akt3bXFxaDlHSXBUMm5MTTVXbGRaeVE2NDRJTFV5VE9aWUdwYkpvMDlXSVZtOC1xcHBEcExJRGY0UzM1dkZwUUZVS1pVUk13cmFVY0xWVGppTC1HUzlhU0ZRd3ZjSlRPSzFsTkNoSG5ZYjJrOGNOSGMyV29pcXBPQzR6aU5pSjAyNW82aU05UXNTRHJJeGt2Z2lGamF4dUJ5LWpXSnhWSHp2empLRmJjanhaczZmTXdXV0diX3Q2dlpsYkpONGtuYktUMXNqTFZB?oc=5",
@@ -6537,20 +6551,6 @@
    "titre": "Could Jensen Huang Land At Nvidia Rival Intel? - Investor's Business Daily",
    "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYkhHQm5ncjdJOUttaW5CRkVUV0RWTlE4c29LVlRFVnRqWmwtcWhOWmdXeTB5bVlIZExWb3ZSLW1IVWIwM0ZkS3pIZTgxOHNOOGtiVHlWWEhrbVZOV1ZHVGZnY3p4U2U0eWJWeVBvV2Zyc3lOM0h0ZDhmV3NaQ2prLXU3eUdJTVh3ZnI0dmZHbXBLdw?oc=5",
    "date": "Fri, 20 Nov 2026 21:28:00 GMT",
-   "vu_le": "2026-11-21T04:20:35.590720+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Three Defensive TSX Stocks to Serve as Bear Market Buffers - NAI500",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2FveWF6bWQwaW1hUVJzbkxlWkh2NWNnV0tMMWFGS1pRVDBoNFdWVnpvb3ItWFBFbHEzdUxaang5aVAxRnVidVIyNTcycG1OSjNuUk9iNkR5N1VrdlZOUWdfUHRUTFFPR1Z5XzI2ZlZ5VGRqbU80SGVYaDRObmZMX2dTVHBnVHlMRGlQUXhfbHg2VlViTlE?oc=5",
-   "date": "Sat, 21 Nov 2026 01:43:51 GMT",
-   "vu_le": "2026-11-21T04:20:35.590720+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Top Applied Aerospace & Defense (AADX) Competitors 2026 - MarketBeat",
-   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vb3NDaUdGb2I1TXNQRUdiOWRvNDZVNFJvVkNtOGpHRnctZnhSZTY4WWlNNkRHNWxBRVg5Vi1qVFh5WUIybURDSGN0QmRNN1F5WTFWR1pKRDVMLXhOVEVQOXZ4WmRPRk9HMExkWGdKSWItNXJlUHBiN1pxREVnZw?oc=5",
-   "date": "Sat, 21 Nov 2026 00:04:54 GMT",
    "vu_le": "2026-11-21T04:20:35.590720+00:00"
   }
  ],
