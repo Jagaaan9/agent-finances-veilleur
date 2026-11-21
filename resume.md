@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55041.78 EUR, jour 2.55 %, mois -26.43 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55090.56 EUR, jour 2.64 %, mois -26.37 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,15 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic Stock Debut: From $83 IPO to a $97.17 Close - Memeburn
+- [Banques centrales et taux] Wall Street dévisse, mais le "Fed put" reste hors de portée - Zonebourse Suisse
+- [Banques centrales et taux] BCE : Les États-Unis, la Russie et la Chine se rencontrent pour se partager le pouvoir mondial - IDNFinancials
+- [Banques centrales et taux] Une hausse des taux en septembre probablement insuffisante pour contenir l’inflation, estime Cook, de la Fed - Zonebourse Suisse
+- [Intelligence artificielle] Worried About a Market Crash? This AI Stock Should Bounce Back Fastest. - The Globe and Mail
+- [Résultats d'entreprises] Is Genuine Parts (GPC) Undervalued On Its Earnings Miss And Planned Breakup? - Yahoo Finance
+- [Défense, énergie, matières premières] Applied Aerospace & Defense, Inc. (AADX) stock price, news, quote and history - Yahoo Finance UK
+- [Crypto] BTC price on Nov 21, 2026 at 3pm EST Crypto Prediction Market - Robinhood
+- [Crypto] Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch - CryptoSlate
 - [Anthropic] How to Go 2x Long Anthropic (ANT): Leverage Shares by Themes Explains ANUU, the 2x Leveraged Anthropic ETF Launching Monday - TradingView
 - [Marchés mondiaux] Worried About Black Monday? What Wall Street Says Could Happen. - Barron's
 - [Rachats et fusions] Boston Scientific Prices $7.25 Billion in Dollar and Euro Notes for Penumbra Deal - TradingView
@@ -448,12 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Rachats et fusions] As the EQT deal moves forward, Range Resources (RRC) updates its FAQ for employees on accrued vacation. - Stock Titan
 - [Crypto] Bitcoin Loses $60K for First Time Since July as AI Stocks Crash - Bitbo
 - [Crypto] Dogecoin price on Nov 21, 2026 at 7am EST Crypto Prediction Market - Robinhood
-- [Marchés mondiaux] A 10% drop for the stock market is unnerving, but it's not that unusual - ABC News - Breaking News, Latest News and Videos
-- [Marchés mondiaux] Wall Street’s Fear Index Just Hit 9.7. History Says the S&P 500 Could Rally 10.5% in 3 Weeks - Yahoo Finance
-- [Bourse de Paris et Europe] L'Europe finit en nette baisse, l'IA secoue le Nasdaq - Boursorama
-- [Bourse de Paris et Europe] Présidentielle: près d'un maire sur deux exclut de parrainer un candidat - Bourse Direct
-- [Banques centrales et taux] Trump accuse la Réserve fédérale d’être très politisée et s’en prend aux taux d’intérêt élevés - Demócrata
-- [Banques centrales et taux] Nagel (Bundesbank) défend que la BCE relève les taux jusqu’à un niveau restrictif pour l’économie - Demócrata
-- [Banques centrales et taux] Lisa Cook, de la Fed, appelle à de nouvelles hausses de taux face à une inflation persistante - Actualités et statistiques - IndexBox
-- [Défense, énergie, matières premières] 3 Space Stocks With Revenue Growth Up To 16% - Yahoo Finance
-- [Crypto] Bitcoin Price Today, November 21, 2026
+- [Marchés mondi
