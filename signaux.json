@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T21:30:35.251628+00:00",
+ "mis_a_jour": "2026-11-21T21:40:35.983624+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55121.86,
+   "prix": 55084.32,
    "devise": "EUR",
-   "jour_pct": 2.7,
-   "mois_pct": -26.33,
-   "volume": 404.20763634,
+   "jour_pct": 2.63,
+   "mois_pct": -26.38,
+   "volume": 404.63325088,
    "volume_relatif": 1.94,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Bay areas cooperation: Complementary partnerships, broader opening up - CGTN",
+   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONlZDQnBYa0hSM2VmWXBpNzdYTHhLNkZDUEVPeE8wcjh1dDg0Q0FZVTFYODZLVXZzTGpwbHZMNzVZTkl5Y0hzcmdSekVlUV8yRlFhRkcyTE9BbU8ybThMRTd4S2s3aDZlUzRpVTZsR0VleHIzX1FOc1BJSl9MTG9nTmMtZVlSOHp4ZGI4SUs3YUFpTThMUlgtZkd0MVNyS0JYeWhiQ2V5bzdYZTVua2U1ZzBrel9kYmVIbEtYOWdURWdJQQ?oc=5",
+   "date": "Sat, 21 Nov 2026 07:17:25 GMT",
+   "vu_le": "2026-11-21T21:40:35.983624+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "MSCI Report: The Anatomy of US Equities - VanEck",
+   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbG85cXdndTNJM184Y0JRcmRVTEp2VDZiVld5dDRLT0RTRHdleVlFSGdOUVpmSDBSa0NhWFgyUjU0VTQ2aVBCaldldW5RZkJEZGt5SS1Jc1pOLU5xM3NNSE04X3haMG9NUUhXTE4xaHc5bktMeW5XMThTbURKS3gxUEMtdHlZV0Nvc1pNMA?oc=5",
+   "date": "Sat, 21 Nov 2026 06:04:02 GMT",
+   "vu_le": "2026-11-21T21:40:35.983624+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Indonesia’s OJK Cracks Down On Stock Manipulation Cases - Finimize",
+   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVN4bW5Obk9SaXppTWQ1NXB2UmMzUzBMMlROT1pycnJvQVE1bTVJSGhmV3ptQ1c1eDgxT28wVHd1cUp5cHF1SnYzTFhFSnVWTUJ0UXNaQXJXbTdONTBzMktDZ2RBV1RHaWJUcHhpOTVaLXBIeWo0U2ZGOFVJWkQtOGFHTnZrX19EcVlN?oc=5",
+   "date": "Sat, 21 Nov 2026 07:37:52 GMT",
+   "vu_le": "2026-11-21T21:40:35.983624+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Form 4 Janus Investment Fund For: 21 November By Investing.com - Investing.com India",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMm5JX2ZMRkNFaHBUOVo5YTZxcmFvOFktYjREbkxsbWlvMlAxa1hac05ram02U0ZzMjlvUG55Qlh2YmJDaDM5VnJ5cXZTa3g5ODZXa1hhNWNZcnRKTXRWWkdXbEF0SDVES2NEbWtzZVI4cXhaV2o3SURzbUZBTVc1enVMaVRtR3J0NUtid3Rsbl9CTUJJdnQxZE1MNVY2OFFEZWlyLTJpcmc5QQ?oc=5",
+   "date": "Sat, 21 Nov 2026 17:07:16 GMT",
+   "vu_le": "2026-11-21T21:40:35.983624+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "META_TITLE_SECTORS - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KOFBhX0cwcURCekpUS0tkVExiSFRVeXdtWF9qWnNuN1ZUU3A0eE80VGd0cVdDS2pNN0lpU1JncU1kSkp2UFd6R1JqYzJ5NjY3M2syZkphVQ?oc=5",
+   "date": "Sat, 21 Nov 2026 08:12:09 GMT",
+   "vu_le": "2026-11-21T21:40:35.983624+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "IPO d'Anthropic ANT : cours de l'action Claude et faits clés 2026 - Bleap",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTFtNllCZ185aGplLW0zamNtUkJpdzBTaGJjeWcwYkctQWNQOEFVOGdtTFk1WFVCTlNZdnNvOU9pOV8yZU81Y1IzNE9nWm9FVDBJWV9CMHBfUFVpcmlwU1poVUZmUzhiLTZnTTJxTC1sRHRsOFFFeG5maHBFRHFoNHZSUlREaEpGSWFHQ1AxMWp5Ti1TNTZDdzBrZ3JyQlVaRTZWLXhaX1EwRmFXRXBuQ2VOS0RnMENrcUJPR04ydFQ?oc=5",
    "date": "Sat, 21 Nov 2026 09:25:07 GMT",
    "vu_le": "2026-11-21T09:30:35.388182+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street reels as AI-linked companies spark massive sell-off in the US - Le Monde.fr",
-   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbWprYlF0cUdvTmlON2ZFYlZZZ2FSOG9UREl3bnhOZmtWZ01JNlFZTDc1UnNRdGVPb2JNUlNsbGlQZFVSUDVlLXROVTVxQkN3SXpSSEVnS0lYcWVwOFh1RjQwd3FzNzlaU0x6b3g1d3AwN1JZdUdXSENTMGNCajhhdHBJOWdkUWwtMFVSaTZfdnd5eVhHNVc2aWJUWG1mUHlkcXV4NVphS2FPRW1rdTRfQktSTWljSE9qYU03eUlKdmxVWVc4a2tZeC05QmxLZFUwWW1tVmJDZkZqQQ?oc=5",
-   "date": "Sat, 21 Nov 2026 09:20:07 GMT",
-   "vu_le": "2026-11-21T09:30:35.388182+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Hua Hong Grace Semiconductor Limited (1347.HK) stock price, news, quote and history - Yahoo Finance Singapore",
-   "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNVFE5RWg2aWVENGxHbkpfMkYyWU9RRW5RN2tYSXUwbE9LLVFWVVRFSlVCeWE3Mm9sdEJKanE1VG0wTFgxZER4dndOYzZmMWg0UjNkNzdR?oc=5",
-   "date": "Fri, 20 Nov 2026 16:44:38 GMT",
-   "vu_le": "2026-11-21T09:30:35.388182+00:00"
-  },
-  {
-   "sujet": "Introductions en bourse",
-   "titre": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNUpWcDZJUW91SFhYbmw0RkdGcnV2dlZ1c1Z1U0FEa3V2YkNJQWUxaTZrczJiSHpIekswcWZsRFFrNE51dF92VUlEamNiZVU3ZkhKcW13cC1kRnZ0N2RxblJ4NGpUOUdhYVFlTlZPbmZEaHRtVzdkZkFqdmFlYzdMeGZPb1JsZFVQZUQxOFlpdXZvbnVOazZCU2NnSms1VmFlcTluR1NpTXBrZ9IBrwFBVV95cUxNTDVvV3o1REFNcEl1LW5pTFptUmVWaFppS3V5RWp4MnlDSkpwSjhWNm5vRWxpbmZhbG9XSGc1YXNiYzhCUTNmaUJoZkJSdElKX29ycFpvcDY0bnlKYTIzTl9CZVlpdm5NWmszSHdSbHdyOUl3czl2VmdOM1FxcFNwYnBZOHRIbWRVYUppLUxFZlJlQmhiV1Uwa2ZuU1YzNHo4ei1rWUwwOG9mai1GTUVZ?oc=5",
-   "date": "Fri, 20 Nov 2026 11:00:01 GMT",
-   "vu_le": "2026-11-21T09:30:35.388182+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Deux jours après son entrée en bourse Anthropic chute de 12%, le Nasdaq recule de 3% - RTBF",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZU02SVktRHdzbUZHNHJiTEZMMFBTeWZyZHA2ZU9uOC1mb1NXZHo3dXdNelB1TFdHVHVmWE5pbUZFLUZ5cWNKS0VFcHVjMEE4dEV6MFBrX3BBRXZkMzFCTlFnN3M5TEpnUDYwQnF4UWp4amNWYlY3cWJKMWQya2NUSnp1OXFNZGpiRVYwTlpfSFB1UUc3eHQwZVdreTR0Z0xnQ1FUNnl0RnpiVkd0dGl6Tmo3SC1NcE1TSGc?oc=5",
-   "date": "Sat, 21 Nov 2026 09:01:49 GMT",
-   "vu_le": "2026-11-21T09:10:36.095637+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic signe une entrée en Bourse historique, malgré les turbulences pour l'IA - La Provence",
-   "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYzRxZDI3T0s3VGZvdWtGNmgxZHVJZ3dyXy11TUJGNVVLbjZIMGE5RzQxV1hVSzBzWFZnNjBzYjMzSEI4WnBySGdpYTRnTmhMakFPSTBGOXdORkotaXVjTEJITWtpU2NITWZuWUNOaTl4c0JSSHVJU2JfYkJGZUR0LVM5bVNzTUNfWERZRl84UzRTanNJYXdyWXJ3WHNHSUpBTHVnOGItd1RLQ2FGM2xIaHFMWjBsVWZmNnN5SG55WElCd3l0NjVZaGxsTHlPcjVnOWpOaEF4YVJ5dERZWEFMb2RsUGJBTFk?oc=5",
-   "date": "Sat, 21 Nov 2026 01:34:24 GMT",
-   "vu_le": "2026-11-21T09:10:36.095637+00:00"
   }
  ],
  "erreurs": []
