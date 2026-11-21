@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T08:10:35.243799+00:00",
+ "mis_a_jour": "2026-11-21T08:20:35.729902+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52709.57,
+   "prix": 52741.16,
    "devise": "EUR",
-   "jour_pct": -1.8,
-   "mois_pct": -29.55,
-   "volume": 155.52867138,
-   "volume_relatif": 0.75,
+   "jour_pct": -1.74,
+   "mois_pct": -29.51,
+   "volume": 161.67643111,
+   "volume_relatif": 0.78,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3754,6 +3754,13 @@
  },
  "actualites": [
   {
+   "sujet": "Pays émergents",
+   "titre": "Asset managers highlight resilience despite weaker results and outflows - thenational.co.za",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcGZtY0ZOWGMwcHhpSi01MWFMMlZPTC1wOE5zbjJTY2dEZWFRTDYtSHlDODVXNTAySmlZeTNFWEdKMW9MdXZ0OEJDU2lIcGJzVGNyU1FMTXVLYmdFRHVTZ2JGYXg5RFlDVmtXRExndlNUdTZCdlB1eTdibDMzbG5DcHliQWhuOFl6MTAwNFdsbjR6X3Z0bUcwNUFTalR3b1l5VVhfNmJURkhlbFkzSG1XM1JsaTE?oc=5",
+   "date": "Sat, 21 Nov 2026 08:00:00 GMT",
+   "vu_le": "2026-11-21T08:20:35.729902+00:00"
+  },
+  {
    "sujet": "Chine et Asie",
    "titre": "China’s Popular Dining Bar Chain Starts Global Conquest in Hong Kong - Bloomberg.com",
    "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlpkLWlZbDk5VlJtTGNxQ3Q4bW8wWGRVZ1A0YWJQMXFHQlZIUy1rS2VMMUVOVXNBcUIxN2E1dEluSEVIbjFvZjVWQ1RhYUktMTU3WVJfelZ0MG1mcTRhck5EbGU3SkxITlFBY1dQZDBySE9lbjdMWUpUNmNwN1JhYjAxTFF6Nl9wZEZfbUU3Z0QxZTR6NDlaM21fU0s0bkpLMFhlZUtscmFIRnFkdm5OX3REZllkbkdCQzRudDNuODFjR2JS?oc=5",
@@ -6544,13 +6551,6 @@
    "titre": "WisdomTree (WT) Surges on Record AUM, Broad-Based Inflows, and Margin Expansion - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHdJM193cjh0TzYwWmhmUHV4UXNOcS01YmxrQ1dMVkNpYUhhbUtfaGI4Z2xGWWp1bXNBUWJxaENFU25OSVB0emZCNWtNOWtMUlVaN0t4NDBoR015cmdnbjh4V3N5aEQ1ZWx0cnVobmRmdnRBelJWaFVsUlpIU2p0U0lqdXMzQU14RnFIMUlRR3Y5THFWbFJKeXYzMmo?oc=5",
    "date": "Fri, 20 Nov 2026 16:37:17 GMT",
-   "vu_le": "2026-11-20T17:00:35.750332+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "FDA Filing Could Change The Case For Compass Pathways Stock (CMPS) - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeFVCcGdpV3oyVU9JMFdWa2dlLVJ4X0V1VFNHeC1JbDZQanA0dUlsR3hQaERtcWhHQ2EyVzVuZjFwUEJTT0I5N1piRmxuZHRfcTFBQUV4TVJLeVNwX2xIaGQyaU1ia0NhVHRTcWp0ZnZaVzE4NHNSQ0xhU1ZZS2RDal9CbThUbE1jcUpzdHI0dnkxZ1BqSEE2djh5Y1FpTDdUNW83cm55Y2F3dWtVQkd6c3JUZ09JNHlnQlhpcGlDNFBiSl9OLTVyOVN6TS16aTBuSm1xdHVBRS1MSExDOS05ZFlnVQ?oc=5",
-   "date": "Fri, 20 Nov 2026 15:11:21 GMT",
    "vu_le": "2026-11-20T17:00:35.750332+00:00"
   }
  ],
