@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T04:10:35.095554+00:00",
+ "mis_a_jour": "2026-11-21T04:20:35.590720+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 50983.12,
+   "prix": 51024.77,
    "devise": "EUR",
-   "jour_pct": -5.01,
-   "mois_pct": -31.86,
-   "volume": 94.80948543,
-   "volume_relatif": 0.45,
+   "jour_pct": -4.93,
+   "mois_pct": -31.8,
+   "volume": 101.18046894,
+   "volume_relatif": 0.49,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3323658863800,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3323658863800,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3323658863800,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Could Jensen Huang Land At Nvidia Rival Intel? - Investor's Business Daily",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYkhHQm5ncjdJOUttaW5CRkVUV0RWTlE4c29LVlRFVnRqWmwtcWhOWmdXeTB5bVlIZExWb3ZSLW1IVWIwM0ZkS3pIZTgxOHNOOGtiVHlWWEhrbVZOV1ZHVGZnY3p4U2U0eWJWeVBvV2Zyc3lOM0h0ZDhmV3NaQ2prLXU3eUdJTVh3ZnI0dmZHbXBLdw?oc=5",
+   "date": "Fri, 20 Nov 2026 21:28:00 GMT",
+   "vu_le": "2026-11-21T04:20:35.590720+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Three Defensive TSX Stocks to Serve as Bear Market Buffers - NAI500",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2FveWF6bWQwaW1hUVJzbkxlWkh2NWNnV0tMMWFGS1pRVDBoNFdWVnpvb3ItWFBFbHEzdUxaang5aVAxRnVidVIyNTcycG1OSjNuUk9iNkR5N1VrdlZOUWdfUHRUTFFPR1Z5XzI2ZlZ5VGRqbU80SGVYaDRObmZMX2dTVHBnVHlMRGlQUXhfbHg2VlViTlE?oc=5",
+   "date": "Sat, 21 Nov 2026 01:43:51 GMT",
+   "vu_le": "2026-11-21T04:20:35.590720+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Top Applied Aerospace & Defense (AADX) Competitors 2026 - MarketBeat",
+   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vb3NDaUdGb2I1TXNQRUdiOWRvNDZVNFJvVkNtOGpHRnctZnhSZTY4WWlNNkRHNWxBRVg5Vi1qVFh5WUIybURDSGN0QmRNN1F5WTFWR1pKRDVMLXhOVEVQOXZ4WmRPRk9HMExkWGdKSWItNXJlUHBiN1pxREVnZw?oc=5",
+   "date": "Sat, 21 Nov 2026 00:04:54 GMT",
+   "vu_le": "2026-11-21T04:20:35.590720+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Goldman Says Stock Selloff Has Legs as Panic Index Nears Maximum - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaU1jaG5wWHRDVVE3anRoZWtQUlpsTDhnbHVfRDNMSWVidGlNS0RNY2o4QmV4NnNSVThSRnc0VkVfcmx3SVhUMVF2RWtKalBYWERvUDdLd29yT0VXMEx3enNzeGNUTk1uVkhoaDVMZ25URDd4ZVkyVVhnZjhJMlI4UlBGOFV0UGc4NGN0Ulp0UnlXT0dUMk5XV01DYTEzMlBNaHRPX0Z5bnIyeGk0cktoYmxObE1WUQ?oc=5",
+   "date": "Fri, 20 Nov 2026 21:20:55 GMT",
+   "vu_le": "2026-11-21T04:20:35.590720+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 21, 2026 at 12am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQnlLWng4R3pLV2Z4ZHNvS3hxT1k2TUhBQ3BKb1EtN0JFVUpxNmJ5Y0dHLUljR0JMWXVuYXdwUTJEVzIzVU5FelJWNHp6bEk1clhoQ3NpOW0wYXVQMjdhcjNyaWdLNDBHMmtfWVI5NzlTby0yd0dVX0ZUNWtuaTFNQVZVRUZlT3lsSXJxZkFIUEwzbXVMNTE5TDRORklLa0hLVnlXZzFib3BReFVJSWN3?oc=5",
+   "date": "Sat, 21 Nov 2026 04:14:33 GMT",
+   "vu_le": "2026-11-21T04:20:35.590720+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone - CoinDesk",
+   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVXQyRVlCTU5XNjdyZDVyTnNOVTUzVGlyWHAxYk5CUm9tME1VTllrVWNaREZHVkpzRVhYX1Q0ajZMUjBiUUloMTFvNGdxRFVlNlRYVkplVEJ1em4waFRfTFVCQXRPRlBhT29NSndpNGRDcVdtbW9Cdkl2NjQxZW1NSGVRcmJhbVFMSTlveGVwOGFSdWRnUXhVUi1UVmNwTjhqTjUtUDB4Q1VIR0duRjNyLW9MN0FFQmZSbFJGeE5kVHE?oc=5",
+   "date": "Sat, 21 Nov 2026 04:12:18 GMT",
+   "vu_le": "2026-11-21T04:20:35.590720+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Tumbles to Two-Year Low Under $58,000 as $2 Billion in Bullish Bets Get Wiped Out - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nUEY5OXFCZ2pyT3ZsZzJXdm1ONEZfeW55MVp5dlNKVEpyN2NjMVFSV2ZkdXE3SVVEaXFMLTRnT01JeUs3Zjg1bGw1QnZUQnM1N2FLN3JnVzIzYWtyUGhrV09QOGZqS0JBM3Q4RzFabHlleXU1UkE?oc=5",
+   "date": "Sat, 21 Nov 2026 03:25:00 GMT",
+   "vu_le": "2026-11-21T04:20:35.590720+00:00"
+  },
   {
    "sujet": "Petites valeurs en croissance",
    "titre": "Photronics (PLAB) Stock Could Be 29% Undervalued Despite Fresh AI Supply Chain Uncertainty - Yahoo Finance",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcGlJaWZpVjhzcEszLWJsUFlMSEpsckp4YTBUZnNUMzVCYVhHWENqU0JxQk1ZWHVUUkV1a1FEbkJaYkRvSUlPa0prZVVhSEowSEo3N05lSjRwN0NNMkg1YTZ3MEJFQmdleEEyWENfUmt5NWhrN2ZIM0FyeFpndTEtUUtZdEZhd0hfN0hER0RvZHNZVHAwMWJITC1uVXNNd1U5cmxEa2VqejFBWFlwNXc?oc=5",
    "date": "Thu, 19 Nov 2026 17:46:19 GMT",
    "vu_le": "2026-11-20T15:20:35.390665+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "BASF Ends Evonik Takeover Pursuit After Rejected €24/Share Bid - ChemAnalyst",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRS1udHU2b3ZVVTJtZ1AtcUhPSUd6ZXhuVHNGNzduSmc2RFVwT2tlVFNra2MxUUVYNVVxc3F0LXdNVi1Lb2lzVVZKUFZ5NFhHc0pubXk5QWIwekN1YkU3RlBtanVkYUxWUDEtT0pqa0xNRHdLWElINU5UZDVrUkFTWWo1ZHRGLUh3ODNOekRSOEF3cWZ5QUxPRmlKYkYtSUFOc3J4YXhxUTRHb0V5cmR4N2ZQbk9LWUE?oc=5",
-   "date": "Fri, 20 Nov 2026 13:48:54 GMT",
-   "vu_le": "2026-11-20T15:20:35.390665+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin ETF Outflows In November Near $3.5 Billion - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeHRkRVlPS0lxaDI5ZGZqLUJ5MWNtaTZRUkNUTUZybWJtQ2kwQlJ6WVFCNHZaVUhVc1RkS0NQcUxSWjdrZzFuMHpkaTFPZWF1MVBLQVdOSVZaMVktaGFRNmhUaFBCb2hKa1FKZWNMY3RPZVk4ZGU1MHhTQkxNOGhnSEtGbnM2UkNneFlBb0FicmFtUW1sVnZuT3g3dEV6TXFr?oc=5",
-   "date": "Fri, 20 Nov 2026 15:00:00 GMT",
-   "vu_le": "2026-11-20T15:20:35.390665+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin selloff: Crypto is failing the 'digital gold' test again as it sinks with stocks - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02OVNPeVBBRWFNM0RxSndNZ2NPQnE3amxmMEpmenlKMm9COUdneHlXbUNTaXFwdjVsQnFQbGg1dTctVXZ0cDd4VTZTY1ZWYThiMFZrTGtuY0hSSWlNS1B2b1FlUFJENkZkQzkzTzZGdzFMUXlxTmhr0gF8QVVfeXFMTkVKRDJKTmVUSkU3SW1TejV5aUFtVzA1N0JKSkY0NWNDZmprbnBycGJJOXg0SzV1UjBoNWM4RWwxUDZ6OHV1X0tfY0VMbzlIMmZlVnZLcjdYeUNTWjg1UWxZOW0xTTNHZ25GejJ0SmRIQ1pGREtjbDVKUUJ3Ng?oc=5",
-   "date": "Fri, 20 Nov 2026 15:03:25 GMT",
-   "vu_le": "2026-11-20T15:20:35.390665+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Cathie Wood Loaded Up On Anthropic’s Stock During IPO - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHBXTUFZaWdJeFQ3RERueldPVHBJXy1aNEZWYzBpT3dwUHpMTy1RR0hCdkZKMnpHeWtzS3lLYVF5SlJfX05TMXV2ZW5ma1paU2JlYV9iWGlYdnk4QzFldm5va0xQZGI1UTdhdnJuMWI0c2NtTWExRXlHYTJjcFYyV2tHRXdFT2IxZVZSZ3ZIYnJ2WUVIUEtWM1JYTGp5dHNr?oc=5",
-   "date": "Fri, 20 Nov 2026 13:59:00 GMT",
-   "vu_le": "2026-11-20T15:10:35.864171+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Le Nasdaq à nouveau dans le rouge, Anthropic n'apaise pas les craintes sur l'IA - Investir Les Echos",
-   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUN1dnpjdXEzNks2Z0EwVHdXNUVXcEx0all4Mnl5TkhpdzlRZk9VbzdVSS1iLV9vTkFwdExEbndxSjZpNEF6cjZHblo3LUVWanh6WG1nR2FOT253N0RURF9OMkhiTEk1N1ZKOVFqRTFFQVdNLXJSZFRjeXdXdWJSVzFIVTQybUNkWm0ySm53S3dNOFpVTXRsRUNHTHRNVE9YYzQzLTczNE1CbXpmTmM2ZS1uUHU0Z2hZVExLNTMyN05tRzBPSTBsWkl2UXFaTGJPWFo0QWpwS2V1RFZoaUw5cg?oc=5",
-   "date": "Fri, 20 Nov 2026 14:45:19 GMT",
-   "vu_le": "2026-11-20T15:10:35.864171+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Anthropic shares tank after blockbuster IPO, pulling the rest of the market down - NBC News",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRTk1MEVuRzZfdUVPMG9Mc3c4VFlvRUJRTGl0WUxTWVFOUG41LWJwWTFsbnNwcnktNjh5VE9IMUdLbHRuRnlEbUFZNlUyZGgxMG5admdobWx6R3VBU2VCb3BBczlUZU9sdmctenh6c2laaUpWSzYzWTBHaUh6UWhSWmVmOTRnRWdoVDM2MjRoWkM0LXU4cmc?oc=5",
-   "date": "Fri, 20 Nov 2026 14:20:00 GMT",
-   "vu_le": "2026-11-20T15:10:35.864171+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "VERALLIA Cours Action VRLA, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ibG9MWUdwY2RrVkxXVzJYZkh6cUpyZXdOSHpwZ2tMUl9QcEdadnhTZ2VDX2tReWpPcFpwUk1lX0ZjbEItVzdqQXFIU1B0a0tlVV9J?oc=5",
-   "date": "Fri, 20 Nov 2026 11:34:52 GMT",
-   "vu_le": "2026-11-20T15:10:35.864171+00:00"
   }
  ],
  "erreurs": []
