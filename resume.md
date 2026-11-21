@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55212.67 EUR, jour 2.87 %, mois -26.21 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55349.09 EUR, jour 3.12 %, mois -26.02 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,10 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Stock Market Sell-Off: History Says This Is the Smartest Move Investors Can Make Right Now - The Motley Fool
+- [Marchés mondiaux] Wall Street Asks What Can Save AI Trade After Anthropic Wipeout - Bloomberg.com
+- [Banques centrales et taux] Nagel (Bundesbank) défend que la BCE relève les taux jusqu’à un niveau restrictif pour l’économie - Demócrata
+- [Rachats et fusions] BILL Holdings to Be Acquired by TPG and Corpay at $63.25 Per Share in Cash Merger - Kalkine Media
 - [Résultats d'entreprises] PWR Q1 Deep Dive: Strong Data Center and Utility Demand Drive Robust Growth and Guidance Lift - TradingView
 - [Crypto] What Is the Best Crypto to Buy With $500 During This Crash? - 24/7 Wall St.
 - [Crypto] Crypto Crashes Pile Up as Once-Diehard Fans Chase New Bets - Bloomberg.com
@@ -449,9 +453,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Pays émergents] Nifty gains 10.7% as global AI sell-off redirects flows - Multibagg AI
 - [Pays émergents] Tesla stock extends rally as Musk-Trump alliance fuels gains - ET Auto
 - [Défense, énergie, matières premières] Investor Focus: Anthropic’s Record-Breaking IPO, Nvidia’s Earnings, and an Undervalued UK Defense Stock - Morningstar
-- [Banques centrales et taux] La Fed prévoit de nouvelles hausses progressives des taux d’intérêt - Finance et Investissement
-- [Intelligence artificielle] AMD vs. Nvidia: Which AI Chip Stock Is the Better Buy on the Dip? - The Motley Fool
-- [Intelligence artificielle] AI Stocks Explained: 5 Layers, and All 12 Fell This Week - FourWeekMBA
-- [Pays émergents] Nasdaq Drops 5.28% as Tech Stocks Tumble and Treasury Yields Fall - JournalArta
-- [Crypto] Bitcoin Plunges to Two-Year Low As US Market Turmoil Deepens - تسنیم
-- [Anthropic (FR)] Anthropic : l’introduction en Bourse ne di
+- [Banques centrales et taux] La Fed prévoit de nouvelles hausses progressives des taux d

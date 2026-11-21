@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T13:40:35.377771+00:00",
+ "mis_a_jour": "2026-11-21T13:50:35.938059+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55212.67,
+   "prix": 55349.09,
    "devise": "EUR",
-   "jour_pct": 2.87,
-   "mois_pct": -26.21,
-   "volume": 292.42439381,
-   "volume_relatif": 1.4,
+   "jour_pct": 3.12,
+   "mois_pct": -26.02,
+   "volume": 304.06488189,
+   "volume_relatif": 1.46,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3754,6 +3754,34 @@
  },
  "actualites": [
   {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stock Market Sell-Off: History Says This Is the Smartest Move Investors Can Make Right Now - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFM0b3lCemRYTzJuUmJ3MWRtNTBUYm8yWlpBTC1PZ2xhU3hqc2MteWxZZ0c1Vlk2aDNTX0xRdWs4R3Z1eE5lNWlKcnZ2WEhtb3FmbHBqSVU5UXdrQXN3OTBwVS1UNFJWS0ZXY1JjZmlqdWd1d2FuWEVKQ3AtUDdEc0NqYkZWcTR5Y0I1VzJ6Ukc4SVRCMU1yNQ?oc=5",
+   "date": "Sat, 21 Nov 2026 13:15:00 GMT",
+   "vu_le": "2026-11-21T13:50:35.938059+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGZTRVdJcGNQbEdjRlRQUnN1YjBzTXlaYzFDb0swSDlCNTVsLVo2SGtQTGxsUGxzVmE0SkFPbHB0dFBXbWhGQVZUdmFQZ21zeDBwcW5OSjJmOUtmQjB4U3lNVkptMzYybHpmR1hkTUZESVlQU1VtWFhsSzNGWUlmWHNUa3FCd0t6NjNFR0xkTzBxdjYySFFtSTRQbTFwTDd0TXlfVEY4dnZCNmxrVnZFWVlSR0U?oc=5",
+   "date": "Sat, 21 Nov 2026 13:00:00 GMT",
+   "vu_le": "2026-11-21T13:50:35.938059+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Nagel (Bundesbank) défend que la BCE relève les taux jusqu’à un niveau restrictif pour l’économie - Demócrata",
+   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc19heFBCN0FKSVktek5CR1h2WG9WNVV3aEhkV1J4WEEteWc1TDlUNWlYQVYyM19adHBLM2tEMXJxeWx3OFRkX295R0R3MjY2b2FIVXpWbVVpSzdUS3NxUTFKRmdGR2dtOHJ3Nm8tYkJOenRLN1NKb0wtekppWDVTZUxQY2tWelZPY2x1UmF5SGdYWFBRMXpGQnBLVHd4WHgwdm9wQXRQU3RjLTNIbVNUQy04eG5QUzVCZFN6NW9McnRpeHFVNGEwQ1NiNVRfZ9IB0wFBVV95cUxQRVRPSGZaZjJGY1NQUFV4ZVUyYzVZUHNsWDhLcnFmbmZ0d3FvT293RE1xYm94cjJnZlZFeDA3dmU5TTFVY0tFY2lrZGRPbzExQ2ZlLXRSUmJQTHM1M3dkemRIekt5OUhZUFFkVGtOUDFoYXZUbUdvRi0yVi1nbTF6RkJ6TFRhY3NTTG4zRmVLaDhHazJ3ZzFDbEpHaF9tSjRPYUYybEJZRW5tR3lRbVdjNUEwRXJXR3RHQnVGc3VoMjBaSmtRNnFLZjJieHRQVUszZ0tR?oc=5",
+   "date": "Fri, 20 Nov 2026 16:16:45 GMT",
+   "vu_le": "2026-11-21T13:50:35.938059+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "BILL Holdings to Be Acquired by TPG and Corpay at $63.25 Per Share in Cash Merger - Kalkine Media",
+   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObldhZGdxMkdpbWo0Rmo4TC1OaENwSUkxRlp6OUQzT0FjRUoxdWxRM1FBNE1kc2kzNG1zd3daUTg4OTJpRmRsZ3RMdW5fVjU3UFdhQVkyZXFSOXNqcUd0eHRzd3ExeVFrWkpRWC10WHkxNTMzQmpnTkVNVmdLTHJmS2s3bEZBbm1qNy1NeHBBTnBwandJbzZRWjUyTEN1bG9KV0VEb3dzODlqOGhPTHVsLVRqVkdMZi1sU0Z4ZGJzX3o3OWlp?oc=5",
+   "date": "Fri, 20 Nov 2026 14:11:50 GMT",
+   "vu_le": "2026-11-21T13:50:35.938059+00:00"
+  },
+  {
    "sujet": "Résultats d'entreprises",
    "titre": "PWR Q1 Deep Dive: Strong Data Center and Utility Demand Drive Robust Growth and Guidance Lift - TradingView",
    "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPalctRkNPellOMGZPVVNGOVVLTFdpLUFtc3J5Mk1HS1NsUnFJeUY2azMtZDNnN2JEbTVYWGhrd3FyZUNwc0N0ZzA2SHZXZmJ2bE9KSF9DUGNpZjVnTDI0UDR0UmR0ZlUxYXI4RHU3TUVhM3FoTGM5OVU4TnZJRlpPeEhFOFlQMzVEQUdNYXRfTUhPMk9MdjYtOHl0WmRGbmZZSnhJaEh3aW83d2xjVm1lbnZyZUc5XzlGQnhzZUJKVnBVV2FXMEF1c29IVm9IQjhxM0ttV1hLYWQxdlZ5WU9pVExGWHhVS1U?oc=5",
@@ -6523,34 +6551,6 @@
    "titre": "Anthropic's IPO bank closed position meant to stabilize stock, removing source of support - Reuters",
    "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVpRUnlwbWF4cmpjRkg1N1ZnRU9Dc1ZIRFFQU3pyMHNac0tJSXlINUg5YUdLRl9mMUEzQTRkZTdQWHJwRkhJbmYyWV9VYkt4dDVTSGRib3VzbVVENWd1WWllZkhzR2E5SGhrNm5xOUM1QzBfdFFqZlNvNmJDUHFNeU1IdnRMclVkRmdsNTRxTWVZY0hQYWJHN05EZ2xxZTFORDZ0V1g2eWZEWnBGRnVEVVNROURGMVFCTzkwbA?oc=5",
    "date": "Fri, 20 Nov 2026 17:10:35 GMT",
-   "vu_le": "2026-11-20T19:50:35.355254+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic IPO fails to calm AI jitters as tech stocks fall further - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONVRCR0hDQnFfMlVtdW41akwyQ0hYbmRNazVBT2pSWkpFS1BoemxIZG8ta05HenI5RGZLVVQwa0wyMl94SkF2NUx2QWVZcGdOclpkRjdKSlp1M2FDcndiYkhTUmlrb0YzZVN3c0tBYWJtbUNRYk0wR1hGUTh6ZURCaHNZdVRqWE9kaDMyNnAzRGN2dnBOSWNF?oc=5",
-   "date": "Fri, 20 Nov 2026 17:10:43 GMT",
-   "vu_le": "2026-11-20T19:50:35.355254+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "The Tech Selloff Could Last Weeks Before The Next Buying Opportunity - Forbes",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkFzVVFtX21qRzlXbGNJT0NfbDQxRER4MWpZNUpINENuc05jOU5JMDA3VnFvWWh6cmFPVUZkcC1zVHJISGoyNjc0cUFzWnRZbG5DLWhOVkJDUi1nWUJoY0l6amF4Y0lzeWR5bHVLN3BvcC16dEMwTHBUMEo0OEp4Q2FPaHNCMWRYUEUxUWRBQVlMbF9kX0RjSlpkZkRNZnFZVVVQeURrQXIzWjNmR0NhX1R5Nkdxd0p2SGdXdQ?oc=5",
-   "date": "Fri, 20 Nov 2026 15:31:28 GMT",
-   "vu_le": "2026-11-20T19:50:35.355254+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "What top minds in markets are saying about the sell-off ripping through tech and AI - Business Insider",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWh6YUdkVkxHaVNudVdOOWlBM2ZjY3lMTS1rNEhfeVFETnRNVjBlMUt0ODVzRE1HQUxUdU85MXhJdWVfTnUtUnV1YS1mQjZ3QnNPc3RmZzk3RlNKRjNDdVByMUgwcEI1TFY1WUk4cVlXVWlwOE5WMWZSUUc1Q3FnMjVNRUNZMUVjRE5FMmZtbng1ekVZ?oc=5",
-   "date": "Fri, 20 Nov 2026 19:30:00 GMT",
-   "vu_le": "2026-11-20T19:50:35.355254+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Beijing plans to bar young red-chip companies from listing outside mainland China - MLQ.ai",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGhUaE92cUtDUUpTc21vQUtCNHJlZFYzcDVxLTVCenhCR05SandqQ2V4bWxaOUMyR3g4bG13ZkNCMXpnUVZWOTVIS0F3aWZZZXhVZk5qVGZ6RlVPZlhacmRTUUVONi1BZzAwcVhVVlZkQUVVMy1GUjU5cHA4anpqUVAzM0ZzUmtXc3A4aGRoamowWmxxRGNnbHdIbHQ5NHVFbldGUA?oc=5",
-   "date": "Fri, 20 Nov 2026 15:38:56 GMT",
    "vu_le": "2026-11-20T19:50:35.355254+00:00"
   }
  ],
