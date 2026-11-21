@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54798.57 EUR, jour 2.1 %, mois -26.76 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54847.14 EUR, jour 2.19 %, mois -26.69 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -294,8 +294,8 @@ POSITIONS ET INDICES :
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,12 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic’s IPO Reveals the AI Boom’s Biggest Problem - InvestorPlace
+- [Banques centrales et taux] Taux de change du dollar américain aujourd'hui (21 novembre) : Le dollar américain se replie. - Vietnam.vn
+- [Chine et Asie] Indian Stock Market Extends 4-Week Rally as Sensex and Nifty Hit 9-Month Highs on Record FII Buying - Kotak Neo
+- [Petites valeurs en croissance] Samsung Stock And 2 AI Infrastructure Picks For Data Centre Supply Chain Shifts - Simply Wall St
+- [Petites valeurs en croissance] RPSG Ventures Ltd Upgraded to Buy on Strong Financials and Bullish Technicals - MarketsMojo
+- [Petites valeurs en croissance] Confidence Petroleum India Ltd is Rated Buy - MarketsMojo
 - [Bourse de Paris et Europe] NEXANS Cours Action NEX, Cotation Bourse Euronext Paris - Boursorama
 - [Bourse de Paris et Europe] X-FAB SILICON Cours Action XFAB, Cotation Bourse Euronext Paris - Boursorama
 - [Chine et Asie] U.S. stocks plunge as AI rout deepens - 巴士的報
@@ -452,10 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Bourse de Paris et Europe] PERNOD RICARD Cours Action RI, Cotation Bourse Euronext Paris - Boursorama
 - [Rachats et fusions] German Investor Makes Last-Minute Bid to Save Poundland - The Daily Dazzling Dawn
 - [Crypto] $150 Billion Disappears from the Crypto Market that is Sinking Into the Red - Cointribune
-- [Marchés mondiaux] A 10% drop for the stock market is unnerving, but it's not that unusual - Yahoo! Finance Canada
-- [Intelligence artificielle] SpaceX Is Paying Up to 8.36% on $44 Billion of Debt for Nvidia Chips - 24/7 Wall St.
-- [Pays émergents] Colgate-Palmolive vs. lululemon athletica: Which Consumer Goods Stock Is a Better Buy for 2027? - The Motley Fool
-- [Défense, énergie, matières premières] Dow Jones today: What’s next for stocks in 2027 after an 8% weekly crash? - Beinsure
-- [Marchés mondiaux] Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years - TradingView
-- [Rachats et fusions] easyJet moves closer to Sun after Apollo deal - The Portugal News
-- [Rachats et fusions] BILL Holdings to Be Acquired by 
+- [Marchés mondiaux] A 10% drop for the s

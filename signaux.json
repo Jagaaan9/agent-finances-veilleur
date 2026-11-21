@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T18:00:36.242505+00:00",
+ "mis_a_jour": "2026-11-21T18:10:39.750828+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54798.57,
+   "prix": 54847.14,
    "devise": "EUR",
-   "jour_pct": 2.1,
-   "mois_pct": -26.76,
-   "volume": 374.29391905,
-   "volume_relatif": 1.79,
+   "jour_pct": 2.19,
+   "mois_pct": -26.69,
+   "volume": 375.47451416,
+   "volume_relatif": 1.8,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic’s IPO Reveals the AI Boom’s Biggest Problem - InvestorPlace",
+   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGVJTzVZSXNfcjJkMVc0TjdqQW51SEVaWGs4U0tQcVlJdmJnb3FGaVVHTmVUbndXWE5KdGRlSC0waFFyVmswR3FEd0I2VmREbUFkRXo1U3psSTJxUGw1ZEVWQ0t6a28wQ0RYelZkRWw2TmNoZHlBZkhxd2E3TmhNNWxEZ0FicVFsaEpKcFZR?oc=5",
+   "date": "Sat, 21 Nov 2026 18:08:12 GMT",
+   "vu_le": "2026-11-21T18:10:39.750828+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Taux de change du dollar américain aujourd'hui (21 novembre) : Le dollar américain se replie. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CYlV5ZzlReWhmMzNFMUVoYVBaYUwyNWthUHBIOHNCQVFIYnYwbHowRU5PVU5adS1OTHoyZ29aeklDZEo1YzQxdDE1bmhOdXdoYXVnVE11UVl2YTNpZnlCcFE5OURxTWlaNzBXNEZkbTBnNVZIQjNz?oc=5",
+   "date": "Fri, 20 Nov 2026 23:34:08 GMT",
+   "vu_le": "2026-11-21T18:10:39.750828+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Indian Stock Market Extends 4-Week Rally as Sensex and Nifty Hit 9-Month Highs on Record FII Buying - Kotak Neo",
+   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdHRLUWlWUGExQUVQdm41Q3RTXzVkdzhBNVY1ckc2X2VmRHQ5ZGdESlV2Z290X0lWVXdCcHh2MkZkZE9rcWRfUVBzVTFiWHZEZTZXV0R2VjVaZlh5dXFBQUw2WE0wcHF1ZnBlWWR2REFwS3F4dXlCR3FoLXNBZDBHYmxva3NhLWt3eHV4ZGxoSjBQc3RPQ1pNVXl5c2pVaGIzYU54Ni1TUHh1bzI3dG9UYWR4NTR0QUxjalFCV3pvTXV6MzJacy1ORmxHZU1FcDVrLWpSUjNwYjEzSVFOejc5N0hn?oc=5",
+   "date": "Sat, 21 Nov 2026 05:52:38 GMT",
+   "vu_le": "2026-11-21T18:10:39.750828+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Samsung Stock And 2 AI Infrastructure Picks For Data Centre Supply Chain Shifts - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWjMtYVd1X0Z6UzJyajROdmF4M1R5LVJ3c0FuMTUteUFub0kwT1JQZjFkSlJoeTRCSEFTbVFmdFZyQndtSzd5LTRrODZTRGM5ZTF2Vzdsak5QVWYxUTRVWXJobUtYTjNITXZfYkxsLW5PWDl6bHhhejZMS1FMU0JVMmljM21KSXVyenJFY3dmZGdUbUt0SXNjVlhUMmZxTllWUzQ3bV92YjVhWjVFTGI2Q2JnMUxqNWJfcUhYZFlta1lRZC02c3pWZEQtM2R0VFdNaFc3QmtPVXLSAd4BQVVfeXFMTWRkY0J0dWVpRk90ejVjMjNEcy1WNXN5Wk9BSTFudjlhY1pmcjViOHUwNXpZeHFiWHcwUVlMVWJoUzJYOFZ2UnBLMDI1ZVAyemx3R2NXTXpJcG9mZmxjT1FoMnVrZUFRZ2NTcXZzOUVNcFFveTNxeW83WlB6MTBtemtiZjZ6eEVvdlZyMVNSM2VLTzM5MkN5VmNzc2JhN2dmeWxLN21TS2hyTzlaLUtTcTY4YnltR3pFakhBRHhYd09HX0tEd3NlVEo5dzFmX2F6MFVhNFBvakdIS0p0b09n?oc=5",
+   "date": "Sat, 21 Nov 2026 14:12:10 GMT",
+   "vu_le": "2026-11-21T18:10:39.750828+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "RPSG Ventures Ltd Upgraded to Buy on Strong Financials and Bullish Technicals - MarketsMojo",
+   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONS1SNy0xTzlkT1ExODl3Z3QwSGp5aGxzMVNxajJlVklweXcxRmFUMjFQZWU1cXdHM0ZYWktWeDR3UkNGekVycm5hZmtIalhRcS1CNV9HXzhTVFNCZzdtc2lSUmZMcFFRZDJLNHkxMlZwa1A0WVNtWTIxdXk5Zmd1U2diSmhQY1E4bnZtVmgtTDNmaFo5aDI3b2ZUeV9NT1Q0RnE0ODk1RmppUXlmSDVwNndUSzhIc1E0VE9JX3ZsSWJYX1dkdjNvRjg1b0s5Rk02Qmh0bGtB?oc=5",
+   "date": "Sat, 21 Nov 2026 06:34:06 GMT",
+   "vu_le": "2026-11-21T18:10:39.750828+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Confidence Petroleum India Ltd is Rated Buy - MarketsMojo",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejhQVlBZS1VpTzZHWGQ1MmJUelM3bXp5NTcwN2VkT2FUdnJDaDV2Szh2MS1aR2RTUjF0ZW1GbXAzQk5LR0RZYWFhZk5WZ095WnM3WU5mQ2pVNVR2b3FqaUllaGpRazg0S21xRlQ2eUdjUlZ2NDFRWEJuRkxyNm9wWHdNbVgweU9ZSWdzQkRHRVhHMkE3ZWMtTHktRFlQVmt6NzRjM09FQUE?oc=5",
+   "date": "Sat, 21 Nov 2026 05:36:03 GMT",
+   "vu_le": "2026-11-21T18:10:39.750828+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "NEXANS Cours Action NEX, Cotation Bourse Euronext Paris - Boursorama",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaW9sSzlFS2hsaDgxTUdCOTk2LXgtaXd5OWFCTHZWT0dMd0lOUGZYVGltWlRoUXMtNWpJM2tSd1d1ZFVxQlkzM2pKTjFmQ3dWTlFSUWNKZFk3TGs5T1NuNTlsTkhEQThfVlBKcHA4V3JIeW9WaWdYU3A1cHRQOTFxbjRJWC1kdGxRVENlOUF6ME91SDA?oc=5",
    "date": "Fri, 20 Nov 2026 08:46:00 GMT",
    "vu_le": "2026-11-21T03:40:38.494258+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "BTC price on Nov 20, 2026 at 11pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdFZaY2Nyekh4UXJnd3FGbktWZUpxT0JSZy1xdlpEcFg2ZlhicmY5RE5uc1FHWXFwRVFaUmYtS3lzZjFVVGdSVEx6SmtQUk5aSE5LYWdHczYzZnU2YmZXNVAzOUU3TjQ3SlFMT1FlTmFvUTl1TTNKVzFFdVluSy1ZZFo0ZkJfVHF2SFRMNEdSVmlUcEcyNlBjNXhGUHZRYzc5cHlWVnJHbW9RN2VOTHBv?oc=5",
-   "date": "Sat, 21 Nov 2026 03:30:02 GMT",
-   "vu_le": "2026-11-21T03:40:38.494258+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Beeline and TYTL to Host Joint Stakeholder Update Call on Merger Agreement with TYTL Corp. - Quantisnow",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0NtcDlickFrUGxZSUdWNl9sdDhFT2lqZU14TWpyaVZraXNHM282U1czRTFhWXZDWW13ZVdFMGZ6VFRFdDd1NTNSMkRwck8zNUR2ZkVRd3NSMzNnRzZVU1lFaFdEcWVuZHp1N1F0NHlTUTh2dzBGaWdQVWhtLVhBZ0ZSZGxuU3FrY1BIeFNneHdxbkhxNXlIOXhmYjZqSnNlNXc?oc=5",
-   "date": "Fri, 20 Nov 2026 21:25:34 GMT",
-   "vu_le": "2026-11-21T03:30:39.628900+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Michael Burry warns AI stocks mirror 1929 and 2000 crashes — and singles out Nvidia's risky deals - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUppLWR4d2dnRV9rVHBJVTRhWlpVSjBWUWM2T2ZfeFZOeGVHYk13LUY0T1ZNX1M1VTMxUWlkV0s3ZGhScHhJZ2ZaTUVCSm9kZEd2Qm9Bb3BxczJmVW5mQng2eGZOUll6T0xQb2VVQlhDdTRqT3Z2SzlRR3R2R0lUdFFIVDVFR0kzSnhoaWxQMEZobERjN3JiZzVR?oc=5",
-   "date": "Fri, 20 Nov 2026 22:30:00 GMT",
-   "vu_le": "2026-11-21T03:20:36.499912+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "SOL price on Nov 20, 2026 at 11pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0k0QVQwVjFhb3A4OGtQWWVETzlpclRuZjd6Q1k5RWNjRkwwNFVmZzNYWVVPMTNFX3dGcDhWdTZlbExuRmg3d2V5cEU2SzdzN2tkY2gtTTdid05hdlZJWGZVamZyY3hmOXJ2ZDFnXy1aUVFCVEpkVlRuNG9CdHZtb2l1TGF5dzFhSkI3TG5TRVY5LUliS3VHTUVXak9Oc1l3cTBpRVlobjRiN2t5cFNF?oc=5",
-   "date": "Sat, 21 Nov 2026 03:11:57 GMT",
-   "vu_le": "2026-11-21T03:20:36.499912+00:00"
-  },
-  {
-   "sujet": "Introductions en bourse",
-   "titre": "Anthropic just had its record-smashing IPO. Seaport is 'cautious' on the stock - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUtsaTVHMlFZMVFuSDdoalBfSkk5eFBpTWhDZFVnZ09mVlh1eEo3dXN1alBhSkZITDNjQTQ0d0xfSFBibUliTDR0X2VsZzFWLWhZUGd6dlJOS2xUVHpVYXpYd2YydE9BNy1CSjB2MUFHVV8zdDZBNnItUTloc1BsUUpERDlIaTFJWHprWm9LLWlDRTNjV1NmYnFZVXpab3ZGYVE?oc=5",
-   "date": "Fri, 20 Nov 2026 12:58:35 GMT",
-   "vu_le": "2026-11-21T03:10:35.760122+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Le Nasdaq plonge de 5 % au lendemain de l'entrée en bourse d'Anthropic, mais les investisseurs continuent de croire en l'IA - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4OWp3RmVfYWUyMllNLTFMUVg0Z2xhX3FQOExDY19zWGt2czN5QVpUZFhTVFNsWEk2SXJWOG9CaWhPcW11MC0tVUkwMVZiTlo1U0x3Mm9TeHJ4VnlVUW81RzBOWTF3RENvMGNaZng4NGtFNkpXbUVN?oc=5",
-   "date": "Fri, 20 Nov 2026 21:12:41 GMT",
-   "vu_le": "2026-11-21T03:00:35.708431+00:00"
   }
  ],
  "erreurs": []
