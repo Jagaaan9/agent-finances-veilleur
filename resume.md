@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 51441.45 EUR, jour -4.16 %, mois -31.25 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 51378 EUR, jour -4.28 %, mois -31.33 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 583275623.56029, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3323658863800, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3237568961859.6416, PER 13.8, volume x1.77 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3233820362273.5347, PER 13.8, volume x1.71 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272911458.269, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,7 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Intelligence artificielle] U.S. Stocks Extend Plunge as AI Boom Turns to Bust - WSJ
 - [Bourse de Paris et Europe] Semaine éprouvante pour le CAC 40 qui repasse sous les 8 000 points - Bourse Direct
 - [Crypto] XRP price at Nov 20, 2026 at 11pm EST Crypto Prediction Market - Robinhood
 - [Anthropic (FR)] ENQUÊTE IMMÉDIAT-Le Nasdaq plonge de 5 % au lendemain de l'entrée en Bourse d'Anthropic, mais les investisseur - Boursorama
@@ -458,5 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Marchés mondiaux] U.S. stock market slumps amid rising tech and AI worries - The Washington Post
 - [Rachats et fusions] Corpay Invests Alongside TPG to Acquire BILL - Quantisnow
 - [Crypto] Crypto Market Today, Nov. 20: Bitcoin Plunges Below $60,000 as Wall Street's Sell-Off Spreads to Crypto - The Motley Fool
-- [Marchés mondiaux] UK stocks sink as global selloff weighs on banks and miners - Reuters
-- [Intelligence artificielle] 5 Critical Challen
+- [Marchés mondiaux] UK stocks sink as global selloff w

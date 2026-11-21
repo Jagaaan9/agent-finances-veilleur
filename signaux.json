@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T04:50:35.436279+00:00",
+ "mis_a_jour": "2026-11-21T05:00:40.551330+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 51441.45,
+   "prix": 51378,
    "devise": "EUR",
-   "jour_pct": -4.16,
-   "mois_pct": -31.25,
-   "volume": 107.34878357,
-   "volume_relatif": 0.51,
+   "jour_pct": -4.28,
+   "mois_pct": -31.33,
+   "volume": 111.11477395,
+   "volume_relatif": 0.53,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3323658863800,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3323658863800,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3323658863800,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "U.S. Stocks Extend Plunge as AI Boom Turns to Bust - WSJ",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY1h6VEhXUGRDcE9hX25QQllJOF9uSmhUNERBSVdBNjRkU0gyaGRySGN0MXVXZERzUmhmdXJIUms2cFJJU2ZvdkVjUlB0RjRxSTQ4RFBiYTV0T0MyUFB5cWw0RWtuZzZrQXFwLUJqb3VsZGhacHR0NF9wTVMwc0tYUW1obFhUNHNVX0JEQnFKX2pRc1RWRGsxVw?oc=5",
+   "date": "Fri, 20 Nov 2026 22:55:41 GMT",
+   "vu_le": "2026-11-21T05:00:40.551330+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "Semaine éprouvante pour le CAC 40 qui repasse sous les 8 000 points - Bourse Direct",
@@ -6544,13 +6551,6 @@
    "titre": "Intelligence artificielle : les secrets de l'entrée en bourse record d'Anthropic - France 24",
    "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOangzaTVMTWE0QjZfWHlCXy1zd2p3SGVILUE2bXV1S3FUd2RxUGREYnlkVzBhLTFzakZSMUhLNDcyM2tQUzhpV0lsZHRoU282V1ZycGpqa2JmWmFUVGlRY2ZUZHVmQW5kbEpERjkwX00wTzhBZXkydTBBWHE0TlR6SkJpSzBkUHRRcHBWYW9ocE1Bc2xsb1I2ZHRBaWFRa2R2WlBrSXFwaXJkVHRPTWl0Sks4WG90VENIOUxCVXRpOGM4aVFCMF9KZ3FXcnJqRDlZc1ZRRHB3a3g3V2c?oc=5",
    "date": "Fri, 20 Nov 2026 14:49:12 GMT",
-   "vu_le": "2026-11-20T15:30:36.361244+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "AI stocks are selling off after Anthropic’s record IPO, and Wall Street is split on whether this is the top - Fortune",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQXYtcjN1bXdZQmdkQVUwLTZ3WThBSUVCV1BOR0R4RV9PTlNCeEQzWDRGZ01qbWVGZU5sb011NUc3cWs0dkZnQU9ZZ1BabkktY05zdnhhZHBCaEVldk5qX1V6SFh3SEJnZGRLMVpxYzBBWkZNUm9DY2FQZjRLS1A3bjBTVEEzRU96THZqVnZlcnJzQXFJRUdV?oc=5",
-   "date": "Fri, 20 Nov 2026 15:19:00 GMT",
    "vu_le": "2026-11-20T15:30:36.361244+00:00"
   }
  ],
