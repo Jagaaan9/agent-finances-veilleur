@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53506.43 EUR, jour -0.31 %, mois -28.49 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53457.6 EUR, jour -0.4 %, mois -28.55 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - KWG Living Group Holdings Limited (HKEX:3913, secteur Finance) jour 0 %, mois -4.2 %, prix 0.114 HKD, capi 230947913, PER None, volume x16.81 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 2941617737, PER 2857.1, volume x5.28 la normale
 - Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 4929084342, PER None, volume x1.05 la normale
+- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 2941617737, PER 2857.1, volume x5.28 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 4206552544.9999995, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 582864017, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3253783353, PER None, volume x1.08 la normale
@@ -317,6 +317,9 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Rachats et fusions] Mergers & Acquisitions Laws and Regulations Report 2026 United Kingdom - ICLG
+- [Défense, énergie, matières premières] What are defensive stocks? Why Walmart and other staples rose Friday as the market fell - Nacionale
+- [Crypto] Veteran trader who nailed 2018 Bitcoin crash issues this brutal warning - Yahoo Finance
 - [Marchés mondiaux] Stock market sinks amid rapid tech sell-off - WORLD News Group
 - [Chine et Asie] China, HK stocks sink as Wall St selloff dents sentiment - Business Recorder
 - [Introductions en bourse] Abu Dhabi's MGX emerges as major winner in Anthropic IPO - www.thenationalnews.com
@@ -459,7 +462,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] Anthropic IPO Makes Its Biggest Suppliers Shareholders - The Futurum Group
 - [Intelligence artificielle] Exclusive | Top Republican Senator Says Lutnick Ignored His China Chip Warnings - WSJ
 - [Petites valeurs en croissance] Eli Lilly (LLY) After ObesityWeek Is The Stock Still Undervalued - Yahoo Finance
-- [Résultats d'entreprises] Earnings reactions: beats rewarded selectively as guidance and positioning drive moves - Investing.com India
-- [Marchés mondiaux] What top minds in markets are saying about the sell-off ripping through tech and AI - Yahoo Finance UK
-- [Intelligence artificielle] U.S. stocks tumble, and the S&P 500 drops as the sell-off for AI stocks accelerates - NBC Bay Area
-- [
+- [Résultats d'entreprises] Earnings reactions: beats 
