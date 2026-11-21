@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53730.25 EUR, jour 0.11 %, mois -28.19 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53506.43 EUR, jour -0.31 %, mois -28.49 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -246,7 +246,6 @@ POSITIONS ET INDICES :
 
 ÉCRAN Inde : plus fortes baisses :
 - Shine Fashions India Ltd (BSE:SHINEFASH, secteur Process Industries) jour -19.21 %, mois 2.25 %, prix 20.44 INR, capi 628882090, PER 16.5, volume x4.91 la normale
-- SML Mahindra Limited (NSE:SMLMAH, secteur Consumer Durables) jour -12.12 %, mois -9.3 %, prix 4989.4 INR, capi 75176611990, PER 49.1, volume x2.54 la normale
 - Mega Corporation Limited (BSE:MEGACOR, secteur Transportation) jour -11.56 %, mois -11.95 %, prix 1.99 INR, capi 450000000, PER 57.7, volume x4.71 la normale
 - Emerald Tyre Manufacturers Ltd. (NSE:ETML, secteur Consumer Durables) jour -10.74 %, mois -18.75 %, prix 55.25 INR, capi 1205596154.7, PER 10.4, volume x6.33 la normale
 - Balaxi Pharmaceuticals Limited (NSE:BALAXI, secteur Distribution Services) jour -10.0 %, mois 50.2 %, prix 33.57 INR, capi 2059239725, PER None, volume x1.05 la normale
@@ -255,6 +254,7 @@ POSITIONS ET INDICES :
 - Prakash Steelage Limited (BSE:PRAKASHSTL, secteur Non-Energy Minerals) jour -9.78 %, mois -5.0 %, prix 3.23 INR, capi 626501407, PER 69.0, volume x5.86 la normale
 - Prakash Steelage Limited (NSE:PRAKASHSTL, secteur Non-Energy Minerals) jour -9.55 %, mois -4.73 %, prix 3.22 INR, capi 626501407, PER 68.8, volume x7.94 la normale
 - Gng Electronics Limited (BSE:EBGNG, secteur Technology Services) jour -8.77 %, mois -32.67 %, prix 470.5 INR, capi 58801437704, PER 32.3, volume x1.53 la normale
+- Gng Electronics Limited (NSE:EBGNG, secteur Technology Services) jour -8.75 %, mois -32.62 %, prix 470.35 INR, capi 58801437704, PER 32.3, volume x1.24 la normale
 
 ÉCRAN Inde : volumes anormaux :
 - Jupiter Life Line Hospitals Ltd. (NSE:JLHL, secteur Health Services) jour 12.87 %, mois 28.81 %, prix 317.4 INR, capi 92054699074, PER 55.8, volume x319.86 la normale
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 583275623.56029, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3323658863800, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3237568961859.6416, PER 13.8, volume x1.77 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3233820362273.5347, PER 13.8, volume x1.71 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272911458.269, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,14 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Stock market sinks amid rapid tech sell-off - WORLD News Group
+- [Chine et Asie] China, HK stocks sink as Wall St selloff dents sentiment - Business Recorder
+- [Introductions en bourse] Abu Dhabi's MGX emerges as major winner in Anthropic IPO - www.thenationalnews.com
+- [Rachats et fusions] Dominion-NextEra leaders face first public questions on merger - VPM
+- [Rachats et fusions] Ares Capital’s MidCap Deal Pays a Premium to Market, a Discount to Book - ABF Journal
+- [Rachats et fusions] AMPERA, Berto Will Combine in Multimillion-Dollar Deal - POWER Magazine
+- [Rachats et fusions] TCBX: SEC Form S-4 filed by Third Coast Bancshares Inc. - Quantisnow
+- [Petites valeurs en croissance] 3 US Stocks Helping Companies Handle Compliance Pressure - Simply Wall St
 - [Banques centrales et taux] Le dollar recule alors que le rallye alimenté par la Fed s’essouffle ; la baisse des rendements américains soutient le yen - Zonebourse
 - [Anthropic] Watch Historic Market Selloff Deepens After Anthropic IPO - Bloomberg.com
 - [Rachats et fusions] Report: CrowdStrike in Talks to Acquire Zscaler, a Deal That Would Reshape Cybersecurity - BigGo Finance
@@ -454,10 +462,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Résultats d'entreprises] Earnings reactions: beats rewarded selectively as guidance and positioning drive moves - Investing.com India
 - [Marchés mondiaux] What top minds in markets are saying about the sell-off ripping through tech and AI - Yahoo Finance UK
 - [Intelligence artificielle] U.S. stocks tumble, and the S&P 500 drops as the sell-off for AI stocks accelerates - NBC Bay Area
-- [Intelligence artificielle] Broadcom Stock Plunges 12% and Loses $191 Billion After a Report That Google Cut Its Plans for Broadcom AI Chips - 24/7 Wall St.
-- [Résultats d'entreprises] Earnings reactions: beats rewarded selectively as guidance and positioning drive moves - Investing.com
-- [Crypto] Why Bitcoin Bears Get Capitulation to $54,000 as an Early Thanksgiving Gift - Benzinga
-- [Crypto] Crypto News: Pepeto Presale Announces $11.3 Million Raised Following Dogecoin Success While Bitcoin Price Prediction Aims $500K - markets.businessinsider.com
-- [Crypto] Strategy Is Down 44% in a Month as Crypto Stocks Crumble: Can MSTR Stock Get Back to $100 This Year? - Yahoo Finance
-- [Anthropic] Tech Rout Deepens as Anthropic Stock Slides - Yahoo Finance
-- [Marchés mondiaux] US Stock Market
+- [

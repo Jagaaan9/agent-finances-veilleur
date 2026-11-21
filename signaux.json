@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T02:30:35.938067+00:00",
+ "mis_a_jour": "2026-11-21T02:40:34.918168+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53730.25,
+   "prix": 53506.43,
    "devise": "EUR",
-   "jour_pct": 0.11,
-   "mois_pct": -28.19,
-   "volume": 10.30198858,
+   "jour_pct": -0.31,
+   "mois_pct": -28.49,
+   "volume": 10.62567984,
    "volume_relatif": 0.05,
    "capitalisation": null,
    "per": null,
@@ -2915,20 +2915,6 @@
     "secteur": "Process Industries"
    },
    {
-    "symbole": "NSE:SMLMAH",
-    "nom": "SML Mahindra Limited",
-    "prix": 4989.4,
-    "devise": "INR",
-    "jour_pct": -12.12,
-    "mois_pct": -9.3,
-    "volume": 175456,
-    "volume_relatif": 2.54,
-    "capitalisation": 75176611990,
-    "per": 49.1,
-    "bourse": "NSE",
-    "secteur": "Consumer Durables"
-   },
-   {
     "symbole": "BSE:MEGACOR",
     "nom": "Mega Corporation Limited",
     "prix": 1.99,
@@ -3038,6 +3024,20 @@
     "capitalisation": 58801437704,
     "per": 32.3,
     "bourse": "BSE",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NSE:EBGNG",
+    "nom": "Gng Electronics Limited",
+    "prix": 470.35,
+    "devise": "INR",
+    "jour_pct": -8.75,
+    "mois_pct": -32.62,
+    "volume": 1433816,
+    "volume_relatif": 1.24,
+    "capitalisation": 58801437704,
+    "per": 32.3,
+    "bourse": "NSE",
     "secteur": "Technology Services"
    }
   ],
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3323658863800,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3323658863800,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3323658863800,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stock market sinks amid rapid tech sell-off - WORLD News Group",
+   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaVdnSS1neExZOEMzbkFOSU9YeGlHZzBFYWdyYWdBcllIX2dHemYycWRWOGZhbjZjTGRWbDBLX1lOUnVzTWZpVHhsM1lPcHdYRzNKMEJTcXIxbG45U25xOWlndEhJaU40VjdfdW9weHZ5bVl0NFpCMTdIb2dlY2F6Mw?oc=5",
+   "date": "Sat, 21 Nov 2026 02:00:00 GMT",
+   "vu_le": "2026-11-21T02:40:34.918168+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China, HK stocks sink as Wall St selloff dents sentiment - Business Recorder",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS25UTGpoRzJ4N1E0OXltRkJ4R19CaXNmbTZfMWw3bWFvb3p0Y29ZdGpCZzV5WHFVdkN4WXRrblduaHdkQV8tdVlFbmhTTV9sRGJLLXhqSzJGSXJvZmR3QWlVTjdSOWMzOHlydWtYZnRiRURBU1dUTElhdkN3anRfNFNqcGVOUk82Y3g2VWZ0aFZEd1VWelcwa1VLUdIBVkFVX3lxTE9tOXE1TGFqYzdYTlp1ZDdSVGNqMGlSaTBZVmN3R3B1a1RRa2FaRGhZa3Nyb1NVZzNMZ0VRVEVISmF0elRQcjA2QWZZc2Q1cEZ0QTh0cV9R?oc=5",
+   "date": "Fri, 20 Nov 2026 23:53:21 GMT",
+   "vu_le": "2026-11-21T02:40:34.918168+00:00"
+  },
+  {
+   "sujet": "Introductions en bourse",
+   "titre": "Abu Dhabi's MGX emerges as major winner in Anthropic IPO - www.thenationalnews.com",
+   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY0pSWlBvc21zLTd5T2ZsZzZ6Y3YxbEdRMFEwNTV1c1NRYVZEbE52QXoyNzdNZU96TEZFQWhGX2ZUZzJoMlNLUllYNEQ0QkVkU3ZUWDZIZHJiOUEyX2thQWZ2RjVXRUdJRGhwZVZzaDJ6SkhUUjRNRC12aE9mekt0YVFidzhYTVVSU0JVTA?oc=5",
+   "date": "Fri, 20 Nov 2026 21:26:49 GMT",
+   "vu_le": "2026-11-21T02:40:34.918168+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Dominion-NextEra leaders face first public questions on merger - VPM",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWVGMGVCVnZhNFJ5LThtUFpac0hnZ1BDNFRIcm9SdkwxdTlqcU5mUG1xdG82UFJtd2JZbXdmU0NJX215bVhxdlFaVDA2ZkVPc1lieFJqcnFkOWlDS1g2QTJQOXNvN0I1M0JuYjdTaTkzZzc1ek81Q05CWWZCZng3RGxSQTlSeFM4QlVvNE9qQ095XzhreklPeUFsSHd6UHZaNExoWFlfTzVwUQ?oc=5",
+   "date": "Fri, 20 Nov 2026 22:29:38 GMT",
+   "vu_le": "2026-11-21T02:40:34.918168+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Ares Capital’s MidCap Deal Pays a Premium to Market, a Discount to Book - ABF Journal",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTFvQ0l1cF8wM3VLT2pmR2xhS2tlUTZ2STVueGJ3RFk2M3ZYWUo2dHVOWFI3RGVuU2t5cXhPZzhKR2pPU1ZiYk1fZW9wWW9ubVRjcmZKem9qMVdwSm5IRnlXOS1SSjM4Tkw2RUFTM3J1QUszalJ2dHFhQUdpN3VvV2tFb3lwV1RpLV9pZU9SMHhMN0tVdmhvTkdDbDZOUQ?oc=5",
+   "date": "Fri, 20 Nov 2026 23:43:14 GMT",
+   "vu_le": "2026-11-21T02:40:34.918168+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "AMPERA, Berto Will Combine in Multimillion-Dollar Deal - POWER Magazine",
+   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVjJ3Y0FvQjUzT0F6RGVVbUVaTi1FSTJMUEdVb1l5UDZkdUFkcTBjcWN0dDUzZk5NeGNoS0liUUtScU4tS3BNZ1VJS2hGY0lSOU9VcnNKM3hhWUxWZGpQWnM0Z2JENFZTR05oSWx1Q1diY3B1eWpBRWoyclBBcFc1Z3Zpd1ZqZw?oc=5",
+   "date": "Fri, 20 Nov 2026 18:28:50 GMT",
+   "vu_le": "2026-11-21T02:40:34.918168+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "TCBX: SEC Form S-4 filed by Third Coast Bancshares Inc. - Quantisnow",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVVQ0eHFPVTNJWnM4UTNsZFMwWXV3MFJGM3NwRUlDenpnUWxFT3FnM3o3OXNlcUZhWVptbmRVMUJoejh1NC15QjFUaFdJT0VvU1RBZHZkV2p6RU1RbVJ3UnZEZjhmTmRRclEyWHBBeGg4RUdiUWwyQkRCb242RVIwZGpYRlY4QTBKLUVVU2Y3WDJMUVJpYmc?oc=5",
+   "date": "Fri, 20 Nov 2026 22:20:58 GMT",
+   "vu_le": "2026-11-21T02:40:34.918168+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "3 US Stocks Helping Companies Handle Compliance Pressure - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1h1OXdLUU85bmpDcldrU1d3dGh3dnhDdDNJVVB3cDE4c0VLTkd5S21QeDB2bWFpcl9yNGViZEV4TjRlQThUa0FDckE2Vm4xQko3NzdNQWd4cXlBTGllU0hjbjB1U0U0LW9mckdYeDR4NTBSdFQwdG16WldkUG9ESnV1UVdKVzNoSmVMWEM5b3FqLTFpV3hLdHBhMnJuNl9kRkhpRzg0UnZxaEJaTEE3YlBfaFgxNHhOTVlieFdmRy1LRWtETUswOWVOY2jSAdIBQVVfeXFMUHJUTTdyeDZTV2pKcWlmZjJDVVNFaWxGbTMwWW82TTZKTWVvOVlSQkQ3T1RYMDNVajZYV21Ua0RMREFiVGxLTlB5Mk12dFdZdkVqSk1xLS02Ym1DbGpock5ac190WDBUZmZra0xSTnFFeklFemtycmtiZWwwYzFBMDNXU29zMGpWdFRaU2EzUkN6RGVCTDloTnRTd2ZnXzlwaUo1bmhGSU91c2JOSG83UGlLb25jcDByV3laM1BJaHRLRzloSFhSSHRVVm5qUlZNVGNn?oc=5",
+   "date": "Sat, 21 Nov 2026 02:11:38 GMT",
+   "vu_le": "2026-11-21T02:40:34.918168+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "Le dollar recule alors que le rallye alimenté par la Fed s’essouffle ; la baisse des rendements américains soutient le yen - Zonebourse",
@@ -6495,62 +6551,6 @@
    "titre": "The San Francisco housing market hasn’t seen a run-up in prices like this since the dot-com era. That ended well. - The San Francisco Standard",
    "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92cGp6VmhKN2h2RElZMnAtQU05ZkN0VFB5X0lwZHlDelNoNG1RbXNMN3BXTDBnMlg3M0F0bWtxZlJDRHliQWFpZ29laklkdDgyMlNZTnJjTlM4dnVONjc1SVlmaTZVRXd5QkpqUXJhSEdhMWE0Q3J3?oc=5",
    "date": "Fri, 20 Nov 2026 14:00:00 GMT",
-   "vu_le": "2026-11-20T14:50:35.067158+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic en Bourse : l'action bondit de 17 % au Nasdaq - Le Revenu",
-   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTGFzTTNmQzdRZmpUYndBcG51ZmFwZzFwYjlNc2Z6MDlaaTA1d25zMWFhYjJlSVVKYzcyanFYTk5CU1hFVzZ4aWxhLTF2RncyaXhRWEZqbG5oZEhvVDdsTkJocUtiX0JNbU9DR0txMFlFVENEQ1AwenA0QkdtTnJLQ1M5SHgwV0xDZnBwaE42ZWRla25JSGhGaWcxcm9uYXNJclhfaTdmazdlMWhnN3ZfbWR5SzdDY2hPcmlpQmI4UkZseWoxV2U4UW1ZNXJsUmE3UjF2LUM5VHh3RVF3ZmladWpYN1c?oc=5",
-   "date": "Fri, 20 Nov 2026 14:38:00 GMT",
-   "vu_le": "2026-11-20T14:50:35.067158+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic réussit son entrée en bourse alors que les marchés flanchent face aux doutes sur l’IA - next.ink",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN3phUjRvM0lkN2lzQ0w1QUZMdDNjRnB2d2FJN09RTng5VDJhVTBCdXdia2YyeXA5ZjRzb3RsZ29ER1FVclIxeFRmcnhnQnE4YnJkcm9QbjBQQmVhVktEUW1QWVlKUzQ0U1FLeTIwc3d5U29wa3NZcU0tb2Yxek54Um5EVVNDeS0zSjBWVjUzUkFBZjF0VF9Sa19lSHJ6bUVoSEJvU0lXb2tiOERfcW9XSDRpZXA5RHJIbWxB?oc=5",
-   "date": "Fri, 20 Nov 2026 13:51:33 GMT",
-   "vu_le": "2026-11-20T14:50:35.067158+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Nasdaq futures tumble 360 points: 5 things to know before Wall Street opens - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaHZoZVVWM2ZOMlBnZ3VuVHBRN1llTi1NOUdzMFFkZFplT0oyYk92TnJDckpqTWFtT0ZXUlZaVEU4Sk9NdUtVcmpBVl9Kak83UVlUSHVFSldwSEpPdU5xLXZnX2FaYWE5SnNlZzB2TVNFOE1xWG8ycThwV0ZVQm1sYVAwNkQ2dlV0UjN3ZzdZV3pnb1ZBeEYtbjZjR3o4TWNCMFBrM3VxUUoyTmlEeF9EcUlKT1pQOWlUVC1qYUFvVTJYaG9XR1JnZV9NQQ?oc=5",
-   "date": "Fri, 20 Nov 2026 11:26:18 GMT",
-   "vu_le": "2026-11-20T14:50:35.067158+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Actions, or et argent chutent alors que la vente d’IA s’étend après l’IPO record d’Anthropic - Yahoo Finance France",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVVNmZFRmZFU3VFMwSXcwQlBkcTlMOTlTZUNPOFVSVUtmbjdqdEMySzB0aXY0NWxMQWJGSVVJTTkweEh4RkU0ZWZrQl9sZUpGdFlQVW92aExQUGxBcEpnVm1RZkdvclVHUUxYaTdXbm9sU1hBZUNoZ21XSEl3Ujk4bm9wQWcxay01Z1MxS2t5X2xOZm1xN3c?oc=5",
-   "date": "Fri, 20 Nov 2026 08:30:45 GMT",
-   "vu_le": "2026-11-20T14:50:35.067158+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Elon Musk Could Use His Nvidia Chip Orders to Push for Jensen Huang’s Return, Analyst Says - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTzhLZEg1dk9UWGlZZ1N2dlByc1RBNURYM1ZRNTdVZmpJaE5fYkxGRlFybmRpeXlKS21sYXVUV3VFYlNSZTlsMVBlR2plUHR3amE0SHctdDRLLTFFODFTalRqb0x6OS1ocnpsOGRKS3ExV3l4T3kyRHdWLXkyNlI4eDgyNzJhUTQ2OUl3QV9YbkhZLUhmM2c?oc=5",
-   "date": "Fri, 20 Nov 2026 14:08:07 GMT",
-   "vu_le": "2026-11-20T14:50:35.067158+00:00"
-  },
-  {
-   "sujet": "Introductions en bourse",
-   "titre": "Anthropic Is Public — Is OpenAI Ready To Follow? - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0o2TjRIVWlramhSZXVZSHNIUm9ZMmNvUzY5WmdhRGtyR1B6dWVGbzFlTm92eXNxWW01MG5DYXJmcE42VFRGVjBkZ1FWcTVhT0tRLW9PYUZfSmV1c04xdGpjTnNoQms3aDUyXzEzeUFxb055Vm8xZU1heDhreGtQMFZIUTBOMzk4UHJVYUVLUUhuODhKUGdvV1BKS1Q3T2R2ck1RN3VHUHM?oc=5",
-   "date": "Thu, 19 Nov 2026 23:57:00 GMT",
-   "vu_le": "2026-11-20T14:50:35.067158+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "BILL to Go Private in $63.25-Per-Share Sale to TPG-Backed Group and Corpay - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdi1PeFU3Vkgwd1Q3WE1wQzhZWXpKcjdkNnllSktRN3Bodi1FWGNjdjhOaGtDdWRvci04TWRzMG15dm1EczdBY1M4X2VjbVYxbDY5VkpXR2o5QkMwMG5oMG5jUWgwX1FtX09PLVM1YkpKOHhqQXNTOG9tODE4LU45bk1kNXJNZzhtT01xVkI1X0I3Y2VjMFV6UE9YZGx6TkpHOUM1ekVldjdJbnAzTDlsT011R3dzcVAxYVRPMG0zMXpjZy1WWmR3VkZJZDcwaExE?oc=5",
-   "date": "Fri, 20 Nov 2026 14:13:03 GMT",
-   "vu_le": "2026-11-20T14:50:35.067158+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "FTSE 100 Airtel Africa (LSE:AAF) Profit Growth and Mobile Money Listing Power Expansion - Kalkine Media",
-   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNemxMV2p1LVRYZV9pYm1BMHNrQmlod3hkUlNOZk5hb0dOUTBjY1pvT2ozTy1MRjliTHFyQ2ZVdjBkNWpxVEpBZG9uUEQzZWYxcFRSWFNyS1lFQnhxMVJkbndLSDZTZURDOXVfckYySDE4aTdqYi15TXRSOUUxYXF6RVA2ZnVFSzVqTy1HWHlxVHN2a05JR01PUHpXZTEwWWxldW9rOXMyRVg4T0hxWWRGaUlFYVpRdWRpbHdBSjh2Vm9xWlF3cGlITjJESnZ1UQ?oc=5",
-   "date": "Fri, 20 Nov 2026 10:24:00 GMT",
    "vu_le": "2026-11-20T14:50:35.067158+00:00"
   }
  ],
