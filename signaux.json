@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T15:36:28.937688+00:00",
+ "mis_a_jour": "2026-11-21T15:40:36.148887+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54683.13,
+   "prix": 54569.7,
    "devise": "EUR",
-   "jour_pct": 1.88,
-   "mois_pct": -26.91,
-   "volume": 352.62267925,
-   "volume_relatif": 1.69,
+   "jour_pct": 1.67,
+   "mois_pct": -27.07,
+   "volume": 353.64144717,
+   "volume_relatif": 1.7,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "5 Best US Stocks to Buy Under $25 - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFdaMm5TdnA3ZUk0aTZBWHMxTldGSWI4bjhZY1pGay1MQzNMVTJ0OUtwenZTdFkwNHUyb2tuS3lla3ZUMWFfT2w3U04yVGdDMVRpaHA4YnR2VDNyYll3dUswVmZqbmdLY0ozSXJpdnRfUlNpRHpTVEZNNnlvbk5vZ1FKel9OQ1RPTFV1OGZR?oc=5",
+   "date": "Sat, 21 Nov 2026 14:59:16 GMT",
+   "vu_le": "2026-11-21T15:40:36.148887+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin hits $55,326, lowest since Sept 2024, before rebounding above $60,000 - Investing.com",
+   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNVVnTnRFbzZIRm15eldaMkVMQlRCdElSZ1VWTDJjamtrZS1CeEtUNjJETndUNGtrQS03VEwwZ3pvMUhqNF96SXo5MVRKbGhRREFyQVNOV3hRYXNZQWNGeENTejNzd291c3FTeXNqZFNDUkkzUDgzNG12d1hwWjF3UGViaVlBV3pJRjAwX0s5ekNySnFkODhGdlQ2QXJpVC1kYnFuZ29rZ0RMV1BmVTM3ek5ONmViRlhtRjE5dEVQNUVxbER6Ql9iV193?oc=5",
+   "date": "Sat, 21 Nov 2026 15:13:56 GMT",
+   "vu_le": "2026-11-21T15:40:36.148887+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Anthropic Is Now Worth More Than Bitcoin: Could Bitcoin Pass It by 2030? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDg1U09xcTFteUFDMWg5eUVCbUtLUFhmWEYzYnh6MmxWclEtXzFMY3JZLXhKeGYxaGdDNEpBNkRoMk41TmdRX20xdjRMUmZrd3pFTDc2RFZkSFNCcERoX0JtbkdWVjlHVUtRekY1UWhCX3J5M2h3eXdzZXlhdm9MN2h0OGhzWXlqYTBRd3ZrR19vSWhWb1dKaFdrUHY4SkM3QjVHckxBRk1yeW5xSy1meTlRZTVJQnNKMGVqRDFBR1VWQjhRTFZFVg?oc=5",
+   "date": "Sat, 21 Nov 2026 15:32:00 GMT",
+   "vu_le": "2026-11-21T15:40:36.148887+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Unnerving but not unusual, investors navigating a 10% drop in the stock market - Washington Times",
@@ -6530,27 +6551,6 @@
    "titre": "Alibaba's AI Cloud Growth Could Slow Sharply as U.S. Tightens Chip Curbs - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWVqd1pCQy1qaXlSZDJONUJ3aTBLbzhOVmJFRTNxTHlqWEU0WW1HME50NVB5VGZPSW1ITnB1ZERaVmhScUlOYlB0YUQzLXgxc2RlZDRMMDJQNFdjaG9ZVG40dGVkZG5xcm1qUVVrNHNaVVRVWXlKYk5YVTJMVzJHWUQ0TnpSRXN6TDFYaHlpY3NzbURvOTJjaHZB?oc=5",
    "date": "Fri, 20 Nov 2026 21:42:05 GMT",
-   "vu_le": "2026-11-20T22:20:42.667182+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5",
-   "date": "Fri, 20 Nov 2026 20:37:03 GMT",
-   "vu_le": "2026-11-20T22:20:42.667182+00:00"
-  },
-  {
-   "sujet": "Introductions en bourse",
-   "titre": "Who is getting rich from Anthropic's record IPO - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxPancyR3hqXzc1cWJHZDlBeDc5Wk50dkNqX0R4VlFEUFV2V2FLNlkzVTlRd0lxQ3h1S1FrWHQ1UG9UM3NwT1RuZUdUVWszek1FR2xzRDhZM0RWNGcyWm9SZVR2NDV4Mm1UTXlLUm5XMUlFMUY0bmhtS0QyM3N1bzRVNE1YSVREbms2UTYtQVVPaXpXcVZRTG5haVVWYXRKZw?oc=5",
-   "date": "Thu, 19 Nov 2026 22:58:42 GMT",
-   "vu_le": "2026-11-20T22:20:42.667182+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "ESCO Technologies rises on earnings beat, strong guidance By Investing.com - Investing.com South Africa",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMEJ4TTlnZ1pLclREQzdLOWlOR3NuR0RGZU5NWkVSZlhjVE1QdWpubHkyQWE2N3JDVERIODc2ak94RFllR3NFY192aHp3NVJmX185cXdzaHg4MzZiYVFoS3NJQk53cnp1Y0dzTm8xT0tQcllFeTZ1c0RqWHBwTzB4V3BNdWl6TktuaHhDTVN3Ym5nMk9zc3NhMXdZWThfamc2OGhBOFh3?oc=5",
-   "date": "Thu, 19 Nov 2026 23:41:07 GMT",
    "vu_le": "2026-11-20T22:20:42.667182+00:00"
   }
  ],
