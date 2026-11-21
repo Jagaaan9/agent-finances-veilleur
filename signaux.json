@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T14:20:35.850415+00:00",
+ "mis_a_jour": "2026-11-21T14:30:35.990035+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54939.58,
+   "prix": 55046.07,
    "devise": "EUR",
-   "jour_pct": 2.36,
-   "mois_pct": -26.57,
-   "volume": 328.73477841,
-   "volume_relatif": 1.58,
+   "jour_pct": 2.56,
+   "mois_pct": -26.43,
+   "volume": 331.5252462,
+   "volume_relatif": 1.59,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZjJ6ZHh3Z08xNlJiSGNqQk5acy11bkFsM3NqQVJ4Q2lON2FVejFJMXhJM093MWYzN1J3M0VLd2NMUHotOVhvbThvWXhFSmFMWUlocUo5RXgwLXc0UkpMdlNFUG9idWs1Q1QyNE9Lc3NTZFpwcmVVTzY1QmRaYUhNMUlyaWdqNExaeDlPSjhmMVB5VnRFU2JkYW5faEZLMDhZTlhPTWx2OS16UGFfSno3OTRoY3dLd1dtVEhvNl9GUUVzZllKOE1Ocw?oc=5",
+   "date": "Sat, 21 Nov 2026 12:27:10 GMT",
+   "vu_le": "2026-11-21T14:30:35.990035+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "easyJet moves closer to Sun after Apollo deal - The Portugal News",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2FaaEVUWm5ERlRWQllEdC16b2dsTndpdW5TeWNGcVpyTmJjVjYyeUhaM29hekx5cTI1cmR3LWI2Z2tRYWFtdHFEVzB3c2lNS09pTXhoOHZ1RkVtcWoySHNQYlNKRzRXRjBEYUZRRWpxOXYzZDlIeW1VZFItSFZJRWZTNUhTV0NGU1NHZFQ1U1J4dzQ1YVhLOXNBaWVrMzEzUzFF?oc=5",
+   "date": "Sat, 21 Nov 2026 00:54:42 GMT",
+   "vu_le": "2026-11-21T14:30:35.990035+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "BILL Holdings to Be Acquired by TPG and Corpay for $63.25 Per Share in $6 Billion Cash Deal - Minichart",
+   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZDRaTWhNRjlWdDZRU1dyalNhTl9KS3QwUEc2YVk5VTVSa2hfODFNZDl5THl2QmpqNkt2aDYwMzhNa3lpbDFaRG9XWXhXbmh4N1RwUVJueEYwdVJlOGRsQW9VVzdNa1VuVjRvMEJoZnpjb3JMSUc3WkdNbkZEem82Vmhub19GbzRoOTZhTmZldS1WSlp2c1ExeUV3akhlb09GczRNdVFRMWtibEcwUm45ZTlnZGRMaDA1eGtkckMxUzJuaEZxdGx1RmxB?oc=5",
+   "date": "Fri, 20 Nov 2026 16:00:00 GMT",
+   "vu_le": "2026-11-21T14:30:35.990035+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "India's NSE breaks into the world's top five stock markets - Big News Network.com",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb25HMFBQdmtMMGMtVEFFaHZGQ1dzS08wTTBQZTgyS1VOZndnM1JNYWZaY2NiTFFqNkFkUFpzQ2puNHdqazl0YldTSE9odnlMWDlPRC13Q1I5WWlBSm9TQmFqQzdOYUhuMTZxTzhNUEVnbnd6TFBfb2dNRjBTWXBwWllDcXZtNlNBNS1WSXI2NzM2b0RBODVqWEtHaU52c09xamc?oc=5",
+   "date": "Sat, 21 Nov 2026 10:51:00 GMT",
+   "vu_le": "2026-11-21T14:30:35.990035+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "CAE Inc. (CAE.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3dEVLTVMwdThDME9Bd2NkcXBKbkxPVzBlbFRMODhzYXJab20tWms5Q3I4cnNKMzVuajcwNTJLOVhHZkhmUlUtdnZ3aV9mQ1B0Q3RTXw?oc=5",
+   "date": "Sat, 21 Nov 2026 10:18:58 GMT",
+   "vu_le": "2026-11-21T14:30:35.990035+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Red Cat Holdings, Inc. (RCAT) latest stock news and headlines - Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxVTJqTlQ0c09qRThOWlFPbmVtLVlDMG9wemZkTld5amtwazBSZUJFZG1rRVh3WHA5Y3IxbVNBaEJHNDZfcGRrTEIzSzZTUy00dnhjZ1RPNEY?oc=5",
+   "date": "Sat, 21 Nov 2026 01:47:57 GMT",
+   "vu_le": "2026-11-21T14:30:35.990035+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "This TSX stock is a top defensive growth pick for 2027 as AI trade unravels - Financial Post",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2hFYTV3bjRYaEJGWkJTYmthYUdWblE5a1oxNEZIZW90QXlqZGM3Zkx0UkhkZDRyU1BZYTFaZGRWR0Y0Mkh6eWhCMWp5UEp5bFlDMko0dFRROThtRzJiVHIzd3NmSU9Hd0NyMmxmaEtTcU04MlR1Qld0U2V1NVcyUTFTLU0?oc=5",
+   "date": "Fri, 20 Nov 2026 22:20:49 GMT",
+   "vu_le": "2026-11-21T14:30:35.990035+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Outlook: Is a More Restrictive Fed Reducing Market Demand Appetite? - FOREX.com",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeG82NkQwa1ZyWU1wWVB1U3hHSURZMXViQVZzOVlyTzRzczdndk1WMW9JUnZpbTFnRmZCaE1GRFFRTnNoSUZYM0owME9jcFo4bGI4Y3paeDAtMnlUS2hpZktQWDA2S2staHBWSTZ1SUtxbXJlUFJTLUxSamtUSWFkOWQ2TjlERldPQjBtVTNrV1Iyd1kwQ3l4WFlNVHUwVzQ0WV9OX004QjhicDFILXlncEJWTG9MQnduMzFR0gHHAUFVX3lxTFBYbXhwOGxZRWpyc3J5bElBTTVOSkR4YkdQTmlkVUV0Rk1fSjN2M0RzYkhMaDJrSU9FOHlzQ19vQlUwRlBqOTVkY1daUEYzY1ZDa3ZZWTNBZlVnZnBaS1p2QW5fbzFxMVhHS21vYUlhVXg1UTgxMl9XemR3bVl0aDZkaVhZMzlObWp5OXUtaFlIME02SE11QnAtamZxcUhSTHlocXY2V3JDdFNqcHQ1aE9fWTZzT184Vy1KV1hUbEF0WnZEXzhuM1U?oc=5",
+   "date": "Sat, 21 Nov 2026 14:09:44 GMT",
+   "vu_le": "2026-11-21T14:30:35.990035+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "L’euro aborde une semaine dominée par l’inflation américaine avec une hausse des taux déjà intégrée dans les cours - www.tmgm.com",
@@ -6496,62 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOG54Z1B0WjQzbXVhTjczZUZtbUlWV1ZaeHdXODl5MjU0MkRBLTl4ajdMbGhad09md2NlQWZGUGVHZ2cxWng2dTRXcG5sRFpJVHg0Z1UyOUZiU1ROenNlWnVDdExydjhRazMxNDk4di0zQUZoMFlLTWh0R3ZOZUM2ZkFoOVNfZmFrUExReVNTQm5jUmw5OTQ3QUNKcDBQSC1pdWxsV05LaVd2dk5uR1Rfal9MaUw1eWF4YkU5aXI3YmN3bXRSMG0tLURrOThzdlNTZ1Y2cjBfTE0?oc=5",
    "date": "Fri, 20 Nov 2026 08:55:16 GMT",
    "vu_le": "2026-11-20T21:00:35.211880+00:00"
-  },
-  {
-   "sujet": "Introductions en bourse",
-   "titre": "Anthropic’s IPO Succeeds, But AI Stocks, Bitcoin & Asian Markets Sink – What’s Next - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2xqbzNPMlVUSUhBdDJhNWdnbndNNzVJems3TFFxRlFKaDIwRFgxbnNzaEZ3QTBhZHI5TmNBVzZ4SFVDR0s2RDQ0a0paajFyRmY5eWY0RThxdENtWXJselplRFFtTElRVWhvd1ZvUEJrWTREOWNaSmx1NjNyZnhJNGpyS2dDeXpvRXhyVmVhZkFnQmJtMnRzcTFjWWx3azNoaXhuRG85cHFKd2I3bnEzUDFEUFp0VVBhT05HZHRQUV9vR3hkWVN0MG5IeEpFQWN1MEE?oc=5",
-   "date": "Thu, 19 Nov 2026 21:53:00 GMT",
-   "vu_le": "2026-11-20T21:00:35.211880+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Poised For 'Great' 2027 as Fed Eyes Aggressive Rate Cuts, Expert Says - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMjNVYmRVY0tOVlAyc3k5aVlob2M4TGFQUE5sS3d0NDJrXzllTFVPVHNWbmt5SUpoOS0xdUdiS0RPMXBzbnBvQVZhRGszdWFSN0w3ZTlBcVVyVlNEcnM2aGtwQVFid1hLSkVuYkpubTJlMEVrc0RJYzRkc3VRTGhOWVl6UXE3VlFVelV5U2p4ZEhsa3JuNkdPN2o2NmhZdURTMlZVbkRVQXVyNUpLT3pteVAwbjNVTXVkNTFtUVRrdXNBamdQQWliTzV5S3ZQbF9nWUE?oc=5",
-   "date": "Fri, 20 Nov 2026 20:30:07 GMT",
-   "vu_le": "2026-11-20T21:00:35.211880+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic’s IPO Drew More Retail Investor Demand Than SpaceX - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX0ZwT0VDazYxQWhZa29KQUpOTHZkeGNzWTE4aGZfeXdnd0ZjZFRpTTdYU3R6NE1RSUoxVlQ2dnc4cmlMMllsSGNfTG1LSG5wZTA3dlhNVWZOWXFxSUxIQUxpOU0yOGRmM1hnVGo5YzF5aVhGeUtteXYwMl94QnFtcXJILWlBenlRNjlGSXlSMG8yMHBkSEc2V3pfVENnVlBERGgyeVBWX3JrZGR6Wm0wNg?oc=5",
-   "date": "Fri, 20 Nov 2026 20:12:00 GMT",
-   "vu_le": "2026-11-20T20:50:36.449676+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall St slides on mounting AI selloff, S&P 500, Dow set to confirm corrections - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0VmbDFSZy1pMm1jZlE3SG1PMDdjcHdmZnp3WWFQbTBSSHBndDktSEhpRFB4MkRYZUhTQXFhNm9YY0pwNlczMkxtOF9ZMVA2R1VHN2k1MmE3VkN6d292amFiX1JKUUxVcmN4NmxFTGYwbkhlakpkeTZ4eE5yRkxxTTlubE9PUU1jWmtrZVF6RjhiMWhhYmp2Q29Ucy1aMm13T0F0WTMwSGRBZWdQV3pyRjlZRm9pUEVnV0EzQQ?oc=5",
-   "date": "Fri, 20 Nov 2026 19:28:29 GMT",
-   "vu_le": "2026-11-20T20:50:36.449676+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Supply Chain Stocks Sink Amid Wall Street Sell-Off, Though Air Freight Shows Resilience - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcmp3V0MyLTBFTFVkX3FCNXpjNVBhZlVuMnJiQXpPY3VFV2llV2l0NjI1MERYUVdNQXk0My0zNy1VbnZpdTFsb2ZSYjNMMHpwTkRRS3B0Nl9zRzZCakMwNGNKQWVVcm1COG1RRTFPdFZvdnBfUmp4WjgwSUpGR3dLZWNVRHB3ZWRkUmt2b0FIRFFfZ2YySzRjWW53?oc=5",
-   "date": "Fri, 20 Nov 2026 18:34:57 GMT",
-   "vu_le": "2026-11-20T20:50:36.449676+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street tumbles to its longest losing streak since 2024 as the Dow drops 1,100 points - AP News",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHVUbzYtdzBpNHpVbTdJWlVrRWpxZmJTVG15bS10TGN2ZzRJS29FYkoxcEgzNG9ZNGVhd1hoaHNLVzVfQ3RVYWprUFJWUnRHNm15U1BBUFc5Y2otZmltZHVCTkdySV96TzliMWFQU3o1X0g5cThPVWViMW8yYjBHWGJOamhvRGt2a0lBZUFzZTVTSURW?oc=5",
-   "date": "Thu, 19 Nov 2026 21:56:00 GMT",
-   "vu_le": "2026-11-20T20:50:36.449676+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic IPO Makes Its Biggest Suppliers Shareholders - The Futurum Group",
-   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVzBzM3JDaXZvX0g5RzZUSnd2VjZ1NlZZVGRNSzJ4QjR0YVRkdld1S0F0UUJRQVFlOU0wVWtscUc0TkdQaEtRQkM1MDh0WjM5WWRZd29RNlo0c3dhX3BFZV9WUGFkaXlNUWtuS1dqYXl4cWwxOWNKanEyc3N1NnZ2UnFBUXZiMHhXWHZ3ckJlNE53dFE?oc=5",
-   "date": "Fri, 20 Nov 2026 17:02:49 GMT",
-   "vu_le": "2026-11-20T20:40:40.493748+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Exclusive | Top Republican Senator Says Lutnick Ignored His China Chip Warnings - WSJ",
-   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZE1FLUpGTW9zeVJKbndTVUV6MTF3dmVQTE4zd2h4SVlCdzI4Qm1xNmtPWW0xTGR0TjRHRnVVZjg0RERoZXB2MEpMazY5akdSU0phSEc2WEU3NURBdWMwVEtBd2ZmamNRRXF5LVZnMms5QnlYNldTQ1NCVWNMVkpSZjRzc283dlY0eWkxVEVLWTQ1ekJrRGY5Zk5yM2NqcXhtSGoxdFlmcGx1X0tjYkRUaU5nZnRNNS1BZW5tRGlZRmM?oc=5",
-   "date": "Fri, 20 Nov 2026 19:39:00 GMT",
-   "vu_le": "2026-11-20T20:40:40.493748+00:00"
   }
  ],
  "erreurs": []
