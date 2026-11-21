@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T18:20:35.208635+00:00",
+ "mis_a_jour": "2026-11-21T18:30:42.043126+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54865.9,
+   "prix": 54918.9,
    "devise": "EUR",
-   "jour_pct": 2.22,
-   "mois_pct": -26.67,
-   "volume": 376.45783316,
+   "jour_pct": 2.32,
+   "mois_pct": -26.6,
+   "volume": 378.30883831,
    "volume_relatif": 1.81,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -6554,5 +6554,20 @@
    "vu_le": "2026-11-21T04:00:36.748241+00:00"
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "actu Anthropic: HTTP Error 503: Service Unavailable",
+  "actu Anthropic (FR): HTTP Error 503: Service Unavailable",
+  "actu Marchés mondiaux: HTTP Error 503: Service Unavailable",
+  "actu Bourse de Paris et Europe: HTTP Error 503: Service Unavailable",
+  "actu Banques centrales et taux: HTTP Error 429: Too Many Requests",
+  "actu Chine et Asie: HTTP Error 429: Too Many Requests",
+  "actu Intelligence artificielle: HTTP Error 503: Service Unavailable",
+  "actu Introductions en bourse: HTTP Error 503: Service Unavailable",
+  "actu Rachats et fusions: HTTP Error 503: Service Unavailable",
+  "actu Résultats d'entreprises: HTTP Error 503: Service Unavailable",
+  "actu Petites valeurs en croissance: HTTP Error 503: Service Unavailable",
+  "actu Pays émergents: HTTP Error 503: Service Unavailable",
+  "actu Défense, énergie, matières premières: HTTP Error 503: Service Unavailable",
+  "actu Crypto: HTTP Error 503: Service Unavailable"
+ ]
 }
