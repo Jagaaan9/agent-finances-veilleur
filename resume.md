@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53804.05 EUR, jour 0.24 %, mois -28.09 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53840.89 EUR, jour 0.31 %, mois -28.04 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - KWG Living Group Holdings Limited (HKEX:3913, secteur Finance) jour 0 %, mois -4.2 %, prix 0.114 HKD, capi 230947913, PER None, volume x16.81 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 2941617737, PER 2857.1, volume x5.28 la normale
 - Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 4929084342, PER None, volume x1.05 la normale
+- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 2941617737, PER 2857.1, volume x5.28 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 4206552544.9999995, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 582864017, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3253783353, PER None, volume x1.08 la normale
@@ -251,7 +251,7 @@ POSITIONS ET INDICES :
 - Emerald Tyre Manufacturers Ltd. (NSE:ETML, secteur Consumer Durables) jour -10.74 %, mois -18.75 %, prix 55.25 INR, capi 1205596154.7, PER 10.4, volume x6.33 la normale
 - Balaxi Pharmaceuticals Limited (NSE:BALAXI, secteur Distribution Services) jour -10.0 %, mois 50.2 %, prix 33.57 INR, capi 2059239725, PER None, volume x1.05 la normale
 - Ajwa Projects Limited (BSE:AJWA, secteur Industrial Services) jour -9.99 %, mois -53.84 %, prix 93.7 INR, capi 572612460, PER None, volume x110.81 la normale
-- Karnavati Finance Ltd. (BSE:KARNAVATI, secteur Finance) jour -9.85 %, mois 30.71 %, prix 1.83 INR, capi 204014997, PER 25.0, volume x1.56 la normale
+- Karnavati Finance Ltd. (BSE:KARNAVATI, secteur Finance) jour -9.85 %, mois 30.71 %, prix 1.83 INR, capi 204014997, PER 2.4, volume x1.56 la normale
 - Prakash Steelage Limited (BSE:PRAKASHSTL, secteur Non-Energy Minerals) jour -9.78 %, mois -5.0 %, prix 3.23 INR, capi 626501407, PER 69.0, volume x5.86 la normale
 - Prakash Steelage Limited (NSE:PRAKASHSTL, secteur Non-Energy Minerals) jour -9.55 %, mois -4.73 %, prix 3.22 INR, capi 626501407, PER 68.8, volume x7.94 la normale
 - Gng Electronics Limited (BSE:EBGNG, secteur Technology Services) jour -8.77 %, mois -32.67 %, prix 470.5 INR, capi 58801437704, PER 32.3, volume x1.53 la normale
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 583275623.56029, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3323658863800, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3237568961859.6416, PER 13.8, volume x1.77 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3233820362273.5347, PER 13.8, volume x1.71 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272911458.269, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,10 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Petites valeurs en croissance] 3 Undervalued Stocks Louis Navellier Likes After the Market Selloff - TradingView
+- [Pays émergents] Pernod Ricard (ENXTPA:RI) Stock May Look Reasonable Following Scotch Duty Uncertainty - Yahoo Finance
+- [Crypto] BTC price on Nov 20, 2026 at 9pm EST Crypto Prediction Market - Robinhood
+- [Crypto] 3 signals the biggest Bitcoin treasury company checks before its next move - Yahoo Finance Australia
 - [Rachats et fusions] BASF drops Evonik takeover bid - Indian Chemical News
 - [Défense, énergie, matières premières] Stocks Sink as Tech Rout Deepens - Barchart.com
 - [Crypto] Which Crypto Under $1 Has the Best Path to $1 by 2030? - 24/7 Wall St.
@@ -456,8 +460,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Défense, énergie, matières premières] Hot Picks: Three U.S. aerospace and defence stocks to watch - BNN Bloomberg
 - [Crypto] Bitcoin Fell More Than 20% in November. History Says This Happens Next. - Yahoo Finance
 - [Anthropic] The Anthropic IPO: What it means for the AI trade, and the health of the IPO market - CNBC
-- [Marchés mondiaux] 7 reasons why tech stocks are getting hammered again - Yahoo Finance
-- [Intelligence artificielle] Spying Suspect’s Chip Network Has Ties to Chinese Military Suppliers - The New York Times
-- [Rachats et fusions] Former Cintas CEO Meets With President Trump in Attempt To Override FTC on UniFirst Deal - Advertising Specialty Institute
-- [Crypto] JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost - The Block
-- [Crypto] Bitcoin crashes below key level
+- [Marchés mondiaux] 7 reasons why tech stocks are getting hammered again -
