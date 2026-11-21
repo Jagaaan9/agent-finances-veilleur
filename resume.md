@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54577 EUR, jour 1.68 %, mois -27.06 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54574 EUR, jour 1.68 %, mois -27.06 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,12 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Les actions d’Anthropic chutent de 8,5% lors de leur deuxième séance, dans un mouvement de vente des titres liés à l’IA - Unite.AI
+- [Banques centrales et taux] Les cours de l'or ont chuté à leur plus bas niveau en 14 mois en raison des pressions sur les taux d'intérêt et d'une vague de ventes massives sur les marchés boursiers. - Vietnam.vn
+- [Chine et Asie] Hong Kong Stock Market Close | Hang Seng TECH Index Plunges 6.5% in a Week; NVIDIA's Sudden Leadership Change Severely Impacts AI Computing Power Supply Chain - 富途牛牛
+- [Intelligence artificielle] Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle: Credit Weekly - Bloomberg.com
+- [Pays émergents] BlackRock to Buy SulAmerica: Will Brazil Deal Fuel Its Growth? - Zacks Investment Research
+- [Pays émergents] Quick Dry Shower Curtain Market Forecast to 2035: Premiumization and E-Commerce Drive Value Growth - IndexBox
 - [Marchés mondiaux] A 10% drop for the stock market is unnerving, but it's not that unusual - Yahoo Finance
 - [Bourse de Paris et Europe] MICHELIN Cours Action ML, Cotation Bourse Euronext Paris - Boursorama
 - [Chine et Asie] Bank of China Limited (3988.HK) Stock Price, News, Quote & History - Yahoo! Finance Canada
@@ -451,10 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] eBay sellers are chasing Anthropic IPO hype by hawking $1,800 hoodies and $100 tote bags - Yahoo Finance UK
 - [Banques centrales et taux] POINT HEBDO-Shopping, puces et banques centrales - Boursorama
 - [Chine et Asie] Exclusive | Deal on duty-free Swiss exports to China a boon for Hong Kong, top diplomat says - South China Morning Post
-- [Intelligence artificielle] If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail
-- [Pays émergents] BlackRock to Buy SulAmerica: Will Brazil Deal Fuel Its Growth? - The Globe and Mail
-- [Défense, énergie, matières premières] Booz Allen Hamilton Holding Corporation (BAH) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada
-- [Défense, énergie, matières premières] Arxis, Inc. (ARXS) stock price, news, quote and history - Yahoo Finance UK
-- [Défense, énergie, matières premières] Electro Optic Systems Holdings Limited (EOS.AX) stock price, news, quote and history - Yahoo Finance Australia
-- [Crypto] ‘Dump It Now’—Panic Suddenly Sweeps Bitcoin As Crypto Braces For Massive $2 Trillion Weekend Price Crash - Forbes
-- [Intelligence artificielle] If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set t
+- [Intelligence artifi

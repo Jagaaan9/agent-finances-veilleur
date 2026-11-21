@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T16:10:36.306221+00:00",
+ "mis_a_jour": "2026-11-21T16:20:35.610885+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54577,
+   "prix": 54574,
    "devise": "EUR",
    "jour_pct": 1.68,
    "mois_pct": -27.06,
-   "volume": 358.57304513,
+   "volume": 359.01485077,
    "volume_relatif": 1.72,
    "capitalisation": null,
    "per": null,
@@ -3754,6 +3754,48 @@
  },
  "actualites": [
   {
+   "sujet": "Anthropic (FR)",
+   "titre": "Les actions d’Anthropic chutent de 8,5% lors de leur deuxième séance, dans un mouvement de vente des titres liés à l’IA - Unite.AI",
+   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVdWRVY4WXpOc0drek1XUFMzTmpUc3NBR1RRVTNteFRsWE1YaUd6b3pDcU9pSGEwWHRDeVRqQklkZU1DNWF1ejM5emZEU0hxZFZuZUpubnhsaWtnUzJXVVhhakNXNlNMME1iOGJUdF9FdUtxTG9nN2pualFiN25iczUtcHgwb2pVbERWSlpuaw?oc=5",
+   "date": "Sat, 21 Nov 2026 13:52:03 GMT",
+   "vu_le": "2026-11-21T16:20:35.610885+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les cours de l'or ont chuté à leur plus bas niveau en 14 mois en raison des pressions sur les taux d'intérêt et d'une vague de ventes massives sur les marchés boursiers. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlR1V3B2UnJvVk5Oa1RJeGhrTVh5NnhMeTdEX0Y5c3Vtb3Z0aWdITTJNeFdfYnpkcVJreDdSeWFqeDhsMEpyOVFMS2ZiWVFhNElmcXdqNW52NHY0WWFlaUxtUWY0ZFZiUWZQMGQwTFl3UzBpd2JQZGx0eTVHR1NNa0Zjbzd6cHJzSFJTTkxCdGhwVjAyZmhoTlY0dXFza1BpYnVyUTFDSm9YZw?oc=5",
+   "date": "Sat, 21 Nov 2026 05:20:49 GMT",
+   "vu_le": "2026-11-21T16:20:35.610885+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Hong Kong Stock Market Close | Hang Seng TECH Index Plunges 6.5% in a Week; NVIDIA's Sudden Leadership Change Severely Impacts AI Computing Power Supply Chain - 富途牛牛",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcERjXzV2amJzLTBGUWwtMHJUaXJXQUo0eDRXcWVmNm9PbnZ3QTViRVF1NERiMnBNRWlfakY0RnFTQkZ4dnVqWWNhSl96YjB1VHNDTmJ1NTloYjZlb1JrRWFDdlpXLUpEWnlBbnZHdlhYcndEaVp5Z2h2VTRUNWl6NHBZOXRqR0x3MjVsQ1JqOFdsTUZNQUkwMkNtM0hOZFhKYVE?oc=5",
+   "date": "Fri, 20 Nov 2026 18:07:56 GMT",
+   "vu_le": "2026-11-21T16:20:35.610885+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle: Credit Weekly - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcDk5bGRkTEZVRVFMWmlIb0xJZkxOM1NNb3o2blFual9HVGxSX1NMUHpWbjQ2MmFXYXc0WHdkUnZidG5GZ2xSbHM2MENrb0dqSnhHNXhWR2xNcWhkbElYZDlFbURmeExiUTRXMm03UnZBREk3U1QwQzhxbzFVVkdXY0x1b1k5NGlVVGZ2dnVCZTR6MVU5VXNCQW5xbWZkejZHUHlUQnFHV3cyV1J4UktLTnZQRzA?oc=5",
+   "date": "Sat, 21 Nov 2026 15:31:22 GMT",
+   "vu_le": "2026-11-21T16:20:35.610885+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "BlackRock to Buy SulAmerica: Will Brazil Deal Fuel Its Growth? - Zacks Investment Research",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM0pUQ0ZvbWR1a0YzVWdLX2p6WG5zWWhROFVVUU5ueU1qYUlrRVlyM25OX0poZXQ3TkRQNWF6a1VEbkZWbFVCcW5Gb3NtVjkzamxsSTV2RUZPTmdBLThKeHQxMnVkMXk1em14V18wZWU1VWRoc0Y2cUpKZnFiV0xDYU54SVRhWHJHbjFwUG9BSTVkOHd6SjRIQTN6b1BrOGlEYkxz?oc=5",
+   "date": "Fri, 20 Nov 2026 20:06:19 GMT",
+   "vu_le": "2026-11-21T16:20:35.610885+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Quick Dry Shower Curtain Market Forecast to 2035: Premiumization and E-Commerce Drive Value Growth - IndexBox",
+   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYk0tLW5iNW9EbUlQVl84VENySHFKMkVwREpQVmZsNVNVOFg1MFVtS1MtN003UjBETm9aTmEtd3V5NFhsYzU4MXhzXzZjSDV4bDZWMTZYTGpTQUlmYkRtTUNUM0pQSFRreHUxa1lZOVBTcFdOd19tVk03MXNFZ2M5QWFISExsa296MHZiYWdQbExKQTkzZVN1LXl1RjFsSjVLVFc5dEo4WkRpY20yaUNRNVRkZkkzaGpzNHNXaXlBTlhuVVR4N0E?oc=5",
+   "date": "Sat, 21 Nov 2026 12:01:05 GMT",
+   "vu_le": "2026-11-21T16:20:35.610885+00:00"
+  },
+  {
    "sujet": "Marchés mondiaux",
    "titre": "A 10% drop for the stock market is unnerving, but it's not that unusual - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVU1pNzhXYU5zdjVDa2s4WEtmcU9UV2gxdlF5RnJmYVAxdTh2dnJLSEZOWlN1ZGFTc1VCS0VncGJEcjF1R0tsbHhaOWhrZ25IZFVneGVIelpnNWpKX1UwbldId1docGIyNjU4QUdqcVp1a2lhUUVWRFpDalZLZ1psY3ZGR2dmQ0FaY1h3aFJDTHlDX2J5TjRzS2pqOA?oc=5",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY3NZVVZuWVdpZVRFVXBmcmo0OWU1cDFobFppOFp1OVQ3aEhwczNHcHRBZEtNRUtqT19YZWtSYTlUTmVMYkhSZDIxTUxMZkVveHNEYkEtcDF5TWpPMFczUE96R3NESXhUQy05T0N0M3JjOVM1NXlVV200NEpsN3l0ZFV3dTF1QTI0Rkdpb1BPOXJqWDIyaTZkVENHZzdfdzhTbWZ3eTd4aUQwV0pYYUVj?oc=5",
    "date": "Fri, 20 Nov 2026 23:25:00 GMT",
    "vu_le": "2026-11-20T23:30:35.245657+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "3 Edge AI Stocks To Watch As Apple Pushes More AI On Device - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTUlpbDZOTnBHbHcwN2NLSUl5RUlJWWN1TDJhT01sV0llQ1otVFBhenBYQUI5WnBxek9qMVFjWmMzYjMySW1KQTUtZ3doYmVZM0xGMkZXM1dWbVRabUNfZzZhd0lXdTg2NzRRanpQVnJ0UXZsQXZTT2NzbGpfUVh2Ulh1WHF1U1FRMkluVFNKYw?oc=5",
-   "date": "Fri, 20 Nov 2026 21:14:05 GMT",
-   "vu_le": "2026-11-20T23:30:35.245657+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "How Investors Are Reacting To Nippn Stock Earnings Beat - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQmRCUzd5WV9fSWI1d1o1X1ZYZW5hT2tVZDFJQkJKUHc2N3NTRnFXVmQzTG0welBGRjBsbWtLdHNzT0ZQSHdEa2RjUmdwRkdBdWVkMk42WG13eENFZWY1TzRiLVlna0FUdFAxbS1KN2RqZllIUDBNSklqNFNGSXdocHRLMVJfdVFQMXhldGNwd2gyOXF2S0lwdm9aSVJXeXNGX3FPZUlURQ?oc=5",
-   "date": "Fri, 20 Nov 2026 22:10:57 GMT",
-   "vu_le": "2026-11-20T23:30:35.245657+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUhyWUN3TEJabThlb0QzVHpFMWZxN0gtbWpDU2xLSlk1cWVGSkV0UU9ha0NMRUo2eHhxMFhlbFJ5cWJtSVZ6RmlBSnpwdlFoWE4zdmt5ZlI5bnBTYXdFTUc5OW5xb0RDVGZoSU0zOENfSTJYcTZIbWZFTzJMWDl1ZlN5dm43dzYxdHJ5LU11eGdCMzVwU3JOdHpCMmdzdlZtMDlRRnlicFhHQjFROHpwaERjNExiSkVzbFJWd2VB?oc=5",
-   "date": "Fri, 20 Nov 2026 22:05:31 GMT",
-   "vu_le": "2026-11-20T23:30:35.245657+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "ENQUÊTE IMMÉDIAT-Le Nasdaq plonge de 5 % au lendemain de l'entrée en bourse d'Anthropic, mais les investisseur - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNM21sVkVWcTJVdE1YZ3NDcGtqcmtHeUZYdjEtbUtGT1VZcjAyVV94MVpYelhYWTVqRFl6eDRyVXVna21hQnd4QzN3TU9sZXFpdTBUMG9wM21KS2paWWZ3dzBxS3J4NWVlLW5GWnhrQmx1SWRpT3E1bXdJVl9tUnR0OTIzdFdXZzBQNncyQzNsNFZsRUl6MWkzTW1mMXdZOXZHbmt6YVF4UTU4b21XY1prTnJVczNtTVdEVVlaNTV0Wk5zZXRhR2dOMk5kQjdadVNfSnBoa0ttUXlmZkVfZXRtYkI0NmRPeFZ4OEEzMUFNTW1ZRnYtekViNHVkeUNqdWEwa2FXbUx6a2tNMmpJYUdmUmdxcnZ5NVR1ZkVoMG0wUzJzSnJ3RFEyUEV5YVFnMEc4QV9Rdm1tTngyOVHSAcACQVVfeXFMT0xyNmx6ajVqYW1RSXFYWFpCUzROaml0bk56NGhfbWRmY29VQjJmYWctaUJzaWZEWllnbXJrM2lQajA1RTdzNWJhQ0g4d1FiLVpXQ0txSFlJV18tLXZuYl8wRUpETVdac2w3aEtIQkprcHZsMFRBcmtmOXEtUTJtam5TLTlXLWsxSFBiaDFnVjNteVY5UUxZcUdpOU9GaHdsOWJIb3BEMHpjN0NkVXR2ODRtekU2SEl3cU9LWTRoamVNcFdlRXZ0ZXBoc3ZXOTBJN3lZX3d0T2t0dWstU2lZdUdlUE5VWnNXSVpRQko2TDlQdWxfMVlaS2N4MXpGS1lhZEYwSHVjSlVwb3QtdXZ1QmRkaGlQUmwtdkFzaXVuR3g1djdiOWpWRzhualE5bDN1RS00a0lGOUZWMjkzZ3dqWTA?oc=5",
-   "date": "Fri, 20 Nov 2026 21:12:41 GMT",
-   "vu_le": "2026-11-20T23:20:35.626308+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "CrowdStrike in talks to acquire Zscaler, sources say - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelZkLVhGN0lQVWs3SVJrWU00RjF6LV9tUEUyaDlySnhaQ29EVW1mUWFBajFfMmpTckxRUHY3aUxDTHRYV3kxSm1zbDNUdTQ3UnFuRVVULVk1bXlOaDNRc3hrM3k4dDQ2OVBtTHRNR1dlSzQweG1Ya2RjTVNGNk0xLVlKTzBHQjRtTHhhQVBUeW5ZMm1YZ3lUWUNfbGUtNk0?oc=5",
-   "date": "Fri, 20 Nov 2026 22:31:25 GMT",
-   "vu_le": "2026-11-20T23:20:35.626308+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Kalshi races to get ahead of New York order that could shut down exchange - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdVhIbjJ2azZZdFUyc2lRcWMwLU1uSlZmTVhlQVo4Mm1EME5TbWpoZjZhYS1VZ29PNDBYeFk1MEl5bTQ5Y0FTeWJ4Tk5saVBmTUhGUTZyVHh4OVZtWTNvc2hIelp4bjdZNWgtamlDUVJIa1FFZ19ISk5vNVQydEZUaHRZTll0blUxRkFjSHpOXzlQaEtubjVyTXlCYWh0TzhOc2VxS0dBTGdVZXYzemt4c1UwMDczM0E?oc=5",
-   "date": "Fri, 20 Nov 2026 22:51:14 GMT",
-   "vu_le": "2026-11-20T23:20:35.626308+00:00"
   }
  ],
  "erreurs": []
