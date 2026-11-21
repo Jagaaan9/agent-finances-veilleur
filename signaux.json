@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T12:30:35.985569+00:00",
+ "mis_a_jour": "2026-11-21T12:40:36.010456+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53387.3,
+   "prix": 53701.59,
    "devise": "EUR",
-   "jour_pct": -0.53,
-   "mois_pct": -28.65,
-   "volume": 250.15979134,
-   "volume_relatif": 1.2,
+   "jour_pct": 0.05,
+   "mois_pct": -28.23,
+   "volume": 252.76248868,
+   "volume_relatif": 1.21,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Congress files detail AMD requests to export AI chips to China, says Hunterbrook - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMndSTjQ3azVpWXRpTTVLQlk4ZGpjTjZFZVFNOVJtR193ZVdqOFRxa1V1QVp1RV9fMS1IWHRXX2ltcTh2Q2JOeHhuX1Mta1p4N1Zsa0xLRFFHTlhpaUtKQnlvZGJ5ZXRKT1dYZEZKbE1ISG9qel83Y2JtRklqeUpLeko1ZzZzZEVIMFA0UTE5b0xiLVJUQWp2ajFNeko2NGc?oc=5",
+   "date": "Fri, 20 Nov 2026 21:10:58 GMT",
+   "vu_le": "2026-11-21T12:40:36.010456+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Why Hua Hong Grace Semiconductor Stock Held Up Better During Tech Selloffs - Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkZJMS1DYTNKV1RLU2tFNnN6Sk1LSFlLU3dmOE5PRGpqYnRGOXV5T2ttdjdmTTZEMjR4SGFIZl83VndUSThHbEJUdU91TnhFT2NfaFFPdVd0TFlneGlHd0ItM3J3WkhYZXc4NnN0czdUdTB4MVdnNE5qa3lqLWR5RWtPRmdVSjNP?oc=5",
+   "date": "Fri, 20 Nov 2026 16:12:57 GMT",
+   "vu_le": "2026-11-21T12:40:36.010456+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "New US Chip Rules Threaten Pain for Southeast Asia - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3VtWEFIZnZSalVUZWZabUJGMHRtMGxCTFFGckNyTWVCek1hc3J4ZTFHSVpHb3RNMFF0WGkyTnp5Q0xxSThlc1BSVGEzamt6aVRvTHNkdVJ1WWRJSDM0eHdVdkFtQW5CLUtFT1Y1YkhBeWU3ZGlwSHUwOG5KV1hVV2QyVm9kTEcxdUFFOEVfX3hwZ3JwQjFrQmR3eEZSdzl5MEV5cHljdkxOaG9KMGdYYlh1V0JRSTRGekhEcmN3?oc=5",
+   "date": "Sat, 21 Nov 2026 11:45:01 GMT",
+   "vu_le": "2026-11-21T12:40:36.010456+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "SanDisk Tumbles 8% as TrendForce Turns Bearish on 2027 NAND Prices; Micron Falls 5%, SK Hynix Slides 4% - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVEl4eHlVV1BGWUVwei1KdWRVeUxhZzZhQmRMZWRXemQ4MDhmTTNJTi1abThheG5TQ0xUczJLUmlySnEtS21aX3poNXlRMDRRM0hGaFllOGNoNHFjWjI4MTRUX2ZUWHFQWkczbHNLV19TOUhkd3lBdkhaX3F5NWpORHN3S3JhcHo3T0JvWXpLR1J4ZWpYYXpjODJERVNIVHNaRlJsSUkybEg4U3lSS2dqZDlDdDdlbDdFVi1YVjdsRXRzRlBsUzVkdjZEeXRmemlNR1N5ZktHY0VwZw?oc=5",
+   "date": "Fri, 20 Nov 2026 14:09:00 GMT",
+   "vu_le": "2026-11-21T12:40:36.010456+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "BJ’s Wholesale Club beats estimates, raises guidance By Investing.com - Investing.com South Africa",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSzNpT3hYMjRlVWVINHpzRV94cWYtdllCRUoyTFUydmVMRDBqeWFoc3JGdDVCd3dpNXRLRHd1VUF6QmwxSzR1a1NLQ1A4NTZ4Zm1QQjBveWluRFRGc29wbzBaQTNINlI2WnNoSHAxNER3QzZERkF3ZVNXWTZBYk8wZ0RuZHZvaWxfLVc4UWdTbjkwaDF1V0t6UnlpWE9jQQ?oc=5",
+   "date": "Fri, 20 Nov 2026 12:43:31 GMT",
+   "vu_le": "2026-11-21T12:40:36.010456+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Airbnb (ABNB) Stock Could Be 47% Undervalued Following Hotel Growth Push - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQellLZXlJLUZYd0tVUHY2aGs1U0N2NUVTb18tb0g2SEZQQVRyaUppZ0VianptbWdoWXJnd1JCNnE1dHM0QUZCcWFWZGZYSzktMXczUGFfaGsyTDBTNjVNQW5yRG04bFpidDRmeVQyTEQtcllKYjllQ1g0YVA1V1VPajdkWGpoWGE4UGd5UVRsNzhyaXNENGc?oc=5",
+   "date": "Sat, 21 Nov 2026 12:14:12 GMT",
+   "vu_le": "2026-11-21T12:40:36.010456+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Selective Insurance Group (SIGI) Stock Looks Undervalued On Its 43% Five Year Run - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0xiY0liNXpJWUI4WnpBekFFWVEzV1BlNXpMVGlweXg0QlRhMEI1eUg2RUxlQmc3bmROVDRvU3JKWkI4bGlZRVZ3RlJrLVZiMVp3YzVyRUs3RXEzNG5oMC1qZElnYThLYjV5bEg4X0N0MXdyTkdZSU1WOVBlYXZjaHZTZUJkS3ZwRTVlWjREU3dZZU1pNEJMaDUzY0JnVmQ4cjJj?oc=5",
+   "date": "Sat, 21 Nov 2026 10:10:27 GMT",
+   "vu_le": "2026-11-21T12:40:36.010456+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Top Defense Official Purchased Stock in Defense Companies - NOTUS",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUFZXzAzX2tXell1b05kd2Zqb2RGQ3pLODJ4T3RJalQ5TzI2QkFIa0dxQ1Y0WWR6dFlKY0Frb1ZYRWhUeDBDMUJNUDZtVzBtdTI3VWRwOHZxYWZYUXd3alFLeEd6ZnY5SEk1ZGRsVHo1N1hSc3ZsalRSOHZ5RjNQTm5DbEhBdTQtcE5Bb2xlYWh6Wm9QZlZIZVVGUmdQRVE?oc=5",
+   "date": "Sat, 21 Nov 2026 12:01:36 GMT",
+   "vu_le": "2026-11-21T12:40:36.010456+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "S&P 500 forecast for 2027: Wall Street expects a rebound after an 11.6% drop fueled by AI fears - Beinsure",
@@ -6496,62 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRzVJdEtLMFVmUHN5M2tiS0hpVVcxbGVlN3Vpbkw3dnJnZzBGMjBVVjYxcHVzZUhUbmJmbW5aWEs0b0d5MTdaeHZvRnZJY3EzeGV1YklWVkFMSjMxZ0ZpUFN5OEc2YkNXWE9hWXVMX3dHNl9oNTFDRVphWENGX3FpdmR2NE9TeVU2SlM2RFVwMGFGYjZJeXdvZzhUelFSSGZtN3gzQWk0SlhnVEVwN2k1eXVUYnl0NXNnMFNMdU5RRGpwRFhnZUFiVlo0aFQxU1ctMXVsakJ1R3J3Q2xjb09jaEVzZnRRQU5CUF9yRjFPeDMwMDQxNElrV2VTRU04QQ?oc=5",
    "date": "Fri, 20 Nov 2026 15:53:00 GMT",
    "vu_le": "2026-11-20T19:20:42.877150+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "L’indice du dollar américain (DXY) hésite sous 104,00, les inquiétudes liées à l’IA contrebalançant les paris sur un relèvement des taux de la Fed - www.tmgm.com",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ0hmX2J4UzZlUGc0QVBDV0k0em5pelBCbWx4NVRoaG5CdldKQ1hRRUFSXzBfdXl1SWJGQ3o5ZVpLMzJoczdGUmpZcEpTdkVXdmg4cWx2Wl84V0VhVHZUQkR4bTJRYWhsdUpxV3NCUWpuZzE3aURtUEJCY21uZWh2WWJQOVpsRW5tNmJnWk9hTFNPVWp5RDVzUzdreTNqTnQ4OWRWZU1zUFlETmk3M3M5TUZPV0ZubXZEQldta0JRQ0RRc2prS292Tmk5b2diQ1FkTTktN1ZnaWQzMkFK?oc=5",
-   "date": "Fri, 20 Nov 2026 13:17:09 GMT",
-   "vu_le": "2026-11-20T19:20:42.877150+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Is BP (BP) Stock Undervalued Right Now? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa1h2Z2p5MkI0MVN2NnRCZ3U5R19jc0tfUnVJLUlNeHU2ZEhrOU5zV3RTSTl6NmFEc2RQTGxjM3Q1T193czNaUENQX3dTci1yNWpZM2dZa0hyZzBLdUZ6eHJkcWZmWl9ud3FVRFhvYUpzMk53aC1wZktCTU1Mb2gwTzNkT1RUWU1zMjhPYVRNd0VWUGNJbmtF?oc=5",
-   "date": "Fri, 20 Nov 2026 13:40:02 GMT",
-   "vu_le": "2026-11-20T19:20:42.877150+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Ripple’s CEO Says Investors Sold XRP and Bitcoin to Buy Anthropic Shares - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPckw4dk5ZSGNJYTdJZTRJSExpalJqd2tiZWFsRG5NYzdVd0NLMnVFM2paNnAtUFZRd3V0S0tKdXJOU09OUVA0UnJiYzlMaDM5Vjl0b181alp5WEstV3luaVVyYWNlRU9LUXJ2ck16a1RDcGkzTGZsdkI2TG9weHdwdU02OE9HNDVWOVFuZ2kyREVVbGFGbEVhQ0pYUQ?oc=5",
-   "date": "Fri, 20 Nov 2026 19:01:03 GMT",
-   "vu_le": "2026-11-20T19:20:42.877150+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic IPO haul rises to $93.5B after underwriters exercise greenshoe - Virginia Business",
-   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ2NyQmMxRXdlUk9SUlpZVlZvdDE5YXJSOTNXc25OZFhKcFdRRE1WaFZOUDd2c2lhdS1hVGY4TjZjbGQzWWM3Y2k0aHNHcjUwSHFJXzRaQjNRbmNVSndNX2hyaldKXzhaYnZpYks5djVLMzBsUFhuVkV0UXBXNm5LTjFKaXdxVGV5dUE?oc=5",
-   "date": "Fri, 20 Nov 2026 17:33:37 GMT",
-   "vu_le": "2026-11-20T19:10:35.737881+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic post-IPO hype is here. One strategist's advice: 'Stick to your fundamentals.' - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcDZ2alprbXlhRHl6NC1iNFl5WlJaMW8wdkhTTGh3Ulc3OTMzLUd0YkkwMzZ1d1NKQldIMlRRWjd0N2lvS3dZd1hNbERHUUxwRXA2OG50X1pjNnNUQy05VU5FNkVUczVJYkgyVE5sME5rUldiM1ZrSTNYeUZQczZVMVYtYkZzLUZEdGtCY0NEZl9EWDBMM2YyWlA1MVl3ZUVNOWdXemNOVEZGaW5tdU1JOVoyRmVuMFNId3JQS1E4VDNJejRCeDlCbHJnbkhldXlqVXF5UmRqMmZqcmw2b2c?oc=5",
-   "date": "Fri, 20 Nov 2026 16:02:54 GMT",
-   "vu_le": "2026-11-20T19:10:35.737881+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "« L’entrée en Bourse d’Anthropic est probablement davantage dictée par la peur que par la foi en l’avenir de l’IA » - Le Monde.fr",
-   "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUmFyMXJ5bjMzRi1TNWZwcFFQUlpCLUpkemItT1JyNElCbWE1a21zdFBFSmR2bHZyby1aWHF1ZmtqaGRQMGFaNG8wc0pqS2UtaktheGttQVR4TmlnZ3lsbFF4X1dzVTNld3ptM0Z2bzFONGZYb2QwemVuR2tBT2JteDdRbnhTclNPRlFhemZxemtOb1ppN0dwVTdkb3FBSUstVm5yRFV6QzJqMG9wUmNTaFI4Qkx0NGFrODhnRVp3UmYwbjJQdXdJdmRhRXQ2MlZDWC0tWFNYTXo1OFNQajZSX0lrb0pCTnZkVWc5NEZodlJ3MmdleldBZU1xZXU4SHB1cGNCMEFxWW8?oc=5",
-   "date": "Fri, 20 Nov 2026 19:00:11 GMT",
-   "vu_le": "2026-11-20T19:10:35.737881+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBBTy1pM1poaEROWTVTNDVTYVdvTDZEWmM1VDhGdlUzWW1OUXNvQ3RmZTVZQ3BGVlhvbTlWNFNhUQ?oc=5",
-   "date": "Fri, 20 Nov 2026 15:59:43 GMT",
-   "vu_le": "2026-11-20T19:10:35.737881+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "La Fed ouverte à des hausses de taux consécutives à un rythme mesuré - Investing.com France",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzJYTDBfLWxWa0FQYUswamdIVHY1a3dQTWtKUWd4OVBZaWVXaXhWbnBpSjBNZVlPSzdMM0l3TjlGT0stbVBOOElFNnVtSnBhNFJTVEFOX0Q2eW5haEFDMThXckx2VE1hNl9HWFl4RnhBSGMyRFZ2MHdUc1dGTnN1ZVB6TlM3NzNUSHlEckJPME12NnAtajlNY2wwX1R4X0dwQXZMLWJsVnF3emw4VWxtWXRONVk3a1dKME84?oc=5",
-   "date": "Fri, 20 Nov 2026 18:56:00 GMT",
-   "vu_le": "2026-11-20T19:10:35.737881+00:00"
   }
  ],
  "erreurs": []
