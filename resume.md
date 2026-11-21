@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55046.07 EUR, jour 2.56 %, mois -26.43 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55015.39 EUR, jour 2.5 %, mois -26.47 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,10 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] A 10% drop for the stock market is unnerving, but it's not that unusual - Yahoo! Finance Canada
+- [Intelligence artificielle] SpaceX Is Paying Up to 8.36% on $44 Billion of Debt for Nvidia Chips - 24/7 Wall St.
+- [Pays émergents] Colgate-Palmolive vs. lululemon athletica: Which Consumer Goods Stock Is a Better Buy for 2027? - The Motley Fool
+- [Défense, énergie, matières premières] Dow Jones today: What’s next for stocks in 2027 after an 8% weekly crash? - Beinsure
 - [Marchés mondiaux] Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years - TradingView
 - [Rachats et fusions] easyJet moves closer to Sun after Apollo deal - The Portugal News
 - [Rachats et fusions] BILL Holdings to Be Acquired by TPG and Corpay for $63.25 Per Share in $6 Billion Cash Deal - Minichart
@@ -447,8 +451,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] Anthropic porte sa levée en Bourse à 93,5 milliards de dollars - Brief IA
 - [Intelligence artificielle] Here’s My Top AI Stock to Buy With Nvidia in Uncertain Territory - AOL.com
 - [Anthropic (FR)] La tech s’effondre et entraîne les Bourses mondiales - L'Essentiel de l'Éco
-- [Pays émergents] India Defies Global Market Crash as Sensex and Nifty Stay in Green - Coin Edition
-- [Défense, énergie, matières premières] Dow Drops 1,100 Points: 6 Defensive Moves for Worried Boomers and Gen X Investors - 24/7 Wall St.
-- [Défense, énergie, matières premières] Arxis, Inc. (ARXS) stock price, news, quote and history - Yahoo Finance Singapore
-- [Crypto] XRP Drops 8% In 24 Hours As Bitcoin Leads Crypto Market Sell-Off - MarketForces Africa
-- [Anthropic] Anthropic says it will put huma
+- [Pays émergent

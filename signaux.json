@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T14:30:35.990035+00:00",
+ "mis_a_jour": "2026-11-21T14:40:35.520848+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55046.07,
+   "prix": 55015.39,
    "devise": "EUR",
-   "jour_pct": 2.56,
-   "mois_pct": -26.43,
-   "volume": 331.5252462,
-   "volume_relatif": 1.59,
+   "jour_pct": 2.5,
+   "mois_pct": -26.47,
+   "volume": 334.42688742,
+   "volume_relatif": 1.6,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "A 10% drop for the stock market is unnerving, but it's not that unusual - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTJoMDZqOU9wMUNfUGtEWHBFSWd4UjNVbU81OENwa1ZzcnJPaWpWLXdiOEloRWJQVzNnWWgzTGdXNUwyNnhfSDJEOVVYTGpGTmhVVmNpRmNfYnhncjJGVXBLMG5XSU41MUJaeXJFaWtkcGN3cFM4VjJiYVppS0dNLWhjSDY3dw?oc=5",
+   "date": "Sat, 21 Nov 2026 14:02:25 GMT",
+   "vu_le": "2026-11-21T14:40:35.520848+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "SpaceX Is Paying Up to 8.36% on $44 Billion of Debt for Nvidia Chips - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckN0NXlFemRnZGF1bURLZ1hGdkg2ZVFaay05b0hhVzJPN24tejBmZkdidWhZc3dGc1BZUDFFa2ZuaXdwN0tuU1NKU2M1M2xpRHIxZFNTV2pHTmJiUHg3NjVzZ3B4R2YybmtKY1pOcHNGS0hwMGFGbExaTm9WdXEwLWotU3gyRDZVMEtTOVNjbHBhOW8zWDZuZG1UZVRqaE1rN1A3T2cxUTBNUWhSdkM0?oc=5",
+   "date": "Sat, 21 Nov 2026 14:13:00 GMT",
+   "vu_le": "2026-11-21T14:40:35.520848+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Colgate-Palmolive vs. lululemon athletica: Which Consumer Goods Stock Is a Better Buy for 2027? - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMkVRSkpBWTl3UU5uNjZmMzlWNTNuSFB5S3BsSzQ0a1FVY0JmWG5zOVlPd3JZVnJmbWp0R2hVVmhBRWRjc3ZKanIzaXhpVkZabE9iVUMyb21ucEs0NEZFR0w5Q3RGZEdIZVFNQjFrOHp4ZzA3aFA2dU1aaDVSWmZrOVljOUszdm42WTgtUnJkWXZHLWhYSWE3MHZSNWI4TXN3NWhOTGhLdEVuSzVGVjBRYVhuUWUyM2JIVE5Ja2RSdGxhMVhsUVlTYnkxQW9xc2lvSE1zOUZoLXZZX29BWGc?oc=5",
+   "date": "Fri, 20 Nov 2026 21:05:07 GMT",
+   "vu_le": "2026-11-21T14:40:35.520848+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Dow Jones today: What’s next for stocks in 2027 after an 8% weekly crash? - Beinsure",
+   "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oaFNnRlNWX3hUWlpKblZvT045QXN6RTNMN0hhZHJKT3drZTRuX1pHLTFZLW9maFNVZnRqdzhWS2Z4b1dmOXNaaThYbHJIMmdxRDVSTG5sS3JEcjU3b1J4ek45cnZUT2tUUDRUMk1hVWdRYjNvMnRRWks1SQ?oc=5",
+   "date": "Sat, 21 Nov 2026 09:41:50 GMT",
+   "vu_le": "2026-11-21T14:40:35.520848+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years - TradingView",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYnZvZWZrWHV6V1BjaGxnOGgtQk02cDhVb19JeHdMMW44R2M1Sm1jc3h1YjFFdjUwUkNWODkyR2NEeDVDMk5ubmRhVEQwaFI5UU5JaFJ4SldRTElvX0E2YzA5SXI4ZTBxbTBYd3AzUlgwSVBQMUE4QmMzTGlfZUtsUlNtWQ?oc=5",
    "date": "Fri, 20 Nov 2026 15:27:04 GMT",
    "vu_le": "2026-11-20T21:20:37.300165+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "DOJ closes investigation into $66.8 billion NextEra-Dominion merger - upi",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbnJnVUZHTFhFeVZDbWIycWdPOUtCUFFGYUNYYkpUd2FpOFNjWnF3dVJkRHFyVjlJQjBGWGpxcWVBQzhNU2hYVTM5b3JocHV3bmZSamNOUjlFYTNGRldjZzFTSVgwMXlHTFlFVmlQM0VvbWVUaEhBaGRYSlJuZVFKVk1Nblh4b1Q4WFEtMjMybnUzR0p6aDRWQmp1N29xUV9u0gGmAUFVX3lxTE9Db1ViZjR1MmFwZ0RIbERzMDM2MXBvdUFwemRnTjFhUEUwTjBEa3BRYkh1T3ZRU3NrdnVub2Q3Q3FQRzNuWFN4OHVNdFZ4RFNSUl81WjE5VUNwSkhxcEZaSzVlM202ZVNJT1g3UEhac0F2T3QtbkY4ZFlSdzBPNll3dXhKWVRJNkVtdXotQkpuaWRNdTJLa19ROGdueThTQUt6SHlvRGc?oc=5",
-   "date": "Fri, 20 Nov 2026 21:05:51 GMT",
-   "vu_le": "2026-11-20T21:20:37.300165+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 21, 2026 at 5pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONVFiVkVTR3lkMmVDUDlfRXpKNEtaUWhySl9jVnlrSHRYWmg1UFNTMERtdGFWelVKb2RuOUZtWjFCOXZzSVI4ci1paERROS1Za2FINUd1T1dScl8zYjU4cENGTVZrVy1kX1V2NXNFT3lYMTJwQVBCaVVLYklyRzFQRWdESzR4c0ZGNzd6ZFFhTm14ZmJZbUNUcTVQdGU4MVZWRmN0SXdiOVFTanVjcVE?oc=5",
-   "date": "Fri, 20 Nov 2026 21:08:46 GMT",
-   "vu_le": "2026-11-20T21:10:36.321320+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic chute de 9 % pour sa deuxième séance à Wall Street - Yahoo Finance France",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbDdzOW9vZEp6ejlIX2djMHQtS3dCbGp3OHQ1RnA4dW1IbkdUeE9IRTh3VVI4SzFOd3Fub2RoVjlkR2V3dzE0LWUtdk5DekQyckpJZTd4eEtJMVA5bExSTTlocFRsd2U2eGlHdlV2eTlSUDZ5YUo0VWhlRG1qT1p1RTVtNGJIUlc0OVFwNk1OT09JMG12Sk04Q1NtNU95QUk?oc=5",
-   "date": "Fri, 20 Nov 2026 14:44:28 GMT",
-   "vu_le": "2026-11-20T21:00:35.211880+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "L'Europe ouvre dans le rouge, plombée par la \"tech\" malgré l'IPO record d'Anthropic - Zonebourse",
-   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOG54Z1B0WjQzbXVhTjczZUZtbUlWV1ZaeHdXODl5MjU0MkRBLTl4ajdMbGhad09md2NlQWZGUGVHZ2cxWng2dTRXcG5sRFpJVHg0Z1UyOUZiU1ROenNlWnVDdExydjhRazMxNDk4di0zQUZoMFlLTWh0R3ZOZUM2ZkFoOVNfZmFrUExReVNTQm5jUmw5OTQ3QUNKcDBQSC1pdWxsV05LaVd2dk5uR1Rfal9MaUw1eWF4YkU5aXI3YmN3bXRSMG0tLURrOThzdlNTZ1Y2cjBfTE0?oc=5",
-   "date": "Fri, 20 Nov 2026 08:55:16 GMT",
-   "vu_le": "2026-11-20T21:00:35.211880+00:00"
   }
  ],
  "erreurs": []
