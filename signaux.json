@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T05:30:35.075082+00:00",
+ "mis_a_jour": "2026-11-21T05:40:40.766892+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 51237,
+   "prix": 51117.24,
    "devise": "EUR",
-   "jour_pct": -4.54,
-   "mois_pct": -31.52,
-   "volume": 115.94155326,
-   "volume_relatif": 0.56,
+   "jour_pct": -4.76,
+   "mois_pct": -31.68,
+   "volume": 119.02662849,
+   "volume_relatif": 0.57,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 2941617737,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 2941617737,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3323658863800,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3323658863800,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3323658863800,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "CAC 40 : les grands perdants de la semaine - Le Revenu",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDFjTDFPbkM5MUViV0JrUGxMMk0yd0xXVkRtOFdTUEoybHJ2ZlRBV01HX294amdIUTdqT2NNTnRHdFR2UUNtTm5zN2V6Ny1ITGcwSVl5cUlqSldHZkVfTXpxcTJYWG43cHZJRG5WY0RyTW54elVMci1MTnFkLTZ5dXZwR01XSmE3?oc=5",
+   "date": "Sat, 21 Nov 2026 05:32:00 GMT",
+   "vu_le": "2026-11-21T05:40:40.766892+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "L'inflation a dépassé son objectif fixé à 67 mois, et la Fed a été avertie du coût d'un report des hausses de taux d'intérêt. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQTlKVjlabzRqMDRjOHNXQmFpUndad1lWMU85Um5HX2hhMGRUTXZuZk0xUVZERnBlX2JFdXlfVkYzQXdHc3NMbU5lazJBRHpqbTFnNDBMQUdzVkpjdVZHSmo1X0E3bmRBREtydUp1dEQwTzNOakJaUm9XQjZRXzRleUIwcExlakttQ3FydnZsVlp2ajZfT1ZrMjRoRWpieWxreVhSN2cyWm90WEtHWE02aWhVOEZjOGNP?oc=5",
+   "date": "Sat, 21 Nov 2026 05:32:49 GMT",
+   "vu_le": "2026-11-21T05:40:40.766892+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les cours mondiaux de l'or ont chuté de plus de 35 % par rapport à leur pic de 5 595 dollars, la pression des taux d'intérêt de la Fed ayant fait chuter le précieux métal à son plus bas niveau en 14 mois. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVEJNbWtONk1CRUJDTkdHZW5wOGRGZ2NkNVRxc3JnTXoxbjVHY200dEVFRS1JZDk3TWxxUDNkZ3BJdU5fRnFvd0p3amIxb0kwaE1qTkU1b2Z0VmZJMHZreG9tVDlaZnFHUVlUTHNIcWVDRjJOZXFzVlJZTHA1Z0FxQlh0Zlo5QWtWYnRSc2dBXzJwMWtPMVlTLW1yZndtYi1BMHhEOUI5WnZFN0ZDenk3UzlhQzBKeDJXa1U3eWV3Ty15czA?oc=5",
+   "date": "Sat, 21 Nov 2026 05:35:10 GMT",
+   "vu_le": "2026-11-21T05:40:40.766892+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Earnings call transcript: The Buckle tops Q3 2026 profit view, shares jump - Investing.com",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaUJMVTJEbXVtRWdqU2NQNW0xeElOWnpPdEdvUDF5ZHQ3eXNGbDdCb241YkhTQnpsUWhJRHduYWNpZkJ0b1pzbU1HTW1uZlYwNGVCNWZhdXgxdlR0YXB5X2RaSDlhRVRvQ0VsQmVYcGhTcS1RRE1SVUE3NGRCZEw2Y0p5VGlpdWgtTllCSEVnWFpCcnlpcWczVC1ZSUtPd283cDRCZzVLU3dvQzhJbmxlRVdyWHRtWFVOTndsVWFHSEN0SjNBMkRj?oc=5",
+   "date": "Fri, 20 Nov 2026 15:51:07 GMT",
+   "vu_le": "2026-11-21T05:40:40.766892+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "How This Defense Stock Is Creating Solutions To Modern Warfare - Yahoo Finance Singapore",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdy1Ma2g0SDlreWZEZjhXWEVSQkdRMGo1SDJHSWtCblZsSDV3ejZSTlRDamJPUVdVMndJVmk3VlF4SUtBeGIzNzlUcUh1SlF6UGt4SkVrdU55bVczVXp0LXN5YldMRlprZWUyNzBUeEo2ejhYU2NUMloxWC00YzVoM0UwczVUTlpCN21Ia0l0Q292Zw?oc=5",
+   "date": "Fri, 20 Nov 2026 09:45:05 GMT",
+   "vu_le": "2026-11-21T05:40:40.766892+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "La Réserve fédérale est confrontée à des désaccords internes concernant sa politique de taux d'intérêt. - Vietnam.vn",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd3JUcVV5TkpMaENsTWE0Zmx1UWh6azhPbEUyZkQtd0YyNVZtOV9zbEswS1hnRWNmRjdiLVU5bUR5Ym5DY0JKckVIcE1fOHJ5OC1qbU14Y2ppRGh5RXFsSWZRRnFjWkt0ZU5OY1oxUm5lcVQ5c0JBOG5NZExmLTdoM0N2U2p6aWZfZE11VVhFQjdBekNVd1VoWXZuRUNkclJvWEZwaFBpYzU1V0pTZXVnd21YOWNRSnd4czgyZXROeF9ncjFzc25pYQ?oc=5",
    "date": "Fri, 20 Nov 2026 00:00:00 GMT",
    "vu_le": "2026-11-20T15:40:36.133883+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Anthropic Shares Fall 6.35% After Record IPO Debut as Apple's AI Agent Plans Intensify Competition - Kotak Neo",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3JKd002ZUQ5V1Rfb09zckhuZHJ1bW9YZW02cjZ4bm1nSGZjdzU2YTEwanFNejFOQ2hsbXFKWEFHRUdCZFRjME1lOFVEM1VIaE1lX255VWRucUtoNVNrbVZnVWpabmx4bVpXOEY1Ty1RN00xQTBsOUl4ZXFpU3EteHpEVFU4aTFvMjRzbWpJWTZsbEIwaUVzV2Q3dTJORGZ4N0M0LUppME8xb09DVERiNm9sZUpkY3hCT1hScFlsMHBGd1JqRHVwcnNXVnBxeUk3bjk3b3BRcmFFeWRNdVFV?oc=5",
-   "date": "Fri, 20 Nov 2026 11:23:12 GMT",
-   "vu_le": "2026-11-20T15:40:36.133883+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Trump, Xi and Putin promise peace, but what changes for defence stocks? - Invezz",
-   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVHQ5bzhncld3YVZTekloY3VuYTZNUmtydXF1WWQyNmVYZDF1eHRnem5KTnZuNnFmYzBtaWNXbWowSjNxZFlDY3FIcEFReW9XYWh6XzlseFhFNUZDS3FOQ0hOeVFaSzRCSGYzVWgyTk5JdkxtM0E5OEJBVTJsNFF3VHNOeXRBYTlLUUdvRmVka1NHTzRON3ZaSWlOQkNkM2E5czIyQkZQckF1dTg?oc=5",
-   "date": "Fri, 20 Nov 2026 13:41:01 GMT",
-   "vu_le": "2026-11-20T15:40:36.133883+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "BrahMos is going global. 2 defence stocks target the high-value ‘Brain’ inside - The Financial Express",
-   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLUZWelEtQnRTRjRaUDlYMEVZMXctbDJod2NEc2FxUHJSb25yR1M5VnNNZXdxQkl2eF9Rb24tVlh5Um1kOXhkbEpFMnNjd0FuT2ZpeE1KblpmcXlYY1BiZXphNG12Rkl0Y3FKWXo5QnZYZXZaX2Nod2tjakJxalNyT0pGczZjb1F3Z0otNkZBbWx6NjZkdG9OdENHdjc0Um15TW0xdXhmeHZ3bEtSdnJaS0RsN2JBN3Q5WndkZVhWVHp3aHJoU21BelhJc21YQjYxU2daSnZR0gHcAUFVX3lxTFBzV05SSG9qS2xNeTJuYmhWZWwzSENqdVN6TTVESzVYc0dEZkFEWVBfeEw4c3l4SnIyZ1lTRUxnaDB5MWVBbEdwUVhfT2dMLUlTeHVGaWROXzdqR1VETUUwdmxxY0ZReE1EMWVRcDh0NHNHMm85dEZSV2FOOHBMV08yX0xtQktiM2E5QnRVSGNiWTY3a28ySzZWVmRnaUJuYnhXR0pMLV9GREtTUG5YUjY4LTdYNHhPOFdKNlV5aUNGOHNPN3ZMQ0FCUVEyTG9PLWRUcjljTHdzSDFNcHM?oc=5",
-   "date": "Thu, 19 Nov 2026 23:35:00 GMT",
-   "vu_le": "2026-11-20T15:40:36.133883+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Chip stocks lead tech lower, Anthropic stock drops: AlphaCheck - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONEh0d2x1OFdoVHQyUmVJRTBRWC15eUo2RlpfY014TkhFMVFDNDRaNzF0dm9TY05lTEk0REF4dHB2dS1ZaGRiYnBmY2xadXJ4eEVFTjVZa19yTWsyeGlUWUNfUFkwZ0c3UVREcEZvY1BFVWRYMVhBbFB6dWFfRzlZN2NxSVdNbEJmbzNKT0NuQm4zYTVIMnRtazFqZHItaC1PNnJqN3RQdlhZRlRfcE5RTW12TkJ2UmJWVElZZDk4b2tVcVB4Y1NtWGlwNGJkNXRnUUNtZVdvUy1YeTUzMkJr?oc=5",
-   "date": "Fri, 20 Nov 2026 15:11:20 GMT",
-   "vu_le": "2026-11-20T15:30:36.361244+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Markets react to Anthropic’s IPO - NBC News",
-   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnY3M0NvaFh4RE55MF9haHhEY3JmOWh1UUlhU0dkUjhLazAydlJoQi1OazhJY3gzN3JkWlRLZ21Td1hyVENETlpadThDdks1Y095SUd0OFF3dDJkeFN2MC1PLWZseDFWUnJFMjNIRE5VejhVYld1T3p1T0R4bjZhaw?oc=5",
-   "date": "Fri, 20 Nov 2026 14:29:49 GMT",
-   "vu_le": "2026-11-20T15:30:36.361244+00:00"
   }
  ],
  "erreurs": []
