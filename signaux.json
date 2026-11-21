@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T03:00:35.708431+00:00",
+ "mis_a_jour": "2026-11-21T03:10:35.760122+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53387.19,
+   "prix": 53106.84,
    "devise": "EUR",
-   "jour_pct": -0.53,
-   "mois_pct": -28.65,
-   "volume": 11.15873288,
-   "volume_relatif": 0.05,
+   "jour_pct": -1.06,
+   "mois_pct": -29.08,
+   "volume": 17.11638671,
+   "volume_relatif": 0.08,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 4929084342,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 4929084342,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Introductions en bourse",
+   "titre": "Anthropic just had its record-smashing IPO. Seaport is 'cautious' on the stock - CNBC",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUtsaTVHMlFZMVFuSDdoalBfSkk5eFBpTWhDZFVnZ09mVlh1eEo3dXN1alBhSkZITDNjQTQ0d0xfSFBibUliTDR0X2VsZzFWLWhZUGd6dlJOS2xUVHpVYXpYd2YydE9BNy1CSjB2MUFHVV8zdDZBNnItUTloc1BsUUpERDlIaTFJWHprWm9LLWlDRTNjV1NmYnFZVXpab3ZGYVE?oc=5",
+   "date": "Fri, 20 Nov 2026 12:58:35 GMT",
+   "vu_le": "2026-11-21T03:10:35.760122+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Le Nasdaq plonge de 5 % au lendemain de l'entrée en bourse d'Anthropic, mais les investisseurs continuent de croire en l'IA - TradingView",
@@ -6544,13 +6551,6 @@
    "titre": "Les doutes sur l'IA gagnent l'Europe, séance difficile en vue pour le Nasdaq - Boursorama",
    "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTTctRzY5WFhQV3V4WnVabXhoaFFGQmdOU0tyYnRxaTdVeDZUblFhRTFyNnJyblJHMXpZQWoySDNXME90T2dVdzQtamZ1WVhiLXFWakNidzA4a3Rsck5kdENTeG5PZVpZelZoeFJ2d1g1OGZ1VVlYWVI2Z18wdVotUEtsY1FsS0JhQXBOaGo0am5GR2tQRE0zLVRDQ2ljczZGSjZUaEJDVE9fbG5rNGZNYmpYMlRScjZhQVg5eGJNSTlMdFJhc2ZyOWlIUkJWUHhmOVF3VDZhdTJuSXhmMTIzUlBLUlA4aGM0SEhfekZR0gHuAUFVX3lxTE9NNy1HNjlYWFBXdXhadVpteGhoUUZCZ05TS3JidHFpN1V4NlRuUWFFMXI2cnJuUkcxellBajJIM1cwT3RPZ1V3NC1qZnVZWGItcVZqQ2J3MDhrdGxyTmR0Q1N4bk9lWll6Vmh4UnZ3WDU4ZnVVWVhZUjZnXzB1Wi1QS2xjUWxLQmFBcE5oajRqbkZHa1BETTMtVENDaWNzNkZKNlRoQkNUT19sbms0Zk1ialgyVFJyNmFBWDl4Yk1JOUx0UmFzZnI5aUhSQlZQeGY5UXdUNmF1Mm5JeGYxMjNSUEtSUDhoYzRISF96RlE?oc=5",
    "date": "Fri, 20 Nov 2026 12:38:49 GMT",
-   "vu_le": "2026-11-20T15:00:35.549646+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "AIR FRANCE-KLM Cours Action AF, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oZGRqT0RwNDhIdzJYcEN1XzdPa3VfRzlGcmI0OGlhOHk3aVJjdUU5aDE3NUVJS0g5aUdHR3dCaTQtSW9xeVFLUFZCcHVNVkRY?oc=5",
-   "date": "Fri, 20 Nov 2026 11:57:12 GMT",
    "vu_le": "2026-11-20T15:00:35.549646+00:00"
   }
  ],
