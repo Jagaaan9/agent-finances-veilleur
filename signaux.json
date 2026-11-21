@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T12:00:34.847023+00:00",
+ "mis_a_jour": "2026-11-21T12:10:41.189541+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53122.63,
+   "prix": 53096.68,
    "devise": "EUR",
-   "jour_pct": -1.03,
-   "mois_pct": -29.0,
-   "volume": 247.43447545,
+   "jour_pct": -1.07,
+   "mois_pct": -29.03,
+   "volume": 248.08717709,
    "volume_relatif": 1.19,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQODg2Y1RoekJ0TmtNWVVDRlN3RWp3WF9LbUtncGpqZHBVV21wcjljYWl5bUJvUkpaR1diYnhRNkRjWTNTQVZXM2FQQ0g1RnQ3TGdzOTVycEVFRW1pZ1UxdFBqclRVQ1RqbTkxSGxwXzJkb2p0SXlfLUExVjdxY2JuRk51dWVwcjFfUE1BUE5ub2M4RzJNVVNwOUZLMXNPR0FSZHJ2M3A2Wm9fZXBVbURQQkFHSTMzdUp1UmUyNU5FckF1RWl3Q25jclRvWGFPUWhKc041YkRaaF9JQUJhRkJWdjRFdHpyRzU3U3R6eXhIQ1lJY2xyVW5kWUVvYy1BQUhQb0lpTm1n?oc=5",
+   "date": "Sat, 21 Nov 2026 12:00:00 GMT",
+   "vu_le": "2026-11-21T12:10:41.189541+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "BJ’s Wholesale Club beats estimates, raises guidance By Investing.com - Investing.com Australia",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTXF0ZUN3b0ZELWtXWXliZkJBN19XN01tUjRUM1dISTYwM2pXYnFWUUEzNnBHUjZ2RGE4SnItM0NBYWZ6Q3A5cXhGaDNueXVnSkxkbnMyeXRnRzVUXzhVWU9RVlh4eUp3cVNzQ1pXNmtHX1ZNeDNYWDBiUVZfN3ZqVEFLd3o0NnA4YUtqQlMtVEwwMGp3aUlBMGFVLXVydw?oc=5",
+   "date": "Fri, 20 Nov 2026 12:33:35 GMT",
+   "vu_le": "2026-11-21T12:10:41.189541+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Top 20 Shares For Long-Term Investment In India For November 2026 - Samco",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa19lTDRSSlBMY0kzOUhFc2JXTGxaaE9FWld6VlNwMVZ6N3BENjZRa1FZdFFJbjdDQ1MwMHZ5eHFheS1abWJBZGRJMFJZM3h5OVNxYW04eE1WUjhLN0VBT0ktMDA1c21NMUc2TkJIb3ZpTUFXOFdYWUlWWDd5QlJtalRacl91WlVDOGgzUkxtUXNzUEd6WVB1NVZsZEtJZnpxZjBKbjBHN1F1ajZ1Sk9EZlpEX0JYYWNi?oc=5",
+   "date": "Sat, 21 Nov 2026 06:51:09 GMT",
+   "vu_le": "2026-11-21T12:10:41.189541+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "LMT Gets $740M Awards, GD, RTX Pick Up Missile Contracts – A Look At This Week’s Defense Deals - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ21tek1Ybm13M3JfVm0tWDlBall5eERtenA4Z054UTN3cmNmVGN3dWxZRzM5ak5ySTVJdmwxeVdObjdWcGl4NV9LYUZLWExYNmRoZ1lScG9iVlFUUTEyYWpPaGoxNVNWMl94QnZVd3pUZENLbEtkYmFFaExFMXNiQlIzdllFdURHZkdjdGJjVHo0QQ?oc=5",
+   "date": "Sat, 21 Nov 2026 12:00:00 GMT",
+   "vu_le": "2026-11-21T12:10:41.189541+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "Chinese Tech Stocks Slide As New US Chip Curbs Threaten Cloud Growth - Forbes Middle East",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmFOTDFUSm9yQVRWVVpjbm1tZy1sbWJxZ0VWMGpFdkhFYWlzaEZ1UHdsZklzUTNnTkxNekxpcWMxZGJnN0M0UkwtRVpWa3pfdV9zX1dJME9adkpVWE8tYS1BTjU2X1gxWHJMVHpuRW9UWWJVRE9adW0xU1owNXZ5UmF2b0hRdU9IdzlHNDZoczFGZEZIS1dPOWJwNA?oc=5",
    "date": "Fri, 20 Nov 2026 18:34:06 GMT",
    "vu_le": "2026-11-20T19:00:36.463783+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin’s biggest positive catalyst fizzled. Experts weigh in on what will drive prices higher - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmhRMmNuclFMVTQyc0VTYlliMTdaaEphbmpYeWFMTnM1TWhOT1cwXzhGY1NYaHl2cU1Db0F6T3RwcHFKVWxaVVpyRVNHZk1OUkxhOExwZkV2dDY1MTZPSl9SSEx2UTR2TlBZX3dBOU90di05X3NEVG8xWlhyVmk2TkxwbzZrMXI0anhXc1FUVFZFQ3VtTzhuLTRQd0F6Yjl5LUhaQWNZUHZUdUlMSU84b3pNajFoTXRGMTdUUTZqMXZrZw?oc=5",
-   "date": "Fri, 20 Nov 2026 14:30:15 GMT",
-   "vu_le": "2026-11-20T19:00:36.463783+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Asian stocks slide as AI spending concerns overshadow Anthropic’s record IPO - www.tmgm.com",
-   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUWRLclN5enBuMHpaQ0RDRW91UV9LY2NNT3ltQjJaQk1vUTVOcWxfY19rY1JFRzJHanZMM204amZjQmZTaFhfSEZVRHBrMXI2UVpCWTVGVXQwbURIS01MclNNQmxqcXZQSG45bGhEaWpaaGJrckpKYUVSZDRLWTR1R3pxVzJobWozdkl2MlpDZTN2bVdfamJmUTB1MmFHSE81SUl1azM1aUlMVFp5ZlNKMWxkWjZKSWQ5ZUZEOEpidmtTcndxUHRlRFF4RU5wMnFxVDNKVVBn?oc=5",
-   "date": "Fri, 20 Nov 2026 10:58:49 GMT",
-   "vu_le": "2026-11-20T18:50:48.158428+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "DoorDash announces $17 billion acquisition of Instacart - Indianapolis Recorder",
-   "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DWWR1UWlmT0VLUU9EbWlQWXYySG1MSXpxNU1WNm5weWJOOHBwanJZMnlGRVhXM0xVQ1NEY294alQ0djJ5WmgtU0NtVDBLNVRrYWw1TjlTc2x0dVByc2JvOGgyZjhHTEVwNWM0Um5nZ1ZSZw?oc=5",
-   "date": "Fri, 20 Nov 2026 16:58:57 GMT",
-   "vu_le": "2026-11-20T18:50:48.158428+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "MasTec Enters into Definitive Agreement to Acquire Murphy... - Quantisnow",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTIyc1lNRlM0dUtBdFNtakxtaDhUYVAxanI0WEdmeUZXblNRRnNIRkdzdTcxTlktYlB6UlpyTzNTUlJqX2ZLMG1mNXF3REdqVlhEZWppbWNzM3dLSUpIdTVnSFpGY2N6WEl1R01WaWVuZmpsZEpaejd5Vklsc0hkMXlSaGEzaE55anAxcWp3elUtV1NOb29Idm1FbkEtSkRjMG5SbzlDZlYzamtUTVdXdVdKZHo?oc=5",
-   "date": "Fri, 20 Nov 2026 15:00:32 GMT",
-   "vu_le": "2026-11-20T18:50:48.158428+00:00"
   }
  ],
  "erreurs": []

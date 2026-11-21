@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53122.63 EUR, jour -1.03 %, mois -29.0 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53096.68 EUR, jour -1.07 %, mois -29.03 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,10 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Intelligence artificielle] If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail
+- [Résultats d'entreprises] BJ’s Wholesale Club beats estimates, raises guidance By Investing.com - Investing.com Australia
+- [Pays émergents] Top 20 Shares For Long-Term Investment In India For November 2026 - Samco
+- [Défense, énergie, matières premières] LMT Gets $740M Awards, GD, RTX Pick Up Missile Contracts – A Look At This Week’s Defense Deals - Yahoo Finance
 - [Chine et Asie] Chinese Tech Stocks Slide As New US Chip Curbs Threaten Cloud Growth - Forbes Middle East
 - [Chine et Asie] Chinese scientists’ magic comb restores nearly 100% hair growth in mice study - South China Morning Post
 - [Chine et Asie] China’s Tech Index Gets Bigger, Broader, Stronger - NAI500
@@ -452,9 +456,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] 5 Undervalued PSU Bank Stocks with Improving Financials - Equitymaster
 - [Pays émergents] Top 6 Semiconductor Stocks In India To Invest In November 2026 - Samco
 - [Résultats d'entreprises] Earnings call transcript: The Buckle tops Q3 2026 profit view, shares jump By Investing.com - Investing.com India
-- [Résultats d'entreprises] Is Higher FFO Guidance Altering The Investment Case For SL Green Realty (SLG)? - Yahoo Finance
-- [Petites valeurs en croissance] Is It Time To Consider Buying Atrem S.A. (WSE:ATR)? - Simply Wall St
-- [Pays émergents] Indonesian leader chases Sukarno's phantom with defiant posture - Nikkei Asia
-- [Crypto] Why Is Bitcoin Dropping? BTC Falls 10% Below $57K - Bitcoin Foundation
-- [Crypto] Why Is Bitcoin Dropping? Liquidations Near $2.4B - Bitcoin Foundation
-- [Crypto] XRP Selloff: $18M in Long Liquidations as ETF A
+- [Résultats d'entrepris
