@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T15:30:35.084971+00:00",
+ "mis_a_jour": "2026-11-21T15:36:28.937688+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54694.97,
+   "prix": 54683.13,
    "devise": "EUR",
-   "jour_pct": 1.9,
-   "mois_pct": -26.9,
-   "volume": 349.81248798,
-   "volume_relatif": 1.68,
+   "jour_pct": 1.88,
+   "mois_pct": -26.91,
+   "volume": 352.62267925,
+   "volume_relatif": 1.69,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Unnerving but not unusual, investors navigating a 10% drop in the stock market - Washington Times",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORHFIYWVfdGNGTGRjOHlHNEZ1MlF0RzlicWF1Vlp5S1FsaHhta1drQldyTEw4aTl6WUV5QWRIejlaZU9TamFfaWFPVmFHUDFKUkxRZzNaNi03RC16Nzc4UDJUVDhSUlVQdzhQYmlZbDExNXNJeTZKaGExNlJUX2ZFbXZHNExCUERsN0lPclVrRjRmcTZHbFRnWThPWm45SXllWG1xTDdyeEF0Y2c5bE1nZ3F6SQ?oc=5",
+   "date": "Sat, 21 Nov 2026 14:01:57 GMT",
+   "vu_le": "2026-11-21T15:36:28.937688+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street's Fear Index Just Hit 9.7. History Says the S&P 500 Could Rally 10.5% in 3 Weeks - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHJaWVZubGZacUdrSWhjM1BhM1hqNkh1WjZWeVlIR08xTk81T3pUTmhRVmFpZ1lvMHM1Tzc0Q1VMU2MyNUtHU0FNX2l2WXRfNVVBVzZQVTg5RFZMdW9LQlZLem5ZdWtTWE9SOU0xRDFCRFZ5LWxoRFFDeFM2cDhkdDZYMHVOSDg0LVp6NTJJRG9pZXlMbHZqZjU2b1hPSkYzT253UXdHb0dZRFI2NjV2NEMtQzRzbEtRUGlXRHU2ekpMSWc3MGFFcHo5d3M?oc=5",
+   "date": "Sat, 21 Nov 2026 15:28:00 GMT",
+   "vu_le": "2026-11-21T15:36:28.937688+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "TECHNIP ENERGIES Cours Action TE, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wMExpbk5zQUNLNEJpaUtlczNubWYwTXV0S1FMamVmR1VkSV9jc3V4dVIzR1JqeEFLOHAxZ1BOVTZZbE51ZExySlYtZHRVWElf?oc=5",
+   "date": "Sat, 21 Nov 2026 07:57:43 GMT",
+   "vu_le": "2026-11-21T15:36:28.937688+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Bitcoin est prêt pour une « grande » année 2027 alors que la Fed envisage des baisses de taux agressives, selon un expert - Benzinga France",
+   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbnNvRnEwWGVVTXNWTEVKeFFGLUIxMEhadHJXTm1wakh2UW83ZEZzTFhEdzFvanZzckJYQ1lma1hEc3J4NHNIREdaU1BaYTlrSnBwZGhDdTYtVFEzdm1XTF90VGRIdTROb2hNMTF3ZW0yOVVUVDNHQUl4ckIxY2RWT3FwUXRQUWZWbHRDTi1yM2UwT2tQYmVyS05qODNBTXdQR0Z0aWczNVdLT1M0ZzlFcnpoeHJyVHlMNS0tYXVHa2RxeGc4RXdiQUhxcW1ReDVRTkF0ZzB1S1REWDFxaXZid1dR?oc=5",
+   "date": "Fri, 20 Nov 2026 20:35:10 GMT",
+   "vu_le": "2026-11-21T15:36:28.937688+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Cape Town Conversation 2026 to bring leaders from 50 countries together to shape Global South's future - https://www.indiagazette.com/",
+   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOFR6Mmg4Yll4VkZoVnpEMkV1ZGlmWE94VGRDV3E5czZFS2pscjNmZ1daYThuZjk2TENyaGdqb3UyRDZJLXBucGk0UGRYaE02TjJ1UXp0X3MyQ0dIREkwZl92c21famNvX19XMEdkcnlORzl5U0U5cUhhaXh1cGxmR09MQktKcnk0ODZZNjVqY1hVMkZ4NGJYQ3JxNGc0YnlrUVFmNmg1VHQ1ZHhQNkZSN1hQRFdnMkNNZ1djejVOSFpHaXhtMnYwcWpNZjQyQWRfdGJLYmNRMnRoQUYz?oc=5",
+   "date": "Sat, 21 Nov 2026 10:37:00 GMT",
+   "vu_le": "2026-11-21T15:36:28.937688+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin investors look to Wall Street blockchain adoption for next market catalyst - Beinsure",
+   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdG5ZTzRLbDB2X1hRcWJuVXlHOEJybWYwemN3Q2ZsM2pfNjRmUFppSGxzSkFOTGhOMXlxbXJKWllzLU14UEZIMzU2elFjM20xY2NZQ0UxWFptdlFxQXItX1NzSDlMT0dET3pIaW1fb0lKUVZSLUZ1N3I4djZUSEs5Y2dzSDBoSG1wMUZyeQ?oc=5",
+   "date": "Sat, 21 Nov 2026 15:33:59 GMT",
+   "vu_le": "2026-11-21T15:36:28.937688+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Anthropic Is Now Worth More Than Bitcoin: Could Bitcoin Pass It by 2030? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPT254UWZ5cEx5T3JEVFlKUktFaGxTeUFBTW9teUZaMG04cEhfY3laT0NzTjlSWmFvcHExZ2NtaU9lYjBBaFBsZG1xcTM0ckJ4MjNZNDJMMGhUcnRkdlo5YS1EYkNKUEZhNXVOd1NITWlES25RU3pSTVZzaE9GZk1Md0RYZXBuMHZKbUpxSzE0TWtaUjNxc2MyZWZ2UkxaU0xDcUJHanh0cE5QQ0FVNnhsZnNKall1eXRvcEQ1WmdBM1pTMkZCQURtczgtX0NNS0JHMXlBcWFMYzBKWGZaZ3hRMnBqSVNjTUpRSHNCb2NkbjNaZjI4cS1Z?oc=5",
+   "date": "Sat, 21 Nov 2026 15:32:00 GMT",
+   "vu_le": "2026-11-21T15:36:28.937688+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic: IPO Priced To Pop, Use Caution Though (NASDAQ:ANT) - Seeking Alpha",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMEJ4TTlnZ1pLclREQzdLOWlOR3NuR0RGZU5NWkVSZlhjVE1QdWpubHkyQWE2N3JDVERIODc2ak94RFllR3NFY192aHp3NVJmX185cXdzaHg4MzZiYVFoS3NJQk53cnp1Y0dzTm8xT0tQcllFeTZ1c0RqWHBwTzB4V3BNdWl6TktuaHhDTVN3Ym5nMk9zc3NhMXdZWThfamc2OGhBOFh3?oc=5",
    "date": "Thu, 19 Nov 2026 23:41:07 GMT",
    "vu_le": "2026-11-20T22:20:42.667182+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "HeartFlow (HTFL) Surges as Q2 Revenue Beats Consensus and Full-Year Guidance Is Raised - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQktHZUFKZmFIdUM5elFjRncxdW1jc0taSmVVQ1AtS01MT3hoQjNLMVlDcTh3cHhuOUtkMUpaSEtUdnRMZktobWJhdWRVTEJ6MHZvXzZVdDFmYktMUVRrcHJJT01XcTFZNnF2ZldrWEMtenFRc2Q1VmozUjFkaElsXzVnQ19LdHZHQkFiQ0pHU3ZaVTZ1UXRZOA?oc=5",
-   "date": "Fri, 20 Nov 2026 16:24:59 GMT",
-   "vu_le": "2026-11-20T22:20:42.667182+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Is Roblox (RBLX) Undervalued Following Regulatory Scrutiny And Rising Safety Costs? - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVnlMdW9oeE1GaFR5elhYYTQ5MTZpbVJaeEo5X1hCZ01Dc3kwMzIxbVpVUzJ0Ym1VZDNtMlAwSkk3VzZ0RkJvTFdkTnFIVGprV05PaV8yOFpaRkVtUEhKaURDSHliWVJweE9NNE9Uc2ZYTjNSZVNjOERIS1ppdzJ1NG9kRzl6TE9zRGQxUzN4U0cxcnlmRXB0WXVOam8zd21pUGdDTHRZRUMtTFBydmNPZ21kV1R6c2pxalljS9IBwgFBVV95cUxOTml2NHpZNFctcjFBMW8tdnFBRzZDVDYwQmNIRWRCWkQtRUM0WGVSVmE3Q2NFMHlxdUU1MVNGeS1qSl8yT2dDeTh1LVhPM2syeXZkVk5GWUJCVlN0aURiUkgyMGJSd2RaSEkxNy1BVUJNVzJHOHVRM2RqZmVWQ1M0bzdIYm1FbndyampLMVBxTC1jXzNxTU9ZSTZHOTlfYzF4Q2dtMFN1bktaYXVNX0F4WHpyeXFpV0toaVhrV2RuRHRrQQ?oc=5",
-   "date": "Fri, 20 Nov 2026 22:09:17 GMT",
-   "vu_le": "2026-11-20T22:20:42.667182+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Ushio (TSE:6925) Posted Healthy Earnings But There Are Some Other Factors To Be Aware Of - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRmotYkpzNFllX09zUWE0MkpJNFIzQVJGRXYtT2I3NjNGZU5vODZBNWlBaTJKZE9BckduNGY1WVdWMFVyclpQNGpOMzJiS1RkWjVXOFQ1c3BfU21mZ3NWbFBDYUc2S2FocXZTZTByMXdoLUNqNWdqSkhscHM4Nm03ZE8xSFE3bnU3YjN2OGF2RS1CVVotQks0U2xGUE1DTlJ1aUZPQklXRHY1QXdsd09nYnBnY3hTMDNpMW50SVpxRjZhbS1md2Q3UDFJdlBmZ9IB0wFBVV95cUxQSFI3cVNJY2d1dGRTSFVmdU4xSXE4Vkt2ZEJEZ0VjNzhOd0EyVnRJb1JXV25oSXo2cGVBRWp0c05jMjVIYjVnY3o2em9tLTVvc01HNUp4WmZrUjExdVRROXhsV2NBQjRmWC1yS1NwSmRBYm9ZWTBBdzFzckJGQTJoR2U0NG5UdThLMUZGcDRjbERISjBxVDJBYXNEMnkwN1hPMmpKUzQ2SzJzSVVocDRHZ3VGSVhQUG5xWlo5cl9aYm05NGVzM3laWFVNSEt2US1LZXZR?oc=5",
-   "date": "Fri, 20 Nov 2026 21:29:48 GMT",
-   "vu_le": "2026-11-20T22:20:42.667182+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Stock Market Weekly Round-Up (16-20 November 2026) - The Indian Awaaz",
-   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR25RTXBvbTJlMFdELVV2QlBPdXBydDlPNllpQnlQaWM5Z3c4Tk41ZmpBQ0l2Um11bWFmUVJ5Szg2TEVrRG9hcU10ZmFhTk9wSnF5TXdtODJQVWtXVEk4QjdtSllMRlJFR25jU3VxM19RVXg1b2o0ZnViR1JfZjUwVmtB?oc=5",
-   "date": "Fri, 20 Nov 2026 17:30:25 GMT",
-   "vu_le": "2026-11-20T22:20:42.667182+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "BSE SENSEX Jumps to 83,919.71 Defying the Global Tech Sell-Off Amid the Historic Meeting of Trump, Xi and Putin - BBN Times",
-   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWlB2N210Yy00QjVwOXE5dXRKMXFJaUtpc0VFa3JKTlVLS2VObVhUczhPbUhSNlFMekVSYk1jdWFuQmtMamRyTjNibHJ3aklleGozMkIyNloxdHVZd3FidTl2Y0FCX2tfRU51RzJhZzZVdk5kMkt1Y1g0dDFubnZVWkVDcDlfZ1JpRF9ycmVBVEJYaUphWkNvckxhMDRrRkZ4X1g2QTFoSGRIWFRYdjJvaEgwaWdyWmp2MkJBd2F1NGpoWi01ZG5RbTdSVGdhbGt3N3BSN2U5SUh5Q19KVnc?oc=5",
-   "date": "Fri, 20 Nov 2026 21:39:37 GMT",
-   "vu_le": "2026-11-20T22:20:42.667182+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin drops below $60,000. Is bitcoin's price volatility an investing opportunity? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPekN1LVZsSkxDQnBMaGVDMm1GZDBGclFtVXJ6YVZCUU5kR3lHMFQzY0RvSmtXem01MnpOc1Vna05hRFloRWdoWFpFY1V6S0R0dTBXQ0lsVGhTa2NaSkpTY0EtdC1nbVl3VkpOSHlyTFVObzl4bEpCbzllQVh2NWNFNGgybFZQcndFVnBiQ3ZYXy1WVXFmSlpGSUxyTWJDVnBTSHAzOTZaV0FabmYxZHNoVElwcUQ2WkNIa1o1QnJoLXNVbmlOQWdtaThVaWk3TDVmTlNzQW1fS1lEeXFRV0hoYUVYZk1NMlczZFM0?oc=5",
-   "date": "Fri, 20 Nov 2026 20:22:35 GMT",
-   "vu_le": "2026-11-20T22:20:42.667182+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street Nears Breaking Point as Fear Grips Global Markets - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzFZMUV0TnJwY0RVNXBBYzRZQVJZQ0lUYnhrMWhsTnZwU0xpVUlLejFRbTRvZUxOM3JLbmZGRTBNS0kyZ2NJMEtuUHZVRDE0YlFhM0NHaHF1eHZ0cnJsTlE0VHNBWVdodC01ZEtLZ0dUR3kycTBxSC1QdVNzUVRTaG9KcUtSQXZsWTZjdm5XdzR5UHJPZkgtV2xSeHJZMW15dnpDNG4xci16UmhXOXR4dTFR?oc=5",
-   "date": "Fri, 20 Nov 2026 21:52:00 GMT",
-   "vu_le": "2026-11-20T22:10:36.540160+00:00"
   }
  ],
  "erreurs": []
