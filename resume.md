@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 51945.39 EUR, jour -3.22 %, mois -30.57 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 51796.2 EUR, jour -3.5 %, mois -30.77 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - KWG Living Group Holdings Limited (HKEX:3913, secteur Finance) jour 0 %, mois -4.2 %, prix 0.114 HKD, capi 230947913, PER None, volume x16.81 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 4929084342, PER None, volume x1.05 la normale
 - Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 2941617737, PER 2857.1, volume x5.28 la normale
+- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 4929084342, PER None, volume x1.05 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 4206552544.9999995, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 582864017, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3253783353, PER None, volume x1.08 la normale
@@ -317,6 +317,10 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Petites valeurs en croissance] Photronics (PLAB) Stock Could Be 29% Undervalued Despite Fresh AI Supply Chain Uncertainty - Yahoo Finance
+- [Défense, énergie, matières premières] U.S. Global Technology and Aerospace & Defense ETF (WAR) Stock Price, News, Quote & History - Yahoo! Finance Canada
+- [Crypto] Nvidia and SanDisk Bets Joined Bitcoin in a $1.76 Billion Liquidation Wave - BeInCrypto
+- [Crypto] Dogecoin price on Nov 20, 2026 at 8pm EST Crypto Prediction Market - Robinhood
 - [Anthropic (FR)] Les marchés financiers “plongent” tandis que les inquiétudes liées à l’IA s’intensifient - Courrier international
 - [Banques centrales et taux] Bessent exhorte la Fed à éviter une forte hausse des taux, invoquant le choc énergétique - Mezha.net
 - [Crypto] BTC price on Nov 20, 2026 at 11pm EST Crypto Prediction Market - Robinhood
@@ -457,7 +461,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] Anthropic’s IPO was really rich, maybe too rich - Yahoo Finance
 - [Marchés mondiaux] Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction - Yahoo Finance
 - [Marchés mondiaux] Nasdaq wipes out 2026 gains, Dow & S&P 500 fall into correction territory - CBC
-- [Marchés mondiaux] Dell Stock Plunges 10% in the AI Selloff and Heads for Its Worst Month Since Its 2018 Return to the Stock Market. Earnings Are Tuesday - 24/7 Wall St.
-- [Banques centrales et taux] FOREX-Le dollar s'affaiblit alors que la reprise alimentée par la Fed marque le pas ; la baisse des rendements - Boursorama
-- [Introductions en bourse] Anthropic Slides After Debut as AI Stocks Extend Losses - Unite.AI
-- [Rachats et fusions] DOJ closes investigation into $66.8 billion NextEra-Dominion
+- [Marchés mondiaux

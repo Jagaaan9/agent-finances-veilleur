@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T03:50:35.963966+00:00",
+ "mis_a_jour": "2026-11-21T04:00:36.748241+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 51945.39,
+   "prix": 51796.2,
    "devise": "EUR",
-   "jour_pct": -3.22,
-   "mois_pct": -30.57,
-   "volume": 64.76869622,
-   "volume_relatif": 0.31,
+   "jour_pct": -3.5,
+   "mois_pct": -30.77,
+   "volume": 75.37736928,
+   "volume_relatif": 0.36,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 4929084342,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 4929084342,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Photronics (PLAB) Stock Could Be 29% Undervalued Despite Fresh AI Supply Chain Uncertainty - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZnlzM0RidkFWT0xzY1ZNTVcxNTVQR0lSc2ZZUUpZbDEtdVRnX01BWlJidWRmWnFkUTlaTmVjYnc0a3RraWdGTF9ZMDdadnJOUWRDTzI1cnJHXzB5aGdET2VFa0tQRVZIM1RUd1JLc1hiR1loVTVhQ2hMWUI1TGJEbmhGV0doSXJvRHVrZUpLTVFMOHZfenhISlcwMA?oc=5",
+   "date": "Sat, 21 Nov 2026 03:16:00 GMT",
+   "vu_le": "2026-11-21T04:00:36.748241+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "U.S. Global Technology and Aerospace & Defense ETF (WAR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTREFxdnNZZDZaU2JXRmFfdkFxZGMtUWVlQnZqcXdCTzNPMkNoZ29MVmo3TGJWRzkwN1RpbEpLT3l2UUo1cHZCN1BDRDV0Q3hn?oc=5",
+   "date": "Fri, 20 Nov 2026 04:06:28 GMT",
+   "vu_le": "2026-11-21T04:00:36.748241+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Nvidia and SanDisk Bets Joined Bitcoin in a $1.76 Billion Liquidation Wave - BeInCrypto",
+   "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3Y3hVaUJUeV9YZUYyU3A3bnVKNlNVSi1wZ0NZZTctMG96WkptWW9CQ0ltNl9FbV94Q3k4X0xkMjF5RDlnZGp1ZFhfbDI3dTVpeTFSZjFTTGZVY0dOOGUzc191U09EelhwbVJFcWtSTG9WN0ZXcmRiSA?oc=5",
+   "date": "Sat, 21 Nov 2026 03:48:02 GMT",
+   "vu_le": "2026-11-21T04:00:36.748241+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Dogecoin price on Nov 20, 2026 at 8pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORVB2WDNFVmU3ajFKZm1COThNX0pKN1BPclVnVDlIbGtRdmxRMDctTkVrdTVPVjdzZ1pEMUxSQ1hHVVI0cWtodkRkQnEtaFFRYXZWRzdudDFERGtRZFc5ZFVGMUFNMmlralVxWjBvWm5CVm5OQXROVEpBeDl2MGI0bTlyeHJvWTJXcnhra1FJU3luWW1fbWtaVEQxYWlSaElpLWtqV2o2aHcxa1R2QkVydzhQN2c?oc=5",
+   "date": "Sat, 21 Nov 2026 00:07:21 GMT",
+   "vu_le": "2026-11-21T04:00:36.748241+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Les marchés financiers “plongent” tandis que les inquiétudes liées à l’IA s’intensifient - Courrier international",
@@ -6523,34 +6551,6 @@
    "titre": "VERALLIA Cours Action VRLA, Cotation Bourse Euronext Paris - Boursorama",
    "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ibG9MWUdwY2RrVkxXVzJYZkh6cUpyZXdOSHpwZ2tMUl9QcEdadnhTZ2VDX2tReWpPcFpwUk1lX0ZjbEItVzdqQXFIU1B0a0tlVV9J?oc=5",
    "date": "Fri, 20 Nov 2026 11:34:52 GMT",
-   "vu_le": "2026-11-20T15:10:35.864171+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "BCE : remonter les taux à un niveau qui commence à peser sur l'économie - Boursier.com",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdzdiRmlLWkZPQ0VYT24yb2ZNdXhhcm1HOVdSYk4zQ3g2UHBISGQ3MlA1MWJMcjNGMFdPc2k2d1cwWjh2b1JBaTB5aXQ2Wk1kT1JoWXhPTzNNS1FGdUVnUi1LWndDUFZCeExzOFdZcHBiRDVadzQ3clBYU1gyejF2dGJHa1JSdHZKZzZwV0JBUnV6SU1Sd3I0OTRhdENxVUJPTXNrQ3U5V3pUaml6ZENETHQxRnZqOWRzZlFnNGJhTkN6WVZhbUtWcjFLMA?oc=5",
-   "date": "Fri, 20 Nov 2026 15:01:00 GMT",
-   "vu_le": "2026-11-20T15:10:35.864171+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "BCE : les lignes de swap en euros plus accessibles que jamais ! - Le Revenu",
-   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm94bjZ4amNWSDBPRV9ZTk5GSGFERXFrU2MwMG9DSnZWVTlFOHF1NUdQRUJ4a3RuX212X3lyVko5cXZvM0tVWGMteEZhUTlJTnJCdzhkQ0lRMURxdjFEbkcyTXJOSUtjemRoUkRQS21JM2U5ajJQQ01GVE1LQUtaQnNoT2N4TlFUSVZWUk13YXY3bG4zQ0lwRDlCOVVBd0hZWk02QThsRUhVcFFPQ0JsZzhRWFU2d3FJU2hXQVpsRjA?oc=5",
-   "date": "Fri, 20 Nov 2026 14:58:00 GMT",
-   "vu_le": "2026-11-20T15:10:35.864171+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "'Big Short' Michael Burry says he 'tried to warn' about Nvidia, CoreWeave, Nebius stocks - Business Insider",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkZVMDlacnZFTUdQWmc0dGpKNUl5UFpTdjBPM1ZXdWFsN1RNazJabnpwYnk3WE9fM3Vrb1dSdFF2QkIwSzZPdGRJaW9TOFhKUzFQZml6UU4zSlAwXy1aMW5VTlZhN1RMdjJsNWdXR2VmSTdpRjh4enRBUHl3Rjc1N0c2UWxiTVVzcTRhWXdLRTFvd1c3M2hqOUJ0Z25WU3BvTndDTQ?oc=5",
-   "date": "Fri, 20 Nov 2026 14:59:00 GMT",
-   "vu_le": "2026-11-20T15:10:35.864171+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "TDAC, ProLogium amend SPAC merger at $3.9B equity value - Dealroom",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRlROZEwtVGRxTGFGenY0WVhpS3JCMHgxaVhITXNPOFVtZ09PemlBdGdpMDNfa3MyUnJlejJMdmx3UkNpdGhMU3NlNXVMRTlfWEd6Qy00M19nMnRCcU81N3J3T21LVHRId2U0eGNIYkZTQU5oekdhTElDbzc2WHV3dEIybXphMG9BVFR0aFRnU3I?oc=5",
-   "date": "Fri, 20 Nov 2026 14:13:08 GMT",
    "vu_le": "2026-11-20T15:10:35.864171+00:00"
   }
  ],
