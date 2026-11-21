@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T09:30:35.388182+00:00",
+ "mis_a_jour": "2026-11-21T09:40:38.047895+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52958.46,
+   "prix": 52820.69,
    "devise": "EUR",
-   "jour_pct": -1.33,
-   "mois_pct": -29.22,
-   "volume": 202.33954452,
+   "jour_pct": -1.59,
+   "mois_pct": -29.4,
+   "volume": 202.64908989,
    "volume_relatif": 0.97,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3323658863800,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3323658863800,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3323658863800,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Le CAC 40 repasse sous les 8 000 points - Zonebourse",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWXNubmxsV1FDS0U4aUg1R0p1NHI3RlNKc2JBVlVUY255RXZHT0xTTF9qQUxEcFkwbnp6ZW9kR0owQ3VHM1NHMGE0ZzVMS1l5Wlk0d2VESVJSWHVUSVpSX1BFRmFza3A1Q3I1dXljNUQ5RGd2S2FVdHZDMVNQRnhzMzV2R0Zoei1zaXRWYXQwejFwWG55VGhBaVJwcUhnVEhIUmc?oc=5",
+   "date": "Fri, 20 Nov 2026 09:42:24 GMT",
+   "vu_le": "2026-11-21T09:40:38.047895+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Hong Kong Stock Exchange: Hang Seng Index Slides to 22,410.80 Amid US-Iran Negotiations - BBN Times",
+   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM09FaGRiSmt4SDQxRW5ZUEM1OTV3dmE3MjdSeFAzT2F3djZMN3M3NnMyOWVzUnp1anVDYURUNC1wZkNqTl8wczVQOU9ZdHp0RFk5ZGhTenpaSEVIdjFtM0oxcE5KQUJuRmNZRTRrUTh0MHB0MGI0cEJBU1VRdk1JT00wdUdxajVjVENUOXpoLUNJZFlpdlBsTVRXcWV1LVEtaGZEMXFVd2N5blQ2Rk1maVo2SUdva3NIbDhoT3pB?oc=5",
+   "date": "Fri, 20 Nov 2026 21:54:53 GMT",
+   "vu_le": "2026-11-21T09:40:38.047895+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "The chip war’s next battleground - Financial Times",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ19qYnp1MlBaZldnRnozZXUxWjlTLXhWMFk3NXNmcEU5MWtXbzlDUFBiUlNLUkpFcU1OMTBySDRraFp0V2hKNUlpTzkwWEU4VlVHOGdHWWVHOUxGSVNXU1d6SU5yNllsdGZBUUpQQ2I2VlhWRnZnWlZVWThfTDc0RWRjOEI?oc=5",
+   "date": "Sat, 21 Nov 2026 05:00:36 GMT",
+   "vu_le": "2026-11-21T09:40:38.047895+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic’s IPO Is a Win for Venture. Its Success Could Reshape the Industry. - WSJ",
@@ -6530,27 +6551,6 @@
    "titre": "Can Mondelez's Emerging Markets Fuel Long-Term Growth? - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaENQN0dCc013QTZ3WURGNlgtS21fdVhjbHNQT2JVVUZzelZiOVJkNkxjWi1XVTFnYlJ3THBVZGpJLXVaOVFmQTdQRDE5WVVlNElSUGlnTjliQzBQbzlvWENLTThMb0RIYXlhZWRDMjR1cUQ1Zm1WbVRlS3VQWUlSYWJ1X1JWclpRMUVXcW41SEtqbXEtQ1BaQWl5elNtTFZoQWV3?oc=5",
    "date": "Fri, 20 Nov 2026 14:50:00 GMT",
-   "vu_le": "2026-11-20T17:30:37.127167+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Europe's cheap-labour edge fades as emerging markets catch up - IntelliNews Lambda - bne IntelliNews",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWFwbjA4M0dWVTBSdHRTdk9RVlQxMnZORlVhQlBGN2lCSGNQVDNibmhvX1JDUHBLek12VnZuTm5UaUJ3QWgzUWVmcU1YRy1PTEtrcUtfaDNiSjhuQ2VUVENJTDh0NkdKdVpLRE5xUzVHdEl6Mkx4RGVQeHBGWE1XdmV4NThsNUFtWEdKZEVOalVpclhGNjJGMGxzNHVqX3JSMlc4ZERXZ0t3NDZ2YjJkLWtTUm4xZU9PU2xSQTFiU3VQdFA4SFBaaQ?oc=5",
-   "date": "Fri, 20 Nov 2026 17:20:39 GMT",
-   "vu_le": "2026-11-20T17:30:37.127167+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Indian Shares Rise for Fourth Week as Foreign Money Flows In - JournalArta",
-   "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQemxWOHVDaGxTRnR0allYd3RKSERjSjl2TVZkOU9Md0xYaVVZRlhFSmhmR2pGRkMtRVlOME5hRzIzYWNnYXlaRDl0TDRITUxVdkdlYXV6dk9xQ3JWeGp0YTZpUTN2b0MybURuTkhGQl9VcVpEaW5veDlrUjNmWXVmd1ZMMHJLcHc?oc=5",
-   "date": "Fri, 20 Nov 2026 15:41:14 GMT",
-   "vu_le": "2026-11-20T17:30:37.127167+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Product wrap: from CEE stocks to defense – new launches across Central Europe - SRP Structured Products",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjBWQlVhUVk1QUZkeGJrT2hUaDIxekVRVjN0czRNYjZCN0p4TVpGT3E4c2VYdzI0RS1meGxUZFRIUHhid1FualBYTWV4LTNDRDhsaHk4QmIyMk1nV2NGSkhoTXFxNDRHU3QxQ2hHd0ZhTkxpbTBTLTlzNU56ZlVmS2xibEJJc1p1WE5kckRaV2tORGxLVjYxeUprZGNISlhOZ29EV1ZkNzJNLW5hZFBJeTFaRHlEVUV3Rm53UDRoOGpFa0U5VTRlNTBHWQ?oc=5",
-   "date": "Fri, 20 Nov 2026 17:23:23 GMT",
    "vu_le": "2026-11-20T17:30:37.127167+00:00"
   }
  ],
