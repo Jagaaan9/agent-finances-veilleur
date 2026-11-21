@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T05:50:35.521944+00:00",
+ "mis_a_jour": "2026-11-21T06:00:40.038897+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 51047.21,
+   "prix": 50891.77,
    "devise": "EUR",
-   "jour_pct": -4.89,
-   "mois_pct": -31.77,
-   "volume": 119.8431412,
-   "volume_relatif": 0.57,
+   "jour_pct": -5.18,
+   "mois_pct": -31.98,
+   "volume": 123.69965825,
+   "volume_relatif": 0.59,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3754,6 +3754,20 @@
  },
  "actualites": [
   {
+   "sujet": "Intelligence artificielle",
+   "titre": "Wall Street Had a Big Week. Why are AI and Tech Stocks Still Crashing? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3o4VzdIaVZQaWZ3UjBzaVBsOFkyekw3Z0U1SkVZT1pkM3hsZlNTODNtbVJNSWRHRWI4ckNvU0V1TUtOazlKTkM3NVdCVVJXd0xDZ0lRQ2V4YUhGZlBveGNkRHNKeXQtdkRqTUVneDYxdDhjNFVmVnZpOEd1RURucDh6Ry0zMWctaDM4QzB5TldMNEU?oc=5",
+   "date": "Fri, 20 Nov 2026 18:35:00 GMT",
+   "vu_le": "2026-11-21T06:00:40.038897+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "TransDigm Group Heads These 3 Space Stocks To Watch - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaGZRUjEycGtHNTRMT3E3Q1BXQkVsYk1FTTdkM0JmT0VORkV4OVJacHhvQnR0LTFjN25XLUJxeVI2SWs1d2xUNVR3UzVudUMxMzR5QnRFaC0zQlBiT2Z2cDlndEJ4Tms5bDFzV0JRUnFRWFlrY01MZkdQbXVOeDJNMWpHR3Z1ZnQ0YWE2MEtHNnJpaF9JUDRRWWhn?oc=5",
+   "date": "Sat, 21 Nov 2026 05:12:00 GMT",
+   "vu_le": "2026-11-21T06:00:40.038897+00:00"
+  },
+  {
    "sujet": "Anthropic (FR)",
    "titre": "Anthropic : 600 salariés à plus de 91 millions d'euros, la France ne compte que 1 800 foyers au-dessus de 100 millions - JeChange",
    "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONU80YXFadThSR0QyTnhVX2JFMkpmNnJrR1dhUzFPa2xlVDZyZ2ZzdnZDUUM3MlpGejFZc1Rlb3hydFhodHZEaklZZEVtUVpaZkJDN3FRWnBwRGRTZ0dkcFlFU0NjREl1a1l5UXVSQkg1ZWpGclVFeGlnQjFxQTNPSDlZT1MwanhZXzBDOHQ3UFJRWW9fc3NDakt0bzM1M0ljMXhLODZyMFZoaU5UdDFvUUNQUGloYnc?oc=5",
@@ -6537,20 +6551,6 @@
    "titre": "Wall Street Analysts Believe Unity Software (U) Could Rally 26.25%: Here's is How to Trade - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcHM4aXhOMEdwb0RRM1RtZFBJb05jN3R4RmcwR1FJTkpIZ0hwcG83V1hHX0U1WnlxdzRlaVR0a0JGVW9VSXM0Nk1rQVR0Rm92NmR4cGJTejlZNEJieUVGNU9VX3ZWVC03eGZqd1pUZVZ3RF84czNaN0xLbU1aTVFUTnNlWnRPV2NrRjZQZF93MjFkcmNFWUoxUklrOGFfNDRU?oc=5",
    "date": "Fri, 20 Nov 2026 13:55:03 GMT",
-   "vu_le": "2026-11-20T15:40:36.133883+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "3 Magnificent AI Chip Stocks That Could Help Set You Up for Life - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3BUemhybVhLVU50b3JsTUlJWGNldmcyN1ZxWDI3Si1SdWlhWk5aSDcwY1NoazVrQlNwYzZVTHBkVnh1NkNtRmhqNjJENlJybEVIMHFucU92RHB3TzEwSnRRbUg5a3NCcEdQSm90TTZ2dlNpaFUxRHQ2MGhzbG5Zai1MdFZzZ2RaLWRpeXA5dmZFTmN1OXdn?oc=5",
-   "date": "Fri, 20 Nov 2026 12:05:02 GMT",
-   "vu_le": "2026-11-20T15:40:36.133883+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Decibel Cannabis Company TSXV:DB in Focus: S&P/TSX Venture Composite Index Small Cap Growth Stock Faces a Key Test on 20 November 2026 - kalkine.ca",
-   "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOVRCVEprS2NCcF90T1ZBTjZkSnFrY1FWMVZ1RUk2SHRDTzQxb3VuNmwzTG5HMWpHX3Fvb1ZpLWhaeDJLRjRHV0dDUzVwVkFXTm1zS1ptLU5vMkV4dFVnRDc2SE50RFJUWWticXRhZUREeUVtd2ZOaVRVcE05NnJMcUVPM182WW5yN3pzQ3BuMFh4WWttNm9nRWhScXVHZ1RremwzNk14YzF3d2dia3dnYWt4bnh3VHZ6elJpVEtPU2tya1l0MTVMUzJyMW01cWtqQ3ZaQzlyQkVHbUJvVl9VUHczYWxzOEtmX082S3c1TlZZQ0lEN3c?oc=5",
-   "date": "Fri, 20 Nov 2026 14:58:00 GMT",
    "vu_le": "2026-11-20T15:40:36.133883+00:00"
   }
  ],
