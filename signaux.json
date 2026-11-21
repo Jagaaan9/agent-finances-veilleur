@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T20:50:35.554746+00:00",
+ "mis_a_jour": "2026-11-21T21:00:38.419765+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55029.27,
+   "prix": 55102.83,
    "devise": "EUR",
-   "jour_pct": 2.53,
-   "mois_pct": -26.45,
-   "volume": 400.78633211,
-   "volume_relatif": 1.92,
+   "jour_pct": 2.66,
+   "mois_pct": -26.35,
+   "volume": 401.48999498,
+   "volume_relatif": 1.93,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Taiwan Bans Short Sales of Stocks in New Move to Calm Markets - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0lVX2ZZa3c3NkJvd3dNbnNMN3Vzc1hNSVZaNEctQm1yV3l5Yi1qbnlqaGhuQl8tU0JScU9XSlV6dWVwNXBOYVhUejNZSjdGNmtuQ3Y5eXoxenUtZl9Xc3lNMC1aOWlEVHp3Vm9HUWJaSXRrOVU5T3VEV3dkNlBFYTdsWHdlZk80UzQycGxEdmJTazRqNUltVzVWdWUyMHhnVTAxWFBRa0MtcngzSlpiNWx3?oc=5",
+   "date": "Sat, 21 Nov 2026 09:03:38 GMT",
+   "vu_le": "2026-11-21T21:00:38.419765+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Mergers and Acquisitions Montenegro: 2026 Law Guide - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWnoxbVlyc3FvY1pwaDhEZ3otMklUQzZzTmxwSF9Kc0lLXzJlQjFFVGhoZXhCZTZYSHBBcjdVMkxrcnVsc2FzZ0UwWUJqNmEydmlmTllIVk5HNXhvSzRVdzlVNkJObUx4eFh6M2tVZTZiZElwcDlwSnQ4blVDYXZrY1RrbUJmX25QLTVZdTlKSkRod255?oc=5",
+   "date": "Sat, 21 Nov 2026 13:57:28 GMT",
+   "vu_le": "2026-11-21T21:00:38.419765+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Bank Acquisition Hungary 2026: Approvals, Timeline, Costs and Deal Structure - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNak5CQURqTldzMVlMSndkSGNjMk9aU3FuV1RFZEEtM1NkakRic2RqUGNia1pFam05WkZucGtsTTQwWlVEUVJKUGtFTk9MbkU5YW15MG5odjhOY3VvMHpsRGdFOEdsWUE0anBaSWdsd3FTZWo5Y3ZlMzVIUzJUcUxkNVlsMHVmbGZZRDJEY1BNb1I?oc=5",
+   "date": "Sat, 21 Nov 2026 13:37:25 GMT",
+   "vu_le": "2026-11-21T21:00:38.419765+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "The S&P 500 Is Now Below Every Wall Street Year-End Target for 2026 - 24/7 Wall St.",
@@ -6530,27 +6551,6 @@
    "titre": "AMPERA and Berto Acquisition to combine in $900 million deal - ET Datacenters",
    "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNenVfcWtGOEJrMTJlYURwM2tMcEZ1aldia3kzU0pTTGJ6MTNDM1k0NERydmRHc2JyTjMyWW5RMnE0dzd0NGM0dHRqQWFzN01TTDUyMjY3WHd5d2R5aVliRHRlMHJzSS15allnRktXUldIeXM1bHRNVXZkMDZmOTRZUlQ1LXJGYktXX2c5Nkh0TXdjaF9kTm5uM0E2SVgySFBHYWtPbXNnNUF5UGQ0eUU0UUwxTXRzcE5CWE9aenZyMDB5WVNNZUdCeXE5VXpiNWhMWDdXeW1SNlVsNjRlaDduYnRDcjhaVkkz0gHsAUFVX3lxTE5IbDZYSFZuS2N1Q0lVN1M5b2ZvSTJkeHJrQXFLWW41bDRHUElFbTA5NWVCeEYtbVJITzhDVy00UGdFTUhpLXI2cU9NMmhGelBiSjdKeVhfZjllTVdHR0tqdmRkcGR3OEJYU1dBVm96SjhXYnlabHNYOUVnUGJQUEV3U1lhT3ZLbWhOMnVCUlJkdW4yVURmb3RLM1UwbFZxYnJtRmVpUktFVW43U1FiblNRbi12YXVScEZUazhTbGkweFBWOUVCVldBU2kzOXZGcW9XVnNEOWp6am5OanNYVnpfc2NVWFZwNE9lNGVn?oc=5",
    "date": "Sat, 21 Nov 2026 02:34:18 GMT",
-   "vu_le": "2026-11-21T08:00:36.304833+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "MSCI Asks Indonesia to Criminalize Stock Manipulation Perpetrators - IDNFinancials",
-   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZnEzcUliYzhtZkRib292Wld3U1RTbFJhdGdtOGNwZWI2eGxUeUFvVEtMTEtBVTRMclVsaW0yVzJtVXJ1TUJwNDhxV1BPZTJWTGtKLTdBdzZmTnMyWFdCR09jMU00Z19yYzlMazljVlMyUURXY2ttLTZmZHZPOFFmV0FWcXNTMjhPM0hlaG5haVNHQTJuVFJJYnExdC1iMnFTX1B6LU9mWmVEMWc?oc=5",
-   "date": "Sat, 21 Nov 2026 04:00:00 GMT",
-   "vu_le": "2026-11-21T08:00:36.304833+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Indian markets may see reasonable upside over next 12 months; FPIs unwinding underweight positions: HSBC MF's Cheenu Gupta - www.indiagazette.com",
-   "lien": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQY1dHNTFKWjBTYWpTUHBsaHJJMTM5b01NM2xqYS1ScFhZNDJ0NWdkYTRVOERkUjNlaTdQUzhUSlNNMm9YV0pWMnBxeHRXWjVLRjV2TnNZTEtnLUdyTmlZN1VpRl95XzlaTl94RGhBREhZTjZ6ZFIzb3dWVW5XX0hldFJDSUt3ZzlGS19ya2FsRU5wT2VXZTQ5TVFhWHhXTGQ5Y3VIeUVpdFhfTTVmS3Z4U3J1XzNHUW9CbUJ1V2ZMNkI1cVJ3NFJIQ1ZTbktwUWM5Vjc2Nmh2UVBoaWdaeGdWUVVkTWFuQ1JLc2hweFBtU3AyamlL?oc=5",
-   "date": "Sat, 21 Nov 2026 03:06:00 GMT",
-   "vu_le": "2026-11-21T08:00:36.304833+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "AI Stocks Are Crashing Abroad. Why India Is Watching From the Sidelines - LinkedIn",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObE9Zd25PckpQanREbUNFWjU5S082TmRiM0hZMV9vajkycG53Zl9sdmZSTmtWUHdYNWpJck12MFpFR3U5NU1qR3l3M0ZzdnhRcjNNNmdSdG84YjFwbHJQZTA3U19hSE9xbUczZmUtTkNDTTRIMjhvRlFtV3pkS3ZTNWpmUldycTVPbl9FYTQwQlZ6Q0laUGR0YVZ4dV8?oc=5",
-   "date": "Fri, 20 Nov 2026 08:02:08 GMT",
    "vu_le": "2026-11-21T08:00:36.304833+00:00"
   }
  ],
