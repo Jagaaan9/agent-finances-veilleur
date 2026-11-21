@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T19:40:34.715947+00:00",
+ "mis_a_jour": "2026-11-21T19:50:35.438247+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55059.98,
+   "prix": 55087.03,
    "devise": "EUR",
-   "jour_pct": 2.58,
-   "mois_pct": -26.41,
-   "volume": 390.03119347,
-   "volume_relatif": 1.87,
+   "jour_pct": 2.63,
+   "mois_pct": -26.37,
+   "volume": 392.17157625,
+   "volume_relatif": 1.88,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Budget européen : une taxe sur les géants du numérique pour débloquer les discussions - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNE1LVXFvbFZ0a3hfTzJSRTg1ck1NMHVUQ21BVjZpYkJvLVpoMEc0QXBpeVRNbnhKUE9kakRaeU83UUZwc3FfSnFyX2lHdGxsZWg2M0RhYVh6Skx6dG9KT1l2TjZCYmtjb1UxZV9XMXN6Q0lrVzZfc0l4dGc5dWM4UTQ4d25EbE1Mb0ZOcV9IbFlaM2lBcjBkdjdjOVBmZVdZWm8zWllZVWNXQkZkeGYwZjJ2dzJTVFNkMkJkRjUyY0tfU1ZGbGpwSzN0dUw2VnB3WnRoUHBXektib2c2aXdMVncxellhdTNzYktiY3dIYlRxVEdKOFVjTlhqRDk4S3A5N2NjeVRxTjdJNHBBelNz?oc=5",
+   "date": "Sat, 21 Nov 2026 01:47:00 GMT",
+   "vu_le": "2026-11-21T19:50:35.438247+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "MSCI Is Cutting Strategy and Metaplanet From Its Indexes. Here's What It Means for Bitcoin Treasury Company Stocks. - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObHN3NzNSVkZkMkRhcE9qRkw1QXZkZmdDOElscEN6aUFoQXYtdk0zNlJqSDZQUGhHQkdtWEVqQTFEY2NzUEpreEVaZ1FaUGVKTjlBdjVvVmVBUW9BTFlybDNKcU51TmhGWTVRX296VmZDclVxb191eFRhNUdOaUpKWEMwWDhFaGJxcGNnSzA2ck9PeVRGUmRqSDE2WWlIbFNRc2FTVHVieDRQcWlYVnF4REYya1hNdGMwWFIxQkdCMkxtbC1wVnVRdmpiYlF2dUM1b1AtdzZ5NFVHYTBxSVBKRjJnOWlvTlVUVVFyYQ?oc=5",
+   "date": "Sat, 21 Nov 2026 19:17:02 GMT",
+   "vu_le": "2026-11-21T19:50:35.438247+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Dogecoin price on Nov 21, 2026 at 12pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZmlPdGFtczdWYU5xMEpLWWtHVUtmRS0zOHFBSENCWXZwaTREelhBWjN1LTFUVmp0MEdEcFp0YkdoN0pWWmxSSllqYkpnX0hNaWd5LWhDcnJjNXljSDBKS01RSmdadVNPcHktSlBJeGRoVWVHSVUyYkczZndhYnd1c3haVmtfdWRjdVM2elNoNEktLUVZV2pBaERLRDhIUE9HTXRPQWcxZW42a2hNLVZjaHpDWU5uZw?oc=5",
+   "date": "Sat, 21 Nov 2026 16:11:33 GMT",
+   "vu_le": "2026-11-21T19:50:35.438247+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "HYPE price on Nov 21, 2026 at 9am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHZZZXA0MHpibkQwNEtLNVUwZy1IanJpdmo5cWtYQlVlY1JwNEt4eS1sUDk1NWVGVld1MTRUeGZ5TG5qNk01VE52QWRLM19iSmRKWk1MRERjRXNGV2plbTNNNmpTdm84TC14YmpST184RFRRSkMyT3JpWWZjcTRFTmVnNG80ck1iV0RkVDVxaTZpVmdqeWkxLVNZbG93WEpNZ2RFc3VyNU8yVU11NWJB?oc=5",
+   "date": "Sat, 21 Nov 2026 13:17:43 GMT",
+   "vu_le": "2026-11-21T19:50:35.438247+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Anthropic se constitue un trésor de guerre de 220 milliards de dollars - 24matins",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbk1rZkc5b2xmQ211MmlZa01Wc09oZ2RYV0NNbEdiM2dpWkYyRTJBUDhWQVQ1Wld3anpQaUJKNzBxbjZYQ1pWNW5IZzIwakVfVExfdGY2SS14WUNzZ2hiXzBYWE9MV1hEdXBzeUx6eTVHWmN1c2V6T1RtdlRYb0hYVFdsWXM3cUdZWmJBQzA4ZVA5QXQ1NUl3eEJvMFRBX09xT0NvN24xS2ZTa0ljV2c?oc=5",
    "date": "Sat, 21 Nov 2026 06:11:02 GMT",
    "vu_le": "2026-11-21T06:20:35.031995+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin developers fix 'medium' bug that could have delayed transactions - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX0lrTkM1WlVfcXVJVDB3VlUwMlh3cWVKNGJ5S0JTUWVqRmNtWVhhT3VfTG91X2xWWEFMWXlVT2o3SFFiNWpvNjFwLXBldGlJVkdJRFc2R3dzNWJwSEpxY0c3NXNBLVFTYkVnMnViLVk1Ny1SQjhlNUF2M2hDWDRUNGxweXJhT1czZmpFNFlFVDRLejJEMmpwOXhYbnRyU0JFcGdWM1JpczJfWGdyRGJjNkxrSnpwcjVnMURVcm0xQU5LUQ?oc=5",
-   "date": "Sat, 21 Nov 2026 06:16:42 GMT",
-   "vu_le": "2026-11-21T06:20:35.031995+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Hong Kong Stocks Sink 1.89% As Hang Seng Enters Bear Market - BusinessToday Malaysia",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc3lMWFRRS3FZb3VIWE1ud3oyYWwtaFBBdDBQTXYyVFFrdmxpZmpjX1huNjEyaWZWa2xfMFRzZldYMnRKWlk3X3JwbGRSeVVudXpYdzJ6bFZSTjVRV3RySGVEQ052c1pSSWJENHZWN2dDcHZtY05xc3JnUkxjNy0wdUk2NEluaVZqZkU4Q1pvM2kwZzBvYmZjZVhKMGFjSEF6MVVyck93?oc=5",
-   "date": "Sat, 21 Nov 2026 02:00:00 GMT",
-   "vu_le": "2026-11-21T06:10:35.342085+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Why Stocks Fall Despite Beating Earnings Expectations - EBC Financial Group",
-   "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TR3RMaDMwRGN5NnZ6TXFaMUZxS01COVVtdlZmZWVXUXRjUFJRT0JieXZLTHdNNUM2N0lkMUx2NmNjN0VLMWpJQU9KUldOcnJ4emdGS3dmejJ1eWEtUWJ3U3czcnNJNGxibTIwU0tQRnhOeXR3?oc=5",
-   "date": "Fri, 20 Nov 2026 11:04:00 GMT",
-   "vu_le": "2026-11-21T06:10:35.342085+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price: What next for Ripple-linked token as ETF assets slip under $1 billion - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTlR2b2NrTFp4Z1Vvckk2RHVOem5CaW5aZ3VJODJFZnNibTdKYnAyb2phbW53VkktRTRDTEJWazVEY1EyS3g3Q0pqeTQwNm9NeUNpem42VlZMYWc0Qld6bHRZYm54WXVkQkgycWhoSDhfTWVVa3pGa0pGbTUzcHVhSkR1TE5IY3NOTlhRSmFyYlhzOXhkUnN2dlpKRUpMRU9QVlo0MUEteXkzM3k1WVpYYWtoREtPUQ?oc=5",
-   "date": "Sat, 21 Nov 2026 05:59:19 GMT",
-   "vu_le": "2026-11-21T06:10:35.342085+00:00"
   }
  ],
  "erreurs": []
