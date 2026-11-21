@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55090.56 EUR, jour 2.64 %, mois -26.37 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54996.64 EUR, jour 2.47 %, mois -26.49 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,17 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] $1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years? - 24/7 Wall St.
+- [Banques centrales et taux] Wall Street : consommation, inflation et résultats technologiques au programme la semaine prochaine - Le Revenu
+- [Banques centrales et taux] NEAR : inflation à 1,6 %, rendement du staking en baisse - CryptoTicker.io
+- [Banques centrales et taux] Wall Street : le Nasdaq perd 7,3 %, l'IA sous pression - Le Revenu
+- [Banques centrales et taux] Le Nasdaq plonge de 5 % au lendemain de l’introduction en Bourse d’Anthropic, mais les investisseurs croient toujours à l’intelligence artificielle - Zonebourse Suisse
+- [Banques centrales et taux] TITRES DU TRÉSOR-Les rendements américains reculent sur la journée et sur la semaine ; les inquiétudes concern - Boursorama
+- [Banques centrales et taux] En une semaine, le prix de l'or dans le monde a chuté jusqu'à 350 dollars l'once. - Vietnam.vn
+- [Banques centrales et taux] La livre sterling aborde la semaine des indices PMI en faisant les frais du ralentissement de l’inflation et de la croissance des salaires - www.tmgm.com
+- [Petites valeurs en croissance] Has Unusual Machines (UMAC) Fallen Far Enough To Match Its Cash Flow? - Simply Wall St
+- [Crypto] XRP price at Nov 21, 2026 at 4pm EST Crypto Prediction Market - Robinhood
+- [Crypto] HYPE price on Nov 21, 2026 at 4pm EST Crypto Prediction Market - Robinhood
 - [Anthropic] Anthropic Stock Debut: From $83 IPO to a $97.17 Close - Memeburn
 - [Banques centrales et taux] Wall Street dévisse, mais le "Fed put" reste hors de portée - Zonebourse Suisse
 - [Banques centrales et taux] BCE : Les États-Unis, la Russie et la Chine se rencontrent pour se partager le pouvoir mondial - IDNFinancials
@@ -444,17 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Banques centrales et taux] Les cours de l'or ont chuté à leur plus bas niveau en 14 mois en raison des pressions sur les taux d'intérêt et d'une vague de ventes massives sur les marchés boursiers. - Vietnam.vn
 - [Chine et Asie] Hong Kong Stock Market Close | Hang Seng TECH Index Plunges 6.5% in a Week; NVIDIA's Sudden Leadership Change Severely Impacts AI Computing Power Supply Chain - 富途牛牛
 - [Intelligence artificielle] Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle: Credit Weekly - Bloomberg.com
-- [Pays émergents] BlackRock to Buy SulAmerica: Will Brazil Deal Fuel Its Growth? - Zacks Investment Research
-- [Pays émergents] Quick Dry Shower Curtain Market Forecast to 2035: Premiumization and E-Commerce Drive Value Growth - IndexBox
-- [Marchés mondiaux] A 10% drop for the stock market is unnerving, but it's not that unusual - Yahoo Finance
-- [Bourse de Paris et Europe] MICHELIN Cours Action ML, Cotation Bourse Euronext Paris - Boursorama
-- [Chine et Asie] Bank of China Limited (3988.HK) Stock Price, News, Quote & History - Yahoo! Finance Canada
-- [Intelligence artificielle] How China gets access to American AI chips - CBS News
-- [Petites valeurs en croissance] Does ImmunityBio, Inc. (IBRX) Have More Upside on Major ANKTIVA Milestones - Yahoo Finance
-- [Pays émergents] +28.6% in November: India’s AI stock picks, up to 55% off this early Black Friday - Investing.com India
-- [Banques centrales et taux] Trump affirme que les taux d'intérêt sont trop élevés parce que la Fed est “politisée” - TradingView
-- [Rachats et fusions] Wonder explores sale of delivery service Grubhub: report - The Business Times
-- [Rachats et fusions] As the EQT deal moves forward, Range Resources (RRC) updates its FAQ for employees on accrued vacation. - Stock Titan
-- [Crypto] Bitcoin Loses $60K for First Time Since July as AI Stocks Crash - Bitbo
-- [Crypto] Dogecoin price on Nov 21, 2026 at 7am EST Crypto Prediction Market - Robinhood
-- [Marchés mondi
+- [Pays émergents] BlackRock to Buy SulAmerica: Will
