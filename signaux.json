@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T11:10:36.761154+00:00",
+ "mis_a_jour": "2026-11-21T11:20:35.160904+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52927.37,
+   "prix": 52804.24,
    "devise": "EUR",
-   "jour_pct": -1.39,
-   "mois_pct": -29.26,
-   "volume": 239.40428031,
+   "jour_pct": -1.62,
+   "mois_pct": -29.42,
+   "volume": 240.83699987,
    "volume_relatif": 1.15,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic IPO: Amazon, Google And The Art Of The AI Cloud Deal - Forbes",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGFVS1hiSUJzbjY4b1VONUM3dmVWLW1QcEloM19BSElzbXZJYXl6WVlWMzQ0MERJY0pYQ2lTUkZJUHB0MVYyU1B4b2pfMnpCNElzX1p6c1Riek50SjJBQWZwaThhTWZxYmpselAyY200bHc4T0UyT0hsdGZxdkc3TFUwMWNJdHNmZlRwY3FuZWJRc1h1cE00a3paSlctRUxuZ3NGT2J4TWpUY3RzT213N0g2NWQ?oc=5",
+   "date": "Sat, 21 Nov 2026 11:08:30 GMT",
+   "vu_le": "2026-11-21T11:20:35.160904+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic établit un record en introduction en bourse : chaque employé devient millionnaire en dollars américains. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNUVIUUhOcjJmYnJ2MTA4UldZVC1LaVJqYzB4NHh1Mk1ENDdZdUd5LUF6RjRPOFViVWFNaHdqeElaYVZLamFjU2Q4OS1GQ3ZTalBNRFNBbW5FMGhaWXV5Qy1tT1NpSWdXVUdaNzFGa0tnZ2F2RzA3SWZFd3Rmc2o2OVltb2VMYmhiMFc1UE84d3ZiQQ?oc=5",
+   "date": "Sat, 21 Nov 2026 09:43:26 GMT",
+   "vu_le": "2026-11-21T11:20:35.160904+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "AMD Craters 18% After Research Report Claims Chipmaker ‘Has Its Own China Problem’ - Breitbart News",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd0FMWnBsbXFOWnlVd045eDJUcHVIeFcxZXF1NGJhX1h3Yl9IMEFNYTR6eG5nYnFMM0J1U1JQOXRJSjNhTHBHSk9qeWl2ejhDV1dFdjBmeEZURUc4amJZcGExTDNZQTFaeHQ2UnRJNGNvMk43THNpdlU4VUtoUEpJOFpPdUdYcG85ZkR6cGRzVnRnMWlQRUpvcEEzaDJ3Vl80VzBwb3Z2ZFlhTkg0aWpJM1l2a1RCQkZYV2pJMl9tUQ?oc=5",
+   "date": "Sat, 21 Nov 2026 00:48:10 GMT",
+   "vu_le": "2026-11-21T11:20:35.160904+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX1k2dFpsTktLOFRkUm0zWmEyeERYaFJQOEcwdmlYcVdyWjBWX2IybC10ZUNRajBZTzlqQjNGVEpGSF83ZzZFRVVYVGdxTC1HQXkzd3JjN1dnNUkzSmZ1ZlpxTlNnYldaYkE4bFdHak9tQ2o4eVhCTm1LbWxlSjhMSmY1NWhGNDRRZGluUTUtdVAtaUR1c0tvbE9ybDQ0SHJtMFVuY0RTNTVaaU94ejJvcWtKcGpNUlE0cXowLXZkbFhyMHhMcmJVaWJEeGRXLUx1dHhrN2Jn?oc=5",
+   "date": "Sat, 21 Nov 2026 11:15:02 GMT",
+   "vu_le": "2026-11-21T11:20:35.160904+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Kratos Defense & Security Solutions shares fall nearly 7% as insider selling and bearish technicals weigh - Traders Union",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEJNSG5PYWFqb2FFSmk3ckZBT3B0Rmh6LXRWWkJhcmtZTzJBVUg4ZWMzV1dtdEtNV2Y3bC1iUDBxa1d6T0JKT3F6RWxsT2ZxZGpfcFo0bkN6T25JU19XRlJzcFVZVXl0bWpQWE1wM0w3VTBfTGpvOE1LcTZmVFlyZUR4THdxY3pqX1FTWUJMTUk3QU4y?oc=5",
+   "date": "Fri, 20 Nov 2026 17:45:33 GMT",
+   "vu_le": "2026-11-21T11:20:35.160904+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Pourquoi l’entrée en Bourse record d’Anthropic n’a pas suffi à rassurer les investisseurs face à la crise Nvidia - CoinMarketCap",
@@ -6516,41 +6551,6 @@
    "titre": "Anthropic chute de 9 % pour sa deuxième séance à Wall Street - Bourse Direct",
    "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUZ4SjlRRTdPcVdOZXRWZjQtN1QwcV9ETms2SS1FQVUxNlRES2c0Wm5GcjVBS0ZyUlJuYlFfcXJJbVJzcUpkaEZ5TUZpeFA4bGdMdE11UmNLb1Yta1puRzdmU21xZHhYU0NscDJKZGVENTdlbWQ0Sko4WGRCbzF3ZGhLczNrZGoyNjJ6TU1nOGVmQ1BOcVg2QzU5anNUb1kxSDBYa0VvVGJ6eHB2V3B5U2lZZmtzWUdNR3Rvd0RNOEtLTEZTTEFtdUc4cGY0aUlFcnVoVHl2Q085UFRUOGJxYkRZOThwUTZnalZWbjJn?oc=5",
    "date": "Fri, 20 Nov 2026 14:44:00 GMT",
-   "vu_le": "2026-11-20T18:20:38.609287+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "LES MARCHÉS BOURSIERS AMÉRICAINS EN PLEINE ÉVOLUTION-Anthropic, PayPal, Nvidia - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORmNpYWZWdkFoZVlNdWlEVWQ1RE0zOXRQTjhZT29DQjl4alA1VXVkQlpsY1oza2FPbzlHenV1TjdrSHpJTmtuWEhqSktkWXZ5MHNGODNWM1NPM1U1ZWpMbGdYeEVaZlJ4NHNWbW9sRzJHOFdYUUs0bzlRX3J4eTRqSm1yRTQ5UU5uY21FWWRIdms3akF5bDlVN2JVeGlNUUFMd1psU1p3X1JRU3ljcHo4ejdjemhZM3ZTWnJ3RXNzcnlDa3BQcktkcEpmWFdHZGxhNUR1MHo3amc1ZmwzaGhMN210NVhqTjNaeHNHclJiSdIB7wFBVV95cUxORmNpYWZWdkFoZVlNdWlEVWQ1RE0zOXRQTjhZT29DQjl4alA1VXVkQlpsY1oza2FPbzlHenV1TjdrSHpJTmtuWEhqSktkWXZ5MHNGODNWM1NPM1U1ZWpMbGdYeEVaZlJ4NHNWbW9sRzJHOFdYUUs0bzlRX3J4eTRqSm1yRTQ5UU5uY21FWWRIdms3akF5bDlVN2JVeGlNUUFMd1psU1p3X1JRU3ljcHo4ejdjemhZM3ZTWnJ3RXNzcnlDa3BQcktkcEpmWFdHZGxhNUR1MHo3amc1ZmwzaGhMN210NVhqTjNaeHNHclJiSQ?oc=5",
-   "date": "Fri, 20 Nov 2026 16:11:31 GMT",
-   "vu_le": "2026-11-20T18:20:38.609287+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street Stumbles as Tech Takes Nasdaq 700 Points Lower - Schaeffer's Investment Research",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2lkYUo3WW5UQVUxc0c3ZHBja3A2TVNscHViaC1ZUkp4RkJaVWJVT2RNUXpEQlpRN0R1cUtoUlBtMGtFdTZGdi1RUGtTeGRfdExmTVJ4TmJhMVR1OER1eUZHc1Zya21pc19BLUNIcUdlNXNDYlJDRmVjemNUNm41X2JHanhkZzB3Mk9iSWRGbk5QZ2h5d1BxQklRaUs3Vnl5VnRmU09vM0VINTNIVkc2ZnNSMHphbi1LQ0NR?oc=5",
-   "date": "Fri, 20 Nov 2026 17:22:24 GMT",
-   "vu_le": "2026-11-20T18:20:38.609287+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "CAC 40 : La Bourse de Paris a perdu plus de 5% sur la semaine - Zonebourse",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0tKWm9ld2pjQlZrbTJ3ZjBycTNsNmI5SE8zWU0yZDF2OS12a0hfcnZZUnB1eXVNMTQ2b0R4VmwyTVJtS1lUYVVmVFZXeUJMTWxrWkRVLVBHLXNaWlB2ckRjWE0yOUNRa1lzNlltT0FqRFBDSmw0S2JXeWx3UWx5SWJOOWhCX2pUeWdaVEFwTzQ1dTZIMXlsTkZndlU0d2JELWVReFU0bVR1aFhSWUtuTkgyWktjRWcwTFVN?oc=5",
-   "date": "Fri, 20 Nov 2026 17:10:26 GMT",
-   "vu_le": "2026-11-20T18:20:38.609287+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Trump affirme que les taux d'intérêt sont trop élevés parce que la Fed est “politisée” - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mdDF6a3Z6MmRYRU5PYWgzYmFIUFZyWkZpVnpIb2Q3TmNtUzgwdGRBX2ltUXFPdHBzdXdWR3JzYkJrcVI3bjBSQlQ3TUE0a2lMUVMwU3lZM3FocXdIRXF1Tk1aUFZ3Y2VnZmlDV1Bjd2dYbkhoSGNR?oc=5",
-   "date": "Fri, 20 Nov 2026 17:37:19 GMT",
-   "vu_le": "2026-11-20T18:20:38.609287+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "MU, SNDK, Other Chipmakers Plunge Amid AI Trade Weakness — UBS Says Risk-Reward In Equities Has Become ‘More Balanced’ - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1ZrYVVxbGNfYzh5UFRXUGJPeVhpYjJLa3I5QUNLRFhtLWlGRDFpVXNyamFaVk03VzRFaUhEVEZuaDJPTFdMNWlOdHl2WW5lcDNhVEo0Nnk5aWVvZGJfeVRwbTRCRXc4ZTE4NGdvcEJoME9IdDJVdFMyaE9QQ0M3czg0NkdxZ2oxcjdjZGdBMU1qWVBpZlMxNlhCZw?oc=5",
-   "date": "Fri, 20 Nov 2026 16:11:54 GMT",
    "vu_le": "2026-11-20T18:20:38.609287+00:00"
   }
  ],
