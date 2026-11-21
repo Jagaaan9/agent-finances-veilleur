@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T22:30:36.181809+00:00",
+ "mis_a_jour": "2026-11-21T22:40:35.132216+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54999.9,
+   "prix": 54865.92,
    "devise": "EUR",
-   "jour_pct": 2.47,
-   "mois_pct": -26.49,
-   "volume": 409.28308639,
+   "jour_pct": 2.22,
+   "mois_pct": -26.67,
+   "volume": 409.67819496,
    "volume_relatif": 1.96,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market - Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyZHVyd0VHcUEybXVsVHpmZ3p6WTlCTTFFQzJCS215VURKcmtqd0dYbTJyMEF4ckRHNzVSSEtZZ3dzUXFjUHBHSGRrN0tCV2tUNjRVMENteXR0d1NydHJLaDNtWDdSRnVlOThmMWNaQVc5cDU3bWcybkdVRQ?oc=5",
+   "date": "Sat, 21 Nov 2026 22:02:52 GMT",
+   "vu_le": "2026-11-21T22:40:35.132216+00:00"
+  },
   {
    "sujet": "Pays émergents",
    "titre": "3 of the best ASX ETFs to buy and hold for 10 years - The Motley Fool Australia",
@@ -6544,13 +6551,6 @@
    "titre": "Nvidia : L'équivalent du PIB français envolé… Sur fond de scandale chez Nvidia et de craintes réglementaires, les géants de l'IA ont effacé plus de 3.500 milliards de dollars en six semaines à Wall Street - BFM Bourse",
    "lien": "https://news.google.com/rss/articles/CBMihANBVV95cUxNblN2WUYwXy1XVVZ6bVBxSVN3YlRWYWVEeS1EZ2EzTFlhYl82R0RlWUVVazRkMjJjcVZzbVFPVjE4YW84aVpTNlF0RVdOeTlldlVxS3lXNUxXT04yM193RGVwMWZQd0E0UDF3M24zTl8zZ1Z5TVVYOXYwNUFqVm1MNldYYXZ3eTJhNjhNOXg1UnctdElvNkpnSDVVY09NNy01RXRWb0g5bm5kYjNZdUhncmRzWjhwWUFmRWNpdUdKSC01MzFLcnVmckI5LWtwRVh0NTg2TzB2RWdLOHFiQm5PQ291RFZxTXY5ZEdMcjFuNWFlLXdJbm5jVENMak9jbExQUVdaU3JzN2RONUsyT2pWeEJVTEptajZVNGRFRk1mcWF1cE1iR3lGRGZlOWxmbFJwVFBaZkdkeFdEeFFtY19mWElONVI0ejlWSGQwWVlqTEJld1JkUm5hQk0zSFlfU2V1Q3pEYnhqeFoxb3dpeGZxcnFrbHZpd29OaTU0YkxqYklMMnJf?oc=5",
    "date": "Sat, 21 Nov 2026 10:44:42 GMT",
-   "vu_le": "2026-11-21T10:50:35.078565+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "HKSTP Debuts at MEDICA 2026, Forging Hong Kong-Europe Pathways for Life and Health Tech - Akron Beacon Journal",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMF9SMjNHYllVbExZcTVkci1oRUcyN0NWNVg2SUJ2Mms2YlQ2VTAtS2V6RTlHTVhtMjYxSldMNXl6NXVtUmFPck5yOEhsM2M0ZkxWTUVidnBMRnp2Y1V5TDE5ckJnN2xYNnJKSngzb2NnU0I3WWxpQUY0OE5qemM3R2RwNTl4ZVJ0dW11XzVDRC1qZ1JxM0QwMDJVYk91Q3dJSFdXWWhUSFpOcWJsbEZveTZJXzQwYjg4ZHhwOFo3ZEZvM09kdDZVaHpZaEhBbFJUdGhMX1R0NzFLek43?oc=5",
-   "date": "Fri, 20 Nov 2026 12:00:02 GMT",
    "vu_le": "2026-11-21T10:50:35.078565+00:00"
   }
  ],
