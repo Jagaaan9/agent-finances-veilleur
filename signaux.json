@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T07:35:34.968659+00:00",
+ "mis_a_jour": "2026-11-21T07:40:35.717971+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53121.37,
+   "prix": 53167,
    "devise": "EUR",
-   "jour_pct": -1.03,
-   "mois_pct": -29.0,
-   "volume": 148.61709109,
+   "jour_pct": -0.94,
+   "mois_pct": -28.94,
+   "volume": 148.77606168,
    "volume_relatif": 0.71,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3323658863800,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3323658863800,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3323658863800,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Pays émergents",
+   "titre": "What Does Diageo (LSE:DGE) Risk From India's Scotch Tariff Shock? - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb3dRMmVENVpMdnhRRWtYZXFvTkMzX3lHV3ZwblpsS0Rlb3RtVVMtRjZKVE9qaXVCUzBOMXlNRmRVNjQ1blNRMjZzOTZFSkZuZG9fUFR5NmRHbnFHeFRoOHhsWENkWEpUY1VRcEVtSmlXX0pYTXoyWVNfVmNYYTlZMVJXdmFyTUVBblQtWHUyNkFETkUtWlYzcm9VWW9iUnBkdzVqMno1VGFVSzRKV3J2SDc3TkRXTnJLdlRLYzVJZ0FFV19tM3BNcUhwbC1iMmVYcWNIWDg0V3LSAd4BQVVfeXFMTnpyVUtWSThEM3NQUWF5cjBCaWRNSmJubUlJc2tsYjBGNmRqakVVNGRRQkNhVDcwWkxYbVByRGxZdWhNcFk5TnR1ajY2eG5pbmhiaUNxd0FCTjBaUHJoeVFaTm9nRWJsa2otTlVyX1dWZTk1NXVQMk9jSUlfWThTc1Z5TzhSTGxubzBFRmpaY0JyYnRieEZUTnN0aDV1SkJuYnNOWE4zUmVUbG5Oc0NNM1RiVGpXTkhlYUhpVVVtbVVlNGt4MjM2cmN2b2JTc2xiZFdGYmFiMGFLd0VfSExR?oc=5",
+   "date": "Sat, 21 Nov 2026 07:09:54 GMT",
+   "vu_le": "2026-11-21T07:40:35.717971+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Indian markets may see reasonable upside over next 12 months; FPIs unwinding underweight positions: HSBC MF's Cheenu Gupta - Big News Network.com",
+   "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONUF4bnpZUkJCT1B1RHhZemRmam1Xc3VtODZEdW5WWUV5SjV2RElOYUU0aXBSaXZoeDQ4bUFLbjh1RU9jYkllQlJrWmllcTM1bnBob0tyX2hLSUhjdi13bU1oSUhyXzRnMktVd1hEaUNCRnFvQTgtYjRKemV3VEJhMFVYcjg4Q0N0d01EWFhKUnFLZVNBclR2R0FGSGROOGdRSFM3YnpiUEF5a0dfLXVQYVpIMVNIU1FHNUo1U2Z0RXBxRTNXYmVkQndsQ3JVb0NPTm9CemRuSUxBMVhwLWdRejlqMEExN25TLUFRNnc2TjJZQW9pcHFB?oc=5",
+   "date": "Sat, 21 Nov 2026 07:36:00 GMT",
+   "vu_le": "2026-11-21T07:40:35.717971+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "CAC 40, Air liquide, Anthropic, Société générale… les actions en Bourse au programme de Momentum - Capital.fr",
@@ -6537,20 +6551,6 @@
    "titre": "CAC 40 : la Bourse plonge, les actions plombées par «un mouvement de vente nettement plus large» ! - Yahoo Finance France",
    "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkNTTEk0TlJhRUlQaUhtbGZ3Y3BMd2dKVDA1TFY1WHNlb3NmeUEyY3BhdEtJWVJId3RsMlNHbE5HcE5aZVNialhNSTE0M2hBd0sxWkhSRHQwb2IzOFVVN3RYSzdxaTI1ZXlTVmVuMU5kdnBqU3ZTcnRYRTdmTHJFbUFUbnhsUU5KaGJr?oc=5",
    "date": "Fri, 20 Nov 2026 09:54:28 GMT",
-   "vu_le": "2026-11-20T16:40:36.230654+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Bourse : comment préparer son portefeuille pour affronter 2027 ? - Les Echos",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2MzVktaZzF4NXJLM1BwNjVZR2pMbGpFSnRiMUNsOVlIRlI3aVBBcVd1WldPc0hrMlg4VnVHWjJQN3JqazBIR3ZjOWZ2S2x0Ry1icDFERnluNk90TmVCdnprOWx3TmFtSGpsdE9nNlBSZl9RalIxSmhNcEdsb3JzRzlHV2QwNmpsVnotTUFWOUhrbGVYbkxGMFJVMVZPdUFYOWlOc1dERGdIQWRhTVZyWkVEaw?oc=5",
-   "date": "Fri, 20 Nov 2026 08:52:32 GMT",
-   "vu_le": "2026-11-20T16:40:36.230654+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "COMMENTAIRE – Comment les positions courtes sur l'EUR/USD pourraient subir une forte pression à la hausse - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdldzZmpOcTNJX2cxTjhZaTQyM3JQemt4QlRROWFicDdLbHppODVUSXRSSFlnT00tMnUtdTRhU1ZjQ1loby13RGtuZVhpSFY0S2tkNGVrWFFTNkVMZjF3b3FmLWJ6VFRFd2dpNkRqQXNtSmxvd0RyV0pXSnpiVzVqc1pJUUszYXIyRjN0Y2NXV2lUZDFDSzl0QzlqTUEyT1l1a0w1NUNrOWdyTi1GRjVQZl9oNnA5U1U3LTdfSTA4MkJjY2hEYTBVMzgxZnRzTzhlNXNUejRkRV9GV2JGYnowcVloY3NUbkswMGNrU2hOdlhYZl9lak9YQ3d1S09haFVKaVF6VWhoN3JQV2VXSGpsQVhHWdIBkwJBVV95cUxPdldzZmpOcTNJX2cxTjhZaTQyM3JQemt4QlRROWFicDdLbHppODVUSXRSSFlnT00tMnUtdTRhU1ZjQ1loby13RGtuZVhpSFY0S2tkNGVrWFFTNkVMZjF3b3FmLWJ6VFRFd2dpNkRqQXNtSmxvd0RyV0pXSnpiVzVqc1pJUUszYXIyRjN0Y2NXV2lUZDFDSzl0QzlqTUEyT1l1a0w1NUNrOWdyTi1GRjVQZl9oNnA5U1U3LTdfSTA4MkJjY2hEYTBVMzgxZnRzTzhlNXNUejRkRV9GV2JGYnowcVloY3NUbkswMGNrU2hOdlhYZl9lak9YQ3d1S09haFVKaVF6VWhoN3JQV2VXSGpsQVhHWQ?oc=5",
-   "date": "Fri, 20 Nov 2026 15:27:59 GMT",
    "vu_le": "2026-11-20T16:40:36.230654+00:00"
   }
  ],
