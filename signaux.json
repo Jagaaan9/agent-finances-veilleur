@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T13:20:34.991600+00:00",
+ "mis_a_jour": "2026-11-21T13:30:39.016028+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54043.71,
+   "prix": 54402.9,
    "devise": "EUR",
-   "jour_pct": 0.69,
-   "mois_pct": -27.77,
-   "volume": 270.60257595,
-   "volume_relatif": 1.3,
+   "jour_pct": 1.36,
+   "mois_pct": -27.29,
+   "volume": 278.16426194,
+   "volume_relatif": 1.33,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Le Cac 40 enfonce plusieurs seuils, dont celui des 8.000 points en fin de semaine - Investir Les Echos",
+   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVUk4MHBqV0luNFR6MmlJQk0wYzA3dlUxT3RNRlVoSjlpenBEMHlWU0sybThiWC1ERjlrbndXcVZhYTEzVmZOQWI3WVZMUk5hLXFCTGRjRnFzbUhxOUQ4U2h4ZUFBd19KZ0JBMGV1U1JqR0E5SkxXY3VWZk8xZzBiYld5Vl9EWDB1OHVnaEh3Z3NHZk9QNHVXZDhGcWJkZXdPZ0R3aGd4Z0h4UVdfal9FSHJMa0lKYmlCUzBBdzBHc0xZWDBPcGNCMF8tNnFadzR3eFh5ck5hQXhaZzdVYjg5cHVHeDE?oc=5",
+   "date": "Fri, 20 Nov 2026 17:35:09 GMT",
+   "vu_le": "2026-11-21T13:30:39.016028+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Has Traded Below Its 200-Week Average Only 8.4% of the Time. History Says This Is When Patient Investors Get Paid. - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbFpRY3NjcUpJV1FkcDJuZENXVDNaVTQ3al9CUEU5NWVlNTVmVzljaEM1ZjZtT2VURERGc09mdkFMWEpmSXBEZmttRFBFa0lEc19NLThieHJUQUFxUWFYNjhPXzJpWDR0enpMcnZzbjltWGFOSDMyY293dlVFQUFNMzdzNldJM1dYeGdjdjBFRUJZaTBCQTVIenI5QzlrWXFXQWtBUEZ3RElfYmg3NWI0bTNnMGMya1VzWGJxc1NPd3hLenIyZWJoRlRjWU9wdw?oc=5",
+   "date": "Sat, 21 Nov 2026 13:19:41 GMT",
+   "vu_le": "2026-11-21T13:30:39.016028+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "«La Fed réagira sur les taux en fonction des mouvements relatifs sur le pétrole et sur l’emploi» - L'Agefi",
@@ -6537,20 +6551,6 @@
    "titre": "Wall Street Slides on Mounting AI Selloff, S&P 500, Dow Set to Confirm Corrections - GV Wire",
    "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0pJWEJ3Wlh1UVZpNENBSGl0ZkNHYmlEUTRqMTNzcVNoeUhPclZlY3hiUXRnM09FYUtSaDJ1bFh0YWdHZ2RoQ01Obl9hUXRnX1ZaWUNPUUJ1ODR3R29IdTEtMG5jQU9RX3duQUtDNGNkLTEzVk1CVGEwcWw1elNsRlVLV2lFYlBhaWZJVjh2c0hRV25VU2ltUzRySlhyRGk1SXQxX25hTk1oOUpiWXRN?oc=5",
    "date": "Fri, 20 Nov 2026 19:33:34 GMT",
-   "vu_le": "2026-11-20T19:40:36.719047+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "BCE : vers un doublement des réserves obligatoires des banques - Crédit News",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSnBBV01PWnlGenNZWmF4blBkSTliYkpRb1hDaGsyTXE4X3lrd3JLWFA5UzhTdXB6S0NKWE8yc3lhanJzZzgwTUJQV3RMUFozLTZidzJIbF9HMDEyeGp1enQyN29jTFhnNmhGMm0wLU9mTG95am84bWNHbWJEdjc1TWNTQjFuTXBnXzJOQkQyU1o?oc=5",
-   "date": "Fri, 20 Nov 2026 15:43:01 GMT",
-   "vu_le": "2026-11-20T19:40:36.719047+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Hong Kong Stocks Hit 19-Month Low as Anthropic IPO Fails to Dispel AI Jitters - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xZWdJWnNzakt3a0x6QkUxVkZwMDdYcWk0TUptRlNaNmdjcmdFVHYwRjFWY21uakxHYnctMWxJZ1ozZE9wNW9PQ3pDSXJDa0tIYjRHV0l0cGJWZnVfeTR4RjVfMy1ld1ZlMWtxMVZUN3dqRmZxZ2c?oc=5",
-   "date": "Fri, 20 Nov 2026 19:05:00 GMT",
    "vu_le": "2026-11-20T19:40:36.719047+00:00"
   }
  ],
