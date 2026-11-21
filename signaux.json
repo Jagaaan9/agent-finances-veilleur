@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T04:40:37.772257+00:00",
+ "mis_a_jour": "2026-11-21T04:50:35.436279+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 51038.22,
+   "prix": 51441.45,
    "devise": "EUR",
-   "jour_pct": -4.91,
-   "mois_pct": -31.79,
-   "volume": 104.48610806,
-   "volume_relatif": 0.5,
+   "jour_pct": -4.16,
+   "mois_pct": -31.25,
+   "volume": 107.34878357,
+   "volume_relatif": 0.51,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 4929084342,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 4929084342,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Semaine éprouvante pour le CAC 40 qui repasse sous les 8 000 points - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQnNYTVFXX1J1c1dxY3p3WFEtQTVvNWp2ZHdUN2VyU0JBTi03YTVaRFpMc2VfUDlJZU50Qkp4cEozRjdHRWo4ZkFIVm4yWW82eVhzWHlNcnVzbC05cmI4NzRmaUhDdHhrblFadVJGdl9aX1NaWlQ5d1hzTExlRzNfcUVNcWZiWGV5dTdDT3JGanVMTGZlVVE3TC1yQ3dXaEJLeURUY1dNVUYzM1VBZXJxbjZuQ1ZoSk5HRnF3c3FNWnc0UDQ3ZEtkbTJBME9HX0o5R2xCY0hYM2JkaTh0WTdvSjF5Y3hpbHRKbmdoTENESGRYZmstdTltUE1rWEx4aU5iX0ZvU2hSdzBYQk55YW1LMEtveHBoZkNpOVpLVy05ODE3eWdkdWww?oc=5",
+   "date": "Fri, 20 Nov 2026 16:58:00 GMT",
+   "vu_le": "2026-11-21T04:50:35.436279+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 20, 2026 at 11pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSGN4TnZlM09ycWI2MFFmYU4zSjY5SnVTb3g2Z29NVzYydUJrcFZZYk03TkhqbjJ2LXpnZjZVWDUtWTMzeHJ2a1hUY1ZVQkNSRERVT1hfLThuNUh6ZVc2OVdadGdvYlZCRWt0N1RxWmlKdGltOFg0QlpPOEJWTXV3dGdPQzNGd0JTWXNGUERyNEMzS3lPZlkwcUZiSzdmenRyS2FRX2xEY0E1NlVRekRV?oc=5",
+   "date": "Sat, 21 Nov 2026 03:15:58 GMT",
+   "vu_le": "2026-11-21T04:50:35.436279+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "ENQUÊTE IMMÉDIAT-Le Nasdaq plonge de 5 % au lendemain de l'entrée en Bourse d'Anthropic, mais les investisseur - Boursorama",
@@ -6537,20 +6551,6 @@
    "titre": "AI stocks are selling off after Anthropic’s record IPO, and Wall Street is split on whether this is the top - Fortune",
    "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQXYtcjN1bXdZQmdkQVUwLTZ3WThBSUVCV1BOR0R4RV9PTlNCeEQzWDRGZ01qbWVGZU5sb011NUc3cWs0dkZnQU9ZZ1BabkktY05zdnhhZHBCaEVldk5qX1V6SFh3SEJnZGRLMVpxYzBBWkZNUm9DY2FQZjRLS1A3bjBTVEEzRU96THZqVnZlcnJzQXFJRUdV?oc=5",
    "date": "Fri, 20 Nov 2026 15:19:00 GMT",
-   "vu_le": "2026-11-20T15:30:36.361244+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "The snowballing selloff in global markets - Yahoo Finance Singapore",
-   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONEw2Zkk3OXczdEo2YkFSX2tVZk5oNThlcnF4LWpxa2M3M05NeC15anliNkplTlJ6VVlWSHpmRG4yM3IyODJZMms0cVdtb1hleExYUkRKUkVJY0RoU1E2ZzM5LTJDRkR0N1BQMlpLZk82R29JOFMwbFQ0V1ZickhvSDZYX0xlM0lHUjVJ?oc=5",
-   "date": "Fri, 20 Nov 2026 15:12:05 GMT",
-   "vu_le": "2026-11-20T15:30:36.361244+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Heads For Longest Weekly Losing Streak Since 2022 With BlackRock’s IBIT Clocking Record Outflows - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMXI5UER3LUFIRFR2VVl4U0Fjd0Jtekpmb1BzM2JNYXdXTF9tZFFCNUR0WjlWQXpsb1A3a2VMMkZwOXFVRmxEcDJjam4zN0FlRUZha2lJaVRMeW55RG85OFBTUEtCODhYaFcyUVdiUGd2dmdLaU5oS1YzYXNYTVlMVXRxY0ROVk5jU3BEUHlISVNtS0xuOTA1TnBlbGhUR2VYaXc?oc=5",
-   "date": "Fri, 20 Nov 2026 15:18:38 GMT",
    "vu_le": "2026-11-20T15:30:36.361244+00:00"
   }
  ],
