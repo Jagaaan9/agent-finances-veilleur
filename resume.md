@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53772.66 EUR, jour 0.18 %, mois -28.13 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53744.01 EUR, jour 0.13 %, mois -28.17 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -30,7 +30,7 @@ POSITIONS ET INDICES :
 
 ÉCRAN États-Unis : plus fortes baisses :
 - China Rare Earth Holdings Limited (OTC:CREQF, secteur Non-Energy Minerals) jour -99.4 %, mois -40.0 %, prix 0.0003 USD, capi 248969543.02837998, PER None, volume x11.65 la normale
-- Canadian Solar Inc. (NASDAQ:CSIQ, secteur Electronic Technology) jour -24.94 %, mois -39.25 %, prix 6.02 USD, capi 408738466.52618456, PER None, volume x4.73 la normale
+- Canadian Solar Inc. (NASDAQ:CSIQ, secteur Electronic Technology) jour -24.94 %, mois -39.25 %, prix 6.02 USD, capi 408738466.52618456, PER None, volume x4.74 la normale
 - UBISOFT Entertainment Unsponsored ADR (OTC:UBSFY, secteur Technology Services) jour -21.67 %, mois -36.24 %, prix 0.6794 USD, capi 635500653.10923, PER None, volume x21.94 la normale
 - Fundrise Innovation Fund, LLC (NYSE:VCX, secteur Miscellaneous) jour -19.9 %, mois -41.01 %, prix 14.01 USD, capi 495782208.9, PER 1.8, volume x2.76 la normale
 - New World Development Co Ltd Sponsored ADR (OTC:NDVLY, secteur Finance) jour -19.65 %, mois -60.31 %, prix 0.13 USD, capi 721732681.1954199, PER None, volume x1.36 la normale
@@ -271,7 +271,7 @@ POSITIONS ET INDICES :
 ÉCRAN États-Unis : meilleures performances sur 1 mois :
 - Bgin Blockchain Ltd. Class A (NASDAQ:BGIN, secteur Technology Services) jour -14.26 %, mois 155.85 %, prix 4.81 USD, capi 544183888.204991, PER None, volume x0.61 la normale
 - Ultralife Corporation (NASDAQ:ULBI, secteur Producer Manufacturing) jour -0.7 %, mois 141.55 %, prix 15.58 USD, capi 259688194.6717655, PER None, volume x2.79 la normale
-- Aterian Inc (NASDAQ:ATER, secteur Retail Trade) jour 4.0 %, mois 82.14 %, prix 1.04 USD, capi 272357712.64, PER None, volume x1.87 la normale
+- Aterian Inc (NASDAQ:ATER, secteur Retail Trade) jour 4.0 %, mois 82.14 %, prix 1.04 USD, capi 272357712.64, PER None, volume x1.88 la normale
 - Polibeli Group Ltd Class A (NASDAQ:PLBL, secteur Retail Trade) jour 3.62 %, mois 81.38 %, prix 9.74 USD, capi 3568613761.96383, PER None, volume x0.51 la normale
 - Surgery Partners, Inc. (NASDAQ:SGRY, secteur Health Services) jour 0.34 %, mois 76.3 %, prix 26.78 USD, capi 3504999291.5391536, PER None, volume x0.24 la normale
 - Replimune Group, Inc. (NASDAQ:REPL, secteur Health Technology) jour -0.83 %, mois 67.72 %, prix 19.07 USD, capi 1807843726.176287, PER None, volume x0.77 la normale
@@ -317,6 +317,8 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Intelligence artificielle] Top US Senate Democrat accuses Trump of putting national security at risk with AI chip sales to China - Anadolu Ajansı
+- [Résultats d'entreprises] TACHI-S' (TSE:7239) Performance Raises Some Questions - Simply Wall St
 - [Marchés mondiaux] Stock market selloff pushes mortgage rates down - RealEstateNews.com
 - [Chine et Asie] Hua Hong Grace Semiconductor Limited (1347.HK) Stock Price, News, Quote & History - Yahoo! Finance Canada
 - [Chine et Asie] Chinese tech firms fear AI hits from US curbs after Nvidia fallout - WHEC.com
@@ -456,6 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Bourse de Paris et Europe] SIH Partners dépasse les 5% du capital de Renault - Bourse Direct
 - [Banques centrales et taux] L’indice du dollar américain (DXY) hésite sous 104,00, les inquiétudes liées à l’IA contrebalançant les paris sur un relèvement des taux de la Fed - www.tmgm.com
 - [Petites valeurs en croissance] Is BP (BP) Stock Undervalued Right Now? - Yahoo Finance
-- [Crypto] Ripple’s CEO Says Investors Sold XRP and Bitcoin to Buy Anthropic Shares - Yahoo Finance
-- [Anthropic] Anthropic IPO haul rises to $93.5B after underwriters exercise greenshoe - Virginia Business
-- [Anthropic] Anthropic post-IPO hype is here. One strategist's advice: 'Stick to your fundamentals.'
+- [Crypto] Ripple’s CEO Says Investors Sold XRP and Bitcoin 
