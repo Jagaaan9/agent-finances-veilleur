@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T15:00:35.312541+00:00",
+ "mis_a_jour": "2026-11-21T15:10:35.456601+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55025.91,
+   "prix": 54988.69,
    "devise": "EUR",
-   "jour_pct": 2.52,
-   "mois_pct": -26.46,
-   "volume": 338.71018318,
-   "volume_relatif": 1.62,
+   "jour_pct": 2.45,
+   "mois_pct": -26.51,
+   "volume": 340.21111919,
+   "volume_relatif": 1.63,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,69 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Is Anthropic turning into OpenAI? - The Verge",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVJWMDdSVXlIT05KX3ZILTRURV84REVnaG9wTFVjaGtvcEJhZ0E0SWx2YUV5ckF3M1BVaTI2Qm5xYXo0RG04Sm9URkZLc1Z1V2RudC1fbXhpck02dFp4dE5oOEFaZzNBOVFNUU14NXpyUTNxajFncjJrTUVyaGtLbUlENnJBUEdMd0s2YXFLclVaQQ?oc=5",
+   "date": "Sat, 21 Nov 2026 15:00:00 GMT",
+   "vu_le": "2026-11-21T15:10:35.456601+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Lisa Cook, de la Fed, juge de plus en plus urgent de lutter contre l’inflation - Zonebourse",
+   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcFYxTFlzNV90eVNZc05sOE9LcUVkVTFJRlU5azR6LVRyRUlPQ2VaLVhqVm5IQml2Q09yMXMwX2R3X1Zpc2Nid0ZtLWVMMUFyb0tFaG1RNUp0MFdlZTBCWFd0LV9RYjgtWko1WklpekYxN3dKblZQRWdBS3pLelZCbHRTVGoyX0tOc08xcGVQaGpsVm9vTjdESk95bTA0bWZTSi0xckRmTDJFbDU3SnZaRC1BU2xoX3M4SzRBa2tBbV91cGlYenBIeDZDdUR0S2tITEFUVw?oc=5",
+   "date": "Fri, 20 Nov 2026 18:56:31 GMT",
+   "vu_le": "2026-11-21T15:10:35.456601+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "3 Chip Stocks Retail Investors Are Reading for AI Fab Buildout Exposure - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSVVKMjdXUnBDTnlmaW1nZkt3cDVyNmlndE9Qc09EcEc4OThHZDBHcHM2ck5NdVhnc3NzbUNsbDF5eWZLYVZLek5YVjhHQ2R5YnlIODVoS25udFJIaWNPVGdza0d4SmpIdkZYcnBSNVZBcnVxU1Y0SUN5WW1PeHZQNS1mMW40dWpwV3k0a1k5dzBSSzFVWVE?oc=5",
+   "date": "Sat, 21 Nov 2026 14:09:28 GMT",
+   "vu_le": "2026-11-21T15:10:35.456601+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Is Hut 8 Corp. (NASDAQ: HUT) Priced for Too Much AI Growth? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSHpJdHV1VFNHdXBlVGl4UW82NnVkWVo0bnIxLUROM3VSbl81YktnUlAwcFpxUW14b0gzcGhNamt6bHh4Z3dZSjlNWTZxbmdNcDVNXy1fczZ0dlBhLWwycE5uMTcxamEwYXcyVkJzNFVucVBrLU1TNlIwZHVfWGcwVkJLVUliVERPYUpCQUIwaw?oc=5",
+   "date": "Sat, 21 Nov 2026 14:52:05 GMT",
+   "vu_le": "2026-11-21T15:10:35.456601+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "3 Defense Stocks To Watch As Federal Contractor Rules Tighten - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObDlqZFdqS3JGNGxTOGRHOGk1alM5dnVnVmtjaDRyN0xOSFdDd1daakR4MHFHbkE4U0RfTEQySFdXcGhzQWtpMFlqSVk4MmpvWjdmM2Nfck5HYU02NmVZeG1oek9tdlJ5d1VOV0NPWkVIUUZteUtFM05zYmhoeS0xdWc5c0VieXYxWHIxUDBuRThXbVJIek0zbWQxYw?oc=5",
+   "date": "Sat, 21 Nov 2026 12:12:00 GMT",
+   "vu_le": "2026-11-21T15:10:35.456601+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Palantir Just Dropped 25% in a Month. Is It Time to Sell, or Load Up? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWlpBOTVxSjlGa25feWRQV3hVWWVXUXYxaHkzUzJOazhmZzZBX0VxNGJoMGUzbVUxcUpfQm1sSGNpcklhUjNPQTNVTTZLb0ZIX2VkYUF5bTlFbVZ6UWpIZ0hERi0tblk4YW9NOUs2anhjSks5OVRUQWFJdUFPTWV3VDdHT3dqUktra2Z4TXhyR2FwTmo2RWJwQjFTQQ?oc=5",
+   "date": "Sat, 21 Nov 2026 14:22:35 GMT",
+   "vu_le": "2026-11-21T15:10:35.456601+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Crashes Below $56,000 as $2.7 Billion Crypto Liquidation Wipes Out Traders - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeEtfcFVLa1VXbTlfXzhxYjRDSlJNeVVteDlBTWxvdDNKMEdtS0VRVFYwMjBmYU5tUHEwbDByMDBUTEdabEgybGJLd081UFdJLTQ2bGJMU21Fckp0Q3FFY3czbFFjN3ltb1ptVDlrOThPMUozblhSdUNxVGtLd3MwcjJiQWJGYkRQX2lHaHJOTTdURm9FN2RwcEpaM2ZXcDVJVmd3NVY5WkVvYjNLODVBV0RUS2FLZE1ITUlUTnV4MFE?oc=5",
+   "date": "Sat, 21 Nov 2026 15:01:00 GMT",
+   "vu_le": "2026-11-21T15:10:35.456601+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin drops to lowest level in more than two years - Seeking Alpha",
+   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWRRaVNvbVRxUHZudmlBbDFfRVRqaHk5c240aWFBanlUYXVETUZGeTJPWUdhZVA3NDMzZHNCTWNvTkpSOFZYdmV0NEJ2Wmp5QktOWFRVTE5wLUJxcU9wMGIzUEI5MnJnbTZrMldjZ3BEN01aUVhkYVk3MHVKM1NUYWtLcnExUQ?oc=5",
+   "date": "Sat, 21 Nov 2026 13:36:36 GMT",
+   "vu_le": "2026-11-21T15:10:35.456601+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "After the Midterm Elections, VanEck's Matthew Sigel Is Still Bullish on Bitcoin. Here's Why He's Right. - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd0JXSU5POEJKTFVQdTlnN2R0Z1FpdEd3NHo2TXlCUWI1TkgtM1ZRbGM0WkhnZ01QYUpRY3BrbUlBeGhTWENac3kwMmJWVmJJeF9vTlZoN3hyQ0lhdHBmTFhkMEI2Q2xxcWJoeHUwZGNJSERXa2tRMEJhV2hIbmpOOTBKM2Q1RW1EbXQxTmdRQ0R0WllleERXQ19WR2o0NEpOd0F4dUxSdGZlOGlKdlIzNGdJVjFibTlZWV93RFFhc0tETGVKM2FfQ1ZaSnY5M2pwVnp5cWdiQTdyc0VNS0E?oc=5",
+   "date": "Sat, 21 Nov 2026 15:00:02 GMT",
+   "vu_le": "2026-11-21T15:10:35.456601+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "I’m taking the Warren Buffett approach to Anthropic stock! - Yahoo Finance UK",
@@ -6489,69 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSHptemlxYVlCQVhidlpfdEpERG5OR1dXWTdSeE1YeGR3UFQycE9uZlBLNnlqeVp3c3g5SmpGMnUxc3JlTzE3cnZ3MUJraFh1MXg1RUN1Skt0aDFsR2VGSjBUUnp4SEVMYzlNNHBkc1NZdUhtRkw1OTFpRmJFLUtWcjBtWHdlOXpXNEc4cG9aaTR4MFRObHFWR0NfV2FzNTkzaktmSzZQUTdpNHA5NXVKZWVNTENkNDd4aVE?oc=5",
    "date": "Fri, 20 Nov 2026 19:45:23 GMT",
    "vu_le": "2026-11-20T21:50:35.692732+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Why Anthropic's day-one valuation wasn't built to last in this market - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90YWJYMjBRbTlBb2JWM2hUektMRU45aWpYTGFweEdwYnpKbnUxZW5ZZmpRZldwOE1DTkNJNW03RmlXRXJ2eHpkam42WVdjSkVKSnhQTXVqZVpnaUFQdWlwQTVWZnRma3dYYUlqajRzdHlVQ1FxRVBIN2YwQ0hBMTTSAYQBQVVfeXFMT3NHN0pIT3ZMVktfX1pJRE5GV1JqUFcyQmhtSnczMjhLY2NNUXYyYUJIT3BtQ0JUeW5oLTBMenpSN0VVcVN1S245OHAxd29FMFdMZjY4ektWMW15Q29vMVhfRkh0TExJdS16OVdrOG1BbHN6cV9vWVpNZEdHa1RfNk5tUVZs?oc=5",
-   "date": "Fri, 20 Nov 2026 20:57:30 GMT",
-   "vu_le": "2026-11-20T21:50:35.692732+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "U.S. stock market slumps amid rising tech and AI worries - The Washington Post",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUmlPb2NNTTRIVWI5NXJFQUd2MXNkdkFtNzIxODZMZjdEbVFsUWQyWjRQT1AxMUE5YS1nRnZ6U21mN0J1V21IVFFRZEthZms4bkM0MDRNQlR6RkRtcUp2aUJqTnQ2YlloTU9ObkpmLUs1NWgyUXpubUxndklKTElFbExrY3ZtamdWNEpRUG5lNGd2VVZZdHVIUHp3eU1Wc0RzenQ0YQ?oc=5",
-   "date": "Fri, 20 Nov 2026 21:07:31 GMT",
-   "vu_le": "2026-11-20T21:50:35.692732+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Corpay Invests Alongside TPG to Acquire BILL - Quantisnow",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZmt1RmFQbXlTZml1SFhqYXBpTEM1OXNZSFJPVEFGLVZxUmRDdVg5XzdtMFJDck5BZkRIdjBuX1E2cUk1dXZUR1Ftalh5TmhzNVZkRnd4eTFmdUVPekdSZnpPUTNlc0RqUFptb25WWnEtOUVVTFFaMVl1djV6VTl6SGNES256czJ3WVZHMllieTc?oc=5",
-   "date": "Thu, 19 Nov 2026 23:00:14 GMT",
-   "vu_le": "2026-11-20T21:50:35.692732+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Crypto Market Today, Nov. 20: Bitcoin Plunges Below $60,000 as Wall Street's Sell-Off Spreads to Crypto - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQ3VYWl9jUU5oTUQweVFUTGszYlNoVDBrWnhRLXJpVDVXc1dZZV83M1djV2pJSXRPXzlQTUVnM0VtYXlhWEFxcmtnT0VleUtxS0xoU2prblZhTHhZS3BxY3B2RElYQjkybTFqZkFHWEktY2g4Vzc4OGlfV3JPNm8tdUJDekNpV0RaVGo2RjVFbnZ2dGdFeXZYbV9LbFQzc3lZVWQ4Z3RmeXloSVY5RXJmeW5GRXFxVWRrcDd6NUl5MGZUenl3YzFxT094azZjX21pc3BBeDRGUEkwREkzcE9faDN0WGJQdndnejZrZVBtd0k3Z1lnNEE?oc=5",
-   "date": "Fri, 20 Nov 2026 21:45:03 GMT",
-   "vu_le": "2026-11-20T21:50:35.692732+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "UK stocks sink as global selloff weighs on banks and miners - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVVTRHZ4Q0NxLThIeDI5d09DVVhMY3hGQm9QSlo1V3dGLWJMbFBNaFZoZjV5WlhSaU55NVdDb096SWp6cFUzUUYteW9kTnlMUzdXVmZBUS1fbGpUM1FfNzlHRXdMeFYxWWV0NGlmVk9IbDdBdlNNN0E5d2VuUnF4SlA2RjVqRWd3VHR5NDVPVW9EV2FsQWJKSlVEVWJrekt1TDA4WFVVU2U?oc=5",
-   "date": "Fri, 20 Nov 2026 18:03:24 GMT",
-   "vu_le": "2026-11-20T21:40:38.294454+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "5 Critical Challenges Facing AI Chip Giant Nvidia - Design News",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVI4ZlU2SE9MeXdmemtmdUdPVUdxLTY0RDBoNkI0VTB0ZjgzU2xESkJyelJYbllURTViOWlmYzZ0WWpoS0pUZk9selpHejlvMXF5TlNLbDRyUDI1VzBRVUlRR2RwNjNVUnR2RHhaYnFWcmRCOEF0b2Nzb0QxeDFiOS1iODNsZVhL?oc=5",
-   "date": "Fri, 20 Nov 2026 21:33:46 GMT",
-   "vu_le": "2026-11-20T21:40:38.294454+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "3 UK AI Stocks Investors May Want To Watch For Productivity Growth - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRkM1QlBMT1Q0UHA1UGtfX2xLSVVlX2FOYlk2YVYwbFZlblBoaEowWGdBQmdfcFhyYW1NRTE0em44ZnZHeG9lN3hyd0VqNEhBWTE2Q2VzRkxKSWd2QkhsdHZjT0VaejlkbnRCbGdLckx1cUZTdmxOZE5Rd0ZmMjV1NUE2ZjFZUmdOdzZWd2ZDY2p2bWNab3p3Qklqb3ZESGxPU05vSEdUYi1EZG1zcE1SX0NvaGxsa05WVEM3NlVGckVRaW9qQ3cxUkhzbjJjcVF6ckJOVXdaNHYxSkRs?oc=5",
-   "date": "Fri, 20 Nov 2026 21:16:52 GMT",
-   "vu_le": "2026-11-20T21:40:38.294454+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Ohashi Technica's (TSE:7628) Soft Earnings Are Actually Better Than They Appear - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRTNwM2ZDREVtWW4xd2s5eV90d29MOFFWVDBHeDItVl9nSm1Nek0xMW4yTzVaX2FEU3YzcTlPZWxtWm5IaURqY19DQzFtU2dnajZGOEltRlFHZ1FwNVc1WUV2cFdPbGprNm1NQUpWNEtwVXBvSUlLZHRfT2tkMW8tYXRqS3JiMHU2VVhlOGdING1jaUN4Wkwwb0loWmlwTVYxRXhJZVF0cXJiV3pNTkFHd0RSUk9pRFdIdkF4ckVyTUtTWUtzNXZUekZZMXVoa2dxRXBrdEZranQ?oc=5",
-   "date": "Fri, 20 Nov 2026 21:27:57 GMT",
-   "vu_le": "2026-11-20T21:40:38.294454+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "BlackRock takes on Vanguard with ultra-low-cost global equity ETF - QuotedData",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZnBCQU4tZzI2am9oSUxXak55U2NuZ2duSUlYclFOUnVOWWlURXF5a01OR0ZPZDROcDQzbXV0NlRIOHNJM3FHVzl5NElXLUNMVlBtNUFKdDVQTjRyVDZHN3Yzcjg5Q1E2VmVkWWtOak1JUWNJNWx5ZkFUUTIyc1gxS3IzS2x3bm11d3I3UkZ1emd6cW1BQTRJdXREeDRMdw?oc=5",
-   "date": "Fri, 20 Nov 2026 15:31:54 GMT",
-   "vu_le": "2026-11-20T21:40:38.294454+00:00"
   }
  ],
  "erreurs": []
