@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T06:40:38.406018+00:00",
+ "mis_a_jour": "2026-11-21T06:50:35.338342+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 51717.03,
+   "prix": 52564.83,
    "devise": "EUR",
-   "jour_pct": -3.64,
-   "mois_pct": -30.88,
-   "volume": 135.94685715,
-   "volume_relatif": 0.65,
+   "jour_pct": -2.07,
+   "mois_pct": -29.74,
+   "volume": 138.17935205,
+   "volume_relatif": 0.66,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 2941617737,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 2941617737,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3323658863800,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3323658863800,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3323658863800,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "5 Undervalued PSU Bank Stocks with Improving Financials - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQZkM2bDBJdnVyMzNUT2x4aDkxWVotNXlQVU1sc0VLb29iNmZVaEZJYzk0ZGJ2WVNwRl9LUzFEZ09wdFRnOVdWX0NQVGR2NkdQakdTc1FWdm9EZkRaVEJHS3c2djhlSWw2X3F1dUhhZlNvdVBtYm9kNTduQnJUekhTdDJXRno4c2JpYzI4SjIwR3QxUUczQ1NQU1N3TGh1dXV2RmphUmRGWXY0cWNlV3M5M1pNMmJKWnNCV1hVcXpZbUVCWW9BV20zcnRDN2JERFNNQzJvYUp1a2YzS2Zzak5za1ZkS1Bpc2dBa29WRHZoUmRKNW53X2JZRmh1ejlzdE1XN3dBcTNRYVF1Y1NSdTNRalE5Y3ZxRkVReDlvdXl5ZnVGOGpPazVNZ196YWpMcXlS?oc=5",
+   "date": "Sat, 21 Nov 2026 06:38:37 GMT",
+   "vu_le": "2026-11-21T06:50:35.338342+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Top 6 Semiconductor Stocks In India To Invest In November 2026 - Samco",
+   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xOFhuZnFYcWNxdFVkbTdpbDdGSWtwcDVBSTZBbWpFYWdZVHBDVFRXOWtFb25GMnJwUjc3aFN3djc3TWNad190YzctNFpwR2FqMkFaU2F1c1hiZ1piR2h3cUNFNGZMM20xVGtOM3ZqVGVudElTRzM0?oc=5",
+   "date": "Fri, 20 Nov 2026 06:51:14 GMT",
+   "vu_le": "2026-11-21T06:50:35.338342+00:00"
+  },
   {
    "sujet": "Résultats d'entreprises",
    "titre": "Earnings call transcript: The Buckle tops Q3 2026 profit view, shares jump By Investing.com - Investing.com India",
@@ -6537,20 +6551,6 @@
    "titre": "NVDA and ANT Fail to Save AI Stocks as Asia Faces Worst Market Week Since 2020 - Coinpaper",
    "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOGNmcW9OaVhUZUdMemNoWFgzOW1OeHI5TzUtX0lmTEphdUFxT29zV1RjSkdzSE9nZHplNDdtMGZtMW5WRlA2LU5oWngxSWVKYzJKbEctQ084bnl6NXI5WVVhdlF4STYzT2FGcktLNmgydV9NMEI1M1dmOFlnWDY4WjNwd0tlRHlQMnNuaDhWZzhXRnRoYnNPWXRTSkw5dU91ekxuQ0k5NXN0WHVrSFhGdk1TWFA?oc=5",
    "date": "Fri, 20 Nov 2026 14:18:15 GMT",
-   "vu_le": "2026-11-20T16:00:44.921576+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Sensex, Nifty inching towards all-time high: India decouples from global rout, only major market in the... - Moneycontrol.com",
-   "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQT1gwc0FzaXRTWjM2ZDU2Rm9NUlVwTjNyRjBwRE12UmdqSjlKYVFRZmhsbEJfRmpUT2h5ZnBBNm9WU0k5NDllZF9VWERUUWdGMGw5TS1xa1JOVktmSTROd2RCdGdrd2l6NVJ6dS00ZmhYX3liRk5Cb2dqTGt0RzMzYVczU0hXbUo0MDdtQ1VDR3JHaEszaERhX1FfaFgzSS02dHFOVzBXR0lTaFRmZkkzY0VGTWdhelRFTzZvVVNwUEM5T3dpN1J2YW1xOWFqREtZeWxBRjZNRWtGbXBxSVlFS0xFN2NYN2V5UHRaWElRM1otTUVrN0ZZMFdwUW9hWVEzVE1CVkxn0gGGAkFVX3lxTFBPWDBzQXNpdFNaMzZkNTZGb01SVXBOM3JGMHBETXZSZ2pKOUphUVFmaGxsQl9GalRPaHlmcEE2b1ZTSTk0OWVkX1VYRFRRZ0YwbDlNLXFrUk5WS2ZJNE53ZEJ0Z2t3aXo1Unp1LTRmaFhfeWJGTkJvZ2pMa3RHMzNhVzNTSFdtSjQwN21DVUNHckdoSzNoRGFfUV9oWDNJLTZ0cU5XMFdHSVNoVGZmSTNjRUZNZ2F6VEVPNm9VU3BQQzlPd2k3UnZhbXE5YWpES1l5bEFGNk1Fa0ZtcHFJWUVLTEU3Y1g3ZXlQdFpYSVEzWi1NRWs3RlkwV3BRb2FZUTNUTUJWTGc?oc=5",
-   "date": "Fri, 20 Nov 2026 09:44:11 GMT",
-   "vu_le": "2026-11-20T16:00:44.921576+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "‘We Have A Real Issue’—Sudden Bitcoin Plunge Leaves Crypto Braced For A Massive Price Crash - Forbes",
-   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNFgtOGEzdkVzNnJCVzFTSndpekhMMnQzeC1EeDVCUlJqWFZMVFFvbDV0OXZLSnNMS0tsaFlqZkN4bHNjSVF3LV9CWmhjWXJpOGs5ZUJjWVZ1akZvVFVjcWdBeDBqeVBCMS00MlVad09QRmd6UG9ramhsZWxPQ1BhVkU1UlpZVDRmNGxJak1vdVczVEV2YlhnaE1neEEzeHp5djVmNmdpazhZTWM3dTRNWG1WWUpMSHFoRW1ONFlnNU14WU9kNGZycWM2UVBqVjAwaUQ2em1FLU9SYzZRUGc?oc=5",
-   "date": "Fri, 20 Nov 2026 15:27:56 GMT",
    "vu_le": "2026-11-20T16:00:44.921576+00:00"
   }
  ],
