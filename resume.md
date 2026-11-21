@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53943.23 EUR, jour 0.5 %, mois -27.9 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53721.74 EUR, jour 0.09 %, mois -28.2 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - KWG Living Group Holdings Limited (HKEX:3913, secteur Finance) jour 0 %, mois -4.2 %, prix 0.114 HKD, capi 230947913, PER None, volume x16.81 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 2941617737, PER 2857.1, volume x5.28 la normale
 - Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 4929084342, PER None, volume x1.05 la normale
+- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 2941617737, PER 2857.1, volume x5.28 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 4206552544.9999995, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 582864017, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3253783353, PER None, volume x1.08 la normale
@@ -236,7 +236,7 @@ POSITIONS ET INDICES :
 - Yaashvi Jewellers Ltd. (BSE:YAASHVI, secteur Consumer Durables) jour 20.0 %, mois 5.57 %, prix 93.85 INR, capi 1378179470.25, PER None, volume x5.48 la normale
 - Oriental Aromatics Ltd. (NSE:OAL, secteur Process Industries) jour 20.0 %, mois -15.57 %, prix 516.7 INR, capi 14578729489, PER 167.7, volume x234.99 la normale
 - Oriental Aromatics Ltd. (BSE:OAL, secteur Process Industries) jour 19.99 %, mois -16.24 %, prix 519.8 INR, capi 14578729489, PER 168.7, volume x54.35 la normale
-- Deccan Health Care Ltd. (BSE:DECCAN, secteur Health Technology) jour 19.91 %, mois 3.53 %, prix 13.19 INR, capi 265545658, PER 12.8, volume x47.47 la normale
+- Deccan Health Care Ltd. (BSE:DECCAN, secteur Health Technology) jour 19.91 %, mois 3.53 %, prix 13.19 INR, capi 265545658, PER 16.1, volume x47.47 la normale
 - PVV Infra Limited (BSE:PVVINFRA, secteur Industrial Services) jour 18.38 %, mois -22.6 %, prix 1.61 INR, capi 216900869, PER 3.6, volume x3.64 la normale
 - HMA Agro Industries Limited (BSE:HMAAGRO, secteur Distribution Services) jour 16.88 %, mois 40.03 %, prix 34.14 INR, capi 14627484681, PER 7.5, volume x12.5 la normale
 - HMA Agro Industries Limited (NSE:HMAAGRO, secteur Distribution Services) jour 15.58 %, mois 36.84 %, prix 33.91 INR, capi 14627484681, PER 7.4, volume x46.57 la normale
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 583275623.56029, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3323658863800, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3323658863800, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3237568961859.6416, PER 13.8, volume x1.77 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3233820362273.5347, PER 13.8, volume x1.71 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272911458.269, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,8 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17824658486, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Résultats d'entreprises] ​Intuit Stock Drops Over 10% as Mailchimp Sale and Weaker Outlook Hit Shares - EBC Financial Group
+- [Résultats d'entreprises] Vitasoy International Holdings Reports Profit Up 8%, Warns of H2 Pressure - TradingView
 - [Marchés mondiaux] S&P 500 correction: Five forces behind the market sell-off - CNBC
 - [Bourse de Paris et Europe] Cac 40 : Balayé par les craintes sur l'IA, le CAC 40 perd 5,3% sur la semaine, sa pire performance depuis début mars - BFM Bourse
 - [Intelligence artificielle] Officials approved the sale of 580,000 Nvidia chips to Chinese companies - The Washington Post
@@ -457,7 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Chine et Asie] Beijing plans to bar young red-chip companies from listing outside mainland China - MLQ.ai
 - [Intelligence artificielle] Chips are crashing like it's 2008 as the Nasdaq 100 nears a bear market - Yahoo Finance
 - [Résultats d'entreprises] Did Earnings Beat Just Shift Dollar Tree's (DLTR) Investment Narrative? - Yahoo Finance
-- [Anthropic (FR)] Le S&P 500 et le Dow Jones s'orientent vers une correction, le recul d'Anthropic pesant sur les valeurs liées - Boursorama
-- [Marchés mondiaux] Wall Street Slides on Mounting AI Selloff, S&P 500, Dow Set to Confirm Corrections - GV Wire
-- [Banques centrales et taux] BCE : vers un doublement des réserves obligatoires des banques - Crédit News
-- [Chine et Asie] 
+- [Anthropic (FR)] Le S&P 500 et le Dow Jones s'orientent vers une correction, le recul d'Anthropic pesant sur les valeurs liées - Bourso
