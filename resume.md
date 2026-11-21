@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 52872.6 EUR, jour -1.49 %, mois -29.33 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 52927.37 EUR, jour -1.39 %, mois -29.26 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - G-Resources Group Limited (HKEX:1051, secteur Finance) jour -2.05 %, mois -7.97 %, prix 5.485 HKD, capi 2472715327, PER 9.4, volume x16.68 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
 - Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
+- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 5047665185, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 665841152, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3641703802, PER None, volume x1.08 la normale
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,17 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Pourquoi l’entrée en Bourse record d’Anthropic n’a pas suffi à rassurer les investisseurs face à la crise Nvidia - CoinMarketCap
+- [Anthropic (FR)] Le français OVHcloud entre dans la course à l’IA ; l’entrée en Bourse d’Anthropic ne rassure pas le marché : les temps forts de la semaine - L'Orient-Le Jour
+- [Banques centrales et taux] Laurence Boone, figure de proue de l'économie européenne, va intégrer le directoire de la BCE - tv5monde
+- [Banques centrales et taux] La Française Laurence Boone proposée au directoire de la BCE - Boursorama
+- [Banques centrales et taux] L'euro se renforce alors que la BCE laisse entrevoir une hausse des taux d'intérêt - The Portugal News
+- [Banques centrales et taux] Le dollar recule alors que le rallye alimenté par la Fed s’essouffle ; la baisse des rendements américains soutient le yen - Zonebourse Suisse
+- [Banques centrales et taux] Lisa Cook, de la Fed, juge de plus en plus urgent de lutter contre l’inflation - Zonebourse Suisse
+- [Banques centrales et taux] Le cours de Bitcoin passe sous 60 000 dollars pour la première fois depuis juillet - Yahoo Finance France
+- [Défense, énergie, matières premières] Is L3Harris Technologies (LHX) A Bargain After Recent Weakness? - Yahoo Finance
+- [Défense, énergie, matières premières] Can AeroVironment's $405 Million LOCUST X3 Order Expand Its Reach? - Yahoo Finance
+- [Crypto] ETH price on Nov 21, 2026 at 7am EST Crypto Prediction Market - Robinhood
 - [Anthropic] eBay sellers are chasing Anthropic IPO hype by hawking $1,800 hoodies and $100 tote bags - Business Insider
 - [Anthropic (FR)] Nvidia : L'équivalent du PIB français envolé… Sur fond de scandale chez Nvidia et de craintes réglementaires, les géants de l'IA ont effacé plus de 3.500 milliards de dollars en six semaines à Wall Street - BFM Bourse
 - [Chine et Asie] HKSTP Debuts at MEDICA 2026, Forging Hong Kong-Europe Pathways for Life and Health Tech - Akron Beacon Journal
@@ -446,17 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Pays émergents] Daily Voice: FII buying is no big shift towards India, but worst of foreign selling is over, says Spark... - Moneycontrol.com
 - [Pays émergents] Black Box: Institutions Acquire 11.35 Lakh Shares in Bulk Deal - Kalkine India
 - [Intelligence artificielle] Could Jensen Huang Land At Nvidia Rival Intel? - Investor's Business Daily
-- [Défense, énergie, matières premières] Three Defensive TSX Stocks to Serve as Bear Market Buffers - NAI500
-- [Défense, énergie, matières premières] Top Applied Aerospace & Defense (AADX) Competitors 2026 - MarketBeat
-- [Défense, énergie, matières premières] Goldman Says Stock Selloff Has Legs as Panic Index Nears Maximum - Bloomberg.com
-- [Crypto] XRP price at Nov 21, 2026 at 12am EST Crypto Prediction Market - Robinhood
-- [Crypto] Bitcoin tanks below $57,000 for the first time in two years, and its not alone - CoinDesk
-- [Crypto] Bitcoin Tumbles to Two-Year Low Under $58,000 as $2 Billion in Bullish Bets Get Wiped Out - BigGo Finance
-- [Petites valeurs en croissance] Photronics (PLAB) Stock Could Be 29% Undervalued Despite Fresh AI Supply Chain Uncertainty - Yahoo Finance
-- [Défense, énergie, matières premières] U.S. Global Technology and Aerospace & Defense ETF (WAR) Stock Price, News, Quote & History - Yahoo! Finance Canada
-- [Crypto] Nvidia and SanDisk Bets Joined Bitcoin in a $1.76 Billion Liquidation Wave - BeInCrypto
-- [Crypto] Dogecoin price on Nov 20, 2026 at 8pm EST Crypto Prediction Market - Robinhood
-- [Anthropic (FR)] Les marchés financiers “plongent” tandis que les inquiétudes liées à l’IA s’intensifient - Courrier international
-- [Banques centrales et taux] Bessent exhorte la Fed à éviter une forte hausse des taux, invoquant le choc énergétique - Mezha.net
-- [Crypto] BTC price on Nov 20, 2026 at 11pm EST Crypto Prediction Market - Robinhood
-- [Rachats 
+- [Défense, énergie, matièr

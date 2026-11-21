@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T11:00:34.955738+00:00",
+ "mis_a_jour": "2026-11-21T11:10:36.761154+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52872.6,
+   "prix": 52927.37,
    "devise": "EUR",
-   "jour_pct": -1.49,
-   "mois_pct": -29.33,
-   "volume": 238.53421763,
-   "volume_relatif": 1.14,
+   "jour_pct": -1.39,
+   "mois_pct": -29.26,
+   "volume": 239.40428031,
+   "volume_relatif": 1.15,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,83 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Pourquoi l’entrée en Bourse record d’Anthropic n’a pas suffi à rassurer les investisseurs face à la crise Nvidia - CoinMarketCap",
+   "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lUklnb1Y3YlVyMzFtTEdrRHdScnhvTDNWdnA0MmxRWFI5ZHEyOGJQZ3J3NTF0ZlMtZXhUTEhqQ1JkZVpPTWlUTkpYM1QteWNNcGF6SU9VMDJMTzhGR2FMbXpuR1N0VG1ELU1qa1N5RVdQcTNYeldneQ?oc=5",
+   "date": "Sat, 21 Nov 2026 11:08:15 GMT",
+   "vu_le": "2026-11-21T11:10:36.761154+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Le français OVHcloud entre dans la course à l’IA ; l’entrée en Bourse d’Anthropic ne rassure pas le marché : les temps forts de la semaine - L'Orient-Le Jour",
+   "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQVpnUEMzc3BYMVdlSzRZOGFScWpQeWJjQjktZFprWUt1UV9wbVp6MzhnUkdIVHBhMUFaWHhfM2l3RTdwb2tKRk9KVHhWQ2ZCUnp1WDZqajhyYVdnVTBnRUthdWItdTA3VWFoSWVZVkZCbzJ5cjRQM3VNZEV2VkJva0ZWUDUxV0lBQm1uNGlmYU54Sm1QS2dRaEhVRW8zRVVQdE1HZUhGT3Z3S1RzbVFQVGNPamVpOFlWZTdneVlEbU9rb2hTLVNaR0REdmc1WENMTTlhZFhkU05MNDVQeTBjbVpxTzRLR0RXVUQzZGZBUEgtX1VJT2tUeHo5UUVCV2RmR3hGc1IyOVNmRkNxZXlN?oc=5",
+   "date": "Sat, 21 Nov 2026 10:56:49 GMT",
+   "vu_le": "2026-11-21T11:10:36.761154+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Laurence Boone, figure de proue de l'économie européenne, va intégrer le directoire de la BCE - tv5monde",
+   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMVk1UzhqWUY5ekxHQVB1MHhoTkJXVENIaGtXVzFDQVZZbTBQVWZ2ajFJUkFpTHpSMEhFSmx3WGpibE9Fd2w4ZkVBd3h4d18yeTRlcHUyUlYtc2sxbGR6MXdzQ0VZVkhVMzMyeXh2ZENsV3NZVFJ2MXN0T1pTVm5JNXUwVGszZVN2dFRPd1dhUkJMblpaODJUZlJVcW1IYi1Xdmp0UVNiekVEenpiTU05Q2lMTHhjcUw4emFMenFSNkFObmJpUlpRallTcm9jUGNzcUlkNFNXZjF2M09x?oc=5",
+   "date": "Fri, 20 Nov 2026 17:11:00 GMT",
+   "vu_le": "2026-11-21T11:10:36.761154+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "La Française Laurence Boone proposée au directoire de la BCE - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZHY0UGVLcnhadkxtdHFvSWE0RF85SUM2X05wQzdUSHhrTmhUamU3ZkpBaThVLVlObndVMUNhQnZnaDF5NEpCeXB4R0hXZHJUdlV5dFJYd2d0dDdrUDJ6d1oxQjZoX2UzeWVMU1VFN1hDOXd1dWlNSWZpRTZ0eGNzVGVvOTNfMG1EdDJBOHVKeERtYVU4Nkp4UktaUGVfN0NRZDRMc2ZtTDhrVWsyaDRBcHFlRmV4NmI5OUhDU21jMzlFeWNyM1VDN1RLamRITi14RzE4WnlIcTlrTDV3VlZXaV9ZeXRmZU1FN0N2ZNIB7AFBVV95cUxNZHY0UGVLcnhadkxtdHFvSWE0RF85SUM2X05wQzdUSHhrTmhUamU3ZkpBaThVLVlObndVMUNhQnZnaDF5NEpCeXB4R0hXZHJUdlV5dFJYd2d0dDdrUDJ6d1oxQjZoX2UzeWVMU1VFN1hDOXd1dWlNSWZpRTZ0eGNzVGVvOTNfMG1EdDJBOHVKeERtYVU4Nkp4UktaUGVfN0NRZDRMc2ZtTDhrVWsyaDRBcHFlRmV4NmI5OUhDU21jMzlFeWNyM1VDN1RLamRITi14RzE4WnlIcTlrTDV3VlZXaV9ZeXRmZU1FN0N2ZA?oc=5",
+   "date": "Fri, 20 Nov 2026 17:44:55 GMT",
+   "vu_le": "2026-11-21T11:10:36.761154+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "L'euro se renforce alors que la BCE laisse entrevoir une hausse des taux d'intérêt - The Portugal News",
+   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSFVmRkZRdWsxYmV2WTN2eWYwMi1GZmdpM1M2RlNhdl9WUVdHMm9ZazZnTG4tOUI5WEtfWExFeWRnZ0NPc2ltVU9mSDZaQlFIa3Y5My1tbHRmbEppOUNhUi0xWFdGZDdOWHBKbkM4TS1wSmVxX3dHd1dTNFhTa25RR1lPTnBGUnU2UTYwaFVOV0M2THo3NWtUa0J5OUdYSWI0Znpsd2ZRRkJEa24wTWh2aE40ZFFTUTUtWDVCWFBQWjZYcExveWtjVDFUQXdtQnY2VUYxeVVLU2k0MXJs?oc=5",
+   "date": "Sat, 21 Nov 2026 07:57:27 GMT",
+   "vu_le": "2026-11-21T11:10:36.761154+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Le dollar recule alors que le rallye alimenté par la Fed s’essouffle ; la baisse des rendements américains soutient le yen - Zonebourse Suisse",
+   "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYmlMdVVEeEpnOW93ZDBGRHFvMHNlWTc3SXltOTM1Y1ktN0tkUVc2WFJiVENReFNILXhGV3B3NWY5VGZjdWM3bTFpeUNxbjE0a0U2Qk9IdDhibzl4b2dEM2FKT29WM1h3cXZGZ25DZUMyN3FFRHphZExybG1ObkctTGhOUmtaR1hhbWs4S3ZRWVl5d0FVNXZtZFZvZFZWSWJDQmxJWnk0LVhNdlB6d1psMEVSR2tCOThvMEZoYlhwRTFhTHZYNzhGamI4X1RQSi1TazFqNWFQTnE3OTJlaU1lbjZNdXVPLTJqMzhqZVhB?oc=5",
+   "date": "Fri, 20 Nov 2026 20:08:21 GMT",
+   "vu_le": "2026-11-21T11:10:36.761154+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Lisa Cook, de la Fed, juge de plus en plus urgent de lutter contre l’inflation - Zonebourse Suisse",
+   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa1g4d1lsVG4waDVMZFd4RnVGVG9GMW5uWnRIMXZTUWRHb2dzZEZrbERZcFJ2NTBFamk0eFhOc2YtUTZwSlVHbVlJWlJONjNhLTRLX3YwdkczZ3lFVnJuRzFQSGwxVXVick42dHVMT1pvMjR5aW03R1JUaFhiNHVrblhwTFhEN0Flc3lSeGdxR2l5NVdTX2YtOTMxNGJXejMzX0xBOXRPMVEycTJ1SjBpbnFiUkE3VktzVjA2aUdzMmh3SGpSaGJmblVVbnVvellMbWtv?oc=5",
+   "date": "Fri, 20 Nov 2026 18:56:31 GMT",
+   "vu_le": "2026-11-21T11:10:36.761154+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Le cours de Bitcoin passe sous 60 000 dollars pour la première fois depuis juillet - Yahoo Finance France",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFliX1E1WmpUNldBQkR6VnpGbmxUNHBMcThCbDR4cG5TekJsTnFBanRWYW1yR2xpNVRJM1NrSXFiQkNWODlpWXlfbmpIVnRyZk5lQ250X0pYSHVBaE91QUNiWVloUm4tWE5wTTVLZWtEak5iUjJITGU4SzE2MmhMVjdpWGZfSW1w?oc=5",
+   "date": "Fri, 20 Nov 2026 15:45:37 GMT",
+   "vu_le": "2026-11-21T11:10:36.761154+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Is L3Harris Technologies (LHX) A Bargain After Recent Weakness? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGNmeWtfdUxVcTZLZHh5M2FNRDVsRVlhM2dTQ0VOZ3oxaFdkWDI0YWdlZFhBbTZ0RlFMUFpHMV9mZVhXdXY0bUV2T2RhNlJIVmxSMjV4LVduQ3RGclZNUWRhN1FEZXp2SU5yNE54cGhYblVEcUtIUUNRVzJWQXlydmdkZWZyeU9sNlBVNmFvaGNvblBMOVBtWnJYR3dKRHhkTW1xTEZBMkw?oc=5",
+   "date": "Sat, 21 Nov 2026 09:10:24 GMT",
+   "vu_le": "2026-11-21T11:10:36.761154+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Can AeroVironment's $405 Million LOCUST X3 Order Expand Its Reach? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd0lpUVp6VWNMX0tWcmFJbkxKTzBwa1d1YW55SjNCbno2bEJVdk5ZUFNncXIya3lSQi1LODJoWUNSWl9qT1hLbmZfVDRieXIwZXhac1pfTXRfMm5ROEJLcU03OVhjOTF4S1RfOXV4RHhaVm5jSFducElaci1PajVNakxZSDQtQ1VJMjlMYWloZThtVkpKSGlqRXc0Y3N3bkNLejAw?oc=5",
+   "date": "Fri, 20 Nov 2026 13:57:00 GMT",
+   "vu_le": "2026-11-21T11:10:36.761154+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "ETH price on Nov 21, 2026 at 7am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMzNmQzFRR2poeEV2a3k3UHdBa3hRYnFJSGF3c09ydTBVU0J1Z3pfSHlnaE01ZnlpRkZ3U3duLVdWR3NhZTQ5UEVqWlF6NzVnd3BLX3B2V0NhY0R3b09ENzVSX3VtY2JKdm5BZzBhYURWaUxQM3RWb0NsdzMzTDJuaFRIS1dXS1lQb2dEOUNqV0w3Zm9rNDFQTVNFVXhucGdiLWlETUhkOUM4eFN0eXc?oc=5",
+   "date": "Sat, 21 Nov 2026 11:04:49 GMT",
+   "vu_le": "2026-11-21T11:10:36.761154+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "eBay sellers are chasing Anthropic IPO hype by hawking $1,800 hoodies and $100 tote bags - Business Insider",
@@ -6475,83 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1ZrYVVxbGNfYzh5UFRXUGJPeVhpYjJLa3I5QUNLRFhtLWlGRDFpVXNyamFaVk03VzRFaUhEVEZuaDJPTFdMNWlOdHl2WW5lcDNhVEo0Nnk5aWVvZGJfeVRwbTRCRXc4ZTE4NGdvcEJoME9IdDJVdFMyaE9QQ0M3czg0NkdxZ2oxcjdjZGdBMU1qWVBpZlMxNlhCZw?oc=5",
    "date": "Fri, 20 Nov 2026 16:11:54 GMT",
    "vu_le": "2026-11-20T18:20:38.609287+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "MongoDB (MDB) Stock Could Be 21% Undervalued Despite Price Target Cut - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWmcyaldwSGUxWVYxX3lyaFMyQ2tXYncwLTBjaXA5S1NSUkNXT0lKZnUzdjhGNEkxMmdLbDVBejJGdnlEbHZBcWowWVMtRDMwZHpyMUt0dlZMZWE5QkFkcG9PbXdQbjQwb2RZVFhhNnB0Z2k5X1JrZVZPWE45N3Q2VUcxTUtCOExzdk5OQzBpWTZON1JDVkE?oc=5",
-   "date": "Fri, 20 Nov 2026 17:09:51 GMT",
-   "vu_le": "2026-11-20T18:20:38.609287+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Europe's cheap-labour edge fades as emerging markets catch up - IntelliNews Lambda - bne IntelliNews",
-   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWlBmZDBoeFlhaC0xbEhjVnlyTVNTMV9BQVVnaURuTGpvSzlIdEtWOWxNYkE0amU1VlpTNktzWVMtZFFiR3JoTU5ub3lRY1FSczhZLTk0WVlJbHF0SnFvQVR1ZmdsS2cxVzZydjFZckhXUjkybFBWSjR2Z3owZnZsNjk1eWFGWHVEVTAyOXkwS3B1SFRFOFZLQjFMa3RrcGRQd2lYWGFQbWhBbVFZT3d0YmhOeURnN1VHWVN3ZUhlYWtLN09pSjNzZEx3?oc=5",
-   "date": "Fri, 20 Nov 2026 17:20:39 GMT",
-   "vu_le": "2026-11-20T18:20:38.609287+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Why Crypto Is Crashing: Bitcoin (BTC) nears new 2026 low as strategists say cash Is king amid Fed fears - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejRKV3BfU3ZHQ2s5SUFweDJXRXdvdHdiaHA5R2ZjQXZzS3JpTG1ieXYwbXR1NGl0bWw0cTY5c1RMUmpseFZaTHlfVnFyWEYxd2RBY3NwNldRdDg5RU5mZWUxWl9xellrX1NUamN3MzF4dkwzYkNXcFdDdkhob3BoaFZITjM2eThQSzVvNlBXWndWREVpT0NWb2FJLU9WZzFJTnNPSUhUWGVuTW1nVmd2Z2tiWmZYVEhnX3VnYzY5ZXh2UWRoYXAweWR3?oc=5",
-   "date": "Fri, 20 Nov 2026 18:13:52 GMT",
-   "vu_le": "2026-11-20T18:20:38.609287+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Falls Below $60K as ETFs Bleed - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSmd6OHZkVXBjeW9fdUxxQ0Vnc2NJN2dESExEMFYzNVVUdGEzejhXUU9PcG55MWtnSHlIdk8zVnpBSm53bUxxN01lc1hNQmlKc3JVS0l1c0IxU2toR1hYajB2eW5uR3Qxcll3MF9vMW1jdjBMcDRKSXVZV3lCYmV2WGtLMW9NbFBLaGVXWDd5M2dhZkFxeGZUZA?oc=5",
-   "date": "Fri, 20 Nov 2026 17:51:02 GMT",
-   "vu_le": "2026-11-20T18:20:38.609287+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Watch Anthropic IPO Tests AI Investor Appetite - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2c3cUVDUmNKOTViRXlyQ1kySklEdGVLZmFLazd2TU1YSzhxMmhKNEFoY09TT2JGREZmeVZkT1hKM2hiRjFIQmpWZlBlQ3ZSMlB6TkJ0bzlHRjZicmpQZjlON1lJakI3S2RsbTU4a0hvUUlYWVFYUDgySmg5VUZjbUd4LW1vQTZFMk1Ba1A2Y1hlY1RQVHVCN2V2RQ?oc=5",
-   "date": "Fri, 20 Nov 2026 17:03:45 GMT",
-   "vu_le": "2026-11-20T18:10:36.585371+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Le montant levé par Anthropic monte à 91,6 G$ après une vente supplémentaire - Noovo Info",
-   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOWRoc1hFMDM4WjFmOWE4TjBNa2k3UHZEVlZGd1J6T192cDM2Xzdsb0Jld0NTRDZiQTNyOWVad2hCTk9ySGNKS0xkbXFYSGs5WTNOSlplT3BITkpOdzJGVTMyal84OGNYVHllYkRiVS05azFoZ1AyQ3BrNk8tVER3MmpBZkdrZm12WGdTWURDWkJzZkhRUFVUYkxTYjgxZEZqY2o2NF80akFvQ3RwSXc4MU5QV211eW1sNm1tc0JJTUZhZk44Vm5ZTFh1MU42dw?oc=5",
-   "date": "Fri, 20 Nov 2026 15:24:58 GMT",
-   "vu_le": "2026-11-20T18:10:36.585371+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street forecasters are starting to worry that the AI trade is on its last legs - Business Insider",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczhOVi1WdG1MUWd3bS1FNHdoSmsweWEzbkRSOElQTTM2UUl4ZjdrYXFyZ0pYYmxDUjhiRjVfS1Ywd3I1TEFXMk5EVk05ZmtFVlcwUjdTQUg1YzdiUkhkV3hHUkRTdkxaR0U4UEhPa2VPS0VDekVLS1VmbTcxVzVydXpDcnpJUkdDdkJsWEYtNXA1aWdmb1E?oc=5",
-   "date": "Fri, 20 Nov 2026 17:18:00 GMT",
-   "vu_le": "2026-11-20T18:10:36.585371+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "SpaceX Just Raised $32 Billion for AI Chips. Lenders Want Elon Musk to Keep Them on Earth. - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcUZoQkFRUC1ZRWROUU03U2JzcXR0dzJqLVVaQWFPUnRYV3NQN0ZTTWNVUXZuUWVmUk85NVFiSmlzTm0zMHBiRFpqNjVndmhCSFAycFBWaHNWVkJTaWU5cUZzTTBUQTlFRzItc2hRdE16NjFMREZsYmxZcmtscFBiUWpDLTM0TUoza1Q4TTBsRDgxNVZKNDVvYg?oc=5",
-   "date": "Fri, 20 Nov 2026 17:48:02 GMT",
-   "vu_le": "2026-11-20T18:10:36.585371+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Azio AI secures $27.9 million hosting deal with Power Champion - scanx.trade",
-   "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWlU1RjZTbG5LYUR6bWhQQ1RxUEpQNFo1SE9vdXFsMmhHY1kyLTExc1liaFE2Z0wtV0JQeFpieUYySmR2dUU0V00zQS1MU21sRVJ4dnF3M09peVVnYVNPVjNxdHVhRzdUT3pJTU9TS3dKWE9OY0JzSjVPOTdCM2hSY2RuN0VmSTRGUWEyMVhKMllaTzBaQm1CSVNXWWp0ZHFsaGdYOWQ1cGRaVkV0WG1JTDJQSDZ0T09fU0xKYmxaSTM1QmZsUmtOU29sTTI4ZThZbWlaV3ZuNUZVaElUN1E4YUtGclpFRlFzZUU1SnpUcVgzT0QtejZpc0hKaw?oc=5",
-   "date": "Fri, 20 Nov 2026 13:37:40 GMT",
-   "vu_le": "2026-11-20T18:10:36.585371+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Falls to $59,000: Was the 30% Rally a 'Bull Trap?' - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMURPTWY3bzdVSW80U21IRmdLNnQ5ekRBd21BNTJEXzFFQ1NWZ1Y2dU90UC00Y0s3UEF4ME5JcUhOOWtZVWZyc1FYZl96RzVtRmU0SVJvNFZyU3g1XzZRRE9EdzZ6eXRfLXFHZnZSWHBUenNaeFlhNE9HdHNwS0hCamVFc1RJbjI1V1hXVVpwOWZBT3A3R2RfMVVqWkNTbWFfaE54bHBFNzNlQU1Ubk9RcUUtRQ?oc=5",
-   "date": "Fri, 20 Nov 2026 18:01:41 GMT",
-   "vu_le": "2026-11-20T18:10:36.585371+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Why Anthropic Stock Is Falling Today - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPblZvdExzbkhTSmNjVFFfcWkwR3c1VThwLXpxMUZ0bldjMmR6Mm9TM1AyN0NrZ0FscE4wN3AwYTZ5TzhldGJKbWhRU1RXX2N2QXByeUhUTW1FLVEyZFhOY1pvb3JsLTRXa2NOMWRibG1Rc0dUOVQ5V04yODM0X184UzBNUTB5UGFZQ0pqX0tBSHd0T2JxZG1HdC1VTFl5UlE?oc=5",
-   "date": "Fri, 20 Nov 2026 16:42:01 GMT",
-   "vu_le": "2026-11-20T18:00:39.531722+00:00"
   }
  ],
  "erreurs": []
