@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55049.25 EUR, jour 2.56 %, mois -26.42 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54939.58 EUR, jour 2.36 %, mois -26.57 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,16 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Banques centrales et taux] L’euro aborde une semaine dominée par l’inflation américaine avec une hausse des taux déjà intégrée dans les cours - www.tmgm.com
+- [Chine et Asie] Asian Stocks Look Like Bargains. Where to Invest Now. - Barron's
+- [Rachats et fusions] Why Apollo's £5.7 Billion easyJet Takeover Caps Its Funds At 49.9% Of The New Parent Company - Simple Flying
+- [Rachats et fusions] Unusual Volume Alert: Kroger (NYSE:KR) Shares Rise in Active Trading - kalkine.ca
+- [Rachats et fusions] BLNE: SEC Form DEFA14A filed by Beeline Holdings Inc. - Quantisnow
+- [Pays émergents] Equities Market Shrinks As Investors Dump Access, Honeywell, Others - MarketForces Africa
+- [Pays émergents] Indonesia's rupiah slips back after rate hike as political risk lingers - Yahoo Finance
+- [Défense, énergie, matières premières] Arxis, Inc. (ARXS) Stock Price, News, Quote & History - Yahoo! Finance Canada
+- [Crypto] XRP price at Nov 21, 2026 at 10am EST Crypto Prediction Market - Robinhood
+- [Crypto] Crypto Outlook: Is a More Restrictive Fed Reducing Market Demand Appetite? - FOREX.com
 - [Marchés mondiaux] Stock Market Sell-Off: History Says This Is the Smartest Move Investors Can Make Right Now - Yahoo Finance
 - [Marchés mondiaux] A 10% drop for the stock market is unnerving, but it’s not that unusual - WTOP News
 - [Intelligence artificielle] You Know These AI Chips That Are Making Billions of Dollars? The Workers Building Them Say They're Being Paid Peanuts, and Now They're Realizing They Have Leverage - Futurism
@@ -441,15 +451,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Arthur Hayes Tells Traders To Skip Bottom-Fishing And Wait For A Washington 'Bailout' - Yahoo Finance
 - [Bourse de Paris et Europe] Le CAC 40 repasse sous les 8 000 points - Zonebourse
 - [Chine et Asie] Hong Kong Stock Exchange: Hang Seng Index Slides to 22,410.80 Amid US-Iran Negotiations - BBN Times
-- [Intelligence artificielle] The chip war’s next battleground - Financial Times
-- [Anthropic] Anthropic’s IPO Is a Win for Venture. Its Success Could Reshape the Industry. - WSJ
-- [Marchés mondiaux] Wall Street reels as AI-linked companies spark massive sell-off in the US - Le Monde.fr
-- [Chine et Asie] Hua Hong Grace Semiconductor Limited (1347.HK) stock price, news, quote and history - Yahoo Finance Singapore
-- [Introductions en bourse] Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence - CNBC
-- [Anthropic (FR)] Deux jours après son entrée en bourse Anthropic chute de 12%, le Nasdaq recule de 3% - RTBF
-- [Anthropic (FR)] Anthropic signe une entrée en Bourse historique, malgré les turbulences pour l'IA - La Provence
-- [Anthropic (FR)] Quatre banques américaines se taillent la part du lion dans l’IPO d’Anthropic - L'Agefi
-- [Intelligence artificielle] AMD vs. Nvidia: Which AI Chip Stock Is the Better Buy on the Dip? - Yahoo Finance
-- [Crypto] ETH price on Nov 21, 2026 at 5am EST Crypto Prediction Market - Robinhood
-- [Crypto] XRP price at Nov 21, 2026 at 2am EST Crypto Prediction Market - Robinhood
-- [Chin
+- [Intelligence artificielle] The chip war’s next battleground - Financial T

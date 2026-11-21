@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T14:10:37.431652+00:00",
+ "mis_a_jour": "2026-11-21T14:20:35.850415+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55049.25,
+   "prix": 54939.58,
    "devise": "EUR",
-   "jour_pct": 2.56,
-   "mois_pct": -26.42,
-   "volume": 324.24355336,
-   "volume_relatif": 1.55,
+   "jour_pct": 2.36,
+   "mois_pct": -26.57,
+   "volume": 328.73477841,
+   "volume_relatif": 1.58,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,76 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "L’euro aborde une semaine dominée par l’inflation américaine avec une hausse des taux déjà intégrée dans les cours - www.tmgm.com",
+   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNczJXSXJnekxEZm1acDlXU09RallXeFNJMlpPWnBJMzlNeHN5VWpTVFpxcmhzMG1SZ3BHQnl6VVEybWltdnNCREl0Z2ZheXlGeHZTUGpLQmFXbldOV1AtcU1sRHF5bW1WNFNJQWNWNVh0dkdxNDc1Tmw0YUN0T3VVS29sb256TV9UMFdSWmRjZElhblRhajhmWEhvOUZtZW83VlhWWHVLN1BtMDI0WkNvZVBncWlCYnRCY2s2OE5GbGVzaGQ5V1hFM3VNQllidGlWWFBtbWFNZjZkRXl2?oc=5",
+   "date": "Sat, 21 Nov 2026 00:39:54 GMT",
+   "vu_le": "2026-11-21T14:20:35.850415+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Asian Stocks Look Like Bargains. Where to Invest Now. - Barron's",
+   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2NFSFZZVWYyMmpLUWswS0s3QklZQjU5NVZMaF9RcUJnVnpMSzNnTDBVMGVVRV9TUktQeUF1ZjNfZGVfV18zUGdKTWpJbnluZTRKSk1rWTJwd2wyRzczLTc2emZZdTlBaS1yVVZ4dVZvYUpGY2xXNW9lV050VWx4OHg5STJweXk5Xy1j?oc=5",
+   "date": "Fri, 20 Nov 2026 16:18:00 GMT",
+   "vu_le": "2026-11-21T14:20:35.850415+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Why Apollo's £5.7 Billion easyJet Takeover Caps Its Funds At 49.9% Of The New Parent Company - Simple Flying",
+   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVlhWZUdYNzdHcVpSaU1lbkZ1UUpOWW1fMUJsQ1NfVGdYYnZfOFBsd1VqQ25FZVBnUVBZXzZXcy05T2w1VnhpeXd5NUl0ZDdhYURXd2VobHVwSXFLMGdmcERFTWlFNU9RaFR2RWNWeGdUYnJjcDhJNE5JX21kM3FjblhOUHZIZw?oc=5",
+   "date": "Fri, 20 Nov 2026 16:00:19 GMT",
+   "vu_le": "2026-11-21T14:20:35.850415+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Unusual Volume Alert: Kroger (NYSE:KR) Shares Rise in Active Trading - kalkine.ca",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUkFvTjNNM1JzVHYyak9PUEpVVTNGQU8xTmlrcFZfbDhZd0M4M3VtRkZUbzBmamhOckpBZkZobGlydTNwYktpY19mUGpMeXVKZW5EaW44TlZuN3pxcDZpN1pZZ3JYUHlwODhXWS1ESWFSalExZE85WFF6ZXRQTEdJSzdmckNYVWhoVGRlNzh4NVhaSWMtWlVxeTZTUQ?oc=5",
+   "date": "Fri, 20 Nov 2026 20:48:00 GMT",
+   "vu_le": "2026-11-21T14:20:35.850415+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "BLNE: SEC Form DEFA14A filed by Beeline Holdings Inc. - Quantisnow",
+   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM1gwYlZEcVpEMDNXNlpVRU5VbXRPdjBxZVg0R1pnSXlIb2trb3dIQ3gwUWlBeTZiRVRyNU1TS3NQWDJVZjVXdUJvVTJBaXc1a3lmN0lGMHN5TWdyQjEzZzBpVzBVVDkwWS1QMlgxeE5BWWQzaXdXaXNGQURtN2ZGN0cya25kR1VkVlVuVmRZVHM4TG8?oc=5",
+   "date": "Fri, 20 Nov 2026 22:35:34 GMT",
+   "vu_le": "2026-11-21T14:20:35.850415+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Equities Market Shrinks As Investors Dump Access, Honeywell, Others - MarketForces Africa",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2l4Z1pxSF9HZTVRdk5fbndxR3VmOEJMeElxal9TZVE1X1ZQRkEtcW5zYWtURjllOGtvQjg0UTQyZ1I2akhPSWR2QmVNa0JIUlF0XzYzMzZtZGNKN083b1lLc2U3SFFkZ3RlU1h5dVppU05vTzlKWjN1czU0dDdFMjQ1eEFsdVJQQ0NpcmN0N1B1Z1R1TWJr?oc=5",
+   "date": "Sat, 21 Nov 2026 10:14:16 GMT",
+   "vu_le": "2026-11-21T14:20:35.850415+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Indonesia's rupiah slips back after rate hike as political risk lingers - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGN6VnloT3NGZ09kQ2RxSGEyYmZ4aFNsbDFEQk1QOF8xa1ViOERJUU9vMkl1YzdKYldyby1lVVZOUzZWbTVrTm1Ndzc2RWVCWW9ENXlwRTNsTHYwR0VsdkFIQk1Idmw5bFNYVFRrdGIySHFKbTJOa3BUSWxjVWpMcEgxOU42RjRkcW5vN1FjQzNHOFgzekxZb0s4TUF2dDlPNi1pbQ?oc=5",
+   "date": "Sat, 21 Nov 2026 13:21:19 GMT",
+   "vu_le": "2026-11-21T14:20:35.850415+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Arxis, Inc. (ARXS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yNmxRNVUzMktYX3g4QkpyaDAwRFFoemJXdVVjODJMckhON3dyNk5weXg1aEMxS3FRa1gyX1RHTU5ySVZwU3ZqS1VxX21YZUxJZkE?oc=5",
+   "date": "Fri, 20 Nov 2026 21:33:25 GMT",
+   "vu_le": "2026-11-21T14:20:35.850415+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 21, 2026 at 10am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazQxUXhsTHkzbGQ1UjM0V2lZNmIyMmRpQUszQXNGMnZwQzhfeDlSdld4ek5uZWcxUndnMzhwTENvTjJraC1WTm15dzVyZWNiZVEzUzgtQ0lLRWg5aVo1ZGloVTY4dlZKS0k3NTlfT3pXSF9QRHBLSDBxQjVWbHdBRzlGVm91N2U2Zi1QZHlVdUZSb3dlblFBUWNVdmpiZFQ1aGVNcTVMTHRmZmFOb3Nr?oc=5",
+   "date": "Sat, 21 Nov 2026 14:16:52 GMT",
+   "vu_le": "2026-11-21T14:20:35.850415+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Outlook: Is a More Restrictive Fed Reducing Market Demand Appetite? - FOREX.com",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXRvNTFxU2pCV3lNcjFDaGVYY0o5UDBLcE9BcGQ4M1VScUtEbF9KQTVMaDVfTlhDeVd1VFN0b1dIUldneFk0R2NFTlBaRzdBLUZpTy1ELUJuV1JHdnI4VlpHMTFuWnNQOWdvd1dQZ3JSbkhKdzUyRTUwWDlwbEhBWjh4YnFOVUtSZHBsRGxLMGRBNWxRYzdGQk9LdFhUY1RlZWJuMzlVS1RIQXY4OFE2R09NVk04d3fSAcMBQVVfeXFMT21UTGctRWozY0pTYTA1cVRZYVRCaXEwS3Jrand0NjJOQTNTSV9ldzVoMlRnTWd5QkxOMW5fRDR1bUtZVXZyX2VYMlJxU1JnZktnMTVYdG9XUzF2RzQ4M2VNdTJXN2o2bHBrdWFQbWtCYnJ3YkdVQlQtSVFMd0s5V251UUczOFY1VGF3azJpQlNIY1JWWmluM2ZUNmpOcjd2dlhlNF80NjF3REtaSkxfVHRsZFFFY0VweWR4ajZSY0FsTDlj?oc=5",
+   "date": "Sat, 21 Nov 2026 14:12:48 GMT",
+   "vu_le": "2026-11-21T14:20:35.850415+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Stock Market Sell-Off: History Says This Is the Smartest Move Investors Can Make Right Now - Yahoo Finance",
@@ -6482,76 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZE1FLUpGTW9zeVJKbndTVUV6MTF3dmVQTE4zd2h4SVlCdzI4Qm1xNmtPWW0xTGR0TjRHRnVVZjg0RERoZXB2MEpMazY5akdSU0phSEc2WEU3NURBdWMwVEtBd2ZmamNRRXF5LVZnMms5QnlYNldTQ1NCVWNMVkpSZjRzc283dlY0eWkxVEVLWTQ1ekJrRGY5Zk5yM2NqcXhtSGoxdFlmcGx1X0tjYkRUaU5nZnRNNS1BZW5tRGlZRmM?oc=5",
    "date": "Fri, 20 Nov 2026 19:39:00 GMT",
    "vu_le": "2026-11-20T20:40:40.493748+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Eli Lilly (LLY) After ObesityWeek Is The Stock Still Undervalued - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORHBLVEVscllmdUdhMGdmWnBhY1I5eENMTDBneW15YktOVmpJYzhmNnlrbmRTYTNtOXJ0UkNnSVJoSmxEdThZaHd4NXhjcTNDek4zd1ZjOHVZYzZKOWtmOWlmZnlaWTVRX0N0TjNBT2lSaVY4Q2swdzQ5ZE9uRW83alF2WUtyZ0pxRWRuQXlteks4WDRPMnJlTFhmRmM?oc=5",
-   "date": "Fri, 20 Nov 2026 20:13:58 GMT",
-   "vu_le": "2026-11-20T20:40:40.493748+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Earnings reactions: beats rewarded selectively as guidance and positioning drive moves - Investing.com India",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOWVvS3RJZl9MMXlkRXBuUG1nZmZaWFBYMzRLYTZCU1hENm8ydW44cXFWQ2pONFRyU0RNblF5aVVQZnQ4N3VnUE0wTy1NVjBBMWozMGRwQnhnb2NlWWxwYktLMDFudHdOclhnVU9KREstb29rZjRkdXBMN3BRQmt5QzVaVjlESkVMdk5iME9IN28xdmY1cExZX2RaVFZlN0VXa0pXcVlmVnF2MFQtSS1NZWFGcVRseHRaNjJBS1NyZjE4THlNTmdSSE1WZWh6VXF5a3YtbFhsZkFQdEJxRDFB?oc=5",
-   "date": "Fri, 20 Nov 2026 20:28:05 GMT",
-   "vu_le": "2026-11-20T20:30:37.640431+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "What top minds in markets are saying about the sell-off ripping through tech and AI - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdUgtVmlUTjZkUlRXanJuMmVhRURJVkZZaHJvWTZWbS1XOWROMkdLd1ZnUDl1OFBkbkQ3WUJBbWFKbjV1QWo3clFtMmdPaHNOdDYxeEtaQ21WajE1c055VmpoTm5LX3BSNkZmV2ZySzZyV0Y3cU9PdUJEZmpQNk1oR1FPdTY?oc=5",
-   "date": "Fri, 20 Nov 2026 19:30:24 GMT",
-   "vu_le": "2026-11-20T20:20:35.921878+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "U.S. stocks tumble, and the S&P 500 drops as the sell-off for AI stocks accelerates - NBC Bay Area",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmtNTkwza2kycTNkM3VURGJ3aklYT1hrZHFMeng3T3lzUjhlQTVIUjU4aWhrcm5DazJSNWZta1NYNGZld3ZqVC1VV2picW1lZ3F0S1Z3NTRFNF93TTIwWWpiZUVXUEhLT0h5ZFZLNjgxZFFleW9feGFzd3c0aHVESzdqY25TN0o5ZkU1c254dEgzdVZwY295SXJPWTPSAaQBQVVfeXFMT0VCWHVtbDExX3JmbVh0ckpBSGQxSWxiS3pnQWpsWVphX3NmTzd5Uzlkbm04a1hvTFBVYnVOMTJRYXJpcXVZVHFUa3RVMVJ4c1M4SlJ2TGxQaElPQjBuVG9BNWh1ZHJLRTZkZEdoY1ljd0xoeVFHRFJ2X2Z3UEZMcHhtRk5RRjFzNU9YWFprZnd6NGpTcHZWZGJFSU5mVGVDclg3c2Y?oc=5",
-   "date": "Fri, 20 Nov 2026 19:31:36 GMT",
-   "vu_le": "2026-11-20T20:20:35.921878+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Broadcom Stock Plunges 12% and Loses $191 Billion After a Report That Google Cut Its Plans for Broadcom AI Chips - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ0N4bEVuNFJTZXJ4X2lULUZObWFKczJPcDZzamM5ZVltMUUxcnB6ZEs2ZXliLXlTVVRrck9oTzVJWHlQdHoySFRHTF9sTWI1dDBiaDdJRGJaTkgtbmwxSWdNU1RXYW1EM1hnaDRucVJ0cnRUUW1KVFN1NFdxNmN2OVhxWFNxX0ZMc3dQaTJhWWJZUnl2ZkNWcmZ2cUxWZjNsa3Z6T0tQc1BZdlpINng5Tzhhb1RoaElqNEJEdFJUSUh2dXpqYTdWa3J3aFoxbzFkdHI2czBoeGlBWENaRlpkWDhKMzBpTk5mT0E?oc=5",
-   "date": "Fri, 20 Nov 2026 19:13:00 GMT",
-   "vu_le": "2026-11-20T20:20:35.921878+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Earnings reactions: beats rewarded selectively as guidance and positioning drive moves - Investing.com",
-   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNckRpN2k1dXE5MFpPMkhFSGlOVHJIcENFSlp1U2s2dGxwLTBHck9yVlBEdTRGMUZ2S2ozNm9oNkxSeHNKbmR0LS1OVkxFTDMtcjV6UkJPLXFTQmhsbFlNY1JlZ3Q5c3l0SU0tWlRsbFBrX3BERjVyb0plMmllZDdYZGhBVjRpT1UwRHRwX2dBLTF0S1pzQ0d0MkdNRE9ieEItb2V4NEg0SHluV2FWUzhBYkRPNERxWEE5cmUwYTc0dzI5WmdaVXVQLXFCNldZYzVHR2hRTFJ1M3JEa3Z2R1FmbA?oc=5",
-   "date": "Fri, 20 Nov 2026 20:18:17 GMT",
-   "vu_le": "2026-11-20T20:20:35.921878+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Why Bitcoin Bears Get Capitulation to $54,000 as an Early Thanksgiving Gift - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQWRNdUNCTnk1QnFnNV9pU214N0xNWVdnN3pRQ1lERjZOLVk0MWZSUWhFT1NMNFBPY3haQ1RNMEpleHpzZDZoSXdwZHJhc19wYkZYWXFnc1Q1YnZiVVhCNmV0cU9TMGw0ZmgtbHRoa19mSGMzX0dFVG9yRGdrWVJtY25zamxzLXlxdEhBdC04Wk1MZXpLdFAzbDVpYjZwcFljYTNZLWYxbG9zVFJtWkNOMklfLWQzYUJHaEtkMlVaLURWOFdwZnUxVVhSLVdJZ3BI?oc=5",
-   "date": "Fri, 20 Nov 2026 20:03:05 GMT",
-   "vu_le": "2026-11-20T20:20:35.921878+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Crypto News: Pepeto Presale Announces $11.3 Million Raised Following Dogecoin Success While Bitcoin Price Prediction Aims $500K - markets.businessinsider.com",
-   "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNXVmOFFmd0ZHVzh3aEZ1SWozTnRuTV82Q0pzRENfYnJvem9fQ3JtUVpkNGRkNWViZnlfNEtqMnF2bWFYcXUyQnF0ZzdFTkxZQmljVEZRempvUmJkbHZyWXRUSW1XT010SGRWczVHdVZXUGVvZmUxVWprZWd2eXd3TERZc0Jqd3FhY0QyMlZSVkk3dmQxQnQ0ZzNuS3dOQmY4dGRzTkN4VFRLcmxVMUY2NzVqNzNZNVV4bWNvaXhwYmtkbE0tMDdEdlAxMWVIX0FjMkZTV0tzS2ZoQ2ZFSEpaUlg1LUFRVzBoRlBKdk9aQkE2NkdQa3B2X28tYTJHQjV2MnBNMTUzMzZWYWYwemhMcg?oc=5",
-   "date": "Fri, 20 Nov 2026 20:19:16 GMT",
-   "vu_le": "2026-11-20T20:20:35.921878+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Strategy Is Down 44% in a Month as Crypto Stocks Crumble: Can MSTR Stock Get Back to $100 This Year? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU09iMmx3N0JlMDFxbWxfTEo4VTAyUlEySDVESDEzQXJtbkoxdW9zeGJwb1pHVVd4NUY3akdMV3A3bTBWRnJMUEthdTE5cXlhbnpLS3FoNVgwa191eTNUYU5FcFpsR2RBMmJoUC1RQVNNV2t0dGxHcTN1a2doamdqMl95NUE3UzV6cjE4NUF1MkxOalRxVXRmQ193?oc=5",
-   "date": "Fri, 20 Nov 2026 20:02:35 GMT",
-   "vu_le": "2026-11-20T20:20:35.921878+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Tech Rout Deepens as Anthropic Stock Slides - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXoxelBUTVhyRnpMMzByZ1JqZmJWTHdPLURxcUh6Q214UGJ6OVhuS2ZweFZ4SHVIaG1tMFNOa00tSXdYbkF2WkFlenlXRC1zbFpkbFhwZHkxQWpXeFhLMVdFUFJCVVVoUTRvVGpjYTBZWi16cXlrdWF3UlRjVkRnbVBCUFNhdV9WS2s0b0JsSVVvNUR4MEdHcWV3?oc=5",
-   "date": "Fri, 20 Nov 2026 17:35:00 GMT",
-   "vu_le": "2026-11-20T20:10:36.476686+00:00"
   }
  ],
  "erreurs": []
