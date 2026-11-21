@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T17:50:35.833266+00:00",
+ "mis_a_jour": "2026-11-21T18:00:36.242505+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54722.9,
+   "prix": 54798.57,
    "devise": "EUR",
-   "jour_pct": 1.96,
-   "mois_pct": -26.86,
-   "volume": 368.25601148,
-   "volume_relatif": 1.77,
+   "jour_pct": 2.1,
+   "mois_pct": -26.76,
+   "volume": 374.29391905,
+   "volume_relatif": 1.79,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "NEXANS Cours Action NEX, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82djB1RmVXWUNtdjFXVlVMVzFrdWlPUldOUnY5bnc1UWNHZ3VYTmNaM3lLdkIxTFFzNG4tWjZ6Q0p3dzZxZUFiUDdidHh1Rmpkc0E?oc=5",
+   "date": "Sat, 21 Nov 2026 11:55:09 GMT",
+   "vu_le": "2026-11-21T18:00:36.242505+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "X-FAB SILICON Cours Action XFAB, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYX1FyYW1xal80am53OU5CS2xYQ1V4dWo0S2Z6R0xoMEdJYmU2R1lwNm5KOTEtUFcwSmhPR1JIV3FReDltMHNGZ2Vvb2F6RlRwSmRz?oc=5",
+   "date": "Sat, 21 Nov 2026 09:00:26 GMT",
+   "vu_le": "2026-11-21T18:00:36.242505+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "U.S. stocks plunge as AI rout deepens - 巴士的報",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXRuR2stTl80R2lnZW9RUnJabW8xRmVFdjJId0ZzUE1rczNvUXRveFNLakhSM2lMRkpMUVNQQ2xVaE1HRDRGdkxNMUQ2MUNtUEtqaXF2cUptYnp1QkNwTmJtS3dLQllFaUxnSS1EM24yQzAtWWhUdlhydkc1UnA4ODNxWFo0Zk1iYzJSa0pneWx5dw?oc=5",
+   "date": "Sat, 21 Nov 2026 06:53:10 GMT",
+   "vu_le": "2026-11-21T18:00:36.242505+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia (NVDA) shares fell sharply as SEC investigates potential accounting issues - Beinsure",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNejVjekR5NUpDRmUzNmNTYUY5clRuR19VMS1VcmFXbld5LWJXMDZHX1otN204QXJoYjFYVEh2MjJjSEp3VHJaUHIyQzBVaHlYc1VQemdCb2FXRjFIRGJWdnVoVzBMeWhMZW1UMFJjalAtS2tESFJsYS10TXBMS0RpbEIxOWVYd2M4T0JUUUloVV9CV0tHQVloTGxYZw?oc=5",
+   "date": "Sat, 21 Nov 2026 10:33:20 GMT",
+   "vu_le": "2026-11-21T18:00:36.242505+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open - CoinDesk",
+   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazQwdWlpUGFEeW94QjNwc09ZYzFHblczcTFvUEI3SzdwMTE4cWw4T0RlcFhJcE50cWhhcWVaWnVxekgzVWJDWjNpWTJoZnEwcDBmVHA4NUZyVi1rNUU0dkRFZkpOMkZrYlBseEN4WWFFenlSbFJZVXp3REFlaUZ1UjNGTjdELVhDalhvd1lFNGJMUHktUlpDOWtCajF3TmZKYy1XOURObVAySU9yRS1Oclc2QTZaR2J5WGhpcXpoRWowaFJEUnpwUEFXYXNtYWs?oc=5",
+   "date": "Sat, 21 Nov 2026 17:51:06 GMT",
+   "vu_le": "2026-11-21T18:00:36.242505+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "After Blockbuster Anthropic IPO, Dario Amodei Heads To Puglia - Forbes",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4OWp3RmVfYWUyMllNLTFMUVg0Z2xhX3FQOExDY19zWGt2czN5QVpUZFhTVFNsWEk2SXJWOG9CaWhPcW11MC0tVUkwMVZiTlo1U0x3Mm9TeHJ4VnlVUW81RzBOWTF3RENvMGNaZng4NGtFNkpXbUVN?oc=5",
    "date": "Fri, 20 Nov 2026 21:12:41 GMT",
    "vu_le": "2026-11-21T03:00:35.708431+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "No further shareholder vote is needed for the merger that would take Bumble (BMBL) private. - Stock Titan",
-   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVRvMnZaUXpIYjE4QzBlMC1QWUI2bEpLOFZWLVBPVmJxVXVCX21GMkVFWm5qNVEzeEd6a2s1d191T3FzWmZ4cldISzNkYXVQeTlmSmU5ajdGUjZfNkdnUVZUOGRtemFfdU15ZGxJV0FFNy1JNjZqc29IR3dvOGFJM1lBczBMRHVXeWY3QTZET3h3YTc3UWo4QmZFT3ZVOXBPY0pOT09FOVpLNVpxREdDYXlCcXBZOFA0YkVXWXVB?oc=5",
-   "date": "Fri, 20 Nov 2026 21:05:18 GMT",
-   "vu_le": "2026-11-21T03:00:35.708431+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "US Stocks, Corporate Bonds, Copper and Oil Flash Warning in Unison as US Economic Boom May Be Nearing Its End - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kOG1IS05pTVFpdHhXS25CZWRGOGsyQW1HNHk5WjZpd1BscWozWmxqNG9aZVg2b3MyMnpSRU5yNGExMHh5bXM3enhPNVpjVHZrUzEwSkdNdktwbnNwTmZRUXJmS0VMZ0o4NmsyMEdpVU5nSFhaSlE?oc=5",
-   "date": "Fri, 20 Nov 2026 09:25:00 GMT",
-   "vu_le": "2026-11-21T03:00:35.708431+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Nvidia Shares Slide as Investors Rotate to Defensive Stocks - Wisevoter",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV0t1WmdOWENWWlBUSnptN3plcmVicFdTOHI4VG1KRmc5ZFZuUWhMTDA3VGRUZDRiVGZpR1p1SG1RUkE1M3B3MkhpM3JFXzFsVEtyYy1teVF1RE1KS1FPR3RRNGp0X1F1dVh2bjZIUHRpMnB4NHpxREpaMGN6alhpZk5Cc1RIb3Q1eHNDS29qczFOWUpQVzhXQXpR?oc=5",
-   "date": "Sat, 21 Nov 2026 02:49:56 GMT",
-   "vu_le": "2026-11-21T03:00:35.708431+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Mergers & Acquisitions Laws and Regulations Report 2026 United Kingdom - ICLG",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSFRBWjVQbXNxNG9wNkcwQUI3NEVYWDVZdHZQU3daWDBMd1Q3MXZwWHM3c041SzVCMFhBQVhFTzZtOXVGWVU4anRDVjJWR0JFOS11LU9HRVRDRm84QXZ4NWNQeXBJdWVJVjhwZmJjWVBKX2FNWGF4WDVLa3BUSGc5RmlWNmFyMFM3SXcxVlE3RGJOV1d2SEU2Sg?oc=5",
-   "date": "Fri, 20 Nov 2026 15:21:17 GMT",
-   "vu_le": "2026-11-21T02:50:36.303960+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "What are defensive stocks? Why Walmart and other staples rose Friday as the market fell - Nacionale",
-   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWl3S0FYbVg2T2x1cU9YMHNpZ0VfX3R2MmQ4SDU0b3Y5WlBqOWtqMVdiSUhjbkV3cjFIVVFtM0tOc0UydU53MThWLWdDdmdxUlplc3hKc19aekNWUUotbkdGX0ZYNFZZUVBXVFdLOFNGU09tckhOYXBFckc2WC1sUVZUcHRvX3hSblJ2SlBhNnl1TVphOGh1VXlGVWJvTW02RFRyTXpLR0JIcEhOOEdBWUFsQWt4QmNH?oc=5",
-   "date": "Sat, 21 Nov 2026 02:38:07 GMT",
-   "vu_le": "2026-11-21T02:50:36.303960+00:00"
   }
  ],
  "erreurs": []
