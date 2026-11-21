@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T08:20:35.729902+00:00",
+ "mis_a_jour": "2026-11-21T08:30:35.549940+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 52741.16,
+   "prix": 52630.06,
    "devise": "EUR",
-   "jour_pct": -1.74,
-   "mois_pct": -29.51,
-   "volume": 161.67643111,
-   "volume_relatif": 0.78,
+   "jour_pct": -1.94,
+   "mois_pct": -29.66,
+   "volume": 163.86352515,
+   "volume_relatif": 0.79,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 4929084342,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 4929084342,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic : l’introduction en Bourse ne dissipe pas les craintes sur l’IA - Leconomiste Maghrebin",
+   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY21Hc013bkt3TlVTb3dxbjk1NnlUeU9MNTJpWjZSbkYyTTM3dk9zV3ZqRU1NbGZrT1U1TjFMUGVFSXI4RUQyeGpRTzNiMEFhSzdmUWItbHpxSmhFNDREQ1lWUS1QaUV2UHJkNFVmYk1lcGMyLVRRR1E0SWNGTVRQcnN2N01XWS1yclhMaGh1VXRRcjBwUmVxU2NLVUZza3R5akFhci1RYXZwTi1DdENnVkpGa0VWa0QxOXc?oc=5",
+   "date": "Sat, 21 Nov 2026 07:42:16 GMT",
+   "vu_le": "2026-11-21T08:30:35.549940+00:00"
+  },
   {
    "sujet": "Pays émergents",
    "titre": "Asset managers highlight resilience despite weaker results and outflows - thenational.co.za",
@@ -6544,13 +6551,6 @@
    "titre": "Anthropic Sets $83 IPO Price, Debuts on Nasdaq Under Ticker ANT: 39 outlets compared - NewsCord",
    "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQUMtY2N2Ul9LM3l0WTZGMGdGZHNmVTZaSlNESnYycmw5eENkWGNVYmEwMTFuOW5JbDBLNUNPMUtjM0syRXU3ekRobXRHX2cyRXlwYnhzMlc0c3E2ZHhSeFJRaTlXd2Fmc2YtYUQ2dGhwT0hCUkRiSjI5VXpkTjczM2dUNGFOMWw2VzNhaTdBRmxvV1F3RUdubU05ZVowdEF5c0lQbkRGU2FpOVlGM2d0N3lHMmFZWmlKeDZtd18xRU42ZzIzXy1fZTdpZEpYWGtDUU84LTk1TnBEQQ?oc=5",
    "date": "Thu, 19 Nov 2026 17:20:45 GMT",
-   "vu_le": "2026-11-20T17:00:35.750332+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "WisdomTree (WT) Surges on Record AUM, Broad-Based Inflows, and Margin Expansion - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHdJM193cjh0TzYwWmhmUHV4UXNOcS01YmxrQ1dMVkNpYUhhbUtfaGI4Z2xGWWp1bXNBUWJxaENFU25OSVB0emZCNWtNOWtMUlVaN0t4NDBoR015cmdnbjh4V3N5aEQ1ZWx0cnVobmRmdnRBelJWaFVsUlpIU2p0U0lqdXMzQU14RnFIMUlRR3Y5THFWbFJKeXYzMmo?oc=5",
-   "date": "Fri, 20 Nov 2026 16:37:17 GMT",
    "vu_le": "2026-11-20T17:00:35.750332+00:00"
   }
  ],
