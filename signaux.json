@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T06:10:35.253495+00:00",
+ "mis_a_jour": "2026-11-22T06:20:35.129568+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53948.13,
+   "prix": 53860,
    "devise": "EUR",
-   "jour_pct": -1.71,
-   "mois_pct": -25.55,
-   "volume": 17.59413404,
-   "volume_relatif": 0.07,
+   "jour_pct": -1.87,
+   "mois_pct": -25.67,
+   "volume": 18.48561374,
+   "volume_relatif": 0.08,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,69 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "ASX to come under pressure as Wall Street tech rout deepens - AFR",
+   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObnBUa2ZUVU9EOU5PSDMwZ1Jwd3ZFVWNKdW9XNjZ6S01YX0JyWjdEYzN4Skk4UFE2LWFHYWpua2gyX0R4UkxNbjVFbk9pY05pclh1aktZUG1kZFpkX3hTZUFKbW1DOXZ6MnJpY1F2T3hhM0ZsSG12MEdoejFpQW9abmVsbkFWbDBrYjJ5ODhvVVhscy1URlhWQmhTSzF5U0JLLVhNN3lEUVI5TERPcGlsckZHM2NHc0dNekE?oc=5",
+   "date": "Sun, 22 Nov 2026 03:13:00 GMT",
+   "vu_le": "2026-11-22T06:20:35.129568+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "L’inflation sous-jacente PCE d’octobre et le Livre beige de la Fed mettront à l’épreuve les anticipations de hausse des taux avant Thanksgiving - Binance",
+   "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Pa0h3b2ZLYzhEMzIzWU1BMEN1Vmt1N3Q5MGZCYUUyNVoxZVcxc0FMcHZ1bUNNWm1fQTFRblBkV004M3RTWkxsNlJzNmwtNm1oQWFjeFhUNURmTEIySEtPSlhUS2JPUGln?oc=5",
+   "date": "Sun, 22 Nov 2026 04:10:50 GMT",
+   "vu_le": "2026-11-22T06:20:35.129568+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China's MiniMax founder loses over 90% of fortune as AI competition intensifies - AzerNews",
+   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tTzl2TTNfbXJYRnlJUzI5LUFKUjJKckUtSFFxRkFSV0t4eXFtMU95b1hRemtPWUNpVEVpTS0xNFFYZmYwb2dJTzA1UXRrX1lYZWYxNg?oc=5",
+   "date": "Sun, 22 Nov 2026 05:00:00 GMT",
+   "vu_le": "2026-11-22T06:20:35.129568+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Organ donation must be based on trust, not presumed consent - South China Morning Post",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONTVnWjJqM2toUGZUZzJ3TVVQTXJrZG5HUjdCdGpwaTRzWFNpeVE1Y0RvQkVkVVVQVDR2VF9yOTZQU0JmdWRpS1dtMU9jNHQ3OE9seTlMdVBDS2w5WUtwaGo0NHFqakRxOWVBMFc2eEwxelM2ajBTamNfeWxtZGhFTFRmZTFSVE5LNjdiTHZGbGxweVdhbkxSQ2JxMHo1bkoyRU5oU0ZDeGFWSmZE0gGsAUFVX3lxTE41NWdaMmoza2hQZlRnMndNVVBNcmtkbkdSN0J0anBpNHNYU2l5UTVjRG9CRWRVVVBUNHZUX3I5NlBTQmZ1ZGlLV20xT2M0dDc4T2x5OUx1UENLbDlZS3BoajQ0cWpqRHE5ZUEwVzZ4TDF6UzZqMFNqY195bG1kaEVMVGZlMVJUTks2N2JMdkZsbHB5V2FuTFJDYnEwejVuSjJFTmhTRkN4YVZKZkQ?oc=5",
+   "date": "Sun, 22 Nov 2026 03:30:06 GMT",
+   "vu_le": "2026-11-22T06:20:35.129568+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Takeover Bids France: 2026 Guide for Foreign Buyers - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPazVsNnA2MnpBRkl3eVEwTzl0UGVOZi1WYnU4a3JzTlhXQmlHXzZkNHp5N3pPLUlSSWc2akZQZF9oWll1cDctdDlETVoteE5QZFZmSnJBSFlCa3gyNHFBaFFMcnNYVUYtUTRMNGdaT2JwdUVZeUs1Umt4ejJvRHQzYk1zTUlobjM0d2JWNVNfOHNKQQ?oc=5",
+   "date": "Sun, 22 Nov 2026 04:52:33 GMT",
+   "vu_le": "2026-11-22T06:20:35.129568+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Is the AI boom losing its grip on emerging markets? Jefferies flags risks By Investing.com - Investing.com India",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPelJUUzFXNGFmWlFVX09Ea0J4akZWQWhmZVVxc2NxS1hZdFRvV2x2alVLZ0Fib1J5YWE1dmhCSFdIeGtrVUdaMFRLT2p3OEJZaXlRR1lBajN5WmthZFRoc2lBVmp4WUlOeUQzcDhyY2k4aUNCbWlnaVFTYXU2SXZQUnZ1WGdLNHZNbFFOWDFweW1YT0R6bTktSlVPVmJkb3RmZW5qM3hmOW5LYXAzMGhKZEV2VHJhZDJabE0tV0lwTFpnMW1rX3JR?oc=5",
+   "date": "Sun, 22 Nov 2026 06:09:01 GMT",
+   "vu_le": "2026-11-22T06:20:35.129568+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Airbnb looks beyond traditional holiday hubs to deepen presence in India - Business Standard",
+   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb29VSG1nY25RWjlXSDlXWVhsTjdZSGhNaGZMSTFKeVRlRjl0aEdKMzBIYV81ci1GNHhWRUhXTWozRDNxVTBuUXk4bzBMc25RRkFpU0lrcFdaZ0pkbERtb2RsUmlmZVlSamY2R0R6blQ4cXBLcW81cXBNbTZtSUphR3ZrUGVqVlVvcGpPWXFvNUFWOTIxczZobXRORkNNNXpKYjRlWEVVWWFOMHpCQXM4XzhtQ0dUNm1kODVoVTY5ZFdkeU5OMU5aV05veVpLQ0NIbE05WThBcnXSAd4BQVVfeXFMUC0weXdMek9rb0QyM21qaHZJSTVKTFdLd1NoX2RNOGx0NzVLS2tyVm1fajV0dkhkOGFzTjdGUVJDMl9wcmNIX3lOWi1mclRCcWFhRlgwcmlTLUhtNEZsMlFPWTJMWnhDOHFyNHhwMFU1ZDRVa2tDMlhDVEdPazVYTFNBYUJEOHZCQVRhMEU1NS1WdjBHTURTTXVpcENFa1hXbEduZmdySTNyZFhkdHRENFlYM2hBQkp6X2p6NzlxYkR2QXc3S0VCaS1uckRhbzlvNVNuN3lURzdxUWxFRkNn?oc=5",
+   "date": "Sun, 22 Nov 2026 06:15:30 GMT",
+   "vu_le": "2026-11-22T06:20:35.129568+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "JPMorgan Says Bitcoin Miners May Be Selling Reserves After BTC Falls $26K Below Mining Cost Estimate: Report - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaHhBcDN2akhWNzRxUGctVmlZN3BTVE9jamQ3RUUxbnpQVVRmNXZ0alpxVWZQS204dEVPRTBLR1cyWC14bzlVcWVvN3NCNlREUjhCM0QtU1QzanRCZ1FiODlTLUFzcmRGUUJhOTFzX05ITklnQ0NVbTJnOXdFVjVfUUdaWHE4MlNnQk1zaVlIZU0xQ1g0cmJGeU5fZ3p3dw?oc=5",
+   "date": "Sun, 22 Nov 2026 06:12:00 GMT",
+   "vu_le": "2026-11-22T06:20:35.129568+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 22, 2026 at 2am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbkFTQUh1ZzNrTFVyeUhiaWdYc080SEswRWw0b1QxV3NlZkVmVTZEa2RxLWlLaTgyYkNEbHJJMDR6T280cGZKZThNOEFSb2dORWE1UVp5Uk9zbkpGNVYwNVpEeFBaSGtGbnVaX0l4VTExQy15ZVoxdUp0OVVEdXZKODBfLWpZLXlHMXZHR3Rra0x5M0lDZkNIMkMzWmU5Wmd2NVdrdW1LSlh0SjZoVGc?oc=5",
+   "date": "Sun, 22 Nov 2026 06:09:13 GMT",
+   "vu_le": "2026-11-22T06:20:35.129568+00:00"
+  },
   {
    "sujet": "Pays émergents",
    "titre": "Is the AI boom losing its grip on emerging markets? Jefferies flags risks - Investing.com",
@@ -6488,69 +6551,6 @@
    "titre": "This Stock Market Selloff Could Block the Fed’s Rate Hikes - 24/7 Wall St.",
    "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1U4dnBGMkhzWi1Rb29JRUtmWWgxYktRY2FsWE1HUzJPZUgzaGlUT0w1YnJQOFlOZjQtZ2FKdTVHTl9oUzJObXJ6NERDbG1mVG10R1JWR1YzdFVOaEt4SXVUU3RFVlcydHFrNVRZVjBKYkFaNWlpWXZHa2FqWnh0Zzlmcy1MRjZGZEtzX2IycC1ZSnJVYVZqYlZYak9xQlNCcW1j?oc=5",
    "date": "Sat, 21 Nov 2026 15:17:00 GMT",
-   "vu_le": "2026-11-21T17:00:36.935438+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "CAC 40 en baisse de près de 2%, krach de l'IA, Ubisoft... Le journal de la Bourse du vendredi 20 novembre 2026 - MoneyVox",
-   "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUTVKRWpyOGtobkwtXzZlUjZGUGQyRnBSRnBPYXNfOG9yQnhUZ1JNMW1zbHFXYnRkbGtweDM1R2dXWUhhS1kzaGQtMkdwNlFxRUVKYUs1WDFLWG03QXppN3k1d3N5UkJLTVZkZlpyVEtPNzFUbFJYSEctckZLa00yQWpQNlRqOHZvSlN4TGZOMEVUSGpJVjVLNXk4Z3ZBNzZSVHlvdERjWWJSdzA2TUdBVFUtT3hFcy1aR2hHTkpTbmVHNk1PQ2JMMXh1eWZnR1lNSFBpUmM5WDdYaER3ZzdURjJaMXE3dw?oc=5",
-   "date": "Fri, 20 Nov 2026 17:32:27 GMT",
-   "vu_le": "2026-11-21T17:00:36.935438+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "La Bourse de Paris finit dans le rouge et recule de plus de 5% sur la semaine - France 24",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWDlsMDJ4dGZNMGhNTy1Hc0N0d1o0TFJXdy1LMVdwUEY4czNCUFVsMGE5akZTa1BwT1pqaGVaY0t3ajVvMHNLcFNyVU05NGJLbWJvUXVUTFhXRS1aN083b3NpQXZBQ1dEelhZbmJCVGpybmY4c2QxbzRWZ3ByWVBxRWw1Q1pTeFk2TlFhYlhJVXIta3l3OS01ZU1nQ0ZFdmRZWlQ0VXhzMDVvTnZPZ1FCV18zcjAyNHpXa1JwY3lRdFljMFFRb0lhNA?oc=5",
-   "date": "Fri, 20 Nov 2026 17:38:28 GMT",
-   "vu_le": "2026-11-21T17:00:36.935438+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Krach boursier : l'intelligence artificielle détruit tout, jusqu'à l'or - Le Revenu",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMzEyMEZaRjZFekY4WlhBcmdzb3FIMDZPdXFqQ0ZqYjc3c2tpS3lTd2h6a3VBV1ptOW1pWDR0MWswSlZXYVQ1LWFRZkVWb0IzeC1sZzd2ZktYU2ZBN0RPVDJxWkZyRnBWNHZmTk5OQkpPOHhtc3dfMUJrMEh1dmZOU0VaWTlPaTNLb1duSXA3aHgxYnN6cG1NcTdkS0RVUi0xZ2JTTjVMc2M0WUFrNE02TFlYTTE?oc=5",
-   "date": "Sat, 21 Nov 2026 05:20:00 GMT",
-   "vu_le": "2026-11-21T17:00:36.935438+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "TF1 Cours Action TFI, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10WnByb0Nka2lHcWUzQTdMRWNZd3pydDhyUmIyV2pzOUtrY1VuTlJHVGdBaEhzT2VEMF9seWtFbklYUGdjSmRuR1g4RHFyLWUxQWc?oc=5",
-   "date": "Sat, 21 Nov 2026 08:46:56 GMT",
-   "vu_le": "2026-11-21T17:00:36.935438+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Laurence Boone, figure de proue de l'économie européenne, va intégrer le directoire de la BCE - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQbGhwU3VObjFhQ3VFaXBBNnFvV3AxT0NMZ2tlZEpvNE4wYVpuWTA3ZENTckRRc3dWWXQ4aW1CRk9vMDNIMlo2YVFsOGx2NVRpeGZjc1VDQ0hJYWdnd19KbmxPNmNxTnNZd3g0RThMa1FmSXUzcjc2Nl90TUtvVGZ1eTV3X05kNHd3LVd6Z0d1bUpLdlpPRWJsUjJweGNVQXc0QWVBWWtrMF9GaDNDTVl3aDAyNVMwNWYtX1NubDNyd2Z6bUdtdTZwbWhwVTQxRUlIWFFPdDMxNzcxX3dxc0xCYTFuUzRaTDJXZHlfTVBBclZSR3UxenQ1bk42dnV3SkFnOGh2cEI2MDBZbEJHODVVTXlBVkhJclAzVUE?oc=5",
-   "date": "Fri, 20 Nov 2026 18:07:00 GMT",
-   "vu_le": "2026-11-21T17:00:36.935438+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Keytrade Bank relève ses taux et prend la tête des meilleurs comptes d'épargne - L'Echo",
-   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV0VmTEtheTVsTENzT2JZbFpaVWdxZ0phOWktRzctNGlhRHEzSW9ZQVFKUkp1VGRmcFBiYkNQbUVrWW9JTERUMzFHVENla1ZMb0VzX09KaXZnYVh0aFhTVWxpN2h2WkpjLXZFc1QzZjVMQlFtem1DZTV0ZDJ1Z1JMc0pIOEZsNlZlWVY2WHdIc01fZ0stMjRNRHI1UlFCMTBNVE1jMWFuODN0eUdQRlZMQVBJRk1tSUxYOF8wYzlNU2dCZDBSeGVsMnFsT1czS2hSX2Jta3I2U21RaU9HNXc?oc=5",
-   "date": "Sat, 21 Nov 2026 16:55:12 GMT",
-   "vu_le": "2026-11-21T17:00:36.935438+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Top Large Cap Stocks To Add to Your Watchlist - November 20th - MarketBeat",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSF9sUkVaTmxobzhOVWpMZmU3dFdSZ0pUb2VvOHN5WDNscklJR0xJWEp2eEtWUXpSUUVYbXBoTzQ3N3BYWXlUVnpkeWhZeVlkRDV1UHN1b1NRN3M5a2JYOHM3cnQ5NzA4VzRTRlZUejIwc1pwZEVDM210eTlKUUhJb3VnRy1qcXlNOXczVjh6YzVEQlVmdU9JUnE0bGxEdVhObWdjYmI2eFE0RzczRDc4Q1JLSV9zaXVlVlE?oc=5",
-   "date": "Fri, 20 Nov 2026 20:20:44 GMT",
-   "vu_le": "2026-11-21T17:00:36.935438+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Global investing isn’t a piece of cake - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa0FCdmlEZ0FJbldjVkNGVkQzRk1lWkVQakNqTGpGbFJ1OURlMmtQTEJKcHFhX0EzX3lVZHZsZmhLVDBCMVVwTWdWQWgzZXlpcWsyLU5JT203MTl3TkpzWm5URjktaENibDIxalo5MzhuY3VuUFhZZFMxU3VxMnYyZExjWWhQR2kwTEpwSm1jUFQ0R1phRnZCZmwxTQ?oc=5",
-   "date": "Sat, 21 Nov 2026 16:21:25 GMT",
-   "vu_le": "2026-11-21T17:00:36.935438+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Why Applied Aerospace & Defense Stock Tanked This Week - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXE4OGstY1QyaDJwWngxdnhnZnRCaWU4bUprV2xKdDNwemJlODFJSnBDRHhiLS1OaVJiVzV4TkcyemZ1Zi03NHF0RTNNU0F5SF9fVVJKQ2tCOXlpVHhGajZRa2FkTlJPd3kyQ3RCU2k1RzlrOHZkTlRFcmhCalQ4aC1VNGNUbVdHSFRvNGRDd0lIYXA0N1EzTzVad2huV2ZOUGtRbklCbEc2aGtX?oc=5",
-   "date": "Sat, 21 Nov 2026 16:21:14 GMT",
    "vu_le": "2026-11-21T17:00:36.935438+00:00"
   }
  ],
