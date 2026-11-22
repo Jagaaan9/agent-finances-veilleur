@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T04:10:35.857490+00:00",
+ "mis_a_jour": "2026-11-22T04:20:35.290379+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54195.56,
+   "prix": 54210.64,
    "devise": "EUR",
-   "jour_pct": -1.26,
-   "mois_pct": -25.21,
-   "volume": 13.73146629,
+   "jour_pct": -1.23,
+   "mois_pct": -25.19,
+   "volume": 13.78289847,
    "volume_relatif": 0.06,
    "capitalisation": null,
    "per": null,
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic’s IPO caps an explosive growth period for the AI startup, filled with contradictions - AP News",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMENibFhsUGZLc0pMdU5wa2tULUpUWG1BMVZ2U3JzX0ZmRlhDODdnUEs5RE0wMkVFWXRtci1JUENZNmJLTC1tSmR0LWlKXzFFYThxUkJpZTN3MGx4THJ2WGNWRlFXR2Z5UDd5VVRGODJUTk9pSlRUSG00eUtGTmhNMy04Vjlmc0dDV3lTVzdET1J5UjNWR3lUZUpFeFlXcDU0R2Zj?oc=5",
+   "date": "Sun, 22 Nov 2026 04:18:53 GMT",
+   "vu_le": "2026-11-22T04:20:35.290379+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China's $1.7 trillion AI rout turns once-hot tech trade into a losing bet - Business Standard",
+   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWjJGLWtfcGtRMEROdjZELWtLZHRENFhCQ3lyTjRZMlFmYlFhT2NYMzNSR0FCb3VLaEVpQmtiY3ZZcmZSZ3QyUjlOVkRHUjlKcW92YmtzMWgwRGlEYlpiTU44NnNGZEhzQVNKeFhnQnc0cEwtczNuRjByZ1BXUkZtNGE0OXNvcFMxbWhVUXVPNTRVMDBpbXVpeDU0SXpOcmtra2NVYVRLU3FkMU80TXFNOE9ydUNLc0NEaHhzQ2hWanFPc1BVMklSYU11bUxaR21JNlc5bHk4N1LSAdgBQVVfeXFMTVoyRi1rX3BrUTBETnY2RC1rS2R0RDRYQkN5ck40WTJRZmJRYU9jWDMzUkdBQm91S2hFaUJrYmN2WXJmUmd0MlI5TlZER1I5SnFvdmJrczFoMERpRGJaYk1OODZzRmRIc0FTSnhYZ0J3NHBMLXMzbkYwcmdQV1JGbTRhNDlzb3BTMW1oVVF1TzU0VTAwaW11aXg1NEl6TnJra2tjVWFUS1NxZDFPNE1xTThPcnVDS3NDRGh4c0NoVmpxT3NQVTJJUmFNdW1MWkdtSTZXOWx5ODdS?oc=5",
+   "date": "Sun, 22 Nov 2026 02:31:47 GMT",
+   "vu_le": "2026-11-22T04:20:35.290379+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Take-Two Stock Prediction: Can GTA 6 Push TTWO Above $250 Again? - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMjdQQVlhSDFpeHlCdjJvUXhYaklxeW5ISVhVbGdtZ1drZnJUcEJFQ3RHWWt6bkd1V25GMnY3T1FYNDBPMTlleVJac0FvTHd1TTNaeENkeVZ1elhDbzBwa2gwRWMwRUxJUnVDZFBtYTNuYkNBT0tuck1SQlVBc0RpT292TEpicUF6dDJmOWp2azRNaHlvaFFYR1h5VXhYdkd0WHhoLWllMTJTRkpYUGk1aWZ2UEU5SUhXcGR5aWFHc0diRE1WTndtQjM0NWttSWoyUmdhVkF4eDJxbkNIQnlQSWRzcGtfSmxRSnlqbW9GYTNJOUVibTVqOVJmMDdvaE90ai01anpobEdFZw?oc=5",
+   "date": "Sat, 21 Nov 2026 15:10:54 GMT",
+   "vu_le": "2026-11-22T04:20:35.290379+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Amundi Core MSCI Emerging Markets Swap UCITS ETF Dist (U127.L) - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2Q1FtTzBLWHBRVENoZ1NwV3hGblNzY1J1Zlk2Z0V1SDk0NWt1eC13QmNWMVQ0NEw2cVZTRTQ2M2xTWFlqVFFKaFp1ampjazZFaVNkQlJyYUpkb2ViMGVIcE9uNXI?oc=5",
+   "date": "Sat, 21 Nov 2026 22:21:13 GMT",
+   "vu_le": "2026-11-22T04:20:35.290379+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Russia’s Communist Party proposes adding seized crypto to national reserves - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WQl9MWXdZS3Y5VFhpTGNDYkJ5US15SXpGbXd6UWlSUmZSVEFFUVVQaEg2WDFNWlg1MzM0WmJ3X3g1UTJvYkxCZzk4bGNjQklubW5KMko3TjJuUHVVUXUwMk16NjRKdjhGUllFN0Q3Q2oyNXhJc3BDVTNrdl9lQQ?oc=5",
+   "date": "Sun, 22 Nov 2026 03:35:13 GMT",
+   "vu_le": "2026-11-22T04:20:35.290379+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Robert Kiyosaki Urges Buyers to Wait Out the Crash as Bitcoin Plummets - Cryptonews.net",
+   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uUnBNbTZPUkItYXVHNGpfelkzYTU4Skk4dGdlTElpcnY2ZC1ObVRRNlN6eXVuSTl6SmxYRUpvUVU2TVBDb2RXZ1o5ZnM3OEZmTHZzcHg5WU0?oc=5",
+   "date": "Sun, 22 Nov 2026 04:13:29 GMT",
+   "vu_le": "2026-11-22T04:20:35.290379+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic stock slides with rest of market after big-ticker IPO - Washington Examiner",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOFR6Mmg4Yll4VkZoVnpEMkV1ZGlmWE94VGRDV3E5czZFS2pscjNmZ1daYThuZjk2TENyaGdqb3UyRDZJLXBucGk0UGRYaE02TjJ1UXp0X3MyQ0dIREkwZl92c21famNvX19XMEdkcnlORzl5U0U5cUhhaXh1cGxmR09MQktKcnk0ODZZNjVqY1hVMkZ4NGJYQ3JxNGc0YnlrUVFmNmg1VHQ1ZHhQNkZSN1hQRFdnMkNNZ1djejVOSFpHaXhtMnYwcWpNZjQyQWRfdGJLYmNRMnRoQUYz?oc=5",
    "date": "Sat, 21 Nov 2026 10:37:00 GMT",
    "vu_le": "2026-11-21T15:36:28.937688+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin investors look to Wall Street blockchain adoption for next market catalyst - Beinsure",
-   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdG5ZTzRLbDB2X1hRcWJuVXlHOEJybWYwemN3Q2ZsM2pfNjRmUFppSGxzSkFOTGhOMXlxbXJKWllzLU14UEZIMzU2elFjM20xY2NZQ0UxWFptdlFxQXItX1NzSDlMT0dET3pIaW1fb0lKUVZSLUZ1N3I4djZUSEs5Y2dzSDBoSG1wMUZyeQ?oc=5",
-   "date": "Sat, 21 Nov 2026 15:33:59 GMT",
-   "vu_le": "2026-11-21T15:36:28.937688+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Anthropic Is Now Worth More Than Bitcoin: Could Bitcoin Pass It by 2030? - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPT254UWZ5cEx5T3JEVFlKUktFaGxTeUFBTW9teUZaMG04cEhfY3laT0NzTjlSWmFvcHExZ2NtaU9lYjBBaFBsZG1xcTM0ckJ4MjNZNDJMMGhUcnRkdlo5YS1EYkNKUEZhNXVOd1NITWlES25RU3pSTVZzaE9GZk1Md0RYZXBuMHZKbUpxSzE0TWtaUjNxc2MyZWZ2UkxaU0xDcUJHanh0cE5QQ0FVNnhsZnNKall1eXRvcEQ1WmdBM1pTMkZCQURtczgtX0NNS0JHMXlBcWFMYzBKWGZaZ3hRMnBqSVNjTUpRSHNCb2NkbjNaZjI4cS1Z?oc=5",
-   "date": "Sat, 21 Nov 2026 15:32:00 GMT",
-   "vu_le": "2026-11-21T15:36:28.937688+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic: IPO Priced To Pop, Use Caution Though (NASDAQ:ANT) - Seeking Alpha",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNFhrcnhQUm42ZU41TFlMRFNZNTZhY0RiS3lzZkQ4OU9UNjdnZGRXNTM2V0hyYmpkNDZfMkFncUJRTWZBTW5aTk5KdlJSZTVlSWkwTUF2T0doR0xKNERibXF0RlBmcGk1UmtMdmZ2NU5tUHRhcmpOdWZQbUdCNFppRFo4VlF4VENINk1JNWpzc0k?oc=5",
-   "date": "Sat, 21 Nov 2026 15:00:36 GMT",
-   "vu_le": "2026-11-21T15:30:35.084971+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Laurence Boone, figure de proue de l'économie européenne, va intégrer le directoire de la BCE - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aQUNIcVpZUUJRTmtNVlZ1Um1iNkljaVFzZ01FRjZXTzNTTDRIM0FOUm1wWExYWXhyd09LMFNMSFlpanFKb216UDlhanJyU1JlSmJUa3BEc0FNWm9Dbm5wb1lR?oc=5",
-   "date": "Fri, 20 Nov 2026 18:04:03 GMT",
-   "vu_le": "2026-11-21T15:30:35.084971+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Le dollar recule, le rallye alimenté par la Fed s’essouffle ; la baisse des rendements américains soutient le yen - Zonebourse",
-   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMkVNNEtZNnozbXg2TlRMeHp4SDFyVVdxMmthQWg2THYwRVpnMDJHa2oxUDlJVmQ3dU5lcmRFR1pVV1dIMF85NjlVeWJqLUNmYzFpU2FpR3pWU1dtcmR0XzhWUXZhUC1fU2xwV2RBS3U5NWZpX0ZnVFJwMWRxY3ZUYXZaZGE2b2NvRGV6Q0doQWlBOE4zb25wZHhuY1JIcjNTbXFiWk9rSWVpd1l6cHplY2thUE10cmhQeVZ2VFlpYm9IclEzZ3prMl8wUWN1cHhwSmNzSlZhQWd6dkZ1cGRnZjI5aF9tOGJpZENtdQ?oc=5",
-   "date": "Fri, 20 Nov 2026 15:34:33 GMT",
-   "vu_le": "2026-11-21T15:30:35.084971+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "ZIM Just Posted Huge Profits, But Its $35 Buyout Is Still in Limbo - MarketBeat",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGFpcUU3anVCMzlaMkJWbjBlZm9uUFVBMEZ4dFptUl9zNG5oS21JM1NJZ01SR3lKX0U3ZW9ZS2pPaUIwczRrbW9WYk9wQ1QzcnpYWTQxSVdOelZmcndFN040cExUdDlPejBtVkRPOGZtcnZxX00xSXpWUE1iQ0pORFE4WmcxNVdUdWZtOW8ydFJWd2FkSFp2T1JBdnVoRmEwM2w0?oc=5",
-   "date": "Sat, 21 Nov 2026 15:25:32 GMT",
-   "vu_le": "2026-11-21T15:30:35.084971+00:00"
   }
  ],
  "erreurs": []
