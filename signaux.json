@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T03:10:40.939398+00:00",
+ "mis_a_jour": "2026-11-22T03:20:35.823006+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54095.15,
+   "prix": 54087.95,
    "devise": "EUR",
-   "jour_pct": -1.44,
-   "mois_pct": -25.35,
-   "volume": 10.5179047,
+   "jour_pct": -1.46,
+   "mois_pct": -25.36,
+   "volume": 10.87241734,
    "volume_relatif": 0.04,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "SpaceX Lenders Want Nvidia Chips Kept on Earth: $1.5B Risk - shattered.io",
+   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUdzNzRjOE5DLXBxTjBPNXFpV0IxWnNhSzFBMm5yaHlFNXpTaGdlQ3QxSllGcFNkWEswd0stVi15TGhZMjNXTmVWSjhmelE5cVdVdmM4Z3pERl9WTElBdEVoNllWemxuN2xTVGVPanVxLUkzb2RqbGhUaklmVHQ2LVBuY1E0cmRKMUFzRg?oc=5",
+   "date": "Sun, 22 Nov 2026 03:17:21 GMT",
+   "vu_le": "2026-11-22T03:20:35.823006+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Weekly Commentary: Crisis Dynamics Unleashed - Seeking Alpha",
+   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2ZiS2xyMHRvWS1mUEVPX2F4WUxhNkVqVmRiclhOUXdVMU9KVHBIWjNGMlRESDFMLVpHdFktc0dMSV82MTNzZDJnSFRZa01KWkVzZ1FDXzZDZ25YTm1MUG1nZHBSc01GWnZzWGZPWGVzSE5aajFtN0MycklXY2Y2UTlqQk1YSWlwNzRxNg?oc=5",
+   "date": "Sat, 21 Nov 2026 20:20:00 GMT",
+   "vu_le": "2026-11-22T03:20:35.823006+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "FORVIA Cours Action FRVIA, Cotation Bourse Euronext Paris - Boursorama",
@@ -6537,20 +6551,6 @@
    "titre": "Sell Intel: Forward Guidance And Downsizing Actions Will Not Quickly Reverse - Seeking Alpha",
    "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdGZCOVhPSjJ3ZU5wM2VUS2xDRlRVLUxBWmNhYlBpNDg5MTJ0bGdfNjVWYnFQSF9yS3pMVDNFZl9vVG9FQTJMZG5zbThFNmhDM2tYWVhwQmVRbktpMWFVdHVaOG82M1RvVVcxdkpfVGhkUkFFR2g2em80bEhlZFFUazF6Mm9DQi1BS2pGa2VkV1BXdmVNdDJtRjhEUUhXMl9QWXZwYjZiMVFfUm12UWduZC1jY2xYVkk?oc=5",
    "date": "Sat, 21 Nov 2026 13:53:58 GMT",
-   "vu_le": "2026-11-21T15:00:35.312541+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Crypto Outlook: Is a More Restrictive Fed Reducing Market Demand Appetite? - FOREX.com",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWG14cDhsWUVqcnNyeWxJQU01TkpEeGJHUE5pZFVFdEZNX0ozdjNEc2JITGgya0lPRTh5c0Nfb0JVMEZQajk1ZGNXWlBGM2NWQ2t2WVkzQWZVZ2ZwWktadkFuX28xcTFYR0ttb2FJYVV4NVE4MTJfV3pkd21ZdGg2ZGlYWTM5Tm1qeTl1LWhZSDBNNkhNdUJwLWpmcXFIUkx5aHF2NldyQ3RTanB0NWhPX1k2c09fOFctSldYVGxBdFp2RF84bjNV0gHHAUFVX3lxTFBYbXhwOGxZRWpyc3J5bElBTTVOSkR4YkdQTmlkVUV0Rk1fSjN2M0RzYkhMaDJrSU9FOHlzQ19vQlUwRlBqOTVkY1daUEYzY1ZDa3ZZWTNBZlVnZnBaS1p2QW5fbzFxMVhHS21vYUlhVXg1UTgxMl9XemR3bVl0aDZkaVhZMzlObWp5OXUtaFlIME02SE11QnAtamZxcUhSTHlocXY2V3JDdFNqcHQ1aE9fWTZzT184Vy1KV1hUbEF0WnZEXzhuM1U?oc=5",
-   "date": "Sat, 21 Nov 2026 14:09:56 GMT",
-   "vu_le": "2026-11-21T15:00:35.312541+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "ETH price on Nov 21, 2026 at 9am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPendFbDdsNDBiZUZEU0k3MTQ2M1VMVndHbFc4Z05qWEpoSmdyWC0yLUpocnhOTlczbXp6Z3VsRG83MmJud050dGFtdnkyN0FEY0V2ZFkyRmowQ0JoWVI2UjhNaWZtTmxfWVplWVRjcHUzQkdXLVBHM3AxdFdFQjFXY3dCU3BQSEJ6RHlNY0xzN0luZU05SUhxeGU5enIyMWk2cnhfZlZCdkxnMU5yRXc?oc=5",
-   "date": "Sat, 21 Nov 2026 13:17:44 GMT",
    "vu_le": "2026-11-21T15:00:35.312541+00:00"
   }
  ],
