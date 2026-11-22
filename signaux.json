@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T09:30:35.784385+00:00",
+ "mis_a_jour": "2026-11-22T09:40:36.492104+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54674.72,
+   "prix": 54878.66,
    "devise": "EUR",
-   "jour_pct": -0.39,
-   "mois_pct": -24.55,
-   "volume": 42.75326981,
+   "jour_pct": -0.02,
+   "mois_pct": -24.27,
+   "volume": 43.85646275,
    "volume_relatif": 0.18,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Is the AI bubble finally bursting, or is Wall Street just catching its breath? - CTech",
+   "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2YzA2YXlqdG43OGlBNDgyOEhUd243SE50cEVyNnBXQzd6MGVScHNwdEFRQ0lXcW54N1FVbXVWektNaGp3SHB5aVJhWldwVjF0cy1IXzVDZHE5MjFwNWNteENVMXBGVzhO?oc=5",
+   "date": "Sun, 22 Nov 2026 09:26:00 GMT",
+   "vu_le": "2026-11-22T09:40:36.492104+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off? - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV0hiOFRqRThPRXdydk1VVjFyTGNzUXhXc3VDcWNFeFltM2g4X094QV9WWEdjbjl6UEgxTnFCbTZ3TE83YXo2TkRiaWxXNUd5MjBHaGtWYUVxT1MyU2oxbDRMQ2RWRHIyR2hKUzEtQUFEV05Ic1NvVlI3TjAzRVJrV0piZERnSG80WHhXY0diSGNwR05oLVVzWDVOYW1sRHI1RFFET2VIcFJvdEg1T0Vrc01UTUV5UnRBTnRhOUxMVENtRFBNT3NBR0NEc190WGVRQ2p3TGlBVG1DR0pzamlZRGxWUGNLV2d6ZjBmcTlqT3ZyanY3T1VRNw?oc=5",
+   "date": "Sun, 22 Nov 2026 03:30:11 GMT",
+   "vu_le": "2026-11-22T09:40:36.492104+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP Ledger Users Fall 60% From 250K to 92K as XRP Rebounds - Bitcoin Foundation",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbjk0UDJ0cGJtVmlJVlFkTFg0S29YUm12Tnlhc1dKQzJKRVcwZ2M2S25wUEY3bWo4aERPbXcyNm01ams0QThnb0hZa0k3WENpM2NidUJKdDlkekZmbkJkZzNPajRNUWRkYjZKcDZTVDdZWUxrNlFiQ3pMOWVhbG1Jc1dGOWZMbFU1T3Q1TE9CUlVXSFVNZlloU19HY01Yc2VIYW9fSA?oc=5",
+   "date": "Sun, 22 Nov 2026 09:37:40 GMT",
+   "vu_le": "2026-11-22T09:40:36.492104+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Is This Cryptocurrency a Potential Millionaire Maker? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmgxTF9zRHdlZl84WHJ2bUpPSzZSYWlpVVQwLWJnUURMa0UxRURScDFWbDhFTm9wQkhaeE9Vdl9ORlVxQXFiMmNTd0FLN0FjZkQ4X3VvQV83RDRjZ2NGQ2NLMDcyX0xCUUdhRjZScGpocmF6eUpjWWhKQTZVdkxDNmNnQmR4VVJaVVE3RDJIcWNUSTJsdnNQOTZ6YjVvWDNabHN0YV9nazFGa2c?oc=5",
+   "date": "Sun, 22 Nov 2026 09:20:02 GMT",
+   "vu_le": "2026-11-22T09:40:36.492104+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Schiff Pitches Solana as a Bitcoin Stand-In. The Data Shows a Costly Trade-Off - finance.biggo.com",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zcmVKOTBDRXhBdTV3dC1ONmRLQkFaZG1zQzZ5X1gyM3JCLWdXTGdkTkZsQnJtU3k3TXgtZUJocVA3SGJkZG16Tmh1SFo2MENRaVhHYnZuZ3dfbENWQW54enNwcjE3SmtvOTUzTjhBQWVqU0pjRUE?oc=5",
+   "date": "Sun, 22 Nov 2026 09:25:00 GMT",
+   "vu_le": "2026-11-22T09:40:36.492104+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Motley Fool",
@@ -6517,42 +6552,9 @@
    "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV3RUNlFsaEplekJMS0pwbU91VkE1NlRXOWZsZFVWOWp2QmtXQjVkektPb1BHVElJZlFCNVUtZXFfc0ktT2EtSzlyR3ZZbUtqaUladTd6LXo0eERYalQ2ZUMxbG9veldtblZFRWRhaEJ1ZVhMam9EME9EQXZfdHFCalFZQVBPZVpCR3ozZ1N2QXNadVdLU2lqWlpUQnZ0WTNSdk5KajZJdTliY2F5YlBZ?oc=5",
    "date": "Sat, 21 Nov 2026 20:10:20 GMT",
    "vu_le": "2026-11-21T20:20:35.169884+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Stock Debut: From $83 IPO to a $97.17 Close - Memeburn",
-   "lien": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoZUtyX09WNnFRLW9NVWE4QlNVNFowN21zX1YyX2EtU3h4VGNrc3k2eUFkeWpTSmc5X05HQ0JIUjhHaGZGNG43Znk1OVgwYWVieUJiNExRVjFINDZKOHp1eWN2Zw?oc=5",
-   "date": "Sat, 21 Nov 2026 18:26:39 GMT",
-   "vu_le": "2026-11-21T20:10:35.786918+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Wall Street dévisse, mais le \"Fed put\" reste hors de portée - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUEZTNUVkaU04S0MtU3NWbzh0em1KZHZjZGk3RXZURlAwcnVFVUEwTHd2eEQxSjNBZEdkaDB0ZDhrRGJCYU5JYWo0LTZqaEI1T2xTMFRSd0NrVEpDMEZBT0dpcms4ZDZsT0VWZEdjN1NDa2FDRS13enE2VklxRjlIaDJnaXB2QUtCQndyREVnVk4wV3ZNRW4yRXlrenZ1RDJlWDlkcEg5LWt3SmpFbkNfY1lKMzRwdWs?oc=5",
-   "date": "Fri, 20 Nov 2026 20:11:14 GMT",
-   "vu_le": "2026-11-21T20:10:35.786918+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "BCE : Les États-Unis, la Russie et la Chine se rencontrent pour se partager le pouvoir mondial - IDNFinancials",
-   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcTY4ZzZucmU2SFlxUUpzR1FQMXM1ZS1qZE5LWUFyQW54UldiRDYyWGh3Q1lkeTNWUmw5TXRockE3SmlzMlFBYXc1QTZrVEFRWUpneHdRekxPUmQyMXRYeHRWaTY0RGlmNkdhemFwYlB0OUV0UTUxeDlwV3VQZExHQTBrTEpCb2x4dGpSSFV5cXJjUUtzUFkxUTNFN3lZQVFCQXN5d0UtQjIyQ0oxRTVubjl1V3NjUm9SdDI3b05MVXRHUVlQWGgxT3hNWV9ieG14OHVpTmFLaw?oc=5",
-   "date": "Fri, 20 Nov 2026 23:00:00 GMT",
-   "vu_le": "2026-11-21T20:10:35.786918+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Une hausse des taux en septembre probablement insuffisante pour contenir l’inflation, estime Cook, de la Fed - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ1Y1SVo3emFQRzAwWVBCRm9pNnVEU01SaW9lV3d6bzQ0NWpabXJlcU8walNrZUVxRVVBTDQxa2E2WUhzV1JYbDZHdEUzYVBhb21JZlZWZXB6d2RkSkN2cXp2d29ReXZtb2xnR1BKOVhfUHJOaUVXYnhhaTc0dnJNUUJrX0I5NXptY1FBc054T09QeGJjblRSZngxUlp6M1FVUGtUSFBaZmhodElDVGYyRURaeGc3NjRTLUZsOVNENnJmd0xybHowZlBUTEpuazRucW44WE5MZ1hUbDRQRmROV0hmYlBrV0E2bTIzam9n?oc=5",
-   "date": "Fri, 20 Nov 2026 20:40:11 GMT",
-   "vu_le": "2026-11-21T20:10:35.786918+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Worried About a Market Crash? This AI Stock Should Bounce Back Fastest. - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNEdldlJnaFJZNi1mNGREZFFWejZPb3ZQdm44T0ZpQXhLZUdHTGRTdkM5NFhfckJoVk5VSVk4a1ZSUVRpZ2xjN29EU19wa29TaUZrNS13VTRlN3J6a1FZdElRNFJPOVpkRGprOVlOUUZXaXRod3lnUkZXQ3VWUHZYRl9jOGFPM0dFVGFjRDVCbGtxZ3BZemhyaTV3YWNlMkJWQ0xGXzFFejM5UFl5cHA1SmM4R0xtMFlVb2ZhT2pUbkdWVTV3dDY5QUF1QnFnU3k3N3gxajZMaUo3TVd4czVtNzBCV0VvRjNyWmc?oc=5",
-   "date": "Sat, 21 Nov 2026 19:15:22 GMT",
-   "vu_le": "2026-11-21T20:10:35.786918+00:00"
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "actu Chine et Asie: HTTP Error 429: Too Many Requests"
+ ]
 }
