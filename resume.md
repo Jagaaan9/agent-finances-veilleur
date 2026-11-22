@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54878.66 EUR, jour -0.02 %, mois -24.27 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55021.68 EUR, jour 0.24 %, mois -24.07 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,16 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years - CryptoRank
+- [Banques centrales et taux] Quel avenir pour la BCE ? - Economie Matin
+- [Chine et Asie] Xinhua Headlines: China's tech innovation engine powers a connected Asia-Pacific - Big News Network.com
+- [Intelligence artificielle] Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail
+- [Intelligence artificielle] Broadcom Stock Is 27% Below Its June Record. Here's Where I Think It Will Be in 2030. - The Globe and Mail
+- [Résultats d'entreprises] NVIDIA Q1 FY2027: Revenue $81.6B Beat, Data Center +92%, but August 26 Guidance Test Will Prove Sustainability - TradingKey
+- [Résultats d'entreprises] AMD Hits All-Time Highs as the x86 CPU Renaissance Takes Hold - Is AMD Stock a Buy at $345? - TradingKey
+- [Crypto] Crypto Market Remains Under Pressure Though Bitcoin, Ethereum Rebound - Moomoo
+- [Crypto] Bitcoin briefly drops to $17K on Kraken, exchange upholds trades - TradingView
+- [Crypto] Record $950 Billion of Bitcoin Capital Sits Below Cost Basis as Price Slumps Near $58,000 - BigGo Finance
 - [Marchés mondiaux] Is the AI bubble finally bursting, or is Wall Street just catching its breath? - CTech
 - [Intelligence artificielle] Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off? - The Globe and Mail
 - [Crypto] XRP Ledger Users Fall 60% From 250K to 92K as XRP Rebounds - Bitcoin Foundation
@@ -452,14 +462,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] Insmed (INSM) Is Drawing Acquisition Interest - Simply Wall St
 - [Pays émergents] Broader markets underperform; Kaynes Tech, Inox Wind, CreditAccess, KEC International down 10-15% - Moneycontrol.com
 - [Défense, énergie, matières premières] Top 3 British Quality Stocks To Watch In November 2026 - Yahoo Finance
-- [Marchés mondiaux] Wall Street Suffers Sharp Weekly Sell-Off As Nasdaq Turns Negative For 2026 - BusinessToday Malaysia
-- [Bourse de Paris et Europe] FDJ UNITED Cours Action FDJU, Cotation Bourse Euronext Paris - Boursorama
-- [Résultats d'entreprises] U Stock Gains After Q2 Beat — CEO Says It Was 'Arguably The Best Quarter In Unity's History As A Public Company' - Stocktwits
-- [Pays émergents] Nasdaq posts worst week since Covid-19 pandemic over AI-linked fears - tennews.in
-- [Pays émergents] China’s used smartphone trade expands to South Asia and Africa - Africanews
-- [Bourse de Paris et Europe] RENAULT Cours Action RNO, Cotation Bourse Euronext Paris - Boursorama
-- [Chine et Asie] ETF Daily Report (Nov 17) | NVIDIA Earnings Window Approaches; Hong Kong Internet Stocks Lead Decline; Crude Oil Market Supply-Demand Outlook Shifts to Surplus - Moomoo
-- [Chine et Asie] Upcoming Key Events: PCE, Q3 GDP, Xiaomi, Meituan, Bilibili, and Dell Earnings - KuCoin
-- [Chine et Asie] Mainland Chinese travelling more but keeping a tighter grip on spending - South China Morning Post
-- [Pays émergents] Monotype India : SAST 29(2) - 20.11.2026 - www.marketscreener.com
-- [Banques centrales et taux] UBS signale une nouvelle faiblesse
+- [March

@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T09:40:36.492104+00:00",
+ "mis_a_jour": "2026-11-22T09:50:35.990899+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54878.66,
+   "prix": 55021.68,
    "devise": "EUR",
-   "jour_pct": -0.02,
-   "mois_pct": -24.27,
-   "volume": 43.85646275,
-   "volume_relatif": 0.18,
+   "jour_pct": 0.24,
+   "mois_pct": -24.07,
+   "volume": 45.53385535,
+   "volume_relatif": 0.19,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,76 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years - CryptoRank",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGRWOW1VcnREQWtkTXdIWUdpX0FSdGdhaXp2dm9Ubk9iSVVUeXNyekpuLXoxaV9mTjAtbV9IaDJrNjVZOHltbmR5cFE5S2QwdUJyamoxa1NieXVXQ2pyWVhqcnFSVXA0dFAzM1h5VG94b1NFcTlmMVZ0V0dDbnMzcFBjYVREWUdGQTJJSWppNHNFWDV1d0ktVmRCSUNzN0F3QWxJcXIyTjlGQQ?oc=5",
+   "date": "Sat, 21 Nov 2026 16:20:31 GMT",
+   "vu_le": "2026-11-22T09:50:35.990899+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Quel avenir pour la BCE ? - Economie Matin",
+   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BRlFHa2YzdWVXMFJHaWl4Zmp5MzAzaTYtVTEyazFNdHRQSlZRMXlOd00xSkRsQ0ZCbnZVLU55MW9tdHZscXFWMF9CWkE5aC00b0EyTS1zdWx0ekZLaC1iMDVUaG03YlhDdVVpYVY5WFlrT05sRjZZ?oc=5",
+   "date": "Sun, 22 Nov 2026 09:44:00 GMT",
+   "vu_le": "2026-11-22T09:50:35.990899+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Xinhua Headlines: China's tech innovation engine powers a connected Asia-Pacific - Big News Network.com",
+   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGJhSFMydzRhS1p0RFZldTNsV1o5Ni1aSTc3ekpMMlplbllrQVVYckdDamdWV0RGajZZcUNpUGlzQUdDM3RvU0lCNFdMbzZMTFhKNWd3a1JuM1dWZXJZZTZJcE9CUDZDSkE1a1FER2xHMGlFWndwWmNnS3B6WV9qZkZyMFM0R1ozTEFkZVYtckZ5dDJHNUJUSmUwNkIxLVNyekc3WDJWd1hRWXhNSV9KRHNKTEpSM2Z3dE5qU1p6RGU?oc=5",
+   "date": "Sun, 22 Nov 2026 09:28:00 GMT",
+   "vu_le": "2026-11-22T09:50:35.990899+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZDZLQWo5WnRfdmowaXhNMG9MTThlejV1QWtXUzgwd1I5UTJqLVpsSFE0dFdUWXEwa3pia0xQRWU2cjV4b3Zhd2kyZkU0ZDVZQzNLU2JzdDFPc1dxOTlreUg4eU1NWVpCcUphWEs2a29rS0ltWFZKN0pCQmJPTV9WWDB6NW1EOXJOMXVGTmJRVVhBZVBiaFZjZVpxdVZZbHYxeWhiWjJRR2x6emhPZU1RaUJZWHFLM2FCRVVZUXFnS2ZjcmVXSGlWMzF4TkV1MmtkUDRwVmEzQVhBV0ZycEsyVk9wMVBtU0VETGV4ZVIteWpqUnI0WEtBWV9DUlllR1hhR3pZZzJsSm45ckFSYzN6elZ4WExaRDhZZU5jaTFkcTZzeVFSUW56TW51alNLNi1qbEl1MW5NQllGeG5UVkVER1F5WmJ2RHlmdkFxSjNvcEZzUVhuMml1UA?oc=5",
+   "date": "Sun, 22 Nov 2026 09:34:10 GMT",
+   "vu_le": "2026-11-22T09:50:35.990899+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Broadcom Stock Is 27% Below Its June Record. Here's Where I Think It Will Be in 2030. - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdXkzMXBTdTV5SVg2ajM3N0tYdzl0eFZHaFVCamtlYXRTV2xfUGtOQTVvSmNWeFRkY01icUZSTy1rWE1EWVdwRTA5d2VzbUNiNlZWTDZHbDVxRXpNdnhqRlFmMGdNUlpZdE5oWi1Zbm9PaXRaWHNGLUpGUXgtNGwtNnc0enNhS1pVb1A1TWdnOU9YdHltRUJmaElPNXh6eVRSMC1OcFRRelpxQ0VaNjNudG5NNEFRSGNoeHJWdFdMX0paTFdKLVNleHNVVUxHdWRzdVB5a3dNbWQxdklRbzJmaTJ4d1F3UFZ2eFBjcjBCbXVrdExkUFNVRDFtZzZXZw?oc=5",
+   "date": "Sun, 22 Nov 2026 09:39:46 GMT",
+   "vu_le": "2026-11-22T09:50:35.990899+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "NVIDIA Q1 FY2027: Revenue $81.6B Beat, Data Center +92%, but August 26 Guidance Test Will Prove Sustainability - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOSmppUFVTbFJ6dEtndmF2WUUxekw4NWQxMG1NU09JSFV3bVpvVEs1VnZaU1ZucDlSSHJScHA5clJwM1RUcEUta24xVW5tZHNSN0dScTItRkViakl5UTk3NlgzRlFvM0JPTU1DRG5ybVdPdjI3VDZEeVVMN1Zjc2dCTVM2Z055UHcxZTliZ3J0aVRPeGFycG15MTFRam5BazM3aVpVeGpDRXlPSjBYUXhlRENpd1BscVF1SWViM01FYW9vdXg0ZjB5OUNIU2pOSXV2VnBfS1puSzE0aEhhZlk0N2xMRDB4eDJEV2o2UmZtangyWWVNa05vbU5ld3ctUGQ2cG9UYnlDdWxlWGhUa3J5c3Rvd1pKZHp3Ym80?oc=5",
+   "date": "Sat, 21 Nov 2026 20:52:39 GMT",
+   "vu_le": "2026-11-22T09:50:35.990899+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "AMD Hits All-Time Highs as the x86 CPU Renaissance Takes Hold - Is AMD Stock a Buy at $345? - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHRiem94UWFoSkpCbWRaR2RBcVZydDRQbkc4Y3FKUWdLMC1HcGgxb0pGSk5CcGVES0E2SmlPUVE2bXMxZzhSTE0yeXdLam1aY1RidWZ0Z25JenZob3p1aHJSVExvN1lCeExyYTZoczZfbGx6X1V0cmRvajIxR1VWUTBaNVJYcHFTQmhIR3hqREZGMk9RamNha1hzQS1NbmV5MWM2d3pn?oc=5",
+   "date": "Sat, 21 Nov 2026 20:05:15 GMT",
+   "vu_le": "2026-11-22T09:50:35.990899+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Market Remains Under Pressure Though Bitcoin, Ethereum Rebound - Moomoo",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV1NQcVJ2ZkZfNGhyTkVMZnJOb3lBZDREZk4xY1N1ZGx3R0g2aENIVV9BMjY0VVBMTzJKM01aWVlnUlNiTTBQaTRCT3RmX3FVS0ZrSUNVQmwwWmIwdDBzZjFYQUU5OUFqWmc2ZnpVeEI3MXBya05pbklLZW44V1d4ZEhUeElxcGk2dFNBaGRyV1hDOWpBQWdJek1zZ0d2bU9fMEJqd1dIa2kzNFpNTG5RMXF3?oc=5",
+   "date": "Sun, 22 Nov 2026 08:39:38 GMT",
+   "vu_le": "2026-11-22T09:50:35.990899+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbUM2UVJiS3lfTWlleFBFTUZBeUY4aGhpWVQweE42TC1md2Jzcm1ZdlM5MFlTRHpFU3VMdzZVdk9Cd1VQeE9BMXl2elU5X05OVXRuWlVKcmxsNDJ1NXV3UUxIQVNlRGkzaFJEZmk1WU1nTnZfcTFjQnQ3NndrNzRXN2d2dndIeV9aYWlxNmtIZ3BpZjFFVnNNT1dBclFHOVlReXdyR1VHd3BsOGZIVHdrZGplRVc1WXdBak1UbUFQZXVWX1Zz?oc=5",
+   "date": "Sun, 22 Nov 2026 09:33:06 GMT",
+   "vu_le": "2026-11-22T09:50:35.990899+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Record $950 Billion of Bitcoin Capital Sits Below Cost Basis as Price Slumps Near $58,000 - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BMTZOY0pNSHZwaUFaLVJVOGRZWi1rWEtia0hCcHg3QWZOWmFqT2k5eWlBcTRySDBoLXJjTkVjQzJxbmFKZlEtUUhiZmFuWFpjeHFvYXlOS19XX1c4QWQ1NzA3V3BYMEhIMURZUGVKaHVaZ2FKZHc?oc=5",
+   "date": "Sun, 22 Nov 2026 09:35:00 GMT",
+   "vu_le": "2026-11-22T09:50:35.990899+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Is the AI bubble finally bursting, or is Wall Street just catching its breath? - CTech",
@@ -6482,79 +6552,7 @@
    "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2VXSHllTWdEM1dZazVxc3RCQVZieEhpUDgtMWpGYWhycC1FNWdEOEVsOF9WbE1RVmo5TFVINnlWbTVwM3JFcENIdHZQaHpUbXMtaXFRWEN3Nkl5UU9IcWxURW5rY3EwZHZvMmdmRjJxQzRkSHZaS2xjbGY3dEhSVmNHMHBVS1BMc0drdjRQWTg3Q3JfNDY4VVpyM1NxR1hFZTIzS2h6TmNPM0VQSVJmSnFqYTF0XzhNdUhoUVl0SURhbzRR?oc=5",
    "date": "Sat, 21 Nov 2026 20:11:00 GMT",
    "vu_le": "2026-11-21T20:20:35.169884+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Wall Street : consommation, inflation et résultats technologiques au programme la semaine prochaine - Le Revenu",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeGl1WFJjREdhc0tiNU43aGFJMEpJOTVST1M3UEN1RERDUXNsanBMZHhoZEZROV8yakNWYkpiZmNSTVpWMERUSW1nM2tBQjllam1zVml1anFkVXdCNFE5bEZnMXFoRU1OZ0ZTbWYxLUxoZFpZTE5zWUZpTnVZQmNXUElRNTdzSWRwOHNOZWFvVkJRUTQ0aFJPU1doMFQ4NHpwN3gtWG5WTm13WG9WaGlHZDl3NFp5bnNjYzVoU1h6Zw?oc=5",
-   "date": "Sat, 21 Nov 2026 09:00:00 GMT",
-   "vu_le": "2026-11-21T20:20:35.169884+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "NEAR : inflation à 1,6 %, rendement du staking en baisse - CryptoTicker.io",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOakNNcnRpbTE3TUlKRW95X0FmeWJLRklaZEFKOF95U28yMTB0dUNXVHdUbFZ0dFUyRUFVbUZBbUFIQUtHelFrZkdWNG9IVmRxZ3h1TThCd0kwb0NRek5OSnBvUkpKcU9PM3pEMGhOaGgybEZ3RG9mdFR3b2VLa18yX1p5a05JRzVy?oc=5",
-   "date": "Sat, 21 Nov 2026 17:30:08 GMT",
-   "vu_le": "2026-11-21T20:20:35.169884+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Wall Street : le Nasdaq perd 7,3 %, l'IA sous pression - Le Revenu",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLXBwZnFWUEl6SnJueUpoTW02TTljbmlHa3lCYzFjWUpRZnlOV2hfSWhWMXpKVTI4SnlOOVVoVzlkWjJabWoxUmtuaEoxVnloVkJjNU1KaDF2ZHJSb0h4Z3llM2tveGJTN1lYenRxbU5mYlFiR3NHU2IyMndrSGVIYzFCUDZtdmxQcXU5el96V2VMeW1yVlpYa0xSREdMY1NpUGxkRkNseWNDcFFpUWdKbm9wZ25QUnRkWFhWbw?oc=5",
-   "date": "Sat, 21 Nov 2026 07:00:00 GMT",
-   "vu_le": "2026-11-21T20:20:35.169884+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Le Nasdaq plonge de 5 % au lendemain de l’introduction en Bourse d’Anthropic, mais les investisseurs croient toujours à l’intelligence artificielle - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbXNnVFg5WGh5NTNkVFl3R1hWbU8ya1dZWHhRR3kxTDMzZ09JN1dTeG9qZjY2RWJpRjBXa1YzSmNlV211d3ZEdk9SV0FsbTk5UWxHSldVVVkwdzI0Y1Z5dGdzNk9oOTVxb2ttOF9BY01IUlZ4d3B3R3o5MFVxaUZJZ3YtRXpYS2J5NGlSM3JzejJsdkl3LTNENDZSR013TjY4eHAxRjlLME4wV2t3SzQ0TDNxMmRyY2lKRjh0QUlRcVQtWTV0dklBdnMweGdvZS0zVFJoWngxVDNxYmFYRk5ORFQyMUFKT2hibVlj?oc=5",
-   "date": "Fri, 20 Nov 2026 21:18:24 GMT",
-   "vu_le": "2026-11-21T20:20:35.169884+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "TITRES DU TRÉSOR-Les rendements américains reculent sur la journée et sur la semaine ; les inquiétudes concern - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQZVZQSTN2SVNPcEJCWTVfWkRXZWNNZXVIbm0zOHFMT05QQ0ZlSklDQUoybkNJQVJhcjJtbzBPOF84VDRjY0R4RDRGSUFuajlxX01Lc0pHNzlERUlyNGpJMEJKUWRHUExuTkh0WUtQN19GMXRxS1dWVGhrVTUta1BZdGo3dFFkU0xFcHhZd1VzZlRBYkl3cHFGcEp4QkNTLVhST0VQX3B5VmxsaGYtRjFZZm42XzQ2VHNFMXFfM2dzbXc5UDd1TzBxbjk0OE8ya0pSQ3pvZzBoYjZHQ2huMDdRbzdLZVYxaExBQ0FvYnR0YU5YY1djTGczcGJPckZwejZqQlppbGItUnJ1a1JpdnZTR0U0Q0o4SU5PRkZzM1V6OHVBNjdHNjBmOUNTMXhvRXBZcW9oTGp5YUlJclI1QjYtR0k5Nmd1MG9Hc3JUekdSLTZnU0FldUZUQWFsUFQzZE9ULVhJWHhPSkw2bFVp0gHsAkFVX3lxTFBlVlBJM3ZJU09wQkJZNV9aRFdlY01ldUhubTM4cUxPTlBDRmVKSUNBSjJuQ0lBUmFyMm1vME84XzhUNGNjRHhENEZJQW5qOXFfTUtzSkc3OURFSXI0akkwQkpRZEdQTG5OSHRZS1A3X0YxdHFLV1ZUaGtVNS1rUFl0ajd0UWRTTEVweFl3VXNmVEFiSXdwcUZwSnhCQ1MtWFJPRVBfcHlWbGxoZi1GMVlmbjZfNDZUc0UxcV8zZ3NtdzlQN3VPMHFuOTQ4TzJrSlJDem9nMGhiNkdDaG4wN1FvN0tlVjFoTEFDQW9idHRhTlhjV2NMZzNwYk9yRnB6NmpCWmlsYi1ScnVrUml2dlNHRTRDSjhJTk9GRnMzVXo4dUE2N0c2MGY5Q1MxeG9FcFlxb2hManlhSUlyUjVCNi1HSTk2Z3Uwb0dzclR6R1ItNmdTQWV1RlRBYWxQVDNkT1QtWElYeE9KTDZsVWk?oc=5",
-   "date": "Fri, 20 Nov 2026 20:56:45 GMT",
-   "vu_le": "2026-11-21T20:20:35.169884+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "En une semaine, le prix de l'or dans le monde a chuté jusqu'à 350 dollars l'once. - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yWGFPYTRVeEd6ei1nbnYwNjY0VlpaMkU1ZHZxMFhIdXdoWXRfeVpncl9kbTRxQ2ZUSHhaVFZQY1BhY1hHSU11ZTM4U21sMUVwSFBRcS0wUkVrTnBoajVzRlQ5RmJCMFFiVmpsdnR5YWJVZEM1VFN4VFlTSS1Kczg?oc=5",
-   "date": "Sat, 21 Nov 2026 16:56:22 GMT",
-   "vu_le": "2026-11-21T20:20:35.169884+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "La livre sterling aborde la semaine des indices PMI en faisant les frais du ralentissement de l’inflation et de la croissance des salaires - www.tmgm.com",
-   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdGJueVdHd3dyZnlJUktzOVYxOF9iVmpKc1JKMmEzWmpBbDVzSENvekRTYUxLT3YtYzZLUkgyeU9LenU2eVZtbndWcUtEaWxyTnNsNDZGT3c4Sll1Ti01QWFJRTR5d3dzWE9hUElUUHhYSDlzVFRxWUR6SGNrajZPMFBRUUpzdk1TSDh1WXQ1LUJkbnZjNkdsTzU4ME9tZEtzb3VnY0VJS3ZFVktjRThhOTdGdllaTllUM1A2UEYyR3FIN0lpQnNyNWF3SlJSWWRsbzZSd2g1MVYyTnBwUnc?oc=5",
-   "date": "Sat, 21 Nov 2026 03:27:40 GMT",
-   "vu_le": "2026-11-21T20:20:35.169884+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Has Unusual Machines (UMAC) Fallen Far Enough To Match Its Cash Flow? - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc19tT2hQNHZuWnRDck1IcHlWejlvMl9tM3JBcl9NN3FLa0pkNjZYcDFZZmJOVHJISjhjZjAxSFVvOHRZbkt1VncyNVZtNl9BVXduTENIUDhRMmpadGx0aXhmeHZmZk9Ga05MSUUwYnJjUDQ0dXJiLXZxN1EtSVhGck9pbHRqMTRBVUc1a2ZmdnJIR0lUVklXVTQxX0RVUENicjUyN05odkl1U3ozbS05YmdlTzNMNnlxaVoxSDdQWXNncFZMX3NUbUhrY3jSAdIBQVVfeXFMTUhBZzN0OGI1R3VUT3dXaFhtdVB2MVFIWDR4ajZBZGNwWUFDSVJlenFjSTRWaTh3Z3NHaXRLODEtMW9pVkRHQnZxUGcycHFsQ0FSOEdRR052QkdlaUo4SVREcy1RZFhMcGphRS1aU3l4enhhNXZqT1NENS12cm9rdnVoeDZWZWZ2ZGFTbWZ5U2FQTzYtUUxpVU5TaF9UZmxEQ196WTZTWXE2WHFvY2NmR19yR2d4M2Q3RTJ1U091eTZyRXRFaG1Hc1E1WE01cjZPclNR?oc=5",
-   "date": "Sat, 21 Nov 2026 20:07:40 GMT",
-   "vu_le": "2026-11-21T20:20:35.169884+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 21, 2026 at 4pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTWdCSExMT2lSYzNLZU1IeEw0TUlzaUFkb2o2dk5TSld6TmlwQkRvN1NQYmxzV2ZiUTIyTjBuQWZ4VFpya2Z0NlQ2SENKdmZDTTQxQlpwdzEzV19TRFFiNUNJLW55dmd4cnZNTW9kWXRMaDNZeHdJRmN4VGNiWG1aRzBHd1ktelR3eVBFaWlhUEItUW9yb1JvY2VCNVRHUWZWbUloWnZBWmdoZF8xdGc?oc=5",
-   "date": "Sat, 21 Nov 2026 20:10:20 GMT",
-   "vu_le": "2026-11-21T20:20:35.169884+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "HYPE price on Nov 21, 2026 at 4pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV3RUNlFsaEplekJMS0pwbU91VkE1NlRXOWZsZFVWOWp2QmtXQjVkektPb1BHVElJZlFCNVUtZXFfc0ktT2EtSzlyR3ZZbUtqaUladTd6LXo0eERYalQ2ZUMxbG9veldtblZFRWRhaEJ1ZVhMam9EME9EQXZfdHFCalFZQVBPZVpCR3ozZ1N2QXNadVdLU2lqWlpUQnZ0WTNSdk5KajZJdTliY2F5YlBZ?oc=5",
-   "date": "Sat, 21 Nov 2026 20:10:20 GMT",
-   "vu_le": "2026-11-21T20:20:35.169884+00:00"
   }
  ],
- "erreurs": [
-  "actu Chine et Asie: HTTP Error 429: Too Many Requests"
- ]
+ "erreurs": []
 }
