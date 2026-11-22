@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T16:50:35.779541+00:00",
+ "mis_a_jour": "2026-11-22T17:00:35.288490+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55852.71,
+   "prix": 55853.96,
    "devise": "EUR",
    "jour_pct": 1.76,
    "mois_pct": -22.92,
-   "volume": 124.57223525,
+   "volume": 125.98541712,
    "volume_relatif": 0.52,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "What Comes Next After Anthropic’s Historic IPO - WSJ",
+   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMGhQYy1TNTdJcnJDbUg5RFFZRl91OE1OZHNvdTFfYm81NTFTR1JGLXRsR1RFTnhnajZMT1ZjNEFIMjlJX2pfS092R2JGLUFZb2ZhVE5fRU5DUHhub1ZKb3VQUkJUSUpuX2wwZ2ZpdmR1M1BNcTVYb0pBQXlZMVFmNkNVbElaUEg0a2c?oc=5",
+   "date": "Sun, 22 Nov 2026 15:55:00 GMT",
+   "vu_le": "2026-11-22T17:00:35.288490+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Bourses européennes : éviter le jeu de qui perd perd - Les Echos",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTHBqc0lNWnV6dkdhMFRfd2ZORTN1eGkwRFZZUFluVGtWOGNSNllRMDVMOXpCM3FoTjhqYTNKZ3ExdzBlV2c1UXFQcDcySFhxa3pOaXYzRHhLYm9UVFIzd1ZnakhEZ0o1ejg5YzV3SXplMlFxc3pyTERMV0Vjb293cjNORllTRld3RV90NUI1UGF5S1JxWjZVa2pmODktVkJiTnBpUEZ3REhzaUFWaWxmUWRUSVo5TmJsVmJR?oc=5",
+   "date": "Sun, 22 Nov 2026 16:51:28 GMT",
+   "vu_le": "2026-11-22T17:00:35.288490+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "As Wall Street struggles, is India emerging as a new investment destination? - The American Bazaar",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOFdVekNJbEswbWdMN1oxblo1eTZ0aTR5aUNYYktabWg0R3dMc0lDWFIzNXNFU211Z3duY3lNTlFDR3R1aC1POW45bE9DZUhzbmlWLXdWNVlfNDl1Q3Bvd3ZIWXlpcnJMRnFyZ21yTEZVa21FVXhXcmRzYUxJSkJpRFNVQ1Q4Uk1NdENRRU1xUXBPZVJ4a3JQZQ?oc=5",
+   "date": "Sun, 22 Nov 2026 16:49:41 GMT",
+   "vu_le": "2026-11-22T17:00:35.288490+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "MDA Space Ltd. (MDA.TO) stock price, news, quote and history - Yahoo Finance Australia",
+   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BUVNWUHcyV3pJMXBpQXlYeF9LWElaSXo1LWJZSS1BbmZmbjdjaUhCOEhyeGYyLUp0ODZTNVhyc2tsRGhXVjZLV1dVM1d5SksxUU80VA?oc=5",
+   "date": "Sun, 22 Nov 2026 03:11:49 GMT",
+   "vu_le": "2026-11-22T17:00:35.288490+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Price Predictions Favor $50K as Market Fear Deepens - Cryptonews.net",
+   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wNkNmY2FrMjRQSDB5bVlKSEl5Z0VvLXVscE9KQXpQSU9sNlRDcDdGV2NWQzE0WThhUWRCNzV3VG5DMmU0QlNEVGpHSlVYYXFBVXhFelJkSjE?oc=5",
+   "date": "Sun, 22 Nov 2026 16:48:49 GMT",
+   "vu_le": "2026-11-22T17:00:35.288490+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Elon Musk’s Grok AI Predicts Best and Worst Crypto in 2027: Who Are They? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTUthazR6RUVTMWMybTROTENZR0J5aWFVUE00WnBqa2hYaHJRamJqUUl2bTloRHg2akhlZktoUDlCTzNXX1Q5aWlTd21CaldWYUVSRm1wY2MtNHRiWVZsWmlzMFh6Z3pvd0kzZVQ3eTFOYnFmc1NKNXJzSUFPX2hIMVJTMjJqSG85c2dMYld5a3M1cjFWNkE?oc=5",
+   "date": "Sun, 22 Nov 2026 15:47:43 GMT",
+   "vu_le": "2026-11-22T17:00:35.288490+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - Cherokee Tribune",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWpqcFZmT1FSbWFBeVZCek9fNzF6UXc5Y19PUjF6TzJBV2JKaGxqUXNQQUoyRi1GaG1BY0FpV3REVFVYVTlFYTdodVBHSWJlcmlIeUN2RE9nUzU1aUJCeTV2V1M0anVTcExuc3JIX2plMmhrck9uTXVDRUpGck14U1V0Z2pVQ190N3RuMzh6YmlwUFVHYTJoc2FCVmU1MmNaLW5tM3hB?oc=5",
    "date": "Sun, 22 Nov 2026 04:57:29 GMT",
    "vu_le": "2026-11-22T05:00:35.885298+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Mainland Chinese travelling more but keeping a tighter grip on spending - South China Morning Post",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX0h6Y01xTFlwR00yN3dMelZ5dzRUaS1wbFdZM1l5bkd0bnhQcFA3MXItY1RlX19IWGhaUW8yTGgwdFJtaTVVQnZGbmh2RTljOXpmX0ZlQkMwSmRMSWFCZGJWamFIci1uYkN2TjA2SFB0TTBTUWxWb3pnemtJeXItNTNwTXA2ZV9tWGJrTkZRMkNUZm9FNXZ1eE12U1FSQXNJVmRNZHA0VWRyV2FOR3lXRDVKZFNOcTlWc0diNWoxYWJlSnEzVTNxd09IUlhGYUpsWFVDbGdZbXZjZzJL0gHcAUFVX3lxTE5fSHpjTXFMWXBHTTI3d0x6Vnl3NFRpLXBsV1kzWXluR3RueFBwUDcxci1jVGVfX0hYaFpRbzJMaDB0Um1pNVVCdkZuaHZFOWM5emZfRmVCQzBKZExJYUJkYlZqYUhyLW5iQ3ZOMDZIUHRNMFNRbFZvemd6a0l5ci01M3BNcDZlX21YYmtORlEyQ1Rmb0U1dnV4TXZTUVJBc0lWZE1kcDRVZHJXYU5HeVdENUpkU05xOVZzR2I1ajFhYmVKcTNVM3F3T0hSWEZhSmxYVUNsZ1ltdmNnMks?oc=5",
-   "date": "Sat, 21 Nov 2026 08:00:12 GMT",
-   "vu_le": "2026-11-22T05:00:35.885298+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Monotype India : SAST 29(2) - 20.11.2026 - www.marketscreener.com",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLU8tczFwTFlCcVJOZndKVWsxMkEwdlpTMjdlWWJuRnZHX2MwMzM2d2szY2Z1UEpHR3NmQjRjRW9aZFFkQzhNTjBrTTlDeWRQV3hETEtHM3NEa2dES0t0NDNNLVE3eFFqUFZHN0FFdWx2SDZ4WE1vdk9aSnVUR215NURDanpVMGNycVJ2MWV6ZVJhQQ?oc=5",
-   "date": "Sat, 21 Nov 2026 12:31:03 GMT",
-   "vu_le": "2026-11-22T05:00:35.885298+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "UBS signale une nouvelle faiblesse de l’or avant le retour des anticipations de baisses de taux - Investing.com France",
-   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSlhTcDZTaWVGTnFCWDNDZks3TC1IcTZGX002VmMtbzBhZ1B6SVVlMHZOSlZKQ3JrWnNjS2JiRUJOOTdBT1g1RWNwVzlyaS1DQzlNUU1Hb0NaeUctUk5vOHUwNldjbkprSEExcEcwUVAwWDNJN3RuTk96aXRXTXJZRUQ1RnE1bDRGN0F2WWtSRklncWJMSlV5UTFfcnRaN1ZpNC0xWmozVHU1ckhmckdoYmhhZ0txNG9YcFBZaHQwQTVYMzBlQWRLeUlLQUVsSTU1ZU1Fc1lCeUlUWi1UVjFLOGp0Zw?oc=5",
-   "date": "Sat, 21 Nov 2026 17:50:00 GMT",
-   "vu_le": "2026-11-22T04:50:35.219538+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Ghana MP Beyuo Defends New Presidential Jet, Citing National Security and Governance - Avi-Go",
-   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKQ3diMzJvbzViaGphQWxkc3hFZy1sUGZfeG54clVoSGYzdm01WTFjTUg3NGVSRElyNk9hYXlDa083bzVOeWJXQ2lXR1drdVBDRFZpd1pKTkFqS3ZBMGp6eGdjbUJ5OFhXMjVQdGRDNVNtZHM?oc=5",
-   "date": "Sat, 21 Nov 2026 22:54:26 GMT",
-   "vu_le": "2026-11-22T04:50:35.219538+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "SpaceX Stock Fails to Reach Orbit After Anthropic’s Blockbuster Debut - Barron's",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NOXVXSWptc1ZiUUw3c0J5U0FudDZxbElreW9sZ1FXZkg1QVdmYkw0VDkzUk02UGlWQmUzTlhSUlBSU3NjdndyUkxINmpJVVpwYS1maXRuSUt3aVc3eVgyS1BFdG5WSnJDc1F6ZlM1ZF9MSzhFZE5IbVhfcGFxUU0?oc=5",
-   "date": "Sun, 22 Nov 2026 04:29:29 GMT",
-   "vu_le": "2026-11-22T04:40:35.749375+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal - The New York Times",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkJNbHp2RjF0Y0hlVmh1aGRIQ2llajUxMFE2NXBhRHg4dDBtcHBhd2lrMzFpTDBhRnZPYTRMMWNVczNJdmtUM0wxUFFucEs3dlh3ZldjVmhDRFE3eXlqcXJKWnAzQzNmZGtHWVlrQzBrdVJjMHN6Q0ZSbmthdjk0Z3YySGRiOWtBVGtmaXY0cXRDdw?oc=5",
-   "date": "Sun, 22 Nov 2026 04:28:43 GMT",
-   "vu_le": "2026-11-22T04:40:35.749375+00:00"
   }
  ],
  "erreurs": []
