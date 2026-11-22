@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T05:20:35.389224+00:00",
+ "mis_a_jour": "2026-11-22T05:30:34.881809+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53624.16,
+   "prix": 53724.46,
    "devise": "EUR",
-   "jour_pct": -2.3,
-   "mois_pct": -26.0,
-   "volume": 15.20311713,
+   "jour_pct": -2.12,
+   "mois_pct": -25.86,
+   "volume": 15.37726416,
    "volume_relatif": 0.06,
    "capitalisation": null,
    "per": null,
@@ -3754,6 +3754,48 @@
  },
  "actualites": [
   {
+   "sujet": "Banques centrales et taux",
+   "titre": "Décryptage de la « chute » des prix de l'or - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xeU9MUXQyUHNnZDJvUjlVeF9rVTBNQ1VvZWNPY0FEZ1hwMEJKVlFsRXBDZDhLOGVaRFpSd1JrN3Iza1dIXzdWSERJQjlWcG85cFVsRHlhTV9Ra3ZOUnNmdThJUQ?oc=5",
+   "date": "Sat, 21 Nov 2026 06:18:32 GMT",
+   "vu_le": "2026-11-22T05:30:34.881809+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "In China’s tech mecca, Trump and Xi touted AI cooperation. Now comes the harsh reality. - CNN",
+   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWXQ2YmRXMWcxSG5FQ0s4LXBFNnZwb3A2ZVVXQkFsLUFKcXI3RjJDSnRsakI5V3JzcXNFMFhac2x0d1M4S1BfOUxhT2hHN293aXlNd3RHSTUyYTZCVzRPV0V0eUdtS05TaUhVUV9VSTlhN0lXTkd4ZEYxNGI3d2llTg?oc=5",
+   "date": "Sun, 22 Nov 2026 05:01:15 GMT",
+   "vu_le": "2026-11-22T05:30:34.881809+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "HubSpot Beat on Revenue and Earnings — But Missed on Customers and Got Crushed 20% - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLXZ1RXJMaDZmMlRFSTFSdGVndmhqNWlwZG1Ya21yeVVlV1dKN0FTem9wVC1WblNBanRaSkdpUDF5QW12RDRYQ2JzcFppR19SeXhfaVpsRnJrUmNoWW40ZmJGMVdnSmx2RU9RSVhERXJPUHdMOGlUVF94bzhLSTc4dXd5Rzl2a1VxMXJxUTctMkRTTzFYNWtCSEdhTnlwa01YZHl0YjdUVFAwVzBfMzdfQ2JJTTNGQ0ZuS0ZuWE1KYzJhZ0pzSDhB?oc=5",
+   "date": "Sat, 21 Nov 2026 15:03:57 GMT",
+   "vu_le": "2026-11-22T05:30:34.881809+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "5 Paper Stocks with Robust Revenue Growth in Q2FY27 - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBemFWbmVEOEgwMlB6Q1YxMkdCV1NWaFdWNU8zMFIyc1JpZjh0dzg0NklFaTFUNW1Gd1BWRHVVTENzSGotbUF5Q19uSzYwWG1wV0NNcjREeUJmaHExOHlQQ05SUDRmRWJXQy11aF9vazk?oc=5",
+   "date": "Sun, 22 Nov 2026 05:06:35 GMT",
+   "vu_le": "2026-11-22T05:30:34.881809+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "3 Canadian Rare Earth Stocks With Revenue Growth Up To 68% - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX2pINURJbHpIMUhrNFFwTjJmU2FOT2VFS0hGVFJweS12NEZQR0xuak92U2ZSUEM3T1JHR1h1MXhQVkZqYWh5cnNOVXgweHVRZmZEODdDTE1fbUV0V2V6ckdxY0REci0wZ215UDE0VWtyVE9NcE9WZWdaYW9MNHF5UEwtZTJtU3BpNXd0aGFTSlhIZC01TDRYYg?oc=5",
+   "date": "Sun, 22 Nov 2026 04:17:00 GMT",
+   "vu_le": "2026-11-22T05:30:34.881809+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin News: Abraxas Capital Invests $1B Amid Market Drop - Cryptonews.net",
+   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EQ2VwSW9qdXNHbUJaR25ENHdCMzlRYVZRZ3dNZW9FV2t0SUd0d1FCaDZTemZ1dWt5MjFhZVpYVHhWQlZUWks3aFFTcWF1YzFjMmZ6anpWSmE?oc=5",
+   "date": "Sun, 22 Nov 2026 05:24:20 GMT",
+   "vu_le": "2026-11-22T05:30:34.881809+00:00"
+  },
+  {
    "sujet": "Anthropic (FR)",
    "titre": "Anthropic lève 81,3 milliards de dollars au Nasdaq - Brief IA",
    "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUZ6bTNZX0ZMSHhjTmo4d0J3Y3FkaVdudXZHU2xwbXBrY3VudjdfN1BiRkNDNDBweWZHMVRxV0Jsc19tLTN2VUxxd3lfNGlyRHFHdV9TYmlwcG5MUTBQOWxOaEFxQk16aEg1NnVlclBXZUtPTC1mb0Y1SlVUcmlUaENVV2EwSEta?oc=5",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVdWRVY4WXpOc0drek1XUFMzTmpUc3NBR1RRVTNteFRsWE1YaUd6b3pDcU9pSGEwWHRDeVRqQklkZU1DNWF1ejM5emZEU0hxZFZuZUpubnhsaWtnUzJXVVhhakNXNlNMME1iOGJUdF9FdUtxTG9nN2pualFiN25iczUtcHgwb2pVbERWSlpuaw?oc=5",
    "date": "Sat, 21 Nov 2026 13:52:03 GMT",
    "vu_le": "2026-11-21T16:20:35.610885+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Les cours de l'or ont chuté à leur plus bas niveau en 14 mois en raison des pressions sur les taux d'intérêt et d'une vague de ventes massives sur les marchés boursiers. - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlR1V3B2UnJvVk5Oa1RJeGhrTVh5NnhMeTdEX0Y5c3Vtb3Z0aWdITTJNeFdfYnpkcVJreDdSeWFqeDhsMEpyOVFMS2ZiWVFhNElmcXdqNW52NHY0WWFlaUxtUWY0ZFZiUWZQMGQwTFl3UzBpd2JQZGx0eTVHR1NNa0Zjbzd6cHJzSFJTTkxCdGhwVjAyZmhoTlY0dXFza1BpYnVyUTFDSm9YZw?oc=5",
-   "date": "Sat, 21 Nov 2026 05:20:49 GMT",
-   "vu_le": "2026-11-21T16:20:35.610885+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Hong Kong Stock Market Close | Hang Seng TECH Index Plunges 6.5% in a Week; NVIDIA's Sudden Leadership Change Severely Impacts AI Computing Power Supply Chain - 富途牛牛",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcERjXzV2amJzLTBGUWwtMHJUaXJXQUo0eDRXcWVmNm9PbnZ3QTViRVF1NERiMnBNRWlfakY0RnFTQkZ4dnVqWWNhSl96YjB1VHNDTmJ1NTloYjZlb1JrRWFDdlpXLUpEWnlBbnZHdlhYcndEaVp5Z2h2VTRUNWl6NHBZOXRqR0x3MjVsQ1JqOFdsTUZNQUkwMkNtM0hOZFhKYVE?oc=5",
-   "date": "Fri, 20 Nov 2026 18:07:56 GMT",
-   "vu_le": "2026-11-21T16:20:35.610885+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Goldman’s SpaceX Pitch Helps Solve AI Debt Puzzle: Credit Weekly - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcDk5bGRkTEZVRVFMWmlIb0xJZkxOM1NNb3o2blFual9HVGxSX1NMUHpWbjQ2MmFXYXc0WHdkUnZidG5GZ2xSbHM2MENrb0dqSnhHNXhWR2xNcWhkbElYZDlFbURmeExiUTRXMm03UnZBREk3U1QwQzhxbzFVVkdXY0x1b1k5NGlVVGZ2dnVCZTR6MVU5VXNCQW5xbWZkejZHUHlUQnFHV3cyV1J4UktLTnZQRzA?oc=5",
-   "date": "Sat, 21 Nov 2026 15:31:22 GMT",
-   "vu_le": "2026-11-21T16:20:35.610885+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "BlackRock to Buy SulAmerica: Will Brazil Deal Fuel Its Growth? - Zacks Investment Research",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM0pUQ0ZvbWR1a0YzVWdLX2p6WG5zWWhROFVVUU5ueU1qYUlrRVlyM25OX0poZXQ3TkRQNWF6a1VEbkZWbFVCcW5Gb3NtVjkzamxsSTV2RUZPTmdBLThKeHQxMnVkMXk1em14V18wZWU1VWRoc0Y2cUpKZnFiV0xDYU54SVRhWHJHbjFwUG9BSTVkOHd6SjRIQTN6b1BrOGlEYkxz?oc=5",
-   "date": "Fri, 20 Nov 2026 20:06:19 GMT",
-   "vu_le": "2026-11-21T16:20:35.610885+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Quick Dry Shower Curtain Market Forecast to 2035: Premiumization and E-Commerce Drive Value Growth - IndexBox",
-   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYk0tLW5iNW9EbUlQVl84VENySHFKMkVwREpQVmZsNVNVOFg1MFVtS1MtN003UjBETm9aTmEtd3V5NFhsYzU4MXhzXzZjSDV4bDZWMTZYTGpTQUlmYkRtTUNUM0pQSFRreHUxa1lZOVBTcFdOd19tVk03MXNFZ2M5QWFISExsa296MHZiYWdQbExKQTkzZVN1LXl1RjFsSjVLVFc5dEo4WkRpY20yaUNRNVRkZkkzaGpzNHNXaXlBTlhuVVR4N0E?oc=5",
-   "date": "Sat, 21 Nov 2026 12:01:05 GMT",
-   "vu_le": "2026-11-21T16:20:35.610885+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "A 10% drop for the stock market is unnerving, but it's not that unusual - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVU1pNzhXYU5zdjVDa2s4WEtmcU9UV2gxdlF5RnJmYVAxdTh2dnJLSEZOWlN1ZGFTc1VCS0VncGJEcjF1R0tsbHhaOWhrZ25IZFVneGVIelpnNWpKX1UwbldId1docGIyNjU4QUdqcVp1a2lhUUVWRFpDalZLZ1psY3ZGR2dmQ0FaY1h3aFJDTHlDX2J5TjRzS2pqOA?oc=5",
-   "date": "Sat, 21 Nov 2026 14:01:56 GMT",
-   "vu_le": "2026-11-21T16:10:36.306221+00:00"
   }
  ],
  "erreurs": []

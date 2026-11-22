@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53624.16 EUR, jour -2.3 %, mois -26.0 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53724.46 EUR, jour -2.12 %, mois -25.86 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,12 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Banques centrales et taux] Décryptage de la « chute » des prix de l'or - Vietnam.vn
+- [Chine et Asie] In China’s tech mecca, Trump and Xi touted AI cooperation. Now comes the harsh reality. - CNN
+- [Résultats d'entreprises] HubSpot Beat on Revenue and Earnings — But Missed on Customers and Got Crushed 20% - TradingKey
+- [Pays émergents] 5 Paper Stocks with Robust Revenue Growth in Q2FY27 - Equitymaster
+- [Défense, énergie, matières premières] 3 Canadian Rare Earth Stocks With Revenue Growth Up To 68% - Yahoo Finance
+- [Crypto] Bitcoin News: Abraxas Capital Invests $1B Amid Market Drop - Cryptonews.net
 - [Anthropic (FR)] Anthropic lève 81,3 milliards de dollars au Nasdaq - Brief IA
 - [Petites valeurs en croissance] 4 IT Stocks with Robust Revenue Growth in Q2FY27 - Equitymaster
 - [Petites valeurs en croissance] Insmed (INSM) Is Drawing Acquisition Interest - Simply Wall St
@@ -453,11 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Défense, énergie, matières premières] Red Cat Holdings, Inc. (RCAT) stock price, news, quote and history - Yahoo Finance UK
 - [Pays émergents] Vanguard Real Estate Index Fund ETF Shares (VNQ) Stock Price, News, Quote & History - Yahoo! Finance Canada
 - [Défense, énergie, matières premières] Electro Optic Systems Holdings Limited (EOS.AX) Stock Price, News, Quote & History - Yahoo! Finance Canada
-- [Défense, énergie, matières premières] 5 Defence Stocks With Strong FY27 Revenue Guidance and Order Books of Up to ₹2.54 Lakh Crore - Trade Brains
-- [Crypto] CleanSpark’s Harry Sudock says power access is the real edge for Bitcoin miners - Crypto Briefing
-- [Marchés mondiaux] Wall Street tumbles as AI stocks plunge - 1News
-- [Résultats d'entreprises] SentinelOne (S) Beat Its Own Guidance. What Does It Expect Next? - Yahoo Finance
-- [Pays émergents] Laprophan IPO draws strong demand of 15.3 billion Dirhams - The North Africa Post
-- [Marchés mondiaux] Wall Street sell-off drives portfolio buying as AI stocks stumble - Traders Union
-- [Bourse de Paris et Europe] VALNEVA Cours Action VLA, Cotation Bourse Euronext Paris - Boursorama
-- [B
+- [Défense, énergie, matières premières] 5 Defence Stocks With Strong FY27 Revenue Guidance and Order Books of Up to ₹2.54 Lakh Cr
