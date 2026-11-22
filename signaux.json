@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T23:10:35.773819+00:00",
+ "mis_a_jour": "2026-11-22T23:20:41.664142+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -90,10 +90,10 @@
   {
    "nom": "Japan 225 Index",
    "symbole": "TVC:NI225",
-   "prix": 56436.65,
+   "prix": 58434.04,
    "devise": "JPY",
-   "jour_pct": -5.06,
-   "mois_pct": -13.02,
+   "jour_pct": 3.54,
+   "mois_pct": -6.75,
    "volume": null,
    "volume_relatif": null,
    "capitalisation": null,
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3567.58,
+   "prix": 3578.23,
    "devise": "USD",
-   "jour_pct": 0.83,
-   "mois_pct": -11.38,
+   "jour_pct": 1.13,
+   "mois_pct": -11.11,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,12 +160,12 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09742,
+   "prix": 1.09749,
    "devise": "USD",
-   "jour_pct": 0.08,
+   "jour_pct": 0.09,
    "mois_pct": -2.14,
-   "volume": 2276,
-   "volume_relatif": 0.01,
+   "volume": 2872,
+   "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
    "bourse": "FX",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55440.82,
+   "prix": 55594.18,
    "devise": "EUR",
-   "jour_pct": 1.01,
-   "mois_pct": -23.49,
-   "volume": 174.40229589,
-   "volume_relatif": 0.72,
+   "jour_pct": 1.29,
+   "mois_pct": -23.28,
+   "volume": 175.31889787,
+   "volume_relatif": 0.73,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Goldman Sachs privilégie l'or à l'argent jusqu'en 2027 - IDNFinancials",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODBndVNNbVRLTFZsOEtoeFB6aWEwZWJ1N1M5YnlqUFZhMUc3Z3pGLVduQ0RoczNpbC1QTkYtbWMwM1hzY2ZlSUxCdnlER2haNThUZ29YakZXcGdfT242c1RrUWhDX2wxMG9WUF9fZUk1YnhUWTRKN2UtZjBJMXc4c1JBdmFnYXlXVEdiSklyZlJNWmg5d3FxbG1OQjNOd1NOWUs0UWJwM00?oc=5",
+   "date": "Sun, 22 Nov 2026 23:00:00 GMT",
+   "vu_le": "2026-11-22T23:20:41.664142+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China cuts margin requirement to 80% in fresh market support push, but will it work? - investingLive",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ1VhQnBzTXhYYUUyc3ZOZzlqX29vaHRFcWpqWHNCUC1ZdFRrcTlyTHVrV3ZQd2g2N05haTdhWWppVm9CZEZhTXU4N0tYR0UxZDVSWVVIbFNrRmdGQ2dDMDNTMHFPa1FlaC1hRV9EY1NnNGt1TmxXVE9RSXkwTnNIRW5VaWtjWWd5VzF3RXZzR2NmdGdqS2FOdlAxaTF5ck5nZ1BsZjl4bVU2d3RPd196Uy1jYjk3S01kUXdiSDdfOW9JNEtyelVF?oc=5",
+   "date": "Sun, 22 Nov 2026 22:57:29 GMT",
+   "vu_le": "2026-11-22T23:20:41.664142+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "COMMENTARY: AI bust hurts Chinese stocks far more than GDP - Reuters",
+   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUFLdUZQYzFtXzVMTHBnR1lTMnhES0gzd2dKY0p5dlVkWUNiX0hFYUZvdGxSaDI0ak5GZkdQZWtpZU41eGpuWHBKX3ZnbE1abnJzME1Xa3RRcVo2dGVKcWJLZ3JLUkNqMHp3RXBOOGF2VzZWYU5oTHZibUlHX3M5VXRGYldyVDMxNzJ2c052VEdpTHRHZU9ucEM5R1dHYk5qNHp5eW9kTDNyZ0RTTE9HUTNOVU1aN1FnajAtczlZUG5aZnhlbElTVWt3ZDVyaDR4a0E?oc=5",
+   "date": "Sun, 22 Nov 2026 23:05:30 GMT",
+   "vu_le": "2026-11-22T23:20:41.664142+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Should You Buy Tesla or SpaceX Stock Before Their Potential Merger? - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNnphX1FiSWtyY3UtRWhYVm1UYnRwVTN4cXFCbFctbFJva3JPejVwSFNhZkpOTThQRDFYWDRnRTRCaGpKaUtkTHZKMGQteGR0ZXgxdWl5MEdIUlRkVktkRm41Z0pDTndUaE90RUljZU5xR3BYTUg4M1JiaGh6UjdJMUZxVVdYOUg4WUVvYXNNNmtwOGJOVTEtWTRSWEpXcExneTk1RWNjemNOOWRyTmprMVBXUmpnVFc0LWVxN05zSUhUclFxUXoyQk1IemxWRUNYdjItakxna0JkbUxMNkNEbHEya0pPQQ?oc=5",
+   "date": "Sun, 22 Nov 2026 22:28:28 GMT",
+   "vu_le": "2026-11-22T23:20:41.664142+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "How Investors May Respond To Haleon (LSE:HLN) Slower Sales Growth - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZWduYjl2Y2RPUVZBTFdkcVhfaWNXb2EtZFN4RjBtR0luT19TUW5nRWQ2MlRtUDdNRFV2amVtbUd5bjZURWdTeVEwMmJoa3JFNnVCYVU1RzdSREQ5blBTREtJOS1SNDBDOHRIWXhIZzhJeGcxU2FseEtfbzJUQmtFQnN2dy1zVDdySVlQLW8yMFVSdXJpeVl1bUZ3NGpnUml6TVN0dy1jV0IyekIxc0QwaXluTlBCQWFpREdZbDNGbzJyMWlUUHQ2SnI1YTJ1U1NzSThCRjlIQ01oaHPSAeABQVVfeXFMTThJSmFGRlB5bUJRQUdKRDdDWWItTGE0MXhweUxUM0lKRTVINUFZdEJJeHVaLVNvNkxONXc0T3NmLXU1Tl9yRDBYb2FrYlhteDUxTGctNi1xRGlZWnA3MHJ2dUNQbHVjZUd6ZWFKQkNvdXdwR203WHVqX3NMa29USkIzWWhMcEVkNTE0LXdmQVEzMW5FcWdlR3RoUTgwc0lEZ0dXblV2UFlyclVHVGNobEFHdnhQa0VIY0lwUnFiRmVDZ0xud2poZFBEZ0Jnd3FubkNfM2N0LU5qRzdmdWV4c1I?oc=5",
+   "date": "Sun, 22 Nov 2026 23:14:00 GMT",
+   "vu_le": "2026-11-22T23:20:41.664142+00:00"
+  },
   {
    "sujet": "Résultats d'entreprises",
    "titre": "Datadog Q2 2026: Revenue Up 36% and Guidance Raised, but the Stock Fell 17% - TradingKey",
@@ -6516,41 +6551,6 @@
    "titre": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail",
    "lien": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQNkFfMDY4dG1vbVk5cW1DTm9PdkdnRmxuRGxMT0Z5ZUxlYUNYZkFHYUYtMFJ6d1djUzVsTEN0dEk1clp6c012aEZIRnZpQnp4MVdSYlQ1VlhndW5aWEZSdmlwTktxUTRGa3Q1c0Q2ZE1zTVZBdkVtUzNQaENYaVlNNndWVnY1dkF6S3doRWk3Ym10Nkd2aG5SZXJMUHNXOUZORnJWb1h3NTlUQzF5NmpfcC1OZjNXejBnb1B2SzFDeS1JclB4OXh1TGRxdFh1bWlxV3hfcEtlS0Z5R0RVSDhoTC13azJ0RF85MDFmUVMzS0dXaHMtb2cwNlhFRXV3T2NRTTJNTTVuZTZ6czJ5VjJyalIwMUxYSktnb0JKcDhmRWhnNXNXQUc5Vzh1MGRZblRfYWNacy1DemgtMHplWUZWaEtMczhWQ2Fxa0tLcnNZUFZybGNvVG40?oc=5",
    "date": "Sun, 22 Nov 2026 09:34:02 GMT",
-   "vu_le": "2026-11-22T10:10:35.138624+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Orica chasing $1bn Belgian target - The Australian",
-   "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWHZsLXctRGJQdHV0SUFjTzh2b0wtS0U4U2JTdFdqVjVfaWVlRFJYV2lIdmhMMExvLUs5LTlCT3QxNFpJYk1MaXNfdFRhSXl1dWd1NEZCeHR4X1BMY25KaHUzcDIyc0hDZElBdHpuV29nTV9YRkNXQmpMcVQ4dXZEaU5DTUFWM3R6UkJNMC1PRFBROHUyRzFnamZSUGZuQVNZTGotODVZdUQ1Rkp3eHYwRG1ZVHBtcE9Bd2RfTmp4ampFMURmYjA1VjA4QldwdXkzSk5weWd5V2w2dTJvR29iYVF0MVkwbFd6d1V0YjAtX1drSGtPbU1MWWczenh5TkxzeU5uQ2pmVQ?oc=5",
-   "date": "Sun, 22 Nov 2026 08:43:44 GMT",
-   "vu_le": "2026-11-22T10:10:35.138624+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Why CleanSpark Stock Is Down 16.3% And What's Next After Texas Lease Concerns - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQWJQMU1kWmt6azIyX214TVhvN1FPb1c2YmI1TzMzanlMbHhpNTV4bUVEa1otR0xSNFFHQ2Vfc2FYTzRhcWVHR25SLTk3VE12M014VjRYdF8tb0gySkxzLUNhb25aMWgxcXd1M1dLdWZQb3FMQWFoX0stQ0xBdlNjeE5FTnV0R3QwLUM3MnBDSEJuM1pkdU4zUjRETUdpN2JHSnVNMVdrUk5sd0xqcVRQN1liTklNRTkxaEZIZ0h5R29ISzJDcTJr0gHMAUFVX3lxTE9GcWtnNnRxamE1TEpqajJIUTRQN3prYWl0Rk04ZUwxa08wMWVIWGxNNGtWSU40cmRxd2t3dVpYeVEwdm14OGZxLVBaUWxXWURoVVd4OXVjVU9sdjJFLVJrRHRJeEhYN3pReFI0S1FYMTBoUmhZeU1JY3RjazZ0eW1PWGZZbnZuZzk0N3JvS05kcnhleWJkeHhmVHhrTS14UWVXMkdjYWdQbVFyNnladTFxZDRpODFobnZVdkFMQ09Fdm1BSDJvbUV3NlJKRQ?oc=5",
-   "date": "Sun, 22 Nov 2026 03:14:58 GMT",
-   "vu_le": "2026-11-22T10:10:35.138624+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "From underperformer to investor favourite: What is driving India’s stock market comeback? - Upstox",
-   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX1IzTlc0NWxDMUFNaVZfa3dYd1hnTXhzSTV0LTZLVGExZnVRLXZ4dGt1SFA0Q0VEa0liQmdTMV9xUllZdUxJSHVmS0hhZ2tJenFIanhZLS1fZmpOZFpSd3pTWklMQk1rZzhvQUJBVVNYZDNxWVhMM1FaY29mNlNjMXZTcktoelZzMUZlYU9ZOGNXczh2dTk1MGsxUjZCeXI1YVBFMmV0cUQ5c29NR2FLVDlnRzRhMW9zOUdfQTN2bmRyRjFnY244MVVxbXJMTFlBNklUd0ZMcXJ0NjVwVEszSQ?oc=5",
-   "date": "Sun, 22 Nov 2026 09:58:16 GMT",
-   "vu_le": "2026-11-22T10:10:35.138624+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Airbnb looks beyond traditional holiday hubs to deepen India presence, bets on homestays - Moneycontrol.com",
-   "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMFRrZmd3eEZ4MDlaQXBiaERpWW9nMElJbFRjWTd0Nm9VLUtLV0g3ZmJiYlROSHJJSm9SbWpUdDNTVy1ycWh0YWVEYjkzb19PRHhNU1lSaEU2Ql9oM3FuSm05ZHZZUVg3QVRaM2NkeWZCem50eVZVbnNRRzdFQVRvVEZ5MlBSVnR2ZXdLLVNERTR2Y3VPU2dwTnJmM09zaVk5UGNoS2JzeEZVd2NVY2I2U05pNXZIaXNhYThVLXNtRTRGX183MXdNdkJpOHBTN2pmN25JaGZCaEttcUd2N3FJZnM1V200aHlCU3fSAe8BQVVfeXFMTWItWjRfbGNIdWtIVWcyWmJXa3RaeFJLMjlHdUdtZldkV0J3YklQRE5vOC12dzRtMlpDYUVfOUMxS1QwMzc0Y3V5ZklRellOUGV3RXY2WXctWVQtM2dtZlgyRXBCN0dQdzZJUWphZzZWN2xORnJXZ3RIc1JVYTVrSWE3T09iZFBNUlpYUXRQTlE5cWVqRVR6Z1BGOFdEMEhJUkFUbGxEamhKTjVwSHQtLXhZMkZXQWYtd0dBVnJFOVJSS3BxUzZnX250bWlCVEpOcDJzbTBGRGdwVXU0Ul9lQWZPSHRkLWlaVkIxU21IdkE?oc=5",
-   "date": "Sun, 22 Nov 2026 09:16:13 GMT",
-   "vu_le": "2026-11-22T10:10:35.138624+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "RVNL secures ₹348 crore wagon workshop expansion order from East Coast Railway; stock in focus - Upstox",
-   "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXdsYTdqc1lDUE9ZR0NpR1pmRzE2SWhyZlpuUFg4Ymx0azk0Z2VfT0ctREZNcjlaM2VfZ3dkTE1BaWxieUVTT184VWhHbU1vWEFoRmJ3VEFfWEdoTXVSdUxuSU55MGxoVjlERUIyUHkxLTZCN2hLelZLZXR6NkVBeVZsV1dmUlI0SG15REFiQlFUVjhWVlRqa29xMDc4WUZDSGFJVGtPWFlrOTJKX1dGRG1MUjY3aGM0b3VWR1A5amdFMC15aWduYlhDcUZQUEtYeHBRMFhYeE9Ia19GWkhHRW1sUHlzUQ?oc=5",
-   "date": "Sun, 22 Nov 2026 09:58:30 GMT",
    "vu_le": "2026-11-22T10:10:35.138624+00:00"
   }
  ],
