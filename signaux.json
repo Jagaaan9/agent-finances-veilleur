@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T21:40:36.309371+00:00",
+ "mis_a_jour": "2026-11-22T21:50:35.274060+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55548.58,
+   "prix": 55562.07,
    "devise": "EUR",
-   "jour_pct": 1.2,
-   "mois_pct": -23.34,
-   "volume": 162.88677264,
-   "volume_relatif": 0.67,
+   "jour_pct": 1.23,
+   "mois_pct": -23.33,
+   "volume": 163.45347113,
+   "volume_relatif": 0.68,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3491,20 +3505,6 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "ASX set for losses, Wall Street plunges into correction as AI stocks tumble - SMH.com.au",
+   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU0EySTllQ1BLb0txa1EzYm9lTUdrdkNDek5DZ1ZEd0RDZllRTFhyek5YSjNPMnhDZmt6VHZKRVh0SktTUWdhc2NDVUNya1UxbHVaTlB5M2VBWGF1MTF1RTBGU1Qwc2Q1UE1sd1FNX3RDU1phcFFSQXRfek5GdG1CTGkxZmNOendMRUg0OGgtNndLamQ0QUFQbXNULUFGSXQtdVFEcmh6Zjk1MnRld1hiMlA2aXhKVTRZajZERHlaMDUxeE1UaEdPS1FRSGZKc0lS?oc=5",
+   "date": "Sun, 22 Nov 2026 18:22:04 GMT",
+   "vu_le": "2026-11-22T21:50:35.274060+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Visa taps Transsion's smartphone reach to expand digital payments and AI commerce across Africa - TechTrendsKE",
+   "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BVXkwS0x6WXYyUjF0WUN2N0ZORTlHbzktYi00RWRxb0o3bDVXN0JLSDR3eEpPd1M1WkRJZl9jc0dudHJWS3I1cTJtOVFIaDE0SWt0YkFhMWEteVpEYWZGbkpKcWg1TlpWdFhwcThNS0RnWUFNNlo5Y0lPS1Q?oc=5",
+   "date": "Sun, 22 Nov 2026 16:02:03 GMT",
+   "vu_le": "2026-11-22T21:50:35.274060+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "BlackRock iShares Bitcoin Trust, IBIT, Records Historic Outflow on Day of Anthropic IPO Debut on Nasdaq - Crowdfund Insider",
@@ -6537,20 +6551,6 @@
    "titre": "HYPE price on Nov 21, 2026 at 10pm EST Crypto Prediction Market - Robinhood",
    "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbURKMVRqb0VrUG9sSnZhanlyZFZmME04eGc5RjY3WUtIQ0hHMHR0SWd5LVFyMDdoV2RadkEzRml4d0pVLWZSN2tOaGY3NXhRYzBXd2RtUFNBZTc5aUxna19fNkg4bVVzbDJ5YThaUk1uNHJLSnAtQjNDUklDTDF3cEJETlZENkk1d2YzZGpsYjRmUG80NHZtcUQ3ZmszZWhKbUgtVkpWSk91TGlKMUpWNQ?oc=5",
    "date": "Sun, 22 Nov 2026 02:04:26 GMT",
-   "vu_le": "2026-11-22T09:10:36.203547+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 21, 2026 at 11pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzFReGxhRy1hb2pYQUpNQWI5eGFnUEdUang4ZVEzTmpFenBVVXpEeXdPOF9wRXA4emNfR01VNjVHMThhVTl0cVRvNlZOaXNiaVdnX3hMV2RFcHlNdWJJQi1HT2RWSkR4Yjk3Zm9NUGkyNHdHZmNhUVRIRG5mVk16ZDZSLTRGejd2TVFqRzI1NlF0cWJFLTNjeXMxWW5qam9lTHdiWlV3WW0wNWVvdnhz?oc=5",
-   "date": "Sun, 22 Nov 2026 03:06:31 GMT",
-   "vu_le": "2026-11-22T09:10:36.203547+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Guide to crypto exchange licensing global in 2026 - Global Advisory Experts",
-   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa3NIQ2hEbXRsLWtBMTA5Qzg1Y0llSGgyNEU2UUJTQm9Sald2eDYzVEROcUNrWUxSbVNfN2RNaWZ5cVVVOW1MNDJpN3M3VzV1OENLa3gya3luTW9UYUxpaTlmbUJqdVp0eFBwUllNMWNNUFAwUkEwRDRTdnJzSTVwUi0yTExieDNZOHc?oc=5",
-   "date": "Sun, 22 Nov 2026 04:47:33 GMT",
    "vu_le": "2026-11-22T09:10:36.203547+00:00"
   }
  ],
