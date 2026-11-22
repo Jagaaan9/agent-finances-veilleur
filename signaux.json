@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T06:30:35.637778+00:00",
+ "mis_a_jour": "2026-11-22T06:40:35.537023+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53844.59,
+   "prix": 53974.86,
    "devise": "EUR",
-   "jour_pct": -1.9,
-   "mois_pct": -25.7,
-   "volume": 20.27304698,
-   "volume_relatif": 0.08,
+   "jour_pct": -1.66,
+   "mois_pct": -25.52,
+   "volume": 20.85449557,
+   "volume_relatif": 0.09,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Palantir Calls Q2 \"Otherworldly\" and Raises Guidance — Will Jackson Hole Derail the AI Sovereignty Momentum? - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRUtic2RJVE1XTVltRXBkMHU0dUF1WkhhNkNoMS15Y2xlWXhReDFsU0dSRTZ4cmp3N3BGazBKSzc5ZkJ0Uy1qZ1lULUF6RVdyWms5R05LRHR2TE1tNFNqc2lPd3h0dk1BNVV4UjB5WFRpXzlYSEdzeDRReDR2UWxkVTQwaEJCdWZobUhsMk5mblhteUV3dVZhMUNsaW9UNGlpNmxKRDRFSng0NnNkVmloS3g4NzVMbEt5ME9WM3l4SEJYRVk3WjFfLXZtT1ROODkxN2JvNTIwaGxnZ19LeWVHVEFQU0czNDBkZ3FjS2doOVY0cEs5S2Q2TTFSRW9NUQ?oc=5",
+   "date": "Sat, 21 Nov 2026 17:11:07 GMT",
+   "vu_le": "2026-11-22T06:40:35.537023+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "3 US Brokerage Stocks Built For Higher Trading Volume - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWTZuOGRESE1qZkkxLTR5UW5XcW9MaWRfMFAwdEJzUkZmSi04ZFRhVE9QM0xwVXJLMTFCRDdqaFl0YnU5UzJZVUhEdDVxVHRlVm82SERFNjQwXzdQT3BwdFYtRm93bmxRMkdkUGdFZ255VU1ZTkl4bmdoU3FnbGhoZlhsWnRVcG5KZHgxcDhJZ09QcjBLa1VVYjBGdkVCLUdudzBZUHRoMkJyNDhjLW9SVDR5OUdCbjhVMUxQM19heTg2a0ZrUXVtSUsydVl1YmZDUnpEMVdxcVZIc3NJQm9RU1RYZk5WZ9IB6wFBVV95cUxNQXlkc000RlV4V3gzbWJFcllSQ0pEMGZmdThPajdldXVoYm9oeWJCZV9MS01xZXVxS0VfZXZzdU9zSFlwX3A1YlNsdGVvUDl5Zno0dTRsa25JZEM2WkkxQUxDa2hySlRNa08xcGRLUm1rRWtBVU5YbWxXVUZ5Z05oYlplVGlqQWJ6OTh0eFhlM1F1dWtJVHlYZm5ib2VJZ0JBMjc0WV9TaWtqTkJHMEFlSGdGakFrZk45cGZxSWlZZExvejhkYUd3NnllSUxIVE9QaU9QR09TMklsX1B3eGRSVGtBWWZtcXN1VmpB?oc=5",
+   "date": "Sun, 22 Nov 2026 06:16:51 GMT",
+   "vu_le": "2026-11-22T06:40:35.537023+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "India May Be The 'Anti-AI' Trade. UBS' Gautam Chhaocharia Names The Sectors That Could Benefit | Profit Exclusive - NDTV Profit",
+   "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb1dqM3hZRGtWWTgwVm41b3F6blRHelhrb1BsQ25VR0RBc0FPSDk3RXhfVjdreDVUb0tPVTc4bTQ1SlFyTzFXVXhFdjAyNFlVTVJHTXhTUUNQZm8yMERWMFJieTVsVXEyOHRxSzlzX2hiVEI0R3lMOTZTVTZIbnRoUmR2UGRkR3NtRzQ4NTVmbm5HMWlFcEg4SUF4ODVPS1ZMOFBDQ3hRekx2NGlKdzhzNG1EcTQ4M2FscU1vSW5DVTNOVEdDcEdEclQyVEg5eWZqQ2hmTndpZGI0bE1FbUM5aUtubThwWS13bjJHa0JWa0zSAfgBQVVfeXFMTUhSZTdlbUVIUUdJa0dXcHpucXhOY192aThkVDBlUXlhdjAzTFVSN3JQOEN3VGx4Y1hvdTJyRlpac1NLdjI4S0lnWEZEcV8zTlExcVVfLWVXa3RPZW5yczY5SWFKc24yNUx5d0xSdWNIbkUtTjh0RUVlLVN1MGtfU3FVaThhdlN3cXBMczAyNlF0YXQyeG5ERzBkMy00WEZzVTNOd3RDeVROT2tJX0R4UjVlU0tJblJsZTI0aFZxdlFtaVZ6Uk9yM1NjV181T2hNS2JjSWNkV3JPR1BjUzhIdVBNbGtXTHpzMVI3Smo4VTczd1o0TnV2Nnc?oc=5",
+   "date": "Sun, 22 Nov 2026 06:30:06 GMT",
+   "vu_le": "2026-11-22T06:40:35.537023+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Nifty Eyes 26,000: FIIs Pour Record Rs 1.12 Lakh Crore as Banking Rally Leads Markets - theopenpress.in",
+   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWVFpMUpyVDA0b3B6MkpKSXgyazhUbXpPTnRxNElhMmRyVVFzR09kSU92cldwQ3RnYTlISlVadkw2a05RUWM4dEZOdG14NVo4QXR2MjF0MC1Wdm5lY3hpNUh5S1RZOVE1WDQxM05tT0xPbTNobWFxVGRyRkIyUFNDREZ2R0dIZw?oc=5",
+   "date": "Sun, 22 Nov 2026 04:23:54 GMT",
+   "vu_le": "2026-11-22T06:40:35.537023+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Outlook: Is a More Restrictive Fed Reducing Market Demand Appetite? - FOREX.com",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd0xhM1M1bndEUm02djUwX2V0TDdOYmpuLWlIS3dNT082WTlIeFBPVldOY05pdGFxV21yVEpDaUdILXhIU2toanEyQlMtTG5PcjBobXBCM3QydXdyak5acFE1MXFiZG41UEtPSXM4OXpsODRPQVg2RnFCQVVucVBQc25DYTlEdUNJWnZJR1hza2pVaEw5dV9IcXJtU2pBekVQQU90aGNsUmlEOGJtRk1PaUE2bU9yVHF1R21r?oc=5",
+   "date": "Sun, 22 Nov 2026 06:36:20 GMT",
+   "vu_le": "2026-11-22T06:40:35.537023+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "Jensen Huang Resignation: 3 AI Stocks, Flash Sale Claim - shattered.io",
@@ -6516,41 +6551,6 @@
    "titre": "Cigna (CI) Stock Could Be Cheap As Shares Drop 4% - Simply Wall St",
    "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakM5RlRCeVcyNzhONG04ZjU5SHVWQnhvRzQ3RjJNSDFWZEpJVWwxVGRQRnBHVGJ5aGpMRTFvZk5zWUhRLWx3ZUlfVmk3ZHUtTVIyX1hrYV9ORVVYRzlLU0R3bkxyN3VZVldsTFJiYkwtMF94cGFhdUw3RkZmN2wtOHY4R05VRDRnOVJobDRYaWd1NlBISWFFZEJYci1QTE5uRnhvWDZOT1ZXUzdELXFFeVVvRkrSAboBQVVfeXFMTkR6SU03cm9pQlJnYktPZFJtOW1ncXIzMXFDS0RzU3o1T3hsamU4a054M3dJYU44RzVyblhDNGlRelhJaXYtNlhCTzFjRE5Ob20tZW00X2lzYy1MM3BIUkNSaC1xdmwtenl6V3lKRF84T1BTUXFKOFZTSXkxeTVyRUJIQVVKS21uQkF0T3V3WWh4aGswUzd5enJiZ0lxaXJEYnR2MlgtUFVDYnRja3Y4SVhuNzNqZ0VrSmhR?oc=5",
    "date": "Sat, 21 Nov 2026 15:13:34 GMT",
-   "vu_le": "2026-11-21T17:10:40.843652+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Coherent Buyback Puts Fabrinet Stock Back In The AI Infrastructure Spotlight - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObmIzYzJDRmFDazA0NzFwbXkxXzVEWUVPOWM1UGFHUlZQQWI5Sm9TSkdZdWxfbm5BQmtFRDVvbHotU2k1SWxkNTBqeERGOHA3eXNxc2tSVVVaaHNBWEZNelBvbHdHTWxpbTZoN1lxT1p5NTJmdmhWX25jZHlqeGRLWi11NE5oRkJCcTVQWUY2QTN0ZTZwa0xsajFoSXRlazd5WEplM25SUGNnbUdfOUFLWHV0cUF4SXNnZXpJ0gHAAUFVX3lxTE85WGxQLWd1LUNOSzlJU3MyQy1teDBnV1BySXFmcjBiZG1XWTNaU3JwMkdLTmhLakNua3c1ZmM3dHlNbDRHUWdYbEU2ZjJkaGJ3TTNZdlZfTm1yVGtxX201VzBJV2NTSHNHWWlmM245cnJkVEZ5SlVWcDlNVnhmY2xyLTlwZDV4ZnE2R1laakVnN1BsZjdTZ3FoejN4d2RraWROQjQzWnBKaHFnQ1V5UklQREQ4cWF6Q3pNaXBmaVptOQ?oc=5",
-   "date": "Sat, 21 Nov 2026 13:09:02 GMT",
-   "vu_le": "2026-11-21T17:10:40.843652+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "NSE Nifty 50 Gains 10.7% as AI Sell-Off Redirects Flows - Multibagg AI",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMm52am9mQ0dtVEVmTFR5NVg4UUV4cW5RbVk1dXlxWHJ1c3oyazJBQ2Z4T3FIaGRMbzNOVGdqb1hlN3E4M0hRVXJ6c2JONXRvLVM3SVk1VWNGaksxclBtZ1dIcWJNZERfbjNOSE1MR2I5MGtNdTY3a19RTzRfMVdjSTJQaGRkQy1OUl9KT1EzQTNCX2pINVRZY3d6ZkNHaEk?oc=5",
-   "date": "Sat, 21 Nov 2026 04:00:40 GMT",
-   "vu_le": "2026-11-21T17:10:40.843652+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "What Does Diageo (LSE:DGE) Risk From India's Scotch Tariff Shock? - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOenJVS1ZJOEQzc1BRYXlyMEJpZE1KYm5tSUlza2xiMEY2ZGpqRVU0ZFFCQ2FUNzBaTFhtUHJEbFl1aE1wWTlOdHVqNjZ4bmluaGJpQ3F3QUJOMFpQcmh5UVpOb2dFYmxrai1OVXJfV1ZlOTU1dVAyT2NJSV9ZOFNzVnlPOFJMbG5vMEVGalpjQnJidGJ4RlROc3RoNXVKQm5ic05YTjNSZVRsbk5zQ00zVGJUaldOSGVhSGlVVW1tVWU0a3gyMzZyY3ZvYlNzbGJkV0ZiYWIwYUt3RV9ITFHSAd4BQVVfeXFMTnpyVUtWSThEM3NQUWF5cjBCaWRNSmJubUlJc2tsYjBGNmRqakVVNGRRQkNhVDcwWkxYbVByRGxZdWhNcFk5TnR1ajY2eG5pbmhiaUNxd0FCTjBaUHJoeVFaTm9nRWJsa2otTlVyX1dWZTk1NXVQMk9jSUlfWThTc1Z5TzhSTGxubzBFRmpaY0JyYnRieEZUTnN0aDV1SkJuYnNOWE4zUmVUbG5Oc0NNM1RiVGpXTkhlYUhpVVVtbVVlNGt4MjM2cmN2b2JTc2xiZFdGYmFiMGFLd0VfSExR?oc=5",
-   "date": "Sat, 21 Nov 2026 07:09:54 GMT",
-   "vu_le": "2026-11-21T17:10:40.843652+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "HYPE price on Nov 21, 2026 at 11am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjBZZHR2ak9Fd0tVd2d4UUhjbER0RkRnM1lUWTVtVFR0RE54dzhseXhhUGFqOVF3S21GY2xveE5HQWtNR193QnNJY3FqWjJiU2w2SUdVT1U5LVg5TDB6c0JPXzRVbmNkQ014OWgwSXJ3Mmw1RHdhR0U2XzFiSXY3bGJpaHFFUUJ3NkV0WGVUczdtczBXbUdvdDlzQ0pHVXpjRjRYT0tzTTB0ZUZCR2Y5aw?oc=5",
-   "date": "Sat, 21 Nov 2026 15:04:33 GMT",
-   "vu_le": "2026-11-21T17:10:40.843652+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Crypto Crashes Pile Up as Once-Diehard Fans Chase New Bets - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWNlMVlXUVVHQ29HVTRrOF9uZEdKT3dPa2F1NndhRVJJSG9oLXZqenpoazV4NG9YWEFOOGhBTk02TUw1UFp2YkhMdUJkQk4xb3Uzc0t5MDl4VmxIZ3hOTEZMejY3bU40VWQ2ZnFoVGxad1RCN2ZtZ0w0dHJjMW93R2xwYXF1VFl6?oc=5",
-   "date": "Sat, 21 Nov 2026 13:30:00 GMT",
    "vu_le": "2026-11-21T17:10:40.843652+00:00"
   }
  ],
