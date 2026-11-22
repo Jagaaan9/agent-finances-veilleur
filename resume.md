@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53619.73 EUR, jour -2.31 %, mois -26.01 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53664.83 EUR, jour -2.23 %, mois -25.94 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,11 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] L’investisseur futé: devriez-vous acheter des actions d'Anthropic ou non? - Journal de Québec
+- [Banques centrales et taux] Prix ​​de l'or aujourd'hui, 21 novembre : Il continue de baisser de 100 $/once, pour atteindre près de 3 500 $/once. - Vietnam.vn
+- [Chine et Asie] Hong Kong Stock Exchange Today: Hang Seng Index Drops 1.55% to 23,637.60 as Tech Index Sinks 3% on Nvidia Fallout - BBN Times
+- [Petites valeurs en croissance] Compass Group (LSE:CPG) Stock Could Be 22% Above Fair Value Following Portfolio Rebuild - Yahoo Finance
+- [Pays émergents] Broader markets underperform; Kaynes Tech, Inox Wind, CreditAccess, KEC International down 10-15% - TradingView
 - [Banques centrales et taux] Les experts prévoient une surprise sur le prix de l'or après une chute proche de 3 500 USD/once - Laodong.vn
 - [Crypto] Anthropic IPO Buzz Builds as Crypto Bettors Raise the Stakes on ANT Valuation - Yahoo Finance
 - [Crypto] Russia Opens Bitcoin Trading as Moscow Exchange Eyes Dec. 1 - Cryptonews.net
@@ -455,9 +460,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] Que s'est-il passé avec le Bitcoin avant ces deux introductions en bourse historiques ? - Vietnam.vn
 - [Bourse de Paris et Europe] UBISOFT Cours Action UBI, Cotation Bourse Euronext Paris - Boursorama
 - [Chine et Asie] China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com
-- [Crypto] At 74, a Machinist Planned to Pay for His Nursing Home With $150,000 in Bitcoin. After the Crash It’s Worth About $90,000, and the Loss Will Get Him Onto Medicaid About 5½ Months Sooner - Yahoo Finance
-- [Bourse de Paris et Europe] NVIDIA Cours Action NVDA, Cotation Bourse NASDAQ - Boursorama
-- [Chine et Asie] China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com
-- [Marchés mondiaux] Stock market correction? This chief investment officer sees the S&P 500 soaring 45% to 10,000 - Fortune
-- [Banques centrales et taux] Cours de l'or la semaine prochaine : les perspectives de reprise restent fragiles. - Vietnam.vn
-- [Défense, énergie, matières premières] Red Cat Holdings, Inc. (RCAT) stock price, news
+- [Crypto] At 74, a Machinist Planned to Pay for His N

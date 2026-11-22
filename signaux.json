@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T05:40:36.348724+00:00",
+ "mis_a_jour": "2026-11-22T05:50:34.830775+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53619.73,
+   "prix": 53664.83,
    "devise": "EUR",
-   "jour_pct": -2.31,
-   "mois_pct": -26.01,
-   "volume": 15.45908767,
-   "volume_relatif": 0.06,
+   "jour_pct": -2.23,
+   "mois_pct": -25.94,
+   "volume": 16.77645067,
+   "volume_relatif": 0.07,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3754,6 +3754,41 @@
  },
  "actualites": [
   {
+   "sujet": "Anthropic (FR)",
+   "titre": "L’investisseur futé: devriez-vous acheter des actions d'Anthropic ou non? - Journal de Québec",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSVlfMkptU09yWUFkbEo3TDBZczB4VWdMS2NSSGU5UlExWW5CbnBVT1FCS1VraFlBdUJURzVRWlFvUTE3YW80THZ3SUI2cmx6UHYtYVhTZlVvWURpbWpjWlRyaVluUTgtYkF4eWV2QjlvOE56TDZzUzB5SEZva3NRSUNrWjlYTzhYV29laDZjdVlNQQ?oc=5",
+   "date": "Sun, 22 Nov 2026 05:00:00 GMT",
+   "vu_le": "2026-11-22T05:50:34.830775+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Prix ​​de l'or aujourd'hui, 21 novembre : Il continue de baisser de 100 $/once, pour atteindre près de 3 500 $/once. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNFM5UnZTZWZoaU5peVFtWkJXbXFpYndKMmItblZjZGdBOURpRHJobDQ3NXl2YXFsbi1GUHVNQnMtbjVaUnNjdG5hc3U4Q19sckEzczFsRmpmNV9jeGlpeDlzYVFCQVB2WDJwd3JpWGFUQ0FNYnY2MlJKbmp4eTlaTVdqdDBrVmtoZFV0WnF2bGo0QXpFdWpHeVNTU1F2amRC?oc=5",
+   "date": "Sat, 21 Nov 2026 06:28:46 GMT",
+   "vu_le": "2026-11-22T05:50:34.830775+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Hong Kong Stock Exchange Today: Hang Seng Index Drops 1.55% to 23,637.60 as Tech Index Sinks 3% on Nvidia Fallout - BBN Times",
+   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZW9mUGVJZlB3djNoNmZ4a1FIdmdMWlR1TnhTMFZsazI4dV9ySGtjYmFLbENOSXNTN1VSdjAtWEo1b2FHdUN2TXV0X1ZudVFQVFBLa1JOQ2syUmtmV3UzblNRZFQxbFVUbi1QWUVEQUhqeGVhTWJaZ0hZRlJxeEJYcW1fM2ZpYXp3c2hCVU01VXh5TWtSdVBvNWJVeUxoUDdpdVZfWVBJTmZmeVVYYXd1RGtxNk9WWkkzclo2RzRtcWtjV3REd3c2Q2I3eERUejNPRjloX2o0MU5RaW0xX0E?oc=5",
+   "date": "Sat, 21 Nov 2026 07:52:50 GMT",
+   "vu_le": "2026-11-22T05:50:34.830775+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Compass Group (LSE:CPG) Stock Could Be 22% Above Fair Value Following Portfolio Rebuild - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcWlXWlFHMFQ0YU9xS083S08wVk5BbXlEQ2FXd2pTa1VnLXVJdGJjdVhSMjYyVEVCaGlNeDhzb1E1WUZVS1pBODh1TEg3NzVJcm5tQXQ1dS1pMmRyTHA0RGdwVWE1VUV4WmE0MF9sZmRWbU5NWjU4SnZSZ08tLXRGaGRXLXh5UzhvWmkzamV3OE14c2FrdE9OTzF5NldlT0VQanc?oc=5",
+   "date": "Sat, 21 Nov 2026 13:30:41 GMT",
+   "vu_le": "2026-11-22T05:50:34.830775+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Broader markets underperform; Kaynes Tech, Inox Wind, CreditAccess, KEC International down 10-15% - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUjNBTEFLQndnSlZOaWIyanZzcTVpSDFDcEVPSkh6V0xObHl3ZmM0b2RLcUpvNy1uWHVKNXRtTFF0NXNSS0RjNW9zaUtndmcxZ0lXNWdEdW9wZ3Jqem1NX2JVLTZ6c1ZFLVZQUGpNazVWUUl0MklxaXBPVWhqMTc4Y2NUSTVEU29NYzlSdWtwaVFjMFhHTUEwZ3N1OHZyNmR1MmF4YkdWajFzSXlLR3RJLWljSkxQcjlZLWhWTlRqNFJwNTh1UTRHandvdG9lNjl1emVVbXVMa3l0dTY3dF8zZ2lrek1QX2pBampB?oc=5",
+   "date": "Sun, 22 Nov 2026 05:03:00 GMT",
+   "vu_le": "2026-11-22T05:50:34.830775+00:00"
+  },
+  {
    "sujet": "Banques centrales et taux",
    "titre": "Les experts prévoient une surprise sur le prix de l'or après une chute proche de 3 500 USD/once - Laodong.vn",
    "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczN2Y0pGd3huOE9XTF9lWTJTMkhUeU8zR1BWTV81aGlRWUVGaTBTU19DZllLXzVudk14NlkxWVZ6MXFEMk1iNHctd0F3UkVMblFYbnUtQ19mRFlCaXR5aW1yLTJrWGVZZDFCeU5aUmV6d25qWmQxR3AyckU2NnRBU1Q4YUYxWTNoYW85d05aQ1VudmEyYXhlVU1uczRMa3RKWEJ6VVhNS0hKc19pTHV3bQ?oc=5",
@@ -6517,44 +6552,7 @@
    "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWRyb0labTgxVTE3OFZiZXprQWpmMGszOC11UXE2U0RNMlpDd2xBSXB5czhsX2huWlZQU2xhLVRJdDRtdTg5QjlRSUxENFk0WGRkZU5wdDVHZFNDVGlVZjJucmhhMkszNUE3OWd0UFg1RVMtYnFHWlEtT1pXbzVCYmwxUDlIV3R2ZFdsSjF1NllaVFJQV084cTRnbk1uSERn?oc=5",
    "date": "Sat, 21 Nov 2026 16:16:58 GMT",
    "vu_le": "2026-11-21T16:40:37.272198+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street's AI Sell-Off - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbVFiSFQyZkVZQnhMSWJEMkliQ1Jrb1RiYXBSbTlId0kybU5KbW1XOGpuRDdXSE9wZGFOTWo2QzJZV2pIWXVlVG9Xd3pZek5Wd09sTGFDMHgxdGFzNkNtOVM4bDNNdTZsZUF3d2otZnhaaFRqbm5JWWZPRlBzVnZudllNVWpSUVdHOWFLVUdjaG41SzJa?oc=5",
-   "date": "Fri, 20 Nov 2026 21:55:02 GMT",
-   "vu_le": "2026-11-21T16:40:37.272198+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Le CAC 40 chute de plus de 5 % et signe sa deuxième pire semaine de l'année - ABC Bourse",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPREFzbk5LZUJ3MndCcGQyX1lEZkFrTFhHb0RrRzJHclU2WUdiMGg3LW9tQ2ZDd3NvVlU3ajgxODZ5TDAyYUZpXzByT0xEQVVJYm9IZTU0VWNxajhlVmQtRmlwd2M1QnlMQzBVSU1wS2hXSjhrWnUyZW00VXRJV1YySWNDXzV4UHhVVWNyUVVudnlpd3VkMTRWeEo4WV9nVnNZLXp1RTFBUzhEZkt0QXBnUF9NbGw?oc=5",
-   "date": "Fri, 20 Nov 2026 17:31:53 GMT",
-   "vu_le": "2026-11-21T16:40:37.272198+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "ASML vs. SK Hynix: Which Artificial Intelligence Stock Is a Better Buy for 2027? - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnNXU29aa1Q5Q1VOdzhGZ1dmWGp0dl9FbDc4Q3luVl9OLVY4NGl4d19iWFV0ZFdIVVpkVm5XVFUtTGFoTF9WNzViWUEwRG1zVHdtXzk5bkxkVm5yLWdud0YxRHo4VXFHY00wY2sycTB1SGxPdEhvRzVhQWRsUkk0SGhSR0l1RGpSMGpkZFJySGxwSE5Yd3JqM2praE5EWlNlaDRNdzRiT2tEb1M3TktSd083enFDMFJnNXd5Z3d4NWtBMUVNcTl6akhR?oc=5",
-   "date": "Sat, 21 Nov 2026 16:25:01 GMT",
-   "vu_le": "2026-11-21T16:40:37.272198+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Top 5 crypto biases every investor must overcome now - shattered.io",
-   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBocFlkR1JpSTVRY1pzQ0M4b1BGWFlURHNlRS1Xem5relpYN3d1NUR3cEwyZ3NUeUMwdkJHczFPWnRTTzF0dEU2MVZPRDNyeEx6QW5TelRySzNnOXg0b1YxWWtTNEJzNnpTc1dzWDcwX2R4eTg?oc=5",
-   "date": "Sat, 21 Nov 2026 16:39:23 GMT",
-   "vu_le": "2026-11-21T16:40:37.272198+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "IPO d’Anthropic : 74 milliards d’euros levés, les chiffres - Luxe.net",
-   "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fLVppQU5tN3hzeHB0cTVUbE9fTnBqY2VLQ0VIemUzakw3YWtNQWxDeUNDbXNDUDA3WGFlclNQa29OZG1PMXBKYXF2ekhwMXpfUVNqd0VPeTEwbmk2THNmUUMzMEk5VERkdnNEVjhR?oc=5",
-   "date": "Sat, 21 Nov 2026 14:28:17 GMT",
-   "vu_le": "2026-11-21T16:30:37.721371+00:00"
   }
  ],
- "erreurs": [
-  "actu Rachats et fusions: HTTP Error 429: Too Many Requests"
- ]
+ "erreurs": []
 }
