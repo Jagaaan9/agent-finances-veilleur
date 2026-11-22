@@ -12,8 +12,8 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3533.7929 , jour -1.22 %, mois -5.53 %
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09705 USD, jour 0.05 %, mois -2.18 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55428.65 EUR, jour 0.98 %, mois -23.51 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09677 USD, jour 0.02 %, mois -2.2 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55423.01 EUR, jour 0.97 %, mois -23.52 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,12 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Trump Blames Midterms for Falling Stocks, Then Touts Post-Election Oil Drop - BeInCrypto
+- [Banques centrales et taux] L’or s’effondre comme en 2008, Peter Schiff affirme que c’est justement pour cela qu’il est haussier - Yahoo Finance France
+- [Banques centrales et taux] Hausse du dollar : une bonne et une mauvaise nouvelle pour l’Algérie - TSA - Tout Sur l'Algérie
+- [Intelligence artificielle] Nvidia’s Chip Sales Targeted in California Criminal Probe - PYMNTS.com
+- [Intelligence artificielle] Amazon Nears $7.5 Billion Purchase of AI Startup Decart - PYMNTS.com
+- [Défense, énergie, matières premières] Dow drops nearly 950 points into correction as tech sell-off spreads and Fed rate hike looms - Pluang
 - [Rachats et fusions] Should You Buy Tesla or SpaceX Stock Before Their Potential Merger? - The Globe and Mail
 - [Petites valeurs en croissance] “Buying Undervalued Blue-Chip Stocks and Closing the Trading App” ... Meanwhile, a Look at ‘Even Cheaper Stocks’ - 매일경제
 - [Petites valeurs en croissance] Luzerner Kantonalbank (SWX:LUKN) Stock May Be 8% Undervalued On Excess Returns - Yahoo Finance
@@ -456,10 +462,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Défense, énergie, matières premières] Defense Stocks To Keep An Eye On - November 22nd - MarketBeat
 - [Crypto] JPMorgan estimates Bitcoin mining costs at $86K as price sinks far below - TradingView
 - [Crypto] Crypto Analysis: How Long Could Weakness Continue Across the Market? - FOREX.com
-- [Crypto] Bored Crypto Investors Dump Bitcoin to Chase Massive AI Stocks - Cryptonews.net
-- [Chine et Asie] Alleged China Access to Export Controlled Chips Fuels Securities Suit Against Alibaba - The D&O Diary
-- [Intelligence artificielle] No new curbs on Nvidia chips - Taipei Times
-- [Résultats d'entreprises] Earnings Beat Could Change The Case For Palo Alto Networks Stock - Simply Wall St
-- [Petites valeurs en croissance] Learn Why The Bull Case For Ionis Pharmaceuticals Stock Could Change Following Alzheimer’s Trial Data - Simply Wall St
-- [Anthropic (FR)] À l’instar de SpaceX, Anthropic a mené un processus d’introduction en Bourse inhabituel, au grand dam de certains banquiers - Zonebourse
-- [Résultats d'entreprises] Intel Q2 2026: Revenue Up 25%, Dat
+- [Crypto] Bored Crypto Investors 

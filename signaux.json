@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T22:40:36.164877+00:00",
+ "mis_a_jour": "2026-11-22T22:50:36.489337+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09705,
+   "prix": 1.09677,
    "devise": "USD",
-   "jour_pct": 0.05,
-   "mois_pct": -2.18,
-   "volume": 886,
+   "jour_pct": 0.02,
+   "mois_pct": -2.2,
+   "volume": 1136,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55428.65,
+   "prix": 55423.01,
    "devise": "EUR",
-   "jour_pct": 0.98,
-   "mois_pct": -23.51,
-   "volume": 168.50979359,
-   "volume_relatif": 0.7,
+   "jour_pct": 0.97,
+   "mois_pct": -23.52,
+   "volume": 170.50904638,
+   "volume_relatif": 0.71,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Trump Blames Midterms for Falling Stocks, Then Touts Post-Election Oil Drop - BeInCrypto",
+   "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JcWFmRXlycG0zckVkNWhtY1J3dFBWMHRDMWdQbXFPUWloUzJ2TjBxLUJfSHdtcVc0UzFELUdjT1hDWUowM1FRdURYVjhXUUtFYzhsNXhSS2xDNWNjVXZSSktneFZUeTFDWjBWM0x3?oc=5",
+   "date": "Sun, 22 Nov 2026 18:50:38 GMT",
+   "vu_le": "2026-11-22T22:50:36.489337+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "L’or s’effondre comme en 2008, Peter Schiff affirme que c’est justement pour cela qu’il est haussier - Yahoo Finance France",
+   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUWlkWW1jQnpRNDQ3THAtNkNTSG5KeGhYNFkxcUE0QnlONHZ1djJmZ0lscUpOcVdPd1BRVGtVR1JTYnhEMFlqVk1rbENfa01vU0VLenJ4eFJVTjNpT0pvWXMyRGI0Y19SLUNkUEdUZ1pIY29oUFU0QUNkU3BUVVF1ZQ?oc=5",
+   "date": "Sun, 22 Nov 2026 17:51:08 GMT",
+   "vu_le": "2026-11-22T22:50:36.489337+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Hausse du dollar : une bonne et une mauvaise nouvelle pour l’Algérie - TSA - Tout Sur l'Algérie",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNek9VNDhwVkpleTNsYWM2ejhQQ2RSQ21tMVlnNlNRTk5JQmI2M1FhWHdDQUFac3JVem94VEJjd0VVUGJJbXZNNndUV3RuVFh3TldyekJQYjNENjlUZTEzeVljMVNUelQzWXJqb2hlSk5zc1pjOHJIOVdEdEpUMUZUSlJVcUFDbW41eGdBLVlJSjhKMXFJSzJPMml3?oc=5",
+   "date": "Sun, 22 Nov 2026 15:06:23 GMT",
+   "vu_le": "2026-11-22T22:50:36.489337+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia’s Chip Sales Targeted in California Criminal Probe - PYMNTS.com",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdXBFZ3kwbUFveDNEMENUZnc4RUxCaXRNUHhxVDN5anE3cVZNRUJkT2pJTWQxVFBVRWdtTUNsSDI5S2xXOUhXM092QWRJZEtFUkduMnVjR01XdGY1NnB6bUJ2RlBoQ3pMM2ZRSTdNbl9WbDJTQmIxTXpEQ2FkMlNBRlNVZ3FMQVlXR25KOTlpdGdSNlJnOXc?oc=5",
+   "date": "Sun, 22 Nov 2026 22:46:29 GMT",
+   "vu_le": "2026-11-22T22:50:36.489337+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Amazon Nears $7.5 Billion Purchase of AI Startup Decart - PYMNTS.com",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZlcwRzJaaUdqUEpSSWNPa2U5N3VLRS1EQXhtRGxGWU1CMFFsLXhiX2xzcXlUWnNKTkVINVVSVkN1aHFwcUstbTZsckFLSmFYVHJwVlgzdXM5UFhZbFhEa09fVWNEZXc0cEJrT1B3c0hLSVBINEx3Sk9tOW9od2V3WjFLRmN4Mm1jSFBZNWNXelVHSU12dEkzTV84V1lrT0pydUJUUGpZYlQ3Vk05bXRzTkhn?oc=5",
+   "date": "Sun, 22 Nov 2026 22:41:29 GMT",
+   "vu_le": "2026-11-22T22:50:36.489337+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Dow drops nearly 950 points into correction as tech sell-off spreads and Fed rate hike looms - Pluang",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdDN4S09leVdhUG1wSV9VRnMyVk1pcmVqOTZfYXUtM3hxallpbUs3OGQzbWFVVndnWGI3LTB2N3ZkdXNMS1BHUDNPTFp3R21vRHFHUnZidmJ5b0Rab3BWR0R1YmNNMHhZLTlhXzdSWGV2V0pQWnE3WDBGXzZHdkcyTlYyRjR1TFJmZVMyTU9CaU5fTDRJ?oc=5",
+   "date": "Sun, 22 Nov 2026 10:14:03 GMT",
+   "vu_le": "2026-11-22T22:50:36.489337+00:00"
+  },
   {
    "sujet": "Rachats et fusions",
    "titre": "Should You Buy Tesla or SpaceX Stock Before Their Potential Merger? - The Globe and Mail",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOakhFbTIzRVU5cXdMWC1oV2hVYk1qSlM5VUNCd2JPMkxsb3Y2Z3NSd2l2b1lLUXc4MGIwU21PNFY0RFh5cEY3SGtiZk5fVzk1b1Q2dHBfNFJCbkU1X3NKLXpDekRRZEJ2UVN1ekctXzJsX1hZdy1OUUJkcWR1ZkY4MkNEMjNYbFNab3JTYkRHcnM4dUc3Yl91QUloMFp5Ul90?oc=5",
    "date": "Sun, 22 Nov 2026 09:49:52 GMT",
    "vu_le": "2026-11-22T10:10:35.138624+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years - CryptoRank",
-   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGRWOW1VcnREQWtkTXdIWUdpX0FSdGdhaXp2dm9Ubk9iSVVUeXNyekpuLXoxaV9mTjAtbV9IaDJrNjVZOHltbmR5cFE5S2QwdUJyamoxa1NieXVXQ2pyWVhqcnFSVXA0dFAzM1h5VG94b1NFcTlmMVZ0V0dDbnMzcFBjYVREWUdGQTJJSWppNHNFWDV1d0ktVmRCSUNzN0F3QWxJcXIyTjlGQQ?oc=5",
-   "date": "Sat, 21 Nov 2026 16:20:31 GMT",
-   "vu_le": "2026-11-22T09:50:35.990899+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Quel avenir pour la BCE ? - Economie Matin",
-   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BRlFHa2YzdWVXMFJHaWl4Zmp5MzAzaTYtVTEyazFNdHRQSlZRMXlOd00xSkRsQ0ZCbnZVLU55MW9tdHZscXFWMF9CWkE5aC00b0EyTS1zdWx0ekZLaC1iMDVUaG03YlhDdVVpYVY5WFlrT05sRjZZ?oc=5",
-   "date": "Sun, 22 Nov 2026 09:44:00 GMT",
-   "vu_le": "2026-11-22T09:50:35.990899+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Xinhua Headlines: China's tech innovation engine powers a connected Asia-Pacific - Big News Network.com",
-   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSGJhSFMydzRhS1p0RFZldTNsV1o5Ni1aSTc3ekpMMlplbllrQVVYckdDamdWV0RGajZZcUNpUGlzQUdDM3RvU0lCNFdMbzZMTFhKNWd3a1JuM1dWZXJZZTZJcE9CUDZDSkE1a1FER2xHMGlFWndwWmNnS3B6WV9qZkZyMFM0R1ozTEFkZVYtckZ5dDJHNUJUSmUwNkIxLVNyekc3WDJWd1hRWXhNSV9KRHNKTEpSM2Z3dE5qU1p6RGU?oc=5",
-   "date": "Sun, 22 Nov 2026 09:28:00 GMT",
-   "vu_le": "2026-11-22T09:50:35.990899+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZDZLQWo5WnRfdmowaXhNMG9MTThlejV1QWtXUzgwd1I5UTJqLVpsSFE0dFdUWXEwa3pia0xQRWU2cjV4b3Zhd2kyZkU0ZDVZQzNLU2JzdDFPc1dxOTlreUg4eU1NWVpCcUphWEs2a29rS0ltWFZKN0pCQmJPTV9WWDB6NW1EOXJOMXVGTmJRVVhBZVBiaFZjZVpxdVZZbHYxeWhiWjJRR2x6emhPZU1RaUJZWHFLM2FCRVVZUXFnS2ZjcmVXSGlWMzF4TkV1MmtkUDRwVmEzQVhBV0ZycEsyVk9wMVBtU0VETGV4ZVIteWpqUnI0WEtBWV9DUlllR1hhR3pZZzJsSm45ckFSYzN6elZ4WExaRDhZZU5jaTFkcTZzeVFSUW56TW51alNLNi1qbEl1MW5NQllGeG5UVkVER1F5WmJ2RHlmdkFxSjNvcEZzUVhuMml1UA?oc=5",
-   "date": "Sun, 22 Nov 2026 09:34:10 GMT",
-   "vu_le": "2026-11-22T09:50:35.990899+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Broadcom Stock Is 27% Below Its June Record. Here's Where I Think It Will Be in 2030. - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdXkzMXBTdTV5SVg2ajM3N0tYdzl0eFZHaFVCamtlYXRTV2xfUGtOQTVvSmNWeFRkY01icUZSTy1rWE1EWVdwRTA5d2VzbUNiNlZWTDZHbDVxRXpNdnhqRlFmMGdNUlpZdE5oWi1Zbm9PaXRaWHNGLUpGUXgtNGwtNnc0enNhS1pVb1A1TWdnOU9YdHltRUJmaElPNXh6eVRSMC1OcFRRelpxQ0VaNjNudG5NNEFRSGNoeHJWdFdMX0paTFdKLVNleHNVVUxHdWRzdVB5a3dNbWQxdklRbzJmaTJ4d1F3UFZ2eFBjcjBCbXVrdExkUFNVRDFtZzZXZw?oc=5",
-   "date": "Sun, 22 Nov 2026 09:39:46 GMT",
-   "vu_le": "2026-11-22T09:50:35.990899+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "NVIDIA Q1 FY2027: Revenue $81.6B Beat, Data Center +92%, but August 26 Guidance Test Will Prove Sustainability - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOSmppUFVTbFJ6dEtndmF2WUUxekw4NWQxMG1NU09JSFV3bVpvVEs1VnZaU1ZucDlSSHJScHA5clJwM1RUcEUta24xVW5tZHNSN0dScTItRkViakl5UTk3NlgzRlFvM0JPTU1DRG5ybVdPdjI3VDZEeVVMN1Zjc2dCTVM2Z055UHcxZTliZ3J0aVRPeGFycG15MTFRam5BazM3aVpVeGpDRXlPSjBYUXhlRENpd1BscVF1SWViM01FYW9vdXg0ZjB5OUNIU2pOSXV2VnBfS1puSzE0aEhhZlk0N2xMRDB4eDJEV2o2UmZtangyWWVNa05vbU5ld3ctUGQ2cG9UYnlDdWxlWGhUa3J5c3Rvd1pKZHp3Ym80?oc=5",
-   "date": "Sat, 21 Nov 2026 20:52:39 GMT",
-   "vu_le": "2026-11-22T09:50:35.990899+00:00"
   }
  ],
  "erreurs": []
