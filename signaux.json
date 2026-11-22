@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T22:00:41.369730+00:00",
+ "mis_a_jour": "2026-11-22T22:10:36.580043+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55504.73,
+   "prix": 55431.12,
    "devise": "EUR",
-   "jour_pct": 1.12,
-   "mois_pct": -23.4,
-   "volume": 164.94681649,
-   "volume_relatif": 0.68,
+   "jour_pct": 0.99,
+   "mois_pct": -23.51,
+   "volume": 167.17564824,
+   "volume_relatif": 0.69,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Trump’s AI Chip Crackdown Inflicts Collateral Damage Across Asia - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdXp0ODZqcDNzanpGNkNMTmsxMk93OXpvU2IzU1NKcFkteXdZcXdSM3dKM0lZc3Z0T3lSMXR4UGJ3enY5LWZVdnR6NlBGZENCcDNJYngxMkxKdFVzajN4VlZvMTg3X09vUHlNSFZEZEJ0M0NvSngxdlVjNDQ2OEhyaXYtenB5SVJ3T2tjemlPZjI0WjBTVC1RR0tRY0t3cDZuUDlZal85OVQxRjhiUlg2LV9uZV9yZWN1cng4dkZxNWxkM2F3ZlhpbA?oc=5",
+   "date": "Sun, 22 Nov 2026 22:00:13 GMT",
+   "vu_le": "2026-11-22T22:10:36.580043+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Here's What a $1,000 Investment in Broadcom Stock Could Be Worth By 2035 - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMVNCbndSQjlqa05taG81cGJDQUZ6WXdnVmFfREVsYmJUMXk1UTl1aWFFMnpvWHF2V0MyUHdSc2FJRnB3a2FqX25pSE9UWWxRS0JnN3RxUGU4WnZpcWxlTDRyVUt4ZXpZYkgxOWtYellHN1lJMUdNcXE1YTBtbnJSNVIyTmFoVkVISzVMYkpYa0xKN1Y0UFphVWEyTFc?oc=5",
+   "date": "Sun, 22 Nov 2026 19:22:02 GMT",
+   "vu_le": "2026-11-22T22:10:36.580043+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Defense Stocks Fell After the Midterms. Here’s the 1 Defense Name I’d Buy Anyway -- and Why It Isn’t Lockheed Martin. - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPYkNjWlFyV01ZbGs5TjdBX2thV05MbmZuMkVPaHE0WkdPeEJJc25teDExZ240RlBvRDRDMDhvRTgwcGJnMWVYSXUxdVdPVnVLdEZPa0NuQTJUb2FRY21BS0RZTUY1a3dWcy1weloxNm04NlpzZXpfVTVOZ0o1cldzUlhOQzQ0LWRLd1puemhlOVFucnBSTVR5Xy1SMzVJblJmYk01RE93V0dCUHRKaV81dEd2dzhBc1FtLTZ6UWQ0bkFTMUlWSWhWSUVqM05XQ2NoX3hZdmROVHNJX3h6b0ZEbkxpblk4RW50TWlJRmoybHBNeTQyWHY3QVdub2lqUExEd3N4MlJqdDItRmdWOTV6enVidzQzQXpHY0FHNkdXWEc?oc=5",
+   "date": "Sat, 21 Nov 2026 22:35:30 GMT",
+   "vu_le": "2026-11-22T22:10:36.580043+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "BTC price on Nov 23, 2026 at 5pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXA5aWV4ZW1kUzI1VWZpNFZSNWoyS1JBUklTbzJHNVNySXdZbnowODhsVXdUdDRqMmtDZDZ2a09OMEkxYk01SnZ2ZUhGVGtPOHNYenM2VVgtU0RzV2JDd2tNb1lwelk0ZXhlYlNhcWh1WDh1dGlqNlZDLW8zT192UElQRU1zMzBEZWJOZ29ZR3FOQzluc2ZqQlJKUXNHV3U0dWpqclNpOGFMTGpEV1E?oc=5",
+   "date": "Sun, 22 Nov 2026 21:05:15 GMT",
+   "vu_le": "2026-11-22T22:10:36.580043+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Strategy hints at more Bitcoin purchases after $33M buy - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5dXJNdno4R2kwYVNVZ2Z4dk1YbVEwVXc5RDljQ1lqVWpXUFpXckdiekZ5dXZraENuMmNFLUJ0aWNWaHh1eU91dURBQS14dGN1STJxV3lfM0JVbVg2Uk9OcmJPVlVhU2ZJa2I4d3FQQU1CS2c?oc=5",
+   "date": "Sun, 22 Nov 2026 21:56:37 GMT",
+   "vu_le": "2026-11-22T22:10:36.580043+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 22, 2026 at 6pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWEtRlQxS3hadEFkNkowTUpWLTJDUHM3aGoyOGpreW1XeFhnaWNlVmhERHYzMnlwT1AwbkdyRko5aDR6Sm1PRkJrQ0ppajh1SjNUTHNPaUp5VnVUeGtTTlRuMlpPX01ydmxXeFQzYzJodmthV1RpQVRhaVBhS0YwbFFMOW5BRi1mVUhpV0lvanVwVGR1ZjAtazh6alM1Sm1RMHp0N1Q5UWZYa0ZwVnc?oc=5",
+   "date": "Sun, 22 Nov 2026 22:03:12 GMT",
+   "vu_le": "2026-11-22T22:10:36.580043+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Does Ethereum Have More Upside Than Bitcoin by 2030? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGFpYTVlR3picjJ4elFiVW90UjRLYUczb3oxdFhBSFhMVW12TVV6VS1FeUczY0p3N3dOdk1kYjlMWEphX2hxOXpPakpXVzJUc01IZTBPWW9ld01FdXdjWnBfbVJaSFdZcVlTN0ozNE1CTXJQVVBINW5ZdW1JR3lZNnJNeGI1anh2VE1Cb1Rra2tYU3Y2YW44MjZld1J1cmwwQ19ydWlPV1Z1c28tX3Zn?oc=5",
+   "date": "Sun, 22 Nov 2026 20:47:00 GMT",
+   "vu_le": "2026-11-22T22:10:36.580043+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 23, 2026 at 5pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObXNkbzV1WGxxY0FscHNpODNyMHRWRFlpR0xOZlkyLTNNU2ptVU13clFfX0tqSi1abHZZUnB3VXhGMjdPWDFUTVFSdjN3MEJ1bm1ONl9tbGx6QnpmSDJKakttaEJfZDNSTWxDUnpEc0c0cEdRbGVDREhYMmxORUhfSEt1VDE3RjlaeF9RMmdFT0U0ejNxUFVCRXNDT1lldWljU0ZRVHo1ZThuRmpTTGc?oc=5",
+   "date": "Sun, 22 Nov 2026 21:05:14 GMT",
+   "vu_le": "2026-11-22T22:10:36.580043+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic IPO - Rutland Herald",
@@ -6496,62 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd0pZQThPRGhlYlljMWRaSXRDRFRPcDBFUW1UNjhsb1NxUGZtZGpHQlNHS0owa1RXcXFCT0hxMU1zV0xsRVY4TkczTnI0WXozdXlrbjVPSkJhTG4wR1dZbHN0ZmJoU2laQ1pXTmF6Sk5PbUZZaFNHM2hEaVBsQ3R5aXFTQXZ4TXd4b2JmM2dxcGZma3pDVV81UTFhYzZ5MGh6cGxpWXEwTUZXODlwVE81NlBqZDRuZWJfbU5DN2hRTW9saFNCUnc1M0FwS29iSVhrcTRVNlMtb3pKbGVmUG5Xd9IB5gFBVV95cUxONXVsRWtHV0FSVlFUZmNlSVFsZ3dya2JVOUsxOFZ3bnVTY3BTVFhmbFFjOGNXMFdNaUNpSUtTdHpUQ3N6MEstOGdqUENtTnlQS3NWWmNTelBnLUppeXFDN1dISVJHazR5OFc5Y3VlLUJnVnlFZjZOa0NhbmkwLWVmbGd4bEVhMjI0MkE5LS1lbE43RktLVGk2NHBtYjFRVUV0SUtUaWFjd3dLVWQ5SDZ5RWowckl1Vkp3UlhjeVJLSEo1eU8zQTE1STFMQUpzSFNZQ0ZUUTVhVTlWWFlLaEZ1NjA3ek5oZw?oc=5",
    "date": "Sun, 22 Nov 2026 09:04:37 GMT",
    "vu_le": "2026-11-22T09:20:35.199837+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Crypto Analysis: How Long Could Weakness Continue Across the Market? - FOREX.com",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWpjRHpLdEtDMjB3MkxmcmlUQUgybFBBYXVaR3F6NjRxeTlPZ1hCYVFTWHlNYVNtUkdlRlNfenNMU0tCbklfRktWc3lQdkdFN0tVYjZCYVJKZzFyb2RaVDZyZGdqTll6YlpmWEt5SjlRNTJWWmhiWjBhUHh2UFR1UTJlYUZsNWpOODRBMjF3eENhV3BVNjQtVGtJUUZIaEhaRmhoMUtzLXpWLXNCOEZV0gG7AUFVX3lxTE5tT04xb0JVbEZWRWEyX2NPOTB3dTAycHVucjJnX0ktaFpuaW51dkd4Q3prZXZ0T1BPdU4zRFVmcG1UVjJraHYxMWYwRjRacjk4blE1a3ZSVHpjS0JqRS1QNDYtOHFzY3Z0UDMyTWN5NzMya20zR2NEWHRTelBrUUdBRFVoRVRhd243cnl2QTc3QUN6WURROE1GRWIwOHBSYVlaczhCRFpnTXNwNHhKVTFMWW5jTFMyZ3BhQ2M?oc=5",
-   "date": "Sun, 22 Nov 2026 09:13:19 GMT",
-   "vu_le": "2026-11-22T09:20:35.199837+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Poland Crypto Tax: 19% Rate, DAC8 Data Swap in 2027 - shattered.io",
-   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUxDSThUUnRQLUV6OEpMSmZ3R2ZfM3pEZmE3OTFsTFVVVkd5UVlWQWlFeHNyVFc2ZzIyNWdvUU0yRC1jSVlhY0ZJdElIeDdPVUVHOWdFQ0M3eXRWamVid2FmQlNnTHRobi1iYmowTmdVcHRWMzFkU2hyY1hPenl5clI4ZDB3TTNhbGQzMw?oc=5",
-   "date": "Sun, 22 Nov 2026 09:17:05 GMT",
-   "vu_le": "2026-11-22T09:20:35.199837+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "AI Cyber Attacks Breach Systems in Under 3 Hours - Bitcoin Foundation",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc2RGN05OUGhQZVNGTENuYm5BaGVmbjBCSmlmYzRYZDFxUG5idlAzZWw4RDlMbnhlMXF4MDZVQUo4UzNsWGZiSTVIbVo0TS1BbTNIMnRLS0FCdEVLWXZNWEZWdVhfVUd6V19neHo0TnI4eWtoOUd2blpTS0J6UFVka0sxNEVydXIzMzZsR25zRXNmblczcDZyZHZCS3Q3ZWhNSktMM2lWNUo?oc=5",
-   "date": "Sun, 22 Nov 2026 09:07:35 GMT",
-   "vu_le": "2026-11-22T09:20:35.199837+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "ETH price on Nov 22, 2026 at 5am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUZJZktWcXRFQjRiUk5uOXRmVjRVbVpObVQ5ZmNUUHBXV1RFQmhCT0kzcVlYcGVVQTAwS3dGbm4wS2ZvaG1IdDY3T2tPSHdLZUVfT012ejc3dHJ1MlRlTkE5WW1GZHQtcE1BZ21aRlM2U2pxdzRjNkRTYmNZR1FPcjROc18xYVJEVWlXcGVTcXpsY0RoYkQzeXVjU1c3NmNyMFhKWFJHM3E4ZVVQdUE?oc=5",
-   "date": "Sun, 22 Nov 2026 09:05:45 GMT",
-   "vu_le": "2026-11-22T09:20:35.199837+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic IPO puts spotlight on stake FTX sold in bankruptcy - Northwest Arkansas Democrat-Gazette",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQzhacXlQTW4xOXZPNVpPS2Rzd09mQXYxaTN3S0J1bktEazdra3J3N0tNV0hWLWd2YkZfckRDTmUxNWREN29NdGRsUG9Lbll4SkpnVUozN3dMZkEwTFFDRGlHOGpoQWZtelJveXZyZnRKbGEyNXhVQ1pXb1VRR2VNUnhmR2MteVh1WjRxZ0llNHYzbmJ1Z2xSeQ?oc=5",
-   "date": "Sun, 22 Nov 2026 09:00:00 GMT",
-   "vu_le": "2026-11-22T09:10:36.203547+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Amazon to Acquire Israeli AI Startup Decart for $7.5 Billion - 조선일보",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTlfTHFQZjVqbmhvOGYwWGN6RThtLXhSZlR2bzRTM21NZXpvTU16cUNBYUN2aGRXMllJczZXaXl3TWNZZGdEVXh2M0IwN2hQNzR4cVdzaHBidGFNVXFIRGFnc1h5d3owM0NpZXdDN1k5TDNMZGJnenloVjJ2ZDF0Q3o0cGtZLW9I?oc=5",
-   "date": "Sun, 22 Nov 2026 06:29:34 GMT",
-   "vu_le": "2026-11-22T09:10:36.203547+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Botafogo vs Sao Paulo: First Half BTTS - Coinbase",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM1BQRnJvTzJ5TjhpeFlXc3JNamVMQlQ1S29TcnRMVGFJZU9ZT21SdFNWOVluT0V2bmIyS1Y1MmdWTzkwMEJHeDlCRG1EZzFJQUpxR3F4aFQ2MDhvVmVfVjVocjVoWVkwUXM5eGt3eEE0eFZ6QzJuZUZROGxfTTB1bW13cGVGV2x1?oc=5",
-   "date": "Sun, 22 Nov 2026 08:18:27 GMT",
-   "vu_le": "2026-11-22T09:10:36.203547+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Diageo overtakes Pernod Ricard to become India's largest alco-bev firm - Business Standard",
-   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMlF0YWZWLWlFOVdsNXd4NjRXaGUybTlTRFl3VE1fWTd5V3o1c0w4a25qYW96Uk1Lazd5Y0FRNmNZMmxfR1JoLVBZUmVGTXk4anFPTDVNamRZZkNFYzFmbTU4Tmg4M3cyRkJiR3B6aEFLSmk2VjQtNjk1dW1adjh1S1ZtMlFiR0pPTlVUdkNtLTRkYTdmUW0xOXgzSDdXTDNMNllfUzJFVlR5NXcxSXZYc2JybG1Kek5MNEZWRUtFTDdueW0zam1IbUYwUkVGdlpBRVBFd9IB2gFBVV95cUxNWlFudXVQZWN5aWV6OERPMWNIZGtqVGpnZUFHdnltVUwtS0QtVldSZ2ttUEFjQlQtTzgwb1hwVTRQWXlBS3ZlM1BjODY1VkdXZlNaUUd3Y2NSc08yMHB5d2stenVCR1hmdmd3SDZBTHd6WEc5aXJoaExEaUVNQjl4UjU2ZzN0ZC1FbnZpWWR2X2xqby1tZXkya1I1SUE0dU9pQnc0dlhfV2N4YmtZUWk3WmdseXlDRHBwVU1ld0Y3b1pmYUlJT0tYbDVFaUdTZ0pqb1l1T1Rxa0tSQQ?oc=5",
-   "date": "Sun, 22 Nov 2026 08:53:16 GMT",
-   "vu_le": "2026-11-22T09:10:36.203547+00:00"
   }
  ],
  "erreurs": []
