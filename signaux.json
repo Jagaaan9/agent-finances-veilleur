@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T14:20:36.101050+00:00",
+ "mis_a_jour": "2026-11-22T14:30:35.840140+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55369.2,
+   "prix": 55319.54,
    "devise": "EUR",
-   "jour_pct": 0.88,
-   "mois_pct": -23.59,
-   "volume": 96.29285045,
+   "jour_pct": 0.79,
+   "mois_pct": -23.66,
+   "volume": 97.31901041,
    "volume_relatif": 0.4,
    "capitalisation": null,
    "per": null,
@@ -3754,6 +3754,55 @@
  },
  "actualites": [
   {
+   "sujet": "Anthropic",
+   "titre": "Anthropic IPO Pricing: $83 vs $97.17 Close, Bankers Call - shattered.io",
+   "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQREYwLU5nMFhFemFpeFhsTzlBcTFhVHlZbWY2MVZVdFJvUUFPOXhPTVZnMGNrTmJ3eGlOR1RNWUJIWC1QYlpRSEdDN2xvZkRwak5ZdDhEWnJVWG4wR0lVV3R6TVBYWDl5WF8wOC1PcTdiRmRrVG8zcHQ2MmFIZzM2LU1iTXV5VzA?oc=5",
+   "date": "Sun, 22 Nov 2026 14:18:36 GMT",
+   "vu_le": "2026-11-22T14:30:35.840140+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Les Américains, terrifiés par le risque d'une grande panne liée à l'IA, stockent de quoi survivre - Les Echos",
+   "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdnBPLWlkRlJpRVItNDJ0VEZrdmoydnRPNGgwVzU5cU5nYUpfRmRNcGo5aVR2T0xxbXl4OUp1NTY0OUxPY1V4Qjk4dGE0eFk2aDd4Vjl6Rk4yRWVhLXFoSTRoc2ZwMDd0TlROVktTcTFOeWtqRDB2SmdnMFFoNXBSZHlXU2s5a0ZpbVVGOXQ1TjRTZUNIb0hnV2hTT0dHZU5ZWGpOX3NoVnF0eTI5cWdHTUxqa3ZDaDBEd2dUY3g1dXJFXzg1MEVfUF8yLWYtS0hQVmdiWV8tNTRkVFBzdG1BNmRpYjgxc2padUxfQ3pUeEdyLWNYdmc?oc=5",
+   "date": "Sun, 22 Nov 2026 13:45:08 GMT",
+   "vu_le": "2026-11-22T14:30:35.840140+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Les fortunes de l'IPO d'Anthropic face aux débats sur l'impôt sur la fortune - Actualités et statistiques - IndexBox",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVhHWUdReHpUZE9DMmplUkxRQzFNNHUwLWItMGVrYzRnS1dsN2tZM3hYRC1jUnJZYlpaZF9tZU56VV9TdVRXVFJNZWhac2U4MzBfdmExeWxoWHFWdnVIanhRMXhVU2cyalNQSmlIRVZRemhDZUZwdjdlMndjNXVVaTBrUC1nN25h?oc=5",
+   "date": "Sun, 22 Nov 2026 12:31:13 GMT",
+   "vu_le": "2026-11-22T14:30:35.840140+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Correction or deeper reckoning? Investors seek signs US stock selling will abate - Reuters",
+   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFRxak5ZYUFPNWxVbzlJdy1Mcm9xMTRVZ0ctY205NFVGVEFtcDdFNG1Iem05TjVBcnYzWUVUeXcyWndZNlpnR25GMW5GdkJ2blJjeUdXdlhvZ1VqNWpVSGdYX1RsQ1F3eUhkRUFaX0lxQTNnVFNySmphdG1KM2Y0NTZrdGRoTWxEaE0ybmVSUnBtdDB2VW9tWGtrYkZfUmZUaUdxWDUyUEZGZ2tSajBqSTJydzNhb2xwaTctX21xQmxmXzFyZ1BIWE80ZF8?oc=5",
+   "date": "Sun, 22 Nov 2026 12:22:12 GMT",
+   "vu_le": "2026-11-22T14:30:35.840140+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "La Banque centrale européenne maintient ses taux d'intérêt inchangés - The Portugal News",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLWZtOGFucDVPNWRJaVFQSlE5RzJXWFp5c3hYa0JtSHJzcWdrZUFubTZOTXN2Si16VlNoR2VKcXZfVHVHME1vbHhTdGE0WW1iSy1SVG5VNW51dmtfakdHbDVrODJVRnNBYWk3OGYtSEl4LURRdkU0TFNCWUd3RTBpMDYxdlVaNlhaUVpXTE1PZmJ4YXJzeG5FdEFZdUJvQTg4OGpSY1pDY0JzYjZmeE1aOF9CdHhob3Q0czNrazAtQjVkLTZuekpxX2Rlaw?oc=5",
+   "date": "Sun, 22 Nov 2026 07:59:44 GMT",
+   "vu_le": "2026-11-22T14:30:35.840140+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "India’s Foreign Buying Is No Major Shift, Spark CIO Says - JournalArta",
+   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVExWWJ1UV80S3JiOENwUzg4a3pmWjd0Z1JVaW1pYmVvRHlyXzJPOWtGTUJadjNRd2VWcUFYZlZPcl9INXlQUkhobHVubG14d2hRUkh3WjY2dGY5aDVDRF91THRVVjE5T05tSXhMYjZqSFczN28ySmtrWVMyekJ0RTRGOWE1YTU5WkE?oc=5",
+   "date": "Sun, 22 Nov 2026 14:20:17 GMT",
+   "vu_le": "2026-11-22T14:30:35.840140+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 22, 2026 at 10am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHFNd0x5cUJ1SU5PbXBfNGVZZDV3dFpYbjhOUGU4bTQyNzF1WXROVmJqc3Jzc2JQcUk0VnA5dGM3SHpZbUQ5S050bmczT3FwdWpKeDBLbDZETHoxMGVINFFHYU1sckd6bG5heFZ2WmRVRHBHS3hVYmVJUXVsZ0gxSkxoNG03Z0l4ZlZrWGE0bUE3Mms1NUhUazZEeGpmNl9zUXhlWGhGWFZIbGJMZ0Yw?oc=5",
+   "date": "Sun, 22 Nov 2026 14:13:11 GMT",
+   "vu_le": "2026-11-22T14:30:35.840140+00:00"
+  },
+  {
    "sujet": "Marchés mondiaux",
    "titre": "AI stock sell-off sends S&P 500 into correction, Nasdaq negative for year - Scripps News",
    "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU3QxSjZlNk9EWnZ3STdXVHNRQ0JIVV9JMWNlMnpKZnF3M3BVUkhPdFFNcjB4eWw1eVVTVnAwVmIzRU9COEpKX1M4OUZkU1FEaUhBYlJBSEluQ2lYbkxYWXNhOTZIWnIzSWl0VDFNTFRkR0FSaHNwbS16czZLRXFxUGVfS2Z3Yzl4clNRODJsWThhbzh0ZUtULWhiM1BnbTFtZG5OcDJ5R0NCbTg4S1hfaWw1MHNpcWVGUGdIVjFJNA?oc=5",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQUt2TDFITlRINlBPc3RteHZTamNlWVQtY0tSb0VkV3VidjNkT0xZRTdxUmxrZ0RCYnNCcVlZdmpMVzlydkd5SDNEY0RYbGQxQjd5czBGeDNncjhqMnMwWHdqRnNSc1BEdVloeXZwREdoTjI0bW9rWHI0cm1wRW5kamZyUWVBY09HQzcwN3hmbHVkM0xTWHM4andRZHJGN3BXbTYwc0dyaE5nRXQ5TlVXQXhjalczZEg2aE45cFdnUkwyeVdIb2F4djFnSWdEM285S2RRSW1Gc18?oc=5",
    "date": "Sun, 22 Nov 2026 01:17:00 GMT",
    "vu_le": "2026-11-22T02:20:34.712924+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Lutnick Weathers AI Chip Storm at Commerce as Trump Backs Him and Wiles Exit Loosens Reins - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSZ0xCQ2RYT0RkUmphS2lTVmV1Qk5vYlRQcWpHUnVRcmEzMksyZDd2OTlRV19LaGtuNG9wa3BjWS15Skp3SWdJMEQ1ZGQ2Y3ZlNEVneU1sYkFZWi1LQTZJbWMyTDlwMHl3MktlMDVjVDlsckdDRmc?oc=5",
-   "date": "Sun, 22 Nov 2026 02:05:00 GMT",
-   "vu_le": "2026-11-22T02:20:34.712924+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Earnings Beat May Change The Case For Everpure Stock - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdUxtRkZCbVRaQTU0WWd0SFJOMFVMaUFYMW1mSXRBOWYwTGppWFItblFoSzl3cmxjVG91QmJhZThURFl3dVk2MUFGTWZRTDFNSnZ3Wld1S1FIbThJQTFaNjFFUk1CdGlJdW9VSk9ad0NjaFE4cXUwVFpXelhNODlvWXlqMFp6NDNlQ1FZTlVkQU5rYS1OcnhBTEJkQUViMUtyVW9qQ3hzT2loeXhGdlVF0gG0AUFVX3lxTFBaLS1ScEVNWUtLOWpSRkJMR0ZWYzlqUXNldEZKMlM0c3NYenQyWHlEZE8zVVFNazQ4a2QyNW1palNKYll5dldFUExNR3NndHp6SHBnb3doQ2huWXRUZmpTMGFyMkcyaWh0OFJoMmdjRjdiQWRISjZHdWtmSWtTZzZTSG9oT29PMkNrVUQyWDV4d2ZUUEpCTUNUQmlRLV9OZEdmdUhQYWUyUGh5VE9mbzZidHBlag?oc=5",
-   "date": "Sun, 22 Nov 2026 02:09:00 GMT",
-   "vu_le": "2026-11-22T02:20:34.712924+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "3 US AI Infrastructure Stocks Backing The Next Wave Of Data Center Demand - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd01pZHN2RDdWN1c5LVlUSmhIVG9WNVRGNC1ZU3ZONUl6RU1uSXpNcDZCZlpTdm1GNXhuTGl0djJ5RThFV1hWUHl1ZGZNQzBwWU1NUWhpZktGN29lb0pXODVCZzltYTNiNWtNdHQ0VlF2clVBd0dRVTVPUlVaSEIyYzd2M2toMndrM1EtcVlTRWtCM3ltY0hfM2p1VEZUSkJjb0tvM0EzT1R1VUdJTWpDYm5BaXZ2YmZMdnJvbDFLSXFDeEtzZWfSAcsBQVVfeXFMTnJTNXIxYmNLRW96SmM0LWRPRzZoZGxaQ3hoNldvR2pkLVBqQnFqYVlISGxwOTlLVExsWHMwVzZ5WG42d3pUckg2V0JGQy11MlZ6OHdYZnRTODZTQ1podGxmS3lxOEZvdi1KNzRXT3hkMEt2Y3NDV0tBenMzQl82ZUtrYlRyRU1oeG9qRTNFVUw0SDlzcnJqdkdvOUNXeE9FWFQ0UV9zY3ZPci1iVk5wMldRVm14OWR0TzFkaDBManpCVHVCVFJYRG1WZW8?oc=5",
-   "date": "Sun, 22 Nov 2026 02:09:54 GMT",
-   "vu_le": "2026-11-22T02:20:34.712924+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Redwire (RDW) Lands NASA Moon Base Power Deal As Undervalued Debate Builds - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYnN1ZlRzYXdqMFdHZFJtZTNlbDhCMjNuckdicGZGTnNKM3p5V1lDbnY0ZENfdURqdThWdWdXTm9aQW95bWpPdWZTbVJnV0ktSFlhaGtNN0NWeGlHTnpBX01XTkNVUF9JUXg4Q1JwNF9tZXhoMVdvcEVNTjI2dVdWcWNWdVJEdVBrYWJOc3E4YTNmNmRJcWZVNVBXOUd3WVl0d3pIajhueWZsYmkwZ1I1TnVpYWd4N0NaR2l0dVM0cl9zT3g1RzI0?oc=5",
-   "date": "Sun, 22 Nov 2026 02:09:33 GMT",
-   "vu_le": "2026-11-22T02:20:34.712924+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 21, 2026 at 10pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYldpTGVrLUNkQWh5OXhjeTR1V3ROTUttemFDWHliS1hkampBamZfTU95b3NZN2ZldGFnVlBFMDRMSnNXZGt4eFRKejJVMEJ2MG40dEpiTnZlS01kRWhraE0xREs5Q2FRSW5GQ1g0T2tIMXBSZXozcUVBemtSblJyZ2J4ekNUeVBaWlNfdEgwdGFiZjJkcHhJQUVYdmdEa2s0cUp1cXREbzFTYU1VZUNR?oc=5",
-   "date": "Sun, 22 Nov 2026 02:16:12 GMT",
-   "vu_le": "2026-11-22T02:20:34.712924+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic IPO Tops $1.8T Amid AI Stock Selloff - Briefs Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3A3UXhzWGFBNjlEekFoeUtCMlllMFpDOUdqdzhJcnE4OFBrX1FFSnB3UTFBTzk3TXFFWk9Gdjhxc1hITTl4RmxOUWtqV2c5MkxPNXVUSlNFWk1uV2xqaEVKcGhETWltM01YVzdreXZ3SEhiSGhBVVRkX0lwcjd1OHhkLThsbUpUWERxT1RpUHhNdw?oc=5",
-   "date": "Sun, 22 Nov 2026 01:39:14 GMT",
-   "vu_le": "2026-11-22T02:10:36.489954+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Taux de change du dollar américain aujourd'hui, 22 novembre 2026 : La forte hausse fait chuter l'euro et la livre sterling. - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcG1pWVQ2QS15U1BnM09YbGs5eTBHS2tfRTV3dlQyRkI0ajFlczQ1LUF3RnlLdG5HeVN0V1liczUweFJzRW9MbnNEOVZxWEEtcVpyMVBGb1JfZlMyQ25BYzIzLVF5SHYtckxsNTRnVWZIOXB0YkZWeFJkWlloY1o5eEd1YV94cUhvbDVvQjRCQ1NTVldX?oc=5",
-   "date": "Sun, 22 Nov 2026 01:57:02 GMT",
-   "vu_le": "2026-11-22T02:10:36.489954+00:00"
   }
  ],
  "erreurs": []

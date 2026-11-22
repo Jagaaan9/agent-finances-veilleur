@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55369.2 EUR, jour 0.88 %, mois -23.59 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55319.54 EUR, jour 0.79 %, mois -23.66 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,13 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic IPO Pricing: $83 vs $97.17 Close, Bankers Call - shattered.io
+- [Anthropic (FR)] Les Américains, terrifiés par le risque d'une grande panne liée à l'IA, stockent de quoi survivre - Les Echos
+- [Anthropic (FR)] Les fortunes de l'IPO d'Anthropic face aux débats sur l'impôt sur la fortune - Actualités et statistiques - IndexBox
+- [Marchés mondiaux] Correction or deeper reckoning? Investors seek signs US stock selling will abate - Reuters
+- [Banques centrales et taux] La Banque centrale européenne maintient ses taux d'intérêt inchangés - The Portugal News
+- [Pays émergents] India’s Foreign Buying Is No Major Shift, Spark CIO Says - JournalArta
+- [Crypto] XRP price at Nov 22, 2026 at 10am EST Crypto Prediction Market - Robinhood
 - [Marchés mondiaux] AI stock sell-off sends S&P 500 into correction, Nasdaq negative for year - Scripps News
 - [Marchés mondiaux] Berkshire Hathaway Stock Jumps 14% in 2026 as Wall Street Downgrades - Coinpaper
 - [Chine et Asie] China Eases Margin Rules After Tech Selloff Wipes Out $1.7 Trillion - Seoul Economic Daily
@@ -447,11 +454,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Pays émergents] NSE becomes world’s fifth-largest listed exchange by market cap, overtakes Nasdaq and HKEX - DD News
 - [Chine et Asie] AMD Shares Plunge 20% in Two Days as China Firmware Supply Allegations Hit Home; Nvidia Read-Across Selling Adds Pressure - BigGo Finance
 - [Chine et Asie] Wong: HK can turn global cooperation vision into action - chinadailyhk
-- [Chine et Asie] Hong Kong can help connect global bay areas, Paul Chan says - South China Morning Post
-- [Chine et Asie] HANG SENG INDEX (^HSI) Charts, Data & News - Yahoo Finance - Yahoo! Finance Canada
-- [Résultats d'entreprises] Marvell Beat Earnings but Fell After Hours - Is MRVL Still a Buy Above $226? - TradingKey
-- [Petites valeurs en croissance] Kinsale Capital Group (KNSL) Stock Still Looks Undervalued After A 99% Five Year Run - Yahoo Finance
-- [Pays émergents] Top Tokenized ETFs by Market Cap - CoinGecko
-- [Pays émergents] Sensex Gains 308 Points, Nifty Closes Above 23,000 as IT and Pharma Stocks Lead Rally - INDIA New England News
-- [Pays émergents] Imperial Blue sale pushes Pernod Ricard behind Diageo in India's alco-bev market - Moneycontrol.com
-- [Anthropic (FR)] AMD Is “A Direct Stakeholder in Anthro
+- [Chine et Asie] Hong Kong can help connect global bay areas, Paul Ch
