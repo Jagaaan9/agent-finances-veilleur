@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55533.75 EUR, jour 1.18 %, mois -23.36 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55446.93 EUR, jour 1.02 %, mois -23.48 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,17 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] AMD Is “A Direct Stakeholder in Anthropic.” That’s Up to $5 Billion Riding on Its IPO - TIKR.com
+- [Anthropic (FR)] Anthropique : La pression pour convaincre les investisseurs après une introduction en bourse - Vietnam.vn
+- [Marchés mondiaux] Wall Street Sell-Off Pushes S&P 500 and Dow Into Correction - cwibc.co.id
+- [Intelligence artificielle] Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail
+- [Intelligence artificielle] The 77-year-old former air-conditioning technician who built a $10 billion chip busin - CTech
+- [Résultats d'entreprises] Microsoft's Azure Turbo: Beat on Revenue and Earnings, Raised Growth Guidance, Stock Jumped 15% - TradingKey
+- [Pays émergents] Gold, silver, and India’s coming of age as a bullion market - BusinessLine
+- [Crypto] Kraken Bitcoin Price Glitch Sends BTC/CAD to $17K, Down 71% - Bitcoin Foundation
+- [Crypto] Crypto Analysis: How Long Could Weakness Continue Across the Market? - FOREX.com
+- [Crypto] OFFICIAL TRUMP price today, TRUMP to USD live price, marketcap and chart - CoinMarketCap
+- [Crypto] $400M in crypto shorts liquidated as market recovers from crash - Crypto Briefing
 - [Anthropic (FR)] Il est milliardaire mais n'a aucun diplôme, il scrute la "boîte noire" de Claude: qui est Chris Olah, le visage méconnu d’Anthropic qui a demandé l'aide du pape pour encadrer l'IA? - BFM
 - [Anthropic (FR)] Piratage de GTA 6, IPO d'Anthropic et Face Unlock sur iPhone Duo — le récap tech de la semaine - Numerama
 - [Anthropic (FR)] Anthropic lève 81,3 milliards, le calcul reste incertain - Brief IA
@@ -450,15 +461,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Crypto Outlook: Is a More Restrictive Fed Reducing Market Demand Appetite? - FOREX.com
 - [Intelligence artificielle] Jensen Huang Resignation: 3 AI Stocks, Flash Sale Claim - shattered.io
 - [Pays émergents] NSE’s rise signals India’s growing power in global financial markets - BLiTZ - Fears None But God
-- [Marchés mondiaux] ASX to come under pressure as Wall Street tech rout deepens - AFR
-- [Banques centrales et taux] L’inflation sous-jacente PCE d’octobre et le Livre beige de la Fed mettront à l’épreuve les anticipations de hausse des taux avant Thanksgiving - Binance
-- [Chine et Asie] China's MiniMax founder loses over 90% of fortune as AI competition intensifies - AzerNews
-- [Chine et Asie] Organ donation must be based on trust, not presumed consent - South China Morning Post
-- [Rachats et fusions] Takeover Bids France: 2026 Guide for Foreign Buyers - Global Advisory Experts
-- [Pays émergents] Is the AI boom losing its grip on emerging markets? Jefferies flags risks By Investing.com - Investing.com India
-- [Pays émergents] Airbnb looks beyond traditional holiday hubs to deepen presence in India - Business Standard
-- [Crypto] JPMorgan Says Bitcoin Miners May Be Selling Reserves After BTC Falls $26K Below Mining Cost Estimate: Report - Yahoo Finance
-- [Crypto] SOL price on Nov 22, 2026 at 2am EST Crypto Prediction Market - Robinhood
-- [Pays émergents] Is the AI boom losing its grip on emerging markets? Jefferies flags risks - Investing.com
-- [Pays émergents] Nifty at nine-month high, 26,000 in sight: 5 triggers that could fuel or derail next week's rally - The Economic Times
-- [Crypto] XRP price a
+- [Marchés mondiaux] ASX to come under press

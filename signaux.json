@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T10:30:36.888321+00:00",
+ "mis_a_jour": "2026-11-22T10:40:35.025794+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55533.75,
+   "prix": 55446.93,
    "devise": "EUR",
-   "jour_pct": 1.18,
-   "mois_pct": -23.36,
-   "volume": 54.93573607,
+   "jour_pct": 1.02,
+   "mois_pct": -23.48,
+   "volume": 56.12287953,
    "volume_relatif": 0.23,
    "capitalisation": null,
    "per": null,
@@ -3755,6 +3755,83 @@
  "actualites": [
   {
    "sujet": "Anthropic (FR)",
+   "titre": "AMD Is “A Direct Stakeholder in Anthropic.” That’s Up to $5 Billion Riding on Its IPO - TIKR.com",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTkY0MjVqbTBqV1NsWXljTDJ2Q1BfVkJqM1ZyckZheFFQYW41NEVDY2JKWVNZX2xTbE9lejE4Y3FmbFpkQkdiME53R2pxa1pzbTBOQnp4M1RlNzBUSGt5NVVNLWNMeElzSXlicC0xU1BXLUgwNTAxa2p2WXcyb2lJUVd1TGMwaU9rSjM5a3pIZUdwWFhiQ2dxa3NxTXpxT0xadm5JLURjY1NaMml5VWc?oc=5",
+   "date": "Sat, 21 Nov 2026 16:07:30 GMT",
+   "vu_le": "2026-11-22T10:40:35.025794+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropique : La pression pour convaincre les investisseurs après une introduction en bourse - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOWkE3Y3lRdnhlTkJjMHdodHM5c3B1TmVrVjl6eXRDTjJUbEItUGkzNEVubUFSYmZDYXQxTTRwblVMaS1hVmtTX1VlYWFjUG51UkVSUTlMZmxNQ3NwVlJDY1ZRNmZCUkk1Wk1sMzdCTlRjbDdsTF91SmtxazZkQQ?oc=5",
+   "date": "Sat, 21 Nov 2026 11:14:41 GMT",
+   "vu_le": "2026-11-22T10:40:35.025794+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street Sell-Off Pushes S&P 500 and Dow Into Correction - cwibc.co.id",
+   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5V0pvU0ZURFlsZGN2a0k3Nnl4VWNVdGxwTThhVnhMOUlEY20wYWE1aFpHeFo5UEZjc0cyOHpIMk05SlB4VTlNYVN4MFJIZzZhaXUyb0dpb0pNQTBKclR6RFp3?oc=5",
+   "date": "Sun, 22 Nov 2026 03:52:36 GMT",
+   "vu_le": "2026-11-22T10:40:35.025794+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQUXlFOE9PRDVyUVJxWS1PX1M2QThEdUc3RjU2cFVlczIzeUZ6c1FMXzRwbnU3RkQ3cnBvTGNRSmJNNVJka3o5Nzg1M1E1UFZMR3g4TVVRTjFtaC10TGhNNUt4T3NGYWw2Mi1ZUkxtVUExTHVDdEZRb0FuSlAtdkx2eE1wTk01cEtwelBSbUdtMzBydmc3VXZJTGY3YmYtaHdTM1NWTzBVRHhMRWdMZnMyY0YzLUpkU1EtUl9nVmJSZlZ6T3VHdTEtbkVEN01idERscVlXWHY2SGdBamZuLU9XaUJaa0hyTy1LcFQtSXVwQWdyYzJIdnFWN2FPQ1NwRThJamY1UTU4WWlPU2pHODR0YmxtQjRUOF9jNW5xaEhubGdWYWpMLXQ1OExKajVSanhLWEw5R0RfUWdGOU1XbDVYSURhQU5UZHVzd2t6Qll0TQ?oc=5",
+   "date": "Sun, 22 Nov 2026 09:57:59 GMT",
+   "vu_le": "2026-11-22T10:40:35.025794+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "The 77-year-old former air-conditioning technician who built a $10 billion chip busin - CTech",
+   "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOM05ocnEta0VUTTFqWnFmeXVRbVRVcHlzR3FlZEdoQUpMc3FKOURVVnd3aXRHWTl2SFRmSVdTRURiZFhNd2czbEFYV20xQ1VIT3B5TkZVRVVfR2pOWlQtUHVER0tsNXc?oc=5",
+   "date": "Sun, 22 Nov 2026 10:07:00 GMT",
+   "vu_le": "2026-11-22T10:40:35.025794+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Microsoft's Azure Turbo: Beat on Revenue and Earnings, Raised Growth Guidance, Stock Jumped 15% - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR3ZBWnNicHhiTHRWNWRqdGlvU1dvaTh5WldIZE1DcmN5SHc3TVRDLS0xaE8tOWlRMHJBeHhhbl9IMTRaSW55RWtjYlBuaUJGTENzQlUxdWg4OWVRZ0w2SlRqOEJQbFkxZkZpYWJyWnUwUDhaenBxakxnYWt4U0dsdmF5eVpVeXp4N21oTlBNLVk5QXphOFF0RFRQQk1KUVo2bjVJSXJhSTIwNHdWdnJYVVByVl95cGpiUHA0cUE4b25ZaGFSaVUxUFQ5WnNaSUtE?oc=5",
+   "date": "Sat, 21 Nov 2026 21:07:20 GMT",
+   "vu_le": "2026-11-22T10:40:35.025794+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Gold, silver, and India’s coming of age as a bullion market - BusinessLine",
+   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ24xelFwaU1rc1JCRlRHTG4zbldSQ3kwUDl4dE9QM1d3TFdWM0txek84YWl6anFmcXA0bkxKWUVkdWlWLWt5bnNHS3FBdElBLW1kRkw3aHpQb0VvbEp4Ylo4aGVPeUZQZDkySURBaGRfUWNmclJadHBMYjNDRVJxWmR0Vl9TMmVjaC1VRmhzbTNvTkQ0a25sYWJOUXRRdXVUeUc2SFJCSnMxekVSZDJxX3VWdzFuSGM5SUNHUDZ1YTJmVnBE0gHLAUFVX3lxTFBWM0o5QTh2LThjN0VtVjJ1SGtiaHoyaVhielY2VnZYbVhBVG1PNVMwbjI1OWljRGlIcXFnSFZXMFA4ZHZCMkFzN1Njdld3bVpfS0d0ZTdxRElPWkhlcUlVQzRlaGd3YjJKZ2x1M0JWU2loWTVrVnEwak5HNnUyTVZ3aHI4MGFKRXJqNmN1SmF1NEZkYWhWcHVJZ0JpYk04TUNSVGZEN3lpR2FCSXlfT0xZWTJDM3lCYnFZQWFsd0hwRmNKdTRHZ0EzWS1n?oc=5",
+   "date": "Sun, 22 Nov 2026 04:30:00 GMT",
+   "vu_le": "2026-11-22T10:40:35.025794+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Kraken Bitcoin Price Glitch Sends BTC/CAD to $17K, Down 71% - Bitcoin Foundation",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTZXRjMwMlpzalZ2amtobUE1YjRMSS10UmxuN1ExX3EtNDNSeklyWG5mcEpqaUdub2xyUkRWYXVpYlpqYWktWm8tRjZKZVFJMGtkdG5xblJDUzJjdHM0UUZLN3RlSnJJaUZTTEJWeUpINW1tZXpyYlAwUm45Rlhzc0NfbXlfb3FVcW9fQ1MwRmdYTjlMc0xtclBpRy1VbzJtVUE?oc=5",
+   "date": "Sun, 22 Nov 2026 10:37:42 GMT",
+   "vu_le": "2026-11-22T10:40:35.025794+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Analysis: How Long Could Weakness Continue Across the Market? - FOREX.com",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGlLNmxVcnVVTzFYbC1GbklGRlNLblZRWHo2dTNqdTYzRWVlRE9CWGdRUG9WRjMyYUQxUl9CakdKdmQ1cVlYLVlvRTFoRl9TbHBtZzY4YzVIYl9JbE9LbE4xUXVheVBndVlXSGFSWGc1M21OWXNGN0VIQVhudmJPRzBfT2IyWVpKWDlCOVFwYXV0UXMxUEpyQklicjhLLXdSUVdnWlZjXzB5eUQ1Z2tQeEpYWXViTVRVUjBERWF6NNIBvwFBVV95cUxPTGlLNmxVcnVVTzFYbC1GbklGRlNLblZRWHo2dTNqdTYzRWVlRE9CWGdRUG9WRjMyYUQxUl9CakdKdmQ1cVlYLVlvRTFoRl9TbHBtZzY4YzVIYl9JbE9LbE4xUXVheVBndVlXSGFSWGc1M21OWXNGN0VIQVhudmJPRzBfT2IyWVpKWDlCOVFwYXV0UXMxUEpyQklicjhLLXdSUVdnWlZjXzB5eUQ1Z2tQeEpYWXViTVRVUjBERWF6NA?oc=5",
+   "date": "Sun, 22 Nov 2026 09:06:53 GMT",
+   "vu_le": "2026-11-22T10:40:35.025794+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "OFFICIAL TRUMP price today, TRUMP to USD live price, marketcap and chart - CoinMarketCap",
+   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qS295djdtaHNudEZrc1hXWU5WeVM1cWQ2RTBRWnJ0OFNiZExQVXllbThpa0ZEMXZ1V1JKRlhzd0lMTXFZejR1RGoxVTFNb05hSVNmM2sxbFM3N25TMUtTbzFB?oc=5",
+   "date": "Sun, 22 Nov 2026 10:04:18 GMT",
+   "vu_le": "2026-11-22T10:40:35.025794+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "$400M in crypto shorts liquidated as market recovers from crash - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUS1vam80cGplUFZwU1RCYzQ4MENSaFdETV9UMVlYcHdQVnllZmVUUzlMNktPWkxSMy16RmZSTWtmam5OdnU3dm9RWWxqemRXV0RyemFqdVRjcVpBWENKaGZmbVctdkdFVVZRSktBQzRKZldfQkF6RnM4S3BESl9hWW84cVpZc0NrLU8wNUJ3UDFqUUhq?oc=5",
+   "date": "Sun, 22 Nov 2026 10:36:45 GMT",
+   "vu_le": "2026-11-22T10:40:35.025794+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
    "titre": "Il est milliardaire mais n'a aucun diplôme, il scrute la \"boîte noire\" de Claude: qui est Chris Olah, le visage méconnu d’Anthropic qui a demandé l'aide du pape pour encadrer l'IA? - BFM",
    "lien": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNUXIzZVdNM0FuODJNLWJQRnlzdG56MTBfdW5DZXZCcENkVXpvU0VzamJkcG5MN3l1X19RR3ZxdzlNOHFiNWNpci1mMTFYWG00THNIcjk4Qnh5NlBOZ1F5Ym1GRlZjdFZfSjdKZTNMZE1nNl9kZ0ZUa1ZRTGJyaWYxTjQ5TFRVNlNOTmZUUURfMFZJdHlod094Z2xnOFd5ODh3dmlMZVpLdVUxalRNbjJTTnBzeFZ3N3RFaTNjQ2stS1BtSVRQZVBkdFY2Q3JiVFBBS1U4YTdSTjFIdlpjU0ZXM0F3alRqbGpGVjBVNUVUeGJJLWdvMGRxRFlLaS1KZjZNTVNPZ0gxRDhTY3NCRzlFQjdEdkNVLV9sckRhSUp3QUxseldKSG5mQWZJRXFLOGk5YTNUaGQxRHVGNzJ0WEozX2h5bnNmQ2FpT3o1QmxGTnRlV1FoekVrM05iaDA?oc=5",
    "date": "Sun, 22 Nov 2026 10:02:51 GMT",
@@ -6475,83 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWXNKQ1V1cXIyYndLRjNYakZkT2ZxbUE2a2lkVUVKalBxV3IyemZiaDBQeUNPVXFPV29Sc3ljc2tvYk1YWUZnYkU4YVFreFdIZWZHVjdNbHg1Y3hhOVpMbHhyLTNxS2ZwS0JpVThpbDNaMkxoeEdFS1h2ZXk5TjRWbEwzZlZLdW16Zzk2YVZlY3F2aHkySWJrU2JGS0RNd3k3cjlR?oc=5",
    "date": "Sat, 21 Nov 2026 07:09:11 GMT",
    "vu_le": "2026-11-21T21:20:40.415218+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Worried About a Market Crash? This AI Stock Should Bounce Back Fastest. - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVTVyc1NGTTZBaHVvWWVvZ3JuQ2YyeUUydmRtNkExdjR5TlpRLUZmRUcwaWhsR1VDbVRpdV94YlZwTGFEVWtHY0JnVUFoc3k0SHN4ZXJUODJzdDBBQUQ5Z0V1SmhXZG9IZkdnU1ZkNEVsT3VEOGpzZmh3T1lTRDR0Y2RoTWdpck9janhnUTFHaVk5UFp6M2pGcDdn?oc=5",
-   "date": "Sat, 21 Nov 2026 18:47:02 GMT",
-   "vu_le": "2026-11-21T21:20:40.415218+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "LifeStance Health Group, Inc. (LFST): A Mental Healthcare Growth Stock With Improving Profitability - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONFlHQUVGbDhyam40RnowOGhoOVFDMEdQNjlsd0FkMTBBSTZMZmhGN2FCbU00Mm9HanlWVm8wLWtPUjRvU0puaHotbkxtaDVPeXU3NmVQaTkxalJuNnJQay0xUkM3TXhWSnlnTFpNdGxOazlOV3psdnBySFhPTTU4V0pHY2hobmZ5TlNuckdndV9jaUtXeElLRg?oc=5",
-   "date": "Sat, 21 Nov 2026 15:01:37 GMT",
-   "vu_le": "2026-11-21T21:20:40.415218+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Lockheed Martin (LMT) Stock May Be 31% Undervalued Following Vulcan Failure News - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbDkyYXAtdHdGa1hGaDVuYjB5WWptc3pkMU9wbGoyWGxfeG1hVjU1T2k3bkNHc1F4OWVLWWM5UUdQcjlkUDRYS2k0SGxsWVZERzFzSFB5ekRQZWl1ejJNZUN4a2NQQU5JMEgyRlRZajJkYUJ0VlV5VnhGX1FZODRJbW1fMkZLX1NIRW91WGNMM3labU1sdnJYNDlaanAtaFhCQVk0aEtfMGl0M1ZWR3IxYy13RUFBVGFfVEp3S2FfeWRVR2pjWXJXYzduNktoSHlsMmc?oc=5",
-   "date": "Sat, 21 Nov 2026 21:08:21 GMT",
-   "vu_le": "2026-11-21T21:20:40.415218+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Xylem Fell While Profit Rose - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZmRTYlI1ZS11RmRKbVB6LVNnaUZFSjZOX2JheHk2QndXNC10cWpNX2ZKd3BxdGFFbG1ESGwwb05yZjRVeENWdUJqQVFMdXNwR0NqRGdiTG0tTk5DTjduZERtS2pacFc0WVV2REVRUDlORHZfQm81VFFTdFItcEZBQk1ra0tvUmhJLVUtU1ZnOUxJMHNKTkVrYlFB0gGfAUFVX3lxTE1CbXlVWk5ESGpfUUdSR2FURmNmV1VPVzVMV3M2N2R0aUxIMFNhNm5nRzZWS1NIMkVmTXhsV2dSeFFrR1huRnpUek1hTlNENUwycUFvOHBLOHFCU2plVmtBMlNQdTJlXzg4Vm9aYVBtYlU4NE44OEpfUDkxYnhjLU9KbFJDMFYtUklBQUxuUFNueW9DcUZCQXljR1lXSWdHZw?oc=5",
-   "date": "Sat, 21 Nov 2026 21:07:49 GMT",
-   "vu_le": "2026-11-21T21:20:40.415218+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Intuitive Machines vs. Rocket Lab: Which Space Stock Is a Better Buy for 2027? - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV2dXa2Fsd09TZEU4SkNDR0c5ZkJLTG8xSUx2QzJjSjAteUFvWmhDVjNZb1VsM3J4NWdZMUxaZm1MRlNHNzRfUENBWlVqc2lLaWVYQ1hIbnA3S1EtU2dQQ0VTQ1FNMjJEQkpOWFRJOGNvUkdrSFZNa2ZrN0F1NmtRU1A0b1hZSTF3N2lLWTM0dmhnZU1Ubk9zY2hsbVpYWDgzQnI3MmRUR0doS0pSZlRMTGNCUmo1b0E4ekl3RW02Q2pIYVkyQ1A0dzFia0xHWDFBUVdscWdGX2NDbm5vWUZEN0JwaUpSbDZ0NDBKQ0tQdXJSUQ?oc=5",
-   "date": "Fri, 20 Nov 2026 22:44:03 GMT",
-   "vu_le": "2026-11-21T21:20:40.415218+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "BTC price on Nov 22, 2026 at 5pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZzdBMFIxV1VTNDZjenhNUExzTGN6ZUdEZ2FQOUpSRnhNX2ViVFRGR01Eemc2Wk1SeWxScC1pUHNON1lYRnk4RXUxRUQxSU1ZbjYzb1oyTTEtcElON0pWSkl4bjk4dkUwUWtvb0lXMHNkZkw2LWhxemFraUlKRjhLQ0JTWGROUkhRS0J0MEZ2MXZwOGtLbUhTSTNFaG4zZk5DR0NrOVo1TENtb19DM2c?oc=5",
-   "date": "Sat, 21 Nov 2026 21:08:56 GMT",
-   "vu_le": "2026-11-21T21:20:40.415218+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Price Rebounds to $60K After Crash Near $55K, Leaving Billions in Liquidations - Bitcoin News",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazlzQjFNcmlTbV85WEN2NmVNWGtjT2FaR3dEZnJCMWxYQm9NQ05zb1hYTHVmTnpKZ1g5dWdhU29pNjdvcElqTVJvaHVwa0V1anpCYWxrYUY4T28wTXBJc3BsNEVjR0lCeEtuV3F3R3FfWmFYXzBkak1TamM2aVJUUFZ3UDhlaHhuRFBsbjZkeXFtbVljcDhpZG9HZ3c5TEg2al9wcVk5RQ?oc=5",
-   "date": "Sat, 21 Nov 2026 19:24:57 GMT",
-   "vu_le": "2026-11-21T21:20:40.415218+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Wall Street siffle-t-elle la fin de l'euphorie IA ? - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObmlxRTNwZElRWTBRSGl1VjNzS25LazZRWkRJZXZxTFVhaVhGLWstWjJFemxfaXY3dFRGX3ZKYTdfdksxTDJWVW5qVDJtQlhsTkN4WjRHS2kwR2Z4b2pBRW0zSTk3aFV4UTBYdmdJenhQaFF6dFF1MGxLS19Dakw5QkIzNE9yOHpHUjd1UEZ2S1pHTFZKTGRIa0RVWmJobXVXUFRBRTAyM3JlaUQydmFVSzBqOU1sbTBUTVQ3SnRnMnhEQUZwN2cxMkhXT3pFNkFGRmxJOW1VcjVSSUdGY3VvVFpn?oc=5",
-   "date": "Sat, 21 Nov 2026 11:15:00 GMT",
-   "vu_le": "2026-11-21T21:10:35.449846+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Otavio (Tavi) Costa : les hausses actuelles des taux de la Fed pourraient entraîner un krach déflationniste - Traders Union",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMjZuTlRCelc5TXd5UEZQU1k3TUI3NFhWU2pVSEI0V1dUTzcyYWJlSVU5UEVoNzY5T0pONmdDM05oZWtUSFZqM1RZamdGNkN0Rk5oenVibVpsWWdxSnBLVDA2d1Qtck1fc2d4OUI5eHltWmpMcC1kYVFDSXhHaUw0ZkNRSjBXRlItU21Db3B5dkQyalJt?oc=5",
-   "date": "Sat, 21 Nov 2026 17:40:16 GMT",
-   "vu_le": "2026-11-21T21:10:35.449846+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Adani Energy Solutions Bags Major Renewable Power Deal In West Bengal, 2,500 MW Supply Capacity On The Horizon - Free Press Journal",
-   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc2YxRzVjLWU0cC1YVW9iN1l5elNaaDZKRFUzWm9na19UYjBadDdwbFoxb202LUkzVDA4S0pYRXR4NERCa3czeFhkb1BJalF4YkZhRmxib0ZsQXYwbEt0TDEwOF8wdzRoamJEYm1DVmJwUXZlY2dXSjNyRkNWczZfQUJpaUtVT09kTngyZFg4bklyQ3F3RXE5REVqaENZeVFDUmZwdG4yT3lUUEYzdmE4WDNiMW16YVExcHQ0czVPd0NGZ09wMkZGVV94Y0VMeFRNWEZQbFdlU1FSZVFqT25oWG1yTdIB6AFBVV95cUxOOUgzWnFQdUNsb0JVX1ljZi1PSWQ0SGp6c3d4VkZ0RFZ4a2ZmVmNBSExULXd0aGlmVnZuQkNJWHNxR0c0U05HazhDNk9jQmo1WG0ySGpPYVpySU1rcEFaNnZWeGlJX2YtUmNwaWtGQk9qa3V3SmFtWHk2Q3BZSnJBU0RPQlViS2p4cDF6bXhpMG9ObE9iWEM1TVQtaXR1Z3ZGNVhESUVTRzlkdGVDWHp4VmNEbTdwY1l5aEpscng2OHp3bXM4OElvVXF0M1BaSTR1MDMtM1F1TzFXeHQ3YzhWM2RlYXVJM2h1?oc=5",
-   "date": "Sat, 21 Nov 2026 07:30:36 GMT",
-   "vu_le": "2026-11-21T21:10:35.449846+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 22, 2026 at 5pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRTBHZ0piMEZQUVRPRHRBN0laWlowQkVlRG9hV0pyRG5JbmxaVlZVZ29RanM1djdBX3pIbmFwRlh2R2c0Z3VFMDZiZWZKamM0WVVEU3FNSlBTdmMta0U3TXFqVzZLbnplTkFwSU5ZMDZwX0xYZ3g5UVJPSTJ3SzgyZExNQWhHMDk5dW8yWm9vVDJWOVlCQVRUaEVJM192Rl9rRjRGdXpGckxyemNPOEE?oc=5",
-   "date": "Sat, 21 Nov 2026 21:08:57 GMT",
-   "vu_le": "2026-11-21T21:10:35.449846+00:00"
   }
  ],
  "erreurs": []
