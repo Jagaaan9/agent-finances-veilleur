@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T14:10:35.960162+00:00",
+ "mis_a_jour": "2026-11-22T14:20:36.101050+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55431.13,
+   "prix": 55369.2,
    "devise": "EUR",
-   "jour_pct": 0.99,
-   "mois_pct": -23.51,
-   "volume": 95.77199687,
+   "jour_pct": 0.88,
+   "mois_pct": -23.59,
+   "volume": 96.29285045,
    "volume_relatif": 0.4,
    "capitalisation": null,
    "per": null,
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3491,20 +3505,6 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "AI stock sell-off sends S&P 500 into correction, Nasdaq negative for year - Scripps News",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU3QxSjZlNk9EWnZ3STdXVHNRQ0JIVV9JMWNlMnpKZnF3M3BVUkhPdFFNcjB4eWw1eVVTVnAwVmIzRU9COEpKX1M4OUZkU1FEaUhBYlJBSEluQ2lYbkxYWXNhOTZIWnIzSWl0VDFNTFRkR0FSaHNwbS16czZLRXFxUGVfS2Z3Yzl4clNRODJsWThhbzh0ZUtULWhiM1BnbTFtZG5OcDJ5R0NCbTg4S1hfaWw1MHNpcWVGUGdIVjFJNA?oc=5",
+   "date": "Sun, 22 Nov 2026 13:41:28 GMT",
+   "vu_le": "2026-11-22T14:20:36.101050+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Berkshire Hathaway Stock Jumps 14% in 2026 as Wall Street Downgrades - Coinpaper",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX0hSam9xdGVzUFY3SUlhaExCMnlJdUdNeHVTcERlbXg3ZGJ2eVJjNGtrMURPUnVEWEF5ZjBIVHFGTThfSkVhWk9JS2ZYc2JoNmVkV3VxbFgyX3ZiUktvblJ1dW1TVGR4aUhMQS1vV1FNWVlOdFlEVUNVQUs4TlBDbENlYk02djZrdnZNNkFxcDVkX1p3cDM4Mzl4UQ?oc=5",
+   "date": "Sun, 22 Nov 2026 14:17:38 GMT",
+   "vu_le": "2026-11-22T14:20:36.101050+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China Eases Margin Rules After Tech Selloff Wipes Out $1.7 Trillion - Seoul Economic Daily",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU1FvOU50T29ZelJNaHRGRDl0eXY4U0lyRDV4c0VzNnp6WmZ6RWpkMnNBMjkxQWpmWlB3TVM0X2RjRUdDNkY0d0l4NFY2b1dwdEtSTGtkdTRkcHJnektweFNrQ0ZLRU9mcVFNX252bC12dThSVTY5TmhjMThYZGFlel8xYlpNRnBhblRwTE1TOHJnNFhQTlhGdWxjY0U?oc=5",
+   "date": "Sun, 22 Nov 2026 13:56:16 GMT",
+   "vu_le": "2026-11-22T14:20:36.101050+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Record Rs 1.22 lakh crore foreign inflows: Is India becoming the world's 'anti-AI' trade? - The Times of India",
+   "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMnlQYmt2MDBxMm1UdG4yeUhSc2tHSFpRY19tLTJ2cl9YcTJJaVdEdTVkTWtOZXEtbDk1VDJKbWdVNVpSZEc4TEFXS3YzQ1Y2ZER4bTZkZ1J6ZTZzN0F2Skpycy02ekZ1VEpmTVgtTDBfU1MyTTJWUVRCQnRlR1RUdUxBbXMwcHhYNTRUTHJkSm1KcWhtMDhIUWhUaUsxa2JvQU9kdXdtbkFYVDBZODRjQW5zamtlbVhXNEdDcERmNG9TU0ZaeGx1UkwtZGxYd21Nb1FVaVVIN1g5QVdna1NjemZ5aDZ6dlcwZXZMZjYwLXNJZUFiWDUteURPaWxDMWfSAYQCQVVfeXFMTmxRQmJlNGc2SG1uUlU1TllLdzJDZmhPZ1NXbEpubmdfMnZJa0VrNV8zcjhReHNYNjgwdEVtNjlKQlhGOVJoRlBvWFNHSjg0OE9RYkE1czY5b0RVck5tNDVvbEg5WkFuZHRZM3FxVlRFQkwtODlyLU51ZG9JQ3RYRWd2aFZxVHFwTlJWOGJxOFljOUxmWTU3UFVlajRWNFZudjJ2YkVPQ3UxMkFZVDhoeGVlcUZOaWlHRmlmVnpVYnJyREVfZVpZcHZ2eTFQRklWZk5vQ3h3Nnh6WHp0OTdReE05NkFObGVpYWxuRnNzZ0NmM1NJOUFVQVhQb2h6OTNGR0RvbW0?oc=5",
+   "date": "Sun, 22 Nov 2026 14:05:00 GMT",
+   "vu_le": "2026-11-22T14:20:36.101050+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "If I Were Building a Portfolio From Scratch With $10,000, I’d Anchor It With This Unassuming Value Stock - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOekFyYWpxMDEtdnNEWENIWHVaTnE5WC0wYjRaNGw0akMzaHI5WFUwd1VkeUp1NERkd3dZNHM4OWk3Q3pPVC15S0hMT0daQVQzSEJKc0g0dEVpczBHNmpBNmZpcUo4cWt4STNrMnFZQnlJRGZNenU1c0NkYlZQVjk1alNJbmlBRXVLTVlqbDl4NndVd0J5OVlkbmZ0emdUNnVJeU11cF9aUW81WUg4cUdvZVZwLW1OU2FpaFFEVy1FSjRHa2d1dkJCTXpHcjU5aVBHX1dJc1pORFZEczkyNXlmV2k4Z2s3ZnVsLUhVTk9fY0NKSXlURXJERDhBQWZ4YzNuUWFTZlRvSEdRVUxSaGJEVw?oc=5",
+   "date": "Sun, 22 Nov 2026 13:20:33 GMT",
+   "vu_le": "2026-11-22T14:20:36.101050+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Polymarket Invite Code TIMES | $25 Bonus for NFL Week 11, NBA & more(Nov. 22) - El Paso Times",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX0FtSExNeGhLT0JNSW4wRjNfazRDVDYtZkRaODJORDl0djBRNWxXMFRMSENpS2QyOVZlNEZseWtrMThRU3hPMThVZHhjVUhCNS1DQ2p2RGVWTnhhRDZKaEhERXpuX3l1OEZ3TThhcTg0djRGTzcwbmNhWXRxQWhTMVpBd0E2U2VKUmFTSWEtdm1Cd0tEZW8zb1Q2enlCQnZqV2hhZTR2cjV0MTJYNkJ1YzJQQjNoV2pv?oc=5",
+   "date": "Sun, 22 Nov 2026 13:52:00 GMT",
+   "vu_le": "2026-11-22T14:20:36.101050+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "HYPE price on Nov 22, 2026 at 10am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmtYTEsyc2h0VmdmWnBhci11dE1iZWhOd2w4X0c0Sm5CTmpGV0lvOHd6cGIzLVBQb1B3Vnh6VDBUYnJVcEptejdyOE1qRnhlOS1kVFdPUEhzdEZiQzFmVkpUUnptRVdhTXlsTVJSLUNkNHpseGpBSklEZGhTazM4QmlKaV8zTzFIYWpNbzUwSjY1a1NoczhZcGxPcUdjSGtVVW5aQlNiTHFnVjc4ekZOZw?oc=5",
+   "date": "Sun, 22 Nov 2026 14:13:11 GMT",
+   "vu_le": "2026-11-22T14:20:36.101050+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - Jacksonville Journal-Courier",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcG1pWVQ2QS15U1BnM09YbGs5eTBHS2tfRTV3dlQyRkI0ajFlczQ1LUF3RnlLdG5HeVN0V1liczUweFJzRW9MbnNEOVZxWEEtcVpyMVBGb1JfZlMyQ25BYzIzLVF5SHYtckxsNTRnVWZIOXB0YkZWeFJkWlloY1o5eEd1YV94cUhvbDVvQjRCQ1NTVldX?oc=5",
    "date": "Sun, 22 Nov 2026 01:57:02 GMT",
    "vu_le": "2026-11-22T02:10:36.489954+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Intuitive Surgical (ISRG) Down 30% This Year; Can Tonight’s Q2 Earnings Reverse the Bearish Channel? - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZTVzVTNjbnlwcWhybkVTU2tnbEZlU1haWVJnQVBSYmdPSFQtV0FJU3d6V3pwV1pKa2k3TzVCUDcyNFpvTUlqTFFmVXZlNUNScFRjZGlXUW5nMU55cnoySUV6WWtyYlNkSjRLYkRVTkFOUFk5QUc0b1FldUd6MnIxY2pTTnpEMnN6dzE1TGFld29tV1lBUVVtSGdqQVlsZzRyaUdGZGxMN0ZhdHBHVGVLZGpvd0dEUndFaFppRXdLV0RhVktFVTl1YzJHaG9qSWNRLWEwUw?oc=5",
-   "date": "Sat, 21 Nov 2026 12:47:15 GMT",
-   "vu_le": "2026-11-22T02:10:36.489954+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Overview #87 — Exit Liquidity - Smartkarma",
-   "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlR1l4Q3I3MTA2cWd1c0w3TjY4UnRhNHM5TWtUQTZwVUdFVy1SMnlCd3Y4MC1mUmxJWU1kcjRlQ3JMVGxwMnc1ZTJ1XzBucjVSQnV2NGpBU3B5OFEzWUtxYnJ2YnlrbnVHZU9oQno4MA?oc=5",
-   "date": "Sun, 22 Nov 2026 00:45:14 GMT",
-   "vu_le": "2026-11-22T02:10:36.489954+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "BTC price on Nov 21, 2026 at 10pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSnRQb0lURUdsOEtXQXBYZ19VMkVZNlZHTDJRbFhwRXFueGpKdTNOR3NMVGxlZUtWb3dSLUh6Q1hldGtkWlItSUw5RVhzVmZhZW1aQlNsaVRsbWpkTEhXMHNqSVA0ZzFiWkJTTVpMTDFjUmQyTUlXZ1VyN1pSWFRDWGpzWjQycnRQZlBtWGQzT2hzeHg4M3V2TUVGTnhCZ2wybHN0dlZjdWdGcl9yNWNN?oc=5",
-   "date": "Sun, 22 Nov 2026 02:04:26 GMT",
-   "vu_le": "2026-11-22T02:10:36.489954+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "This Under-the-Radar Crypto Stock Could Surprise Everyone - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWGpacVFxTUFkc2hOOEhMQzIwc0puRkZmQ1BrSGFNYkpSNFJodThGTjcxLXB3UVVtUGliTmFYd1cxZy1lakk2WmYyVGUtaXZncGtadVZJa2lfS3RUNWRDLUl1N0swLUhXUGNjbjZUZTdLNVl1Z0pzN3pqOGpGeWc1eDJrZ29DOHlyNmh1bXJhaHNfdjlMOXBYMGtlSQ?oc=5",
-   "date": "Sun, 22 Nov 2026 01:50:00 GMT",
-   "vu_le": "2026-11-22T02:10:36.489954+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "SOL price on Nov 21, 2026 at 10pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONUFub2JxTTBQOGI3ZzlOSDNOQUNEQnVFRmNxRlBPTkdybk15dWlrdFhLX3NyRWowNTZLa3M2UV9rNXJ0NlpOLVlmZDMxSlQxSDkweVJxT1NVOTZUM2lUVVN0MTZQX1FDNnVkQWxaTTdIelJHaUhpVzZLc1c2ZHNmRmx3SE9RdmNxUWxXaGNXOTNVdUhwOTBTaS16V29EM2RZTGpiNUhHM0hMaTh6SlJj?oc=5",
-   "date": "Sun, 22 Nov 2026 02:04:26 GMT",
-   "vu_le": "2026-11-22T02:10:36.489954+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic IPO six times oversubscribed: what retail investors can realistically expect - investingLive",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1RGSnFrb3dsbnFwaUZ1cV92UzVHbjlsV1UweExVNThXYVl1TUpITjFacTNJUVZQbTc0NVRBU3MySVNYdWlNSGdzLWplTXpHbGZGamVoWkRmR0NEM3AwSmxSSV9QZ3o1UWdpWWdQSG1QM19BM3JJdUJsZ0hjTmkyMmlHUHRPMUZKRDY4YlpqWGtmVGQydF81V1pVS09lMUVZcmpxYlFnMFVOcjZxNnM2WDFzakpRTUg3UnN3?oc=5",
-   "date": "Sun, 22 Nov 2026 00:14:34 GMT",
-   "vu_le": "2026-11-22T02:00:35.662261+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Is the S&P 500 in a bear market, and will it rally? No, it's in a correction, 11.6% below its record - Nacionale",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1dZcHJrMTdPMEUtb0RVWURfcFg2SHV3TE9VRzREMkpmR2tXdWFTNXZpdzZXblRaNHhzN3dtTF9qeDdnWlVwS3ljOVhzNmJDQXRlU3JRaGVUeV9fck0tX0ptTXlZV0thVGJ4d0ZXZDM2OC1hUkJDbHRlNXdSQ0hEWGhaVUY5Q3FPUjdfX2pvOWlvSkVGams2b2JlYnlFNl9mX2R0R1BvU1diN3AxU2w2bG54bWtYS3FaZUt3aA?oc=5",
-   "date": "Sat, 21 Nov 2026 20:00:55 GMT",
-   "vu_le": "2026-11-22T02:00:35.662261+00:00"
   }
  ],
  "erreurs": []

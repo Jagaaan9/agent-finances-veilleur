@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55431.13 EUR, jour 0.99 %, mois -23.51 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55369.2 EUR, jour 0.88 %, mois -23.59 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,13 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] AI stock sell-off sends S&P 500 into correction, Nasdaq negative for year - Scripps News
+- [Marchés mondiaux] Berkshire Hathaway Stock Jumps 14% in 2026 as Wall Street Downgrades - Coinpaper
+- [Chine et Asie] China Eases Margin Rules After Tech Selloff Wipes Out $1.7 Trillion - Seoul Economic Daily
+- [Pays émergents] Record Rs 1.22 lakh crore foreign inflows: Is India becoming the world's 'anti-AI' trade? - The Times of India
+- [Défense, énergie, matières premières] If I Were Building a Portfolio From Scratch With $10,000, I’d Anchor It With This Unassuming Value Stock - The Globe and Mail
+- [Crypto] Polymarket Invite Code TIMES | $25 Bonus for NFL Week 11, NBA & more(Nov. 22) - El Paso Times
+- [Crypto] HYPE price on Nov 22, 2026 at 10am EST Crypto Prediction Market - Robinhood
 - [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - Jacksonville Journal-Courier
 - [Banques centrales et taux] Le dollar repasse au-dessus de 54 livres égyptiennes, la Bourse égyptienne recule - Ahraminfo
 - [Petites valeurs en croissance] Why Zscaler Stock Is Back In Focus As Cybersecurity Deal Talk Heats Up - Simply Wall St
@@ -447,10 +454,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Pays émergents] Top Tokenized ETFs by Market Cap - CoinGecko
 - [Pays émergents] Sensex Gains 308 Points, Nifty Closes Above 23,000 as IT and Pharma Stocks Lead Rally - INDIA New England News
 - [Pays émergents] Imperial Blue sale pushes Pernod Ricard behind Diageo in India's alco-bev market - Moneycontrol.com
-- [Anthropic (FR)] AMD Is “A Direct Stakeholder in Anthropic.” That’s Up to $5 Billion Riding on Its IPO - TIKR.com
-- [Anthropic (FR)] Anthropique : La pression pour convaincre les investisseurs après une introduction en bourse - Vietnam.vn
-- [Marchés mondiaux] Wall Street Sell-Off Pushes S&P 500 and Dow Into Correction - cwibc.co.id
-- [Intelligence artificielle] Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail
-- [Intelligence artificielle] The 77-year-old former air-conditioning technician who built a $10 billion chip busin - CTech
-- [Résultats d'entreprises] Microsoft's Azure Turbo: Beat on Revenue and Earnings, Raised Growth Guidance, Stock Jumped 15% - TradingKey
-- [Pays émergents] Gold, silver, and India’s coming of age as
+- [Anthropic (FR)] AMD Is “A Direct Stakeholder in Anthro
