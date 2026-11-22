@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T21:00:36.957582+00:00",
+ "mis_a_jour": "2026-11-22T21:10:36.232912+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55505.62,
+   "prix": 55531.14,
    "devise": "EUR",
-   "jour_pct": 1.13,
-   "mois_pct": -23.4,
-   "volume": 156.40583277,
-   "volume_relatif": 0.65,
+   "jour_pct": 1.17,
+   "mois_pct": -23.37,
+   "volume": 159.99277954,
+   "volume_relatif": 0.66,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto exchange's collapse hits Chinese investors hunting for yield - Nikkei Asia",
+   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ0FwN2lXWDNqODN1MF9JcHdUc3NPY2E0LTRvSDlVeGdSQ2ZmQkJKRzdMSERHV2dVMkpxSUE2YjlEV3VSR24wV0Jyb2JITktKeTFtTUZQRUVWMGg2dk5kVGk4Ymw4NEZpOGhEUjJiZEZJcXdwWDdFMk82b2REM3Vvb3FwalQwQ3pLQVdmSERUbVRBX1h3V0hBRGZ6eXMtTzNYUFNmTHEwaDJDM016c1JDeEFyMXk2VU1VRUd4NkFR?oc=5",
+   "date": "Sun, 22 Nov 2026 21:00:00 GMT",
+   "vu_le": "2026-11-22T21:10:36.232912+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "The One Number Behind Every $5 XRP Forecast for 2030 - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWlcwUUhOY016elJxWGx1dnFQTGFCc0NaTFlTajFaZDFIbHg2U1J4NTdIQWpFaW1TcVNLei1wME5keGt0VnRlVnB1SS1wY1lWLXljV3hZOTJoU3RfNnJZcHp4QXFzUHc2MXpUeU5mZHZZc0ZwWWR4QWFxWXlyOUhUZVFBZFBDS1hYVHVLOC0tTERTdWdN?oc=5",
+   "date": "Sun, 22 Nov 2026 19:56:55 GMT",
+   "vu_le": "2026-11-22T21:10:36.232912+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "$500 in XRP or $500 in Cardano: Which Could Be Worth More in 5 Years? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWRCMmZDVTl0LWlPOG9FU2F2bGxRb0FINnpsaTBDMlBqbF94T3ZWTWRHQWRZVE04SE1iV2NJWXI3RVB5UDc0OXgxSzFDUldiU2x0YkFXRnFpS2pkc2VULTl5ZW9hTl9GQVU2bDlYcVMyR0ZvM3h1S2k2eUd2VE11WmZRbmlBV1k3RUlIUk9RbWdzYUUtTlZyS3dDT0lpZmNuUUZmNGNhT1I4ajlWVUs2Mko4NUxCRkkyNEEtTFBmak83QQ?oc=5",
+   "date": "Sun, 22 Nov 2026 21:06:00 GMT",
+   "vu_le": "2026-11-22T21:10:36.232912+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic Stock Could Soar by 72%, According to This Wall Street Analyst - The Globe and Mail",
@@ -6531,27 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPXzZ2NlBwUWptVTFOb1JYU25KTDA1US1wX1ZQS2pSMk1nbHhRMmYtQkhzTjVVVWZWNlJqM3JJZzgwSzZkUFVMZFU4VWNCSlZMcUd2YnprdkdqUjZPanhTQnByZndPOF9GOVNPeFZRUkRtWkNIZHhXZUt2c3pUSzZqQmVSY0ZiSk53MEpoU3R6Ymp1Y25fT2QxazVZWk5jSnc5ZjZjS252N0R4U0NRbWs3UFJvR1liQ3Q3eVV3blZ4RU55ZFFLS3hzcm5HVGc5ZGt1Y3lBVkNuQm5EMjVpMnNyX2xSc0NWdXFWTVNMRG91d3lSemNxXzJhT2dRamFyMEZCTlhDblNieDVVYXVUMmxnbC00dw?oc=5",
    "date": "Sun, 22 Nov 2026 08:16:56 GMT",
    "vu_le": "2026-11-22T08:50:34.687395+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Noah Smith and Steve Rattner on Anthropic's IPO: the largest wealth-creation event in a generation, and what it means for inequality - Dealroom",
-   "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRnBUTHBCRFZ2MnVJOWFuVXJzcWZpSVNlUzFBTXRCQnJmT0htbF9tNWFxeVh0WW52a3ZQeTMxVEZfZjc4MUlQSVVLVkFxN0dkZm16WmdGVmpMLWE4eXlMTHZqcWZsNEp2akV3VW8wUUZiNF9nRHBYQVJhX19zbmJZcEtoY2RzMHdRV21UUDJfRE40SURPXzJ1Y1ZlT0plWnk2MWlseW1BZXFMWWI3RjJxNGduckJzT09FMG5BT3M4N1MtZmlHX2RXd1FJVE1TbElYX2JINWN3VzYzdUZIRmtNdG1laGFFY3Zhdjg0Y1dRczBTZWNZTkpR?oc=5",
-   "date": "Sun, 22 Nov 2026 08:32:01 GMT",
-   "vu_le": "2026-11-22T08:40:37.294130+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "AI Chip Supply Chain Shifts Put Disco Stock And Asian Tool Makers In Focus - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY29Pa0pYMkgtS3VxVUdBQlF2SGNtbWFIbl9ONkR3STgwamQ2Q1pyX0x5S1lYNENsN2psV251MzQ1TXlTOTBFVlVLQTFqS0c3U29FNWpsVmlNQTFfU3RtZFBQdUpRX3hhTGlNV2NTODc1QTBpNV94QlVJUFJJUnR1YUxiRjFJejJtYnZmbDB3bEdjSHQ0RWc?oc=5",
-   "date": "Sun, 22 Nov 2026 08:09:02 GMT",
-   "vu_le": "2026-11-22T08:40:37.294130+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Dow Jones Sinks to 50,759.42 as Home Depot and Cyclicals Weigh Before Nvidia's Earnings Beat Estimates - BBN Times",
-   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTjZZMG9pdDNTb19lUjAwUk9FQkpqZjdHbW40SW9TenVLWFViNzM2V0FuWUMxMzZqbGdJSjl2MnI3Q0Q1WlRMUUNQQnpXNjhqa0V0UHN0QTR0OEYxUW81Z1VGWlJlOEI3eHRRRnFaNU9IOTMyWkczMFV0bHY3YzVlS2dqZWd0M0ZBNnFySVYzNG9LYkVfc3hRLVQ4SC1WZ1NMSEVaTXpLamF3YjlBb0wyVHpqX21TTkVsYWNGMG1JZGhkOW93VmhNaTE4UzBYYjZCSUVESTlUZWhkUQ?oc=5",
-   "date": "Sun, 22 Nov 2026 06:11:29 GMT",
-   "vu_le": "2026-11-22T08:40:37.294130+00:00"
   }
  ],
  "erreurs": []
