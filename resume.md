@@ -12,8 +12,8 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3533.7929 , jour -1.22 %, mois -5.53 %
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.0964099999999999 USD, jour -0.01 %, mois -2.23 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55350 EUR, jour 0.84 %, mois -23.62 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09705 USD, jour 0.05 %, mois -2.18 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55428.65 EUR, jour 0.98 %, mois -23.51 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,12 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Rachats et fusions] Should You Buy Tesla or SpaceX Stock Before Their Potential Merger? - The Globe and Mail
+- [Petites valeurs en croissance] “Buying Undervalued Blue-Chip Stocks and Closing the Trading App” ... Meanwhile, a Look at ‘Even Cheaper Stocks’ - 매일경제
+- [Petites valeurs en croissance] Luzerner Kantonalbank (SWX:LUKN) Stock May Be 8% Undervalued On Excess Returns - Yahoo Finance
+- [Pays émergents] 10 Best Multibagger Stocks In India November 2026 For Long-Term Gains - Samco
+- [Défense, énergie, matières premières] Firefly Aerospace Inc. (FLY) stock price, news, quote and history - Yahoo Finance UK
+- [Crypto] Polymarket Invite Code TIMES | $25 Bonus for NFL Week 11, NBA & more(Nov. 22) - El Paso Times
 - [Marchés mondiaux] The U.S. Stock Market has dropped 10% over the past week – What’s Next? - The City University of New York
 - [Petites valeurs en croissance] Can Ocugen (OCGN) Justify A Reasonable Value After Its License Deal? - Simply Wall St
 - [Défense, énergie, matières premières] Defense Stocks Fell After the Midterms. Here’s the 1 Defense Name I’d Buy Anyway -- and Why It Isn’t Lockheed Martin. - The Globe and Mail
@@ -456,11 +462,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Résultats d'entreprises] Earnings Beat Could Change The Case For Palo Alto Networks Stock - Simply Wall St
 - [Petites valeurs en croissance] Learn Why The Bull Case For Ionis Pharmaceuticals Stock Could Change Following Alzheimer’s Trial Data - Simply Wall St
 - [Anthropic (FR)] À l’instar de SpaceX, Anthropic a mené un processus d’introduction en Bourse inhabituel, au grand dam de certains banquiers - Zonebourse
-- [Résultats d'entreprises] Intel Q2 2026: Revenue Up 25%, Data Center +59%, Stock Surges Then Retreats to $100 - TradingKey
-- [Crypto] Bitcoin Won't Be the Best Way to Get Rich in the Next Bull Run, Expert Claims - Benzinga
-- [Anthropic] What Comes Next After Anthropic’s Historic IPO - WSJ
-- [Bourse de Paris et Europe] Bourses européennes : éviter le jeu de qui perd perd - Les Echos
-- [Pays émergents] As Wall Street struggles, is India emerging as a new investment destination? - The American Bazaar
-- [Défense, énergie, matières premières] MDA Space Ltd. (MDA.TO) stock price, news, quote and history - Yahoo Finance Australia
-- [Crypto] Bitcoin Price Predictions Favor $50K as Market Fear Deepens - Cryptonews.net
-- [Crypto] Elon Musk’s Grok AI Predicts Best and Worst 
+- [Résultats d'entreprises] Intel Q2 2026: Revenue Up 25%, Dat

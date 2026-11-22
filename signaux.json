@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T22:30:37.424243+00:00",
+ "mis_a_jour": "2026-11-22T22:40:36.164877+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,12 +160,12 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.0964099999999999,
+   "prix": 1.09705,
    "devise": "USD",
-   "jour_pct": -0.01,
-   "mois_pct": -2.23,
-   "volume": 325,
-   "volume_relatif": 0.0,
+   "jour_pct": 0.05,
+   "mois_pct": -2.18,
+   "volume": 886,
+   "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
    "bourse": "FX",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55350,
+   "prix": 55428.65,
    "devise": "EUR",
-   "jour_pct": 0.84,
-   "mois_pct": -23.62,
-   "volume": 168.01730601,
+   "jour_pct": 0.98,
+   "mois_pct": -23.51,
+   "volume": 168.50979359,
    "volume_relatif": 0.7,
    "capitalisation": null,
    "per": null,
@@ -3754,6 +3754,48 @@
  },
  "actualites": [
   {
+   "sujet": "Rachats et fusions",
+   "titre": "Should You Buy Tesla or SpaceX Stock Before Their Potential Merger? - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPakE2T3BxUHh6WUc4X29fUFRkT0JTdmZIUTU5MDBvQzlLWmNqWEF3eFdLcjdCYllrSlRmbnBFaEpwSEgzWkNHVmYyMVgzYmIwbS1JNjJVeUp4elI4RXJOWUcxeHhpdExlY3RFSVpBRVF2Rmw4Y3RRZDZ3SjBrcDdzZXozakFGcDBuS2s0dl9CVEU4UnF1eURKbk04dHBDZ0tycDVCV2c4R2JwRVdsdTVhQ2tGNzhwaVdKaFQ2RmkzVEwzUW1ya29Nb3N4SW5TZGVPYnZaTnVIZW9QMnN1WW1fQ1BLQlRhanN5?oc=5",
+   "date": "Sun, 22 Nov 2026 22:21:12 GMT",
+   "vu_le": "2026-11-22T22:40:36.164877+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "“Buying Undervalued Blue-Chip Stocks and Closing the Trading App” ... Meanwhile, a Look at ‘Even Cheaper Stocks’ - 매일경제",
+   "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xOEEtRFJRU1FVYnV1ZC14TEtFLTd2QWt2Y1lGTzF6a3o1ZzdpMUxadE4wMGRhUUFXWEI1TjA2MWxEbG44elQyUi0waXVNMWVEYnlj?oc=5",
+   "date": "Sun, 22 Nov 2026 22:16:20 GMT",
+   "vu_le": "2026-11-22T22:40:36.164877+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Luzerner Kantonalbank (SWX:LUKN) Stock May Be 8% Undervalued On Excess Returns - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMldwTktqaTRBZlhmWDB1VGZCZnN2NGZxX3R4Q1JsQzJNeTZLWjZyUlF5THdOUHM2VVhnVzBUTTl5bDljY1YzRlo3cU4xYzB6dkFmT1dzOEV4WlRvX3JpN3BET1RkYUZyWGF0YTVJaE9aTkJPSjJUYlpjTkF1cG9ob3QzNnRZSHFjT0gtcGpXSEhEM1drOW5hdlRGZm9pOXJFbmpV?oc=5",
+   "date": "Sun, 22 Nov 2026 22:09:54 GMT",
+   "vu_le": "2026-11-22T22:40:36.164877+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "10 Best Multibagger Stocks In India November 2026 For Long-Term Gains - Samco",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVGdFZFhpaFkweTJIZkp6MVhnbkFLLTJ6dDcyXzh2b3JoeHNxOTQ3UTE3czZsdm40MWZNamFscmVhN1o1UTItVTc2OW9DY0I0UHk4aEdyRTNjbUFHSEZ3bXpzUHd0WWpVeldPemJWVHVicnJpYVVmN0c2SjMtVEVQTDlsVDR4NG1qV0Y2SndKNmh4SE1CV2c?oc=5",
+   "date": "Sun, 22 Nov 2026 06:51:13 GMT",
+   "vu_le": "2026-11-22T22:40:36.164877+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Firefly Aerospace Inc. (FLY) stock price, news, quote and history - Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJWFVFR0ZMNVdnVks5c0k2bU5fRHJZZGdyNWVWTTM3MXkzbmdiUkpVVGY5dldFUFhfVVVyREZtRVR0R0RiR1pPeS0wVlJ1ZjRs?oc=5",
+   "date": "Sun, 22 Nov 2026 11:43:03 GMT",
+   "vu_le": "2026-11-22T22:40:36.164877+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Polymarket Invite Code TIMES | $25 Bonus for NFL Week 11, NBA & more(Nov. 22) - El Paso Times",
+   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUnYxZEwzQXRtNzlSZXB1LVJqbFZ6YUxHV2pxN0t4dEhtb2RyMG5ZVy1BdGI0MFY0YkJLMDJ1b2tTR3lmcUg4Z3pYU29PeUFTT05TMFdwYU5ENHIxMExZbmlQUF8tdXk0TmVqbnVqZWVXTGNJZzNLRFFWNjZ4N0JGakRrVk9PUDZuUzB4NU5mSGJsSWRfZVJ0SWxJSGRmWkpRRHQyS09YMS1uRVdZYkhwcnNkR2lfZmZOaUJhdkRhMjFsU2FZ?oc=5",
+   "date": "Sun, 22 Nov 2026 18:20:00 GMT",
+   "vu_le": "2026-11-22T22:40:36.164877+00:00"
+  },
+  {
    "sujet": "Marchés mondiaux",
    "titre": "The U.S. Stock Market has dropped 10% over the past week – What’s Next? - The City University of New York",
    "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEFQTkltRFV2UkxFUTFkYWNuLVlsM0RVS1BKaFBTdDA3RkJkM21qX0FMUmJnVkswQ3o0UGZoZzZxem5VTFEwTzRVcnl4X2M3Uy1hRjRsZXpOQUsxMG1WZGNXV1pQekQ1NGtpT1QxT1lpU1hLTUFBeENkLXFqc2drTmRnZUJXUE9SSnkwWEhlREdNZXgyT1JiT0VudXJYcjVlUTdRQmxPY1E0Uy1rdG1GdXVZajhqdw?oc=5",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOSmppUFVTbFJ6dEtndmF2WUUxekw4NWQxMG1NU09JSFV3bVpvVEs1VnZaU1ZucDlSSHJScHA5clJwM1RUcEUta24xVW5tZHNSN0dScTItRkViakl5UTk3NlgzRlFvM0JPTU1DRG5ybVdPdjI3VDZEeVVMN1Zjc2dCTVM2Z055UHcxZTliZ3J0aVRPeGFycG15MTFRam5BazM3aVpVeGpDRXlPSjBYUXhlRENpd1BscVF1SWViM01FYW9vdXg0ZjB5OUNIU2pOSXV2VnBfS1puSzE0aEhhZlk0N2xMRDB4eDJEV2o2UmZtangyWWVNa05vbU5ld3ctUGQ2cG9UYnlDdWxlWGhUa3J5c3Rvd1pKZHp3Ym80?oc=5",
    "date": "Sat, 21 Nov 2026 20:52:39 GMT",
    "vu_le": "2026-11-22T09:50:35.990899+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "AMD Hits All-Time Highs as the x86 CPU Renaissance Takes Hold - Is AMD Stock a Buy at $345? - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHRiem94UWFoSkpCbWRaR2RBcVZydDRQbkc4Y3FKUWdLMC1HcGgxb0pGSk5CcGVES0E2SmlPUVE2bXMxZzhSTE0yeXdLam1aY1RidWZ0Z25JenZob3p1aHJSVExvN1lCeExyYTZoczZfbGx6X1V0cmRvajIxR1VWUTBaNVJYcHFTQmhIR3hqREZGMk9RamNha1hzQS1NbmV5MWM2d3pn?oc=5",
-   "date": "Sat, 21 Nov 2026 20:05:15 GMT",
-   "vu_le": "2026-11-22T09:50:35.990899+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Crypto Market Remains Under Pressure Though Bitcoin, Ethereum Rebound - Moomoo",
-   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV1NQcVJ2ZkZfNGhyTkVMZnJOb3lBZDREZk4xY1N1ZGx3R0g2aENIVV9BMjY0VVBMTzJKM01aWVlnUlNiTTBQaTRCT3RmX3FVS0ZrSUNVQmwwWmIwdDBzZjFYQUU5OUFqWmc2ZnpVeEI3MXBya05pbklLZW44V1d4ZEhUeElxcGk2dFNBaGRyV1hDOWpBQWdJek1zZ0d2bU9fMEJqd1dIa2kzNFpNTG5RMXF3?oc=5",
-   "date": "Sun, 22 Nov 2026 08:39:38 GMT",
-   "vu_le": "2026-11-22T09:50:35.990899+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbUM2UVJiS3lfTWlleFBFTUZBeUY4aGhpWVQweE42TC1md2Jzcm1ZdlM5MFlTRHpFU3VMdzZVdk9Cd1VQeE9BMXl2elU5X05OVXRuWlVKcmxsNDJ1NXV3UUxIQVNlRGkzaFJEZmk1WU1nTnZfcTFjQnQ3NndrNzRXN2d2dndIeV9aYWlxNmtIZ3BpZjFFVnNNT1dBclFHOVlReXdyR1VHd3BsOGZIVHdrZGplRVc1WXdBak1UbUFQZXVWX1Zz?oc=5",
-   "date": "Sun, 22 Nov 2026 09:33:06 GMT",
-   "vu_le": "2026-11-22T09:50:35.990899+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Record $950 Billion of Bitcoin Capital Sits Below Cost Basis as Price Slumps Near $58,000 - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BMTZOY0pNSHZwaUFaLVJVOGRZWi1rWEtia0hCcHg3QWZOWmFqT2k5eWlBcTRySDBoLXJjTkVjQzJxbmFKZlEtUUhiZmFuWFpjeHFvYXlOS19XX1c4QWQ1NzA3V3BYMEhIMURZUGVKaHVaZ2FKZHc?oc=5",
-   "date": "Sun, 22 Nov 2026 09:35:00 GMT",
-   "vu_le": "2026-11-22T09:50:35.990899+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Is the AI bubble finally bursting, or is Wall Street just catching its breath? - CTech",
-   "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2YzA2YXlqdG43OGlBNDgyOEhUd243SE50cEVyNnBXQzd6MGVScHNwdEFRQ0lXcW54N1FVbXVWektNaGp3SHB5aVJhWldwVjF0cy1IXzVDZHE5MjFwNWNteENVMXBGVzhO?oc=5",
-   "date": "Sun, 22 Nov 2026 09:26:00 GMT",
-   "vu_le": "2026-11-22T09:40:36.492104+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off? - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV0hiOFRqRThPRXdydk1VVjFyTGNzUXhXc3VDcWNFeFltM2g4X094QV9WWEdjbjl6UEgxTnFCbTZ3TE83YXo2TkRiaWxXNUd5MjBHaGtWYUVxT1MyU2oxbDRMQ2RWRHIyR2hKUzEtQUFEV05Ic1NvVlI3TjAzRVJrV0piZERnSG80WHhXY0diSGNwR05oLVVzWDVOYW1sRHI1RFFET2VIcFJvdEg1T0Vrc01UTUV5UnRBTnRhOUxMVENtRFBNT3NBR0NEc190WGVRQ2p3TGlBVG1DR0pzamlZRGxWUGNLV2d6ZjBmcTlqT3ZyanY3T1VRNw?oc=5",
-   "date": "Sun, 22 Nov 2026 03:30:11 GMT",
-   "vu_le": "2026-11-22T09:40:36.492104+00:00"
   }
  ],
  "erreurs": []
