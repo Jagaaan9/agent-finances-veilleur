@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T02:00:35.662261+00:00",
+ "mis_a_jour": "2026-11-22T02:10:36.489954+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54813.44,
+   "prix": 54793.38,
    "devise": "EUR",
-   "jour_pct": -0.14,
-   "mois_pct": -24.36,
-   "volume": 5.27256435,
+   "jour_pct": -0.17,
+   "mois_pct": -24.39,
+   "volume": 5.43252355,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic IPO Tops $1.8T Amid AI Stock Selloff - Briefs Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3A3UXhzWGFBNjlEekFoeUtCMlllMFpDOUdqdzhJcnE4OFBrX1FFSnB3UTFBTzk3TXFFWk9Gdjhxc1hITTl4RmxOUWtqV2c5MkxPNXVUSlNFWk1uV2xqaEVKcGhETWltM01YVzdreXZ3SEhiSGhBVVRkX0lwcjd1OHhkLThsbUpUWERxT1RpUHhNdw?oc=5",
+   "date": "Sun, 22 Nov 2026 01:39:14 GMT",
+   "vu_le": "2026-11-22T02:10:36.489954+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Taux de change du dollar américain aujourd'hui, 22 novembre 2026 : La forte hausse fait chuter l'euro et la livre sterling. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcG1pWVQ2QS15U1BnM09YbGs5eTBHS2tfRTV3dlQyRkI0ajFlczQ1LUF3RnlLdG5HeVN0V1liczUweFJzRW9MbnNEOVZxWEEtcVpyMVBGb1JfZlMyQ25BYzIzLVF5SHYtckxsNTRnVWZIOXB0YkZWeFJkWlloY1o5eEd1YV94cUhvbDVvQjRCQ1NTVldX?oc=5",
+   "date": "Sun, 22 Nov 2026 01:57:02 GMT",
+   "vu_le": "2026-11-22T02:10:36.489954+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Intuitive Surgical (ISRG) Down 30% This Year; Can Tonight’s Q2 Earnings Reverse the Bearish Channel? - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZTVzVTNjbnlwcWhybkVTU2tnbEZlU1haWVJnQVBSYmdPSFQtV0FJU3d6V3pwV1pKa2k3TzVCUDcyNFpvTUlqTFFmVXZlNUNScFRjZGlXUW5nMU55cnoySUV6WWtyYlNkSjRLYkRVTkFOUFk5QUc0b1FldUd6MnIxY2pTTnpEMnN6dzE1TGFld29tV1lBUVVtSGdqQVlsZzRyaUdGZGxMN0ZhdHBHVGVLZGpvd0dEUndFaFppRXdLV0RhVktFVTl1YzJHaG9qSWNRLWEwUw?oc=5",
+   "date": "Sat, 21 Nov 2026 12:47:15 GMT",
+   "vu_le": "2026-11-22T02:10:36.489954+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Overview #87 — Exit Liquidity - Smartkarma",
+   "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlR1l4Q3I3MTA2cWd1c0w3TjY4UnRhNHM5TWtUQTZwVUdFVy1SMnlCd3Y4MC1mUmxJWU1kcjRlQ3JMVGxwMnc1ZTJ1XzBucjVSQnV2NGpBU3B5OFEzWUtxYnJ2YnlrbnVHZU9oQno4MA?oc=5",
+   "date": "Sun, 22 Nov 2026 00:45:14 GMT",
+   "vu_le": "2026-11-22T02:10:36.489954+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "BTC price on Nov 21, 2026 at 10pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSnRQb0lURUdsOEtXQXBYZ19VMkVZNlZHTDJRbFhwRXFueGpKdTNOR3NMVGxlZUtWb3dSLUh6Q1hldGtkWlItSUw5RVhzVmZhZW1aQlNsaVRsbWpkTEhXMHNqSVA0ZzFiWkJTTVpMTDFjUmQyTUlXZ1VyN1pSWFRDWGpzWjQycnRQZlBtWGQzT2hzeHg4M3V2TUVGTnhCZ2wybHN0dlZjdWdGcl9yNWNN?oc=5",
+   "date": "Sun, 22 Nov 2026 02:04:26 GMT",
+   "vu_le": "2026-11-22T02:10:36.489954+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "This Under-the-Radar Crypto Stock Could Surprise Everyone - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWGpacVFxTUFkc2hOOEhMQzIwc0puRkZmQ1BrSGFNYkpSNFJodThGTjcxLXB3UVVtUGliTmFYd1cxZy1lakk2WmYyVGUtaXZncGtadVZJa2lfS3RUNWRDLUl1N0swLUhXUGNjbjZUZTdLNVl1Z0pzN3pqOGpGeWc1eDJrZ29DOHlyNmh1bXJhaHNfdjlMOXBYMGtlSQ?oc=5",
+   "date": "Sun, 22 Nov 2026 01:50:00 GMT",
+   "vu_le": "2026-11-22T02:10:36.489954+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 21, 2026 at 10pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONUFub2JxTTBQOGI3ZzlOSDNOQUNEQnVFRmNxRlBPTkdybk15dWlrdFhLX3NyRWowNTZLa3M2UV9rNXJ0NlpOLVlmZDMxSlQxSDkweVJxT1NVOTZUM2lUVVN0MTZQX1FDNnVkQWxaTTdIelJHaUhpVzZLc1c2ZHNmRmx3SE9RdmNxUWxXaGNXOTNVdUhwOTBTaS16V29EM2RZTGpiNUhHM0hMaTh6SlJj?oc=5",
+   "date": "Sun, 22 Nov 2026 02:04:26 GMT",
+   "vu_le": "2026-11-22T02:10:36.489954+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic IPO six times oversubscribed: what retail investors can realistically expect - investingLive",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXRvNTFxU2pCV3lNcjFDaGVYY0o5UDBLcE9BcGQ4M1VScUtEbF9KQTVMaDVfTlhDeVd1VFN0b1dIUldneFk0R2NFTlBaRzdBLUZpTy1ELUJuV1JHdnI4VlpHMTFuWnNQOWdvd1dQZ3JSbkhKdzUyRTUwWDlwbEhBWjh4YnFOVUtSZHBsRGxLMGRBNWxRYzdGQk9LdFhUY1RlZWJuMzlVS1RIQXY4OFE2R09NVk04d3fSAcMBQVVfeXFMT21UTGctRWozY0pTYTA1cVRZYVRCaXEwS3Jrand0NjJOQTNTSV9ldzVoMlRnTWd5QkxOMW5fRDR1bUtZVXZyX2VYMlJxU1JnZktnMTVYdG9XUzF2RzQ4M2VNdTJXN2o2bHBrdWFQbWtCYnJ3YkdVQlQtSVFMd0s5V251UUczOFY1VGF3azJpQlNIY1JWWmluM2ZUNmpOcjd2dlhlNF80NjF3REtaSkxfVHRsZFFFY0VweWR4ajZSY0FsTDlj?oc=5",
    "date": "Sat, 21 Nov 2026 14:12:48 GMT",
    "vu_le": "2026-11-21T14:20:35.850415+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock Market Sell-Off: History Says This Is the Smartest Move Investors Can Make Right Now - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWRYcjdlYlJ1b2hHdE9VSjQxNGg2TDRza0YxSXZ5dWMtQ2dHMWZBWk8wVjlPdEVQYVd4MF9MVE80cmpvdW9DNlpYbVh2blVUWTNNbjItcG5LNDlQclhIS3h2QnFxXzFoS0xIQjByLWk2V095NVJPVmZXTkdLWXBJb3NJemdaMHZJZ0JFaVFmOWh3T0dyM0toQjVB?oc=5",
-   "date": "Sat, 21 Nov 2026 13:35:00 GMT",
-   "vu_le": "2026-11-21T14:10:37.431652+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "A 10% drop for the stock market is unnerving, but it’s not that unusual - WTOP News",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2JQOXpPMVJ0T0x2MmNIcEwxbnBZVjRRQUl5bXk4cDJtSXVaWWcxNW5ld25vaDFkeEpLS2ZpN0RlUzIwdU15aWtOZnp3b2xOMWNycDJXcEx6bDdjNVp2SmczakQzU2NFQUVTOUd0YXlOSlRwc0NiUUk5VllTMXFtTjkyOVNpcVRjdnhBUHZzeE8ycm5nR29LNFJGVUdxS0RQNlk3aEZ3?oc=5",
-   "date": "Sat, 21 Nov 2026 14:03:26 GMT",
-   "vu_le": "2026-11-21T14:10:37.431652+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "You Know These AI Chips That Are Making Billions of Dollars? The Workers Building Them Say They're Being Paid Peanuts, and Now They're Realizing They Have Leverage - Futurism",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeDhaa3NNSDRxajJGM3FfV1pjcHpLWWVyc0Ixdno3enBma3ZXcC1aVnVYZEZzLU0zWmhScE5zUFJtZ2NucXYwVUJRSVpaTVRNR3hEZE42X3UzQVhwSTIyT3V0YkEwWGF1TE9UY0xER0U1b3Z6dUc2NDI1VHp1V2p5TWQxa29MUHYwSnpCLXpBcmg?oc=5",
-   "date": "Sat, 21 Nov 2026 13:49:00 GMT",
-   "vu_le": "2026-11-21T14:10:37.431652+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Anthropic and Bitcoin Are Both Falling: Where Is the Money Going? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnl4QTdoM1dwRGNxeG5kcWRQb1p5R2JXNVMxQThUZW01WDU2N24ybTFUS0RMV0JSSExNR210R19rRkJBSy1qTnZnQkxLai1lbS05VldGT25rcjliV1VrRHd2bjdiU1doMzVoSXpWZEpJNm5HRTJjSjdJdjZ6clRFbFM2TFlkcEIzQ0pyZHNndzY0TzBxYi13Ymh5T2NmQml2Nldz?oc=5",
-   "date": "Sat, 21 Nov 2026 12:31:00 GMT",
-   "vu_le": "2026-11-21T14:10:37.431652+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China's A-Share Style Shift: High-Flying Concept Stocks Hit Limit-Down in Batches as Semiconductor Equipment and Manufacturing Buck the Trend - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qOUF1V2hHOXVDX3RYQlJBS1VyN2lpbV9sc3ZHVFFEZ0lkRG95SlJieUdaanBoTHRyYzBtbV84cHZWZ0Jyel9XVHhHN2FNUnRON2t5aVlwQTM4T2xvUF9uU1JqaWh4ZlhyaGMtSDJ1WFZaY2VyeFE?oc=5",
-   "date": "Fri, 20 Nov 2026 15:25:00 GMT",
-   "vu_le": "2026-11-21T14:00:34.601861+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock Market Sell-Off: History Says This Is the Smartest Move Investors Can Make Right Now - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFM0b3lCemRYTzJuUmJ3MWRtNTBUYm8yWlpBTC1PZ2xhU3hqc2MteWxZZ0c1Vlk2aDNTX0xRdWs4R3Z1eE5lNWlKcnZ2WEhtb3FmbHBqSVU5UXdrQXN3OTBwVS1UNFJWS0ZXY1JjZmlqdWd1d2FuWEVKQ3AtUDdEc0NqYkZWcTR5Y0I1VzJ6Ukc4SVRCMU1yNQ?oc=5",
-   "date": "Sat, 21 Nov 2026 13:15:00 GMT",
-   "vu_le": "2026-11-21T13:50:35.938059+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGZTRVdJcGNQbEdjRlRQUnN1YjBzTXlaYzFDb0swSDlCNTVsLVo2SGtQTGxsUGxzVmE0SkFPbHB0dFBXbWhGQVZUdmFQZ21zeDBwcW5OSjJmOUtmQjB4U3lNVkptMzYybHpmR1hkTUZESVlQU1VtWFhsSzNGWUlmWHNUa3FCd0t6NjNFR0xkTzBxdjYySFFtSTRQbTFwTDd0TXlfVEY4dnZCNmxrVnZFWVlSR0U?oc=5",
-   "date": "Sat, 21 Nov 2026 13:00:00 GMT",
-   "vu_le": "2026-11-21T13:50:35.938059+00:00"
   }
  ],
  "erreurs": []

@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54813.44 EUR, jour -0.14 %, mois -24.36 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54793.38 EUR, jour -0.17 %, mois -24.39 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - G-Resources Group Limited (HKEX:1051, secteur Finance) jour -2.05 %, mois -7.97 %, prix 5.485 HKD, capi 2472715327, PER 9.4, volume x16.68 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
+- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 5047665185, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 665841152, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3641703802, PER None, volume x1.08 la normale
@@ -317,6 +317,13 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic IPO Tops $1.8T Amid AI Stock Selloff - Briefs Finance
+- [Banques centrales et taux] Taux de change du dollar américain aujourd'hui, 22 novembre 2026 : La forte hausse fait chuter l'euro et la livre sterling. - Vietnam.vn
+- [Résultats d'entreprises] Intuitive Surgical (ISRG) Down 30% This Year; Can Tonight’s Q2 Earnings Reverse the Bearish Channel? - TradingKey
+- [Pays émergents] Overview #87 — Exit Liquidity - Smartkarma
+- [Crypto] BTC price on Nov 21, 2026 at 10pm EST Crypto Prediction Market - Robinhood
+- [Crypto] This Under-the-Radar Crypto Stock Could Surprise Everyone - Yahoo Finance
+- [Crypto] SOL price on Nov 21, 2026 at 10pm EST Crypto Prediction Market - Robinhood
 - [Anthropic] Anthropic IPO six times oversubscribed: what retail investors can realistically expect - investingLive
 - [Marchés mondiaux] Is the S&P 500 in a bear market, and will it rally? No, it's in a correction, 11.6% below its record - Nacionale
 - [Bourse de Paris et Europe] VALLOUREC Cours Action VK, Cotation Bourse Euronext Paris - Boursorama
@@ -453,9 +460,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] LifeStance Health Group, Inc. (LFST): A Mental Healthcare Growth Stock With Improving Profitability - Yahoo Finance
 - [Petites valeurs en croissance] Lockheed Martin (LMT) Stock May Be 31% Undervalued Following Vulcan Failure News - Simply Wall St
 - [Petites valeurs en croissance] Xylem Fell While Profit Rose - Simply Wall St
-- [Défense, énergie, matières premières] Intuitive Machines vs. Rocket Lab: Which Space Stock Is a Better Buy for 2027? - The Globe and Mail
-- [Crypto] BTC price on Nov 22, 2026 at 5pm EST Crypto Prediction Market - Robinhood
-- [Crypto] Bitcoin Price Rebounds to $60K After Crash Near $55K, Leaving Billions in Liquidations - Bitcoin News
-- [Bourse de Paris et Europe] Wall Street siffle-t-elle la fin de l'euphorie IA ? - Bourse Direct
-- [Banques centrales et taux] Otavio (Tavi) Costa : les hausses actuelles des taux de la Fed pourraient entraîner un krach déflationniste - Traders Union
-- [Rachats et fusions] Adani Energy Solutions Bags Major Renewable Power Deal In West Bengal, 2,500 MW Supply Capacity On The Horizon - Free Press Jour
+- [Défense, énergie, matières premiè
