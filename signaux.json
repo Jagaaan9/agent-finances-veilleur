@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T20:10:34.968556+00:00",
+ "mis_a_jour": "2026-11-22T20:20:35.361858+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55323.6,
+   "prix": 55255.92,
    "devise": "EUR",
-   "jour_pct": 0.79,
-   "mois_pct": -23.65,
-   "volume": 150.80553803,
-   "volume_relatif": 0.62,
+   "jour_pct": 0.67,
+   "mois_pct": -23.75,
+   "volume": 151.80578549,
+   "volume_relatif": 0.63,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic Stock Could Soar by 72%, According to This Wall Street Analyst - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUo1UzVnQ1JiWFQ0VG9VNzFCbXVWc2V0TEtNX29nNVhlYmZUcWRMNjlNYkF2MmVWQnhvWGJZSWVUWjE0RGRvVWpWbFc5Y1JrQ21hQlc5R28tVV9lNnNfaFFqWDBsY3RCX1NMQzVYX1RiczlLbWR4ZDZ2R0p0WkQ0LUQ0Zmt6T0pLcW5ueXZHNVpmV2ZaaGVCV0o1TFdRZ0FTYUx1Q0tmYy0zcVJVbzlpX19pNA?oc=5",
+   "date": "Sun, 22 Nov 2026 20:16:01 GMT",
+   "vu_le": "2026-11-22T20:20:35.361858+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "Wall Street's AI Trade Unravels as Anthropic IPO Fizzles and Nasdaq Slips Into Correction - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WUWtfOGJrVWpQeWVNMmJiN3p5X2twbnRYZ1VGOFJOVWYyeThibmlCUGQ3bW5FdFZnOUZiLXFPVGpXOWdBd25kSFo5ZVI5djZuc0JJOUFDd1dNVElxcDg2TjZjVVZvZTlkVy16RU9TWkNpXzJReHc?oc=5",
+   "date": "Sun, 22 Nov 2026 19:55:00 GMT",
+   "vu_le": "2026-11-22T20:20:35.361858+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Accenture (ACN) Crashed 18% After Earnings — Is a Forward P/E Below 10 a Buying Opportunity? - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdkNPREZjWTdrcXBJWEg4dmJyUUdzZHVob3UweEJZLUpDX1VKQ25DS0JJbG9MZjlkVmh3MnNaUWtKaDVZcGE3UTM2UGRpRXVJSFRNaXc4OHROWjluQzE0Ull3VDA5R1g4dW5HUmdhLVdTdmM0UkhWU1MxT0NQZmYySnhXQjEtYTNHS0NEM1lXVHBJUU1jT1Q4dTR4ZDJya1hta1FiQVdHM2xiUVluUjBOUjBtMk41ektsc3lMTUlSSzQ3Qmx2bjNvQlphemtIaTl6b2M4b0p6bzhKREtT?oc=5",
+   "date": "Sun, 22 Nov 2026 05:51:31 GMT",
+   "vu_le": "2026-11-22T20:20:35.361858+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "META_TITLE_SECTORS - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NVU9qVWRlWG1YN0lSaE5fSWVnNTk1Tm91NEFFLWwxSWN1NEJIS1RrRFo5bDZDZGFESExuaDI5Q25vWUZrTEpzMmcydnFXQV8taEdOaENrY25kRWp6Yk5xTHBMZ3RXRVlWemVqaGhtR2pGdw?oc=5",
+   "date": "Sun, 22 Nov 2026 18:18:26 GMT",
+   "vu_le": "2026-11-22T20:20:35.361858+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Investors Turn Their Back on Bitcoin: AI Becomes Their New Playground - Cointribune",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNjVQOTFtclQtM3RGRWFrSWFBYlVOSEFyclJ3b3R6Vlo0NlJpbUtURUp3SjRuZExGUU9RTmhRdzFYN0VzczZRLWlXWEoxcFBmOXZhLWktY2h5S1JWbURsWWMyUk8zTGFFNnNobUNIUHM2RjJidFNmVGhJV0xyU0xWNTFkSVRmZld3Q3pFQXJ6LU1LT083QTZ3aWdDQ21xX0xKb3FQV09UNA?oc=5",
+   "date": "Sun, 22 Nov 2026 20:05:00 GMT",
+   "vu_le": "2026-11-22T20:20:35.361858+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "One AI Stock to Buy for Life After Nvidia - InvestorPlace",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTEw2T3UxRlZTSDFpRVFvaWVLSVdheTd6SGlCT1A0ZUE5RzNocFhHTk8tTXc4UWhKS2tlU1B1Y2ZKcDNnMEVhdkdwTkhZS1hrTEdEUGdJamRTTG9HOEhYWFd1YmhjandlVEhZSTVmbHlrSFlJMFdibVpCLUdYSlROdkxXZS1NT0JHTGowak9WRnpqUU9LMERkLVNYWjBkaVpzV0QtTFZCd215WjJhQ3dyWHBfdm5wQXNzaFZ0StIBwgFBVV95cUxOam9oaDdKS1RBUXJLQUl6d0lsTE1LRmdsYzA3ZGZ5b3M4azNuQlZtc3lBQ3JZRTYtS3YtZGx3Rmh0cW9HN2FJeDZaTHBpeE55bXI3by16d1BndW5mM053RkdYaWN3MmxhRE1mNW1IenVwdVUzV1B5V2VIcGJYNGEwSGVxSzRxQnZOV0lMU0paNFdhTXZ1ZHFDS1NKNTFKLUtiU08wYkxwN1NmV0tUMmdpVjRwZllGa1lZVk9uQ3BlUUdidw?oc=5",
    "date": "Sun, 22 Nov 2026 08:09:24 GMT",
    "vu_le": "2026-11-22T08:30:35.819246+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Key facts: Anthropic IPO Raises $81.3B; Ratings Issued; Shares Slip - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTXBCdXRWRmoxODVVbzJkemV0S2lTLUprNTZzTTBDSFo3U0h6S3FUU3dUYzl3YXNqeDdfcVJOWkdfSlpiOUQtdjUzTWVyUkJnRjNic2RjcW52bGgweHJxZ0lZTG91ZkJ6X1AtTlhFSGdhMVR5bXZLVEtjMnJrVWg2V1RPazJINjY1TzIzbUZKREJrcjJWckZCSldfWUJjUVI5anVuM0t1RU52SWhjdlRLUmdhVnNjcmJKZkVuYUYtSmxjQXc?oc=5",
-   "date": "Sun, 22 Nov 2026 08:00:00 GMT",
-   "vu_le": "2026-11-22T08:20:38.457796+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Premium bid catches interest of Nuix board - The Australian",
-   "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUzliSTZKY01qTm91N2hwRjhBam9uSVJXNEJOM1pySUZKbFU0OGRxT3NySkpqYUxxNkRqcmZDYjlkX01aM1pqa3VrckVrYW5OSGs5MHplay1NQU5mNURDMlpQdkF3NmtfdG1TbGItdGswRzlBZFhkSTZPdXFVTk50Q3JiR0JETG44OTdmUFB1amQzTnJ3eEtianRTd2JVYkJvQW9RZEVLd2pMR0s4TTJFalFOY1doWGJHOTZHOXR5dW5sVE5uRFBHblUxVDZHWjk2MDdrZG12dmR4Q1lFZ1RIRU1nbjBPd1dRT1VybjZZTjdhbjRuY3B3NjkzQ2xwNXB6NkhF?oc=5",
-   "date": "Sun, 22 Nov 2026 08:04:44 GMT",
-   "vu_le": "2026-11-22T08:20:38.457796+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Coeur Mining (CDE) Looks Undervalued On Paper, Can Mine Ramp Ups Justify The Upside? - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcmtNZGJ5c0VLeDh2TTg4TTVLZ0d1MVZtQlhYVmRYX3FidDh4ajFWVG1BdGVOdkJaRkJHYzJjVWdkMVVJa1l1MTJYU00tXzZ4WDlUUm9QazNiT3dEbnQwaWttbmN3OVJxbnVIa2JZZE1FTFZKMEVsRUI4WnRwOHVlS0hlNlZCRkJOelQ0S0hGMmExOS1DSFh4SXM2Nk42XzUweXVTMkFlZGdNclB3UjlVVDk4R0Z2S0hSZnpHVjdfVmhHT2c5THZzctIBzgFBVV95cUxNN2txU0pvQTN0aUNuaGEwcV9ZNExXbnZxblNGU2xxc3J2VWgzZkVVMnU3ZFpLUXowUHdDSFRsejRPaGNEZUo0R2FlcmNqOXFNdlUxTU9UUUZ6WVRZaG5DZnMzRnZjeUlhcW1yX0l5ZjZtcFBaWVFJeTJtb3U1WGxVdFVaMmd6UTQtYlYyYWZjNkFEVlhNRldENC1reDVfOXFvc1RaRFdPbjRPUjZNU0ljS0N3ZE5ITk5FVW9EX3E5Y05VZE1aNEhkcnBWZTlNZw?oc=5",
-   "date": "Sun, 22 Nov 2026 07:13:02 GMT",
-   "vu_le": "2026-11-22T08:20:38.457796+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "RLI (RLI) Following Its Special Dividend Looks Fully Valued - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVB1cmlTTjQzUXBrZk53NVZKU29GWlFfLUZnczJGQjlKd3JkeGxKbjVseloyQUhlUndyR2FjMFNKY2tFbU1lSVIyQnlEWUlkMmliWmNQWkUzRG4wS2lvNVpMNFJYTHMybXpFTWFBN25ZSHI0LVRtaVd4ZE1IQTdvWDVBMTVzZEZvLUlHQXJaVm5JNmo4ZVNPMEZEa3EyU1JkUmMyaENsSW1Cd3FiTkhzOFFHbnl5aXJG0gG-AUFVX3lxTE9JV1dFRHRnQTlJOFItamhla01TcXJuNVVJREZtd2NNZmxqY3NFVXRQVFY4VXFmd1hmWlZyR2FpU3NvRW1BZ0tMVUl4M3QtWFk1ZVNfOC1xOUxLaV9hVW1GdDFKWHJiUkdKdnRCdzJCN3oyMnEyNEF2Q3l2akM3NlpEb3EzajV1SjFaWHdacHl5VUVETDlXSGFRc1hOMGJBMVBia1hrdGNHUk51TXZLb1drU1lfSG1kN2dubkk2dmc?oc=5",
-   "date": "Sun, 22 Nov 2026 05:11:46 GMT",
-   "vu_le": "2026-11-22T08:20:38.457796+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Asia, Africa to drive expansion of India's export markets as shipments grow across regions - Malaysia Sun",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPenY4VnBmZnNDZXRIZ2VSZFAwV01VQzNrcmJZaDkzUVZQOWFwNGVVS2NjaS1zQVQyTG5hNzMwUEdEaWhCMl9Gd1NhLWYxTnpYZy1oQldUQzQ0QnI3a2oxb0NCaFhiTVdUT3RpTlB2VVdISFJ5aUtrYkVpVUpQaVI2N285cC1kYzVHczJOTHdPVlJpb0N1YXhFSTU5Mk1GU0dwaERRci1oakJRQnlRc2VaN0ZvMVZVQndBTXhicmJwbTlhdWdTU2hxeA?oc=5",
-   "date": "Sun, 22 Nov 2026 03:35:00 GMT",
-   "vu_le": "2026-11-22T08:12:21.170548+00:00"
   }
  ],
  "erreurs": []

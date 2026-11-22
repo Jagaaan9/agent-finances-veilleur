@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55323.6 EUR, jour 0.79 %, mois -23.65 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55255.92 EUR, jour 0.67 %, mois -23.75 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,11 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic Stock Could Soar by 72%, According to This Wall Street Analyst - The Motley Fool
+- [Anthropic] Wall Street's AI Trade Unravels as Anthropic IPO Fizzles and Nasdaq Slips Into Correction - BigGo Finance
+- [Résultats d'entreprises] Accenture (ACN) Crashed 18% After Earnings — Is a Forward P/E Below 10 a Buying Opportunity? - TradingKey
+- [Défense, énergie, matières premières] META_TITLE_SECTORS - Yahoo Finance
+- [Crypto] Investors Turn Their Back on Bitcoin: AI Becomes Their New Playground - Cointribune
 - [Chine et Asie] One AI Stock to Buy for Life After Nvidia - InvestorPlace
 - [Intelligence artificielle] S&P 500 at 5,600? Crushing China’s AI Ambitions Has a Price - Bloomberg.com
 - [Pays émergents] Taiwan stocks suffer worst week since 1990 as AI rout drains emerging Asia - Yahoo Finance
@@ -456,8 +461,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] Zoom (ZM) Stock Still Looks Cheap On Its 63% Five Year Slump - Yahoo Finance
 - [Crypto] Bitcoin struggles below $60,000 as mining profits plunge, security risks grow - Yahoo Finance
 - [Marchés mondiaux] A 10% drop for the stock market is unnerving, but it's not that unusual - Spectrum News
-- [Chine et Asie] China Tech Stocks Lose ₩2,289 Trillion in Market Value in Five Months; Authorities Cut Margin Requirements for First Time in 10 Months - 파이낸셜뉴스
-- [Intelligence artificielle] Nvidia's AI Demand, Alibaba's Chip Pressure and More: This Week in Tech - TradingView
-- [Crypto] XRP price at Nov 22, 2026 at 11am EST Crypto Prediction Market - Robinhood
-- [Intelligence artificielle] Nvidia's AI Demand, Alibaba's Chip Pressure and More: This Week in Tech - Benzinga
-- [Intelligence artificielle] Is Nvidia a Buy at $125? Here's My Honest Tak
+- [Chine et Asie] Chi
