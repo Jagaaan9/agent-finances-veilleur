@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T06:50:36.257559+00:00",
+ "mis_a_jour": "2026-11-22T07:00:36.562376+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53943.88,
+   "prix": 53905.37,
    "devise": "EUR",
-   "jour_pct": -1.72,
-   "mois_pct": -25.56,
-   "volume": 21.1662534,
+   "jour_pct": -1.79,
+   "mois_pct": -25.61,
+   "volume": 21.73270896,
    "volume_relatif": 0.09,
    "capitalisation": null,
    "per": null,
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic’s IPO caps explosive growth period for the AI startup - Jamaica Gleaner",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzhMdmtla1UySzFfZnJnazdLeHotZnMwZW5vbW9FanF2YkZELXlvVVV0VnpGcGlmclJhMUFsWkdmb21oeVJCNDdqYnp2MExWMTEtbUYtejFwVGRsRVFLZE5Yd0F1a0FzWGZDcDl5YTRkSWM3eXlabjh4RWtUaF8xS1BFZ1lZMV9rTWRHYWRQMEhpb1hXQ3dYUUVhV3BiZWN6S3lTX1N0NWlYb2Rx?oc=5",
+   "date": "Sun, 22 Nov 2026 06:10:11 GMT",
+   "vu_le": "2026-11-22T07:00:36.562376+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic : une IPO à 93,5 milliards de dollars, puis un recul de 8,5 % en Bourse - business-times.fr",
+   "lien": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YY2NnbXV4Qy1KeTNBQWF1Z1hDaTdYaTJvTms3U0dRTXdUMTFZSTlhRVY5eTBvSHFwRXFVZnJJeEo4T0haeklFYmlFcWlYUGdadGg2WmJXRFJ0TXVHLXZzaGp1NDBmSFRhSFRrNA?oc=5",
+   "date": "Sun, 22 Nov 2026 06:47:00 GMT",
+   "vu_le": "2026-11-22T07:00:36.562376+00:00"
+  },
   {
    "sujet": "Défense, énergie, matières premières",
    "titre": "Swarmer, Inc (SWMR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -6537,20 +6551,6 @@
    "titre": "SEB Cours Action SK, Cotation Bourse Euronext Paris - Boursorama",
    "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCeUwzX0lSYXdhcHhCMXVxNDNqaDBnQ3FhMWliV29PVUt1VUItc29HMEtlYTZRLXphUkpja2pvYUlsMzNaS0FFQ3ZmOVJTRE5n?oc=5",
    "date": "Sat, 21 Nov 2026 11:29:20 GMT",
-   "vu_le": "2026-11-21T17:10:40.843652+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "SODEXO Cours Action SW, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUN2E1bkNnSFpOUS1Ud2VPUU81QWFPX0lDY3RRVUhNeG9IUEg2NWJ0aUNVQnFxRkxfVmduWEtjSHJsRnpGMzJHaDZkWHM0alBD?oc=5",
-   "date": "Sat, 21 Nov 2026 09:20:43 GMT",
-   "vu_le": "2026-11-21T17:10:40.843652+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "The Week in Breakingviews: Know your chip customer - Breakingviews",
-   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2F0TnNnQkZUZllpb2NHdG9LajViUXVsRkxVMXphZXZHNmg1TXI1b3dIaFJFY19lYzhXRjAzSmlnYUtnTTlqYmc5dWdtZXE3UnlQSzhMT1pCNmpHcktNX1RBNGN0VXByMTU2NVdReENRNmJjQlBMTnZ2NkZYcUpTX3paS0RiQmZkYUhGc3pKVTNqZXhYU2hBVEc3cG55dDlMcXc0UDFhTVVfMFF1?oc=5",
-   "date": "Sat, 21 Nov 2026 15:37:20 GMT",
    "vu_le": "2026-11-21T17:10:40.843652+00:00"
   }
  ],
