@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T04:30:34.960967+00:00",
+ "mis_a_jour": "2026-11-22T04:40:35.749375+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54012.63,
+   "prix": 54138.79,
    "devise": "EUR",
-   "jour_pct": -1.6,
-   "mois_pct": -25.46,
-   "volume": 14.14027221,
+   "jour_pct": -1.37,
+   "mois_pct": -25.29,
+   "volume": 14.30725562,
    "volume_relatif": 0.06,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "SpaceX Stock Fails to Reach Orbit After Anthropic’s Blockbuster Debut - Barron's",
+   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NOXVXSWptc1ZiUUw3c0J5U0FudDZxbElreW9sZ1FXZkg1QVdmYkw0VDkzUk02UGlWQmUzTlhSUlBSU3NjdndyUkxINmpJVVpwYS1maXRuSUt3aVc3eVgyS1BFdG5WSnJDc1F6ZlM1ZF9MSzhFZE5IbVhfcGFxUU0?oc=5",
+   "date": "Sun, 22 Nov 2026 04:29:29 GMT",
+   "vu_le": "2026-11-22T04:40:35.749375+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal - The New York Times",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkJNbHp2RjF0Y0hlVmh1aGRIQ2llajUxMFE2NXBhRHg4dDBtcHBhd2lrMzFpTDBhRnZPYTRMMWNVczNJdmtUM0wxUFFucEs3dlh3ZldjVmhDRFE3eXlqcXJKWnAzQzNmZGtHWVlrQzBrdVJjMHN6Q0ZSbmthdjk0Z3YySGRiOWtBVGtmaXY0cXRDdw?oc=5",
+   "date": "Sun, 22 Nov 2026 04:28:43 GMT",
+   "vu_le": "2026-11-22T04:40:35.749375+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "MaxLinear’s AI Optical Business Surged 136% and the Stock Jumped 84% Overnight - Is MXL a Buy at $63? - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeFlEN2NmME5aZXpXZk8yTWFJejh6UlhBVXpCS3BGWTNiQ29pMkw5a2xFTjdsUGs4b1N6UHRieUhXa2tSbHRIaVBZbjIzNnhwdkt4ZkotdklibE1sU1JibGVteWgyRF9VMFVJdXpnSHpJdXAwVlBwMmpaNFEzRnRaZEw0R3dXNnc5Q2tFTkx5Q1lsTGVJTDc4UU4yX2VTLUR6VmM2UG0tbHozUTN3dEprc1BDTFZ6ZmJFbnBKRg?oc=5",
+   "date": "Sat, 21 Nov 2026 14:40:44 GMT",
+   "vu_le": "2026-11-22T04:40:35.749375+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Dassault Systèmes (ENXTPA:DSY) Sets 2029 Growth Targets, Does It Look Fairly Valued? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3JRN2RSaDU5NDhncjhkUjBUaURGbk9XMXdPajNYcjQ4WThUNUlvMEplYS1WaWJXNnBrUkp0OXh6cVczdF80QTNzRVhoTXM5bm5rU0tOZWRHUldBTm5pc1RSa2U3V2g5SUhFZ3hpU1FWXzJyWWh6cWkzd1llTjBvTVM0OWNnOHI4ZWwyUlQ4Zlhzdk9idU9ITA?oc=5",
+   "date": "Sat, 21 Nov 2026 14:12:22 GMT",
+   "vu_le": "2026-11-22T04:40:35.749375+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Nifty 50 Gains 3,000 Points as Global AI Shares Decline - Multibagg AI",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbDFubndvbk5qcEFDNXY5dkVGU2pTd3FKb2QxN0NPZGk5WXNWZTlWYXJGSU45bTA4N2w5d05vOWlSQzdrN3ljaXA0Z3NHT3MwWTZjVTJzM2lIajdYX3BIMGVORVdhYnF3eF9pV3pfdmE3Tk5MNVVTSXRLMm9tNXhBbGwwMDFHd0ZUU1pCRk5uczZVRFdDVllqNQ?oc=5",
+   "date": "Sat, 21 Nov 2026 07:01:34 GMT",
+   "vu_le": "2026-11-22T04:40:35.749375+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Foreign institutional investors buy ₹1.12 lakh crore in November - Multibagg AI",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMm4yZkZjcVdWZEY1b2NER3R3TTFBdTZGd1pTNmU3eE5ZTUp4WUNkOG8zV2RTNkFFaE9CWG1tZGJIVWptSk5xR0xaekVONUZtZGRFTHdOZ1I0Q3ZBUnpkZ01NdGFBSTZ3QmxDeGlLMFlHYXRmX1FqWTlkZmFFTUI2Ulh0TUZ1X1hncmlVTVE5UEtQYjRKMUdIcE1TeEpSSEVpdk1NMllkTDFjRFhCNWc?oc=5",
+   "date": "Sat, 21 Nov 2026 07:00:45 GMT",
+   "vu_le": "2026-11-22T04:40:35.749375+00:00"
+  },
   {
    "sujet": "Rachats et fusions",
    "titre": "Acquiring Swedish Transport Operators: 2026 Guide - Global Advisory Experts",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ1BZYk5XN1lQaHk2c3FhdmJ3M3ZRc0FHWXJ5a3BnY09hMHlVLTFjXzRneFhZcEk4dkZOSGtnRF9hNHNCZ2dxNXZGcTYtRE5aUUF5MjFCLWFzeVZzT0VwUmNQbk1GQ3JGNmJRQkVEZ0I1YlRPR0VLSHJJMUVyc19zQzhWWTVEZ3FOVlotZ1FKTkNBXzRGd3dqNFM4WHNoUmlJLW9XZTRCcw?oc=5",
    "date": "Fri, 20 Nov 2026 17:30:43 GMT",
    "vu_le": "2026-11-21T15:50:39.429145+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "3 Space Stocks With Revenue Growth Up To 16% - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTUVDRFM3S21hX293TWx1bk9QYUNmc0JPVTRTMnR1TmVsNXlqVE83Smd4RTNwQVZFMkQwR1hVVHVCOERUcWM3ZGEyUjUyaWM1Nl8wcDBsd2djZV9xUFN5dDdiNjh2ZXNGdnhzcWo3bjRZdGdyWUowcDg4LWdDN0xPTzZzRUhJM1U0YzdtSnZYVHhwMWVWbEk2aE13?oc=5",
-   "date": "Sat, 21 Nov 2026 14:09:29 GMT",
-   "vu_le": "2026-11-21T15:50:39.429145+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Price Today, November 21, 2026: BTC Rebounds Above $60,000 as Solana Leads Crypto Gains - Eurasia Business News",
-   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX1piSlJxUXozY05JbW5HTklaY1gtN1lYcm16UjZPX2xKTVNiVlg4Yl93Q2tyNXcwMjQ4UVAzVjh5UjdHR2hpSDR4SUc1RG04SzI1WVVSNFRlcTN6cVYwSy1ka1FfYnN2ZXFqWlIxdXdGaTRpV0VOWWdqdkNyTlQ3elJ3azcxRHpDYWlpcGxQVE9wTjVPM183X250dnN4OHRKbUJVT0pmQkozYWZCSExmNzRmcDEtSjBBR0dhaWZucFFSYjhpTm9ERy03bWFITDQ?oc=5",
-   "date": "Sat, 21 Nov 2026 15:37:51 GMT",
-   "vu_le": "2026-11-21T15:50:39.429145+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "5 Best US Stocks to Buy Under $25 - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFdaMm5TdnA3ZUk0aTZBWHMxTldGSWI4bjhZY1pGay1MQzNMVTJ0OUtwenZTdFkwNHUyb2tuS3lla3ZUMWFfT2w3U04yVGdDMVRpaHA4YnR2VDNyYll3dUswVmZqbmdLY0ozSXJpdnRfUlNpRHpTVEZNNnlvbk5vZ1FKel9OQ1RPTFV1OGZR?oc=5",
-   "date": "Sat, 21 Nov 2026 14:59:16 GMT",
-   "vu_le": "2026-11-21T15:40:36.148887+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin hits $55,326, lowest since Sept 2024, before rebounding above $60,000 - Investing.com",
-   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNVVnTnRFbzZIRm15eldaMkVMQlRCdElSZ1VWTDJjamtrZS1CeEtUNjJETndUNGtrQS03VEwwZ3pvMUhqNF96SXo5MVRKbGhRREFyQVNOV3hRYXNZQWNGeENTejNzd291c3FTeXNqZFNDUkkzUDgzNG12d1hwWjF3UGViaVlBV3pJRjAwX0s5ekNySnFkODhGdlQ2QXJpVC1kYnFuZ29rZ0RMV1BmVTM3ek5ONmViRlhtRjE5dEVQNUVxbER6Ql9iV193?oc=5",
-   "date": "Sat, 21 Nov 2026 15:13:56 GMT",
-   "vu_le": "2026-11-21T15:40:36.148887+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Anthropic Is Now Worth More Than Bitcoin: Could Bitcoin Pass It by 2030? - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDg1U09xcTFteUFDMWg5eUVCbUtLUFhmWEYzYnh6MmxWclEtXzFMY3JZLXhKeGYxaGdDNEpBNkRoMk41TmdRX20xdjRMUmZrd3pFTDc2RFZkSFNCcERoX0JtbkdWVjlHVUtRekY1UWhCX3J5M2h3eXdzZXlhdm9MN2h0OGhzWXlqYTBRd3ZrR19vSWhWb1dKaFdrUHY4SkM3QjVHckxBRk1yeW5xSy1meTlRZTVJQnNKMGVqRDFBR1VWQjhRTFZFVg?oc=5",
-   "date": "Sat, 21 Nov 2026 15:32:00 GMT",
-   "vu_le": "2026-11-21T15:40:36.148887+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Unnerving but not unusual, investors navigating a 10% drop in the stock market - Washington Times",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORHFIYWVfdGNGTGRjOHlHNEZ1MlF0RzlicWF1Vlp5S1FsaHhta1drQldyTEw4aTl6WUV5QWRIejlaZU9TamFfaWFPVmFHUDFKUkxRZzNaNi03RC16Nzc4UDJUVDhSUlVQdzhQYmlZbDExNXNJeTZKaGExNlJUX2ZFbXZHNExCUERsN0lPclVrRjRmcTZHbFRnWThPWm45SXllWG1xTDdyeEF0Y2c5bE1nZ3F6SQ?oc=5",
-   "date": "Sat, 21 Nov 2026 14:01:57 GMT",
-   "vu_le": "2026-11-21T15:36:28.937688+00:00"
   }
  ],
  "erreurs": []
