@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T07:20:35.852813+00:00",
+ "mis_a_jour": "2026-11-22T07:30:36.050010+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53928.91,
+   "prix": 53881.75,
    "devise": "EUR",
-   "jour_pct": -1.75,
-   "mois_pct": -25.58,
-   "volume": 22.55511457,
+   "jour_pct": -1.83,
+   "mois_pct": -25.64,
+   "volume": 22.88395838,
    "volume_relatif": 0.09,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Philip Morris Stock And 2 Defensive Dividend Names Worth Watching Now - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHM0bDJNWWNnaDVibnVlMzFzYlBxVV9RVlUzTGltNEJEeE1JTVZRdUpZTXBlMjN5OGNXUFJzMnZ5QTNpWXpDY0tJLXBHcUxkZGwzSEdoM3M4MmVPd1JudUdsOUJDMHFsamlXV2JTbG1LODVyYWNsVUdDRWdxVjNyU3U4alhLcjRhbHdhaWt6NGUtZXh3ZjZrb3VReXJaU01CVldmdWlVTVJNN2tQSThDbUwxNEtmOWhZUEFKSThoZjVrU1MxeVVnekFGNVRueDNndnFjNnFfWnQxaHQ5S3BhMVFRVDNIaGc5YTNB0gHwAUFVX3lxTFBwT2l0bE5nWVd1VXpEZEs0dWpDbHR1LW9iOGxIYkU5WURwRnAwaUtFcDBBSFFYSTh4bXE3VWZ2ay00NkdOZWNJc0ltM2FJVFlKX3FmeS1DUTFlQ1dUS2xyQ01OU2h5MHczWHBLellHMUxCNV9tdjZDZFFUOVRMc2ZkbVVyMzNZUG0xT2U1dVlrZ3BrZTZJN2tkXzlGWDRtbjFUbHZNR3BNRkotTDVSemNpN1VJWmM4dVhybnZ2eXpXM0JGVll1VVRETjhyLV96OG9XS2o3bTdOaHNQckpZcS1SbzlmQjFUREZxa1Jlb2JPdA?oc=5",
+   "date": "Sun, 22 Nov 2026 07:13:32 GMT",
+   "vu_le": "2026-11-22T07:30:36.050010+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Ross Gerber Tells Investors to 'Be Patient' on Anthropic Stock After Post-IPO Slide: ‘That Would Be a Gift’ - Benzinga",
@@ -6544,13 +6551,6 @@
    "titre": "4 Defence Stocks to Watch as Ministry Seeks 20% Defence Capex Hike in FY28 - Equitymaster",
    "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeU1QYXB6NkdtOXV0dXZOM081X0tXOTZ4RmtYSVNQUkVhYjd3SHExdklkaWRSYlBCWHc2blBtbjMxZDZISlFETkMydExwU2pxdTRPQ3pXLV80WVYzdENRTmotX0k3cndlRkJwTVduNzBuc2xjQXluRk9VLU1HVmtiRWFXckVXR0RqMTdPMzhUcWN5ZnZCcW9NZ0RxT2Z2R0lCVjBZZDdiMV9mbVFHWk5rRFQtaDFUMVprbXVFbFRST19ySk8wbV9fVWszTWNXSGZHN19abDQtdDFSRGM?oc=5",
    "date": "Sat, 21 Nov 2026 11:07:45 GMT",
-   "vu_le": "2026-11-21T17:50:35.833266+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Surges After Two-Year Low Performance - GV Wire",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95Q2F3VEtXeHRoTmFOMkVBYUF1eC1rRllmczgtbU5yV1dmZDY5OHN3eE9XRTFuZXFINVZpRDJvWXpOdHhkaHRYd0FnbWtQTFVKRWQ0WG5OcTdyQUtWQUdHSDRhTnZnaVFvcF8xVmxZT0RieGlWc1RlY1NNSjFmejA?oc=5",
-   "date": "Sat, 21 Nov 2026 17:49:58 GMT",
    "vu_le": "2026-11-21T17:50:35.833266+00:00"
   }
  ],
