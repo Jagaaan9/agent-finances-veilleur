@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T08:20:38.457796+00:00",
+ "mis_a_jour": "2026-11-22T08:30:35.819246+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54167.85,
+   "prix": 54444.56,
    "devise": "EUR",
-   "jour_pct": -1.31,
-   "mois_pct": -25.25,
-   "volume": 30.08376992,
-   "volume_relatif": 0.12,
+   "jour_pct": -0.81,
+   "mois_pct": -24.87,
+   "volume": 33.19180494,
+   "volume_relatif": 0.14,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,14 +3469,14 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
+    "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3497,14 +3497,14 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
+    "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "prix": 39.73,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Nvidia and Anthropic Will Really Test the Stock Market. Only One Thing Is Certain. - Barron's",
+   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHNBeWZmdmgyeDJLV2FtWXRCNkdid0pVVE9ncnl5MHZfb1NBOFI1Rks2V1V3Mm53OGpJbERpa0pYcFVMSlJUSHc3VmhXdXh5V25tcUNhR2pxdGVZZlV0d0pYRmtXR050Rl9hbnNhcmNHLWFjNWpoN0V6a3BDMURacA?oc=5",
+   "date": "Sun, 22 Nov 2026 07:46:16 GMT",
+   "vu_le": "2026-11-22T08:30:35.819246+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "Ed Zitron Calls Anthropic IPO ‘Exit Liquidity’, Warns AI Sell-Off Could Get Worse — ‘Things Are Only Going To Keep Going Down’ - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUhCSWFJV1pKZ1N2a0EtcDNyTzVNUS1HeWZSdGZnaXJMdG94N1JwVUd1Ymp2N2Fta3N0X01XMEUtMXZWYUYyZjJCbnlXS2hieVVERmhjVmZtYUtXYTkxcWRITktYcjJ5a0k0NU1iUUNNLUc4MF9WeVgzcWNJM1VFMUMzNjRnazhwTURZa3kxekIwQkt3MGVZNg?oc=5",
+   "date": "Sun, 22 Nov 2026 07:41:00 GMT",
+   "vu_le": "2026-11-22T08:30:35.819246+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Giá vàng mất gần 37% trong 10 tháng, điều gì có thể đẩy giá xuống thêm? - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeC1HY1QyM0ZaSW5ycWFWUFlGWjdyUnBQR2JfUmI3UUI4MTRwQXRxNW1NcFlfbXh2QzB1ZjZPTXZsNFZ2Z19lMHhSbkhIYl9iZ3loU3ZTSmFjemF6aXZKaGpua2oxbjlpUXdBUnZDWGl0bEZpSi1nTmVwaGVNUW5fSUduczFQWUFKdWZabHhWcC1Kd19zWmJoZHFB?oc=5",
+   "date": "Sat, 21 Nov 2026 13:33:40 GMT",
+   "vu_le": "2026-11-22T08:30:35.819246+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "X Energy (XE) Stock Looks Overvalued After A 70% Fall - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTEw2T3UxRlZTSDFpRVFvaWVLSVdheTd6SGlCT1A0ZUE5RzNocFhHTk8tTXc4UWhKS2tlU1B1Y2ZKcDNnMEVhdkdwTkhZS1hrTEdEUGdJamRTTG9HOEhYWFd1YmhjandlVEhZSTVmbHlrSFlJMFdibVpCLUdYSlROdkxXZS1NT0JHTGowak9WRnpqUU9LMERkLVNYWjBkaVpzV0QtTFZCd215WjJhQ3dyWHBfdm5wQXNzaFZ0StIBwgFBVV95cUxOam9oaDdKS1RBUXJLQUl6d0lsTE1LRmdsYzA3ZGZ5b3M4azNuQlZtc3lBQ3JZRTYtS3YtZGx3Rmh0cW9HN2FJeDZaTHBpeE55bXI3by16d1BndW5mM053RkdYaWN3MmxhRE1mNW1IenVwdVUzV1B5V2VIcGJYNGEwSGVxSzRxQnZOV0lMU0paNFdhTXZ1ZHFDS1NKNTFKLUtiU08wYkxwN1NmV0tUMmdpVjRwZllGa1lZVk9uQ3BlUUdidw?oc=5",
+   "date": "Sun, 22 Nov 2026 08:09:24 GMT",
+   "vu_le": "2026-11-22T08:30:35.819246+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Key facts: Anthropic IPO Raises $81.3B; Ratings Issued; Shares Slip - TradingView",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHJqdk05Nl8yLWhyeThBdHNGTnVjaGZ2MzE3aERfZGJUaW1ybU95OXZxRWkxcUhBVVV4MWV4Q2ZYa2w2ZzFBNzhmZGNmM3FkV00yRUxyUWlyVERJWElmQ2o1dnl0NG50Ulh5Wl9VN21XdVRXMlpwZlZvMlgxWGYwWGQ5TW03cHphSXptYjdsUXdDOG5abHYtOTNyWTdscUZOR3ZydGVqWHY2MTJucjNrTTdEbG42YU12V1AyUGhrTEE1OHZ6cDJRTlVPYw?oc=5",
    "date": "Sat, 21 Nov 2026 18:12:00 GMT",
    "vu_le": "2026-11-21T18:50:34.845739+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "JO de Paris à 7 milliards, émeutes à 207 millions, Anthropic en Bourse… Les cinq infos économiques de la semaine - lejdd.fr",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM3pTOXp3WE5yR3NOdEt3akt3bXFxaDlHSXBUMm5MTTVXbGRaeVE2NDRJTFV5VE9aWUdwYkpvMDlXSVZtOC1xcHBEcExJRGY0UzM1dkZwUUZVS1pVUk13cmFVY0xWVGppTC1HUzlhU0ZRd3ZjSlRPSzFsTkNoSG5ZYjJrOGNOSGMyV29pcXBPQzR6aU5pSjAyNW82aU05UXNTRHJJeGt2Z2lGamF4dUJ5LWpXSnhWSHp2empLRmJjanhaczZmTXdXV0diX3Q2dlpsYkpONGtuYktUMXNqTFZB?oc=5",
-   "date": "Sat, 21 Nov 2026 18:35:18 GMT",
-   "vu_le": "2026-11-21T18:40:35.753245+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Coherent stock falls 15% as the AI chip rout hits optical suppliers - Startup Fortune",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbTJCVjV6OUtoUHMydU9NcTRYZnRWemN1bHlDQVdCR0dFa1UzUk9TSUM3VnpZUl95RzVMSFRyb1c0T3IwbnZLdXRKcTVjRkdJeEgwdWl0aXowZ283dzBGSlVmdF8wWW1lQXBiU0dxR0RKckk2azVBdUhKWENSbWI1bE10X2d5YlN2NnZYcGM0RXpJV084UDNNUjVR?oc=5",
-   "date": "Sat, 21 Nov 2026 18:25:05 GMT",
-   "vu_le": "2026-11-21T18:40:35.753245+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Inference now drives two-thirds of AI workloads, changing where chips get deployed - SiliconANGLE",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWkVRcWdCQzBDME0wd2RVQkxwQzdUa2M5LWVSd0pZYnVqTmlXWU9zUDRSb1NURi1rQ1puWjNVZmRpaUxfbnh4MGhnUVdkZy1nNjBOaFJTWEdvbUE5Vk1KVVdVQjhiOWRFS2RvYUtkWlFUaUxNYWpyVnBCNnh5ZzVvbHlxVFlwckZFNHJNdGIwYXk1ZV9SeTNhTVJGaFFQMmp0WGc?oc=5",
-   "date": "Sat, 21 Nov 2026 18:28:00 GMT",
-   "vu_le": "2026-11-21T18:40:35.753245+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "3 AI Chip Stocks Retail Investors Are Watching After The Nvidia Selloff - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejlycTNOTWVaLXBObmZzQ29NbHBmT0ZMMDhJUVB1Tm85VXhCRjRKRWdpUHlYM2Mxc0xPZHZacEt2a05BUEFLaHM1c3FqU3doWVN6anJJOW84QjVleU1aRGNzV2RKM0k2R2tvY1JUTk9kbWh0VEdrYzg4YS1nWEZGUTQ4WEV3NlU2T3NxQVdFWjg?oc=5",
-   "date": "Sat, 21 Nov 2026 18:08:06 GMT",
-   "vu_le": "2026-11-21T18:40:35.753245+00:00"
   }
  ],
  "erreurs": []
