@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T14:40:36.515185+00:00",
+ "mis_a_jour": "2026-11-22T14:50:35.816949+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55343.78,
+   "prix": 55558.27,
    "devise": "EUR",
-   "jour_pct": 0.83,
-   "mois_pct": -23.63,
-   "volume": 97.56440106,
-   "volume_relatif": 0.4,
+   "jour_pct": 1.22,
+   "mois_pct": -23.33,
+   "volume": 99.35946025,
+   "volume_relatif": 0.41,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "John Kennedy: If Howard Lutnick is giving AI chips away to China, ‘he needs to stop’ - NBC News",
+   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd3RQWDVDYWtxQmpmRVZXR1BEcll3SzJ3SkxDdENvTHdncGozUlFWcGxKQ3l5eFlSTjE3dVdId1h5WGJDejVWdkh3c2lDSks0dDlHSFhUb0pXd201ekFycVRIQlVSOHhGa1N5R0tJQ3ZxQ3RRTEw4QVV4TFZucFg3UU9wcU1KSUdNc3JiUWt2WGRoNTBvOWg0el8zTFdOT0c5UFZLN2RFUWNrTDJKX3JaN1BzSzV0NzVIZG0wakluR2dnbEhYT2JmV3N2VER5UE96dTFpMQ?oc=5",
+   "date": "Sun, 22 Nov 2026 14:43:48 GMT",
+   "vu_le": "2026-11-22T14:50:35.816949+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia chip smuggling web exposed - Israel Hayom",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkJLallXWldOWVI3bGJFeElSVEZkTFp2SUJqbGxVNFhZSFRySHdvREJfbm05OGQ5Z192a1N0RmxpYnd2UXV4Wm1BVk9MemlLbXZ0elNsbFgtTU5rdDlVUnlBMjhoY3A2RHFrbTVRWDBwdFg3SzhjNnoxVzh0bHRJT1A2TnpDcFJKVFJpdmd1aHpFdw?oc=5",
+   "date": "Sun, 22 Nov 2026 14:37:12 GMT",
+   "vu_le": "2026-11-22T14:50:35.816949+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Blaming Anthropic's IPO for Bitcoin's Slide Is 'Easy to Believe,' but Flawed, Analysts Say - Moomoo",
@@ -6538,20 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWZvVzJJa21EWkRJQ3NFaUdyMVFtRmZyMl9NU0dyZVFCR2lScFBBa2dDeUJ5azJaMVBhOUtjUVJ6RS1KWGxBbjhVMVQ1RUlra3BQSDFYMEx6VnBNSXJaQWlZd3djZ3EydGMxZXlNdEhZaVVwNVphODk2c045OWVfVGZhUktUMTcyWWNreHV3?oc=5",
    "date": "Sun, 22 Nov 2026 00:37:32 GMT",
    "vu_le": "2026-11-22T02:40:36.045224+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "AMPERA and Berto Acquisition to combine in $900 million deal - ET Datacenters",
-   "lien": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNM0NLTXFjX0FKbWpMVDZiWTZ4ZHkySV9jLXZTZmV1d2ZSU29zQThQZV9RNS0zRVJwcTVkSHp2SWxyOTZJODVaWkFCallyTUFVWTlFMUhLeU80ckJfUjJSRGpRdjltaHFTY3JSQWdCZkdLTWFnazdLdkVSaFBDUjA0QkJtS0NjNEVUQXFiUkl2R3ZhaW1YSmllRTBOenItTXU3Y01SOUszSng4Ynk4eTlPalc0WktjU1o4UFk1M0w4eUwwYmw1a2pNSVpKa2xpWXl2cFlRRWtPNHZhemk0d2NoYVNXWjRwcFRhcGpzYi1jbHNoZXNJS1NDWDJqQXJNaDBES0p1Tjh2R2k0YUpTVkwydXpOaWF5NnZSV2hYTlpLSkFEYjBN0gHsAUFVX3lxTE5IbDZYSFZuS2N1Q0lVN1M5b2ZvSTJkeHJrQXFLWW41bDRHUElFbTA5NWVCeEYtbVJITzhDVy00UGdFTUhpLXI2cU9NMmhGelBiSjdKeVhfZjllTVdHR0tqdmRkcGR3OEJYU1dBVm96SjhXYnlabHNYOUVnUGJQUEV3U1lhT3ZLbWhOMnVCUlJkdW4yVURmb3RLM1UwbFZxYnJtRmVpUktFVW43U1FiblNRbi12YXVScEZUazhTbGkweFBWOUVCVldBU2kzOXZGcW9XVnNEOWp6am5OanNYVnpfc2NVWFZwNE9lNGVn?oc=5",
-   "date": "Sat, 21 Nov 2026 02:44:40 GMT",
-   "vu_le": "2026-11-22T02:40:36.045224+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Hang Seng Suffers Four-Day Losing Streak With AI Concerns Rattle Investors - BusinessToday Malaysia",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1lZQkc5T2FsSl9sN3pINzFKREhjaWlrWjFnM0wyQTJ4Qjh4VVIwcFhHdEdyOGM0ajA3YjF4Y291X0pIaHZoeTdfNHJXaFRvSWVqZkJsM21GU1NKX28yMF9teWlwN3ZhR0ZadC1jRWE3Q24tR0JiTzRUYURlU3d3OU9JWlBpc1lENHl0N3B6aVZQM1pVZlhKUmYzUnVOQmFUc2syYTlnTGZtYjktSHlRcnFxVmY5QUJSanVZ?oc=5",
-   "date": "Sun, 22 Nov 2026 02:15:00 GMT",
-   "vu_le": "2026-11-22T02:30:35.881538+00:00"
   }
  ],
  "erreurs": []
