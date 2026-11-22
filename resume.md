@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55332.62 EUR, jour 0.81 %, mois -23.64 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55339.53 EUR, jour 0.82 %, mois -23.63 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,13 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] How to Short Anthropic (ANT): Leverage Shares by Themes Explains ANDD and ANSS Inverse Anthropic ETFs, Short Selling and Put Options - TradingView
+- [Marchés mondiaux] Dow Jones Futures Due As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers - Investor's Business Daily
+- [Banques centrales et taux] L'INE confirme le ralentissement de l'inflation à 3,0 % - The Portugal News
+- [Banques centrales et taux] La politique de la Réserve fédérale met XRP en danger : la hausse des taux pourrait réduire l’attrait des cryptomonnaies - Traders Union
+- [Introductions en bourse] SpaceX Stock Jumps 19% on Day One — What Happens Next After the Historic IPO? - TradingKey
+- [Pays émergents] Taiwan stocks suffer worst week since 1990 as AI rout drains emerging Asia - IntelliNews
+- [Crypto] The One Number Behind Every $5 XRP Forecast for 2030 - 24/7 Wall St.
 - [Anthropic] Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance
 - [Anthropic (FR)] Les organisations à but non lucratif renforcent leurs capacités en prévision de dons potentiels après l’introduction en bourse d’Anthropic - Unite.AI
 - [Anthropic (FR)] Anthropic fait ses débuts en bourse avec 107,3 milliards et frôle 1,5 billion de valorisation - Foro3D
@@ -453,11 +460,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Intelligence artificielle] Is Nvidia a Buy at $125? Here's My Honest Take - The Globe and Mail
 - [Petites valeurs en croissance] Leopalace21 And 2 Other Japanese Hidden Gem Stocks - Yahoo Finance
 - [Petites valeurs en croissance] Codan (ASX:CDA) Shares Look Overvalued After a Very Large 3 Year Run - Simply Wall St
-- [Défense, énergie, matières premières] AI debt fears mount: why cash and defensive stocks are back in favor - TheStreet
-- [Marchés mondiaux] A 10% drop for the stock market is unnerving, but it's not that unusual - Spectrum News
-- [Marchés mondiaux] Wall Street's Biggest Bull Says Investors Are Overreacting - BeInCrypto
-- [Intelligence artificielle] China Switched to Making Its Own Chips “At All Costs.” That Shrinks Nvidia’s China Upside - Yahoo Finance
-- [Petites valeurs en croissance] Intuit Inc. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions - Simply Wall St
-- [Pays émergents] "We are very excited about championship": Jhandu Kumar, Ashok eye medals at World Para Powerlifting Championships 2026 - www.malaysiasun.com
-- [Crypto] ETH price on Nov 22, 2026 at 10am EST Crypto Prediction Market - Robinhood
-- [Intelligence artificielle] John Kennedy: If Howard Lutnick is giving AI chips away
+- [Défense, énergie, matières premières] AI deb

@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T19:50:37.053480+00:00",
+ "mis_a_jour": "2026-11-22T20:00:42.200372+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55332.62,
+   "prix": 55339.53,
    "devise": "EUR",
-   "jour_pct": 0.81,
-   "mois_pct": -23.64,
-   "volume": 148.78809422,
+   "jour_pct": 0.82,
+   "mois_pct": -23.63,
+   "volume": 149.24536339,
    "volume_relatif": 0.62,
    "capitalisation": null,
    "per": null,
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "How to Short Anthropic (ANT): Leverage Shares by Themes Explains ANDD and ANSS Inverse Anthropic ETFs, Short Selling and Put Options - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOYlk5bWpkWmk0a1NwS1lmRktHSGI0NGVMVzU0aXZyWXRkNUw2cHlKRlN5U3hvVWtSdUdMZUtaX0xfZUphMkFlM0k1Ul9YWkc3SjY1THNvZjV1SndhOVBfTWpJcjdHOWFKMkwxS2ZrVlljMWcxR2tjbUwxQlVoYjBZb2d2cjBfUzNmeHdYTGdCSEdtc3J6NS1Hb0dSNVhLNVpEa1pUS3NxNXV2VXhKd3EyMUhzaVFNY2VLQmNybWJhVzlGU2JMLWYwUEFIbVVISktheGRkb1E4aEJJU0hvR2xyRExlaDJSc2YwNGNrTklWVmd6YndmcVM5UV9Ud1kzM2pyU1VxcUVVRUxhTlgzWGxZTE9SRm9Fc0RQ?oc=5",
+   "date": "Sun, 22 Nov 2026 19:00:00 GMT",
+   "vu_le": "2026-11-22T20:00:42.200372+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Dow Jones Futures Due As Oracle, Korea Try To Ease Market Fears; Look For These Absolute Losers - Investor's Business Daily",
+   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGZqY3FoUjhCTGtSbnJQMmlMMlNQWGxuQ1UyR09vYVpCY2xHcU5la0pPb0FGbnkzZ3AwRThVNXdMcXk4cEZ4elRxd1VKVHRqTEdxUGtHeUZNS1RPQkVKdUpXeVJscjg1Qm1zUHpjMDlzYUQ5UUE0X3FVTzRqRC1FWVRGU0NXWUI0Rk1FWERnVWxkWEtRbTJNc3Nldms4emVsSF9yMU4xaDU4SWh6TDgydjJWa3ZYQ2pFaUp2TFhmdUh6cFU?oc=5",
+   "date": "Sun, 22 Nov 2026 17:51:00 GMT",
+   "vu_le": "2026-11-22T20:00:42.200372+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "L'INE confirme le ralentissement de l'inflation à 3,0 % - The Portugal News",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTZYRE90Sl9RcGt2ZFJFdlBjaXdYTmVVX0JoNExxLW5hV3hHVUdGV2V2NERrUl8ybnV0UTdiZC1oYkhQWmdBLXBIbDdvWXdjWnU4TnE4T3pYT29yRmc1MjBzcmRsckZ2eUc4MlF6dmMwUkhOS0hQOGVSRnBnX2dvYlh4VmY1eTdPbHhrZXRNaWNkY2hWbDBPRy1wUTdDeE1nT0J0VzNzVTlKX1lJeEZHdFFfNFp0S2s?oc=5",
+   "date": "Sun, 22 Nov 2026 04:27:57 GMT",
+   "vu_le": "2026-11-22T20:00:42.200372+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "La politique de la Réserve fédérale met XRP en danger : la hausse des taux pourrait réduire l’attrait des cryptomonnaies - Traders Union",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUjVtZjQ4YmhIdWJ6YXhYOHd6SGNDQ19HbHZhZEFwSGVEMC1VOFZnWGk3RUp1ZUxPX3RMR1lMSjF1Y053VDNTeHBtMzFDS3ZYZFRlSzQ3VmM4bng4RTRGbW83enBBMG5vT1ZJSHhrcmxZUGRVR200WXU0dzBxU3dvbTY2VnJDMmpST3E1QVVCSjhNeUdu?oc=5",
+   "date": "Sun, 22 Nov 2026 00:38:26 GMT",
+   "vu_le": "2026-11-22T20:00:42.200372+00:00"
+  },
+  {
+   "sujet": "Introductions en bourse",
+   "titre": "SpaceX Stock Jumps 19% on Day One — What Happens Next After the Historic IPO? - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONUc2dEV1V0hHS0hXV3pZc1dyc0Zza1otNXl2QnIwX3F6bTF3M2JLZk5aUFVxUE91YV9lX3B6dHllX19hel9jSEYtMnpaY0NVZ2s5OWJMSUt4U09ZMGE1Z0lIZ0RoQUtKQUZwOUFJb0hBVHIyMkh6NWE1N3I5QzMwcnFvQ244b3FGNHQ1TDVTZ2tQb3ZhQWRDMlZfdUNmU3hQVDBWX0ROb3JnaExnRVRiYl9ycm9wYUFuUHhJTkpwRWlCckswT1R3S0JvNVZlRG1ENks1QTA4UGVKd09lcm5JczR3?oc=5",
+   "date": "Sun, 22 Nov 2026 06:33:24 GMT",
+   "vu_le": "2026-11-22T20:00:42.200372+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Taiwan stocks suffer worst week since 1990 as AI rout drains emerging Asia - IntelliNews",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeHVpUmxveXJpTkF2MHdPMjBrUzdjdDZPeG00Ukh6enZuUW5LLUgyVVUybWdLSUZSOVlOajA1aGVVc080SzlWWTlkQ2FKenhXNjVWbjJIbG9qMUx0OXJqNWJIejhWX1pYdmdRWFpQSUpQdU9GSlkwakZsZUhfQm41T3I1V24zeVV0cTdtYUFqLTZQbjIxNXJFYm53T2RlOE1laGVVbHB2SUFwUnZKRHg4THRRTmNhbkU1bzc1bmgybw?oc=5",
+   "date": "Sun, 22 Nov 2026 19:09:42 GMT",
+   "vu_le": "2026-11-22T20:00:42.200372+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "The One Number Behind Every $5 XRP Forecast for 2030 - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSFRzZ1R5Nno0cjFWZEhYRGV6SkR4TTdoZDVLaWlSS0pTaVJ6WGxlSkw4eVlSaTZVOXdOX1F0WmlVTm5jRXlzazdLTXMycG1rWjlhY2pTY0J1ejg0dHR4dmtRWkpXTGxjRlFGSWFVc29FTURnLUhUM3FnekxKNmJWOHFoT1VYMUhlbndUcGJxWThYR2hTUmhLbnprdmVPUTJvQkNRSFRmcGhIMk80LXNR?oc=5",
+   "date": "Sun, 22 Nov 2026 19:56:00 GMT",
+   "vu_le": "2026-11-22T20:00:42.200372+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance",
@@ -6503,56 +6552,10 @@
    "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOTlLR3ZnVms3WmJfWE1xLUFRTTJrbGFEMnNkTkdrWlVfS2ExUFRYNEIxZ21tbGRvY0d4dnhFb3QtclBHYmx0WkVQRGpXeHVoQzNERnhqOEhLYnpVQnBjSkRtS2xmMHUzNkxscWd1YXhhU3U5ZUxvVzFnRHlXcDBST19UOVNNZG1uWVVtUHdyNnlrenpsRlZ6RjRFTXg?oc=5",
    "date": "Sun, 22 Nov 2026 08:00:00 GMT",
    "vu_le": "2026-11-22T08:10:35.989839+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Asia, Africa to drive expansion of India's export markets as shipments grow across regions - www.indiagazette.com",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNajI1bnZhbkRnN0NKY0lXUzJRdUVFMXVIcks1eFV6djJneHlpQ3JocFFUU3hsaVdKaVFtd2VQdUI1aXZjc2I1YnJOcEtMd0pkTnBidXFGNUprdjNNc3FUMEN0RDZCNDI5NG1tX1BqUkFxSEdYU09OWWY1dXExcU5KczdrNE5jbG0ySVBYeDdEV0gzUEx6cG1CRG1SdFJibjNoWjJlQVpzeFllWHpzYThSLUZjUExpdU5rRTBYcWdvM2x3SEtsUUt2SGtVRQ?oc=5",
-   "date": "Sun, 22 Nov 2026 03:35:00 GMT",
-   "vu_le": "2026-11-22T08:10:35.989839+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Electro Optic Systems Holdings Limited (EOPSF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIN0VQTFAySHlLWVZPQzQxWEFzb2dCa0lFTGZXVUZSUjVyVTc0cE9feGdfcDlycE1uNFlLNFVTS2UtRDZpNGdvS0FndlRCWjVQME1j?oc=5",
-   "date": "Sun, 22 Nov 2026 00:00:05 GMT",
-   "vu_le": "2026-11-22T08:10:35.989839+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "SOL price on Nov 22, 2026 at 4am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR1h0Y09IWDFIaTdjNEw4OEFDX3ZDcDNOM0hUdXh3a3B3N1huYlVjZkhvSmpqSHNOOFRNek9ucWhtWkN4OWNUZmRLTkJDNlh4bVVWLVc0U2lHdmRya295YWhJc1ZrSTE0QmNhcXh2NzRuNHlnRmZNd2RQT1lwdFNmcS1kcmQxSTAxNkd2Z1hGOUs5VjMxNDVfZk5SSVRuX1pVUktBbTlJS2JoWjRsN1E?oc=5",
-   "date": "Sun, 22 Nov 2026 08:07:22 GMT",
-   "vu_le": "2026-11-22T08:10:35.989839+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin price rebounds from $55K after historic sell-off, is $72K next? - Crypto News",
-   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rZzVTU2xaTWZXcE5LOFI0RlBsZk84N0F5ekdWY0lONHljSWROaEVCS3BsYUd6QmlZR2RpSzBtZ2JSVVFKSVhydVBEd3lQSVVVekd5MGdPVmMwVU5PenJBcm1KZWtmT1M5Y1Z1cDkxaFdqREk?oc=5",
-   "date": "Sun, 22 Nov 2026 08:01:17 GMT",
-   "vu_le": "2026-11-22T08:10:35.989839+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 22, 2026 at 4am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONnQtZ1ZIelFfOWdEYlZEVnB2elVpM1NvZ3kybmhkU3FwajBuR1hpSXRwc2N5VWhtOGFtMXBRZTZESTRVdERKNHd1cTdfeVVoQ0FGTk0zMzQxbnk3bnMwZXZQRTM1M3pJZ2k3eWxHa2FGa2VkdXBWM3BnbTdFd0xUeHc1UjFYcHBJR2NQdUE3U24wazlWUUNEa0s0REJEdVY0Zzctckh2ZlBRWmM1Mmc?oc=5",
-   "date": "Sun, 22 Nov 2026 08:07:22 GMT",
-   "vu_le": "2026-11-22T08:10:35.989839+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Voyager Technologies, Inc. (VOYG) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jQkdJUHBoSFpaVnNyTVZoblRVNFRucXF2NEJaY0haRGh4azBYX0thYW1zVTV0d2RhNUo1WEc0S2JlMHFxOGdlV0ZjOU45NkltNUE?oc=5",
-   "date": "Sat, 21 Nov 2026 20:09:05 GMT",
-   "vu_le": "2026-11-22T08:00:35.385502+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "SOL price on Nov 21, 2026 at 11pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQVFhOTQ5MmNDSDRGakRZbjdUQXd4eHY4QlktdkNRUkUteEVodHd1ekw5UVRMRnYwR05Ud1V3REZ2bUFIWmNydmhsbk81QXdpdGM4TnFtcEhqVU1iNXlOV2RIN0NyYmlVN0FDRE50Q19MUy16Wk1fajByUzN1UW5wSnVvcGZqSmhBTXRDdEZXZVF5OTdVd0poUkVtWkphbzJ0RkVqWERncmhyMS1vbHdB?oc=5",
-   "date": "Sun, 22 Nov 2026 03:14:26 GMT",
-   "vu_le": "2026-11-22T08:00:35.385502+00:00"
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "actu Bourse de Paris et Europe: HTTP Error 429: Too Many Requests",
+  "actu Intelligence artificielle: HTTP Error 429: Too Many Requests"
+ ]
 }
