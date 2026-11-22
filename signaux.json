@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T20:50:35.193612+00:00",
+ "mis_a_jour": "2026-11-22T21:00:36.957582+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55435,
+   "prix": 55505.62,
    "devise": "EUR",
-   "jour_pct": 1.0,
-   "mois_pct": -23.5,
-   "volume": 155.82770389,
-   "volume_relatif": 0.64,
+   "jour_pct": 1.13,
+   "mois_pct": -23.4,
+   "volume": 156.40583277,
+   "volume_relatif": 0.65,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic Stock Could Soar by 72%, According to This Wall Street Analyst - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSlNsQ21wdUN0ZEhZTHlQMGJxYVZlQ182UGZSdTlTb1FfX0o3dVRGNDE3Y1ppREJCdU1Ma1liaHpOT2EtajVzQUp1MjVaSXY2cVQ3Q2pIYWdOSDBZTHRIWldjb3BjaWxOa1FyNE9VVzJVZWExbVltYURSN09hbVBZODZHcEpLUzJ3TldlZ1JDVlNldFRNNUdVWDVDekczMU91bHNjaHRLMGJCOG5EUzFNa1czMFdHaUpkZGx3Q3pVRlhwVEUyUU5yanhxSHNWMkFxblRuRUJVTUx6Z2xjQTRmYVRFZXM2SG8wYnBrNEFB?oc=5",
+   "date": "Sun, 22 Nov 2026 20:36:17 GMT",
+   "vu_le": "2026-11-22T21:00:36.957582+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Dogecoin price on Nov 22, 2026 at 10am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDV2ZzA0RnctZVFxV0J2Z19QcXBkVy1Vbzg5WXpfTmRHbWcxWGlIdDRGdGF4dU8tcEhlbmd4b29fY1hPcThCMmhTVkp4eTJIdG5nOGFIb2doMGM2T1Q5dlZlN0JRWm40eUdFWXRpS1h3YzluTTEyV09ad0h0Qm9Bc2VtcDU0a3EwNGxHbWVlNGlRR1ZoOWF5OEtqRHZYZWhQcGVPQzdnYldpc1k2MTZwaVBqcmloZw?oc=5",
+   "date": "Sun, 22 Nov 2026 14:13:10 GMT",
+   "vu_le": "2026-11-22T21:00:36.957582+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Wall Street Strategists See Silver Lining for Stock Market - Barron's",
@@ -6537,20 +6551,6 @@
    "titre": "Dow Jones Sinks to 50,759.42 as Home Depot and Cyclicals Weigh Before Nvidia's Earnings Beat Estimates - BBN Times",
    "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTjZZMG9pdDNTb19lUjAwUk9FQkpqZjdHbW40SW9TenVLWFViNzM2V0FuWUMxMzZqbGdJSjl2MnI3Q0Q1WlRMUUNQQnpXNjhqa0V0UHN0QTR0OEYxUW81Z1VGWlJlOEI3eHRRRnFaNU9IOTMyWkczMFV0bHY3YzVlS2dqZWd0M0ZBNnFySVYzNG9LYkVfc3hRLVQ4SC1WZ1NMSEVaTXpLamF3YjlBb0wyVHpqX21TTkVsYWNGMG1JZGhkOW93VmhNaTE4UzBYYjZCSUVESTlUZWhkUQ?oc=5",
    "date": "Sun, 22 Nov 2026 06:11:29 GMT",
-   "vu_le": "2026-11-22T08:40:37.294130+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Tokio Marine Holdings (TSE:8766) Stock Looks Undervalued Relative To Capital Returns - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVW1BZkxRMG5KaEN2Vm5NY2tVbmRxekZENHk5LTY1bjJPZmNvN1Boa3dPelRxLV9VdU13XzVRXzdHT1Q0WDVYdllvbUJUS2I2elQ3Q2NRcnV5NGFjd1FXVnFxeUhlc0xYNy1XdWh3U3pqVU9wWnJIOVBEZHA2YkptY3VzMlJ2M3Rsbk5vTmFXUUZYc1FmZmZ4MEhkZw?oc=5",
-   "date": "Sun, 22 Nov 2026 08:09:48 GMT",
-   "vu_le": "2026-11-22T08:40:37.294130+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "MF Markets adds 24/7 perpetual futures trading for Palo Alto Networks - Crypto Briefing",
-   "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lclRlWWVEd1lCY1E1cWdpTTVEOF8waEdsejI2R2h5bENyNW1KTW9MT1hLaG9pMEdfQm9lM3Yzc0czN19zUjVMaDc0TjZGejBsMlB1WWRBVVpkbTdzWEJVWnZvYXR2ZUE4b3Y1MHBvY1BwVTRzdDdOVk9n?oc=5",
-   "date": "Sun, 22 Nov 2026 08:03:12 GMT",
    "vu_le": "2026-11-22T08:40:37.294130+00:00"
   }
  ],
