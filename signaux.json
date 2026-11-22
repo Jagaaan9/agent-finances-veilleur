@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T13:50:34.836399+00:00",
+ "mis_a_jour": "2026-11-22T14:00:35.695390+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55224.97,
+   "prix": 55380.14,
    "devise": "EUR",
-   "jour_pct": 0.61,
-   "mois_pct": -23.79,
-   "volume": 95.05555357,
-   "volume_relatif": 0.39,
+   "jour_pct": 0.9,
+   "mois_pct": -23.58,
+   "volume": 95.49042854,
+   "volume_relatif": 0.4,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - The Independent",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUm5xaGw5NlVCWFFTcVU4YmZMQXpCSEhXSnpTYjliSktlSUhPNGN1SkI3QUp6b1N3Nk1EZHNoZmxiLVlqa21MU181UmRsdHpJLWViNUQtZXkzUlMwdkFWUERiS3BDUHZKWUx2eU0zTjdpekoyX3NkZUtjaWxRY091aWJ0c1VFdGF3dGk1cXE1YWdRXzlJdzdDMlRWaUJwVncxRnZsTlR6eXhYNkpRcUgxcDBxRWU4WVhv?oc=5",
+   "date": "Sun, 22 Nov 2026 13:00:00 GMT",
+   "vu_le": "2026-11-22T14:00:35.695390+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "Weekly: Bitcoin Below $56,000, Anthropic IPO, and a Rise in Fraud Cases - Incrypted",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMWtkdlYyTjhMa3dKbmVKTE96X3l6Uzltd2FERDNNeDBxTTR4TVd6M2tWaXg1cUxCYmRlZWtid2tKaDNfTlQxd0ItY1RKREt1X0ZURjFYcnFJTVA2eHZueGRNOENpcmJzWnJmamlMenBkeW5YUUVxeUZDM01iUUZ6MDdyZklkMElIdEtUcmVId2pmcHVndjFz?oc=5",
+   "date": "Sun, 22 Nov 2026 12:00:15 GMT",
+   "vu_le": "2026-11-22T14:00:35.695390+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "US Stock Market Next Week: Will Stocks Crash Again After Nasdaq’s 10% Plunge? - Stocks Down Under",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TQnhpZ3B3XzBaei1WRHIxU04xRkRqaWZkR1lIanpIUEx3TWlJeng2RmdHMmQwUk1zcGtXTUNKX2pwUVZVenlTVFFnSWExamptNkphS2NZb1Q1cElLLTZld3ZGT2lubmdQbGdxZG5lamhjRTh2UFE?oc=5",
+   "date": "Sun, 22 Nov 2026 13:54:14 GMT",
+   "vu_le": "2026-11-22T14:00:35.695390+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Opinions de Panda Traders(@Panda_Traders) - Binance",
+   "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTd3ZvQVJsZ2JwNVdJb0pTcU5SZjJkSzJyMkJweXQxemdndXRUZGVIN3JjdEF1WmtaSXVWT3UyNkxGYy13M245NHhoazB0bzhpTUo0ODd5MEpRR1RVX2dhanZNa1A1UVd2?oc=5",
+   "date": "Sun, 22 Nov 2026 09:13:08 GMT",
+   "vu_le": "2026-11-22T14:00:35.695390+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Chinese Tech Stocks Lose $1.7 Trillion in 5 Months, Authorities Move to Boost Market - news.sbs.co.kr",
+   "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IQk8xenJ0UVhTeHUtblVqZWhTMGRIQ0dabGtvMzNET0lQdEdHbF9xWGx0ZU1kaUxSU2R1YnZONkQ5OHFvc21TbEE5YXUyTGFZM2RCNzVMaGYtaFRuN0pFOWY5Vy1KYWdPYzZ5WWtB?oc=5",
+   "date": "Sun, 22 Nov 2026 13:40:58 GMT",
+   "vu_le": "2026-11-22T14:00:35.695390+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "If I Were Building a Portfolio From Scratch With $10,000, I’d Anchor It With This Unassuming Value Stock - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQcUl4Q1dTaXJpOUx3dWxoc2wyR0J4MW9TRFZuWmUyYk8wZ2MzOFV6TTlVRzhyOFA3LXk5QVcxbFJoTzZCdHV1d1dRdTVCVDBpWUhCVWJwYXNJcWluemtoRlpQRmhlUUFqWnJ5b3hvbzF2VFQzeEZ4aTA4Y3FZNWgwWThJNkhFbjl5UHVmcWt5SDFwZTR2MGpCTFlJbTdLOHFlY3Q5UnBQN0d1MDBLVldaTVotb01PdzM5aFRlNHpHYmdjbFVONE1EaENNNGphYkZGNUNOZ1FvYl9xM21JNUpmVzNmSWo0MFFzREZQQU1QcnVoWUM4N0tGWHpnZ21ySVJobmw0aGlhWGlTOS1RUWQ2THlyZXU?oc=5",
+   "date": "Sun, 22 Nov 2026 13:21:59 GMT",
+   "vu_le": "2026-11-22T14:00:35.695390+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Fell to Two-Year Low, then Rebounded 10% — Experts Analyzed Market - Incrypted",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTUxWbVBlTmxoR3EwNTBzeVM4bWlYVkpWbU5DX1RaRktIWC1nbWV0WUNXek5RY0tGWS1rekF5bW1QUEpBM1ZjcUtpa05weVd4VnhuVWFuYmVVVEtoLVhvZTRLeFU1ZVJyMGpUR0ZhdXZEd2V6cEUzX2d3ZmVHRnd6ZkEwMEhrMHRRSmJTRG52NU5la2lCRkxvSWlOWG4?oc=5",
+   "date": "Sun, 22 Nov 2026 13:15:21 GMT",
+   "vu_le": "2026-11-22T14:00:35.695390+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Today's Cryptocurrency Prices by Market Cap - MSN",
+   "lien": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Fc3NTRm01SjFfdnlqZFlrVXN5UjNocndaNE5tSF90di01bC16aUNnS2JuUTZUZ1NSekRtOVZBRkdOWVo1eGFFMUwwUW1pbDBHTTgwMjZUWVpJOXhL?oc=5",
+   "date": "Sun, 22 Nov 2026 13:05:05 GMT",
+   "vu_le": "2026-11-22T14:00:35.695390+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "\"When should you buy? When there is panic\": Investors weigh Wall Street rout - www.calcalistech.com",
@@ -6496,62 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mdWpZZXVERmJRQTgzcDc5RWZpeUpUbXFmbFc2Smg4X1pNUVFRTUM2SFVxNjBZczZ0UlRnYU9hcUdyT1oxRXRGVnp3OFVHNnlvN1RyRXNzc3Y1aHcyT01VbE5mcXFreXlLYlRwS3hsYUJ0cG5O?oc=5",
    "date": "Sun, 22 Nov 2026 01:23:00 GMT",
    "vu_le": "2026-11-22T01:40:36.253991+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "India’s $126bn insurance sector slams proposed commission cap - Financial Times",
-   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVU5MEdOUmFVblM0MFc2N3hsUzFGY2FKV3M5ckt5R0lkUlRld2phNjY3QU9ITHdZbm9sUnVnS2NDMktEMDJkRVd2b0tjRHlLV1FqMWtfRXE2bkMzdEJDaDFYX2dGWExnWS1KYWxsdFY2TDgtZmNzT2JrSy00MGltdG1zMGk?oc=5",
-   "date": "Sun, 22 Nov 2026 01:30:33 GMT",
-   "vu_le": "2026-11-22T01:40:36.253991+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "SEC: 8 Fake Crypto Exchanges, $37M+ Alleged Fraud - shattered.io",
-   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaGpEVVdPQkJ3ZGhQMUtyRkJhaTBUTlAxVnVOUlBHdjBMUFBja0s4ci1QQURjVHhBYjRUbG5NSkcwLVk2ckxvdWFPdDc4YVVVLTh0Z05DV0Y1Q0lMbjI2NDhtN1UxMlVWLUphMVFvQ2I1UWpka3RWYTNaUWtSVW1Sb0dsTnB6LTJvWHc?oc=5",
-   "date": "Sun, 22 Nov 2026 01:32:58 GMT",
-   "vu_le": "2026-11-22T01:40:36.253991+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Polymarket Invite Code TIMES | $25 Bonus for NFL Week 11, NCAAF, NBA (Nov. 21) - El Paso Times",
-   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdmk4b2tLeVRpd0c1TExvbkllRDdOb3IwNmR3YzVvVlFtc1VKdkZpZG9nNFZpSURUVVdpbi0wX3NQTlNFdVg5d2NJN1R4M1NyR3BNN0ZRSVZmYVIzazk0OHNSS0ZqMnl6YU5DSUNoUkNpX1ZyOXEyZnpzWFYycTVFbzVzbGdjUld2bDlJRDN1ZXZ6bFdPcHNVd2QzUTlxTW1rLVE1T2NTQTBUeGw5cHRiRFl6RGNENUpVVmtPUWZUQlc?oc=5",
-   "date": "Sun, 22 Nov 2026 01:11:00 GMT",
-   "vu_le": "2026-11-22T01:40:36.253991+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "This Under-the-Radar Crypto Stock Could Surprise Everyone - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlhUamFoOFRxb1hyV19VaFRab1lWV3ZPT29qTFM5T3RyeXZWeUZxTWtzSWJTbkhKWDE4bnFlQndWWkFBZzhZRDNPV0xYVE1rNVZVTEpXdWgtSEMtaEQ5dXJwblBUd0tWbm4wWmVJNDZXcGhnbXJjLTdXVHR0cDFQRTVpUjZUT0FnT0JjaVlwSGt5N2QwQkpZYg?oc=5",
-   "date": "Sun, 22 Nov 2026 01:30:00 GMT",
-   "vu_le": "2026-11-22T01:40:36.253991+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley - The New York Times",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnA1cXB0NjhBTjNiX0FZT1UxUl9lZVpLSmlhWUZLMDRyMkkwazFrdmswZkpvNC1CdDVBYjIxU085UUhNUW0wT2xJcTE5Snk5WlduUmQtU1RPY0t4MDFFeHg5UndKVHBnZkYwNUJWMjROZGlqU19fN1lDQ09WUUZGZzgtNDh2Q3J0aU9TaU1ENm1iaURVYUE?oc=5",
-   "date": "Sat, 21 Nov 2026 10:03:45 GMT",
-   "vu_le": "2026-11-22T01:30:39.234655+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "M&A Due Diligence in Turkey 2026: A Buyer's Checklist for Foreign Investors - Global Advisory Experts",
-   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb1hONlUxQ2RUUE9GTnpBbzhJRmcyLXd4OHBQYXBmRVh6Q2N2aDJCc1l4R0ZINEtvejdVcngwRXdBbnpjeUR3c2RzQWRWSjdwVVM2MU5QWnQ1VnJPRWdhRmg3bm4zMEVXcENkSlpxZ3JQWFFRMVlZREpTOWhacVpjbzZtZzVMWlRkQTNzdndURHk1NnFoTVRnRlF2Y1R5RVMxTFhkZFZrc2daZDBq?oc=5",
-   "date": "Sun, 22 Nov 2026 00:37:32 GMT",
-   "vu_le": "2026-11-22T01:30:39.234655+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Cerebras raises 2026 outlook, sees revenue tripling in 2027 as $26bn backlog builds - investingLive",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFdRSWdkSDRzVkxIc2lqMm8ycjVRNmdJM2JTcTh0ejRuQUhremFaSEJSOHhWeXVMR1d5NUVFVUJ3VjJYLVUzOHlxNWtZbDZtZ1FWcnBYSTN2dVRTYVcxX1dBcTVoRHoxc2pxRk56RWVIVF9kNG55bTloZFJxME1JU3NvUzlSZC0xYkdOSUtnTFNjV2JqTDNqeVdocGtNNW54Vk1wREJFdUFiQ0E3MUVKX1VlZDVuUQ?oc=5",
-   "date": "Sun, 22 Nov 2026 00:12:35 GMT",
-   "vu_le": "2026-11-22T01:30:39.234655+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Tesla Q2 Beat Revenue But EPS Miss 35%: Free Cash Flow Collapses -$1.09B as Capex Doubles - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdEVHblZyT0p3RG9sQWp6N183aUUxUEtEdkRVcFVXcnNhYmhqZGptTE9lWUhEQjNsSWNCNE5RLTZONUNrT3VJdHFhTTdxdDA5NlFGV3VDbzcxZWJ1SHMyTUc3b1pocVlOdGlTTlpZR1RaMGR3MGxOd3d6bG9jZkFZZm1DWHRpNkNJZWttSHRHQmUwZm5HQ0k2Y3k3LVgxazh0YUhNUVNmX1Bvekk0bmQ0Q0VoQ19SOEpNdmVXd2tVSlhFMUU4Q0VsQlZHWUJ6S29iUFBGZFp2R0lGclZmeVFYalJzMV9EaGIwM1U5QzVuQUtsMWE1UWExWmFwZTBZUk0xM0E?oc=5",
-   "date": "Sat, 21 Nov 2026 12:28:15 GMT",
-   "vu_le": "2026-11-22T01:30:39.234655+00:00"
   }
  ],
  "erreurs": []
