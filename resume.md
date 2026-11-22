@@ -7,13 +7,13 @@ POSITIONS ET INDICES :
 - NASDAQ Composite Index (NASDAQ:IXIC) : 22617.733 , jour -5.28 %, mois -14.98 %
 - CAC 40 Index (EURONEXT:PX1) : 7927.75 , jour -1.89 %, mois 1.19 %
 - STOXX 50 (TVC:SX5E) : 5941.95 EUR, jour -2.81 %, mois -3.21 %
-- Japan 225 Index (TVC:NI225) : 58434.04 JPY, jour 3.54 %, mois -6.75 %
+- Japan 225 Index (TVC:NI225) : 57843.79 JPY, jour 2.49 %, mois -7.7 %
 - Hang Seng Index (TVC:HSI) : 22410.81 HKD, jour -1.89 %, mois -7.16 %
 - SSE Composite Index (SSE:000001) : 3533.7929 , jour -1.22 %, mois -5.53 %
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
-- Gold (TVC:GOLD) : 3578.23 USD, jour 1.13 %, mois -11.11 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09749 USD, jour 0.09 %, mois -2.14 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55594.18 EUR, jour 1.29 %, mois -23.28 %
+- Gold (TVC:GOLD) : 3578.68 USD, jour 1.14 %, mois -11.1 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.0971899999999999 USD, jour 0.06 %, mois -2.16 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55610.9 EUR, jour 1.32 %, mois -23.26 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,11 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Trump blames $6 trillion stock market slide on Democrats’ midterm wins - Yahoo! Finance Canada
+- [Chine et Asie] Beijing to bar young red-chip firms from listing outside mainland China, sources say - Livemint
+- [Intelligence artificielle] US spy chief calls Nvidia chips ‘jewels’ - Semafor
+- [Petites valeurs en croissance] London Stock Exchange Group (LSE:LSEG) Could Be 18% Undervalued On Its Kalshi Data Deal - Simply Wall St
+- [Crypto] Can Gold and Bitcoin Tell Us When the Stock Market Has Bottomed? - Substack
 - [Banques centrales et taux] Goldman Sachs privilégie l'or à l'argent jusqu'en 2027 - IDNFinancials
 - [Chine et Asie] China cuts margin requirement to 80% in fresh market support push, but will it work? - investingLive
 - [Chine et Asie] COMMENTARY: AI bust hurts Chinese stocks far more than GDP - Reuters
@@ -458,8 +463,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Banques centrales et taux] L’or s’effondre comme en 2008, Peter Schiff affirme que c’est justement pour cela qu’il est haussier - BeInCrypto
 - [Crypto] SOL price on Nov 22, 2026 at 12pm EST Crypto Prediction Market - Robinhood
 - [Intelligence artificielle] Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail
-- [Crypto] Short-term Bitcoin holders capitulate as over 113K BTC hits exchanges - Crypto Briefing
-- [Anthropic (FR)] La PDG d’ARK Invest, Cathie Wood, achète pour 146 millions de dollars d’Anthropic pendant que le titre recule - Martin Cid Magazine
-- [Intelligence artificielle] Intel Chief confirms China got access to US advanced AI chips - CNN
-- [Anthropic (FR)] actualites AMAZO 144.TCIOPENS (7G38S) - Turbo | DE000SV6ATP7 - Cotation EURONEXT ACCESS PARIS - Bourse Direct
-- [Anthropic (FR)] Bulle ou pas bulle, peu importe: l’intelligence artificielle dévore la planè
+- [Crypto] Short-term Bitco

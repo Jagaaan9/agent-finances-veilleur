@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T23:20:41.664142+00:00",
+ "mis_a_jour": "2026-11-22T23:30:36.557639+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -90,10 +90,10 @@
   {
    "nom": "Japan 225 Index",
    "symbole": "TVC:NI225",
-   "prix": 58434.04,
+   "prix": 57843.79,
    "devise": "JPY",
-   "jour_pct": 3.54,
-   "mois_pct": -6.75,
+   "jour_pct": 2.49,
+   "mois_pct": -7.7,
    "volume": null,
    "volume_relatif": null,
    "capitalisation": null,
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3578.23,
+   "prix": 3578.68,
    "devise": "USD",
-   "jour_pct": 1.13,
-   "mois_pct": -11.11,
+   "jour_pct": 1.14,
+   "mois_pct": -11.1,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09749,
+   "prix": 1.0971899999999999,
    "devise": "USD",
-   "jour_pct": 0.09,
-   "mois_pct": -2.14,
-   "volume": 2872,
+   "jour_pct": 0.06,
+   "mois_pct": -2.16,
+   "volume": 3496,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55594.18,
+   "prix": 55610.9,
    "devise": "EUR",
-   "jour_pct": 1.29,
-   "mois_pct": -23.28,
-   "volume": 175.31889787,
+   "jour_pct": 1.32,
+   "mois_pct": -23.26,
+   "volume": 175.86274658,
    "volume_relatif": 0.73,
    "capitalisation": null,
    "per": null,
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Trump blames $6 trillion stock market slide on Democrats’ midterm wins - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTJVUFd1Z2xQZk5MUUVvMGlNNXExNnJBaDR4M2JBMVhOWjYwVWs1RTRQSnJNQ2pnVm4wOU5vTC1ORFVYbGxCV25JNGw2dHZBbUExeUJrODRxOGd3SGJxZHlQQnBLa1p3Z3pLT1hyTmF3aUJibWVKT0VYUEhGTUI1YVUtVjU?oc=5",
+   "date": "Sun, 22 Nov 2026 19:46:02 GMT",
+   "vu_le": "2026-11-22T23:30:36.557639+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Beijing to bar young red-chip firms from listing outside mainland China, sources say - Livemint",
+   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMUM4ZE1FQVo1dEo2blFGbWxCUHRsQm1XTU5NOU5pNVpZVUJXbHI2M29iVFVKSE13dXhITHBuYy12M3pmdjVLazY0MHFlRENaTmJpaFJlVm1haFNDdXIyMlBYSzJTRDNMR2NidjFENmg4WkV5T3JQc0M3eVFIQTZIdE5YYmQyY3J4eGJkUDNCelJoMDdObVJGa0tMTnBhdjRCazdGX0JlNVBLTHkzY1JkV3dZU3ZXOVdjbV8tRnhfdW1xdkdwTWs3OVY5UWhCYkVk0gHWAUFVX3lxTE9FTF91ME9hRUFubkZIeVEyTkJEVDNaODFxXzVPTlk1MHJYd2h6NWlfTmdIQnltNmJ6NU1DWDQzTHl3SUNRazgzMGhORS0xeVY5R3h5SENuNW5TbzJXYW8xNXRsVjNxd2hISlFINjNOelFHMFZxQm9wUnhuZnVERW4wZ0pGSk9jNzhFV0d3MndwR1hJa08xQnlZTkxhcElNUmxXMmdtSGZrdkkwOTU3Q3FySHNnWU5kdFlxWUVqb3E5N3NiMmJXcW9Eemkxc0dOcU94bW0xNFE?oc=5",
+   "date": "Sun, 22 Nov 2026 23:12:24 GMT",
+   "vu_le": "2026-11-22T23:30:36.557639+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "US spy chief calls Nvidia chips ‘jewels’ - Semafor",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTdDZ19RTC1sQnNBTzYwb09CNjJMa1F2anFlMENvVmlLcTVTYkx4TjR4VXdKWG4xUVkxMm50UmN6NlRVZDliYzFrTy04ejRxQnFXT2FOakxOTW10NXdLNy1QdWtkaWcwQll0TVNRU2pXM2lpSzE3emZBUzVyYkJtWWlaUnVMVjR5?oc=5",
+   "date": "Sun, 22 Nov 2026 22:22:00 GMT",
+   "vu_le": "2026-11-22T23:30:36.557639+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "London Stock Exchange Group (LSE:LSEG) Could Be 18% Undervalued On Its Kalshi Data Deal - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNnlRWjU1U0VrN2w4UFd0V2hZT3FsdFdxaHVhMU5zd1VucFlUdDlfMGpqaWxUQldYTDh2cjdSZnJIdXpGOUJVbWVLSThzVFB0TDZySzJVeEtEZXRjalpNcjN1c1VIT3lCQzJEbm9KU3JIeDhQNnR3VmdkcS1CVDFXZVY5eHZyXzdzY2RSeGRGVng2WTUwaFR4VVZPS1J1b1c2LXYxQUFfRGN0SHFqWlJuOUNsc2JYQXJEdHN6OVpBSHFBM3dOaGVzdXE3ak9RR3ZibDZLa0lKVEFWaEJNNW5VMG5IbEhJVG42aDBkT3pTSU9vbVpIS0HSAfsBQVVfeXFMUGRvWVhFRVkzWWRUV25iZFlhaHliTkp5UkdWZUUxWnhpRFBLT2tKZ0UwZHBPdXl6bTdxbFFPLU82ajNmSEI3UzE0UFBya2c0MXBLYU41M0piOUd3T0VWbVg4WVF5TnQ2UHptcHVDUXpRTTdoMmR4RThDV1B0a3ZTQ24yMWhFb2R0bTJvOUFFVFVvMGg2R0VoRmxvekg4S0lzYVZSWFA5bDh1VHRwV2R6Mkk2N0s4Y29Gbkk1X0ZTbGtNMVVOU09BbkhBYWoxTmx3dWlGSzRBNXhKcHhqNnlKYUNleWV4VTFsNm1GNlV1ckZYNDJuN1NRN1Y2NGs?oc=5",
+   "date": "Sun, 22 Nov 2026 23:13:14 GMT",
+   "vu_le": "2026-11-22T23:30:36.557639+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Can Gold and Bitcoin Tell Us When the Stock Market Has Bottomed? - Substack",
+   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOUNqR3VHX3p0Y2NxNElFRnppM3FTWDZUTGFrenkyaDdVd0l0TWsyazdXUVVyOEphV3k2dks1SG1zenlYRTFzRmxtUHcxSnB3b3htU04tSndidGw2ZHByc0F3QXZvRTh4SnFsUW9RU01fdWN4STZycEdsUzhIV2pzZy1R?oc=5",
+   "date": "Sun, 22 Nov 2026 23:18:09 GMT",
+   "vu_le": "2026-11-22T23:30:36.557639+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "Goldman Sachs privilégie l'or à l'argent jusqu'en 2027 - IDNFinancials",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRDltaFBSaUNsRWtzYmZ4QjlwNVZWWFJGRjk3Tm90NlVNNC1FUllhcjU1UmRYaWN3Q1Z3LUNpRFRmQkZ6NVZTMjZSVGNFVXBELVY2MXNhOTdQREZ5TnpOMi1KZ3p6R2w0SDNvS2lpOWszQmlsX2hrQUxhZVBPWUdDYmZJYmZIOVkyb05VOUwyUVhWLVQyTE1WaXJwZkozaGNDR1A3ekQwaGlmaVlWNHpleHhqTThUbkhaWTFqT0V2WXRlbHFyWFd1M01BSTBjX0I4N1HSAdcBQVVfeXFMTzBIRnNyamhNYkNndnNaaERYQXVsOWtaMExyZlVFTnZFMW5uUGxwZzM4MUtsVndoT0xIUVlSempZZkRqbnRzdTZPRVJrVTdqZWFFT1YzazhuX2tTR3NsRV9jRGJ5Y0ppU2MzbHl2NWdNTFdBcUdmZ2dKSnRHMmxuRXl2R05HZFdOaFZvZkRVVGxRUk9LbnNrYkg0N3VtRUI3akV0WldrUUhBejVPWW9YbkE1QlVWV2pkQ0s0LXBDU09aNEtsWVlNZlJ0b1pxNFoxa2pSTmJSVzQ?oc=5",
    "date": "Sun, 22 Nov 2026 10:08:39 GMT",
    "vu_le": "2026-11-22T10:20:39.983784+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin SV Rises 3.7% Amid Broad Market Rebound - CoinMarketCap",
-   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54LVRNa0FsakVZb3p5a3NPSTQ2SGRneXI1Ri1GbzVzTGlhM2ppSktDNTd6cDlvZ1NHc2g0Z3c0UTdSSE00SHg4QUpsZ3dqeW1tLWotUEVSU2VsdldkdG05aW1aTmtpQy1qT2VOOGZUNkk?oc=5",
-   "date": "Sun, 22 Nov 2026 09:04:00 GMT",
-   "vu_le": "2026-11-22T10:20:39.983784+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Kraken upholds trades after Bitcoin briefly drops to $17K on its CAD markets - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU1VHc2gwbjR4WGQyd191NUVPSm9oUG5feExPU0NpNkhxYWpCSGsxNEpGeThzalNNTHJPd0oza0V5RVdTMVY0UUUweGRqNUpBZjdjMUJMS0xsR0NuX3A4cFBzN1dxSlpPajI2VUhtUnd4ZUlya2ZJWGVBZW4tOTdCSGNXSXFGWG5tOEYySmZxNkpqX25xTmt6aEs1NjNoTU84X01VbU8zUGdieXZHMU1Kdm9sajlwcjRmOFV2QXVPelVRdTZYMTFURHNsMlVCTzh3NFZpa0JoVQ?oc=5",
-   "date": "Sun, 22 Nov 2026 09:46:29 GMT",
-   "vu_le": "2026-11-22T10:20:39.983784+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic en Bourse, qui paie l’addition ? - Le soir d'Algérie",
-   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzJJSU1YaC1JV3dKbFMzMWZBREw5bG0tRnh2X29FbmRTSjJPVU9CNVV4QVhNaFEyaFlOMHpSX1ZseF9OeTZYel9la3Vwb0tfNDFWWkNYQVpmbzhmOU9vMGNFWlNpX3JrelNHZjV0M1Izc2lzRlFqNW11M0FCWmF3RmJqTU9vemhGaG4w?oc=5",
-   "date": "Sun, 22 Nov 2026 10:00:00 GMT",
-   "vu_le": "2026-11-22T10:10:35.138624+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Les cours de l'or ont chuté à leur plus bas niveau depuis plus d'un an, et les experts restent pessimistes, mettant en garde contre une possible nouvelle baisse de 300 dollars. - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU0pnWTdOYlhFNk5sazVLSlhtcVlyM0ZaeFI2UWdJMEU5cFJuSW92dk1vNENZUzhYS1l6ZG8tWTQ3aWZ1VGJ2b1lSRXdyQVRvQ3dRVE9NeHBZalBtbG1wNmhvM0hNLXpRMWVObWhHMEVhOFN0UEFPMWVCODQ4VmFDQUhUaF9SZm5NYjlwUUlJZXE0cEZFVHRUeml1X3dubUNMVF9iMHRqMnZaYTYzeWRCYjVLNEFlNnBndVpEQ0hPc1R3RzEtQUR0d0pRT0xOcHllbG1rLXd0T0hpaGdV?oc=5",
-   "date": "Sun, 22 Nov 2026 10:04:19 GMT",
-   "vu_le": "2026-11-22T10:10:35.138624+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQNkFfMDY4dG1vbVk5cW1DTm9PdkdnRmxuRGxMT0Z5ZUxlYUNYZkFHYUYtMFJ6d1djUzVsTEN0dEk1clp6c012aEZIRnZpQnp4MVdSYlQ1VlhndW5aWEZSdmlwTktxUTRGa3Q1c0Q2ZE1zTVZBdkVtUzNQaENYaVlNNndWVnY1dkF6S3doRWk3Ym10Nkd2aG5SZXJMUHNXOUZORnJWb1h3NTlUQzF5NmpfcC1OZjNXejBnb1B2SzFDeS1JclB4OXh1TGRxdFh1bWlxV3hfcEtlS0Z5R0RVSDhoTC13azJ0RF85MDFmUVMzS0dXaHMtb2cwNlhFRXV3T2NRTTJNTTVuZTZ6czJ5VjJyalIwMUxYSktnb0JKcDhmRWhnNXNXQUc5Vzh1MGRZblRfYWNacy1DemgtMHplWUZWaEtMczhWQ2Fxa0tLcnNZUFZybGNvVG40?oc=5",
-   "date": "Sun, 22 Nov 2026 09:34:02 GMT",
-   "vu_le": "2026-11-22T10:10:35.138624+00:00"
   }
  ],
  "erreurs": []
