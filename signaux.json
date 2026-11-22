@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T02:50:34.709900+00:00",
+ "mis_a_jour": "2026-11-22T03:00:38.616480+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54239,
+   "prix": 54227.87,
    "devise": "EUR",
-   "jour_pct": -1.18,
-   "mois_pct": -25.15,
-   "volume": 8.73900542,
+   "jour_pct": -1.2,
+   "mois_pct": -25.17,
+   "volume": 10.11582322,
    "volume_relatif": 0.04,
    "capitalisation": null,
    "per": null,
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Tech sell-off sends Wall Street into correction. Goldman sees further pain ahead - Business Post",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ011dnhvQ3dxS2drQ01xSUxScUR3N2dNaWQ0elh5bjhjVGtGOFQ5aHZ6eWtUcXBsUzQ1QzZINHNvMVBEdmQ2LTVnU0swSEcxakg2QWpfa0VMSkZ1bTJYZXdYem1GZVZLNkhqQUVJRjlXNDVMekJCM016eThubjZscFVyWTFoalZPaUhwN1NPODdmek9ZeGxDNFZwazcyTUc3UDZjblpWYnJqSnlNMnB2bzZtU0xJUjA?oc=5",
+   "date": "Sun, 22 Nov 2026 02:54:56 GMT",
+   "vu_le": "2026-11-22T03:00:38.616480+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Nvidia Rival Cerebras Jumps Over 19% in Overnight Trading as Microsoft Reportedly Becomes New Customer, Raises Full-Year Revenue Guidance Cap to $960 Million - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd2Iyek9KSjkyZGtCUmxSY1ZRMUNfYVMyNHlCdW9YV1ZIbi1LeHc3ZTh2YkhKNEdNNlFXbFpURkJvVGNlMXVvM3F2T0Z1b1lOcVBVNWh1YjJqVUNEY1JCbmZwQnUtTDNlbkxZVnVsbGEzVHQyYlZYWHNDTnZHN1AyY2YwVEtoLUhTeTVGVjVuemlLdlpIVmF2ZUNBUkdlSU5uVGI0dEhIUVNCemRJSm9EaUZOdUN4VnZUc0dNS0JaYjFNUjAydllCYUFkeWdjNXM?oc=5",
+   "date": "Sun, 22 Nov 2026 00:16:58 GMT",
+   "vu_le": "2026-11-22T03:00:38.616480+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "AMD Beat Revenue at $11.5B and Data Center +107% — But the Stock Just Broke $476 Support - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3ZFcXFwS28tbkhsdGFscXlhbjZoQjY1TE9Fbk1mTU5lNGJWQUtvTjZmTHRtdTAwLWN6NHBocmN4WGlKNlhuU0UxaGF4b1BTMFRoVzRwdTVqckZyT2c2TlF1ZkJLNl8xOVlfajBCZUV1Y2lKYlBPUVBHaXZXUjJpWURwcDBZR0Z3VERmeDRERHRNR1VFOXU1ZmwxX2FsLTBEdHV6US04RDJXYUF3SWluYXAwelFwUlpwUXNJTkxOSFRSZmREU1lDOFV5TTYzUlVCM3k2bmlsbw?oc=5",
+   "date": "Sat, 21 Nov 2026 13:29:13 GMT",
+   "vu_le": "2026-11-22T03:00:38.616480+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Cupid's (NSE:CUPID) Performance Raises Some Questions - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMm1oZVFJVzJJTVhqdDA2X2t4YXN6MWlwcTVNQ2prOWFFZHNtUjVGQkw4ejQwV1hzNHh5T2IxWWluQTlZZkFUc3UyTHZrU21MYTFwQWhpVWFqcTY5ZnQ3ako5VnFfcnB3WU44MmVEY0tqSlFGenlOUHplX2d2a040YWV1aTNOakN6aFpwa3FVM3hSYmtLcXBuSnl5Wjc1WGtpLWlUWkF2WFhSS0hTQk96TVVuRHhlT3JadmZV0gHAAUFVX3lxTE1yUTJuTWRVSGF4akxzM2RrRjUtZEdaVklheDhiMFRGN01QYk95MkhGV01tMmNWTWZIbE5nZTRsbHlFZzlTbFBoM0NMOFFKV2FLUGFYeGNTYWJ0eENncVlqQ1FjZHo3VC1VYnJZWUxYQUphOVp6c25sdVNWOWpLaVNnVWNycGthTVo4OWZERERjOURhYW1LamQ4WlYzRnZGdXhTbTQ0a24xMVhZWHlUQ0MzZjBfWURLb05oWUpqRFdhdw?oc=5",
+   "date": "Sun, 22 Nov 2026 02:02:10 GMT",
+   "vu_le": "2026-11-22T03:00:38.616480+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Renk Retreats to 12-Month Low as European Defence Stocks Wobble - ad-hoc-news.de",
+   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHRmZ0tMbEhfZkxseGRuOU5YR2VhUDR2dmJQR3lVYzBQUzdIaTZPUnVOM0RTSHVSczVXMDJUSTZxT3Y2cGdQanFXYzdLRkpDaW5wbFkwWUZKTEhmR1p5WjR0aVg3dEUtSnZxeFZjaWVzOUdnV3dRbHBfckd5RUNMMkxmTnFlWFJhWldoSW85Z2VjRnRfQVBvYzU1Zm8wZEkxQWYzQ3VjTGs5N3N3U083RjROc3UxMUh3dDJVTEZBbjR4dEZ0V1FIc3JVczc3Q0w3?oc=5",
+   "date": "Sun, 22 Nov 2026 02:51:04 GMT",
+   "vu_le": "2026-11-22T03:00:38.616480+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Anthony Scaramucci Recommends 1%-2% Bitcoin Allocation for Investors - Benzinga",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEc0NHFyRUw5Nm1YTlVJMzc4WlZGSTRpODBpcWo1RmFubkpEeXRiQ0NlTjhTZWJ0ajJXZkg4MHdTd1JIVU9odVMxWFAxbS1jcGs2TUxXbm0wdTVuWnQxVXBycldsQkhMVWFqRzFacEtSV1FRLUJ4aVRIZHRXSklETUQzYm0yMzJIc3dKRG9FbDlNZTlPWkFhckxCaFdxSHhl?oc=5",
+   "date": "Sun, 22 Nov 2026 02:55:37 GMT",
+   "vu_le": "2026-11-22T03:00:38.616480+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "China’s AI stocks lose $1.7 trillion as tech selloff deepens - Yahoo Finance",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGEwODdCVElidUtreDFOQkhWbndtRnRlLXdGWjNCb081clpmUXBPZE9hbjFrWXBMUUhfZ1lMNlhBazVJTEFPMXFUZ3Q0WGh0eDVpODdPWWpJZGwwY0lvcUdQd2tGcDNScFN2QjdLMldGdGVDY3g5aEFJZ2ZFeXRKbThMcFAxSzJGVEdBNU93RGswaVFKaEE?oc=5",
    "date": "Sat, 21 Nov 2026 11:33:20 GMT",
    "vu_le": "2026-11-21T14:50:35.598463+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "$150 Billion Disappears from the Crypto Market that is Sinking Into the Red - Cointribune",
-   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUdzbGRQc0tyd3NRc1NndFF6TEVFSXFrUUxhQkNaLWQ1dmRzTlBmNzNCWGdoeHlsMGE0ZVhESGhqUnR3MWptYlZ4ZFljVWtaT3RISS04X0F1aVhBVzh3aEl4b183TXBrbVVRcWY3QWpSMHR3WkZPUWh1ZkQ4bV8tMXpMZXdRX1NMMW1GT3NXQUxzVW1KR2l3cTloejdMX1E2X1JUejcxWVBfQQ?oc=5",
-   "date": "Sat, 21 Nov 2026 14:05:00 GMT",
-   "vu_le": "2026-11-21T14:50:35.598463+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "A 10% drop for the stock market is unnerving, but it's not that unusual - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTJoMDZqOU9wMUNfUGtEWHBFSWd4UjNVbU81OENwa1ZzcnJPaWpWLXdiOEloRWJQVzNnWWgzTGdXNUwyNnhfSDJEOVVYTGpGTmhVVmNpRmNfYnhncjJGVXBLMG5XSU41MUJaeXJFaWtkcGN3cFM4VjJiYVppS0dNLWhjSDY3dw?oc=5",
-   "date": "Sat, 21 Nov 2026 14:02:25 GMT",
-   "vu_le": "2026-11-21T14:40:35.520848+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "SpaceX Is Paying Up to 8.36% on $44 Billion of Debt for Nvidia Chips - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckN0NXlFemRnZGF1bURLZ1hGdkg2ZVFaay05b0hhVzJPN24tejBmZkdidWhZc3dGc1BZUDFFa2ZuaXdwN0tuU1NKU2M1M2xpRHIxZFNTV2pHTmJiUHg3NjVzZ3B4R2YybmtKY1pOcHNGS0hwMGFGbExaTm9WdXEwLWotU3gyRDZVMEtTOVNjbHBhOW8zWDZuZG1UZVRqaE1rN1A3T2cxUTBNUWhSdkM0?oc=5",
-   "date": "Sat, 21 Nov 2026 14:13:00 GMT",
-   "vu_le": "2026-11-21T14:40:35.520848+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Colgate-Palmolive vs. lululemon athletica: Which Consumer Goods Stock Is a Better Buy for 2027? - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMkVRSkpBWTl3UU5uNjZmMzlWNTNuSFB5S3BsSzQ0a1FVY0JmWG5zOVlPd3JZVnJmbWp0R2hVVmhBRWRjc3ZKanIzaXhpVkZabE9iVUMyb21ucEs0NEZFR0w5Q3RGZEdIZVFNQjFrOHp4ZzA3aFA2dU1aaDVSWmZrOVljOUszdm42WTgtUnJkWXZHLWhYSWE3MHZSNWI4TXN3NWhOTGhLdEVuSzVGVjBRYVhuUWUyM2JIVE5Ja2RSdGxhMVhsUVlTYnkxQW9xc2lvSE1zOUZoLXZZX29BWGc?oc=5",
-   "date": "Fri, 20 Nov 2026 21:05:07 GMT",
-   "vu_le": "2026-11-21T14:40:35.520848+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Dow Jones today: What’s next for stocks in 2027 after an 8% weekly crash? - Beinsure",
-   "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oaFNnRlNWX3hUWlpKblZvT045QXN6RTNMN0hhZHJKT3drZTRuX1pHLTFZLW9maFNVZnRqdzhWS2Z4b1dmOXNaaThYbHJIMmdxRDVSTG5sS3JEcjU3b1J4ek45cnZUT2tUUDRUMk1hVWdRYjNvMnRRWks1SQ?oc=5",
-   "date": "Sat, 21 Nov 2026 09:41:50 GMT",
-   "vu_le": "2026-11-21T14:40:35.520848+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZjJ6ZHh3Z08xNlJiSGNqQk5acy11bkFsM3NqQVJ4Q2lON2FVejFJMXhJM093MWYzN1J3M0VLd2NMUHotOVhvbThvWXhFSmFMWUlocUo5RXgwLXc0UkpMdlNFUG9idWs1Q1QyNE9Lc3NTZFpwcmVVTzY1QmRaYUhNMUlyaWdqNExaeDlPSjhmMVB5VnRFU2JkYW5faEZLMDhZTlhPTWx2OS16UGFfSno3OTRoY3dLd1dtVEhvNl9GUUVzZllKOE1Ocw?oc=5",
-   "date": "Sat, 21 Nov 2026 12:27:10 GMT",
-   "vu_le": "2026-11-21T14:30:35.990035+00:00"
   }
  ],
  "erreurs": []
