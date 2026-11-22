@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T08:50:34.687395+00:00",
+ "mis_a_jour": "2026-11-22T09:00:35.139034+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54396.82,
+   "prix": 54554.98,
    "devise": "EUR",
-   "jour_pct": -0.9,
-   "mois_pct": -24.93,
-   "volume": 36.87068355,
-   "volume_relatif": 0.15,
+   "jour_pct": -0.61,
+   "mois_pct": -24.72,
+   "volume": 37.72819535,
+   "volume_relatif": 0.16,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Amazon and Google Could Own $400 Billion of AI Lab Anthropic’s Stock Post-IPO - Barron's",
+   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUdva3ZWLW4yUFMwNnU5R0NMRV9VQm5tLXpGSUxlRWJYNG5sSVVxWWNWUTJESUtGVTNfLUNZQ2UyLTB1UjY4bmpVTjl0VW5rT0c2Z016RlhlakR6WlZPejdZQW93dUc0WFQ4Ny14WGFqdlUwakIwb21OZUR4WThfOA?oc=5",
+   "date": "Sun, 22 Nov 2026 07:59:02 GMT",
+   "vu_le": "2026-11-22T09:00:35.139034+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "« La souveraineté européenne ne se construit pas autour d'un seul acteur » : comment le vétéran OVHcloud tente d'entrer dans la course à l'IA - Les Echos",
+   "lien": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxObXRBb3prTVVNdlVmRTRBcl9GSUUzRS1SaGpXZjJCa1VYQzdYUWZsc0xERkpLLURwUmd6RHpwQnJ4RWNQWDQybThoLTFZVFd4VXl6OERnZFFnZkV0al9lcWJCaHJWb2xfZGJ0Q0daeE5BdXVvUjR3bnhTdENRd05Qc0EwWnNaamU4Q2xpWnAxTHZld0NSX3d1V3U4WUtDVko2a3BqczVXTmtUS1hSQVdEY1d1ZHBKTTFIVXJERUt0YTNwX1VKZnNQVXhfYkhaQW1iYmk3VlFmdTJUejN5OUdPV05YcHBVNnRsdm1pNmRvRFpnVEFlbzNZLUstT0E3Sk9YYmxIcEhGTUJYREJJQ0NDMFNvdmFGNC12Nk9UUkNTNEtWRFVpUnlVVXNn?oc=5",
+   "date": "Sat, 21 Nov 2026 10:20:08 GMT",
+   "vu_le": "2026-11-22T09:00:35.139034+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Acquisition Financing in Lithuania: 2026 Buyer Guide - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUd2R1BpMjRnN0FFQ2RKSGI5YV8xaU5EaW94NFg0azZGR0VETzRFZUVIMW5yTThnTXJiNjh2QnEtQ1Q2STdhT0xHSmFxc3AtRVVjYXdHNGplTkM5UGhpd283cUZUMi11MVdaNEllei11T1FUS05NbXRaT2Z0TmFfeWRfSWhiVkRHUUZNTVVpVDhjRzNDQzFtYzRsUQ?oc=5",
+   "date": "Sun, 22 Nov 2026 07:42:34 GMT",
+   "vu_le": "2026-11-22T09:00:35.139034+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Peter Schiff says Solana can replace Bitcoin exposure. Can it? - Crypto News",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXRYYXhLeE1CMF9MM09jUmppUWRmdVduektfUmJvVXloY01rc3U2Vm5YeWpYdlFtN20xTS1ZLWJyQlpuZF9LV1o5N2xDbnFBcFRVeV9oODNseThzQUU4Uk9xam5hdGU4Q1d5RTdqVDI1U044OEpCcHdZbnM5Y2U5ZXdaeG9HbF9h?oc=5",
+   "date": "Sun, 22 Nov 2026 08:38:23 GMT",
+   "vu_le": "2026-11-22T09:00:35.139034+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure - Decrypt",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWUk4NE52ampRNU9BMHVnR2JlWFlaNzVYM2o1N2U5UFUxRzByVmRIY0I5OGlRRVJyeTBfX1AzdXdHRzh3MExsek9adENCZjNydlZxVXNlb3NSUmhBb2hRZFd1R0ZmbEUxNEhGTVFJSUhYNHRTNWF4RjdOcy1DcGFURVNTZnVGTDZ2QmpjRTFHQ0pqTkEtVlBLWkU0bHlXZHlUYXE5eHlIc25QZnF6b2c?oc=5",
    "date": "Sat, 21 Nov 2026 19:12:04 GMT",
    "vu_le": "2026-11-21T19:20:37.059803+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Intelligence artificielle : les secrets de l'entrée en bourse record d'Anthropic - CANAL+",
-   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUgzUmFiakRtV2tweWRQRDZpUy1VVjZRdF81TzBqWnE0eDRmRzZFemxTbWJMcUQxby0wZEV2ck13b0ctLWlHMlFHcW1EWmtVUGZkUmxWWGZWakVkSk50anFMVEtwelRYSDVvbjVWZGJOWUR0VmNieWhWdmU0Z2ZOS3d5R011OVBqU0h3MVVtNE5ZSHJxaVZwRXBJVm45UnVlNjUteXhlWExqRV81UlFyQ2cxTW5vUlRXRFJGTWdjSmgtSGdnOWprWEdWMEstZw?oc=5",
-   "date": "Sat, 21 Nov 2026 15:26:25 GMT",
-   "vu_le": "2026-11-21T19:10:35.878479+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "CAC40 : une baisse de 5,3 % sur la semaine, sous les 8.000 points - Le Revenu",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa1pOX012OEd3QmZtYno0ODk4STRqalhsNzAzYVV1WlMxNUQtWm9TelFkUm5pSlpGRnp1ZzI1SnVzNllIUW5jNkZMNkE5dlgyOFVZOXdYUDZGdG5UcjJNZ2wtQnBsdjBXWDFFd2JkR3liQ3pVd1dpOXRoakdoaXJXYXl4c3lpTGNJUWlvN1JMaW1pVXZBRVpiMXJvMlBkTFloZnJ4ZkRyNlFObjMzQXk2MFNCbmp3TGVuNjI4UEdDcEVjRXVheUNFbA?oc=5",
-   "date": "Sat, 21 Nov 2026 07:00:00 GMT",
-   "vu_le": "2026-11-21T19:10:35.878479+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Worried About a Market Crash? This AI Stock Should Bounce Back Fastest. - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWkVxTzhPdGZDdnhkbWFMTmlmeTdLMm1mYlEzUldnMGJfYWhMWkEtUWxIZnJDckxPWFVqdzAtSlVyaF9VSHJ1c2JMS1NXajVVMmZTTURoQmhvWjN0U1JyYVN2ak8xMXdldDdQRkRIVFRsNlR5RXNwaWYwcjJaaGdBMV9tMmU4Yk5CQ0xQcW15bkJhcEJ4MmxkZGRSZmQwMUZ6NUwzM2Rkd05kZm0ySU53U1BnSERUTU42RGREUG9NVXJGb21YWWl5aVp6OGoyUFItMnpJY0tha25vSXI0aW9vTHkxUkc4UFBtT0E?oc=5",
-   "date": "Sat, 21 Nov 2026 18:55:34 GMT",
-   "vu_le": "2026-11-21T19:10:35.878479+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOb0hkRGZyZGN5Z2lLaW5UN1NhOWx5Wk8wRkM1bnZCam1Ndm9idVRGUktMUzZzSzVleVZqY21PNWgzNVpHNU5qTDdLUFd5R0R2SWRKZHFGOHdULXNsRFlsbzdUdGoxSXV5Q3F6NFc2SjB0YXB2azA4cXNFc2N1TGpxWVIwQ2JnbFdyZHliS3pMeUJkd0FUREJ2bmI5UFFoZ2ZoN09McEVfQnF0bHF0WnFTTUpnZzA0Q1dDVmQ3dVJweDVmYnZYT3EtM19RbTFLb0dXdFNPejNTdklkOFM5VXNtWE5GWkN1bGUxTTVRRkRUX3llYWYtOXJEVmxoald2OHZvbWxFOThnZEFremV6?oc=5",
-   "date": "Sat, 21 Nov 2026 12:03:01 GMT",
-   "vu_le": "2026-11-21T19:10:35.878479+00:00"
   }
  ],
  "erreurs": []
