@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55326.82 EUR, jour 0.8 %, mois -23.65 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55369.56 EUR, jour 0.88 %, mois -23.59 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,9 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] actualites AVGO 167.1TCIOPENS (977MS) - Turbo | DE000SX7JAT6 - Cotation EURONEXT ACCESS PARIS - Bourse Direct
+- [Anthropic (FR)] Bulle ou pas bulle, peu importe: l’intelligence artificielle dévore la planète - Le Temps
+- [Bourse de Paris et Europe] Le CAC 40 décroche de 5,3 % sur fond de défiance envers l’IA - Zoom Invest
 - [Rachats et fusions] China Fines Baidu Unit 500,000 Yuan Over Joyy Deal - Retail News Asia
 - [Pays émergents] Record Rs 1.22 lakh crore foreign inflows: Is India becoming the world's 'anti-AI' trade? - The Times of India
 - [Pays émergents] Dalal Street Week Ahead: US GDP, FIIs mood, oil prices, PMI flash numbers among 10 key factors to watch - Moneycontrol.com
@@ -456,8 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Marchés mondiaux] US Stock Market Next Week: Will Stocks Crash Again After Nasdaq’s 10% Plunge? - Stocks Down Under
 - [Banques centrales et taux] Opinions de Panda Traders(@Panda_Traders) - Binance
 - [Chine et Asie] Chinese Tech Stocks Lose $1.7 Trillion in 5 Months, Authorities Move to Boost Market - news.sbs.co.kr
-- [Défense, énergie, matières premières] If I Were Building a Portfolio From Scratch With $10,000, I’d Anchor It With This Unassuming Value Stock - The Globe and Mail
-- [Crypto] Bitcoin Fell to Two-Year Low, then Rebounded 10% — Experts Analyzed Market - Incrypted
-- [Crypto] Today's Cryptocurrency Prices by Market Cap - MSN
-- [Marchés mondiaux] "When should you buy? When there is panic": Investors weigh Wall Street rout - www.calcalistech.com
--
+- [Défense, énergie, matières premières] If I Were Building a Portfolio From Scratch With $10,000, I’d A

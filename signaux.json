@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T18:50:35.024126+00:00",
+ "mis_a_jour": "2026-11-22T19:00:36.560510+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55326.82,
+   "prix": 55369.56,
    "devise": "EUR",
-   "jour_pct": 0.8,
-   "mois_pct": -23.65,
-   "volume": 143.19028571,
+   "jour_pct": 0.88,
+   "mois_pct": -23.59,
+   "volume": 143.59968203,
    "volume_relatif": 0.59,
    "capitalisation": null,
    "per": null,
@@ -3754,6 +3754,27 @@
  },
  "actualites": [
   {
+   "sujet": "Anthropic (FR)",
+   "titre": "actualites AVGO 167.1TCIOPENS (977MS) - Turbo | DE000SX7JAT6 - Cotation EURONEXT ACCESS PARIS - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXhjRE9kTFNDWTZ0NlpweGtjRW83VDQwNHRwLTdybkI3V3FZYldUUnFUbWNUWDVQb0lkeTZ4elowV0dPT25BWU5LS0FIRmMzb01uZDhTV2lTX2d2NW9PbHB0dWlkcjgwWkhqd19GNTVBV3FhdGc0aGtraUNNbDhvY1dXT2I3ZWVTYzJ2R0pMcmJFQXE0X1JtaGtEeDhYSDExWG9EOWY5YWVSQWZXRWxzLXNYS0ZzdXo3?oc=5",
+   "date": "Sun, 22 Nov 2026 17:46:36 GMT",
+   "vu_le": "2026-11-22T19:00:36.560510+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Bulle ou pas bulle, peu importe: l’intelligence artificielle dévore la planète - Le Temps",
+   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWxISlRXTTRtZnBPSk1nYy1Ob3hMTjNPRE9FaTRraHRaQzZOMUxnMmdXam92bXp1Z2xvc2NOcU1TMGFCemxFY3REQTVqYS1aVDg5aWs4QXVQb3JmUlc0MGpfMUc2YVVaNFI2dTZMX2I4M0xldGxXTnN0ajFjaERHSzVGMjYzX1pQWVFSMkxLUENTYkhxaDhBRmZ6ZFRWbWNITWMwWDZpRlZXTkN5U2p1bHVYMGJwYmRSRXV6R0pBTHU0ZWdybkdhQlJ3?oc=5",
+   "date": "Sun, 22 Nov 2026 16:22:23 GMT",
+   "vu_le": "2026-11-22T19:00:36.560510+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Le CAC 40 décroche de 5,3 % sur fond de défiance envers l’IA - Zoom Invest",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmhHWWhKUWNicXcxNWRiNnpjZ3hKSVZzdFJucGlpR0Zsa1RtbEdCbU80Z1ktWkRkVVZzaHNfSnBLS0tqNVpXYjZpZmxwaWg4MjdxTENvdzg2ZkYteVBGR18tOUFNYlU4RkpnMW1zNTZwQUlLSUVNaXlURHZLWkRRWkZpdmNBQzJkY2VzYXYyUzNSMVdjanRrTlNCekdBWG9hTW9hNEtxNVVkWGxmZ3FobW5vWGM2QQ?oc=5",
+   "date": "Sun, 22 Nov 2026 18:55:52 GMT",
+   "vu_le": "2026-11-22T19:00:36.560510+00:00"
+  },
+  {
    "sujet": "Rachats et fusions",
    "titre": "China Fines Baidu Unit 500,000 Yuan Over Joyy Deal - Retail News Asia",
    "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YQ1JfT3E2QjVKOGFVNzhEc2EzUzF5cnVEY3RSWlA4N3I3dzVSSFNaSXY5Nk1Vb2otLXRtNnd0UjE4c21aZm5QWmpBOUxUNEdPNHpjRC1XeTUtVjN2VllfQXNCYkR4cW5uOXpzNUxYb1E3QjA0N2NPYmhKaG5wQQ?oc=5",
@@ -6531,27 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWVFpMUpyVDA0b3B6MkpKSXgyazhUbXpPTnRxNElhMmRyVVFzR09kSU92cldwQ3RnYTlISlVadkw2a05RUWM4dEZOdG14NVo4QXR2MjF0MC1Wdm5lY3hpNUh5S1RZOVE1WDQxM05tT0xPbTNobWFxVGRyRkIyUFNDREZ2R0dIZw?oc=5",
    "date": "Sun, 22 Nov 2026 04:23:54 GMT",
    "vu_le": "2026-11-22T06:40:35.537023+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Crypto Outlook: Is a More Restrictive Fed Reducing Market Demand Appetite? - FOREX.com",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd0xhM1M1bndEUm02djUwX2V0TDdOYmpuLWlIS3dNT082WTlIeFBPVldOY05pdGFxV21yVEpDaUdILXhIU2toanEyQlMtTG5PcjBobXBCM3QydXdyak5acFE1MXFiZG41UEtPSXM4OXpsODRPQVg2RnFCQVVucVBQc25DYTlEdUNJWnZJR1hza2pVaEw5dV9IcXJtU2pBekVQQU90aGNsUmlEOGJtRk1PaUE2bU9yVHF1R21r?oc=5",
-   "date": "Sun, 22 Nov 2026 06:36:20 GMT",
-   "vu_le": "2026-11-22T06:40:35.537023+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Jensen Huang Resignation: 3 AI Stocks, Flash Sale Claim - shattered.io",
-   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlZPVm1aTV93aTNwdkxkM1FaWXp2V3hwRzFCblpSbHdySE9heWhyZzVocTJwMjRUS09XZWpldlNRUUxId0hXeFREZTlPakVsMU80c0UwRFF1cFZDX184cmdYMkxzcXh3VTM2RlI1Yno2WnBOSUpQRGZMNlgyRmlyZzhVbWxJUnBfRHhWQW9NZlhtOEE?oc=5",
-   "date": "Sun, 22 Nov 2026 06:22:01 GMT",
-   "vu_le": "2026-11-22T06:30:35.637778+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "NSE’s rise signals India’s growing power in global financial markets - BLiTZ - Fears None But God",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3VWRnhmaVhtalZjZEJBU1gyN202R1lueG1SekVoRlhsV3J6T0pNbWFCUjJRTHhoZ0xTMGN6aXJETnhfYTJ5YVYzSWdHUEpKakJVVEJzeHVqaGVlZTA4SlVOZFFPaU1BSng4Ymg1bUVYbFBtVnhqMExwQ0Z5T3NPU1ZlZDZKS1BfU3RlVUdHb3NZZFNMWjBBS1JWb0p4Y004V1E4aQ?oc=5",
-   "date": "Sat, 21 Nov 2026 18:06:43 GMT",
-   "vu_le": "2026-11-22T06:30:35.637778+00:00"
   }
  ],
  "erreurs": []
