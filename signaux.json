@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T13:10:36.221531+00:00",
+ "mis_a_jour": "2026-11-22T13:20:39.422896+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55356.28,
+   "prix": 55420.73,
    "devise": "EUR",
-   "jour_pct": 0.85,
-   "mois_pct": -23.61,
-   "volume": 92.6258243,
-   "volume_relatif": 0.38,
+   "jour_pct": 0.97,
+   "mois_pct": -23.52,
+   "volume": 93.43425926,
+   "volume_relatif": 0.39,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -6554,5 +6554,20 @@
    "vu_le": "2026-11-22T00:20:35.841978+00:00"
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "actu Anthropic: HTTP Error 503: Service Unavailable",
+  "actu Anthropic (FR): HTTP Error 503: Service Unavailable",
+  "actu Marchés mondiaux: HTTP Error 503: Service Unavailable",
+  "actu Bourse de Paris et Europe: HTTP Error 503: Service Unavailable",
+  "actu Banques centrales et taux: HTTP Error 503: Service Unavailable",
+  "actu Chine et Asie: HTTP Error 429: Too Many Requests",
+  "actu Intelligence artificielle: HTTP Error 503: Service Unavailable",
+  "actu Introductions en bourse: HTTP Error 503: Service Unavailable",
+  "actu Rachats et fusions: HTTP Error 429: Too Many Requests",
+  "actu Résultats d'entreprises: HTTP Error 503: Service Unavailable",
+  "actu Petites valeurs en croissance: HTTP Error 503: Service Unavailable",
+  "actu Pays émergents: HTTP Error 503: Service Unavailable",
+  "actu Défense, énergie, matières premières: HTTP Error 503: Service Unavailable",
+  "actu Crypto: HTTP Error 503: Service Unavailable"
+ ]
 }
