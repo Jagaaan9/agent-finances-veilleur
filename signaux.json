@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T10:50:36.391503+00:00",
+ "mis_a_jour": "2026-11-22T11:00:34.989141+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55477.15,
+   "prix": 55478.94,
    "devise": "EUR",
-   "jour_pct": 1.07,
+   "jour_pct": 1.08,
    "mois_pct": -23.44,
-   "volume": 57.51923669,
+   "volume": 58.24895644,
    "volume_relatif": 0.24,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Ébranlé par la démission de son PDG, Jensen Huang le géant des puces a perdu près de 50 % depuis début octobre. - IsraelValley",
+   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUURFajdpYXlIM0JMamJXWjVmeXcxdUY3NEN6ZWpHdEhJcll1YlVCZkxMRnk1Z29BR1pzZmRrMm1YYm1ZR2k4bWZrQ1JNcWRVS0E1NTFNOUZZRmEwQXdndFRqWU9VTHRlaFQtaGZtRDFDREgwdE4tYmZwRTRUX0VKeXRUdUZ6N1NBbFB0ODhDamlwQjdnTW1QMUhhQTJ4dmp6UEswZHlCampDV0M3dkN3bU4tMkYtVDlmMmNqWEpFcHVSWkpfWGJ5eXBfZGVfMW1PakM3TE1NU2MzQ3Fi?oc=5",
+   "date": "Sat, 21 Nov 2026 12:17:39 GMT",
+   "vu_le": "2026-11-22T11:00:34.989141+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Cathie Wood Just Bought $154 Million of Anthropic in Its First 2 Days of Trading - TIKR.com",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUGd1aE8wcHk2c21uWDV2LU01TDJEa0FSSmsyMEV6d1pVXzNnOWMyZEQxVzlNZHpzWXcxb1IwLU9kZEFHTkVvbWZCYjdvZGlzcWVwZEVJOUhwMEs2dUVZSlk3TWtVZVRtMWUyak9vU3hfc3AyY3BzdDNHeUU5dHpoRHliSWE2QXpZRFRRMENyOUZZZ0N6X3g5aHpaQ3BFLURIcmR5Wmc3V1h5T05IZHc?oc=5",
+   "date": "Sat, 21 Nov 2026 22:10:35 GMT",
+   "vu_le": "2026-11-22T11:00:34.989141+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Trois événements qui pourraient influencer le cours de Bitcoin pendant la semaine de Thanksgiving - BeInCrypto",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaGtIUzhtYUo1aTN5U2ZqN21TN1lKTWI3OWNJUThOdExfLUVidHB3V05QSU1VOFFZNU9QbVY2RElWMUdmN2NnVkZkU2pDUnRJT19wRWxtZVRraXNfbXl0OEh4bVB1U0RlQTZyN3M1WHIzdzQzQnVRek5XRGdIODl6ZFdwUm1yWWpm?oc=5",
+   "date": "Sun, 22 Nov 2026 10:49:57 GMT",
+   "vu_le": "2026-11-22T11:00:34.989141+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Airbnb looks beyond traditional holiday hubs to deepen India presence, bets on homestays - Moneycontrol.com",
+   "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYi1aNF9sY0h1a0hVZzJaYldrdFp4UksyOUd1R21mV2RXQndiSVBETm84LXZ3NG0yWkNhRV85QzFLVDAzNzRjdXlmSVF6WU5QZXdFdjZZdy1ZVC0zZ21mWDJFcEI3R1B3NklRamFnNlY3bE5GcldndEhzUlVhNWtJYTdPT2JkUE1SWlhRdFBOUTlxZWpFVHpnUEY4V0QwSElSQVRsbERqaEpONXBIdC0teFkyRldBZi13R0FWckU5UlJLcHFTNmdfbnRtaUJUSk5wMnNtMEZEZ3BVdTRSX2VBZk9IdGQtaVpWQjFTbUh2QdIB7wFBVV95cUxNYi1aNF9sY0h1a0hVZzJaYldrdFp4UksyOUd1R21mV2RXQndiSVBETm84LXZ3NG0yWkNhRV85QzFLVDAzNzRjdXlmSVF6WU5QZXdFdjZZdy1ZVC0zZ21mWDJFcEI3R1B3NklRamFnNlY3bE5GcldndEhzUlVhNWtJYTdPT2JkUE1SWlhRdFBOUTlxZWpFVHpnUEY4V0QwSElSQVRsbERqaEpONXBIdC0teFkyRldBZi13R0FWckU5UlJLcHFTNmdfbnRtaUJUSk5wMnNtMEZEZ3BVdTRSX2VBZk9IdGQtaVpWQjFTbUh2QQ?oc=5",
+   "date": "Sun, 22 Nov 2026 09:16:13 GMT",
+   "vu_le": "2026-11-22T11:00:34.989141+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Blackstone Inc. (BX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GRy1LYmI1NFNmbVNvUU9ncTJ4VFRHdzFDMDNGNmptX0o2dzNlYk44dTFSYzJ1SGFGVGxETFdITzlpeVVQclFHVl9uRmg5RVU?oc=5",
+   "date": "Sun, 22 Nov 2026 09:26:26 GMT",
+   "vu_le": "2026-11-22T11:00:34.989141+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "NSE becomes world’s fifth-largest listed exchange by market cap, overtakes Nasdaq and HKEX - DD News",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXhmQjI2bVZ5eWhqUDZfemd6c0NXRWdSQ1VVT001NllsRWlkU3p1SG1IVjdaVUlqbEN1YWNHNEh3ZnItLWFHVlFKbVE0MFRhaXVoUThtREZiOFd3dEo3Z0VkVElaZDVnZ1BMOEZ2dnJKMGgwWENKQVAzX0phYllXVWJUUlF1Z29tWVhFLXVxSXY5Y3JzeERreG5Zdk1SbXZZa2R6UGxmV2drQ1FiR2FDaUJtT2Q?oc=5",
+   "date": "Sun, 22 Nov 2026 09:22:31 GMT",
+   "vu_le": "2026-11-22T11:00:34.989141+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "AMD Shares Plunge 20% in Two Days as China Firmware Supply Allegations Hit Home; Nvidia Read-Across Selling Adds Pressure - BigGo Finance",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmVMU0t2U0J0di1VVlBsci1CSGFTWkdFQ0JKS3V6Vkw5eVAwbHYzWlpqRjJrV1pIdDRaNTUxeWNENlI4RG9LNGVvV05mdUpTUFJEeld4STZpMWlUOV95LU03N3lTdmxJME96clcwTjBKYnZIalFhRldhU1B4OVp6LVFic1FKMFhrZEZPYy1HUzU3NlF2RV96SGw2ODhYSXhSaFd3WGNpc0JjQ19neXoyYVRjZXhkMWRuUmFTcEswVUxZY2ZSWWFrSzBhVXlTZGcx?oc=5",
    "date": "Fri, 20 Nov 2026 22:09:55 GMT",
    "vu_le": "2026-11-21T21:50:35.475656+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday? - Barron's",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSjRkUVBDck9lUV9QLXUxNlpOWEw4a2R4Vk5yMGR2SElfam1HazEwQ0czZlAySHFhUHhPU19zUWJHczE5d0RkWDJvcVM5THQ1WGpFWjRibTBjYml3QXhodjRLNWlieXQ2cEs3N09iUHpsVWhLenJlRkRQeU1Xa3M2VHhzcXkzbzZ3OWR3ZTR3SktNdw?oc=5",
-   "date": "Sat, 21 Nov 2026 18:03:00 GMT",
-   "vu_le": "2026-11-21T21:50:35.475656+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN2EzR2FzSXpVUFJkdkRGUkU5WWlSd3hiM3JpNms4azUwRUdHVWdkbVRBSlUybXZEblNUREZXS3lYUDJ3Ql9TZU12d1JBMzM2aXdOZEFMdjRVRzVGd3ZrSFhEOGhYS0ZMeU51UTJYb1dUaFZfblB0TU9ISi1lM09Bc3piZVJIXzAyNHl5TlkyY05Tdlp5NXNtaFlFcGJ5SU5SNXB5Sw?oc=5",
-   "date": "Sat, 21 Nov 2026 17:01:02 GMT",
-   "vu_le": "2026-11-21T21:50:35.475656+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Bay areas cooperation: Complementary partnerships, broader opening up - CGTN",
-   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONlZDQnBYa0hSM2VmWXBpNzdYTHhLNkZDUEVPeE8wcjh1dDg0Q0FZVTFYODZLVXZzTGpwbHZMNzVZTkl5Y0hzcmdSekVlUV8yRlFhRkcyTE9BbU8ybThMRTd4S2s3aDZlUzRpVTZsR0VleHIzX1FOc1BJSl9MTG9nTmMtZVlSOHp4ZGI4SUs3YUFpTThMUlgtZkd0MVNyS0JYeWhiQ2V5bzdYZTVua2U1ZzBrel9kYmVIbEtYOWdURWdJQQ?oc=5",
-   "date": "Sat, 21 Nov 2026 07:17:25 GMT",
-   "vu_le": "2026-11-21T21:40:35.983624+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "MSCI Report: The Anatomy of US Equities - VanEck",
-   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbG85cXdndTNJM184Y0JRcmRVTEp2VDZiVld5dDRLT0RTRHdleVlFSGdOUVpmSDBSa0NhWFgyUjU0VTQ2aVBCaldldW5RZkJEZGt5SS1Jc1pOLU5xM3NNSE04X3haMG9NUUhXTE4xaHc5bktMeW5XMThTbURKS3gxUEMtdHlZV0Nvc1pNMA?oc=5",
-   "date": "Sat, 21 Nov 2026 06:04:02 GMT",
-   "vu_le": "2026-11-21T21:40:35.983624+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Indonesia’s OJK Cracks Down On Stock Manipulation Cases - Finimize",
-   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTVN4bW5Obk9SaXppTWQ1NXB2UmMzUzBMMlROT1pycnJvQVE1bTVJSGhmV3ptQ1c1eDgxT28wVHd1cUp5cHF1SnYzTFhFSnVWTUJ0UXNaQXJXbTdONTBzMktDZ2RBV1RHaWJUcHhpOTVaLXBIeWo0U2ZGOFVJWkQtOGFHTnZrX19EcVlN?oc=5",
-   "date": "Sat, 21 Nov 2026 07:37:52 GMT",
-   "vu_le": "2026-11-21T21:40:35.983624+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Form 4 Janus Investment Fund For: 21 November By Investing.com - Investing.com India",
-   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMm5JX2ZMRkNFaHBUOVo5YTZxcmFvOFktYjREbkxsbWlvMlAxa1hac05ram02U0ZzMjlvUG55Qlh2YmJDaDM5VnJ5cXZTa3g5ODZXa1hhNWNZcnRKTXRWWkdXbEF0SDVES2NEbWtzZVI4cXhaV2o3SURzbUZBTVc1enVMaVRtR3J0NUtid3Rsbl9CTUJJdnQxZE1MNVY2OFFEZWlyLTJpcmc5QQ?oc=5",
-   "date": "Sat, 21 Nov 2026 17:07:16 GMT",
-   "vu_le": "2026-11-21T21:40:35.983624+00:00"
   }
  ],
  "erreurs": []
