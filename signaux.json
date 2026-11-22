@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T18:40:35.807130+00:00",
+ "mis_a_jour": "2026-11-22T18:50:35.024126+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55363.36,
+   "prix": 55326.82,
    "devise": "EUR",
-   "jour_pct": 0.87,
-   "mois_pct": -23.6,
-   "volume": 141.40392232,
+   "jour_pct": 0.8,
+   "mois_pct": -23.65,
+   "volume": 143.19028571,
    "volume_relatif": 0.59,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "China Fines Baidu Unit 500,000 Yuan Over Joyy Deal - Retail News Asia",
+   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YQ1JfT3E2QjVKOGFVNzhEc2EzUzF5cnVEY3RSWlA4N3I3dzVSSFNaSXY5Nk1Vb2otLXRtNnd0UjE4c21aZm5QWmpBOUxUNEdPNHpjRC1XeTUtVjN2VllfQXNCYkR4cW5uOXpzNUxYb1E3QjA0N2NPYmhKaG5wQQ?oc=5",
+   "date": "Sun, 22 Nov 2026 18:31:37 GMT",
+   "vu_le": "2026-11-22T18:50:35.024126+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Record Rs 1.22 lakh crore foreign inflows: Is India becoming the world's 'anti-AI' trade? - The Times of India",
+   "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMnlQYmt2MDBxMm1UdG4yeUhSc2tHSFpRY19tLTJ2cl9YcTJJaVdEdTVkTWtOZXEtbDk1VDJKbWdVNVpSZEc4TEFXS3YzQ1Y2ZER4bTZkZ1J6ZTZzN0F2Skpycy02ekZ1VEpmTVgtTDBfU1MyTTJWUVRCQnRlR1RUdUxBbXMwcHhYNTRUTHJkSm1KcWhtMDhIUWhUaUsxa2JvQU9kdXdtbkFYVDBZODRjQW5zamtlbVhXNEdDcERmNG9TU0ZaeGx1UkwtZGxYd21Nb1FVaVVIN1g5QVdna1NjemZ5aDZ6dlcwZXZMZjYwLXNJZUFiWDUteURPaWxDMWc?oc=5",
+   "date": "Sun, 22 Nov 2026 14:05:00 GMT",
+   "vu_le": "2026-11-22T18:50:35.024126+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Dalal Street Week Ahead: US GDP, FIIs mood, oil prices, PMI flash numbers among 10 key factors to watch - Moneycontrol.com",
+   "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeVJIX29VV1kzRjhjQlNhR3EwQlBvZ0Y3S2JNSERCdDh3RF9kZ2lkM3ZqeExBUEtnZEJfd3BBTXZiVWJUQ2duTktrT0NQQlFSTUlvdE1rQVlQM0o5eFRVV0lPenRVUk05M2NiNElKeHREelVvdDI3TGgzMEg5U3AxOE11a1BYMW9QTWdNcGNHT1d0Z3EtWkVXYjlHZWk4ZGkzbUs1aW8ydk50b0huTEpXSU1nN193OEZPNDJiT1NmcXpnSUl3VHRNQkdwUzd2dEZzMkZnMDlBSzd4aHZWaGlhb1hWWE44M3hKdEswd3hJNHNjcUlsOU9ZWlJfQkXSAfwBQVVfeXFMUHlSSF9vVVdZM0Y4Y0JTYUdxMEJQb2dGN0tiTUhEQnQ4d0RfZGdpZDN2anhMQVBLZ2RCX3dwQU12YlViVENnbk5La09DUEJRUk1Jb3RNa0FZUDNKOXhUVVdJT3p0VVJNOTNjYjRJSnh0RHpVb3QyN0xoMzBIOVNwMThNdWtQWDFvUE1nTXBjR09XdGdxLVpFV2I5R2VpOGRpM21LNWlvMnZOdG9IbkxKV0lNZzdfdzhGTzQyYk9TZnF6Z0lJd1R0TUJHcFM3dnRGczJGZzA5QUs3eGh2VmhpYW9YVlhOODN4SnRLMHd4STRzY3FJbDlPWVpSX0JF?oc=5",
+   "date": "Sun, 22 Nov 2026 17:16:39 GMT",
+   "vu_le": "2026-11-22T18:50:35.024126+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Kalyan Jewellers to host UBS Asian Consumer Corporate Day meet in Nov - scanx.trade",
+   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTVI1TnRVLVpmVmg0NzNHWnpPREJKZkVuczFDUGhLb1BPY09jNW1OR0NEaHU3anB2TThhNFh6dFFjenpTcHBRVFUyd2MxVGZUblI1ek1heGxmRzlZQjBhWW5iUTc5a0pBN01DcVRTcWpJOEdFZllzWWljN0xfYVh0bV9Ya2p3Unk3aXlxMDQyV2g0YTFCNzM4dnpWeFYyanBDSDJiejcyMW1naG55Y1lXTjFYVklBdFAydE1QOQ?oc=5",
+   "date": "Sun, 22 Nov 2026 15:55:51 GMT",
+   "vu_le": "2026-11-22T18:50:35.024126+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Could Dogecoin’s Market Value Reach $50 Billion by 2030? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmlJZkIzbEM2bUdvelR2azFNOEhWNnB6NVFVY2w2TGZqSEpkVFdSXzVHY1ZPRjNlU2hLZ1lQQmFJSVVLY01MS1hZZi1QaTF4RktNdno4dkZqQXZjSGxpRENETjhZMjJzUHh0bjl4Ulc1MGZFUWVveHh5cUM4UlZGTmRFSkdfUWc4UXFnaGhjalpGcm9BYlhOeHF4MnFycFpFRkVZMVE5LTR1MllieE1tY2ZR?oc=5",
+   "date": "Sun, 22 Nov 2026 18:23:00 GMT",
+   "vu_le": "2026-11-22T18:50:35.024126+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Is Coinbase Stock a Buy, Sell, or Hold 64% Below Its 52-Week High? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUEE2SG05cEFHUy1ZLVFTWTB1VnR1aE1fMFVRUWU5ejhwUGdrbi0xdGhtWTRSX3ZjOFkwMkRsMDBvb1FfY0RDbzlXQjJXLXdIdHVUMko1UGVMZ3RPaFd6Q0ZLR0psRFBNd3BxV1JWc19KYUhvOUIzWGJXbGg3UVdEZXd2MlY0RElncEZQV2FEU3Z6d3I4aVRqeg?oc=5",
+   "date": "Sun, 22 Nov 2026 18:40:02 GMT",
+   "vu_le": "2026-11-22T18:50:35.024126+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "😺 Who really wins from Anthropic’s IPO? - The Neuron",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3VWRnhmaVhtalZjZEJBU1gyN202R1lueG1SekVoRlhsV3J6T0pNbWFCUjJRTHhoZ0xTMGN6aXJETnhfYTJ5YVYzSWdHUEpKakJVVEJzeHVqaGVlZTA4SlVOZFFPaU1BSng4Ymg1bUVYbFBtVnhqMExwQ0Z5T3NPU1ZlZDZKS1BfU3RlVUdHb3NZZFNMWjBBS1JWb0p4Y004V1E4aQ?oc=5",
    "date": "Sat, 21 Nov 2026 18:06:43 GMT",
    "vu_le": "2026-11-22T06:30:35.637778+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "ASX to come under pressure as Wall Street tech rout deepens - AFR",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObnBUa2ZUVU9EOU5PSDMwZ1Jwd3ZFVWNKdW9XNjZ6S01YX0JyWjdEYzN4Skk4UFE2LWFHYWpua2gyX0R4UkxNbjVFbk9pY05pclh1aktZUG1kZFpkX3hTZUFKbW1DOXZ6MnJpY1F2T3hhM0ZsSG12MEdoejFpQW9abmVsbkFWbDBrYjJ5ODhvVVhscy1URlhWQmhTSzF5U0JLLVhNN3lEUVI5TERPcGlsckZHM2NHc0dNekE?oc=5",
-   "date": "Sun, 22 Nov 2026 03:13:00 GMT",
-   "vu_le": "2026-11-22T06:20:35.129568+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "L’inflation sous-jacente PCE d’octobre et le Livre beige de la Fed mettront à l’épreuve les anticipations de hausse des taux avant Thanksgiving - Binance",
-   "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Pa0h3b2ZLYzhEMzIzWU1BMEN1Vmt1N3Q5MGZCYUUyNVoxZVcxc0FMcHZ1bUNNWm1fQTFRblBkV004M3RTWkxsNlJzNmwtNm1oQWFjeFhUNURmTEIySEtPSlhUS2JPUGln?oc=5",
-   "date": "Sun, 22 Nov 2026 04:10:50 GMT",
-   "vu_le": "2026-11-22T06:20:35.129568+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China's MiniMax founder loses over 90% of fortune as AI competition intensifies - AzerNews",
-   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tTzl2TTNfbXJYRnlJUzI5LUFKUjJKckUtSFFxRkFSV0t4eXFtMU95b1hRemtPWUNpVEVpTS0xNFFYZmYwb2dJTzA1UXRrX1lYZWYxNg?oc=5",
-   "date": "Sun, 22 Nov 2026 05:00:00 GMT",
-   "vu_le": "2026-11-22T06:20:35.129568+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Organ donation must be based on trust, not presumed consent - South China Morning Post",
-   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONTVnWjJqM2toUGZUZzJ3TVVQTXJrZG5HUjdCdGpwaTRzWFNpeVE1Y0RvQkVkVVVQVDR2VF9yOTZQU0JmdWRpS1dtMU9jNHQ3OE9seTlMdVBDS2w5WUtwaGo0NHFqakRxOWVBMFc2eEwxelM2ajBTamNfeWxtZGhFTFRmZTFSVE5LNjdiTHZGbGxweVdhbkxSQ2JxMHo1bkoyRU5oU0ZDeGFWSmZE0gGsAUFVX3lxTE41NWdaMmoza2hQZlRnMndNVVBNcmtkbkdSN0J0anBpNHNYU2l5UTVjRG9CRWRVVVBUNHZUX3I5NlBTQmZ1ZGlLV20xT2M0dDc4T2x5OUx1UENLbDlZS3BoajQ0cWpqRHE5ZUEwVzZ4TDF6UzZqMFNqY195bG1kaEVMVGZlMVJUTks2N2JMdkZsbHB5V2FuTFJDYnEwejVuSjJFTmhTRkN4YVZKZkQ?oc=5",
-   "date": "Sun, 22 Nov 2026 03:30:06 GMT",
-   "vu_le": "2026-11-22T06:20:35.129568+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Takeover Bids France: 2026 Guide for Foreign Buyers - Global Advisory Experts",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPazVsNnA2MnpBRkl3eVEwTzl0UGVOZi1WYnU4a3JzTlhXQmlHXzZkNHp5N3pPLUlSSWc2akZQZF9oWll1cDctdDlETVoteE5QZFZmSnJBSFlCa3gyNHFBaFFMcnNYVUYtUTRMNGdaT2JwdUVZeUs1Umt4ejJvRHQzYk1zTUlobjM0d2JWNVNfOHNKQQ?oc=5",
-   "date": "Sun, 22 Nov 2026 04:52:33 GMT",
-   "vu_le": "2026-11-22T06:20:35.129568+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Is the AI boom losing its grip on emerging markets? Jefferies flags risks By Investing.com - Investing.com India",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPelJUUzFXNGFmWlFVX09Ea0J4akZWQWhmZVVxc2NxS1hZdFRvV2x2alVLZ0Fib1J5YWE1dmhCSFdIeGtrVUdaMFRLT2p3OEJZaXlRR1lBajN5WmthZFRoc2lBVmp4WUlOeUQzcDhyY2k4aUNCbWlnaVFTYXU2SXZQUnZ1WGdLNHZNbFFOWDFweW1YT0R6bTktSlVPVmJkb3RmZW5qM3hmOW5LYXAzMGhKZEV2VHJhZDJabE0tV0lwTFpnMW1rX3JR?oc=5",
-   "date": "Sun, 22 Nov 2026 06:09:01 GMT",
-   "vu_le": "2026-11-22T06:20:35.129568+00:00"
   }
  ],
  "erreurs": []
