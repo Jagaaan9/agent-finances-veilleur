@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T18:30:36.151586+00:00",
+ "mis_a_jour": "2026-11-22T18:40:35.807130+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55296.38,
+   "prix": 55363.36,
    "devise": "EUR",
-   "jour_pct": 0.74,
-   "mois_pct": -23.69,
-   "volume": 140.25730753,
-   "volume_relatif": 0.58,
+   "jour_pct": 0.87,
+   "mois_pct": -23.6,
+   "volume": 141.40392232,
+   "volume_relatif": 0.59,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "😺 Who really wins from Anthropic’s IPO? - The Neuron",
+   "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ScjA3Tm9JeXl4R21BaGlFVUFJYURpaTNVLV9WbENtYVhzRm9wQTVPdVZrS1Y5dW9HVFFqWU1FYUVoamlqRnNvWU92MkpqdnpGRnBRT3ZHcF9iRXhoSGQzRUxfaWlzaTN6QzlOb0VFM1I4Q0JLdWc5WQ?oc=5",
+   "date": "Sun, 22 Nov 2026 18:31:01 GMT",
+   "vu_le": "2026-11-22T18:40:35.807130+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "China Fines Baidu Unit 500,000 Yuan Over Joyy Deal - Retail News Asia",
+   "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHZsU2NaVTVtaGQ4dVVBOTlPOWRKRjdCRkhXUXVGOGQyVHBwNUFvSUp2YXJvTEl2ZzBvdDUyUDdUdVFPajQ2dEpicmNUbXR2Zkc0LWJ6ZVFzaVJiM1RUem9HN2hlSktPeVBpY20tNWhFTHIyZFRvc2ZDYTRuaWIycVlyRQ?oc=5",
+   "date": "Sun, 22 Nov 2026 18:31:37 GMT",
+   "vu_le": "2026-11-22T18:40:35.807130+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Top 12 Bank Stocks To Buy In India November 2026 - Samco",
+   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVTJGTjNBTndCWnlCMVF4am9OclFTVEN0clJWVXBKc3BWX0E4bDhwTUxlVWFKd0xReUJWSVl6T0M3UnExVHowUHZHdkExQ016S1MtX1lJdjNKYUNoRzBpM19fbTZYeTNOVGpNY0NPMTQydUdvWDZWMGFveE12Umh4eVRkVC02b1FMYVJhZQ?oc=5",
+   "date": "Sun, 22 Nov 2026 06:51:02 GMT",
+   "vu_le": "2026-11-22T18:40:35.807130+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Is Coinbase Stock a Buy, Sell, or Hold 64% Below Its 52-Week High? - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTY0MnJWbnVqdlR4Smd4dWpVck9Kelp5OVFSQ085Wlh3MmVnT1RRUkZaeEpOS1hBZ3VOQXBmRG9fRkhRalJjUmhPcV81N1lGeWZPUm10MzkzNkdjWmh6SmhVWm5wZHk1TVNTQ2xPNFNrZWJWV3A0UkJMV0VMN0pzTmMzVV9vb1lKZ1BWSXdaVWp1cUdvLW51OWF3MVRDNEE4WGtaQlBPZS0?oc=5",
+   "date": "Sun, 22 Nov 2026 18:20:02 GMT",
+   "vu_le": "2026-11-22T18:40:35.807130+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - AP News",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPelJUUzFXNGFmWlFVX09Ea0J4akZWQWhmZVVxc2NxS1hZdFRvV2x2alVLZ0Fib1J5YWE1dmhCSFdIeGtrVUdaMFRLT2p3OEJZaXlRR1lBajN5WmthZFRoc2lBVmp4WUlOeUQzcDhyY2k4aUNCbWlnaVFTYXU2SXZQUnZ1WGdLNHZNbFFOWDFweW1YT0R6bTktSlVPVmJkb3RmZW5qM3hmOW5LYXAzMGhKZEV2VHJhZDJabE0tV0lwTFpnMW1rX3JR?oc=5",
    "date": "Sun, 22 Nov 2026 06:09:01 GMT",
    "vu_le": "2026-11-22T06:20:35.129568+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Airbnb looks beyond traditional holiday hubs to deepen presence in India - Business Standard",
-   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOb29VSG1nY25RWjlXSDlXWVhsTjdZSGhNaGZMSTFKeVRlRjl0aEdKMzBIYV81ci1GNHhWRUhXTWozRDNxVTBuUXk4bzBMc25RRkFpU0lrcFdaZ0pkbERtb2RsUmlmZVlSamY2R0R6blQ4cXBLcW81cXBNbTZtSUphR3ZrUGVqVlVvcGpPWXFvNUFWOTIxczZobXRORkNNNXpKYjRlWEVVWWFOMHpCQXM4XzhtQ0dUNm1kODVoVTY5ZFdkeU5OMU5aV05veVpLQ0NIbE05WThBcnXSAd4BQVVfeXFMUC0weXdMek9rb0QyM21qaHZJSTVKTFdLd1NoX2RNOGx0NzVLS2tyVm1fajV0dkhkOGFzTjdGUVJDMl9wcmNIX3lOWi1mclRCcWFhRlgwcmlTLUhtNEZsMlFPWTJMWnhDOHFyNHhwMFU1ZDRVa2tDMlhDVEdPazVYTFNBYUJEOHZCQVRhMEU1NS1WdjBHTURTTXVpcENFa1hXbEduZmdySTNyZFhkdHRENFlYM2hBQkp6X2p6NzlxYkR2QXc3S0VCaS1uckRhbzlvNVNuN3lURzdxUWxFRkNn?oc=5",
-   "date": "Sun, 22 Nov 2026 06:15:30 GMT",
-   "vu_le": "2026-11-22T06:20:35.129568+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "JPMorgan Says Bitcoin Miners May Be Selling Reserves After BTC Falls $26K Below Mining Cost Estimate: Report - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaHhBcDN2akhWNzRxUGctVmlZN3BTVE9jamQ3RUUxbnpQVVRmNXZ0alpxVWZQS204dEVPRTBLR1cyWC14bzlVcWVvN3NCNlREUjhCM0QtU1QzanRCZ1FiODlTLUFzcmRGUUJhOTFzX05ITklnQ0NVbTJnOXdFVjVfUUdaWHE4MlNnQk1zaVlIZU0xQ1g0cmJGeU5fZ3p3dw?oc=5",
-   "date": "Sun, 22 Nov 2026 06:12:00 GMT",
-   "vu_le": "2026-11-22T06:20:35.129568+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "SOL price on Nov 22, 2026 at 2am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbkFTQUh1ZzNrTFVyeUhiaWdYc080SEswRWw0b1QxV3NlZkVmVTZEa2RxLWlLaTgyYkNEbHJJMDR6T280cGZKZThNOEFSb2dORWE1UVp5Uk9zbkpGNVYwNVpEeFBaSGtGbnVaX0l4VTExQy15ZVoxdUp0OVVEdXZKODBfLWpZLXlHMXZHR3Rra0x5M0lDZkNIMkMzWmU5Wmd2NVdrdW1LSlh0SjZoVGc?oc=5",
-   "date": "Sun, 22 Nov 2026 06:09:13 GMT",
-   "vu_le": "2026-11-22T06:20:35.129568+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Is the AI boom losing its grip on emerging markets? Jefferies flags risks - Investing.com",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYXVPSmc2dEY3bjVValBMZWw5MUhhem00cmVpZ1hjNUZ2dzFlS2tpaVVvajBMcjY4VllHdm9Kb1p2eFNoZlN2WHQwOFNXRE5kYU1jUlhJUHNwLUxjdV9uTXdqeFI1dF9LY3MwVGVjUGFYTzZyTkhYU2hyT1lNX0JRRXU1d1JVbExzRWRtcjhUcG9TVDFmTkhMcVBfQ3l2ZVJoNFBuUUU4d1lEbEstc3lNQmpoN29uZE1kRVN2V2Vjd0ZOeWljTkU1dA?oc=5",
-   "date": "Sun, 22 Nov 2026 06:07:03 GMT",
-   "vu_le": "2026-11-22T06:10:35.253495+00:00"
   }
  ],
  "erreurs": []

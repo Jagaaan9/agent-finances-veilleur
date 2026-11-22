@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55296.38 EUR, jour 0.74 %, mois -23.69 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55363.36 EUR, jour 0.87 %, mois -23.6 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,10 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] 😺 Who really wins from Anthropic’s IPO? - The Neuron
+- [Rachats et fusions] China Fines Baidu Unit 500,000 Yuan Over Joyy Deal - Retail News Asia
+- [Pays émergents] Top 12 Bank Stocks To Buy In India November 2026 - Samco
+- [Crypto] Is Coinbase Stock a Buy, Sell, or Hold 64% Below Its 52-Week High? - The Motley Fool
 - [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - AP News
 - [Anthropic] Anthropic IPO: OKX Distributes 20,000 €50 Vouchers On X-Perps - Cointribune
 - [Anthropic (FR)] IPO Anthropic : OKX distribue 20 000 vouchers de 50 € sur X-Perps - TradingView
@@ -455,7 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Pays émergents] Tata Steel board approves ₹28,000 crore divestment to APL Apollo - scanx.trade
 - [Défense, énergie, matières premières] Top 3 British Defensive Stocks To Watch In November 2026 - Yahoo Finance
 - [Défense, énergie, matières premières] If I Were Building a Portfolio From Scratch With $10,000, I’d Anchor It With This Unassuming Value Stock - The Globe and Mail
-- [Crypto] Trump’s Memecoin Gala Returns With Demand Down and Scrutiny Up - Bloomberg.com
-- [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - Times Union
-- [Petites valeurs en croissance] Create's (TSE:3024) Earnings Offer More Than Meets The Eye - Simply Wall St
-- [P
+- 
