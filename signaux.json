@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T07:00:36.562376+00:00",
+ "mis_a_jour": "2026-11-22T07:10:37.640902+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53905.37,
+   "prix": 53910.59,
    "devise": "EUR",
-   "jour_pct": -1.79,
-   "mois_pct": -25.61,
-   "volume": 21.73270896,
+   "jour_pct": -1.78,
+   "mois_pct": -25.6,
+   "volume": 22.04951354,
    "volume_relatif": 0.09,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "This Early Investor Sees 27-Fold Return In Anthropic IPO - Forbes Middle East",
+   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTnNHR0dfbHcwcHZjcDl3RVVYbzl4UVdEeFFnZDFOS0Y2UDMtTFV6d1RwdHp5ZUhlTlpYbUowM0JoR3hiUEVGbG1XUGdyMkh4cG5xTkdWcVJPZ0tBYW1feHNIN1Z3YmtmcGJGc29vRHpYY3lUR2pYX2lMa0pqbmdfTTM5a3lveW1XbGhZbVlmTEo5cTN2UDVHajVMTEtyd2VBbUtlWHd2UEYtT015RktBQ0hqUl9rWnZaRkE?oc=5",
+   "date": "Sun, 22 Nov 2026 07:01:03 GMT",
+   "vu_le": "2026-11-22T07:10:37.640902+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Bitcoin : 2,2 milliards d’options à échéance vendredi - CryptoTicker.io",
+   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNEsxZjJabGRYQ1JPMklOdU9nWjZVMTBFLUlYV0NTa25aTlR4eWVEWWhTQ3R0Tzk3QU9XWkNkZXVBc09mWnkxdHlpMXV0T25nRlNMNHNlZVNNVGlDRDhHSUlOdmhjaHIxQzkwcXRsU1dEUGV4OTBvSU9aT2Y1b1E3dQ?oc=5",
+   "date": "Sun, 22 Nov 2026 05:32:24 GMT",
+   "vu_le": "2026-11-22T07:10:37.640902+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Coordinating Regulatory Approvals in Czech PE Deals - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXIzbmRiUnliZU9fVXVzcDhkWG4xeXdEZkxpc1pvTzJZLXBlcWVJSkoxODZ1LUlVTDRkRnplelhrRENTYTl4ZXFBV2w3LU5oZ0hLUHlXQ0RWeUNXSHc2OExJNUczaHRiclZzTWhPSzJiWXVqS09lVy1aUUlQNmp6VDliZWp2cEgtTVJlWnZjNzV3VWtHNC12VW80X2NNTWRuWXBEcg?oc=5",
+   "date": "Sun, 22 Nov 2026 05:32:33 GMT",
+   "vu_le": "2026-11-22T07:10:37.640902+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "NSE to delist Lumax Automotive, Kingfisher, 16 others from May 30 - ET Auto",
+   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSUxXZmhiUnBSbndwNG9LaTNaWWZGMHQyUThUNkxSdW5ZZ1FXXzB2WWNYZ3F0QUNUTjRUMDNtZFRjVFNoNUxfemZHZWxOd242b2FZWDFlcmR5Q2t6Nnh2ai1LUEZKdGRkRUIycDFfMUpBR25laWE0UVlDQ09VbWs4TXdLdVZpLWE4MUE0T25DQUUxblloMUVkMXhVWDAxNkFHdm9MNHhfRTdpZWljQ2tQb3VfY1RpY09SMGxla1dNWmdZQndlT0NiTFIwVS1EMWFva003WWJrZzU0d9IB1AFBVV95cUxQcThYYTZ3dnZYOGdtZ2dtN0ctQUl4TF8zeExhdU9yb0RJQmFvV1RialNQVWZ4NnhibWdKRkc1bTY4WDl4b3dqdGVnLXFaYTdiV3AxTmlUX3NTdHZkQzIzRmtPU255ODQyRmRYQlJ5ck1zVE80cFh2Y0VxTjdZV2NjVFFkZEhBclJ0M3Z4NXVXYVFteUhabndKUVNrYjRRRVdFUTI3T0Z4enU2VUtmckkzbWszMGwxazE3WmRIUFRNTmd3XzE3Nzh5TFFKandZNFpBT0FzMA?oc=5",
+   "date": "Sat, 21 Nov 2026 09:08:14 GMT",
+   "vu_le": "2026-11-22T07:10:37.640902+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "FIIs reassess India's valuations, not its growth story: DSP Mutual Fund's Sahil Kapoor - Fortune India",
+   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbDd3cFgwWUl5VW1zMFlHMWhDQTJCWGpCZlBKM0NxMkduZ1owN0lmT0Y1QUw5dXVqU3haZWFOUDRGZDZVQmJNeXdoWF9qN3k1MlZQaS1GQzE0YjNjVXdfZzVjbFcyZkFPcG1wSDdSV2p4ZVV4TjBUbkRFai1paEdubXcxVW1QS1ZMMFpYcWZ0eTZqSnVkUkhXQVUzdGR6NnJOZENHNi1iY2F6SlVTUmlzdHhmS00tWFlac3R1U1dtSWFIQWFY0gHSAUFVX3lxTE9nT19Ra3dHQnM4QlBpN0FYblVub2NXeUR4NVBKTHVwZk55bmlwUlNndG5BTW85TzdrbnpkUWZrdmF2bG11Mm9NdFduOGhqMVRsS3piMHVrVy0xQmVPWlMzOV9rd0Vzc2J4ZGtvR2tSMVRDN0VrZzd5MUZMb2VVU04xcEdvZjdLbDdzV3hXOG9jQTdFa1h3N2xKTlp0RkRqMTAyTDBoR1hBVkVHNHZBQjgtQjMyeGVZYzdiU2dHcE9rQmpray1ZM25OODJxakVoZklpZw?oc=5",
+   "date": "Sat, 21 Nov 2026 07:48:41 GMT",
+   "vu_le": "2026-11-22T07:10:37.640902+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "How can investors succeed in markets today? - Financial Times",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGxoQ0k0MGs0U0dVQ3hqR05ib2xYdUo4LU5CMzIyX1oyM2NZR1pRQUxiUnRyVTBXSGJySGRnczFYZ0ZzWGRqRWNXTURSRm5xUG9pSk5jUFRnMnFOaHlPdjZ5MC1pTVp5QS14eExZTUFMX3VQZE5fRHU5Q0lRZ0R2NUw2S0k?oc=5",
+   "date": "Sat, 21 Nov 2026 09:13:35 GMT",
+   "vu_le": "2026-11-22T07:10:37.640902+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Business - Reuters",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5",
+   "date": "Sat, 21 Nov 2026 23:03:48 GMT",
+   "vu_le": "2026-11-22T07:10:37.640902+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Swarmer, Inc (SWMR) stock price, news, quote and history - Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mUlhua3VEZVB2OWRxMEdzM3FzSlBlOFQ0YXJJV0hhZjFSaFpKbV8zYndUWmp6dU9tV2d1WmFDSmNmcjk0bU03YzgtR3RUOGx6eGc?oc=5",
+   "date": "Sat, 21 Nov 2026 22:21:04 GMT",
+   "vu_le": "2026-11-22T07:10:37.640902+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic’s IPO caps explosive growth period for the AI startup - Jamaica Gleaner",
@@ -6496,62 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTWFqQUV2Z1ZGYnZFT3BKcWNrcHgzZW1scGtUb1N1UkY1VHBQYjJ4Ml9OTDhTdjdFRWtuRmxtMlc2TWNFUF8tM01oMFI3dEl1TmdZQkJfSXNNcDBiQzE4X0kxcFFueEV5RUNkaE9TX3JvZDNfLVFjSUxNcE85bi1NRnk3UjVSWTFBMUJxaF8yWnM1WHlSNmM2cHNVNTNlR2JJRngwS1U5bU5rSFczSHllQ0ZHS010Y1ZwczFfQTJ6UDhvcUdHZnZGZlVkYlpIelJWT2JOMDF5aFVjSGszLTU5cjZRQWxFbzA?oc=5",
    "date": "Sat, 21 Nov 2026 11:17:04 GMT",
    "vu_le": "2026-11-21T17:20:35.765706+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Bessent says no further restrictions are needed for Nvidia chip exports to China - PBS",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGhFLVdNQVNlbl9tSXFrRmI4LS1VQmhxamhUS0F0WjhFMmoydGtBbG5Lc1AzbklUekQ0NDdvWDM0Q2Nfd2dOUTZEdE9MVnZCUVJtc1p3M0R4M2VjVS1zNUdXWWF1R2ZnNmpQU2lJSXNQQlM5WUk3cF92bDB3c3F5N3d6ZEEySktWeVRmSkE4SXR3R3JUaXhObmhjdmgzSEgxNTV6d3N0M2k5UU9uSDBsRXZiNzIxRWJsQmfSAb8BQVVfeXFMUElMcEVVRXcweUZhTloxWGJFdlN0UWx2ZDBBSm5DRzhiejNJZlgtWWV2eUpiQ0diajZlZ3BrbmZEMTJRZnU2eVBJWkwxdGNzTkprSElzTk05VXhKREVDcnYwN0t4aXl2V2VFbHZ4SWNuWEVvUXA5bEE1dm94UWU3aTBQT0phSEEydHdEMWYzSkNvbWtlbHVlajJRblRfUUc3eFBXTFZmd2VYQWh2RjMwZzM3N2ZYQ0l3OWhqS29mQm8?oc=5",
-   "date": "Sat, 21 Nov 2026 16:28:20 GMT",
-   "vu_le": "2026-11-21T17:20:35.765706+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "5 Midcap Stocks with Robust Revenue Growth in Q2FY27 - Equitymaster",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcWdTN2t3aTgyZlZiYnpCN2dJcHNjUlRVa3oyQVNpRkl1U2J0cGxCSmw4cjNNUmFJS2NQN29uTDU1Q2lfcC1ZcGpNdFBJeUZsR1dJeG5maDBIdzJyN2hpZDFhbnFqQXdxZGlxZVREZFNCWkU3ZnNDaWtCc1BLMmUxZWxUT0NFRGdsbDVPMWxjZWgtMzROSG5LTGRZVGppdkdEMkZqQlNMcVJGX0V5eEl0cGYyU3hsWldQMXpNVW5xaw?oc=5",
-   "date": "Sat, 21 Nov 2026 11:07:34 GMT",
-   "vu_le": "2026-11-21T17:20:35.765706+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Top Defense Stocks To Watch Now - November 21st - MarketBeat",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmxuMzZyTGJXQkY5cTZGWkY5TnhMdDgxMEVDbXBJa3FYVzZXMkdnTVhIS0NoeF9jOUx0Qk96aldyd3R0ZlpNMmprWTRhLTU0ZUc5aUoxX0RJU0JtcG15Qi14LUVkOVlXVko1VlpobkN6Nk45U1BQdnRGdlJPM1VzZlp2amdOR3d4YUNaanFER3ZsekJJZGxtMG82MlV0MEdXcXYxNTd5NA?oc=5",
-   "date": "Sat, 21 Nov 2026 17:17:14 GMT",
-   "vu_le": "2026-11-21T17:20:35.765706+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "21Shares Forecasts Bitcoin to Hit New Highs in 2027 Predictions List - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXA0VHkzWjBDdnlKTWNGaURjYlB5NzQxa1RGcUdTUFlrUzFkVnBmZW1HTWE0VUk1a1h5eVVtTXNqb3p0a3RQYjlTY2MtanplV1BVTnFLVVlwYjhYWjVJUTMwMWRtMU5VQS1kTTRpZ1BtYm9MaWdIT3Z4UWRKVVVtb184S0d1NTd1N1VxVENRbFk4OWgwbG15X1BodmF6M2QwbUlKeC14NFlvd1poRkx5Y3cyNGdwcW00UnZHaFdXTkFKRzlxX2ZPZzln?oc=5",
-   "date": "Sat, 21 Nov 2026 17:00:07 GMT",
-   "vu_le": "2026-11-21T17:20:35.765706+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Crypto News: Pepeto Announces a Security Upgrade While the XRP Price Set To Rise Despite the Anthropic IPO Pulling Money Out of Crypto - markets.businessinsider.com",
-   "lien": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNci1jdi1hOEJOU05aOWlLV3JLNTI0NmVyOU43M1VfRFNMX1BDSmFjM08wMFVHVVBmWFRiaTlPYnd5QnF0MGlWVUEtbVp0ci1Ua0dSZjkwSmY3TG9VSlRlU1BzOEJia2psM3BiWV9udFV1Q0p5dXJQX0h0YlBBUEJCUU9hcU1jOS10OHF1VUVmenh3ZU5NUGRaQXZIUzBOWnItbG5jSDJ4d3JHTXhNMW9nMHQ4dzRjUWNwWjNxWUQ0MlRaMmZWSl9Yd3dHWlQwNEZjYUkwckJKc3JjTkl2S1RDeGNNVjh1OFV5M2J2NzRyMmJSa0VsRlJvLWJYRkM4YS1YcGw4OXV3WDdpdS1Qd1QtdXdsVnNuTkpMQk51ag?oc=5",
-   "date": "Sat, 21 Nov 2026 17:04:23 GMT",
-   "vu_le": "2026-11-21T17:20:35.765706+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "CAC40 : une baisse de 5,3 % sur la semaine, sous les 8.000 points - Le Revenu",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ1NVQmcwdVN6UWc2bnVyWHhxNV9yNmlNVmpkYkJ0U1hfVWJvNURoWjA3WnJ1MWttN2g2TVFOckVBUnVLWUNUT19qSnpaOGxWLXpPZUVZbFpNT2NKZmMxZm1YSmlHR28tX2dERnJsT2hCVFlETWdfYVoxV0hjS3U4Z1VBQlFHMzE2UTBwUmE2WjhaSGhRVlNvcHRmdWtaQ1ZNT29hMUhJeXFHUFpJY2l4YjNNZ2tUeWFiYmNtdXRnZXFBRjJDUFAw?oc=5",
-   "date": "Sat, 21 Nov 2026 07:00:00 GMT",
-   "vu_le": "2026-11-21T17:10:40.843652+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "TELEPERFORMANCE Cours Action TEP, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qTm15NEw5c0NZVzI1N0gyd1FRZlZSWmZWazNZcjZzRXdYSVBDaGhadFY1bHlwOHE2dEZQb2Y1TnBOY01pU3Y5VEh3TjZyemZEVVE?oc=5",
-   "date": "Sat, 21 Nov 2026 11:15:15 GMT",
-   "vu_le": "2026-11-21T17:10:40.843652+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "SEB Cours Action SK, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCeUwzX0lSYXdhcHhCMXVxNDNqaDBnQ3FhMWliV29PVUt1VUItc29HMEtlYTZRLXphUkpja2pvYUlsMzNaS0FFQ3ZmOVJTRE5n?oc=5",
-   "date": "Sat, 21 Nov 2026 11:29:20 GMT",
-   "vu_le": "2026-11-21T17:10:40.843652+00:00"
   }
  ],
  "erreurs": []

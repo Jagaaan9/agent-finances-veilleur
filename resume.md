@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53905.37 EUR, jour -1.79 %, mois -25.61 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53910.59 EUR, jour -1.78 %, mois -25.6 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,14 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] This Early Investor Sees 27-Fold Return In Anthropic IPO - Forbes Middle East
+- [Banques centrales et taux] Bitcoin : 2,2 milliards d’options à échéance vendredi - CryptoTicker.io
+- [Rachats et fusions] Coordinating Regulatory Approvals in Czech PE Deals - Global Advisory Experts
+- [Pays émergents] NSE to delist Lumax Automotive, Kingfisher, 16 others from May 30 - ET Auto
+- [Pays émergents] FIIs reassess India's valuations, not its growth story: DSP Mutual Fund's Sahil Kapoor - Fortune India
+- [Pays émergents] How can investors succeed in markets today? - Financial Times
+- [Pays émergents] Business - Reuters
+- [Défense, énergie, matières premières] Swarmer, Inc (SWMR) stock price, news, quote and history - Yahoo Finance UK
 - [Anthropic] Anthropic’s IPO caps explosive growth period for the AI startup - Jamaica Gleaner
 - [Anthropic (FR)] Anthropic : une IPO à 93,5 milliards de dollars, puis un recul de 8,5 % en Bourse - business-times.fr
 - [Défense, énergie, matières premières] Swarmer, Inc (SWMR) Stock Price, News, Quote & History - Yahoo! Finance Canada
@@ -452,10 +460,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] BTC price on Nov 21, 2026 at 10pm EST Crypto Prediction Market - Robinhood
 - [Crypto] This Under-the-Radar Crypto Stock Could Surprise Everyone - Yahoo Finance
 - [Crypto] SOL price on Nov 21, 2026 at 10pm EST Crypto Prediction Market - Robinhood
-- [Anthropic] Anthropic IPO six times oversubscribed: what retail investors can realistically expect - investingLive
-- [Marchés mondiaux] Is the S&P 500 in a bear market, and will it rally? No, it's in a correction, 11.6% below its record - Nacionale
-- [Bourse de Paris et Europe] VALLOUREC Cours Action VK, Cotation Bourse Euronext Paris - Boursorama
-- [Marchés mondiaux] Tech stock sell-off drags markets down as Anthropic shares slide - Yahoo! Finance Canada
-- [Bourse de Paris et Europe] SAINT-GOBAIN Cours Action SGO, Cotation Bourse Euronext Paris - Boursorama
-- [Chine et Asie] China’s AI stocks lose $1.7 trillion as tech selloff deepens - Investing.com
-- [Intelligence artificielle] US AI chip curbs hit China tech stocks, spur self-sufficiency push - The Daily St
+- [Anthropic] Anthropic IP
