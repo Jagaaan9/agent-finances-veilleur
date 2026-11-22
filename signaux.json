@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T15:40:35.808507+00:00",
+ "mis_a_jour": "2026-11-22T15:50:37.668264+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55483.33,
+   "prix": 55545.42,
    "devise": "EUR",
-   "jour_pct": 1.08,
-   "mois_pct": -23.43,
-   "volume": 108.55886319,
-   "volume_relatif": 0.45,
+   "jour_pct": 1.2,
+   "mois_pct": -23.35,
+   "volume": 111.10863062,
+   "volume_relatif": 0.46,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Prediction: These Will Be AMD’s and Nvidia’s Stock Prices by 2028 - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbHdFUC1rS21oaWZvRjdpMHZBcHN4dXA4U3JyWmtXQklpQTNxelowR1Z3akFuUzF0UkRWa1JJdlpRemxjVWZ4UU1XLVBqQ0g2Qzd4ZVYzMFVIZUtLRVI3RDhJaUpuQzJ5cHFwT1ZET08wN0hVSmpWem0wRi1kbmx0QU5ILTRWX25MUXdnX1diRnJURVFPQV9CWUNUV1JaLW9SckdMd3RiNTg?oc=5",
+   "date": "Sun, 22 Nov 2026 15:44:02 GMT",
+   "vu_le": "2026-11-22T15:50:37.668264+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Wall Street perd des centaines de milliards de dollars en une séance, plombée par les valeurs de l'IA - Le Tribunal du Net",
@@ -6544,13 +6551,6 @@
    "titre": "Cloudflare Q2 2026 Earnings Preview: NET at a Record High, Can a Beat Justify It? - TradingKey",
    "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObzFrWUtPMEx3Y2dtcl9sWWJZa0JSbTBWUU5Qd2ZVczVrYW42czBLYzl6VWdOTkwwenFGSUZZenE5TE40SndaekxTZk1VNGV1MUg2ZG1td2duUGgwNGpaUmFZd3ZpVW5GaUk3ZG4yUzE2b2FqNWl1SDIzemRZNzZCZ2c1SGI1SVVnLThPNTk5OHNkUkVhUnRheWE3OUdjZTdxY0R5NUVFS0xVQ0JOQktoYk5pTQ?oc=5",
    "date": "Sat, 21 Nov 2026 14:20:49 GMT",
-   "vu_le": "2026-11-22T03:40:35.173258+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Uber (UBER) Stock Looks About Right Following A Delivery Partnership Expansion - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVG5rZDgtbkh0c2lvdWtYbTExR2xQTW1YQzc3YlBLcjFwcnZMS1FicnhyVVppdkluUTZDZmx6TnVoQzA5VVNNU1p1NnltV0xickp6SjdrYzV6WkhvM2hxVmxZeXh3UE8tdVoxVl9JNl9MWEl3Z1Rrd1Z5cXN3dGVXZTVKTTJCZHRjUnpvVDVyck5JS0xZOFQ1V1VqcUY0RzlibVAwUDU2SldYVThhMF93R0F3Y1dqa2l0Q1g1X2F1R3p2clZISG5BV0V4V2RYOVVwZ1RuSDF2Z9IB3AFBVV95cUxNUGxkbHdkengwMkFJNDdEdmJFanYzRmN1ZzN3VTFDeWhrTm5UT1lzeHhRc0huNWhpeDBUSUtNLWlvQ19DSlZxcnVaRHR3aTRhOFhFQ0h2VkxaYWNnRjEyU0EwWTJQUzNITkg4ZUJLc3BxVGhYUXBwSWJTN1dzYVFxN0ZXRy1PMzUydkhGdkdnelQtLU9nYTRZVmdWSkdxOGJvNGdDTlA1eDB5SVRJYjlPMDVnVnFNUUZfU0xLcjkxMUUwNENNWHBxQ2VXNmREWjJSaXJqTWFwUzl2SC1r?oc=5",
-   "date": "Sun, 22 Nov 2026 03:14:45 GMT",
    "vu_le": "2026-11-22T03:40:35.173258+00:00"
   }
  ],
