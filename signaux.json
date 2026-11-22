@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T22:50:36.489337+00:00",
+ "mis_a_jour": "2026-11-22T23:00:36.414428+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3538.31,
+   "prix": 3556.428,
    "devise": "USD",
-   "jour_pct": -2.42,
-   "mois_pct": -14.59,
+   "jour_pct": 0.51,
+   "mois_pct": -11.65,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09677,
+   "prix": 1.09697,
    "devise": "USD",
-   "jour_pct": 0.02,
-   "mois_pct": -2.2,
-   "volume": 1136,
+   "jour_pct": 0.04,
+   "mois_pct": -2.18,
+   "volume": 1515,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55423.01,
+   "prix": 55627.09,
    "devise": "EUR",
-   "jour_pct": 0.97,
-   "mois_pct": -23.52,
-   "volume": 170.50904638,
+   "jour_pct": 1.35,
+   "mois_pct": -23.24,
+   "volume": 170.75086977,
    "volume_relatif": 0.71,
    "capitalisation": null,
    "per": null,
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Nasdaq 100 forecast: Markets turn jittery as Anthropic debuts at 34% above IPO - FOREX.com",
+   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNHk4b0JyaEVmckw3MnJTUTAzYktJX3FrMTFRdngyaWJiRnFYcGFLaDU5OXNpZkJoR3hrQUg0NmVQVWNFckJoc0J4aHBwcjg4dDQ5Z0pEUndlNXhQQjU2cHVxZE5NWXdpY0JvSXJwbk9Ta09tZWw3bkRlNmdwamN2ZUhWbHlPeXptNUVRN1A1SElIRE5BSUtSYi14c2Qzbm5ndGd4YldBMjlxUTJvWnRZMW1zekhWSVAxblJoTm96d3hLOUtx?oc=5",
+   "date": "Sun, 22 Nov 2026 20:44:37 GMT",
+   "vu_le": "2026-11-22T23:00:36.414428+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "US seeks answers on Nvidia's sale of chips to China, Bessent says - Reuters",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5",
+   "date": "Sun, 22 Nov 2026 17:53:07 GMT",
+   "vu_le": "2026-11-22T23:00:36.414428+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Tryg (CPSE:TRYG) Stock May Be 33% Undervalued On Excess Returns - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQXpSMEdhM3dGYVI2V3pvNDMzSmVuQWRkNEpWTjVRVlJneWNTTy1mMy1fX3R6eXpmMVYyVmt5LVNJZmYwZG5XcmZjejBQa1JuTlNQM1E2LWV4VTF1WHBQcjU2WDNoME14ZmFOMlpJazlEamY5S3VSOFRhQTE0LU55VDY5SGhOX2NfZ2RPaUExYVBBd1U?oc=5",
+   "date": "Sun, 22 Nov 2026 16:06:34 GMT",
+   "vu_le": "2026-11-22T23:00:36.414428+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Trump Blames Midterms for Falling Stocks, Then Touts Post-Election Oil Drop - BeInCrypto",
@@ -6530,27 +6551,6 @@
    "titre": "XRP price at Nov 22, 2026 at 6am EST Crypto Prediction Market - Robinhood",
    "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdU4zQ3dpdkVaX1FPUFl2REdWckNNWTFBOHFtVHp2cDZLdVV0dFBDSURNMlFnQ1A3RkFVcFlZMlRRZkx6Um4wQkM1QlVmeFpkMldvOVE2Xy15Snl3RmJxYkpaazVoTkpfU2s0NDJWcFZnUFZLUUozamc0aFlxaHdOXzVPSEFLUVdvQ3Y5SFowcm15MVpaZ3NyVVZmdGdLZjZydUduXzVTclJuTVBCQmc?oc=5",
    "date": "Sun, 22 Nov 2026 10:03:59 GMT",
-   "vu_le": "2026-11-22T10:10:35.138624+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin shorts collapsed 79% in five weeks, then the market turned lower - CryptoSlate",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS19fb3ZZTnRJMVpYa3d5MGY4aC1CSks4YndMUE1obzdneTFpcE5yNkhoVlc4dGszNXd0MkI5LUpuaVlFYzFPa0JRUkVoeXIydWNnWDNaX1VHbGNtLTBDa2dPTnFTOVpncEdCOUR2Sm1KcktzelhPZVhZQzV5a1hnamtBTzRUQ1RFQmhhNnVZakVTMFBvMHhqWnR3MA?oc=5",
-   "date": "Sun, 22 Nov 2026 09:30:45 GMT",
-   "vu_le": "2026-11-22T10:10:35.138624+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "ETH price on Nov 22, 2026 at 6am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTWcteERySHdzR0JSOHFIUjRDM213SE90M291Q0hfSloxMGVvTEJBNWZScVhoOGZyODYxMnBGMk1rbHkybHJfZnpYTGZETU9jRXNRd244aVk5WXFERE1xQW43bUtDd1ZqVzNvZzNzblJLeWRKT24wNGVnNnlvT05JemtKWm5SWl9nMlJWeUoza0J2RWlSeUpobHdsaGE3azMxZld2RUIyaVZwSVJ3Z1E?oc=5",
-   "date": "Sun, 22 Nov 2026 10:04:00 GMT",
-   "vu_le": "2026-11-22T10:10:35.138624+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "The Great Cash Grab Is Crashing Gold, Silver And Bitcoin, Goldman Sachs Warns The Stock Selloff Isn't Over - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOakhFbTIzRVU5cXdMWC1oV2hVYk1qSlM5VUNCd2JPMkxsb3Y2Z3NSd2l2b1lLUXc4MGIwU21PNFY0RFh5cEY3SGtiZk5fVzk1b1Q2dHBfNFJCbkU1X3NKLXpDekRRZEJ2UVN1ekctXzJsX1hZdy1OUUJkcWR1ZkY4MkNEMjNYbFNab3JTYkRHcnM4dUc3Yl91QUloMFp5Ul90?oc=5",
-   "date": "Sun, 22 Nov 2026 09:49:52 GMT",
    "vu_le": "2026-11-22T10:10:35.138624+00:00"
   }
  ],
