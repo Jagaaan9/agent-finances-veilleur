@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T01:10:35.415402+00:00",
+ "mis_a_jour": "2026-11-22T01:17:11.726067+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54880,
+   "prix": 54874.13,
    "devise": "EUR",
-   "jour_pct": -0.01,
+   "jour_pct": -0.03,
    "mois_pct": -24.27,
-   "volume": 3.88230962,
+   "volume": 3.88922014,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Le Zcash progresse tandis que les traders surveillent les risques liés aux taux d’intérêt américains et les perspectives d’inflation - Traders Union",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDNGaU9RZTV5Qmk3bVhpVjNzUm1pSUNOZmxCLWF5QzhKc3ZMZ1NFNEFsSmZ3bTVzVVF1U1RaWFlsUmw1Yk9zT2s3UC15MVJZcmtKWkp2eUNZN01sZVVUMHlzcGxiX1lpdU00dVgxS1ZKM0pGV2lvRjhQbHczOWhoM3I2SmRYWEtxbjc2bGkzNmsxcjR1bzFoQmln?oc=5",
+   "date": "Sat, 21 Nov 2026 21:36:29 GMT",
+   "vu_le": "2026-11-22T01:17:11.726067+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China’s AI stocks lose $1.7 trillion as tech selloff deepens By Investing.com - Investing.com UK",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQjRTLUh4X1hIMXVaeVM4T0ROSk5OWGZfdjBRNHpFSWJPd3EzQjRUOTJocno5VERack55ZlJYdERDS0hhV21pMjRMSF9saWppSFlqOEJITEZhSWgxTUZ4WTNxX2tPakdacUpxbGxadXYyNXlPOGxXT0licUhRZ0FHcjdVbHd3cThlbW10d1RrRXI3ZGNIbVRRMFlTS1hRemY3NFh1aTZWSS1ydFVEWmpOaXJoYw?oc=5",
+   "date": "Sun, 22 Nov 2026 01:12:00 GMT",
+   "vu_le": "2026-11-22T01:17:11.726067+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Datadog Stock Forecast: AI Customer Cuts Usage as DDOG Loses $203.55 - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3JiLU5Ea1FRd0VWZ2xRSDhRZERfSlhTRHdKdzB3RFJuMDdmTDFMdkJzQzNUVzJUMGpKc05VLXpnb2YtSldfLWVhQk9DaTZiNGdkSlgxUHFJVjRXWjhVRGZKZF9PSm1HbldaalFhZnRnZ0xtU2hLZldMandBTlZaSzRYdFR3NURuZFlsbXkzbHdpTjJfZUhGeDRaMXQyMmdPcUoxcnh5ZjJOcVBqb3ZvdjFlMXJodw?oc=5",
+   "date": "Sat, 21 Nov 2026 22:17:12 GMT",
+   "vu_le": "2026-11-22T01:17:11.726067+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Innotech's (TSE:9880) Performance Raises Some Questions - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRDJrUkYtdFNqNjVQVDFHRlVkWFNvTXNBUDdzbnRQUUsxajdxWFpwR3FtVUVWV0lNX2FkWEh1SE1xYnVoemNvZW1sYklTendiOW9DY1lUQVF6UWx4UGJMQXFFd1VQYmUwRDJaYlpnb3B6OEp4cEhOQmM3U1RDeFZiUVQwN2xpZHh2akoybmc5QVRCYXJXQTdrN0xwT2lNWGhxZXBpb2VCcG8xeWJGdHVUOEZ4cWJkYzJ0Vk1tdERhTdIBvwFBVV95cUxPRDJrUkYtdFNqNjVQVDFHRlVkWFNvTXNBUDdzbnRQUUsxajdxWFpwR3FtVUVWV0lNX2FkWEh1SE1xYnVoemNvZW1sYklTendiOW9DY1lUQVF6UWx4UGJMQXFFd1VQYmUwRDJaYlpnb3B6OEp4cEhOQmM3U1RDeFZiUVQwN2xpZHh2akoybmc5QVRCYXJXQTdrN0xwT2lNWGhxZXBpb2VCcG8xeWJGdHVUOEZ4cWJkYzJ0Vk1tdERhTQ?oc=5",
+   "date": "Sat, 21 Nov 2026 23:45:08 GMT",
+   "vu_le": "2026-11-22T01:17:11.726067+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Overview #87 — Exit Liquidity - Smartkarma",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOGVEVFlzenpUUFZQVkJ4SENlX1Q1cC1ta3RzZUczcTNEZmk2Mm95VXlvVUt6VWlPZGk3QWY1a2lYbExMNE5qWnNCZThvSFFpRk8xSlViZS00N0o1bjBXaXViU0VCT0dya1hFU2E4VVNCWmN0aVJMNXBDNmUyb19iVlBPa2hzUnlwMW14RVNfVWVzNC1fVWczcg?oc=5",
+   "date": "Sun, 22 Nov 2026 00:45:14 GMT",
+   "vu_le": "2026-11-22T01:17:11.726067+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic’s IPO Makes AI Safety a Business Test - WeRSM",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzZQaWxDcTNpTWhzZEVnV2xHalRtNHNlTXdjNk4zTUxfaExVY0diTlFtSDRQeV9JYVZyYTV0cWxUX3dmSUt5bm1fRWFTMXhUZkFQZ2phNFlrd01Pa1ZCQWJKLVNDdGxWSHJVY1FpNy1mR3ZFYmhRY1FKYmRtanFrN1Y2eEtZSnRSbkhLUE1Ja3hib3lqVnhYMXZZOA?oc=5",
    "date": "Sat, 21 Nov 2026 11:08:30 GMT",
    "vu_le": "2026-11-21T12:50:35.391071+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Anthropic and Bitcoin Are Both Falling: Where Is the Money Going? - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdE9IOG1zX3JxLUZLb3FoV2hPYWtMRmNtVlc0VWYtQWthYWctR25wVmdJaXAyMmZycUxVdHhZOHY5alRyQ3NsZkZnSzVXZHVodDN5clM1dG5UVXlCU1I4QWRGSEcwLVYtUWl2ZGM4V3VqZkRwbEhtLXZndHQ4UndwbVNuSFN6QnF3UVZYSlYwNC0yenI2NGQxbGJjTENUVmdBd0VmR25ER1JDRm1HUWQwTm50YnQ1dEIzVU9xZmN2OA?oc=5",
-   "date": "Sat, 21 Nov 2026 12:31:00 GMT",
-   "vu_le": "2026-11-21T12:50:35.391071+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Congress files detail AMD requests to export AI chips to China, says Hunterbrook - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMndSTjQ3azVpWXRpTTVLQlk4ZGpjTjZFZVFNOVJtR193ZVdqOFRxa1V1QVp1RV9fMS1IWHRXX2ltcTh2Q2JOeHhuX1Mta1p4N1Zsa0xLRFFHTlhpaUtKQnlvZGJ5ZXRKT1dYZEZKbE1ISG9qel83Y2JtRklqeUpLeko1ZzZzZEVIMFA0UTE5b0xiLVJUQWp2ajFNeko2NGc?oc=5",
-   "date": "Fri, 20 Nov 2026 21:10:58 GMT",
-   "vu_le": "2026-11-21T12:40:36.010456+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Why Hua Hong Grace Semiconductor Stock Held Up Better During Tech Selloffs - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQkZJMS1DYTNKV1RLU2tFNnN6Sk1LSFlLU3dmOE5PRGpqYnRGOXV5T2ttdjdmTTZEMjR4SGFIZl83VndUSThHbEJUdU91TnhFT2NfaFFPdVd0TFlneGlHd0ItM3J3WkhYZXc4NnN0czdUdTB4MVdnNE5qa3lqLWR5RWtPRmdVSjNP?oc=5",
-   "date": "Fri, 20 Nov 2026 16:12:57 GMT",
-   "vu_le": "2026-11-21T12:40:36.010456+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "New US Chip Rules Threaten Pain for Southeast Asia - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3VtWEFIZnZSalVUZWZabUJGMHRtMGxCTFFGckNyTWVCek1hc3J4ZTFHSVpHb3RNMFF0WGkyTnp5Q0xxSThlc1BSVGEzamt6aVRvTHNkdVJ1WWRJSDM0eHdVdkFtQW5CLUtFT1Y1YkhBeWU3ZGlwSHUwOG5KV1hVV2QyVm9kTEcxdUFFOEVfX3hwZ3JwQjFrQmR3eEZSdzl5MEV5cHljdkxOaG9KMGdYYlh1V0JRSTRGekhEcmN3?oc=5",
-   "date": "Sat, 21 Nov 2026 11:45:01 GMT",
-   "vu_le": "2026-11-21T12:40:36.010456+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "SanDisk Tumbles 8% as TrendForce Turns Bearish on 2027 NAND Prices; Micron Falls 5%, SK Hynix Slides 4% - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVEl4eHlVV1BGWUVwei1KdWRVeUxhZzZhQmRMZWRXemQ4MDhmTTNJTi1abThheG5TQ0xUczJLUmlySnEtS21aX3poNXlRMDRRM0hGaFllOGNoNHFjWjI4MTRUX2ZUWHFQWkczbHNLV19TOUhkd3lBdkhaX3F5NWpORHN3S3JhcHo3T0JvWXpLR1J4ZWpYYXpjODJERVNIVHNaRlJsSUkybEg4U3lSS2dqZDlDdDdlbDdFVi1YVjdsRXRzRlBsUzVkdjZEeXRmemlNR1N5ZktHY0VwZw?oc=5",
-   "date": "Fri, 20 Nov 2026 14:09:00 GMT",
-   "vu_le": "2026-11-21T12:40:36.010456+00:00"
   }
  ],
  "erreurs": []

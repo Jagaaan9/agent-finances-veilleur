@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54880 EUR, jour -0.01 %, mois -24.27 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54874.13 EUR, jour -0.03 %, mois -24.27 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,11 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Banques centrales et taux] Le Zcash progresse tandis que les traders surveillent les risques liés aux taux d’intérêt américains et les perspectives d’inflation - Traders Union
+- [Chine et Asie] China’s AI stocks lose $1.7 trillion as tech selloff deepens By Investing.com - Investing.com UK
+- [Résultats d'entreprises] Datadog Stock Forecast: AI Customer Cuts Usage as DDOG Loses $203.55 - TradingKey
+- [Résultats d'entreprises] Innotech's (TSE:9880) Performance Raises Some Questions - Simply Wall St
+- [Pays émergents] Overview #87 — Exit Liquidity - Smartkarma
 - [Anthropic] Anthropic’s IPO Makes AI Safety a Business Test - WeRSM
 - [Banques centrales et taux] Taux de change du dollar américain aujourd'hui, 22 novembre 2026 : le taux directeur est d'environ 26 000 VND. - Vietnam.vn
 - [Banques centrales et taux] La BCE invite les établissements financiers à tester des dépôts et titres tokenisés dans le cadre d’Appia - FinanceFeeds
@@ -453,8 +458,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Chine et Asie] Chinese scientists’ magic comb restores nearly 100% hair growth in mice study - South China Morning Post
 - [Chine et Asie] 3 Stocks Investors Are Watching for Asia Pacific Trade Growth - Simply Wall St
 - [Chine et Asie] NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo! Finance Canada
-- [Chine et Asie] Nikkei swings harder than Nasdaq as AI fears deepen - FOREX.com
-- [Chine et Asie] Technology at Work, Heritage for All: The "Chinese Approach" to Safeguarding the Leshan Giant Buddha - The Des Moines Register
-- [Pays émergents] Indian markets may see reasonable upside over next 12 months; FPIs unwinding underweight positions: HSBC MF's Cheenu Gupta - ChiniMandi
-- [Rachats et fusions] Dollar and euro notes were priced to help fund Boston Scientific’s (BSX) proposed Penumbra acquisition. - Stock Titan
-- [Anthropic] $1,000 in Anthropic Stock or XRP:
