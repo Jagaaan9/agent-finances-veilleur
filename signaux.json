@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T02:40:36.045224+00:00",
+ "mis_a_jour": "2026-11-22T02:50:34.709900+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54332.24,
+   "prix": 54239,
    "devise": "EUR",
-   "jour_pct": -1.01,
-   "mois_pct": -25.23,
-   "volume": 8.17599197,
-   "volume_relatif": 0.03,
+   "jour_pct": -1.18,
+   "mois_pct": -25.15,
+   "volume": 8.73900542,
+   "volume_relatif": 0.04,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "China’s AI stocks lose $1.7 trillion as tech selloff deepens - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb1JmaXVoTmtsN3lFbWdOSldpYU1saDFtd2pGLW1XNVdqNDRXVUdXOXVpNEJNeFowbHcxeXBLYnZzMTk0enhNNW1ySFc3SGl1TlJEMjZxWFREU3R5X3RzRjBuYlJSdXQwRXRSOGRnOG9XaWd5Zk9DQ0RtN2hBdlhJbHZKNTJJa09BTHRTZkRYOA?oc=5",
+   "date": "Sun, 22 Nov 2026 01:39:00 GMT",
+   "vu_le": "2026-11-22T02:50:34.709900+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Reverse Takeover Indonesia 2026: Step-by-Step Guide - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUUkwSTI5aE1ZQV9UcmxUTFJoTnNBbENjZEdLMGlmaGUxcmJxZ1dqSUtQeml3dUg0bXNwRlRaaXlVZEJIVXJyLXNLd25uUF9OZ1NFNXFzZnNMZnZsRWpzNi04c2JrR0hYLUhkNzI5YlAtRjNISHpVaEhpb01UcTRlRXFpMnQ3UmZaQnZWS0tNSWxiXzg?oc=5",
+   "date": "Sat, 21 Nov 2026 13:42:27 GMT",
+   "vu_le": "2026-11-22T02:50:34.709900+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "5 Undervalued PSU Bank Stocks with Improving Financials - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TMTd3cWd5bnlnOXBJVmxBbzRxYmQ0ZTNtVWdQOVdvREwtSFVRbVdIUXFscThnWXk2TlhyM1Y3U3dxazdoRVpOcW9BYVIxRUhYaFJIem1zZ2VkY0piX0lMWk9LbFBvLVlwUHNCYk51NA?oc=5",
+   "date": "Sat, 21 Nov 2026 06:38:37 GMT",
+   "vu_le": "2026-11-22T02:50:34.709900+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "Li: China ready to accelerate FTA upgrade talks with Singapore - chinadailyhk",
@@ -6530,27 +6551,6 @@
    "titre": "Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years - TradingView",
    "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZjJ6ZHh3Z08xNlJiSGNqQk5acy11bkFsM3NqQVJ4Q2lON2FVejFJMXhJM093MWYzN1J3M0VLd2NMUHotOVhvbThvWXhFSmFMWUlocUo5RXgwLXc0UkpMdlNFUG9idWs1Q1QyNE9Lc3NTZFpwcmVVTzY1QmRaYUhNMUlyaWdqNExaeDlPSjhmMVB5VnRFU2JkYW5faEZLMDhZTlhPTWx2OS16UGFfSno3OTRoY3dLd1dtVEhvNl9GUUVzZllKOE1Ocw?oc=5",
    "date": "Sat, 21 Nov 2026 12:27:10 GMT",
-   "vu_le": "2026-11-21T14:30:35.990035+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "easyJet moves closer to Sun after Apollo deal - The Portugal News",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2FaaEVUWm5ERlRWQllEdC16b2dsTndpdW5TeWNGcVpyTmJjVjYyeUhaM29hekx5cTI1cmR3LWI2Z2tRYWFtdHFEVzB3c2lNS09pTXhoOHZ1RkVtcWoySHNQYlNKRzRXRjBEYUZRRWpxOXYzZDlIeW1VZFItSFZJRWZTNUhTV0NGU1NHZFQ1U1J4dzQ1YVhLOXNBaWVrMzEzUzFF?oc=5",
-   "date": "Sat, 21 Nov 2026 00:54:42 GMT",
-   "vu_le": "2026-11-21T14:30:35.990035+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "BILL Holdings to Be Acquired by TPG and Corpay for $63.25 Per Share in $6 Billion Cash Deal - Minichart",
-   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZDRaTWhNRjlWdDZRU1dyalNhTl9KS3QwUEc2YVk5VTVSa2hfODFNZDl5THl2QmpqNkt2aDYwMzhNa3lpbDFaRG9XWXhXbmh4N1RwUVJueEYwdVJlOGRsQW9VVzdNa1VuVjRvMEJoZnpjb3JMSUc3WkdNbkZEem82Vmhub19GbzRoOTZhTmZldS1WSlp2c1ExeUV3akhlb09GczRNdVFRMWtibEcwUm45ZTlnZGRMaDA1eGtkckMxUzJuaEZxdGx1RmxB?oc=5",
-   "date": "Fri, 20 Nov 2026 16:00:00 GMT",
-   "vu_le": "2026-11-21T14:30:35.990035+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "India's NSE breaks into the world's top five stock markets - Big News Network.com",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb25HMFBQdmtMMGMtVEFFaHZGQ1dzS08wTTBQZTgyS1VOZndnM1JNYWZaY2NiTFFqNkFkUFpzQ2puNHdqazl0YldTSE9odnlMWDlPRC13Q1I5WWlBSm9TQmFqQzdOYUhuMTZxTzhNUEVnbnd6TFBfb2dNRjBTWXBwWllDcXZtNlNBNS1WSXI2NzM2b0RBODVqWEtHaU52c09xamc?oc=5",
-   "date": "Sat, 21 Nov 2026 10:51:00 GMT",
    "vu_le": "2026-11-21T14:30:35.990035+00:00"
   }
  ],
