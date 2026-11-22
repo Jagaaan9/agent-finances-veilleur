@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T00:20:35.841978+00:00",
+ "mis_a_jour": "2026-11-22T00:30:35.522095+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54986.86,
+   "prix": 54976.21,
    "devise": "EUR",
-   "jour_pct": 0.18,
-   "mois_pct": -24.12,
-   "volume": 1.88066107,
+   "jour_pct": 0.16,
+   "mois_pct": -24.13,
+   "volume": 2.77417634,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Pays émergents",
+   "titre": "Vanguard Real Estate Index Fund ETF Shares (VNQ) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RMy1RbHU3NWpjd3NMaGhLd3hFZTJWRHFyaVhDMFpwSlpUdm92UTZabHE4T2ZXTnhRWEdUU2Zjam96djlOdXJLbnVJVFN5ZXZX?oc=5",
+   "date": "Sat, 21 Nov 2026 07:15:16 GMT",
+   "vu_le": "2026-11-22T00:30:35.522095+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Electro Optic Systems Holdings Limited (EOS.AX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CMV9iYkJ0eHc5Z2lBd0Jub1lBa3RiaFJ4UkpFZVF3S25wdTRIRDJaUkZuTDlaSm1LUHNtSFpOZnJTRXRRUXdoTHRHVmwyVDd1bGFtZg?oc=5",
+   "date": "Sat, 21 Nov 2026 03:42:49 GMT",
+   "vu_le": "2026-11-22T00:30:35.522095+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "5 Defence Stocks With Strong FY27 Revenue Guidance and Order Books of Up to ₹2.54 Lakh Crore - Trade Brains",
+   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWmxYTEQ5RV9HM2laak8xeWdLYlJZT3hqay1UUVFVREVzeDFsWnA3b1dOVk9PWFk3aGIyeUlEd0VlR0w2YVBFX2I3M1VxTU1Rd1pJRXFGZVZ6TEVuVTVTampYNmcyMUk1cVd5dlZ1R09xaC1OLUpnTnFLY3lwZFpwd2t0VGU1dU5WNmlyeUotTTBfQW5GTEFnTXplUm8xS25MclRZQ21uRDVyNFQ4cnlQbmJLSlp3VHd3TVdUWEtYMlBZbGZVNm9zTTdPOHFucUFDQ1k4?oc=5",
+   "date": "Sat, 21 Nov 2026 16:30:37 GMT",
+   "vu_le": "2026-11-22T00:30:35.522095+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "CleanSpark’s Harry Sudock says power access is the real edge for Bitcoin miners - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56V0lPb2U2TzZKN29JQnFSaTVuZGFaNGREQW02T2FPVWpHWmo2WnNJOUFfRThIdmtuTHNwTWg1VjR4Nm04OXdrbUhzTUZLSHV6aU9oaDZuTEpLQlU0QXJPUDJkUTE0cE1lR2lxaGc4YWtSRW5qTlR1dFFHeko2UQ?oc=5",
+   "date": "Sun, 22 Nov 2026 00:05:03 GMT",
+   "vu_le": "2026-11-22T00:30:35.522095+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Wall Street tumbles as AI stocks plunge - 1News",
@@ -6523,34 +6551,6 @@
    "titre": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail",
    "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOFh5M1N3Vnp4MjdFdWZHLU9SRkZjVVY1bzJlaDdQOXA1TnI4azhfeW81TEVaWXBfNUFDQUtJR1VKbGlBczhHUVpoaDhJRDFMTHNJTHlSaEJiTXFuUFJCMmg0bmlNT0poQnNnVThJTUk3Z0xtVHZ4cXlib3NmSGFaYWxPVjZacUlRSGhaT3Ruc0U3VUxNWktWT3U5Vld6VkI4eFlRcUFvaFE4TmktdTFoQldVN2MwYjdLUi1zN3NuS2VqcWVMREVvbmFzdUV1LTJxOXhBaElDSm5UUnJKTjFqcTNMc2RCam9hdjZ4LXZCZ0EzVmxNUnQ3YzRLQUdlblpiVUthbzRfWWNvMXQ1ckE?oc=5",
    "date": "Sat, 21 Nov 2026 11:44:06 GMT",
-   "vu_le": "2026-11-21T12:20:35.602674+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "BlackRock to Buy SulAmerica: Will Brazil Deal Fuel Its Growth? - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSl9qMGpMRTFROGk0MTdsMVZ5cjdES2gySFJvamdoNFdaVmlJMEFrQW04VW9sbDd3X0dqMUxuT0l0bElxdEdMZzVmMWc5MlRCdkRIaEpiZXFXWHVnTlpUeThKeF9pdmJhTG1MeXlPODZNdml4Y2E3MGVWZjJ2S1plc0IxQmE4ZGZud2ozdDU3YkNwcU1wYlFiT09wZ1N0cEZUOXBTUDNLMDFnQWppZlZLWWI0T2R3UlJpdjVmdTRjdDBmcG1aRGlhbm9mVzdxeHlfZnY0dmVSbGIxOGh4?oc=5",
-   "date": "Fri, 20 Nov 2026 23:51:29 GMT",
-   "vu_le": "2026-11-21T12:20:35.602674+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Booz Allen Hamilton Holding Corporation (BAH) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mckVmV0lWZ3RQdjdWSzFjZE5FMW5MdGpFNkF4TURFOUVXSktyX3l2ajI4M0ZCTTkyaTdEZEdlMzc4cTdXdFhWQ0hZSFhaTGFLN20ta1FaVnA?oc=5",
-   "date": "Fri, 20 Nov 2026 16:19:33 GMT",
-   "vu_le": "2026-11-21T12:20:35.602674+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Arxis, Inc. (ARXS) stock price, news, quote and history - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iNjd4WnNQaGZCUHdacjloYVRDSm5HOFhQU1dGSjdkUmxNWDhPQnhrQjVheTJHeGRRSTRYQ1BsSVZkWklNLWdWcnpsc3pUX0NidVE?oc=5",
-   "date": "Fri, 20 Nov 2026 20:10:31 GMT",
-   "vu_le": "2026-11-21T12:20:35.602674+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Electro Optic Systems Holdings Limited (EOS.AX) stock price, news, quote and history - Yahoo Finance Australia",
-   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFSzZMempxUEJXOWs0Z2xuaUhUY3NPbmhMelZnOVBCYko4OHpFbk42RmRJSDBxQ0lRdVNCcUJBcmhSMENpdmJMUVJBYkxHX2ZsMzVMTA?oc=5",
-   "date": "Fri, 20 Nov 2026 14:54:06 GMT",
    "vu_le": "2026-11-21T12:20:35.602674+00:00"
   }
  ],
