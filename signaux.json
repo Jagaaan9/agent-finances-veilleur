@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T00:30:35.522095+00:00",
+ "mis_a_jour": "2026-11-22T00:40:36.684601+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54976.21,
+   "prix": 54977.76,
    "devise": "EUR",
    "jour_pct": 0.16,
    "mois_pct": -24.13,
-   "volume": 2.77417634,
+   "volume": 3.11490641,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -3754,6 +3754,27 @@
  },
  "actualites": [
   {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stock market correction? This chief investment officer sees the S&P 500 soaring 45% to 10,000 - Fortune",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWMydm9FbVFNbEVhQVl6RHhuZnVYbzZ3UGE5clZSWWtHd0VnOWZvamxqbGMzVllwaXlqb09Za3FDaFhFMWFGYTN4ZktCSXF4TnNWN0J5VnJ1VFEtUmtIbVBYVVJtWkdxbGRUZ0tmREJtRkhlaVJ0dHlHcU16eEYwdTNvMUpkTEpHVjlqdzNoYk5TMHVtUHFwcjRVc3hGNEJx?oc=5",
+   "date": "Sun, 22 Nov 2026 00:02:00 GMT",
+   "vu_le": "2026-11-22T00:40:36.684601+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Cours de l'or la semaine prochaine : les perspectives de reprise restent fragiles. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3cTdEbHl6MDIwWW4yNENmOW9CQm9fVEtpRDBMeHVmS190VG9YenFnR1g2Q25lTW5BdE1sZEtPNGc5UEVHY0VwSEY4cnBySkNXZlh4QTVmcjBiSFJ6WmtFTk9hVWU0bVZQb2hkM0g4X0tvTzRJbGF3cVNLdm9jWTQ?oc=5",
+   "date": "Sat, 21 Nov 2026 09:37:08 GMT",
+   "vu_le": "2026-11-22T00:40:36.684601+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Red Cat Holdings, Inc. (RCAT) stock price, news, quote and history - Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52eGFtMXlNWWZjcTN1ckQyTUNGT3JZNVdWTE1JdXFwVkpHMTd2T3FNZ19RZFRiZTI0Y1pEd1gzWHd2RFF3Z0JZamdSdzdpYnRtMFM5R0dpbHRvN2NONnl2bDBn?oc=5",
+   "date": "Sat, 21 Nov 2026 13:37:14 GMT",
+   "vu_le": "2026-11-22T00:40:36.684601+00:00"
+  },
+  {
    "sujet": "Pays émergents",
    "titre": "Vanguard Real Estate Index Fund ETF Shares (VNQ) Stock Price, News, Quote & History - Yahoo! Finance Canada",
    "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RMy1RbHU3NWpjd3NMaGhLd3hFZTJWRHFyaVhDMFpwSlpUdm92UTZabHE4T2ZXTnhRWEdUU2Zjam96djlOdXJLbnVJVFN5ZXZX?oc=5",
@@ -6530,27 +6551,6 @@
    "titre": "eBay sellers are chasing Anthropic IPO hype by hawking $1,800 hoodies and $100 tote bags - Yahoo Finance UK",
    "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZUZDU1BmZ1pHeDRBWVVKWmk3Sy1JTWJJNWdmRC04N24xOVJ3WjVpQ3BhcENmVXZkQTEtZWpDd0Q3a29PaDlpZ01aU2VpYkFodGlmREhpM1YzY1p3ZVpDb0FDc2l4T18xYno5blIzZVRfYTNHVTAyZV8tZ3RYQXROSk9pZkdRT2FFYXNr?oc=5",
    "date": "Sat, 21 Nov 2026 10:15:01 GMT",
-   "vu_le": "2026-11-21T12:20:35.602674+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "POINT HEBDO-Shopping, puces et banques centrales - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRTNWam4tME1rOFV1M3pEY1ZuN2UzV3JIR2ZfUUtfUE5WUjRxcWRHRk5ubk9qV3hZWEpFWm5mVExZUFN6eGNLd05MLWUzOXlmeUFMTGV2MWtvdC1reGVUaTlVclNSRDVod2gwRWlHLThBQUZCcU9qVzd6S1E3MHJzR0tWUnJrVEJvUGZZaU4tYlAxOGZ3cVJxVkl0VWhXU1ZJZEo2ei1ZZmZrNVg5WGZEX1B2cU9ZQVZwNC12dy04ZTR4MjNJMDlVRdIByAFBVV95cUxQRTNWam4tME1rOFV1M3pEY1ZuN2UzV3JIR2ZfUUtfUE5WUjRxcWRHRk5ubk9qV3hZWEpFWm5mVExZUFN6eGNLd05MLWUzOXlmeUFMTGV2MWtvdC1reGVUaTlVclNSRDVod2gwRWlHLThBQUZCcU9qVzd6S1E3MHJzR0tWUnJrVEJvUGZZaU4tYlAxOGZ3cVJxVkl0VWhXU1ZJZEo2ei1ZZmZrNVg5WGZEX1B2cU9ZQVZwNC12dy04ZTR4MjNJMDlVRQ?oc=5",
-   "date": "Fri, 20 Nov 2026 13:15:00 GMT",
-   "vu_le": "2026-11-21T12:20:35.602674+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Exclusive | Deal on duty-free Swiss exports to China a boon for Hong Kong, top diplomat says - South China Morning Post",
-   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMmhEajUySGtleC1vUWJuX2JXMl9TRF9wNmlpQmxDNnFSTllUVnVQM1dycTF1dk4wX3R2NFU0VnRvakxkNVU0a3ZoSmtCU1FGRHlNMlhZRzJpV1hDLU1Oc29Sbi1JTEttcEt2RkZScEZ3OFBvY2xyOHhFckJIWjJ1Y2llS284a0dPRllOWXlXWUR3Vk9CODRRUlRFU2ZRYmFXc3QybXFFaG1qVXRfNGRMeHF1UXlCVHNzcEJqZHJmMTl5aWFFdF9kTmJVd25ERkNZTzF30gHTAUFVX3lxTE8yaERqNTJIa2V4LW9RYm5fYlcyX1NEX3A2aWlCbEM2cVJOWVRWdVAzV3JxMXV2TjBfdHY0VTRWdG9qTGQ1VTRrdmhKa0JTUUZEeU0yWFlHMmlXWEMtTU5zb1JuLUlMS21wS3ZGRlJwRnc4UG9jbHI4eEVyQkhaMnVjaWVLbzhrR09GWU5ZeVdZRHdWT0I4NFFSVEVTZlFiYVdzdDJtcUVobWpVdF80ZEx4cXVReUJUc3NwQmpkcmYxOXlpYUV0X2ROYlV3bkRGQ1lPMXc?oc=5",
-   "date": "Sat, 21 Nov 2026 05:08:48 GMT",
-   "vu_le": "2026-11-21T12:20:35.602674+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOFh5M1N3Vnp4MjdFdWZHLU9SRkZjVVY1bzJlaDdQOXA1TnI4azhfeW81TEVaWXBfNUFDQUtJR1VKbGlBczhHUVpoaDhJRDFMTHNJTHlSaEJiTXFuUFJCMmg0bmlNT0poQnNnVThJTUk3Z0xtVHZ4cXlib3NmSGFaYWxPVjZacUlRSGhaT3Ruc0U3VUxNWktWT3U5Vld6VkI4eFlRcUFvaFE4TmktdTFoQldVN2MwYjdLUi1zN3NuS2VqcWVMREVvbmFzdUV1LTJxOXhBaElDSm5UUnJKTjFqcTNMc2RCam9hdjZ4LXZCZ0EzVmxNUnQ3YzRLQUdlblpiVUthbzRfWWNvMXQ1ckE?oc=5",
-   "date": "Sat, 21 Nov 2026 11:44:06 GMT",
    "vu_le": "2026-11-21T12:20:35.602674+00:00"
   }
  ],

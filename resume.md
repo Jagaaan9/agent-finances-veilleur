@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54976.21 EUR, jour 0.16 %, mois -24.13 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54977.76 EUR, jour 0.16 %, mois -24.13 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,9 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Stock market correction? This chief investment officer sees the S&P 500 soaring 45% to 10,000 - Fortune
+- [Banques centrales et taux] Cours de l'or la semaine prochaine : les perspectives de reprise restent fragiles. - Vietnam.vn
+- [Défense, énergie, matières premières] Red Cat Holdings, Inc. (RCAT) stock price, news, quote and history - Yahoo Finance UK
 - [Pays émergents] Vanguard Real Estate Index Fund ETF Shares (VNQ) Stock Price, News, Quote & History - Yahoo! Finance Canada
 - [Défense, énergie, matières premières] Electro Optic Systems Holdings Limited (EOS.AX) Stock Price, News, Quote & History - Yahoo! Finance Canada
 - [Défense, énergie, matières premières] 5 Defence Stocks With Strong FY27 Revenue Guidance and Order Books of Up to ₹2.54 Lakh Crore - Trade Brains
@@ -454,7 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] XRP price at Nov 21, 2026 at 4pm EST Crypto Prediction Market - Robinhood
 - [Crypto] HYPE price on Nov 21, 2026 at 4pm EST Crypto Prediction Market - Robinhood
 - [Anthropic] Anthropic Stock Debut: From $83 IPO to a $97.17 Close - Memeburn
-- [Banques centrales et taux] Wall Street dévisse, mais le "Fed put" reste hors de portée - Zonebourse Suisse
-- [Banques centrales et taux] BCE : Les États-Unis, la Russie et la Chine se rencontrent pour se partager le pouvoir mondial - IDNFinancials
-- [Banques centrales et taux] Une hausse des taux en septembre probablement insuffisante pour contenir l’inflation, estime Cook, de la Fed - Zonebourse Suisse
-- [Intellige
+- [Banques centrales et taux] Wall Street dé
