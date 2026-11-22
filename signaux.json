@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T22:20:35.517841+00:00",
+ "mis_a_jour": "2026-11-22T22:30:37.424243+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,12 +160,12 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09654,
+   "prix": 1.0964099999999999,
    "devise": "USD",
-   "jour_pct": -0.02,
-   "mois_pct": -2.37,
-   "volume": 204134,
-   "volume_relatif": 1.16,
+   "jour_pct": -0.01,
+   "mois_pct": -2.23,
+   "volume": 325,
+   "volume_relatif": 0.0,
    "capitalisation": null,
    "per": null,
    "bourse": "FX",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55470.78,
+   "prix": 55350,
    "devise": "EUR",
-   "jour_pct": 1.06,
-   "mois_pct": -23.45,
-   "volume": 167.6757669,
-   "volume_relatif": 0.69,
+   "jour_pct": 0.84,
+   "mois_pct": -23.62,
+   "volume": 168.01730601,
+   "volume_relatif": 0.7,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "The U.S. Stock Market has dropped 10% over the past week – What’s Next? - The City University of New York",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEFQTkltRFV2UkxFUTFkYWNuLVlsM0RVS1BKaFBTdDA3RkJkM21qX0FMUmJnVkswQ3o0UGZoZzZxem5VTFEwTzRVcnl4X2M3Uy1hRjRsZXpOQUsxMG1WZGNXV1pQekQ1NGtpT1QxT1lpU1hLTUFBeENkLXFqc2drTmRnZUJXUE9SSnkwWEhlREdNZXgyT1JiT0VudXJYcjVlUTdRQmxPY1E0Uy1rdG1GdXVZajhqdw?oc=5",
+   "date": "Sun, 22 Nov 2026 11:03:03 GMT",
+   "vu_le": "2026-11-22T22:30:37.424243+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Can Ocugen (OCGN) Justify A Reasonable Value After Its License Deal? - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa3gtSnpETnNqV0cyRDY0czJrMkJ1TEgxUVdiM0p2dGNnRWQzZkV1NHRxdGtDOE1wUW42WFV1TFRuQnNpRzlReEw0VVk3TmJRODQwckN5YlluRlI1ci1DSG0xb252RGk2anBKRHIwczJHSjhJN2lDRUJvVVpjNUp3ck14SkhSRUdYSjdRbFcxVWJQMVRkbWRmWTNxZVVCU0k3cmZVcGlDcHNfR1lJTFJMMXFydGVFemU2NTBBRk1SbzhfQjlYRlNvQ2VxV1VELVV2RXQ4cXJhZ9IB3AFBVV95cUxOZ3NjaGJSdTA1UjNsZk55S1NhX3p0S1R0RjFSbmtTRlVHTnBScDFfRm94eGJNTzJkZDYzNW1hQW9sLVVFYl81elNuQmZXWkVXOEp2UWVmOFNnU21VU1F2NGVQNmhGYWlQLWtKNDZ5MnV6YW9RT25PVEN2MTllU3lGYUo0LTVFX0JKWFFoR1VqeFVoeUFHQS1WVEUtd2NuTlpESEs2OGZ4RlVOTkxhdTdBSUxCOTVDeUM3VURyMUtwVEw5MmVWeGNWdzFMcGduU3NzLXY4WjB5VjEtWnVG?oc=5",
+   "date": "Sun, 22 Nov 2026 22:07:43 GMT",
+   "vu_le": "2026-11-22T22:30:37.424243+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Defense Stocks Fell After the Midterms. Here’s the 1 Defense Name I’d Buy Anyway -- and Why It Isn’t Lockheed Martin. - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPTlM4STMyTmdOakpwbi16amZYUUFVdVpPMU5rb0Z1NzhqMzZpRzRyZkQ3dUtMZllFdUc2R1RVQ3FFZ1JjVng1eFNKRWRaU3JyZWRBSl9vSGxCUDNha2dudVROWGE4ekRCVHp3WTRxSF9fNDJNRXlwb09HZVB3VmNfM2xaZEFEeks0TFZ0UWhoejlaaDlhajZrWkVjMXNCRDViMnZHem1Ka0VzQmFfSkRoYVV2bVNYUHVlQkRRQWRkMXNTN0JvRTJnejRZS2w5Z19ia21QWV9RbXlzS1ZtNDFOLVphVktQN2R2VHJDaVVzbUlwZC1EM1VYRExuWXpJWlhYYWZJclV2UXlZMVdnYVYtMnY4MHlneGZFdDFnNjlQYw?oc=5",
+   "date": "Sat, 21 Nov 2026 22:45:16 GMT",
+   "vu_le": "2026-11-22T22:30:37.424243+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Archer’s Anduril Drone Begins Full-Scale Flight Tests in 2027. Here’s Why Defense Could Be Worth More Than Air Taxis. - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWnR4YXZyYzFNZ2d2WHg0VFJ3SkRWbXI5ckdhb2NFcnA5TjlIZDhoRkVmUXliSnQ2TGdlTUk2UHlsVnE1OVB0UHRlSjVOLWtiTjh5RFZvanprT21iT2YtZFc5cnd5X3NVTUlKLXZZYldNMjc1ckpUVDU2Ync0b3NJVU1yejdBTnZ2N1hXYzR2VlVmb21XeENPZEF4SldxMkFGbUJtY2J3WFM4NDM1dHgwa2FUdkhidWNSbTlqMGNlT2ZZXzRXQUQ1X0pnMU5FUU1hQ3F5VndzalJrWnphQ3JKLTlZa1VkSnZaSEpESA?oc=5",
+   "date": "Sun, 22 Nov 2026 18:15:01 GMT",
+   "vu_le": "2026-11-22T22:30:37.424243+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "3 UK Consumer Staples Stocks Investors Are Watching As Energy Bills Hit £2,166 - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNUdOTGZvQWpIRXBSOHFCUjlZMVlyUm1YdmozVVJndE5nMy1rU2pzY19zUDBldDkwbXBxQ2I3cC1vMjNOTlZpLVhXcGphTmZlUXRYWWVkM1NXRjlESmc1YmZpN2FyaV9ZZlo4MGxSUmI0Ykp3aHp1SDVsU0N4QW1ITEcxU3dFa3B5MlhIQ0xDYVdnenZsS29FeWV6SU9GNDFXb1UyMDVsRkJEOXY1STdCU0swekV0Ym5UdHRPQnVMOFVlc0x1MldrNTZn0gHPAUFVX3lxTE85ZEMySGxjWGlia0lQbUFqcVBidFd3bDZjWUdMMzk5WFBvak5HcnRiczBrU1lJaXdLZVlUS0l6ZmFoOWVMYVdOT2taNE5PUmlHRC1MajhCbndWRE1HRUJYNkgxaFRsbW85X1IxZF80WmI3Tlo5R0JvLUVERFVhNzJPTmtvQjBpWWdxWE1LTVN6QUt6ejZTSFpVRGZvM2JRSTVDNGt1M0s5a1lzRVVOZkctYW5Hd3hpNXRfTjNRbXpkaUdyblhramxnWm9obzl2Zw?oc=5",
+   "date": "Sun, 22 Nov 2026 17:10:05 GMT",
+   "vu_le": "2026-11-22T22:30:37.424243+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Market Today, Nov. 22: Bitcoin Reclaims $60,000 After $1.8 Billion Liquidation Wipeout. Is the Worst Over? - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQzM3cFhhOUxKMW9Ldm1ZNnB5UmhlSGlTZmZoOV8tTWc3WVpEa2dDcWRmQjNkbllYMElJaHVHeWNpWmlPbTVEVEdseDBTdXpMZ1N3WlN6Q1Rqa1FfRzdwYzcxRzRzNV91M2F4QWZ5Ul9KZm9HYldUb09IZWRfR3Y0VV9fQktmMjhnR1otRS1oRkdZTWVRbVltTXpjT3BNb3JzVGk0ZUhDdG4zRllBSWZQVTdSeWo0eVdMM0UyN19fSnlpTHlUV3l1MWV1LW1fX1gta0lhT1U2ajRqLWVXcnRDOTNCQTRPd2ZmUGpqYlJQT1c0S1lSR3JkNExiMTVET3ZZal80?oc=5",
+   "date": "Sun, 22 Nov 2026 22:20:02 GMT",
+   "vu_le": "2026-11-22T22:30:37.424243+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Asia Braces for More Volatility After US Selloff: Markets Wrap - Bloomberg.com",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNV0hiOFRqRThPRXdydk1VVjFyTGNzUXhXc3VDcWNFeFltM2g4X094QV9WWEdjbjl6UEgxTnFCbTZ3TE83YXo2TkRiaWxXNUd5MjBHaGtWYUVxT1MyU2oxbDRMQ2RWRHIyR2hKUzEtQUFEV05Ic1NvVlI3TjAzRVJrV0piZERnSG80WHhXY0diSGNwR05oLVVzWDVOYW1sRHI1RFFET2VIcFJvdEg1T0Vrc01UTUV5UnRBTnRhOUxMVENtRFBNT3NBR0NEc190WGVRQ2p3TGlBVG1DR0pzamlZRGxWUGNLV2d6ZjBmcTlqT3ZyanY3T1VRNw?oc=5",
    "date": "Sun, 22 Nov 2026 03:30:11 GMT",
    "vu_le": "2026-11-22T09:40:36.492104+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP Ledger Users Fall 60% From 250K to 92K as XRP Rebounds - Bitcoin Foundation",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbjk0UDJ0cGJtVmlJVlFkTFg0S29YUm12Tnlhc1dKQzJKRVcwZ2M2S25wUEY3bWo4aERPbXcyNm01ams0QThnb0hZa0k3WENpM2NidUJKdDlkekZmbkJkZzNPajRNUWRkYjZKcDZTVDdZWUxrNlFiQ3pMOWVhbG1Jc1dGOWZMbFU1T3Q1TE9CUlVXSFVNZlloU19HY01Yc2VIYW9fSA?oc=5",
-   "date": "Sun, 22 Nov 2026 09:37:40 GMT",
-   "vu_le": "2026-11-22T09:40:36.492104+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Is This Cryptocurrency a Potential Millionaire Maker? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmgxTF9zRHdlZl84WHJ2bUpPSzZSYWlpVVQwLWJnUURMa0UxRURScDFWbDhFTm9wQkhaeE9Vdl9ORlVxQXFiMmNTd0FLN0FjZkQ4X3VvQV83RDRjZ2NGQ2NLMDcyX0xCUUdhRjZScGpocmF6eUpjWWhKQTZVdkxDNmNnQmR4VVJaVVE3RDJIcWNUSTJsdnNQOTZ6YjVvWDNabHN0YV9nazFGa2c?oc=5",
-   "date": "Sun, 22 Nov 2026 09:20:02 GMT",
-   "vu_le": "2026-11-22T09:40:36.492104+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Schiff Pitches Solana as a Bitcoin Stand-In. The Data Shows a Costly Trade-Off - finance.biggo.com",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zcmVKOTBDRXhBdTV3dC1ONmRLQkFaZG1zQzZ5X1gyM3JCLWdXTGdkTkZsQnJtU3k3TXgtZUJocVA3SGJkZG16Tmh1SFo2MENRaVhHYnZuZ3dfbENWQW54enNwcjE3SmtvOTUzTjhBQWVqU0pjRUE?oc=5",
-   "date": "Sun, 22 Nov 2026 09:25:00 GMT",
-   "vu_le": "2026-11-22T09:40:36.492104+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONGVSVDRPNWxUVmRJWXFlZ19aSnVWQzloQjQ0T0NkcnpXV3dyOWgzcUdSdS05QXR4SWF2NzlUbUU3b0ZQQ1JGOTQ2dFA5MlhJSUxXLWd1NTVoaThYMWI5UGJMWWR1OThXQVRncXhGRjc0cHJfOGY0aWN2azZGUVdFbk4tN3VZdjhwNF9YQ2tVdVRVQURqTGlzQ1pXd0x6ZXRyQ1ZkU1dBbGY3ZGsySkJCVjBJSkdtSk5nYmRRRGI2TXNyVlNUZUtOYUM4QlhiVHlLVm5KSlVWYnBsVkRnYW9qN1Bkdlc5TnE3UmxrbmN0ZHJ0aVUyS0NHdlFmb1lmdDU5OG1CNUNaeTVUNzZiNVJYeHFoTEdzeHJTd0stMFBRbXh0Zw?oc=5",
-   "date": "Sun, 22 Nov 2026 09:14:02 GMT",
-   "vu_le": "2026-11-22T09:30:35.784385+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Alice Huang just a front? Chinese businessman ran Nvidia chip smuggling network - India Today",
-   "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNlU4ZGFzUmRNUTJFb242c2pQdjJiajFZazE0eFRXdDNUeVFlTE1oOWhMMi01VlpMTzhhZDdTNV9yUnNqb3pTRlM4cmdjd2lSSThkT01IY19lOWRUenhOOVMxcnpoYklxalgtMUVSRm51Sk54WTNrQ1M1bzdfV3B6TXQ3eWJTQk9XZGhvcWhoRUN4ZzlqQmNzUFRDUFlBcFRnd3pjWTJGYWtzQWREZ0R0dERjN2xRUnN3Sng2bFRhYzBjbkNpLW1Wd3ozY0Z4SkNDV2Z5b1AzR2VVUkFpVDR1ZjFZQzlNelRqQlpWWThGN0hDQUZhR0tGU0dhQWZzZFNUakxNSg?oc=5",
-   "date": "Sun, 22 Nov 2026 08:40:11 GMT",
-   "vu_le": "2026-11-22T09:30:35.784385+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "F&O Talk: 25,500 remains crucial support for Nifty, says Sudeep Shah; gives RIL, HDFC Bank strategy - The Economic Times",
-   "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQno3WGxxSkxLeU9kT05mVC1HbVMybFFSMkNvSEgxVFdSQnhjc1pZVG5hcUEzSW1hVVNDLW5lUmtKQ1YtX2FwZXlCUzhfckJMRXh6NUVtZTIzd1VBNV9tMnNSbWJhdHpfMDhFWnhBd2NfMl9TWmFkUGk4X2pKMlRvdGpoV3hvN2xUTkFpT1RQTVp6Z3E2eHpuTWtMVUxvblNmaGh1Vy1pMnliM1VGX3F6dHN5cXBiaVR4NHhvS01SampHangzZ2R0OGVrSFdoTTZrb0x0SW5sNGs4aEJ0Mk5sQ0RzUm9IUEc3UEFmR2tyUTZaUkExTWNoQm90b9IBgAJBVV95cUxOUndrcm9VeGNtR21DSHNVQzNSNk1VQzUxb2JKU2pkQ2xjQ3V3ck0xUUJrbjF1aFY1OXFhWnk5YXpqYU5taklZU3Bic1pOV2VxU0xNT2Fabk9mVkM1NG41YjhNRnlfbk5xQ0JIeGltcjgtWENjcko3OFNBSkdqdHAyNlV1RG5tcWlBNk9EYmphYlFwQzB2WlJ6S05lOEdlbnBUSmVSNmFGOUxrb1k1UWdmWkloTFR6LTZYa3NTSVRkbzFKbDZWRDFDQUV1YzRrQzBJSjBhMUZIcFV2Si1HUEtfN3c4MlpUcjhVQ1A3cTRtM0dfV1B1VFR6WDJGTk81VG83?oc=5",
-   "date": "Sun, 22 Nov 2026 08:31:13 GMT",
-   "vu_le": "2026-11-22T09:30:35.784385+00:00"
   }
  ],
  "erreurs": []

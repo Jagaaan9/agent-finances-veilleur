@@ -12,8 +12,8 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3533.7929 , jour -1.22 %, mois -5.53 %
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55470.78 EUR, jour 1.06 %, mois -23.45 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.0964099999999999 USD, jour -0.01 %, mois -2.23 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55350 EUR, jour 0.84 %, mois -23.62 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,12 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] The U.S. Stock Market has dropped 10% over the past week – What’s Next? - The City University of New York
+- [Petites valeurs en croissance] Can Ocugen (OCGN) Justify A Reasonable Value After Its License Deal? - Simply Wall St
+- [Défense, énergie, matières premières] Defense Stocks Fell After the Midterms. Here’s the 1 Defense Name I’d Buy Anyway -- and Why It Isn’t Lockheed Martin. - The Globe and Mail
+- [Défense, énergie, matières premières] Archer’s Anduril Drone Begins Full-Scale Flight Tests in 2027. Here’s Why Defense Could Be Worth More Than Air Taxis. - The Motley Fool
+- [Défense, énergie, matières premières] 3 UK Consumer Staples Stocks Investors Are Watching As Energy Bills Hit £2,166 - Simply Wall St
+- [Crypto] Crypto Market Today, Nov. 22: Bitcoin Reclaims $60,000 After $1.8 Billion Liquidation Wipeout. Is the Worst Over? - The Motley Fool
 - [Marchés mondiaux] Asia Braces for More Volatility After US Selloff: Markets Wrap - Bloomberg.com
 - [Banques centrales et taux] Indice Crypto Fear and Greed tombe à 7 : Bitcoin, Ethereum et XRP peuvent-ils rebondir ? - TradingView
 - [Banques centrales et taux] Les analystes préviennent que les prix de l'or vont encore baisser. - Vietnam.vn
@@ -457,11 +463,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Pays émergents] As Wall Street struggles, is India emerging as a new investment destination? - The American Bazaar
 - [Défense, énergie, matières premières] MDA Space Ltd. (MDA.TO) stock price, news, quote and history - Yahoo Finance Australia
 - [Crypto] Bitcoin Price Predictions Favor $50K as Market Fear Deepens - Cryptonews.net
-- [Crypto] Elon Musk’s Grok AI Predicts Best and Worst Crypto in 2027: Who Are They? - Yahoo Finance
-- [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - Cherokee Tribune
-- [Intelligence artificielle] Is Nvidia a Buy at $125? Here's My Honest Take - The Globe and Mail
-- [Marchés mondiaux] As Stock Selloff and “Haven Trade” Took Over the Treasury Market this Week, Fundamentals Went Out the Window (Briefly) - Wolf Street
-- [Chine et Asie] Tencent touts independent safety assessment of latest AI model Hy4 - South China Morning Post
-- [Chine et Asie] China's Shenzhen Stock Exchange Seeks Public Comment on ChiNext Market-Making Rules, Completing Market-Making Framework Across All Three A-Share Growth Boards - BigGo Finance
-- [Chine et Asie] Jim Cramer Will “Thank the Shortseller for a Discount” on AMD. Is the China Risk Overblown? - Yahoo Finance
-- [Anthropic] Anthropic: IPO 
+- [Crypto] Elon Musk’s Grok AI Predicts Best and Worst 
