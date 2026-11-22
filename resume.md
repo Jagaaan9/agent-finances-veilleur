@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55319.18 EUR, jour 0.79 %, mois -23.66 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55332.62 EUR, jour 0.81 %, mois -23.64 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,14 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance
+- [Anthropic (FR)] Les organisations à but non lucratif renforcent leurs capacités en prévision de dons potentiels après l’introduction en bourse d’Anthropic - Unite.AI
+- [Anthropic (FR)] Anthropic fait ses débuts en bourse avec 107,3 milliards et frôle 1,5 billion de valorisation - Foro3D
+- [Anthropic (FR)] Anthropic prépare son entrée en bourse tandis que l'Europe cherche à retenir les talents de l'IA - Foro3D
+- [Banques centrales et taux] Barclays signale un risque en fin d'année pour les actions, le soutien de la Fed étant remis en question - IndexBox
+- [Crypto] Russia permits exchange crypto trading from November 22 as digital ruble expands in 2027 - Yahoo Finance
+- [Crypto] Summary: This Week in Crypto W3 Nov 26’ - Santiment
+- [Crypto] XRP vs Solana: Where Could $5,000 Grow More by 2030? - 24/7 Wall St.
 - [Anthropic] Record Anthropic IPO set to trigger global cash crunch - Financial Newswire
 - [Rachats et fusions] Western Union’s $500M acquisition falls through - The Business Journals
 - [Crypto] What Warren Buffett Has Said About Bitcoin and Whether He Was Right - Yahoo Finance
@@ -452,13 +460,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] Intuit Inc. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions - Simply Wall St
 - [Pays émergents] "We are very excited about championship": Jhandu Kumar, Ashok eye medals at World Para Powerlifting Championships 2026 - www.malaysiasun.com
 - [Crypto] ETH price on Nov 22, 2026 at 10am EST Crypto Prediction Market - Robinhood
-- [Intelligence artificielle] John Kennedy: If Howard Lutnick is giving AI chips away to China, ‘he needs to stop’ - NBC News
-- [Intelligence artificielle] Nvidia chip smuggling web exposed - Israel Hayom
-- [Anthropic] Blaming Anthropic's IPO for Bitcoin's Slide Is 'Easy to Believe,' but Flawed, Analysts Say - Moomoo
-- [Chine et Asie] Is China Mobile (SEHK:941) Still Undervalued Following Mixed Share Price Moves? - Yahoo Finance
-- [Rachats et fusions] Mergers and Acquisitions Cyprus: 2026 Guide to Approvals, Steps and Timing - Global Advisory Experts
-- [Pays émergents] New Zealand vs India | Prediction Markets - Coinbase
-- [Anthropic] Anthropic IPO Pricing: $83 vs $97.17 Close, Bankers Call - shattered.io
-- [Anthropic (FR)] Les Américains, terrifiés par le risque d'une grande panne liée à l'IA, stockent de quoi survivre - Les Echos
-- [Anthropic (FR)] Les fortunes de l'IPO d'Anthropic face aux débats sur l'impôt sur la fortune - Actualités et statistiques - IndexBox
-- [Marchés mondiaux] Correctio
+- [Intelligence artificielle] John Kennedy: If Howard Lutnick is giving AI chips away

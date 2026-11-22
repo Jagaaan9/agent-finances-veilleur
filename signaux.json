@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T19:40:36.733021+00:00",
+ "mis_a_jour": "2026-11-22T19:50:37.053480+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55319.18,
+   "prix": 55332.62,
    "devise": "EUR",
-   "jour_pct": 0.79,
-   "mois_pct": -23.66,
-   "volume": 147.13153136,
-   "volume_relatif": 0.61,
+   "jour_pct": 0.81,
+   "mois_pct": -23.64,
+   "volume": 148.78809422,
+   "volume_relatif": 0.62,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3755,6 +3755,62 @@
  "actualites": [
   {
    "sujet": "Anthropic",
+   "titre": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjc4cHQ0TnRGd25uNTM5MUw5Zk5WUUdIV09nY3ltNDNBR2pvemJNRl9TOTZnR2lNay1CdTl1RHhPZEhtVmdTWE1qdS1SZVVmWURldUhJTTgxTktCX0xsMTdPNGpKS0JkYV9fUXpaY0NqLWlBa0tlVElTSmpnV1NzVGZ3Z0RSWW9XTFkwVm9YdW5WOWNRQU92MzUyekxmNjZWUnkyZ1VNdl9FMy13eTN5SFhIVG14TG5DZHZyYVR2VUxwOHkzeWRz?oc=5",
+   "date": "Sun, 22 Nov 2026 19:00:51 GMT",
+   "vu_le": "2026-11-22T19:50:37.053480+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Les organisations à but non lucratif renforcent leurs capacités en prévision de dons potentiels après l’introduction en bourse d’Anthropic - Unite.AI",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRks2SjlVZ25tR3Vxd01PaEV6anUzRzRiWm51UW5lOVJIWVFZd1hweEp1VkZWWEpMOGMzeXpfWlFQeVplVjVHYjFiVk5XdzZlcGxJRGxIeWhuaFpsZDdhaW9oX3dJU01VdUtiMTE3S0FpbEtiS2tOWDFBX0lyMmFpY0hfTlVEeVB4bkMzd3MzWnFHcXk1WW5N?oc=5",
+   "date": "Sun, 22 Nov 2026 19:25:02 GMT",
+   "vu_le": "2026-11-22T19:50:37.053480+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic fait ses débuts en bourse avec 107,3 milliards et frôle 1,5 billion de valorisation - Foro3D",
+   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1FmN183WXRVazhvbi1OS210VnQxSWRNYzVRbXJyWVNYcmNXeDZpTjMzbzhtalhsWTQ5UXE1RVFVNHFhTHR3ZnY0LTZTcFRmVXNrdnkzdzREU0RPbk1qV29UZkVoVUNJN1JMYUt5ZnRDUkpkaGVuQXpRSHZJX3JmUE01MF8waWw4OUo4cFlzNVd0b3hsdkJGVl9zaWRVOGRZcGMtUDVvOHhMbXhFc3FsYQ?oc=5",
+   "date": "Sun, 22 Nov 2026 05:22:10 GMT",
+   "vu_le": "2026-11-22T19:50:37.053480+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic prépare son entrée en bourse tandis que l'Europe cherche à retenir les talents de l'IA - Foro3D",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUZrRDhuaWpCM2k5NzJaOFpPdmxvb0VhQ1RyUVp4S0hBXy1qR09zelVQMnQ2Q3dfSS05R1lyQVVZMlhYU09zRXdmTzVkS0lQVlE0aFdQdzk0ZDdCcEtoSFdHS0QzWU1uR2JuZEJLVXJrQkU5VTVJTDBxa0JvVmlNX3JZODNvSDlsZ3BLRzBVN3g4ZnkyUjc4SDFTdHJxX0RiWjRwaVQ4eVFrOHRKRzBPWi1n?oc=5",
+   "date": "Sun, 22 Nov 2026 00:45:13 GMT",
+   "vu_le": "2026-11-22T19:50:37.053480+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Barclays signale un risque en fin d'année pour les actions, le soutien de la Fed étant remis en question - IndexBox",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWGRGTU1RLXlQR0JtX0M3N0xIcmFwc2VvMGFvSVdJT05BWThBUGdzSWdlbGpLRG5tUTU0UEtQZDVfUnNPQUc3QVoyUXdaaEZ5T0ljOXNFcnlmeXdCSkowNTBqTDIzTWRQeFBjU0NXUVJNU1lGLVVCaDIyakRFc0dETWl5M2NTZUNIeGRtUDIxSlhCTzFRRldLNUdJc3FyT1k1LVllYmxFXzdoZ3NtcUE?oc=5",
+   "date": "Sun, 22 Nov 2026 18:40:32 GMT",
+   "vu_le": "2026-11-22T19:50:37.053480+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Russia permits exchange crypto trading from November 22 as digital ruble expands in 2027 - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVWlMbEZuX1h3cW1ZSjlCRWVOeF9IdDdPUzRjb3JEUGR1akVLYXE0czhDa2Izc3NYTFNobG04c2gwM1JKai1vTXVFa3poY2VLT01jWmU0eE5VZ2diMWE0YkltSVE4OE9TU0ctelM2T0dzSkNielNKZkhRdGNNNE9HcGkxN2thcWR5VFJVYXpkZDJDa2VtazZQUDJocl9OQVRTOWYxVmlB?oc=5",
+   "date": "Sun, 22 Nov 2026 19:36:24 GMT",
+   "vu_le": "2026-11-22T19:50:37.053480+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Summary: This Week in Crypto W3 Nov 26’ - Santiment",
+   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmV2S0FEODh4Mm9nN04xM1hrVEt3b1d4LVhfVFppOVc3VE12RmV6eDVQVHVNcnQ4NFBrNnZaakoyYWRBLWhBMlM5MlFic19XenhBelVuQkoyQ0xwbjFmcDgtcTdzQ29oa0lQUDRIdG1WaUlYRzM0Z2RvTDFPMTZ1QVVxcklVc2hXUDI0?oc=5",
+   "date": "Sun, 22 Nov 2026 19:43:20 GMT",
+   "vu_le": "2026-11-22T19:50:37.053480+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP vs Solana: Where Could $5,000 Grow More by 2030? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZENuQ3E1a19mQTJYRE9lU0RkNER6QnNKaUhkNWM5OHUzQThsQkxsLWlLbklfaGJpOFNkMU9Nam9IUkNKSnpfaEgwODZVMS0zbXpaU0dpZW5qNkFpdk5DQ0J0MHhLb1lLVGtNMmxBSnVFSktORlhMWVpFTzB4TnMwQVRWazdrYzY2aW1nV2N4NGRmXzBoWmVlT09ZVnBOVmJMSzNyX1AyczRpU3M?oc=5",
+   "date": "Sun, 22 Nov 2026 18:46:00 GMT",
+   "vu_le": "2026-11-22T19:50:37.053480+00:00"
+  },
+  {
+   "sujet": "Anthropic",
    "titre": "Record Anthropic IPO set to trigger global cash crunch - Financial Newswire",
    "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMG1qYnNxV1pXcjJyMGZxdTNXVEpUaVNCNEt5QlJfX1hmbC1EOFJzY1NGTmRXWkpYTkNKQUhhQmMyZU5MZDdyZ2twNjN2Y3ZCN0lWemFMN2x4RXZiek5obGRZelBaQlZuejY2M1BzeTlEYndGSVVCeVRFVzJicHphbVpSZGt6VE1xUlhFZ0dETWNhLWFKN1FHcElCRkFmQ2dj?oc=5",
    "date": "Sun, 22 Nov 2026 19:30:19 GMT",
@@ -6496,62 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQVFhOTQ5MmNDSDRGakRZbjdUQXd4eHY4QlktdkNRUkUteEVodHd1ekw5UVRMRnYwR05Ud1V3REZ2bUFIWmNydmhsbk81QXdpdGM4TnFtcEhqVU1iNXlOV2RIN0NyYmlVN0FDRE50Q19MUy16Wk1fajByUzN1UW5wSnVvcGZqSmhBTXRDdEZXZVF5OTdVd0poUkVtWkphbzJ0RkVqWERncmhyMS1vbHdB?oc=5",
    "date": "Sun, 22 Nov 2026 03:14:26 GMT",
    "vu_le": "2026-11-22T08:00:35.385502+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "How the Anthropic IPO could affect Amazon, Google, Nvidia and AI stocks - www.equiti.com",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3VEREZZcnNIU0FLaDhXR1ZZRUI3SnZ0V1NBbUR6dXpPWXlYaWtZeTZJY01tQVh3TjUzYWhWeUwzQkFwckEwMmFnR2JmbHVqSWdmT2JoN1d2cmxyMVNOa1NjUVd0VDROVnlfNW5TVDNSWnA5SThIYzlQR2ltU0hyRTZiblZtTjdtbmw1c3NRVUNVcTdsRlNZMW16TjJxYWx2Y3c?oc=5",
-   "date": "Sun, 22 Nov 2026 03:41:04 GMT",
-   "vu_le": "2026-11-22T07:50:36.085985+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Meta Stock Slides Ahead of Q2 Earnings as AI Spending, Ad Growth Stay in Focus - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWmxyODh4WnJjRWVjcWR5d3ZpdG94aVlEN0duUzZ0NHZMYzVXa2tfS1VNNEVyYlJkQXRfV1o5c3JyQk55MTlzY2VIb3haay0ydmZOeEtGUzhKTWpPY2xmcVQ3SGhhNE1DdElEZkNRQ3JnMG5pVFdZX0wzSzBQQkhCTFBpcGtjT0FOT1hjVk1aNU5BZTJrMUtjMzNzZDRBVWd1enpjVENWMXdzNFlYMjB6WXNqbkpKUTVlUzhnM2hYc2U4ZEoz?oc=5",
-   "date": "Sat, 21 Nov 2026 16:10:25 GMT",
-   "vu_le": "2026-11-22T07:50:36.085985+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "From Currency Crash to Comeback: IMF Explains What Is Really Driving Brazil's Economic Swings - Devdiscourse",
-   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWWhyYnI1MjlOVGxmeWVvT3BHd25yclVScTJ0RXpCOXF4bF9fWUpZTE84ODBIMG8teEkyZ0hnWENlQnowTkFTRzlvMGd0d2paQ3ZhY09ZclAzd3l6Tk0ySFNkQ0d3T2xuQXprX1g5NkwzSjhLLXRhSVo0aWJYRUJFWGV6VWlVeUVkbm1SdkFJd0NLMkZUbnYwNndUZHVmSVh2SS1tdE1wSmFNLUR6MHNmLXdzb0U4amZYT2ZLREZxVlBnR3FWV1BNc2FMUnFZblgzNFJSb2V5Y1dkQdIB3wFBVV95cUxPSkwtZ0lDNVlMTld2RlgxSldjR0pYdHF4ZEJUWXRsQ2Q3TmdaZUFJakNCM2JnM0NWNDZCSHFnSmZya251c2xaUjlkSVVDY0hrWUlMalAxOVREeVRCNkZmaVktM3RhSU1iY3JQa05fRVlfR256TGhHSjNYUTExUlQ3WDBFRU1KQUZSTzdnNl9IT2YxM1VzYXpUWS01WHpfR243V3NGenNUdExYdUNmMF9tdDNPUXNmTnNPcGhPeWs1NWl6ZkFfZXJCSFBuTVlJeW02bnd1d0dNX3FiNDdicVhR?oc=5",
-   "date": "Sun, 22 Nov 2026 04:18:06 GMT",
-   "vu_le": "2026-11-22T07:50:36.085985+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Broader markets underperform; Kaynes Tech, Inox Wind, CreditAccess, KEC International down 10-15% - Moneycontrol.com",
-   "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxON3BuVnFVZDA0WGwwX2lCTDlmQWFXdzVyU1dBbkQ4b1FlbjlUam1kaGw1dzNieE5QQlZ0a1pnNFpHR09uYTRsMV9XbVFTQzhxODVNWWdkZ1ZrdUFWUU1PWlVzdFN5MEQzTkFMUnJUVmZhS09sYVA0Mk55MVZ1c0VlLTJPb19Rdy1KYmFwWHg0akM1b1RXMnFOTXc1WGloa21HMHRjTFZnSjQ3T0VlMWw1eGRfU1VJVmgwLWo3YTFFcTBEeHZVZlA4bjVvRkdlcTNvcEI4aG8tQTdEUXNibXdqM1BxNVFIdXdOTTJzYnVNc212Z9IB8gFBVV95cUxON3BuVnFVZDA0WGwwX2lCTDlmQWFXdzVyU1dBbkQ4b1FlbjlUam1kaGw1dzNieE5QQlZ0a1pnNFpHR09uYTRsMV9XbVFTQzhxODVNWWdkZ1ZrdUFWUU1PWlVzdFN5MEQzTkFMUnJUVmZhS09sYVA0Mk55MVZ1c0VlLTJPb19Rdy1KYmFwWHg0akM1b1RXMnFOTXc1WGloa21HMHRjTFZnSjQ3T0VlMWw1eGRfU1VJVmgwLWo3YTFFcTBEeHZVZlA4bjVvRkdlcTNvcEI4aG8tQTdEUXNibXdqM1BxNVFIdXdOTTJzYnVNc212Zw?oc=5",
-   "date": "Sun, 22 Nov 2026 05:03:54 GMT",
-   "vu_le": "2026-11-22T07:50:36.085985+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Airbnb looks beyond traditional holiday hubs to deepen presence in India - Business Standard",
-   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLTB5d0x6T2tvRDIzbWpodklJNUpMV0t3U2hfZE04bHQ3NUtLa3JWbV9qNXR2SGQ4YXNON0ZRUkMyX3ByY0hfeU5aLWZyVEJxYWFGWDByaVMtSG00RmwyUU9ZMkxaeEM4cXI0eHAwVTVkNFVra0MyWENUR09rNVhMU0FhQkQ4dkJBVGEwRTU1LVZ2MEdNRFNNdWlwQ0VrWFdsR25mZ3JJM3JkWGR0dEQ0WVgzaEFCSnpfano3OXFiRHZBdzdLRUJpLW5yRGFvOW81U243eVRHN3FRbEVGQ2fSAd4BQVVfeXFMUC0weXdMek9rb0QyM21qaHZJSTVKTFdLd1NoX2RNOGx0NzVLS2tyVm1fajV0dkhkOGFzTjdGUVJDMl9wcmNIX3lOWi1mclRCcWFhRlgwcmlTLUhtNEZsMlFPWTJMWnhDOHFyNHhwMFU1ZDRVa2tDMlhDVEdPazVYTFNBYUJEOHZCQVRhMEU1NS1WdjBHTURTTXVpcENFa1hXbEduZmdySTNyZFhkdHRENFlYM2hBQkp6X2p6NzlxYkR2QXc3S0VCaS1uckRhbzlvNVNuN3lURzdxUWxFRkNn?oc=5",
-   "date": "Sun, 22 Nov 2026 06:15:30 GMT",
-   "vu_le": "2026-11-22T07:50:36.085985+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "5 Midcap Stocks with Robust Revenue Growth in Q2FY27 - Equitymaster",
-   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80aEZVaHpFN1VhdDRtWktESlNpdUYwdkhJQ2xrZllRTUpSRzdENUhzZ1J2ZS1RaVdnNjM2Si1hQUJ6OW90S0dZRGZ3UjE1d0dHS2N5cnR2STZva05JSXpDbGRwRmN3WFBqcVNfUFVDR2c?oc=5",
-   "date": "Sat, 21 Nov 2026 11:07:34 GMT",
-   "vu_le": "2026-11-22T07:50:36.085985+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "India Minicorn Tracker: Mapping The Next Wave Of High-Growth Startups - Inc42",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOVlVQ0F1MTdvdllDQkt0ODZvc0NpYllsTzdZZFBUbWtESExWNGRRWjU4Vk5yOXRpV1lxNEpGTmZZdHVkTWtVcFNsQmt1ZlRtczBVNFh1N083OWFvOVZnS04wN0tfSG82QklDSGtYSG95Nm9UanJuVGgxM3ZhLW5zVkZza0ZXRG1EWGNIbDV4ZXcxSjNfWnRPaVZ1ekU?oc=5",
-   "date": "Sat, 21 Nov 2026 19:03:19 GMT",
-   "vu_le": "2026-11-22T07:50:36.085985+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Nvidia Reports After the Bell Today — Five Things That Will Move NVDA After the Close - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZkVmQ2FKc01fYmN0bXZ0M1J0eFM1STRQTzlsREJ4VXI3UzVOMm5DbVczRkp1WUJhWHBCS2M4dFNnSk1BVjgyUWsyZnAweV9xbFd5NTZ2LU1JamJKR0RzeTZQbTY2UjRqaW0wMkJTVE9rT2VwX25hR3N6N1VBNjFDNnFGT1NLdEpLb0xYeEhwNUpuUWNDcnk2Qkttckw0SEhDem5xamt4QTd6OHUtN2Q2WEFMMzVDbExIaVVKcGd1V1RoQUFwVFR4MEhnMnItd0pJS0RRY21sRWRkWEluX0luNlhnejJVNnZheTlvV0lnY0hXZ0tCSE1OZA?oc=5",
-   "date": "Sat, 21 Nov 2026 18:29:19 GMT",
-   "vu_le": "2026-11-22T07:40:38.329112+00:00"
   }
  ],
  "erreurs": []
