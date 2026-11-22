@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T16:30:36.231157+00:00",
+ "mis_a_jour": "2026-11-22T16:40:35.651264+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55830.43,
+   "prix": 55893.81,
    "devise": "EUR",
-   "jour_pct": 1.72,
-   "mois_pct": -22.96,
-   "volume": 121.36309193,
-   "volume_relatif": 0.5,
+   "jour_pct": 1.83,
+   "mois_pct": -22.87,
+   "volume": 122.75405471,
+   "volume_relatif": 0.51,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "As Stock Selloff and “Haven Trade” Took Over the Treasury Market this Week, Fundamentals Went Out the Window (Briefly) - Wolf Street",
+   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUFJSdng1YXJMcF9TRGIybGtFcW5raHlWUTBnbFk3QXVWMXJaT2xVSnlYNUFJUDBHMXJjalZERHc2ZzRZSGlKMkNZTFBaZkkwUHREUVNPSFdjMDhYX0hrREV4dFFENlhLdm9TY2trdm0xejJTdmtNVEdqd1VlQVFoMWZlRFVDZzN4ZG5TOWJYUm5OZkxSWjhwWjVScl94U05WYzVPSHMzdEJ1MlVPUWZHRTZTTzJCc2QxUnFyNXJKNFREQUNndDhPeXRsbkV1SjE3VzNPOGI2YlJiX3lXaERhZ0tR?oc=5",
+   "date": "Sun, 22 Nov 2026 04:37:09 GMT",
+   "vu_le": "2026-11-22T16:40:35.651264+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Tencent touts independent safety assessment of latest AI model Hy4 - South China Morning Post",
+   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcGdlQnZWNkZZckJZYVhibmVILUViMWs4QzNaOGxfS3NtajhLaS1UQk5PRFQ1R3Ztd2JkVDhMZGZjR21EckkyRHJGcHlFaDRGRXJDRDAwT2gzeVBmcERmRFd1dnhySFJWXzZ5ZHdsMUFwc2pRWlQxR1kwQm1EbndNNU5saHF2QnNuSkNfb0QzT05TRFBLU2pSN3k0SzladmxGLWYyMlctTkZjWjdGSndBOWZ0dkJsV1lzMzNxOGM1eERhMkh0cDhUUWVn0gHKAUFVX3lxTFBwZ2VCdlY2RllyQllhWGJuZUgtRWIxazhDM1o4bF9Lc21qOEtpLVRCTk9EVDVHdm13YmRUOExkZmNHbURySTJEckZweUVoNEZFckNEMDBPaDN5UGZwRGZEV3V2eHJIUlZfNnlkd2wxQXBzalFaVDFHWTBCbURud001TmxocXZCc25KQ19vRDNPTlNEUEtTalI3eTRLOVp2bEYtZjIyVy1ORmNaN0ZKd0E5ZnR2QmxXWXMzM3E4YzV4RGEySHRwOFRRZWc?oc=5",
+   "date": "Sun, 22 Nov 2026 13:30:07 GMT",
+   "vu_le": "2026-11-22T16:40:35.651264+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China's Shenzhen Stock Exchange Seeks Public Comment on ChiNext Market-Making Rules, Completing Market-Making Framework Across All Three A-Share Growth Boards - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QZGFCcnQtMldSaGpOV0FmZ0tObVl6aFNTaEFSQmQ4bDBaSVRLbkE3TnNYVHhnV1phanpDbmt3cjdpYVdiSVZVajNhMW91Tk5ESXplajBnaWJSUXFRTmNZNlpMZVViWnE2U2ljRGVnWWJXdE8wN0E?oc=5",
+   "date": "Sun, 22 Nov 2026 11:55:00 GMT",
+   "vu_le": "2026-11-22T16:40:35.651264+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Jim Cramer Will “Thank the Shortseller for a Discount” on AMD. Is the China Risk Overblown? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVExhRTlKY2J6Mjg0VFpJcGZYdWJPaTNsbm9UdzgxVjFoajctOGs4dDhwZFlsNExCYmsteGIyUVk2NjZ3NVp3NkNpanhvQkZScW9mT0U4N2pwRVFNY2E4LXdQNFlGclFES0FLbm81cWFFNVYwSV9HVUE4S0VOQWxJZEk2Mnhya0RSd0FHX0R5Q1p0X3IyWHYwaTlRdS1rVlhSd0EtZg?oc=5",
+   "date": "Sun, 22 Nov 2026 11:51:55 GMT",
+   "vu_le": "2026-11-22T16:40:35.651264+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic: IPO History Says Sell Down To $52. Why I Disagree. (NASDAQ:ANT) - Seeking Alpha",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3JRN2RSaDU5NDhncjhkUjBUaURGbk9XMXdPajNYcjQ4WThUNUlvMEplYS1WaWJXNnBrUkp0OXh6cVczdF80QTNzRVhoTXM5bm5rU0tOZWRHUldBTm5pc1RSa2U3V2g5SUhFZ3hpU1FWXzJyWWh6cWkzd1llTjBvTVM0OWNnOHI4ZWwyUlQ4Zlhzdk9idU9ITA?oc=5",
    "date": "Sat, 21 Nov 2026 14:12:22 GMT",
    "vu_le": "2026-11-22T04:40:35.749375+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Nifty 50 Gains 3,000 Points as Global AI Shares Decline - Multibagg AI",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbDFubndvbk5qcEFDNXY5dkVGU2pTd3FKb2QxN0NPZGk5WXNWZTlWYXJGSU45bTA4N2w5d05vOWlSQzdrN3ljaXA0Z3NHT3MwWTZjVTJzM2lIajdYX3BIMGVORVdhYnF3eF9pV3pfdmE3Tk5MNVVTSXRLMm9tNXhBbGwwMDFHd0ZUU1pCRk5uczZVRFdDVllqNQ?oc=5",
-   "date": "Sat, 21 Nov 2026 07:01:34 GMT",
-   "vu_le": "2026-11-22T04:40:35.749375+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Foreign institutional investors buy ₹1.12 lakh crore in November - Multibagg AI",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMm4yZkZjcVdWZEY1b2NER3R3TTFBdTZGd1pTNmU3eE5ZTUp4WUNkOG8zV2RTNkFFaE9CWG1tZGJIVWptSk5xR0xaekVONUZtZGRFTHdOZ1I0Q3ZBUnpkZ01NdGFBSTZ3QmxDeGlLMFlHYXRmX1FqWTlkZmFFTUI2Ulh0TUZ1X1hncmlVTVE5UEtQYjRKMUdIcE1TeEpSSEVpdk1NMllkTDFjRFhCNWc?oc=5",
-   "date": "Sat, 21 Nov 2026 07:00:45 GMT",
-   "vu_le": "2026-11-22T04:40:35.749375+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Acquiring Swedish Transport Operators: 2026 Guide - Global Advisory Experts",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWndOOFhHdlh4dmRmU3JyOWhqV2Q4QmJReDZ0cUFHZFpoYlY1UldJQTVIM25zWEpKVDFpdkg2M3REUVRySzNHUkZDbEptUzFNUGpjTkh2b3RhemdzT2FwRkJIbk5BQXh6S29DVFRHRWZsSXJTMTZ2cHpvLVpYcUlRcU1lZTF2ZlF6S3NrTk1zOFM?oc=5",
-   "date": "Sun, 22 Nov 2026 03:47:33 GMT",
-   "vu_le": "2026-11-22T04:30:34.960967+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Tecogen director Earl Lewis buys $19,556 in company stock By Investing.com - Investing.com India",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFBETDktV0JWVDVTNkpmTF9aZTV2eEFlRHo0bHRCWThfOWdVRnRrOHhYVFM0eTZ0TlRoLUEyam4ta3ZvMi1QbjVkaDJsLWNsSmlab3ZvSVJYby1yaGV3c2xXOFVGcnpsN3pMZnN3OTdqV2ZCWEFYdmcwN2hlZW1xUVZpMlg3VmNrSlJHOExITmx1N24zWE00M3hRaTZTSEhjS19tX1E3bEljcW5lb1d6VllHeTVIWUk?oc=5",
-   "date": "Sat, 21 Nov 2026 21:33:53 GMT",
-   "vu_le": "2026-11-22T04:30:34.960967+00:00"
   }
  ],
  "erreurs": []
