@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T16:00:36.691504+00:00",
+ "mis_a_jour": "2026-11-22T16:10:35.984415+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55521.25,
+   "prix": 55649.81,
    "devise": "EUR",
-   "jour_pct": 1.15,
-   "mois_pct": -23.38,
-   "volume": 112.0868466,
-   "volume_relatif": 0.46,
+   "jour_pct": 1.39,
+   "mois_pct": -23.2,
+   "volume": 115.28584049,
+   "volume_relatif": 0.48,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia's AI Demand, Alibaba's Chip Pressure and More: This Week in Tech - Benzinga",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVTNQbFo0Tk8xMnIyOEhXU05iMlE1aVRQR3l1X3h3cTg4bkI0SmY1MWVmX2NZUFVESVNzRWI5R1R2ak5ObDJJbVd3ZExabkRFcVkxcGRRS0VxMXZYdDFzQjBiOTJVY2tFOVBDUDFpeTRPZkVpTV9kTEYxTTAzb1FpSVk4VVpiVkdoTlp0eU41bVNMcmY2VVg5UmJvQUFrMjZhTW00RmdZaDZpR0VY?oc=5",
+   "date": "Sun, 22 Nov 2026 13:49:56 GMT",
+   "vu_le": "2026-11-22T16:10:35.984415+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Ondas Inc. (ONDS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zendhMThzTUVoSlNIQlgzcUxjQ0hhUVZ0eDJpRFVZNXNjVng0UXhtRk1zQ1phcVM5TmY5SEdqd1BFSzZWc1N2R2JWb2EtTWNFNlE?oc=5",
+   "date": "Sun, 22 Nov 2026 11:48:54 GMT",
+   "vu_le": "2026-11-22T16:10:35.984415+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "S. Korea Rolls Out Phased Measures to Stabilize Volatile Markets - Bloomberg.com",
@@ -6537,20 +6551,6 @@
    "titre": "HawkEye 360, Inc. (HAWK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
    "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uZ0o5Z2RqOF9Xa3h3bk5kNlN4S3VHZ21uY2xFZjNkZFFobTZvZFBOMndFTVhtNTJiRTlDZVFMR1hRZXd0RU9WamlxOThpa0p4UEE?oc=5",
    "date": "Sat, 21 Nov 2026 13:35:47 GMT",
-   "vu_le": "2026-11-22T03:50:34.815576+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "MDA Space Ltd. (MDA.TO) stock price, news, quote and history - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54ZWw4dG9QZGNFUWtkd1ZERnE4QVpjUTdYWXB4UUg5UVE2QkNodUhsX3FVekJHZ1htQ2daU2dIZVJIVlBfX3VGTlNTUVl6a190eFVUUg?oc=5",
-   "date": "Sat, 21 Nov 2026 15:47:09 GMT",
-   "vu_le": "2026-11-22T03:50:34.815576+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Electro Optic Systems Holdings Limited (EOS.AX) latest stock news and headlines - Yahoo Finance Australia",
-   "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93NzQwRldFZG9rRi1UVlRPNm5YU3NHQ2FHYV9JMFc3TzZVZVRFalRqbGRaX2JDVUI0RjBsMGpWMTBrNzBVUkxkTFZMdUpWSWhNY1pvZ1NRcTZTSUE?oc=5",
-   "date": "Sat, 21 Nov 2026 18:03:00 GMT",
    "vu_le": "2026-11-22T03:50:34.815576+00:00"
   }
  ],
