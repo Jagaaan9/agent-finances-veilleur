@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T09:20:35.199837+00:00",
+ "mis_a_jour": "2026-11-22T09:30:35.784385+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54752.33,
+   "prix": 54674.72,
    "devise": "EUR",
-   "jour_pct": -0.25,
-   "mois_pct": -24.44,
-   "volume": 41.01288289,
-   "volume_relatif": 0.17,
+   "jour_pct": -0.39,
+   "mois_pct": -24.55,
+   "volume": 42.75326981,
+   "volume_relatif": 0.18,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONGVSVDRPNWxUVmRJWXFlZ19aSnVWQzloQjQ0T0NkcnpXV3dyOWgzcUdSdS05QXR4SWF2NzlUbUU3b0ZQQ1JGOTQ2dFA5MlhJSUxXLWd1NTVoaThYMWI5UGJMWWR1OThXQVRncXhGRjc0cHJfOGY0aWN2azZGUVdFbk4tN3VZdjhwNF9YQ2tVdVRVQURqTGlzQ1pXd0x6ZXRyQ1ZkU1dBbGY3ZGsySkJCVjBJSkdtSk5nYmRRRGI2TXNyVlNUZUtOYUM4QlhiVHlLVm5KSlVWYnBsVkRnYW9qN1Bkdlc5TnE3UmxrbmN0ZHJ0aVUyS0NHdlFmb1lmdDU5OG1CNUNaeTVUNzZiNVJYeHFoTEdzeHJTd0stMFBRbXh0Zw?oc=5",
+   "date": "Sun, 22 Nov 2026 09:14:02 GMT",
+   "vu_le": "2026-11-22T09:30:35.784385+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Alice Huang just a front? Chinese businessman ran Nvidia chip smuggling network - India Today",
+   "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNlU4ZGFzUmRNUTJFb242c2pQdjJiajFZazE0eFRXdDNUeVFlTE1oOWhMMi01VlpMTzhhZDdTNV9yUnNqb3pTRlM4cmdjd2lSSThkT01IY19lOWRUenhOOVMxcnpoYklxalgtMUVSRm51Sk54WTNrQ1M1bzdfV3B6TXQ3eWJTQk9XZGhvcWhoRUN4ZzlqQmNzUFRDUFlBcFRnd3pjWTJGYWtzQWREZ0R0dERjN2xRUnN3Sng2bFRhYzBjbkNpLW1Wd3ozY0Z4SkNDV2Z5b1AzR2VVUkFpVDR1ZjFZQzlNelRqQlpWWThGN0hDQUZhR0tGU0dhQWZzZFNUakxNSg?oc=5",
+   "date": "Sun, 22 Nov 2026 08:40:11 GMT",
+   "vu_le": "2026-11-22T09:30:35.784385+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "F&O Talk: 25,500 remains crucial support for Nifty, says Sudeep Shah; gives RIL, HDFC Bank strategy - The Economic Times",
+   "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQno3WGxxSkxLeU9kT05mVC1HbVMybFFSMkNvSEgxVFdSQnhjc1pZVG5hcUEzSW1hVVNDLW5lUmtKQ1YtX2FwZXlCUzhfckJMRXh6NUVtZTIzd1VBNV9tMnNSbWJhdHpfMDhFWnhBd2NfMl9TWmFkUGk4X2pKMlRvdGpoV3hvN2xUTkFpT1RQTVp6Z3E2eHpuTWtMVUxvblNmaGh1Vy1pMnliM1VGX3F6dHN5cXBiaVR4NHhvS01SampHangzZ2R0OGVrSFdoTTZrb0x0SW5sNGs4aEJ0Mk5sQ0RzUm9IUEc3UEFmR2tyUTZaUkExTWNoQm90b9IBgAJBVV95cUxOUndrcm9VeGNtR21DSHNVQzNSNk1VQzUxb2JKU2pkQ2xjQ3V3ck0xUUJrbjF1aFY1OXFhWnk5YXpqYU5taklZU3Bic1pOV2VxU0xNT2Fabk9mVkM1NG41YjhNRnlfbk5xQ0JIeGltcjgtWENjcko3OFNBSkdqdHAyNlV1RG5tcWlBNk9EYmphYlFwQzB2WlJ6S05lOEdlbnBUSmVSNmFGOUxrb1k1UWdmWkloTFR6LTZYa3NTSVRkbzFKbDZWRDFDQUV1YzRrQzBJSjBhMUZIcFV2Si1HUEtfN3c4MlpUcjhVQ1A3cTRtM0dfV1B1VFR6WDJGTk81VG83?oc=5",
+   "date": "Sun, 22 Nov 2026 08:31:13 GMT",
+   "vu_le": "2026-11-22T09:30:35.784385+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Vincorion SE (V1NCD.XC) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FcEdqOFlhOVlYSEVGWGQzSGpYMTlBdW5lYXpzTHcweVduelNYdElwRGMyeU9KY0lqNU0xbTBCQV9BNFpjYl9WbmxxNlZFc3p3d2NXR2VpTQ?oc=5",
+   "date": "Sun, 22 Nov 2026 09:26:36 GMT",
+   "vu_le": "2026-11-22T09:30:35.784385+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "Une série de données économiques pourraient exercer une pression sur le prix de l'or la semaine prochaine - Laodong.vn",
@@ -6523,34 +6551,6 @@
    "titre": "Worried About a Market Crash? This AI Stock Should Bounce Back Fastest. - The Globe and Mail",
    "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNEdldlJnaFJZNi1mNGREZFFWejZPb3ZQdm44T0ZpQXhLZUdHTGRTdkM5NFhfckJoVk5VSVk4a1ZSUVRpZ2xjN29EU19wa29TaUZrNS13VTRlN3J6a1FZdElRNFJPOVpkRGprOVlOUUZXaXRod3lnUkZXQ3VWUHZYRl9jOGFPM0dFVGFjRDVCbGtxZ3BZemhyaTV3YWNlMkJWQ0xGXzFFejM5UFl5cHA1SmM4R0xtMFlVb2ZhT2pUbkdWVTV3dDY5QUF1QnFnU3k3N3gxajZMaUo3TVd4czVtNzBCV0VvRjNyWmc?oc=5",
    "date": "Sat, 21 Nov 2026 19:15:22 GMT",
-   "vu_le": "2026-11-21T20:10:35.786918+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Is Genuine Parts (GPC) Undervalued On Its Earnings Miss And Planned Breakup? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlhFOWg4VlFBbmNqX1N4NzIweDJsZ21qdmZpYkl4VURweVdNRzlMODd4Rnd3OFBpTEVpVGpEX1lKNFdxcjQ0Mlk3NWoxQVF6WFRvS3JUTkJJci1fb3BXNlhQM1RQeHJwaElMQ0FDVllLSDFXNUF6T0FHTm04Qmh4LW56R0F0bDVxWXZ1MG1sS1dha0pwVTZBa2JuTnRoQVQxSkIwbTh3?oc=5",
-   "date": "Sat, 21 Nov 2026 17:07:35 GMT",
-   "vu_le": "2026-11-21T20:10:35.786918+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Applied Aerospace & Defense, Inc. (AADX) stock price, news, quote and history - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuWmJUekI2ZnBYbm5qMDdFZ1JjUTZjejU3ZzBIS3d0STEzeTJFbVRBdjNtb3NSWDFFU1pmQWZIU184b0Z2UDlrek5SSlJKOExqZXc?oc=5",
-   "date": "Sat, 21 Nov 2026 10:41:16 GMT",
-   "vu_le": "2026-11-21T20:10:35.786918+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "BTC price on Nov 21, 2026 at 3pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSGdvanVfMzdaMk9yamU5SzlIVnBXbUstb21mekF4a1hEWVdCTlA2Zi1JeWdtd250b1pKZXk5NGNxZjRVZGdkZnNhbE9YU05OZnloN3R6ZkZSMTEzS1dkaDQ0YVJURXpMOGlBNHV2ZEQzM3FvaEF4M0dUcjJXazh6aXU0UzJ6RzhVMExGb3EzeVJQU0I2YmlEY3ZFd2o2V2J1ZVBVYXdyQ0lwQ0lMenc?oc=5",
-   "date": "Sat, 21 Nov 2026 19:12:05 GMT",
-   "vu_le": "2026-11-21T20:10:35.786918+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch - CryptoSlate",
-   "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vVm9TUl92R1owRWJQRUFZSGdySEpnSmhueG1seTduN1c3eGVFa2ZNR0VIQVdldlkyUHRXQU5kNUItMmhQYklPbmRYOFIydU01RF93VlowQnlRZERPVTA5UWdlU0F6YlpwakhuTnIySmJmd1planVSeA?oc=5",
-   "date": "Sat, 21 Nov 2026 19:40:03 GMT",
    "vu_le": "2026-11-21T20:10:35.786918+00:00"
   }
  ],
