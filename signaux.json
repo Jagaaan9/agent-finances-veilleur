@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T02:10:36.489954+00:00",
+ "mis_a_jour": "2026-11-22T02:20:34.712924+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54793.38,
+   "prix": 54586.05,
    "devise": "EUR",
-   "jour_pct": -0.17,
-   "mois_pct": -24.39,
-   "volume": 5.43252355,
+   "jour_pct": -0.55,
+   "mois_pct": -24.67,
+   "volume": 5.4894804,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street asks what can save AI trade after Anthropic wipeout - The Business Times",
+   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQUt2TDFITlRINlBPc3RteHZTamNlWVQtY0tSb0VkV3VidjNkT0xZRTdxUmxrZ0RCYnNCcVlZdmpMVzlydkd5SDNEY0RYbGQxQjd5czBGeDNncjhqMnMwWHdqRnNSc1BEdVloeXZwREdoTjI0bW9rWHI0cm1wRW5kamZyUWVBY09HQzcwN3hmbHVkM0xTWHM4andRZHJGN3BXbTYwc0dyaE5nRXQ5TlVXQXhjalczZEg2aE45cFdnUkwyeVdIb2F4djFnSWdEM285S2RRSW1Gc18?oc=5",
+   "date": "Sun, 22 Nov 2026 01:17:00 GMT",
+   "vu_le": "2026-11-22T02:20:34.712924+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Lutnick Weathers AI Chip Storm at Commerce as Trump Backs Him and Wiles Exit Loosens Reins - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSZ0xCQ2RYT0RkUmphS2lTVmV1Qk5vYlRQcWpHUnVRcmEzMksyZDd2OTlRV19LaGtuNG9wa3BjWS15Skp3SWdJMEQ1ZGQ2Y3ZlNEVneU1sYkFZWi1LQTZJbWMyTDlwMHl3MktlMDVjVDlsckdDRmc?oc=5",
+   "date": "Sun, 22 Nov 2026 02:05:00 GMT",
+   "vu_le": "2026-11-22T02:20:34.712924+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Earnings Beat May Change The Case For Everpure Stock - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdUxtRkZCbVRaQTU0WWd0SFJOMFVMaUFYMW1mSXRBOWYwTGppWFItblFoSzl3cmxjVG91QmJhZThURFl3dVk2MUFGTWZRTDFNSnZ3Wld1S1FIbThJQTFaNjFFUk1CdGlJdW9VSk9ad0NjaFE4cXUwVFpXelhNODlvWXlqMFp6NDNlQ1FZTlVkQU5rYS1OcnhBTEJkQUViMUtyVW9qQ3hzT2loeXhGdlVF0gG0AUFVX3lxTFBaLS1ScEVNWUtLOWpSRkJMR0ZWYzlqUXNldEZKMlM0c3NYenQyWHlEZE8zVVFNazQ4a2QyNW1palNKYll5dldFUExNR3NndHp6SHBnb3doQ2huWXRUZmpTMGFyMkcyaWh0OFJoMmdjRjdiQWRISjZHdWtmSWtTZzZTSG9oT29PMkNrVUQyWDV4d2ZUUEpCTUNUQmlRLV9OZEdmdUhQYWUyUGh5VE9mbzZidHBlag?oc=5",
+   "date": "Sun, 22 Nov 2026 02:09:00 GMT",
+   "vu_le": "2026-11-22T02:20:34.712924+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "3 US AI Infrastructure Stocks Backing The Next Wave Of Data Center Demand - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd01pZHN2RDdWN1c5LVlUSmhIVG9WNVRGNC1ZU3ZONUl6RU1uSXpNcDZCZlpTdm1GNXhuTGl0djJ5RThFV1hWUHl1ZGZNQzBwWU1NUWhpZktGN29lb0pXODVCZzltYTNiNWtNdHQ0VlF2clVBd0dRVTVPUlVaSEIyYzd2M2toMndrM1EtcVlTRWtCM3ltY0hfM2p1VEZUSkJjb0tvM0EzT1R1VUdJTWpDYm5BaXZ2YmZMdnJvbDFLSXFDeEtzZWfSAcsBQVVfeXFMTnJTNXIxYmNLRW96SmM0LWRPRzZoZGxaQ3hoNldvR2pkLVBqQnFqYVlISGxwOTlLVExsWHMwVzZ5WG42d3pUckg2V0JGQy11MlZ6OHdYZnRTODZTQ1podGxmS3lxOEZvdi1KNzRXT3hkMEt2Y3NDV0tBenMzQl82ZUtrYlRyRU1oeG9qRTNFVUw0SDlzcnJqdkdvOUNXeE9FWFQ0UV9zY3ZPci1iVk5wMldRVm14OWR0TzFkaDBManpCVHVCVFJYRG1WZW8?oc=5",
+   "date": "Sun, 22 Nov 2026 02:09:54 GMT",
+   "vu_le": "2026-11-22T02:20:34.712924+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Redwire (RDW) Lands NASA Moon Base Power Deal As Undervalued Debate Builds - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYnN1ZlRzYXdqMFdHZFJtZTNlbDhCMjNuckdicGZGTnNKM3p5V1lDbnY0ZENfdURqdThWdWdXTm9aQW95bWpPdWZTbVJnV0ktSFlhaGtNN0NWeGlHTnpBX01XTkNVUF9JUXg4Q1JwNF9tZXhoMVdvcEVNTjI2dVdWcWNWdVJEdVBrYWJOc3E4YTNmNmRJcWZVNVBXOUd3WVl0d3pIajhueWZsYmkwZ1I1TnVpYWd4N0NaR2l0dVM0cl9zT3g1RzI0?oc=5",
+   "date": "Sun, 22 Nov 2026 02:09:33 GMT",
+   "vu_le": "2026-11-22T02:20:34.712924+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 21, 2026 at 10pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYldpTGVrLUNkQWh5OXhjeTR1V3ROTUttemFDWHliS1hkampBamZfTU95b3NZN2ZldGFnVlBFMDRMSnNXZGt4eFRKejJVMEJ2MG40dEpiTnZlS01kRWhraE0xREs5Q2FRSW5GQ1g0T2tIMXBSZXozcUVBemtSblJyZ2J4ekNUeVBaWlNfdEgwdGFiZjJkcHhJQUVYdmdEa2s0cUp1cXREbzFTYU1VZUNR?oc=5",
+   "date": "Sun, 22 Nov 2026 02:16:12 GMT",
+   "vu_le": "2026-11-22T02:20:34.712924+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic IPO Tops $1.8T Amid AI Stock Selloff - Briefs Finance",
@@ -6509,48 +6551,6 @@
    "titre": "Unusual Volume Alert: Kroger (NYSE:KR) Shares Rise in Active Trading - kalkine.ca",
    "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUkFvTjNNM1JzVHYyak9PUEpVVTNGQU8xTmlrcFZfbDhZd0M4M3VtRkZUbzBmamhOckpBZkZobGlydTNwYktpY19mUGpMeXVKZW5EaW44TlZuN3pxcDZpN1pZZ3JYUHlwODhXWS1ESWFSalExZE85WFF6ZXRQTEdJSzdmckNYVWhoVGRlNzh4NVhaSWMtWlVxeTZTUQ?oc=5",
    "date": "Fri, 20 Nov 2026 20:48:00 GMT",
-   "vu_le": "2026-11-21T14:20:35.850415+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "BLNE: SEC Form DEFA14A filed by Beeline Holdings Inc. - Quantisnow",
-   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM1gwYlZEcVpEMDNXNlpVRU5VbXRPdjBxZVg0R1pnSXlIb2trb3dIQ3gwUWlBeTZiRVRyNU1TS3NQWDJVZjVXdUJvVTJBaXc1a3lmN0lGMHN5TWdyQjEzZzBpVzBVVDkwWS1QMlgxeE5BWWQzaXdXaXNGQURtN2ZGN0cya25kR1VkVlVuVmRZVHM4TG8?oc=5",
-   "date": "Fri, 20 Nov 2026 22:35:34 GMT",
-   "vu_le": "2026-11-21T14:20:35.850415+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Equities Market Shrinks As Investors Dump Access, Honeywell, Others - MarketForces Africa",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2l4Z1pxSF9HZTVRdk5fbndxR3VmOEJMeElxal9TZVE1X1ZQRkEtcW5zYWtURjllOGtvQjg0UTQyZ1I2akhPSWR2QmVNa0JIUlF0XzYzMzZtZGNKN083b1lLc2U3SFFkZ3RlU1h5dVppU05vTzlKWjN1czU0dDdFMjQ1eEFsdVJQQ0NpcmN0N1B1Z1R1TWJr?oc=5",
-   "date": "Sat, 21 Nov 2026 10:14:16 GMT",
-   "vu_le": "2026-11-21T14:20:35.850415+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Indonesia's rupiah slips back after rate hike as political risk lingers - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGN6VnloT3NGZ09kQ2RxSGEyYmZ4aFNsbDFEQk1QOF8xa1ViOERJUU9vMkl1YzdKYldyby1lVVZOUzZWbTVrTm1Ndzc2RWVCWW9ENXlwRTNsTHYwR0VsdkFIQk1Idmw5bFNYVFRrdGIySHFKbTJOa3BUSWxjVWpMcEgxOU42RjRkcW5vN1FjQzNHOFgzekxZb0s4TUF2dDlPNi1pbQ?oc=5",
-   "date": "Sat, 21 Nov 2026 13:21:19 GMT",
-   "vu_le": "2026-11-21T14:20:35.850415+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Arxis, Inc. (ARXS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yNmxRNVUzMktYX3g4QkpyaDAwRFFoemJXdVVjODJMckhON3dyNk5weXg1aEMxS3FRa1gyX1RHTU5ySVZwU3ZqS1VxX21YZUxJZkE?oc=5",
-   "date": "Fri, 20 Nov 2026 21:33:25 GMT",
-   "vu_le": "2026-11-21T14:20:35.850415+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 21, 2026 at 10am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazQxUXhsTHkzbGQ1UjM0V2lZNmIyMmRpQUszQXNGMnZwQzhfeDlSdld4ek5uZWcxUndnMzhwTENvTjJraC1WTm15dzVyZWNiZVEzUzgtQ0lLRWg5aVo1ZGloVTY4dlZKS0k3NTlfT3pXSF9QRHBLSDBxQjVWbHdBRzlGVm91N2U2Zi1QZHlVdUZSb3dlblFBUWNVdmpiZFQ1aGVNcTVMTHRmZmFOb3Nr?oc=5",
-   "date": "Sat, 21 Nov 2026 14:16:52 GMT",
-   "vu_le": "2026-11-21T14:20:35.850415+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Crypto Outlook: Is a More Restrictive Fed Reducing Market Demand Appetite? - FOREX.com",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMXRvNTFxU2pCV3lNcjFDaGVYY0o5UDBLcE9BcGQ4M1VScUtEbF9KQTVMaDVfTlhDeVd1VFN0b1dIUldneFk0R2NFTlBaRzdBLUZpTy1ELUJuV1JHdnI4VlpHMTFuWnNQOWdvd1dQZ3JSbkhKdzUyRTUwWDlwbEhBWjh4YnFOVUtSZHBsRGxLMGRBNWxRYzdGQk9LdFhUY1RlZWJuMzlVS1RIQXY4OFE2R09NVk04d3fSAcMBQVVfeXFMT21UTGctRWozY0pTYTA1cVRZYVRCaXEwS3Jrand0NjJOQTNTSV9ldzVoMlRnTWd5QkxOMW5fRDR1bUtZVXZyX2VYMlJxU1JnZktnMTVYdG9XUzF2RzQ4M2VNdTJXN2o2bHBrdWFQbWtCYnJ3YkdVQlQtSVFMd0s5V251UUczOFY1VGF3azJpQlNIY1JWWmluM2ZUNmpOcjd2dlhlNF80NjF3REtaSkxfVHRsZFFFY0VweWR4ajZSY0FsTDlj?oc=5",
-   "date": "Sat, 21 Nov 2026 14:12:48 GMT",
    "vu_le": "2026-11-21T14:20:35.850415+00:00"
   }
  ],
