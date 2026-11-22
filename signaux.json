@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T11:20:36.364695+00:00",
+ "mis_a_jour": "2026-11-22T11:30:35.685621+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55582.14,
+   "prix": 55635.38,
    "devise": "EUR",
-   "jour_pct": 1.26,
-   "mois_pct": -23.3,
-   "volume": 59.76082887,
+   "jour_pct": 1.36,
+   "mois_pct": -23.22,
+   "volume": 60.79525414,
    "volume_relatif": 0.25,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Le marché boursier n'a pas été confirmé comme ayant un creux - Laodong.vn",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmtLeWN1U3lWT0FVX1gtcmJCSDdkSFBkWFdPa2FpZ2VoNGc3elNiZG1hTk9BMmtvWmZmQ2lSTWRCbGM1aE16Z1luMEsySFU2eUtVWlNiTHVaN1ZqT2k1djdvUUVOZ2JENlJPbHZpRHRSY09ZVkpzNU5KbWI4RzhnenZveHdSWkJ1UHU0aUpZdU9YYTBhbFJrRmZn?oc=5",
+   "date": "Sun, 22 Nov 2026 11:16:55 GMT",
+   "vu_le": "2026-11-22T11:30:35.685621+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Marvell Stock Forecast: Q1 Revenue Jumps 28%, but Is the Trillion-Dollar Thesis Real? - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNHdCZWpxVmpVNjUxQzl6N2hDdGdZWG9Xa1pfSnB3TVNYcWt2ZnMydm4wSHFwWm5zQXZmTkVSSk1nWkRUZXluMFJzYlgwYkVMOF9peGpoYzdJTWRpYkJMM0lGWG42aWVvVDJnREVxc0JaYnhjNHFIYzJBeXYtQWxTSUxtYnVvTERQbWVxVWZxa0lVOXhCZG1zQ3VVLVpqa1VlZFI0eHMta1A3T2gxcmc1S1ZMV3JlTUstUDl4SUgzVmpuUXRfdnhqTS1FbU5jTU1kSzdubkNFUk9fTENSX1Q2b1NhVVFtaXJncGdTOQ?oc=5",
+   "date": "Sat, 21 Nov 2026 19:22:02 GMT",
+   "vu_le": "2026-11-22T11:30:35.685621+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Q4 ’26 Asset Allocation Viewpoints: Market Crossroads - T. Rowe Price",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZUo0djZvMUotSF9mQll2TDNyMEZZZVBIaUNjZVdFb1FKVXBNeW9RWWl1azJjTHktN3NYNjh3ZlBIdHNha0w3OUJyMmZNZjRXS2pXTW9FZWIycGI5OElQSVhOLXhIUWlBeGpETVN2a1pyTkNGX05STkx4Qzl0UFVZQ1Q0b3pyeU9Mc0toZWxvbDhwUUpT?oc=5",
+   "date": "Sat, 21 Nov 2026 22:12:28 GMT",
+   "vu_le": "2026-11-22T11:30:35.685621+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic’s IPO Showed Wall Street Who’s Really In Charge - Finimize",
@@ -6531,27 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00ZkZWbTRfRElaVmdQT0RxYlVpRS1nRUJPSmxlaUthb3dRY3NIYTRZTXJIZHhoSmxFYVhMZ29uM2h2enpGRjVvVFMxUXFWV2hzRTcyNWNjaU1HczA?oc=5",
    "date": "Sat, 21 Nov 2026 22:00:38 GMT",
    "vu_le": "2026-11-21T22:10:38.625195+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 21, 2026 at 6pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmFLTGU4d05tMlg1V1ZpYnA1Q1dSeVgzSmx2Nnk5ak9uY2VRdDYtdHQzSkd6NlAweVFuWjMxdUtsemRjYzdxc2lFTDdtTFZZZVo0QnpBWHpjbGxMTHdZeGJDWjF0b3NuWWhWS2dibnlzRHprWG01Z2tTUDFpb2NUSkVXeDhQSkdkV294WTV5YkY3cEF3Q3hfeVNjVmtaVDRsSFk3SEoyUUxLTXJKRGc?oc=5",
-   "date": "Sat, 21 Nov 2026 22:06:48 GMT",
-   "vu_le": "2026-11-21T22:10:38.625195+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Intelligence artificielle : les secrets de l'entrée en bourse record d'Anthropic - CANAL+",
-   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSjJnRTRlS3oyX0U4WFpNb1VJRVktWW5LTmdYUFlvbFNpUXJUZksxbGVONlhEVTk0NEJzRjBNaWU3SmVxQ1RrSk1zZVRwcThycWRxRHduQ3Z2Y0JROHhtLUpOdTc0Q2l2Q3JEMWFRX1lBRktvdmpyZXZWSmVQQjduWWVDdTNKQ3NkZU9Rb1JPYjA2ZTVfNEJyRGNPeGJUQzVhSFA1R3FHcXpaa25xUXNlWWd6eTF1c1JLckZiU3Z0RG4xdmNVQ0huaGQwN3kxQQ?oc=5",
-   "date": "Sat, 21 Nov 2026 10:20:11 GMT",
-   "vu_le": "2026-11-21T22:00:35.920614+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "CAC 40 : −5,27 % cette semaine, que faire lundi ? - https://www.leconseilpatrimoine.fr/",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOblRFUGtheGhjTjdLOTNxWHNub2JrX000aE1tZHpZZFFMbVc2b19TUzVCVlBmQm9Rb1ZGZ083WFlRdURuemxUU2ZhMVNfMC1lRXlLeG9rOS1Lb1haQkFncDMxMkpjMkVRU0FHaWppUVB6dmZodVNEVmlFT3M2el96Z0dQV1ZIbFV3bU1qWlhyVWNBTlZvTVhZcjVBaFhDaXNGVzlHQQ?oc=5",
-   "date": "Sat, 21 Nov 2026 09:49:53 GMT",
-   "vu_le": "2026-11-21T22:00:35.920614+00:00"
   }
  ],
  "erreurs": []
