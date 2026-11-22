@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T06:40:35.537023+00:00",
+ "mis_a_jour": "2026-11-22T06:50:36.257559+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53974.86,
+   "prix": 53943.88,
    "devise": "EUR",
-   "jour_pct": -1.66,
-   "mois_pct": -25.52,
-   "volume": 20.85449557,
+   "jour_pct": -1.72,
+   "mois_pct": -25.56,
+   "volume": 21.1662534,
    "volume_relatif": 0.09,
    "capitalisation": null,
    "per": null,
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Swarmer, Inc (SWMR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NV21mYkxpMXFDNnBseHhXMzhNM3VFRno0T0JyNUNQdm9JTG9ZWG5aZVJNbmtFOF9zcXZNemFON1ZCbzBnNjVEaFFmdzhkQWNKMXc?oc=5",
+   "date": "Sat, 21 Nov 2026 23:04:30 GMT",
+   "vu_le": "2026-11-22T06:50:36.257559+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "JPMorgan Says Bitcoin Miners May Be Selling Reserves After BTC Falls $26K Below Mining Cost Estimate: Report - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTjdydHpwZ2N3bVNyQnhYYjZPX2NuTEdCVlhVdlR6aE9EeGlJNzNFd2JBbUdOQ014TG8xYjZyalRxNUwzdXN0OFhaY29jN1BUQ0p2RHJ1WkpTRi1zMF9lbGY2LW5SMl9jOGp0d0JYdGJxY0JvMkt5cHpyWXZKOXZqNDJrcUpaTjVtM1lyV20ydTlwNnRRMVdwZHcxUUhGZ1BIOWtIUFE3aVRUZG52YW9OTWxyZHcyQXBLeFppdGdqN0llOEtLMjFTS1o0SXg5ZGZVQ1F6RnkyTWdweFM5SVVqR3BleXAyM1hjanY3aUdQeHk1RGVEeVExTV9XQQ?oc=5",
+   "date": "Sun, 22 Nov 2026 06:12:00 GMT",
+   "vu_le": "2026-11-22T06:50:36.257559+00:00"
+  },
   {
    "sujet": "Résultats d'entreprises",
    "titre": "Palantir Calls Q2 \"Otherworldly\" and Raises Guidance — Will Jackson Hole Derail the AI Sovereignty Momentum? - TradingKey",
@@ -6537,20 +6551,6 @@
    "titre": "The Week in Breakingviews: Know your chip customer - Breakingviews",
    "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2F0TnNnQkZUZllpb2NHdG9LajViUXVsRkxVMXphZXZHNmg1TXI1b3dIaFJFY19lYzhXRjAzSmlnYUtnTTlqYmc5dWdtZXE3UnlQSzhMT1pCNmpHcktNX1RBNGN0VXByMTU2NVdReENRNmJjQlBMTnZ2NkZYcUpTX3paS0RiQmZkYUhGc3pKVTNqZXhYU2hBVEc3cG55dDlMcXc0UDFhTVVfMFF1?oc=5",
    "date": "Sat, 21 Nov 2026 15:37:20 GMT",
-   "vu_le": "2026-11-21T17:10:40.843652+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Cotton claims Lutnick ignored his ‘many letters’ warning of chip sales to China - The Hill",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjEzWnBIUkNrQkdlQWtQR2czUlNMdThDLXFUaExaTEtVd0pNWXl0OGRqLXdPdjFfejlRQUF5dVo3cnoyZm54dkxMWlRPOWk2UnUxc3RiS3JNLWVRMzRXTF80Y2hjUGc5ekNRemhGc1hwcGl2RG1OemplMU5Bc1JCNk1MeGpHWHN3QVNTdXRfeU9LMk1lcHfSAZsBQVVfeXFMTVhyWWVPdUpqRFlEbVJqYkRXelZGT2I5U18yNXF1VThKQkFxOGE5QURnb1IyR2s5V2h4WnBEX0U4SHF1RFpVMGZ5SzdxcEdUR3ZzNmxMSnNfYzhKN09uYkRKdmFBT1VOU2NSRTdHakZaZDc1NkpaOVYyc2hWRnVVQjE0WVZ6Z3A2QnlIX2VPeG83d1RBd3pXbTNGQ28?oc=5",
-   "date": "Sat, 21 Nov 2026 14:51:00 GMT",
-   "vu_le": "2026-11-21T17:10:40.843652+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Cigna (CI) Stock Could Be Cheap As Shares Drop 4% - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakM5RlRCeVcyNzhONG04ZjU5SHVWQnhvRzQ3RjJNSDFWZEpJVWwxVGRQRnBHVGJ5aGpMRTFvZk5zWUhRLWx3ZUlfVmk3ZHUtTVIyX1hrYV9ORVVYRzlLU0R3bkxyN3VZVldsTFJiYkwtMF94cGFhdUw3RkZmN2wtOHY4R05VRDRnOVJobDRYaWd1NlBISWFFZEJYci1QTE5uRnhvWDZOT1ZXUzdELXFFeVVvRkrSAboBQVVfeXFMTkR6SU03cm9pQlJnYktPZFJtOW1ncXIzMXFDS0RzU3o1T3hsamU4a054M3dJYU44RzVyblhDNGlRelhJaXYtNlhCTzFjRE5Ob20tZW00X2lzYy1MM3BIUkNSaC1xdmwtenl6V3lKRF84T1BTUXFKOFZTSXkxeTVyRUJIQVVKS21uQkF0T3V3WWh4aGswUzd5enJiZ0lxaXJEYnR2MlgtUFVDYnRja3Y4SVhuNzNqZ0VrSmhR?oc=5",
-   "date": "Sat, 21 Nov 2026 15:13:34 GMT",
    "vu_le": "2026-11-21T17:10:40.843652+00:00"
   }
  ],
