@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T05:50:34.830775+00:00",
+ "mis_a_jour": "2026-11-22T06:00:36.898940+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53664.83,
+   "prix": 53708.04,
    "devise": "EUR",
-   "jour_pct": -2.23,
-   "mois_pct": -25.94,
-   "volume": 16.77645067,
+   "jour_pct": -2.15,
+   "mois_pct": -25.88,
+   "volume": 17.03110294,
    "volume_relatif": 0.07,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "L’investisseur futé: devriez-vous acheter des actions d'Anthropic ou non? - Le Journal de Montréal",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXQtcTUxak5sdndKWXlCek1wYlVjUkVSNmJHRkxhZW1fU1NKVGNuX0NKZTFib212WGtpRzBIOTlTRDZUbmlJdDZ5d0RmLXN3Rk9NYWVlZGdVdVg2Q0JxTEdCV3JJZWZxeTdNN28xWGtfb25FZlJHc3JDeVU4RUpkRW5IRHRkb1dYMkZhcE9wcUQ4VEdO?oc=5",
+   "date": "Sun, 22 Nov 2026 05:00:00 GMT",
+   "vu_le": "2026-11-22T06:00:36.898940+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les cours mondiaux de l'or ont fortement chuté, enregistrant leur plus forte baisse en huit mois. Remonteront-ils la semaine prochaine ? - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNTNyeGh3QUgwT28yUmp6Yng5dllvNmlyNVRiMnR2YmJHVm5ZZ2lvNlhhMjEyazFEVUVBcTFkaTdGa3lObDJjUnhBaXNuQkV2b3gtSjFOVmd2dlZoWVc5c3hySmh4YVFyWmZJTVJOeWZLczZLTG53VldKTXpERTNPZFhPZEFXSGxLU19QOHhNckZEaXMyU1A0c3FB?oc=5",
+   "date": "Sun, 22 Nov 2026 04:53:30 GMT",
+   "vu_le": "2026-11-22T06:00:36.898940+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "L’investisseur futé: devriez-vous acheter des actions d'Anthropic ou non? - Journal de Québec",
@@ -6538,20 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1Z6cnVWRVkycjQ0Q2pPMjI1UU14S3NIWkxoY2FpdlZjQmtNbFNXWlcyNWw2eFVUVFpTSUU2a0VLcDZ5WGJtS0JPUFNDWXEtNElYSldVSm01bXVyRlc4NDg3ZTA5NTQzV2prSW5VZkppUi1jYXdNN25QTlJweko2NjJQckN1RUZHcnUzN2tScmQ?oc=5",
    "date": "Fri, 20 Nov 2026 22:20:42 GMT",
    "vu_le": "2026-11-21T16:50:35.121738+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Lululemon Athletica (NASDAQ: LULU) Stock Trades At A Deep Discount To Colgate-Palmolive (NYSE: CL), But The Bargain May Come With Strings Attached - Foreign Policy Journal",
-   "lien": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQQnNERDcxOFB6dUpadmpJSW1XN1RIaXlHc0xlV3Y1Wk9QM25nb3UybklFT3BEeTFxUjZic1JMaHF0SXNwbDljUlUtQ3N6eEJrZlFLcVN2ak5WeENoY0dIMEdfMHRoWkhDaXlza2NPUlpySUYweGFrT01BQUhndFVFR3FRWDVpeFEzQmJpVWNZQXZwWl82VTBVQ2VMVTc2Q1BqX0RpMVFYSjBEbEdibjJJblpCOUk2TUh0Tm5mZjZxNW4zczVkZTBkWEROelB1QmdIdXJ5bWY1VTBQV3d3UlR2NWRLcE5Sd3k4dFl3dHlQbDV1aTd2bUlxTXpBRk1yQV9CVzlsdGpON3F6VFJXVnk2UlU5aGxUT2M?oc=5",
-   "date": "Sat, 21 Nov 2026 16:44:00 GMT",
-   "vu_le": "2026-11-21T16:50:35.121738+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic vaut 1 600 milliards de dollars après ses débuts en Bourse - Brief IA",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWRyb0labTgxVTE3OFZiZXprQWpmMGszOC11UXE2U0RNMlpDd2xBSXB5czhsX2huWlZQU2xhLVRJdDRtdTg5QjlRSUxENFk0WGRkZU5wdDVHZFNDVGlVZjJucmhhMkszNUE3OWd0UFg1RVMtYnFHWlEtT1pXbzVCYmwxUDlIV3R2ZFdsSjF1NllaVFJQV084cTRnbk1uSERn?oc=5",
-   "date": "Sat, 21 Nov 2026 16:16:58 GMT",
-   "vu_le": "2026-11-21T16:40:37.272198+00:00"
   }
  ],
  "erreurs": []
