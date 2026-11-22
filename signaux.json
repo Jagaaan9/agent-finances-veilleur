@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T15:50:37.668264+00:00",
+ "mis_a_jour": "2026-11-22T16:00:36.691504+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55545.42,
+   "prix": 55521.25,
    "devise": "EUR",
-   "jour_pct": 1.2,
-   "mois_pct": -23.35,
-   "volume": 111.10863062,
+   "jour_pct": 1.15,
+   "mois_pct": -23.38,
+   "volume": 112.0868466,
    "volume_relatif": 0.46,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "S. Korea Rolls Out Phased Measures to Stabilize Volatile Markets - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYVRMcEsxcVVCNE9DVnI3U3hWT040d25KN0lPMUY5eEtTb2pWZmU4ZVFsYVoyWHNBc2t5UmhzbHNJXzVoMUpnTm5VOVRIbE1reEc2M0NWSmNwUmFaQURMOGEydnUzUzJaeS1HQVEwMjNmTkFVLTgtTnk1ekx1dFNaTVVWV1MzV3dRajhYcUpxdkoySkZHbkdyb3h3V29tYkNHcXFUUlFIclRTb0pUSnlPSWJ3aGQ?oc=5",
+   "date": "Sun, 22 Nov 2026 12:52:16 GMT",
+   "vu_le": "2026-11-22T16:00:36.691504+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Xiaomi's Japan Debut Meets a Harder Question: How Deep Is the Profit Slide? - ad-hoc-news.de",
+   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcWxvYnBuZmJpQnlmUFZHVkR5dzlBeXV2TXVFQkRUNkFoZXYwOXNiS0p2WDl6Mk1Ha0VIcW01dG9BOTVpd24zN2NaX2NSeTF6bGsyTU51X0NMNE1jVWhkNzc2bVhOcE51QVZ4T0cySTJHdlJPaHpLVEkteHVvLWc2eEJiQWplYzRjSXpjaGxPZkt1dlhIVkxfc05feHF1R3I5TzhoaUJJTzhtdkQ1dnhHWTdMaTRmMVZHUXhxemhyby1oSnZZckR0VmZtSWJzSU52WEl1YV9Yc3FNck9DSXc?oc=5",
+   "date": "Sun, 22 Nov 2026 15:51:26 GMT",
+   "vu_le": "2026-11-22T16:00:36.691504+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "M&A Due Diligence Saudi Arabia: 2026 Buyer Guide - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkZGNjQ3ck1yRXhVM1hhbnNZMHJmZHdOamxxVjFIam5kSm5qakd6MFdNLUhlVE9yNE9STjhGVXdObF9rUkxzcGlkUjBYeVRKU1hTQUJzU1hseU05VzQ0RDJBWjh3QjItZ2puazRWdXc1Y0t2RXdOd1haWndFVkpPUXp3b0lTSWM2V3lHTDlNcFJfZ0hXZk1XT3p4QTdfZHAwSEg0ZGxBSFVZaGJJWGs4eXFnRkU3OEU?oc=5",
+   "date": "Sun, 22 Nov 2026 09:07:35 GMT",
+   "vu_le": "2026-11-22T16:00:36.691504+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Markets Next Week: Nifty eyes 26,000 as FIIs pour in record Rs 1.12 lakh crore; will banking rally extend? Key triggers to watch - Business Today",
+   "lien": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQSjFQY0ZQTWk1LW5jWW40QU5CXzJRdXU0b3JtUlZtNWQ3Y3c4NTY5SGxrcVQzbVU5bVVPRDA0OGZiekFyMmZUSnh0QkE4Ym8wTXpBS3p2alVOZWh4WW10UTZldG94YWtDajhNS0hTbzBoUG03YkVIUl94eGp5VFA1bnp0Qmc4LVc2V0hvNDdjZF9hX3h3NE9Wa2pGZnhmQlM3SGpCX1ZJMTEtNmVsMXByQm5tNUZrLWtwSTNvUXpaeUtWc0xSZ3N0SWg2OUcwU1hQSjd5UmRiVTJfakdHUm5vWHVZY0xvZmVvQVB6R0VBcDh4MGd2aEg1eWdrRlo4X1BqQVR3X1NUOFFrZVNaRGtVbW9XS0V2ZncwWHR0a9IBogJBVV95cUxPSjRZdXExRUktMzdRYVlfZUJ0ZTM1SWpEbmlOcEtFU1lTb09rdVU2bmp4LWZfY3FINjRVOHdKU0dQYjlKbHNTd01XWlhNZXRUQ2ZhbFNqaGpFTWNMQ2RjREpsaW9QWlRBajJxTnN1QUFkdWJuY2cydGRLeXN5NmpQTlBZZmZpWVhFNUhaVWZpU2kzTWpVbGF4aWt0QmExc1NrcjBpTGxYM3RIUFRrd2xSWGxkU244NWlVdkY5SlM4MGpyVERRNXN2MHRzWkdLMEJfS1dCdjhWdXhmU2ZTQlIxRHRYN3NCTERBUUFsOGoySGRYWl80dVdLSXZFSnVzb3BVeG9JWU55aTdMZjkwbWlrMk5hWFFiaTB6NlhiWnd2ekZIUQ?oc=5",
+   "date": "Sun, 22 Nov 2026 00:30:11 GMT",
+   "vu_le": "2026-11-22T16:00:36.691504+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "3 Canadian Rare Earth Stocks Face Project Hurdles - JournalArta",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPakRDWXVPVzdoTGFkNjRVY3pnRVNzR01sQ0JPTEMyeFBBVEZEWWJvQXBwOWNRMkhvOTV3S3U0TUxRTGxvY0pFS3FqRnNOdHNMMDdjTnZvdzMybUxiQmFrMFpuSmhfaC1BLW9MU3ZGd3BZRWQzR1kyTzY5TnhRR2NwOW4tMFlVc1Fh?oc=5",
+   "date": "Sun, 22 Nov 2026 15:56:05 GMT",
+   "vu_le": "2026-11-22T16:00:36.691504+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "Prediction: These Will Be AMD’s and Nvidia’s Stock Prices by 2028 - The Motley Fool",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93NzQwRldFZG9rRi1UVlRPNm5YU3NHQ2FHYV9JMFc3TzZVZVRFalRqbGRaX2JDVUI0RjBsMGpWMTBrNzBVUkxkTFZMdUpWSWhNY1pvZ1NRcTZTSUE?oc=5",
    "date": "Sat, 21 Nov 2026 18:03:00 GMT",
    "vu_le": "2026-11-22T03:50:34.815576+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "S&P 500 drops more than 3% as semiconductor stocks lead market selloff - www.equiti.com",
-   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUYwQUZNMTc0ODR5eXlsdUhacFhUNXVlWGpkel9fRldXUlNUTU9CZXpKWjlZcTZJdkNBcEZ6bGdnRHBKVWgzbEJXT1NESHdneEp1ZU9vbThMVzcwaHZqXzlBUWFDemRUbHI4UWh0S2hpZ3k0WV81b2tGMW9IM0FXdkdWeW83T2t3RllTX25kQk0wbWtuYjJkWENia2RhZkltOTZqaUU5dlBFX0xteFJXSHUteHRGQ05XMlN2SDVIZUxmdw?oc=5",
-   "date": "Sun, 22 Nov 2026 03:39:02 GMT",
-   "vu_le": "2026-11-22T03:40:35.173258+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0NzaGhsN3lQSE1HMWRPRXo5UWh3eTBuQzZDVXVZN3RxSXJOU2hKNFh4V0FlOFBhZ25teWhIUnhiQXFrMVJvY2laRm9jazBRR2lWYzZvZTUyMmZ3WUhaLVhTejRrd0poWE9SWkxzckZyRVZnZ1BWd3JxSXZRTlVVaWVDeTFSd2NqNXg1eWJjNk9VMThDSlFNN2tRM0MyR3M?oc=5",
-   "date": "Sun, 22 Nov 2026 03:20:00 GMT",
-   "vu_le": "2026-11-22T03:40:35.173258+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off? - AOL.com",
-   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRDU1MWtsM1E5M3E3bFppZnV0SjRuYlNPSEh3RDlTWjBOWnVtVjljd29fbWphdTZjdTFNcmFRVExqc1FZWm9TLVBwWlVHcGhMdTRsN0YxSl8zUl92SUJkZXFoTkRGTUVDOVlWZEt3SGVlU2JDTkJWdVNPZVBpMzVpOTE5Q3c?oc=5",
-   "date": "Sun, 22 Nov 2026 03:20:00 GMT",
-   "vu_le": "2026-11-22T03:40:35.173258+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Should You Forget Nvidia and Buy These 2 AI Memory Stocks Instead? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN092LTVsaDAwV2QtVEFTQkZyaHNzRVpCTmNPdVc1VnBnSlk3bDczczlNTXdoY2dhSWJoSkVrQ1dtZ2RZVXdDdDNORHFJbVhyN3dqcnFFVmNSeGxEVWVIVTB6a01wN01ERWlCRi1FczBsZlJ5ZVJRRDk1LTRuOFJzM2dsSlEyN05PdmZnM1NRLWY?oc=5",
-   "date": "Sun, 22 Nov 2026 01:23:00 GMT",
-   "vu_le": "2026-11-22T03:40:35.173258+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Cloudflare Q2 2026 Earnings Preview: NET at a Record High, Can a Beat Justify It? - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObzFrWUtPMEx3Y2dtcl9sWWJZa0JSbTBWUU5Qd2ZVczVrYW42czBLYzl6VWdOTkwwenFGSUZZenE5TE40SndaekxTZk1VNGV1MUg2ZG1td2duUGgwNGpaUmFZd3ZpVW5GaUk3ZG4yUzE2b2FqNWl1SDIzemRZNzZCZ2c1SGI1SVVnLThPNTk5OHNkUkVhUnRheWE3OUdjZTdxY0R5NUVFS0xVQ0JOQktoYk5pTQ?oc=5",
-   "date": "Sat, 21 Nov 2026 14:20:49 GMT",
-   "vu_le": "2026-11-22T03:40:35.173258+00:00"
   }
  ],
  "erreurs": []
