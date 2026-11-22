@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T16:10:35.984415+00:00",
+ "mis_a_jour": "2026-11-22T16:20:37.658661+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55649.81,
+   "prix": 55633.31,
    "devise": "EUR",
-   "jour_pct": 1.39,
-   "mois_pct": -23.2,
-   "volume": 115.28584049,
-   "volume_relatif": 0.48,
+   "jour_pct": 1.36,
+   "mois_pct": -23.23,
+   "volume": 119.65710304,
+   "volume_relatif": 0.5,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,76 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic fait ses débuts en bourse avec une hausse de trente pour cent et frôle les 2 billions - Foro3D",
+   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVl9hMWNLWTNxc2Z6dHAxZXVrQnhQT2hXUjA5b3hPa3BkaGQ1WG1HZjBkUy1rSl9TRHp4bEUzb0hTYVdXdk5vRzR1em5RclVsWnF5cVVXLWJjVDBhV1UyODNETng3U3FmZW1ldVVIOTJBM1JBTzNydnRDdUNJSk0xZXlzWDl0OVN0a3R3c1BNdGdOeGFxQmdvSXpMUzQwdGt3akJTaXdhbVMtRkU4Q2ZtNA?oc=5",
+   "date": "Sun, 22 Nov 2026 12:02:15 GMT",
+   "vu_le": "2026-11-22T16:20:37.658661+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Investors Brave Stock Market ‘Fragility’ as AI Trade Falters - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnVJSXZOc19yY1dPSG12MGpNT29BU3g1X1c2TjliWWE4V0tGejk1cWdlRUJaZUI5bmhyT0RFTVZlWDNidmEwX01XYU1kT3ZVdFlVX2YzTGZqQnJEdlBVeEhZQTJXT2JmNkdWZ1J3b3FQeTh2N3VvWmJQNFMweEJpV3NhbEkxWGVQWUN4NmZsOXNHOHJWZE1VUUFXNHlRUHliakRwakRKbTl4ZDZYUUE?oc=5",
+   "date": "Sun, 22 Nov 2026 15:00:00 GMT",
+   "vu_le": "2026-11-22T16:20:37.658661+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Taux de change du dollar américain aujourd'hui (22 novembre) : Le dollar américain enregistre sa quatrième semaine consécutive de hausse. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOEROQ0c2NVIwQUNKM1M0bFJQdU5BR0p3Zzd1aFh3Z3FXckJkN0U4YVdBMENMNmhSeXIwNW9XeWZScGd4UUZMelhmWnI1bENRaGVzeVM2VjZqNmRsVDdza1NvbVFySEVoNlkxT0hjMVRPWHNmQkROenNrNlVLaGZJZ19SdkxDUHRoc00yTm1MRGxpY2VFZGthdWlGQ2dVampp?oc=5",
+   "date": "Sun, 22 Nov 2026 02:37:06 GMT",
+   "vu_le": "2026-11-22T16:20:37.658661+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Retraits de stUSDS bloqués : pourquoi Sky retient 150 M$ - CryptoTicker.io",
+   "lien": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82eUxIODBRMEVPazJNZWpkMmdpVTVzcGtydVE3cHlrdDBrSUZucXp1TnV3UVZTNW9COTZxS0JyZjBvbDFTV1AweDd2WEMyRmR0dWhPVnp3Y0Z4U1RGc3NKNVVjei1NT1ZLenQ3Vw?oc=5",
+   "date": "Sun, 22 Nov 2026 15:35:00 GMT",
+   "vu_le": "2026-11-22T16:20:37.658661+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Prediction: These Will Be AMD’s and Nvidia’s Stock Prices by 2028 - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSmFVQUJIakluQUtxb2RQU0NlNmJpaW51WE1ENmd3dWxoT05sazI0cURNdklCZ0l3Z0dvNWVleGkySm12aVdDTUZJNU4tUEdWWU1jamxKRUNzVENtZFo1b1pEeldBNnE0SEg1S0NtTFRIaUlmQTJYZElRMzBTQkxXQzB0RWtDVWZlUDJRaWdsZ3dRZ0dWR0M1djkyb1NIdzIwRmJ0a2h0YnNuVWhLcWtVTHN0TGpRMTljTHd1N3FfdG1qQkhVeWh3WUUxU0pZdVRVeVA3aERpR2hmcHNZM1ZUN2FzNA?oc=5",
+   "date": "Sun, 22 Nov 2026 16:07:48 GMT",
+   "vu_le": "2026-11-22T16:20:37.658661+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Earnings Beat Could Change The Case For Palo Alto Networks Stock - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNHh5RjFBYmRJdkVWaWIxVUVsUDM2OUNmVVJfMHNHWXVqenRaem5Wa2pkVHF0X09UbUtfNmdabFo2R1VfRUhWODEwUE9CQ01IdTUxQVBERGJVeGYyMlQtS2dqSDd4NG84Y1hMeGNreWZqcXZPZmw1Z0xoLU9mVDdmV3NzczNqTlYweG1LWVFMU3JjUjJYQU1RQklYc1d5MklmUy1JRVF2Q1hMV1VzZHBvN0RsczJTNkpQbmptV1I5TGFZVVMxaEgxZHZqYjNfZzhSdEE40gHYAUFVX3lxTE43eVNCLWpHUk1LNUNJRktLaDRyZUlWRTJnd1JSQ3RySWp2SGJ1Y0FVbGxtQWM3TTNoSzkwUGxnNzBSY082bWE5Wm9LUnN4M3gxVE9aVllxZEVpSjhJaEs5TG9sWXdRVk52TldrOEpPWUNpYzY2REROU3hlVGZ1TFlZb1BHazhOa2hpaEdhTE5VRXhwTFBWektwa2x4Nmg4cVBXSWdHSFFFQ3FCZjd6ekxUZjBZak1jTi1VdFNYdm5ROGNRekd1M3h0R0tvMlp5aWpFeEtJQVNweQ?oc=5",
+   "date": "Sun, 22 Nov 2026 16:08:43 GMT",
+   "vu_le": "2026-11-22T16:20:37.658661+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Aether Industries to hold investor meet with Antifragile Thinking on Nov 25 - scanx.trade",
+   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQenlVTjBGZDE0UnIzSnlyMWFKNmkxTlVHVzR0Vm93TnN0eHc5RGp6dWJFUnd4ZWpVWHVqZXB6SnEtZ0dYaDlHTXZFckpzTlZyem9OdXppSXNlSkVaNzlOVFBBSjZzUkZZc2JtVjNkVF96QjhJMEpDbW1Ra18wSGdtTzhEWEpWenBrQmpfa3M3U20wRTM5LW5IaUVYcFB0Nk1JWURhS3l3aHh2SGV2dENVT3RPcEw1RWIzcEV6NW5B?oc=5",
+   "date": "Sun, 22 Nov 2026 16:16:23 GMT",
+   "vu_le": "2026-11-22T16:20:37.658661+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "United Foodbrands to attend Kotak Midcap Conference on Nov 26 - scanx.trade",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOejBaWHVfSVk1RWhEUDVoTXdGSWRJaHFsMjlZWnlCbXppNHVDSlNfdmFIMXlCb1VGd0c3VnVrMFBiQjItWkhJRHhTaEY2VnE1RmUxOGJCSDd3WkE2eE1UdVpPeTJnU1VfbTRBQXBFbXFUR29GRlJac01XRFZDaGJPcWlnWnpOVEhGb0Z3NkhoRHJaVzBmakEyV0czZzV6cENvdThzRDU0T0Izcm5seXNTZmp3?oc=5",
+   "date": "Sun, 22 Nov 2026 16:11:29 GMT",
+   "vu_le": "2026-11-22T16:20:37.658661+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Arxis, Inc. (ARXS) stock price, news, quote and history - Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QaGtuRWV1N0lmREdZMWxFVzhqdWgtTmN6dXJZWUNiQ091M2FsSFRFNjBPeVFlV1VrcHJ2S2E3cjI5VmJTM0o5M215akVHNXBlcjlOS3c2UGxlbDl0OEVDbEhn?oc=5",
+   "date": "Sun, 22 Nov 2026 00:16:01 GMT",
+   "vu_le": "2026-11-22T16:20:37.658661+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "HYPE price on Nov 22, 2026 at 12pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNm1Qd1pBOVZQLUZiZkJmdlpsTG44Y3BYVEkzZ2I3UWVfa3M4OWFNdEVLT2s0TWZIaWZDODZSZF9GbjBNeVFrZVdiNWFwZHpTalVLSHFYZWJvUGJ1bVJOSFVuUVRYWlJxV2pTc2Y0SkNPa09WcERPNnY5cWlFVGs2al9kalR2bjdDckhCUExoZG55bGZoa1JuZ20tcTZPMGt4dFN1b0YwYkM4ZnIyX0F6dg?oc=5",
+   "date": "Sun, 22 Nov 2026 16:10:03 GMT",
+   "vu_le": "2026-11-22T16:20:37.658661+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "Nvidia's AI Demand, Alibaba's Chip Pressure and More: This Week in Tech - Benzinga",
@@ -6482,76 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uUnBNbTZPUkItYXVHNGpfelkzYTU4Skk4dGdlTElpcnY2ZC1ObVRRNlN6eXVuSTl6SmxYRUpvUVU2TVBDb2RXZ1o5ZnM3OEZmTHZzcHg5WU0?oc=5",
    "date": "Sun, 22 Nov 2026 04:13:29 GMT",
    "vu_le": "2026-11-22T04:20:35.290379+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic stock slides with rest of market after big-ticker IPO - Washington Examiner",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc0o1TFlNT1Y2ZDZDdFBTcHBjX3g3bFRxaDZLdTNvdFlTdTdKbG9fUFBkeUdpMXJJcWRhWkF5dlVraGZIZDlSd2lhWnlKZ09Uckp1ZDRRdllKNnBiR2dvZW9pOWQxd0UtUkVSeDV4Mkg2YjBkNE5TeksyNnpfWHBaVm1Ka0Nnc3RuNkFaQUd0OEo0MnRfRmVweDlZQW95YVYxRFE?oc=5",
-   "date": "Sun, 22 Nov 2026 04:01:03 GMT",
-   "vu_le": "2026-11-22T04:10:35.857490+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Panique à Wall Street : faut-il craindre un krach après une chute historique de la tech ? - Le Figaro",
-   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc3VkVTF4TDgtQXkxU0ZyRDU2aXVFTU01NjdPRndfb2tRNU5nYVowdDJlV1ZPS1pBOGl3NDhkcFRPX2I2c2sxTHF5RkxJanBXQkxEV2xpQnNkVjZXWW9FUGg5RHU1N1VsLUdRX1hVRFFENmNYSXpEYTM2Q1FFa2pmd05TUEZZUUZPMzlCRy1rRUo2ZDJpRDhHVU04Z2lOdllLc0gyNmFGYnA0LVFtcW1hdklaaEE4T0tWMExlVWZtSTBoX0xnQTFSM1I1aUFuaFNWN3c?oc=5",
-   "date": "Sat, 21 Nov 2026 13:09:33 GMT",
-   "vu_le": "2026-11-22T04:10:35.857490+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Les prix mondiaux de l'argent ont chuté de plus de 15 % cette semaine pour atteindre un plus bas en 14 mois, tandis que l'iShares Silver Trust (SLV) a acheté de manière inattendue 77 tonnes nettes. - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPanJhSlRBLTZ4RDE5ZTVOb1FTcnVOUHNOaV9pcG5ucW9ESE5aN2tlZEZmbUtkZERqb3g5cEhCd1hPRzY1WWlzNEZfcW8yVlpFWmN3UURwTzI4WnpYbVNtOHZrZGswUF91TVlwdm1yaDZBLUpVNUFCcDBESGc5THpMaVllMm1oQjdGNGcwYnVsYTVHUE5XdUVpbzItWDBocnd5ci1oaUdZRTQ2enJkbmE0RmFhMXB3UExsdllqTi1QRENyS3R4a2FiUTNpa0VQbEU?oc=5",
-   "date": "Sun, 22 Nov 2026 03:59:16 GMT",
-   "vu_le": "2026-11-22T04:10:35.857490+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Nvidia Q2 Earnings Preview: Gross Margin and Rubin Hold Key to Breakout After Four Straight Quarters of Post-Earnings Drops - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaFNkVFRDVlJ3OUJvc1hMZUl1UzA1RTN2ZFd6MGUxUnFQbXltQlFWV0U5RVdEcFBIc1VkN1dnQ2VFcW1EaVVScjgtWERlVE9SNHU2V093QjI4RmdLRTZyWTNLcm0zRFNILVZ0YTZFUzJIQjhUZHBWNXFhU3pnak5rUWtVQjIyMUhERnZxY3dXVHpncVhDQjQzZ1o5aF9QQUUtbDlON2ZuZllMdGFwMzBwenlXcTBCd255VzB5ZVpxUHdrNmZMMlhCSVdPUFpldlBpa3Vld1M3VlFmdw?oc=5",
-   "date": "Sat, 21 Nov 2026 14:53:52 GMT",
-   "vu_le": "2026-11-22T04:10:35.857490+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "ASML (ASML) Q2 2026 Earnings Preview: $7.94 EPS Expected, 8% Options Swing; Triangle at $1,800 - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUk5WVnlaMVZ4c04zTVNBV2ZTSDdGOGlsM2xvZUFVZ042UTI3U1p6N0tiaVFJNS1qZmNOTEF1NTBQaWxCWUpLVWF2eXRVSG80R0tTenZGeW5XRGVfMU1RbEEzeXhQS212QVhweVA5ZFdmbFJUamR6UTgwOXpTN1lDZDFtSVRMZWpSSndZclJ6RmxvNFo5VS11RnBtU2xRdFhDT2JkMWEtY2RvdW8zdTkyaE00dlB2WDdVb082OHVROFBoWVRwaEt1NUJn?oc=5",
-   "date": "Sat, 21 Nov 2026 15:05:21 GMT",
-   "vu_le": "2026-11-22T04:10:35.857490+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 22, 2026 at 12am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYktMOVJFMktOUHU2MVZjZlRDNVNpRU9zMXdaZTRFSk5ZYjhfcHE1SHJTYk9lNEgtek9YdWFTR0hSaHNYWTIyU1dkeEZ2cGRYeUJEOVdhYkxocExodURMQkNNdGJVX3B5aDlnNlBhd0EtMjhoYW5aRFNZYkl0TF82eWNObXh1bnVzaUhQU1JIQmI1RVpsVlRUeWxOUjlYQU5TTWlfTGVwZ043TVNNOGVz?oc=5",
-   "date": "Sun, 22 Nov 2026 04:04:48 GMT",
-   "vu_le": "2026-11-22T04:10:35.857490+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Le Bitcoin tombe sous les 60 000 dollars et menace d'entraîner le marché - Génération NT",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOFZKanhPZElEZC1PdXVNMWxGYnhhcWtNeTUxQm45cmd6X0g5WVNZQXl5cnUzMzlzWVBhQnhMQUg1V0YycFhrYnZPMEM0Z28zNTVpTVlSZDFXOW5ELWdXQ1ZPVUlHUGxHZkpQUHJIUXhJZ0hQRE8zbzZ0Z0FQeXJrcDJxaWFkbk10ODlZUEZpY2IwVWFxZmg5bnV1ejdGQdIBowFBVV95cUxNTGpja20ybmpBSG1FYmF3OTRkZ05XejljQk1GakJhNnVSdU8zR0ZDOVd6Mm03U0M5SWg2Q05HT0g2ZVRCZkFFZ3JWN1otN193clhveHpBSDdFYjJPWUQ1alZPNXJJWmlyZzFwZTk5YlRkM0Q4b0dpRi1KQ09OdVQ1UXhZQTdIcWJxZkFZV3JxZWNmbjNoTzVNX1R6bnhwbDBtT09J?oc=5",
-   "date": "Sat, 21 Nov 2026 17:30:01 GMT",
-   "vu_le": "2026-11-22T03:50:34.815576+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China’s $1.7 Trillion Rout Hits AI Stocks: Full Details - JournalArta",
-   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWnNibnpDcFZKdmM3NTRGMTQ0NlBrelJVNUxNMmNBaExnY1JydkR6QmFocHpYSFY1SEtSSjZTQTduemNLZF8xT01nTW9pMm5BTFM2bGR6R0RybmFjejktQWNwYTFZZ19OdE9hVTUyLVk1THJ4Qmt1NUV5NjJKYmJRUzlXSW04MnFHRlE?oc=5",
-   "date": "Sun, 22 Nov 2026 03:43:31 GMT",
-   "vu_le": "2026-11-22T03:50:34.815576+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "What Costco Wholesale Buyers Were Betting On - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaEhCLUpZWVBWcVlJeGJlUVZPM1U1MV9qMHphbzdzT2lVNmJIWW4xengtSUZmX3JMdV9yWXkwOVRDbV9ZTnBPV21HTFNNbWZmQTg0U0k4cEZmQ0RsRHR2dTJnc2EyRjlCT0dUcUtXdE9OOFZwdlJIWUFJSlR1eFhlNE56UDRjTDVrdEZVLU9tbVBvem1iMFZvNUQ2eEoweFM5TmRNUi1mTWM5dUkzNXJGMU5SOHZPVURLaFI5T1UxWjRJQ3lrU2RCUw?oc=5",
-   "date": "Sat, 21 Nov 2026 10:09:59 GMT",
-   "vu_le": "2026-11-22T03:50:34.815576+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "HawkEye 360, Inc. (HAWK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uZ0o5Z2RqOF9Xa3h3bk5kNlN4S3VHZ21uY2xFZjNkZFFobTZvZFBOMndFTVhtNTJiRTlDZVFMR1hRZXd0RU9WamlxOThpa0p4UEE?oc=5",
-   "date": "Sat, 21 Nov 2026 13:35:47 GMT",
-   "vu_le": "2026-11-22T03:50:34.815576+00:00"
   }
  ],
  "erreurs": []
