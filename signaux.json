@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T01:40:36.253991+00:00",
+ "mis_a_jour": "2026-11-22T01:50:36.200614+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54763.55,
+   "prix": 54879.26,
    "devise": "EUR",
-   "jour_pct": -0.23,
-   "mois_pct": -24.43,
-   "volume": 4.95310692,
+   "jour_pct": -0.02,
+   "mois_pct": -24.27,
+   "volume": 5.04772635,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Tech stock sell-off drags markets down as Anthropic shares slide - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRmlYZFYta0p0eno5V2xId1hWX1VDMl8xSWYyamRvaDlnQkFSSmlzaWR3UHN4Vl9DSXJaUFlWb1p0cU1XZ19GV1d1eDVnbkVfTlJLN3dTeC04cnEzbjVCWGJSdmQ5aTE1MjFuWHdidThMSjEwMjZhT2hZZVRLWmpfUUtSblptNTVGd01nTFBZVy1tR0pU?oc=5",
+   "date": "Sat, 21 Nov 2026 07:43:56 GMT",
+   "vu_le": "2026-11-22T01:50:36.200614+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "SAINT-GOBAIN Cours Action SGO, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yelBQSjVyWUQ4akcwX05xdmJGM2RBWlMySTEzRGsxWlQzSEJuOFdRNm5MMDlhZE5GVGZuYWU4OEFGS2Ixa0FCeEJJU2owRTduVlE?oc=5",
+   "date": "Sun, 22 Nov 2026 01:18:26 GMT",
+   "vu_le": "2026-11-22T01:50:36.200614+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China’s AI stocks lose $1.7 trillion as tech selloff deepens - Investing.com",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFVZZTg2Mld1MHF0MHZ6dS11NDd5aFA1Y1BTeFNobEFCaGlvWFAzSVZBSkVxNlR6bDRNV3ZIeWVqTFNlSW5jVC0tZDlWVV9mNTdlLWJ0XzI4OGdSdGpEdGNiOWdHOWVpQk5JTVlWcm5OWkoyVmlZSXJLSDNRM0dHS1dNQzk1TmljZ3lNcW9nZ3dzdEUzZE45TWxsVnNHQWRna3NQNS1pb214dmdDdDBJY3NVY0U?oc=5",
+   "date": "Sun, 22 Nov 2026 01:13:48 GMT",
+   "vu_le": "2026-11-22T01:50:36.200614+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "US AI chip curbs hit China tech stocks, spur self-sufficiency push - The Daily Star",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZHBlLUtBSzd0bV82TVpwQ3BJVzZlbEJwVjJKdXFBenQ2dlUxaG94SndyNE81d2w3RmVESWhia0xWcV9jQlppVWNaYnprRU16ZFlqdmdMemhrZkp2M0RVbUdhYXg2TDFna3hJMkp6SGRiLTFqcU1BODl1QUtaTmZLQmFCY0dvbkxHSnRzZlZKano4Ynh5dm1zN1lXODZhdllzM2dBV2xndzY4TDdFUncwU2hpUHhCQXpDck5mTEtVaUFiRHRrWG8wWFJSbw?oc=5",
+   "date": "Sat, 21 Nov 2026 22:46:50 GMT",
+   "vu_le": "2026-11-22T01:50:36.200614+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Plunges to Two-Year Low Before Rebounding Over 8% to Reclaim $60,000 Level - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Gc0pod3AzdFBPblREbGNxM1p5TFJobV9ZZERBcW1jcEpxMnk5eno1UXpxcDJ1dzNpbi0xbjlUVktsdFpmMVVRR0tMWkxrbmxobzR0Z19yaXVaQV9ZRU1QT0FJUnlGdldZaDZqWGROSF9hRmc4a2c?oc=5",
+   "date": "Sun, 22 Nov 2026 01:35:00 GMT",
+   "vu_le": "2026-11-22T01:50:36.200614+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "China’s AI stocks lose $1.7 trillion as tech selloff deepens By Investing.com - Investing.com South Africa",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPalctRkNPellOMGZPVVNGOVVLTFdpLUFtc3J5Mk1HS1NsUnFJeUY2azMtZDNnN2JEbTVYWGhrd3FyZUNwc0N0ZzA2SHZXZmJ2bE9KSF9DUGNpZjVnTDI0UDR0UmR0ZlUxYXI4RHU3TUVhM3FoTGM5OVU4TnZJRlpPeEhFOFlQMzVEQUdNYXRfTUhPMk9MdjYtOHl0WmRGbmZZSnhJaEh3aW83d2xjVm1lbnZyZUc5XzlGQnhzZUJKVnBVV2FXMEF1c29IVm9IQjhxM0ttV1hLYWQxdlZ5WU9pVExGWHhVS1U?oc=5",
    "date": "Fri, 20 Nov 2026 14:39:45 GMT",
    "vu_le": "2026-11-21T13:40:35.377771+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "What Is the Best Crypto to Buy With $500 During This Crash? - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUJ4cG5zSGR2MlZvM1U0d2hacExORGdwMnBGdkozbTRoemxhdl9ac1dZckM2ejYyeHdYTWhrUkNrSXRIWVdka0xaUDNhWF9SbXhBS3VmTXpRb3oxM2ZMWDZVRE1iZnpRZXlRa1Byb2tDTlJSSnY5b1pfc3FUa2VRNllHdThQVDJBYlRXTFNMcVJwcDBjdDV3M2o3eVJoempBUEQwVXFHUW15ZjhSamprR0N1Y1pFRzg?oc=5",
-   "date": "Sat, 21 Nov 2026 12:53:00 GMT",
-   "vu_le": "2026-11-21T13:40:35.377771+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Crypto Crashes Pile Up as Once-Diehard Fans Chase New Bets - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWldzZ3FOMDVsVnZRTE5qZlduOGVUNG9BWUgyalhNcUtUOHUwLW1iOUVtNjBtNWVVUkZMMzZ2cnF2b0ZFQVdsQlZzcHRxV1RuQldoUWoxZmZiNXhZbGloaWRtckdPREQzbGM5OW5KaTlYM09KUXNSbVR0UnBoSnZFd0oyeEJTWFRrX0N6a0I1TFV5OVl5d25Ic0M0bGZpcWxTWWgyX0FLSDZsX3RIeWc?oc=5",
-   "date": "Sat, 21 Nov 2026 13:30:00 GMT",
-   "vu_le": "2026-11-21T13:40:35.377771+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "How Low Could XRP Go if Bitcoin Falls to $50,000? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYzExX0Z0RFh5STM5dEMwMGV5OW8tOEktZ1NRZWdndnotaTVPVE5SbmNSNEh4RFd6emNNWnhlOHlZZks4bFlCZXBaS25WTU5Nek9Kd0hTQ0pYUkd5NjdBLXB5LVVhN2ZYY2s0Y250NlhzSUJBX3d4SzAxc0QtNF8xTktQcjZMYWtoUlpHLU5nR2lKZkUwN3A0?oc=5",
-   "date": "Sat, 21 Nov 2026 12:46:55 GMT",
-   "vu_le": "2026-11-21T13:40:35.377771+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Le Cac 40 enfonce plusieurs seuils, dont celui des 8.000 points en fin de semaine - Investir Les Echos",
-   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVUk4MHBqV0luNFR6MmlJQk0wYzA3dlUxT3RNRlVoSjlpenBEMHlWU0sybThiWC1ERjlrbndXcVZhYTEzVmZOQWI3WVZMUk5hLXFCTGRjRnFzbUhxOUQ4U2h4ZUFBd19KZ0JBMGV1U1JqR0E5SkxXY3VWZk8xZzBiYld5Vl9EWDB1OHVnaEh3Z3NHZk9QNHVXZDhGcWJkZXdPZ0R3aGd4Z0h4UVdfal9FSHJMa0lKYmlCUzBBdzBHc0xZWDBPcGNCMF8tNnFadzR3eFh5ck5hQXhaZzdVYjg5cHVHeDE?oc=5",
-   "date": "Fri, 20 Nov 2026 17:35:09 GMT",
-   "vu_le": "2026-11-21T13:30:39.016028+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Has Traded Below Its 200-Week Average Only 8.4% of the Time. History Says This Is When Patient Investors Get Paid. - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbFpRY3NjcUpJV1FkcDJuZENXVDNaVTQ3al9CUEU5NWVlNTVmVzljaEM1ZjZtT2VURERGc09mdkFMWEpmSXBEZmttRFBFa0lEc19NLThieHJUQUFxUWFYNjhPXzJpWDR0enpMcnZzbjltWGFOSDMyY293dlVFQUFNMzdzNldJM1dYeGdjdjBFRUJZaTBCQTVIenI5QzlrWXFXQWtBUEZ3RElfYmg3NWI0bTNnMGMya1VzWGJxc1NPd3hLenIyZWJoRlRjWU9wdw?oc=5",
-   "date": "Sat, 21 Nov 2026 13:19:41 GMT",
-   "vu_le": "2026-11-21T13:30:39.016028+00:00"
   }
  ],
  "erreurs": []
