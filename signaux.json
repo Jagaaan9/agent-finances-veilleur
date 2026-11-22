@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T08:12:21.170548+00:00",
+ "mis_a_jour": "2026-11-22T08:20:38.457796+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53980.04,
+   "prix": 54167.85,
    "devise": "EUR",
-   "jour_pct": -1.65,
-   "mois_pct": -25.51,
-   "volume": 26.9012744,
-   "volume_relatif": 0.11,
+   "jour_pct": -1.31,
+   "mois_pct": -25.25,
+   "volume": 30.08376992,
+   "volume_relatif": 0.12,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3491,20 +3505,6 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Key facts: Anthropic IPO Raises $81.3B; Ratings Issued; Shares Slip - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTXBCdXRWRmoxODVVbzJkemV0S2lTLUprNTZzTTBDSFo3U0h6S3FUU3dUYzl3YXNqeDdfcVJOWkdfSlpiOUQtdjUzTWVyUkJnRjNic2RjcW52bGgweHJxZ0lZTG91ZkJ6X1AtTlhFSGdhMVR5bXZLVEtjMnJrVWg2V1RPazJINjY1TzIzbUZKREJrcjJWckZCSldfWUJjUVI5anVuM0t1RU52SWhjdlRLUmdhVnNjcmJKZkVuYUYtSmxjQXc?oc=5",
+   "date": "Sun, 22 Nov 2026 08:00:00 GMT",
+   "vu_le": "2026-11-22T08:20:38.457796+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Premium bid catches interest of Nuix board - The Australian",
+   "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUzliSTZKY01qTm91N2hwRjhBam9uSVJXNEJOM1pySUZKbFU0OGRxT3NySkpqYUxxNkRqcmZDYjlkX01aM1pqa3VrckVrYW5OSGs5MHplay1NQU5mNURDMlpQdkF3NmtfdG1TbGItdGswRzlBZFhkSTZPdXFVTk50Q3JiR0JETG44OTdmUFB1amQzTnJ3eEtianRTd2JVYkJvQW9RZEVLd2pMR0s4TTJFalFOY1doWGJHOTZHOXR5dW5sVE5uRFBHblUxVDZHWjk2MDdrZG12dmR4Q1lFZ1RIRU1nbjBPd1dRT1VybjZZTjdhbjRuY3B3NjkzQ2xwNXB6NkhF?oc=5",
+   "date": "Sun, 22 Nov 2026 08:04:44 GMT",
+   "vu_le": "2026-11-22T08:20:38.457796+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Coeur Mining (CDE) Looks Undervalued On Paper, Can Mine Ramp Ups Justify The Upside? - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcmtNZGJ5c0VLeDh2TTg4TTVLZ0d1MVZtQlhYVmRYX3FidDh4ajFWVG1BdGVOdkJaRkJHYzJjVWdkMVVJa1l1MTJYU00tXzZ4WDlUUm9QazNiT3dEbnQwaWttbmN3OVJxbnVIa2JZZE1FTFZKMEVsRUI4WnRwOHVlS0hlNlZCRkJOelQ0S0hGMmExOS1DSFh4SXM2Nk42XzUweXVTMkFlZGdNclB3UjlVVDk4R0Z2S0hSZnpHVjdfVmhHT2c5THZzctIBzgFBVV95cUxNN2txU0pvQTN0aUNuaGEwcV9ZNExXbnZxblNGU2xxc3J2VWgzZkVVMnU3ZFpLUXowUHdDSFRsejRPaGNEZUo0R2FlcmNqOXFNdlUxTU9UUUZ6WVRZaG5DZnMzRnZjeUlhcW1yX0l5ZjZtcFBaWVFJeTJtb3U1WGxVdFVaMmd6UTQtYlYyYWZjNkFEVlhNRldENC1reDVfOXFvc1RaRFdPbjRPUjZNU0ljS0N3ZE5ITk5FVW9EX3E5Y05VZE1aNEhkcnBWZTlNZw?oc=5",
+   "date": "Sun, 22 Nov 2026 07:13:02 GMT",
+   "vu_le": "2026-11-22T08:20:38.457796+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "RLI (RLI) Following Its Special Dividend Looks Fully Valued - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVB1cmlTTjQzUXBrZk53NVZKU29GWlFfLUZnczJGQjlKd3JkeGxKbjVseloyQUhlUndyR2FjMFNKY2tFbU1lSVIyQnlEWUlkMmliWmNQWkUzRG4wS2lvNVpMNFJYTHMybXpFTWFBN25ZSHI0LVRtaVd4ZE1IQTdvWDVBMTVzZEZvLUlHQXJaVm5JNmo4ZVNPMEZEa3EyU1JkUmMyaENsSW1Cd3FiTkhzOFFHbnl5aXJG0gG-AUFVX3lxTE9JV1dFRHRnQTlJOFItamhla01TcXJuNVVJREZtd2NNZmxqY3NFVXRQVFY4VXFmd1hmWlZyR2FpU3NvRW1BZ0tMVUl4M3QtWFk1ZVNfOC1xOUxLaV9hVW1GdDFKWHJiUkdKdnRCdzJCN3oyMnEyNEF2Q3l2akM3NlpEb3EzajV1SjFaWHdacHl5VUVETDlXSGFRc1hOMGJBMVBia1hrdGNHUk51TXZLb1drU1lfSG1kN2dubkk2dmc?oc=5",
+   "date": "Sun, 22 Nov 2026 05:11:46 GMT",
+   "vu_le": "2026-11-22T08:20:38.457796+00:00"
+  },
   {
    "sujet": "Pays émergents",
    "titre": "Asia, Africa to drive expansion of India's export markets as shipments grow across regions - Malaysia Sun",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOejlycTNOTWVaLXBObmZzQ29NbHBmT0ZMMDhJUVB1Tm85VXhCRjRKRWdpUHlYM2Mxc0xPZHZacEt2a05BUEFLaHM1c3FqU3doWVN6anJJOW84QjVleU1aRGNzV2RKM0k2R2tvY1JUTk9kbWh0VEdrYzg4YS1nWEZGUTQ4WEV3NlU2T3NxQVdFWjg?oc=5",
    "date": "Sat, 21 Nov 2026 18:08:06 GMT",
    "vu_le": "2026-11-21T18:40:35.753245+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "What Does BJ's Wholesale Club Holdings (BJ) Raised Guidance Mean After Q3? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNk9Ub0dGLTQ5R2JpLTZjVlVvUkc1RlZfVHFNUjZqSXJLSXAtWGlKQWZWVTZvaFgxbXN5NktlbFlLZDAxTm1xQ09YbkNmWG91NDRUcnpJYUFndEtlNVRNTi1rcGtoWU8yaWg3UWpaaW9ucEVJc0VEeDgzVUZTaEw2UHZXZ1cyY2ZtMWc1cjlhTnFOWThyTlY2N0RKb1c2dw?oc=5",
-   "date": "Fri, 20 Nov 2026 21:18:37 GMT",
-   "vu_le": "2026-11-21T18:40:35.753245+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Copart (CPRT) Stock May Look Reasonable On Vehicle Recycling Growth News - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRDJ5S3hQWFZmdmFMR2hFYzhTNVdzQ0FSMXBlQUNVRWNoSnJpZVdTZ05xalNpdkdQcjlKcEU0RkxxMm1mWl9yZ2lrN012cklFbHByQVZEXzFOTWJtUGljNHZVaUtmenNCYnhMbnpJZ3MzWnhZWHZhVjhhcFc1OXVkY1dlclhNS1NJMy1wZ2czeUxwNUlINVNJNXFnemRJV3hoYUllYnAzckxaNGhSV2ZuekVqSVFmQkZkY3A4clNYNTkxVkdWc2xRZzdPZC1XVDRHQmfSAdcBQVVfeXFMTVJKRk01UnpOTWJ6bkVqRXJwVnlGc09NaWloNFZ2SmNTODJLcHcydGhXb1FNcWpiUXhQeGxtb3k4MTZFbE5tdm8zVTZSVFBTcHk4VWRxNExrdE0zdG5ET1psdnFiYzRGN09FM3RVa0hWSmdQVVZXRG9hblZCVlJ3Wk9xWUZ1ZmdGUEI3TEVVNkJKTXFxaVdVdE83OFQyTU1VaEpwQXVCbnl0bmNxdUF6TFAxeU41V0x0dHpaNzhWdjd4TjB0U1VmcGpsUzFqQ1FtTlk3bVROcFE?oc=5",
-   "date": "Sat, 21 Nov 2026 18:11:13 GMT",
-   "vu_le": "2026-11-21T18:40:35.753245+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Electro Optic Systems Holdings Limited (EOS.AX) stock price, news, quote and history - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80czMzSUxkOWxyNUZTX2xibWJyYmhWRW5vMm5rLWs1cUJFOF9RLVB0dGtHcGhfTWdPdU5WWkZOMUVvRUpPQ2NTY3pjNlpidkdLQnVZWA?oc=5",
-   "date": "Fri, 20 Nov 2026 21:39:12 GMT",
-   "vu_le": "2026-11-21T18:40:35.753245+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, says biz tech CEO - Fox Business",
-   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjVQWHNJMWw0Y21HYTVDN0lhX0ZYQS1FdzFCLV9nbVRzS09jNFN5UXRaanhHM2tXbGJkVGtlZVdMMnlTa2RTR29MUU1KbXVkekg1X19VeU5ISGJCbG9FRU5nSkNrZG1MWFJBaVZWY3pGUm5vUmZUWl96aWl6TVNDcUFCOXFxRmlYTFhRLTlqdTQ2S2FWTjJ4RWNBbnlVS2dtemlUSF9nOVlpZFpONElOdUhB0gG3AUFVX3lxTFBNVVBhQ1VSV2VIc0Z5OTJfSU1FUmc2UVFZNDJPX19TSjgteXV4QWxmbDZQWGQwa0M3S0tLUTY1V3ZTRXhUTmVNLTNBSk15QTRuQ1ZzSDY5VkFVT3laUl9XemZJVWZBVG9TU21UaW1US3JvWGZ3dGpiakppUDJobkQ2NW5lVGxEZUdCTlBnaGhEVWNvRE43ZTEySTBZaDJ6VzFuY08xN2FJRkFWUzI1Rkg0eEljUHl0OA?oc=5",
-   "date": "Sat, 21 Nov 2026 17:54:21 GMT",
-   "vu_le": "2026-11-21T18:20:35.208635+00:00"
   }
  ],
  "erreurs": []
