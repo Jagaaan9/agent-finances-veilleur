@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T07:50:36.085985+00:00",
+ "mis_a_jour": "2026-11-22T08:00:35.385502+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53917.37,
+   "prix": 53941.91,
    "devise": "EUR",
-   "jour_pct": -1.77,
-   "mois_pct": -25.6,
-   "volume": 24.74589961,
+   "jour_pct": -1.72,
+   "mois_pct": -25.56,
+   "volume": 25.09991106,
    "volume_relatif": 0.1,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Voyager Technologies, Inc. (VOYG) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jQkdJUHBoSFpaVnNyTVZoblRVNFRucXF2NEJaY0haRGh4azBYX0thYW1zVTV0d2RhNUo1WEc0S2JlMHFxOGdlV0ZjOU45NkltNUE?oc=5",
+   "date": "Sat, 21 Nov 2026 20:09:05 GMT",
+   "vu_le": "2026-11-22T08:00:35.385502+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 21, 2026 at 11pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQVFhOTQ5MmNDSDRGakRZbjdUQXd4eHY4QlktdkNRUkUteEVodHd1ekw5UVRMRnYwR05Ud1V3REZ2bUFIWmNydmhsbk81QXdpdGM4TnFtcEhqVU1iNXlOV2RIN0NyYmlVN0FDRE50Q19MUy16Wk1fajByUzN1UW5wSnVvcGZqSmhBTXRDdEZXZVF5OTdVd0poUkVtWkphbzJ0RkVqWERncmhyMS1vbHdB?oc=5",
+   "date": "Sun, 22 Nov 2026 03:14:26 GMT",
+   "vu_le": "2026-11-22T08:00:35.385502+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "How the Anthropic IPO could affect Amazon, Google, Nvidia and AI stocks - www.equiti.com",
@@ -6537,20 +6551,6 @@
    "titre": "NEXANS Cours Action NEX, Cotation Bourse Euronext Paris - Boursorama",
    "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82djB1RmVXWUNtdjFXVlVMVzFrdWlPUldOUnY5bnc1UWNHZ3VYTmNaM3lLdkIxTFFzNG4tWjZ6Q0p3dzZxZUFiUDdidHh1Rmpkc0E?oc=5",
    "date": "Sat, 21 Nov 2026 11:55:09 GMT",
-   "vu_le": "2026-11-21T18:00:36.242505+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "X-FAB SILICON Cours Action XFAB, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYX1FyYW1xal80am53OU5CS2xYQ1V4dWo0S2Z6R0xoMEdJYmU2R1lwNm5KOTEtUFcwSmhPR1JIV3FReDltMHNGZ2Vvb2F6RlRwSmRz?oc=5",
-   "date": "Sat, 21 Nov 2026 09:00:26 GMT",
-   "vu_le": "2026-11-21T18:00:36.242505+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "U.S. stocks plunge as AI rout deepens - 巴士的報",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXRuR2stTl80R2lnZW9RUnJabW8xRmVFdjJId0ZzUE1rczNvUXRveFNLakhSM2lMRkpMUVNQQ2xVaE1HRDRGdkxNMUQ2MUNtUEtqaXF2cUptYnp1QkNwTmJtS3dLQllFaUxnSS1EM24yQzAtWWhUdlhydkc1UnA4ODNxWFo0Zk1iYzJSa0pneWx5dw?oc=5",
-   "date": "Sat, 21 Nov 2026 06:53:10 GMT",
    "vu_le": "2026-11-21T18:00:36.242505+00:00"
   }
  ],
