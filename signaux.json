@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T11:40:35.442846+00:00",
+ "mis_a_jour": "2026-11-22T11:50:35.756991+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55665.07,
+   "prix": 55623.44,
    "devise": "EUR",
-   "jour_pct": 1.42,
-   "mois_pct": -23.18,
-   "volume": 62.14970314,
-   "volume_relatif": 0.26,
+   "jour_pct": 1.34,
+   "mois_pct": -23.24,
+   "volume": 65.21587433,
+   "volume_relatif": 0.27,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Did Anthropic and its bankers get a key call wrong after IPO? - Financial Times",
+   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uQ3VFV09JeGlqT21ULUV6OUFYZWtVbWUtQVNxVUtnMnozbVg0VU1oZG8xSF8ydklWbzhBMUluUjFrbDVvdUFmNTVRTlctcWpPTDRveUtNWDlCZldqT1lIaVBDcVVsbUxLQlJpc3J3a0U?oc=5",
+   "date": "Sun, 22 Nov 2026 11:00:05 GMT",
+   "vu_le": "2026-11-22T11:50:35.756991+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "À l'instar de SpaceX, Anthropic a mené un processus d'introduction en bourse atypique, ce qui a irrité certains banquiers - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IeWU0UGFRZGQ4dk9iMlc3UC1HSGRDcEVqcTB0dm9VVWtqSjJzYXRTWWtnWGVYTVZkR3lnMGN2S2M2X3BNQTIxUTIwZWNZMHZMMWRhVEFPMXBfSXdMY0VSRFkyTEdQSnc2WS0xUi1PWHN0QlBVdkRB?oc=5",
+   "date": "Sun, 22 Nov 2026 11:01:18 GMT",
+   "vu_le": "2026-11-22T11:50:35.756991+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Trois événements qui pourraient influencer le cours de Bitcoin pendant la semaine de Thanksgiving - Yahoo Finance France",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMm5OeGVmcjFES3YwcmtidVNyWTVsTkE5MlJxdXY5S3lGaFNYWDNsSmVVVmZ6a3VJeGFVZXJ4SFNCdEZpOFpkSF9nUDFPejFXaDlZZU9pOHhEZk0xT09oNW4xcVJCTENScjlGV19aSDJKMHhhaUNiTnlBTlp0Z1VpTHJTU2c4OVJyN0pyWjVDQ1VoYmxhQ3dxUWgycmlwNzBZN3lYU1QyLVNmZS1Nb0E?oc=5",
+   "date": "Sun, 22 Nov 2026 10:40:43 GMT",
+   "vu_le": "2026-11-22T11:50:35.756991+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Actualités crypto de la semaine du 16 novembre 2026 : Coin Hebdo #266 - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nMFdicDFtbENRNXNuTTlVUmd2N09uZVZsWGhMNC1kVVZfVk52X0F4bTB4Wk55QXZSbUlQYTBrV3kyeWJGdWZyUVk2TVFPNHM1cTd6NWFNVzUzU2dDMHRyVFBKT0RSeF91QWRqaw?oc=5",
+   "date": "Sun, 22 Nov 2026 09:53:45 GMT",
+   "vu_le": "2026-11-22T11:50:35.756991+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia China Chip Halt Puts AI Infrastructure Stocks In Focus - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY2V4dW16RGgyaXlrdVoxYW9RSzJ6YnpVU01sajhOVUVIejMtSVIza2JlN01zVk1ReWtfRm52Q0NmcDg4VUt2dDZuUWZ4eEh4d2pkaTBQa0xZZ0Z0ZklFRHZFcnEtMHltZXphRHFxbzVWX29XQ0QwYWx3ZjJMR0RGUDFHY2VHTXJXRnlyZ1kzYXVlQVpoMlE?oc=5",
+   "date": "Sun, 22 Nov 2026 11:08:01 GMT",
+   "vu_le": "2026-11-22T11:50:35.756991+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Analysis: How Long Could Weakness Continue Across the Market? - FOREX.com",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQXRvSGNVM2Z6U1dod2FyT2F5VzYxN21IeDIyWEhKMl9MUUpxcDVkRWRza2F6Vmd6YWxtSmYzMjVES3FYSDFIaURLanRFSl9uU3JndG5LaUtlWnJsS2FwR3FaRC1rQ295NDVOWlh1X3Fta2JjV1ZDUi01QnEtaXNPRTN3TTBNNlFneTlIMU9oakRWSUpSVHh1MkdFcU9ZdHBJTlppcjVvVjdYeXJSOGNN?oc=5",
+   "date": "Sun, 22 Nov 2026 11:46:29 GMT",
+   "vu_le": "2026-11-22T11:50:35.756991+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "3 Events That Could Shake Bitcoin Prices During Thanksgiving Week - BeInCrypto",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1laHB5X2xmTVVVWEtlLTh1MHZEY0dKRXpCVFVpeWJaS1VBb3NrbXhEdm5DSWhtdFZ2NmdMMzFTamtlMHRRc3JvUU9XN2RJeUppdFI0NVZ5WnRGdl9FRmkxS0xQMWVCb2hPMGdHTFN4eG0xd1lER0E?oc=5",
+   "date": "Sun, 22 Nov 2026 11:23:26 GMT",
+   "vu_le": "2026-11-22T11:50:35.756991+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "U.S. AI Stock Sell-Off Triggers South Korea Market Plunge - 조선일보",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPMmVuOExXcUp6SWlBcmZtbEJNaHJXcGNUQU5FbTVMTnllOVZoZFNqemlXcm5QbEZ2T3dFMDNRbnVDN2F6V2RoRE9CaDdLcmhETkJnN1dadDJDdGd3ZFdZV3BvN2U1dm1fQnljUFRaNlIxelRmb2M5SnVVUEhDMEp1dUtfZnVhbTRLd0pRZmhPbnpXOHRwZ1Jqc2JaOHNtMWNpYVJvMk1hT2xnNmh2VEZDMkhwU3RlMkU3YjVaTm93Qm5aeDNqbWd2VVk0QkFTVlN5Qm9GWlNUdEZUdXFVWFRmY1YtbXNnR254QXNzQllVZVZYemdhLWc3TzhIWlA2YjlhaGMwX0k1X0FvSFZXU0NEaVItREVDX2Q1ZDNmOFBYdnc?oc=5",
    "date": "Sat, 21 Nov 2026 11:56:00 GMT",
    "vu_le": "2026-11-21T22:50:34.876873+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Déraillement en Normandie : la SNCF défend ses agents après un premier point d'enquête - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZGtaTjFmNnVaWHhRbzFjNWRfY3pvZTZGUmI3X1cxX2o2bHBYTEJXaS01VHdQeEhBVnR2YWpaLUhtLXdTdjU3Q1RYQktpa0ZMY3dkYUROc01GQUZwb0J5eVdLNHNfVXh1cG5hamxmaGFhdXZMcDJLOEt5ZzlwQVBuVGhRWTVCTDU1TG5fWlE2WUFSMEF0U21MU29aaWl4a2dZaXMyeWJqejVLMzF4cDBmMW1wcWhvM3RQa2cxcnpJcGVjTE5nRHRmcDFLZUpzYzB5Q2dtZXlyaXF5R1lZa2czR3FIRnh4TW5Bd09hUjFTVFN6YXJ1X0FXNDZ1ZFNsanU5bXowY05EWmd3YXNZcUZYSA?oc=5",
-   "date": "Sat, 21 Nov 2026 19:11:00 GMT",
-   "vu_le": "2026-11-21T22:50:34.876873+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "La Finlande a détecté une attaque de drone contre un cargo russe en mer Baltique - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQjZ0RHZQbTZhV0QzN19XazIzNHRQUExBR1B1eEtBbVk2T1FBQThjeW1OOUJDcGsyeU1ORXkwMTF0NXR3SEhEcS1fb0w1VDR1cFR2eENRc0U3cTcyS1FmV0cyT3NKU1ZMMnpOWXVUUWtIM2JwWG1MaHk0QmhLaEotREYxX19LMTVlR0ZMenNxWER0aHhmZ0RQaE1yZkV6cXlMVk9TR2hFcTdRNjhKQlpZUVRvRDA1M3JZVEFnTG1YcUR4RGpkMDhBaW1tUGdoaU50a1YxS2pfYTlQREt6TTRVU1V0UzdDSlBkYlVIazFRNlg3LVNqVl9INlBLb01ZMXo3ZTRnMVZYbFlMRDQ?oc=5",
-   "date": "Sat, 21 Nov 2026 15:17:00 GMT",
-   "vu_le": "2026-11-21T22:50:34.876873+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Ruffin retire sa candidature et souhaite \"bonne campagne\" aux \"candidats de gauche encore en lice\" - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNOFdMdmVLb2p2T285SUxYeGxoWFdTQUl1ZmJ0NTBGQlktV0N6NFg0eXlvNU1UczcwVjlRekxyeDBBblV5ZU13RUF1Y2ZSQW5pcWIzYjZOOFRxZXlXQmthYkY4NzVBQUIzaVRvR3ZscFF6emhMd2pvcFlpTk45SFE3a2sxTFU4ejhTYzZTNGh5N2RFNDJsZG5iUkMyZGxnN3pmVF9ZZlNrbURPV2FiUzBmNDJvNFQ3VC1ST3RhM1NyMFE5QmtiMU5oVE5HU1lidV92ckcxODg1QW9LVEJHSERER0ZCQmpwNGpGMHpuUlRIVjU3d3lyeUc2UXR3QXN1czhXeEpITEQzTlRvbk80amF2TkJKRmFERzNZYmN3NHRoSQ?oc=5",
-   "date": "Sat, 21 Nov 2026 17:27:00 GMT",
-   "vu_le": "2026-11-21T22:50:34.876873+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Grands titres et actualités sur les capital-actions SSE STAR High-End Equipment Man (000687.SS) - Yahoo Finance France",
-   "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lVHlwRENHYV9adjNJTXVRQVhBdnJBSkpnb0FvcFAtaDJyZnNPeVU2VnEyWjY1RmV2TFhKVVRxMVhuMWd0c3pfNWVWeUxLV2VJR0d0SHNVQTZSSkVvbk1B?oc=5",
-   "date": "Sat, 21 Nov 2026 04:19:37 GMT",
-   "vu_le": "2026-11-21T22:50:34.876873+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Rebounds Above $60,000 After $2.4 Billion Liquidation Wave Wipes Out Leveraged Bets - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lTktBYWZxbXJtWElUWTdsUnFhZGlQRzFQbjRiUGRLcHcxdk1CRnpXSTRDOEM2bWROd2Y2MGRlb3VKR1J3VU1Hb3dObXBpblAtbjlWNDF6VmVZZF9hNHJKMjJpT2JhMnhjVlU2WUxSbmpadVhHQXc?oc=5",
-   "date": "Sat, 21 Nov 2026 22:35:00 GMT",
-   "vu_le": "2026-11-21T22:50:34.876873+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyZHVyd0VHcUEybXVsVHpmZ3p6WTlCTTFFQzJCS215VURKcmtqd0dYbTJyMEF4ckRHNzVSSEtZZ3dzUXFjUHBHSGRrN0tCV2tUNjRVMENteXR0d1NydHJLaDNtWDdSRnVlOThmMWNaQVc5cDU3bWcybkdVRQ?oc=5",
-   "date": "Sat, 21 Nov 2026 22:02:52 GMT",
-   "vu_le": "2026-11-21T22:40:35.132216+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "3 of the best ASX ETFs to buy and hold for 10 years - The Motley Fool Australia",
-   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbk41WjBmelcwcWV3UmhYdk9KakplbnlsN0xKdjZqcGVoUnFfZkx5Tkw5MEJIZ2ZZRkFwNlIxbkI5cXRCV21hN2ZybjJKVXltVy14TXBIZm90alpMb0dWZ3RmaFRKdFBLRFN1X3ZQcmFzVnZrNmFvR0VsU1VSMEdTYUFzMF9kV3VNS2czSW93NU9aZjg?oc=5",
-   "date": "Sat, 21 Nov 2026 22:15:22 GMT",
-   "vu_le": "2026-11-21T22:30:36.181809+00:00"
   }
  ],
  "erreurs": []
