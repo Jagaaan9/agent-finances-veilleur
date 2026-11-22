@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T21:56:20.080717+00:00",
+ "mis_a_jour": "2026-11-22T22:00:41.369730+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55510.48,
+   "prix": 55504.73,
    "devise": "EUR",
-   "jour_pct": 1.13,
+   "jour_pct": 1.12,
    "mois_pct": -23.4,
-   "volume": 163.74542112,
+   "volume": 164.94681649,
    "volume_relatif": 0.68,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic IPO - Rutland Herald",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeXhyN0VaM3ZJSW1UU0JyV0hrejhBeXlMSW00QmdXajFnSDN1UHJFMTVNMnY3a2I2NE5Na08wWnVWMUlKOXhlS0JlQl8xNXJlVGc1R1VvdFU0TGkyT1JZNUhsTktvNkdOQ1dXazlhckpVdEhaa3duWFRCV1pKMFhEQ2otM3phYl9OekVhZk1nVFVrUHNRN3dTUXhUY2tRV1NnTjhFanJn?oc=5",
+   "date": "Sun, 22 Nov 2026 20:32:25 GMT",
+   "vu_le": "2026-11-22T22:00:41.369730+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Lockheed Martin (LMT) Q2 2026: $230B Record Backlog, EPS Beat 10%, Guidance Raised - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeXNOTmlab2tvdUhfU05Nc0xaRFk5aWdIbmhTTFhtWW1COWxjTlp2R2FUQlhBYU5vX25EQzVwYnZQQjNNcVlCUHJ1MERvMFhySFh4T0w4RmRiVVhEMENBRVdwa1NKNk5OMVZkNlpUWGFYWlNjQlRXb3UwRWxBcC1Jei1oLS15TVVreS11aGl4U1daUldtMWJqeVFQWmhnajFqaWttUTd2VlVvQmRlcGZhMzVVY2FwOTk3VTJzajZlaGZ6VlB2bzlTczZSeWpLbjFtMU1IRjg3R18?oc=5",
+   "date": "Sun, 22 Nov 2026 03:35:27 GMT",
+   "vu_le": "2026-11-22T22:00:41.369730+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Can Bitcoin Still Reach $1 Million by 2035? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmx3S0dNT1ZLSU1qRk1fVDRLc0xUbW5kVEpHNkRtLU1udkhNMjNMcmJnaDVaNUcxWVhkSUpnZUc4b2taTUU3dFExVDRNYmQtVERZRU5ndi14bklyMFNKaDFnSllEU2dTYkdIbGpQNHNJdVBCaEhVeUhwR3Axa3NEeE1kb3JSQ05lNGJfSm14ZnBTUFItbGJTU253?oc=5",
+   "date": "Sun, 22 Nov 2026 21:52:57 GMT",
+   "vu_le": "2026-11-22T22:00:41.369730+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "A battered stock market looks for the bottom: What to watch this week - Yahoo Finance",
@@ -6530,27 +6551,6 @@
    "titre": "Diageo overtakes Pernod Ricard to become India's largest alco-bev firm - Business Standard",
    "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMlF0YWZWLWlFOVdsNXd4NjRXaGUybTlTRFl3VE1fWTd5V3o1c0w4a25qYW96Uk1Lazd5Y0FRNmNZMmxfR1JoLVBZUmVGTXk4anFPTDVNamRZZkNFYzFmbTU4Tmg4M3cyRkJiR3B6aEFLSmk2VjQtNjk1dW1adjh1S1ZtMlFiR0pPTlVUdkNtLTRkYTdmUW0xOXgzSDdXTDNMNllfUzJFVlR5NXcxSXZYc2JybG1Kek5MNEZWRUtFTDdueW0zam1IbUYwUkVGdlpBRVBFd9IB2gFBVV95cUxNWlFudXVQZWN5aWV6OERPMWNIZGtqVGpnZUFHdnltVUwtS0QtVldSZ2ttUEFjQlQtTzgwb1hwVTRQWXlBS3ZlM1BjODY1VkdXZlNaUUd3Y2NSc08yMHB5d2stenVCR1hmdmd3SDZBTHd6WEc5aXJoaExEaUVNQjl4UjU2ZzN0ZC1FbnZpWWR2X2xqby1tZXkya1I1SUE0dU9pQnc0dlhfV2N4YmtZUWk3WmdseXlDRHBwVU1ld0Y3b1pmYUlJT0tYbDVFaUdTZ0pqb1l1T1Rxa0tSQQ?oc=5",
    "date": "Sun, 22 Nov 2026 08:53:16 GMT",
-   "vu_le": "2026-11-22T09:10:36.203547+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Crypto Analysis: How Long Could Weakness Continue Across the Market? - FOREX.com",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc0J4ZEpuNFVCTEcyUWZBemh4NkhYRnpUNmVhM2VSYlBDMDMzSV9JRmIxRnZLR0FPOGxZR2dQaUI1MDl1WmZidEZnWGNOYWx6M2ExME11TWpLXzBjenRIQUI3VHMtTTM1SEZWTFMxeXBqU2dRMl9xNHpBRXlpc1pFSVlNX2FpTUNJOUFMS2dNamk0SGVuU1BIdjlHSV8zbU5sejZCUF9Fc25jN2UwaWo5RkxPVdIBvwFBVV95cUxPTGlLNmxVcnVVTzFYbC1GbklGRlNLblZRWHo2dTNqdTYzRWVlRE9CWGdRUG9WRjMyYUQxUl9CakdKdmQ1cVlYLVlvRTFoRl9TbHBtZzY4YzVIYl9JbE9LbE4xUXVheVBndVlXSGFSWGc1M21OWXNGN0VIQVhudmJPRzBfT2IyWVpKWDlCOVFwYXV0UXMxUEpyQklicjhLLXdSUVdnWlZjXzB5eUQ1Z2tQeEpYWXViTVRVUjBERWF6NA?oc=5",
-   "date": "Sun, 22 Nov 2026 09:02:19 GMT",
-   "vu_le": "2026-11-22T09:10:36.203547+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Is This Cryptocurrency a Potential Millionaire Maker? - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb3Vad0xDSnJ0MnlKNldzTEtSVnFCMGJnTExiblVVTUJpYTRWRW5laWFQNzVMcFY5UVZXcURlWlZDNmZUMHZidDZyeUxxR2JDMy05aWtDZV94RlZENTRfQ254a2gtR1hOY29UV2JuZE1uZXhNU1BQMjA4QmxiXzlDT1VSZ1cwT1pKRTh6cVg0US1mQ1Fxb2JDd2dSNA?oc=5",
-   "date": "Sun, 22 Nov 2026 09:00:02 GMT",
-   "vu_le": "2026-11-22T09:10:36.203547+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "ETH price on Nov 22, 2026 at 2am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWV9JcUN0SHB5N0dfUjJYR1RwVlN5eFJ5X3lyRlRwdE1vd3lCVHdLQldWLWZmUUcwaGRQdDh6XzJCSUtMM25rcHdMQ05EZHdNYUExSGNDb0gwQkZkWGlJY3JNU1lLRGlVc0dEbXU4UWd3ZXJJSGpOSEl5VFY0bFNyZGlYUnVvUTRCbTMwRDk2MG1HeVBNZmF3eVpQTVZoRjk0alF3bWtyWVJSZmdoRlE?oc=5",
-   "date": "Sun, 22 Nov 2026 06:09:13 GMT",
    "vu_le": "2026-11-22T09:10:36.203547+00:00"
   }
  ],
