@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T04:20:35.290379+00:00",
+ "mis_a_jour": "2026-11-22T04:30:34.960967+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54210.64,
+   "prix": 54012.63,
    "devise": "EUR",
-   "jour_pct": -1.23,
-   "mois_pct": -25.19,
-   "volume": 13.78289847,
+   "jour_pct": -1.6,
+   "mois_pct": -25.46,
+   "volume": 14.14027221,
    "volume_relatif": 0.06,
    "capitalisation": null,
    "per": null,
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Acquiring Swedish Transport Operators: 2026 Guide - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWndOOFhHdlh4dmRmU3JyOWhqV2Q4QmJReDZ0cUFHZFpoYlY1UldJQTVIM25zWEpKVDFpdkg2M3REUVRySzNHUkZDbEptUzFNUGpjTkh2b3RhemdzT2FwRkJIbk5BQXh6S29DVFRHRWZsSXJTMTZ2cHpvLVpYcUlRcU1lZTF2ZlF6S3NrTk1zOFM?oc=5",
+   "date": "Sun, 22 Nov 2026 03:47:33 GMT",
+   "vu_le": "2026-11-22T04:30:34.960967+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Tecogen director Earl Lewis buys $19,556 in company stock By Investing.com - Investing.com India",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFBETDktV0JWVDVTNkpmTF9aZTV2eEFlRHo0bHRCWThfOWdVRnRrOHhYVFM0eTZ0TlRoLUEyam4ta3ZvMi1QbjVkaDJsLWNsSmlab3ZvSVJYby1yaGV3c2xXOFVGcnpsN3pMZnN3OTdqV2ZCWEFYdmcwN2hlZW1xUVZpMlg3VmNrSlJHOExITmx1N24zWE00M3hRaTZTSEhjS19tX1E3bEljcW5lb1d6VllHeTVIWUk?oc=5",
+   "date": "Sat, 21 Nov 2026 21:33:53 GMT",
+   "vu_le": "2026-11-22T04:30:34.960967+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Intuitive Machines, Inc. (LUNR) stock price, news, quote and history - Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KaGxONlZOcW1NYW9ZYVFiMl83cmhVakdKOHNFb3VnbE5oSUdKbkRELWM5d2wxNmQ0Q0UyUExISE4wbVlxZVBieV9fSW9Wb203SGVyUEo2aElEWXpLV1ZCVG13?oc=5",
+   "date": "Sat, 21 Nov 2026 09:26:56 GMT",
+   "vu_le": "2026-11-22T04:30:34.960967+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "HYPE price on Nov 21, 2026 at 6pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOWJYT29jOGFiSWxDM19aRnY1dUxkeUdnRkJ5anBvTGdwNXJfUW1yaVpNcjJjeHRPWmR6Y3ltVDVERENuMnJxdEpNOGNSdFJEYkN4VTNxN1prd1pPV183SWdPUklFVkJRZzh4M0NWcExhbk93QjdkdEFIOTdYdHZndF92QzRjWFB0UkJsbXhYVWtmTWJKSng0cV84SmMyb0VueHlPZmlQQ2EtbzdNVnJR?oc=5",
+   "date": "Sat, 21 Nov 2026 22:06:47 GMT",
+   "vu_le": "2026-11-22T04:30:34.960967+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic’s IPO caps an explosive growth period for the AI startup, filled with contradictions - AP News",
@@ -6523,34 +6551,6 @@
    "titre": "Unnerving but not unusual, investors navigating a 10% drop in the stock market - Washington Times",
    "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORHFIYWVfdGNGTGRjOHlHNEZ1MlF0RzlicWF1Vlp5S1FsaHhta1drQldyTEw4aTl6WUV5QWRIejlaZU9TamFfaWFPVmFHUDFKUkxRZzNaNi03RC16Nzc4UDJUVDhSUlVQdzhQYmlZbDExNXNJeTZKaGExNlJUX2ZFbXZHNExCUERsN0lPclVrRjRmcTZHbFRnWThPWm45SXllWG1xTDdyeEF0Y2c5bE1nZ3F6SQ?oc=5",
    "date": "Sat, 21 Nov 2026 14:01:57 GMT",
-   "vu_le": "2026-11-21T15:36:28.937688+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street's Fear Index Just Hit 9.7. History Says the S&P 500 Could Rally 10.5% in 3 Weeks - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHJaWVZubGZacUdrSWhjM1BhM1hqNkh1WjZWeVlIR08xTk81T3pUTmhRVmFpZ1lvMHM1Tzc0Q1VMU2MyNUtHU0FNX2l2WXRfNVVBVzZQVTg5RFZMdW9LQlZLem5ZdWtTWE9SOU0xRDFCRFZ5LWxoRFFDeFM2cDhkdDZYMHVOSDg0LVp6NTJJRG9pZXlMbHZqZjU2b1hPSkYzT253UXdHb0dZRFI2NjV2NEMtQzRzbEtRUGlXRHU2ekpMSWc3MGFFcHo5d3M?oc=5",
-   "date": "Sat, 21 Nov 2026 15:28:00 GMT",
-   "vu_le": "2026-11-21T15:36:28.937688+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "TECHNIP ENERGIES Cours Action TE, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wMExpbk5zQUNLNEJpaUtlczNubWYwTXV0S1FMamVmR1VkSV9jc3V4dVIzR1JqeEFLOHAxZ1BOVTZZbE51ZExySlYtZHRVWElf?oc=5",
-   "date": "Sat, 21 Nov 2026 07:57:43 GMT",
-   "vu_le": "2026-11-21T15:36:28.937688+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Bitcoin est prêt pour une « grande » année 2027 alors que la Fed envisage des baisses de taux agressives, selon un expert - Benzinga France",
-   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbnNvRnEwWGVVTXNWTEVKeFFGLUIxMEhadHJXTm1wakh2UW83ZEZzTFhEdzFvanZzckJYQ1lma1hEc3J4NHNIREdaU1BaYTlrSnBwZGhDdTYtVFEzdm1XTF90VGRIdTROb2hNMTF3ZW0yOVVUVDNHQUl4ckIxY2RWT3FwUXRQUWZWbHRDTi1yM2UwT2tQYmVyS05qODNBTXdQR0Z0aWczNVdLT1M0ZzlFcnpoeHJyVHlMNS0tYXVHa2RxeGc4RXdiQUhxcW1ReDVRTkF0ZzB1S1REWDFxaXZid1dR?oc=5",
-   "date": "Fri, 20 Nov 2026 20:35:10 GMT",
-   "vu_le": "2026-11-21T15:36:28.937688+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Cape Town Conversation 2026 to bring leaders from 50 countries together to shape Global South's future - https://www.indiagazette.com/",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOFR6Mmg4Yll4VkZoVnpEMkV1ZGlmWE94VGRDV3E5czZFS2pscjNmZ1daYThuZjk2TENyaGdqb3UyRDZJLXBucGk0UGRYaE02TjJ1UXp0X3MyQ0dIREkwZl92c21famNvX19XMEdkcnlORzl5U0U5cUhhaXh1cGxmR09MQktKcnk0ODZZNjVqY1hVMkZ4NGJYQ3JxNGc0YnlrUVFmNmg1VHQ1ZHhQNkZSN1hQRFdnMkNNZ1djejVOSFpHaXhtMnYwcWpNZjQyQWRfdGJLYmNRMnRoQUYz?oc=5",
-   "date": "Sat, 21 Nov 2026 10:37:00 GMT",
    "vu_le": "2026-11-21T15:36:28.937688+00:00"
   }
  ],
