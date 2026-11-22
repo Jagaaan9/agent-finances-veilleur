@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T01:00:36.614176+00:00",
+ "mis_a_jour": "2026-11-22T01:10:35.415402+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54857.01,
+   "prix": 54880,
    "devise": "EUR",
-   "jour_pct": -0.06,
-   "mois_pct": -24.3,
-   "volume": 3.65184224,
+   "jour_pct": -0.01,
+   "mois_pct": -24.27,
+   "volume": 3.88230962,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3491,20 +3505,6 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic’s IPO Makes AI Safety a Business Test - WeRSM",
+   "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhTXJKVE1ITTY5cVFSeHExNm5BREJkYVFQdlF6VFdneUJwXzdQM0VFcFA3U196aFBGZWhZSnhfQXRibkVrbG1FandOV25SRFZwZE4tVUJ1VXZaYzBRbGJlMUtza3dLU0U?oc=5",
+   "date": "Sun, 22 Nov 2026 00:58:45 GMT",
+   "vu_le": "2026-11-22T01:10:35.415402+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Taux de change du dollar américain aujourd'hui, 22 novembre 2026 : le taux directeur est d'environ 26 000 VND. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDh5aFh1X0Z2cGJha1dqQ3pwWFhLU2NHSzVocEI2VzJvMEJXaGk2alBHQjlDbDZsWDBMVndjUjhkZEZwUnQ1X0tHZW1kRHJJeGNabzBnSDZfWHBhUExOY0JfanFXUzJiOXFibXRLZlVBWHBDSnc1a2FPMjlfVVBwaXU4cjI2ZW1fcnFqVXB3?oc=5",
+   "date": "Sun, 22 Nov 2026 00:56:43 GMT",
+   "vu_le": "2026-11-22T01:10:35.415402+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "La BCE invite les établissements financiers à tester des dépôts et titres tokenisés dans le cadre d’Appia - FinanceFeeds",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTWc1OVVoeERBUWlVU1FaOXlqZF9nZkJrUmkwOW92MlozbkpzRzNIbzZYd0hPb3U3TTVmNzNKZTZMS0xoS0JpaWMteTZuQkRudTNtbDRGOTRZVjZ5VDdHS0dJNEFyX0NzcU5RQmN5cG5DU2ZoeWZkWHBwUFY5Tk1NWTFjMWZaWjU1UWZaNFRNTlJVZzJlNkE?oc=5",
+   "date": "Sat, 21 Nov 2026 15:20:13 GMT",
+   "vu_le": "2026-11-22T01:10:35.415402+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Le prix de l'or a chuté de près de 60 millions de VND par tael ; que doivent faire les investisseurs ? - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQjBIVThVa3NTZjNTSGNUaFZocHFiUy1pWlVBdDg3UmMzVGRHaXpDR1lRT3hYZnRpbEVPNU1leXpUYjdFWWh1OHc0Tmp3Si15QUJUMFI3c3ZrVHFmVkN4RTNZX2RzUW9MN0lEb0J4Y2JVYjRNNmU2RDlDZTZfWFQyZnBPS2xxd1BB?oc=5",
+   "date": "Sat, 21 Nov 2026 22:35:46 GMT",
+   "vu_le": "2026-11-22T01:10:35.415402+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Yardeni warns the AI bust is a growing threat to China's economy and Xi - Startup Fortune",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYWYzRXlXUjBpZjVIc2x0dHZjVzdxRWNGYWNaZjA4bzdXWEVobDVua0ktTFZ5czVZcVlrTFR2SllTdzl6NXo5aDdPR284b2lwSFZTa1pZdlNQNlFTMUVOWGlIc21veVlPTFBLOFpfUUZMaHpMRlVfRlRUZnBjVFpLUkJvaUNMSll4Y1Q1OC1NMUpPVTZ3T2RqNU1iYk4yRG8?oc=5",
+   "date": "Sun, 22 Nov 2026 01:03:24 GMT",
+   "vu_le": "2026-11-22T01:10:35.415402+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia slips to fourth as Anthropic and SpaceX crash the global top 10 - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LUkNwc1RzVXJ3OHQyX0gwY1NoOENfOXpxTVoxcEEtU2p5dWJvQ0lLNnpnVGxQTjFaZHZVYTVWaFpSYXRxTWRaLXpvVExvNnozaEdWNXB2d2NTT19pWlJRU3kxY3RPZW85dUROZDhUYWRybWc?oc=5",
+   "date": "Sat, 21 Nov 2026 22:28:12 GMT",
+   "vu_le": "2026-11-22T01:10:35.415402+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Que s'est-il passé avec le Bitcoin avant ces deux introductions en bourse historiques ? - Vietnam.vn",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVEl4eHlVV1BGWUVwei1KdWRVeUxhZzZhQmRMZWRXemQ4MDhmTTNJTi1abThheG5TQ0xUczJLUmlySnEtS21aX3poNXlRMDRRM0hGaFllOGNoNHFjWjI4MTRUX2ZUWHFQWkczbHNLV19TOUhkd3lBdkhaX3F5NWpORHN3S3JhcHo3T0JvWXpLR1J4ZWpYYXpjODJERVNIVHNaRlJsSUkybEg4U3lSS2dqZDlDdDdlbDdFVi1YVjdsRXRzRlBsUzVkdjZEeXRmemlNR1N5ZktHY0VwZw?oc=5",
    "date": "Fri, 20 Nov 2026 14:09:00 GMT",
    "vu_le": "2026-11-21T12:40:36.010456+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "BJ’s Wholesale Club beats estimates, raises guidance By Investing.com - Investing.com South Africa",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSzNpT3hYMjRlVWVINHpzRV94cWYtdllCRUoyTFUydmVMRDBqeWFoc3JGdDVCd3dpNXRLRHd1VUF6QmwxSzR1a1NLQ1A4NTZ4Zm1QQjBveWluRFRGc29wbzBaQTNINlI2WnNoSHAxNER3QzZERkF3ZVNXWTZBYk8wZ0RuZHZvaWxfLVc4UWdTbjkwaDF1V0t6UnlpWE9jQQ?oc=5",
-   "date": "Fri, 20 Nov 2026 12:43:31 GMT",
-   "vu_le": "2026-11-21T12:40:36.010456+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Airbnb (ABNB) Stock Could Be 47% Undervalued Following Hotel Growth Push - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQellLZXlJLUZYd0tVUHY2aGs1U0N2NUVTb18tb0g2SEZQQVRyaUppZ0VianptbWdoWXJnd1JCNnE1dHM0QUZCcWFWZGZYSzktMXczUGFfaGsyTDBTNjVNQW5yRG04bFpidDRmeVQyTEQtcllKYjllQ1g0YVA1V1VPajdkWGpoWGE4UGd5UVRsNzhyaXNENGc?oc=5",
-   "date": "Sat, 21 Nov 2026 12:14:12 GMT",
-   "vu_le": "2026-11-21T12:40:36.010456+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Selective Insurance Group (SIGI) Stock Looks Undervalued On Its 43% Five Year Run - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0xiY0liNXpJWUI4WnpBekFFWVEzV1BlNXpMVGlweXg0QlRhMEI1eUg2RUxlQmc3bmROVDRvU3JKWkI4bGlZRVZ3RlJrLVZiMVp3YzVyRUs3RXEzNG5oMC1qZElnYThLYjV5bEg4X0N0MXdyTkdZSU1WOVBlYXZjaHZTZUJkS3ZwRTVlWjREU3dZZU1pNEJMaDUzY0JnVmQ4cjJj?oc=5",
-   "date": "Sat, 21 Nov 2026 10:10:27 GMT",
-   "vu_le": "2026-11-21T12:40:36.010456+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Top Defense Official Purchased Stock in Defense Companies - NOTUS",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUFZXzAzX2tXell1b05kd2Zqb2RGQ3pLODJ4T3RJalQ5TzI2QkFIa0dxQ1Y0WWR6dFlKY0Frb1ZYRWhUeDBDMUJNUDZtVzBtdTI3VWRwOHZxYWZYUXd3alFLeEd6ZnY5SEk1ZGRsVHo1N1hSc3ZsalRSOHZ5RjNQTm5DbEhBdTQtcE5Bb2xlYWh6Wm9QZlZIZVVGUmdQRVE?oc=5",
-   "date": "Sat, 21 Nov 2026 12:01:36 GMT",
-   "vu_le": "2026-11-21T12:40:36.010456+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "S&P 500 forecast for 2027: Wall Street expects a rebound after an 11.6% drop fueled by AI fears - Beinsure",
-   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUd5RzZ5ZVE5cnYtV3BVUEV5MkEtZExtelRVUUU2MFZBbHBSbmFieVlIM1NQRGh1N0dKWnJKSU9sUHI5VmxtbDVrQWhlZUlJY3ZoYTBzQ091TTk2U01yYnNWb05QaFpxaEdsLUV0bkVwa2F1OUNOQzdJN194ZE1CcUcybUFHbTFBNUJfVA?oc=5",
-   "date": "Sat, 21 Nov 2026 09:57:39 GMT",
-   "vu_le": "2026-11-21T12:30:35.985569+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Chinese regulator fines Baidu $75,000 over live-streaming business acquisition - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd3BjYmNDbHppdWZkdFNXM2dCNUVKRDZENmp2dGZMVXVvX2xDVV9BSEZ5WUdHZVJjRVRnRkpZU01Qa1ZoSFkzM2F1bjNkZzk5YTdqMFFuT1BWSXY0QXFXVE1XNTdPXy1ld0wwSmZ4a0ZxZkVUNzZ0c3pNdTE3VkgxV1Rud2lTRk8zVTZNQ2tZdlcwalZRMEU0NHNWLXpabjlJeFdaRG1rR0dpdHRqY3RfMWYwNzJsZG9YVjMtbFpFbUJaVTVfVHRsNg?oc=5",
-   "date": "Fri, 20 Nov 2026 18:40:27 GMT",
-   "vu_le": "2026-11-21T12:30:35.985569+00:00"
   }
  ],
  "erreurs": []
