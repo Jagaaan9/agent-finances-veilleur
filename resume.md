@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54120.86 EUR, jour -1.4 %, mois -25.31 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53988.44 EUR, jour -1.64 %, mois -25.5 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -294,8 +294,8 @@ POSITIONS ET INDICES :
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,14 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] S&P 500 drops more than 3% as semiconductor stocks lead market selloff - www.equiti.com
+- [Intelligence artificielle] Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off? - Yahoo Finance
+- [Intelligence artificielle] Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off? - AOL.com
+- [Intelligence artificielle] Should You Forget Nvidia and Buy These 2 AI Memory Stocks Instead? - Yahoo Finance
+- [Résultats d'entreprises] Cloudflare Q2 2026 Earnings Preview: NET at a Record High, Can a Beat Justify It? - TradingKey
+- [Petites valeurs en croissance] Uber (UBER) Stock Looks About Right Following A Delivery Partnership Expansion - Simply Wall St
+- [Crypto] Russia’s Crypto Trading Window Opens With No Venue Cleared - Cryptonews.net
+- [Crypto] Bitcoin on Brink of Losing $60,000 Level as $1.1 Billion Flees ETFs in Four Days - BigGo Finance
 - [Rachats et fusions] JTAI Stock Sees Sharp Swing – What’s The Latest On The flyExclusive Agreement? - Stocktwits
 - [Résultats d'entreprises] UnitedHealth Beats Q1 2026 and Raises Guidance - Is UNH Stock a Buy After Jumping 8%? - TradingKey
 - [Résultats d'entreprises] Cupid's (NSE:CUPID) Performance Raises Some Questions - Simply Wall St
@@ -451,13 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Bitcoin Rebounds Above $60,000 After $2.4 Billion Liquidation Wave Wipes Out Leveraged Bets - BigGo Finance
 - [Intelligence artificielle] The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market - Yahoo Finance UK
 - [Pays émergents] 3 of the best ASX ETFs to buy and hold for 10 years - The Motley Fool Australia
-- [Marchés mondiaux] We May Be Witnessing Wall Street's Biggest Bubble Burst in Real Time (and I'm Not Talking About Artificial Intelligence) - The Motley Fool
-- [Intelligence artificielle] Influencers were paid to back Donald Trump's Nvidia AI chip export to China - TechRadar
-- [Pays émergents] IIFT conclave examines risks to India's growth amid global trade uncertainty - www.indiagazette.com
-- [Défense, énergie, matières premières] Defense Stocks Fell After the Midterms. Here’s the 1 Defense Name I’d Buy Anyway -- and Why It Isn’t Lockheed Martin. - The Motley Fool
-- [Anthropic] Tech stocks plummet worldwide as Anthropic IPO fails to calm AI jitters - The Times of Israel
-- [Chine et Asie] Alice Huang’s links to the chip underworld - Financial Times
-- [Crypto] BTC price on Nov 21, 2026 at 6pm EST Crypto Prediction Market - Robinhood
-- [Crypto] 3 Altcoins Defy the Market Crash as Bitcoin Hits a Two-Year Low - Cryptonews.net
-- [Crypto] XRP price at Nov 21, 2026 at 6pm EST Crypto Prediction Market - Robinhood
-- [Anthropic (FR)] Intelligence artifici
+- [Marchés mondiaux] We May Be Witnessing Wall Street's Biggest Bubble Burst in Real Time (and I'm Not Talking About Artificial Intelligence) - T
