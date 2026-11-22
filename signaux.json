@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T11:00:34.989141+00:00",
+ "mis_a_jour": "2026-11-22T11:10:35.471498+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55478.94,
+   "prix": 55561.58,
    "devise": "EUR",
-   "jour_pct": 1.08,
-   "mois_pct": -23.44,
-   "volume": 58.24895644,
-   "volume_relatif": 0.24,
+   "jour_pct": 1.23,
+   "mois_pct": -23.33,
+   "volume": 59.39137131,
+   "volume_relatif": 0.25,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Comme SpaceX, Anthropic a suivi un processus d’introduction en Bourse inhabituel, au grand dam de certains banquiers - Zonebourse Suisse",
+   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEQ1aGEzVnhQUkR3MWRVTnFRX2N6MXdJaW9mM0xjWVpBLTlad0NQbnJFOEE4WTBWVjR0TTB0OVRxOU1ZSWJuWWQ1WU1RRm5SX2FPbDcyYjJMYkxQWGlXZDFEQWxFd3VxUEVSUFhUb08zdXQ5cG9HazM0cWFtNVZza0lqOVU5RUhZTVhvNEV5d1REdEpxbi12OThKMWFNb19jbzkzN3Q4eFZYWXpiZ3NDSGxlZ0NENnlCRll2eS1rUndhSkxqbmlnaDNJR3YxUUI0NnQ3X0VTWHpJMTdiRHFwZ1p0czdMSmQ2T0hXSQ?oc=5",
+   "date": "Sun, 22 Nov 2026 11:01:49 GMT",
+   "vu_le": "2026-11-22T11:10:35.471498+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China's AI stocks have lost $1.7T since June-end - NewsBytes",
+   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVhpN25SNjRFaU5qcWRpU2t6RGV5TWF0dXNNZnBIQm5qT2xsOXJUZlB5djFreGhQQlJpT2RQRWZxWmFhaTVnTmQ5c2RickwyV24yMUpuR2lZbXZydGFveWZlZHgteHBvMTNqMC1sRVR1VU1Wdk1TQTdLcDJOZDhZeXN3UW1wWHRCRzloTVRR?oc=5",
+   "date": "Sun, 22 Nov 2026 10:58:40 GMT",
+   "vu_le": "2026-11-22T11:10:35.471498+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "30 Years of Stock Market: A Message from Those Who Layed the Foundation of the Market - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNemdSMmZoLWxpOFVtMmV1SEVodW9XNW42dVkzZGQwWURqWmFZVXhUd2tUZ2J4NnpGTVBQczJYMFFBZlc0alRLUk9tekFlQ3F0ZXVpdk9MdUxIRVFrX1E4cXJUNldHbFBEODZwcnd2ZTdOU0E2QXJJejlidlJDSkhYdnBLQ1FkYmliNGdGQXRUSVVXTHZWMU5FNVhPZw?oc=5",
+   "date": "Sun, 22 Nov 2026 10:54:38 GMT",
+   "vu_le": "2026-11-22T11:10:35.471498+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 22, 2026 at 7am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbUN5MlVXY056cFB3QXoyOFZIWHRfRFlXM18wVFMxeTB2N1l4Z0VKcVZOazF6QlJPbVpUT3JwOWhTaHU2NklZNFVXdnZiclZldHE4S0kweFp1bEVqNVlYbUcwRFN5UDFNendicFY5UnVSRmlaWWJBYUozUjlkR2RJYXN4cTRIazdSY1pVb2wzVlZoN2tGTTBqTDRUTEZfcnJ5bmpEN1NZYUJiZWlzLWc?oc=5",
+   "date": "Sun, 22 Nov 2026 11:04:17 GMT",
+   "vu_le": "2026-11-22T11:10:35.471498+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Ébranlé par la démission de son PDG, Jensen Huang le géant des puces a perdu près de 50 % depuis début octobre. - IsraelValley",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhSGxua2wtTVNYbmNCRjU4WnNJT19xWnptR2VIWEdoOUQwWS1XN3pzemo2Vl9rNm9JY294VU5RNTVBdVpsaXoyR0kta04zdk8wTVE?oc=5",
    "date": "Sat, 21 Nov 2026 01:07:24 GMT",
    "vu_le": "2026-11-21T22:00:35.920614+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Applied Aerospace & Defense shares plunge 23% o... - Pluang",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUd4OWVpNUxiTXRScGZsNGgwR1Y1eW5CenFEZFE2N1hlZEdLU2lSWjlPVldmVElIQWNTcFVlWnF1NlFTRHlwREZuOFdJemxRTlRLMjdWVlZwODViWURjUHhIVlVSM01VckRldUpDN3lTXzFSSjZONjNtMUVLVnFPRUJJZnJiaEtaR3VUNmhZQXBtYndEWUd5Rm9B?oc=5",
-   "date": "Sat, 21 Nov 2026 17:09:29 GMT",
-   "vu_le": "2026-11-21T22:00:35.920614+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Russia allows exchanges to launch crypto trading with Central Bank approval - Crypto Briefing",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVEhyTGNBQzh3eUNoMG1TbUZZWWNyX28tMjR3WEdKb1lhOVdCX0dCNVdoOFRaSGNMMFM0SEw4M0pxSjZMeDJaX05VSmlRWm0xVlRLeEVxNXZXamdrR3VvT3RmcUJxTmdCamt6YTZLYy1WVnRDekViZFZCSzhMNE5jcFV6YnBLQ0Rh?oc=5",
-   "date": "Sat, 21 Nov 2026 21:12:22 GMT",
-   "vu_le": "2026-11-21T22:00:35.920614+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China's high-tech FDI surges 31.3% in first 10 months - chinadailyhk",
-   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UMndxZ3hmSkxSWGt0dXRnQnJNelNzWVVydnEwUUI3aVoxVnhfc2FQSmlPS3JCN3VVN3VxQnJzREc4MjZxalhrbzlHNnVuUnQzUGtYT3piWkg?oc=5",
-   "date": "Sat, 21 Nov 2026 04:01:44 GMT",
-   "vu_le": "2026-11-21T21:50:35.475656+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Trump’s Treasury Secretary Keeps Nvidia’s H200 China Policy as House Data Show Nearly 880,000 AI Chips Approved - TIKR.com",
-   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmVMU0t2U0J0di1VVlBsci1CSGFTWkdFQ0JKS3V6Vkw5eVAwbHYzWlpqRjJrV1pIdDRaNTUxeWNENlI4RG9LNGVvV05mdUpTUFJEeld4STZpMWlUOV95LU03N3lTdmxJME96clcwTjBKYnZIalFhRldhU1B4OVp6LVFic1FKMFhrZEZPYy1HUzU3NlF2RV96SGw2ODhYSXhSaFd3WGNpc0JjQ19neXoyYVRjZXhkMWRuUmFTcEswVUxZY2ZSWWFrSzBhVXlTZGcx?oc=5",
-   "date": "Fri, 20 Nov 2026 22:09:55 GMT",
-   "vu_le": "2026-11-21T21:50:35.475656+00:00"
   }
  ],
  "erreurs": []

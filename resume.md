@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55478.94 EUR, jour 1.08 %, mois -23.44 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55561.58 EUR, jour 1.23 %, mois -23.33 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - G-Resources Group Limited (HKEX:1051, secteur Finance) jour -2.05 %, mois -7.97 %, prix 5.485 HKD, capi 2472715327, PER 9.4, volume x16.68 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
+- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 5047665185, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 665841152, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3641703802, PER None, volume x1.08 la normale
@@ -294,8 +294,8 @@ POSITIONS ET INDICES :
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,10 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Comme SpaceX, Anthropic a suivi un processus d’introduction en Bourse inhabituel, au grand dam de certains banquiers - Zonebourse Suisse
+- [Chine et Asie] China's AI stocks have lost $1.7T since June-end - NewsBytes
+- [Pays émergents] 30 Years of Stock Market: A Message from Those Who Layed the Foundation of the Market - Vietnam.vn
+- [Crypto] XRP price at Nov 22, 2026 at 7am EST Crypto Prediction Market - Robinhood
 - [Anthropic (FR)] Ébranlé par la démission de son PDG, Jensen Huang le géant des puces a perdu près de 50 % depuis début octobre. - IsraelValley
 - [Anthropic (FR)] Cathie Wood Just Bought $154 Million of Anthropic in Its First 2 Days of Trading - TIKR.com
 - [Banques centrales et taux] Trois événements qui pourraient influencer le cours de Bitcoin pendant la semaine de Thanksgiving - BeInCrypto
@@ -455,9 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] Anthropic lève 93,5 milliards de dollars au Nasdaq - Brief IA
 - [Intelligence artificielle] 3 Korea AI Chip Stocks Investors Are Watching As Rates Rise - Yahoo Finance
 - [Pays émergents] Bristol City vs Wrexham: Total Goals - Coinbase
-- [Pays émergents] Emerging Markets Face Risks Amid AI Investment Boom: Jefferies A - GuruFocus
-- [Crypto] BTC price on Nov 21, 2026 at 11pm EST Crypto Prediction Market - Robinhood
-- [Anthropic] This Early Investor Sees 27-Fold Return In Anthropic IPO - Forbes Middle East
-- [Banques centrales et taux] Bitcoin : 2,2 milliards d’options à échéance vendredi - CryptoTicker.io
-- [Rachats et fusions] Coordinating Regulatory Approvals in Czech PE Deals - Global Advisory Experts
-- [Pays émergents] NSE to delist Lumax Automotiv
+- [Pays émergents] Emerging Markets Face Risks Amid AI Investment Boom: Jefferies A - G
