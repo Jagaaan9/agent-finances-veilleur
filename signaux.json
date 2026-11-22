@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T12:20:35.172596+00:00",
+ "mis_a_jour": "2026-11-22T12:30:40.317899+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 56064.79,
+   "prix": 55345.78,
    "devise": "EUR",
-   "jour_pct": 2.14,
-   "mois_pct": -22.63,
-   "volume": 77.79652408,
-   "volume_relatif": 0.32,
+   "jour_pct": 0.83,
+   "mois_pct": -23.62,
+   "volume": 82.28247983,
+   "volume_relatif": 0.34,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "L’HEBDO – L'entrée en Bourse (sans étincelles) d'Anthropic, les suites de l'éviction de Jensen Huang, les lourdes pertes d'OpenAI - Cafétech",
+   "lien": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QVEdUT0xmWGlYZm1xUVpXWXMySUVqSU1zYmFrVVdfOVUtSzQ3VVZRU2dMZkRqTUwyaFFRZ1k2S01NNnlJQ0x0ekdIM05fTnpEampWYm82YWMteG5WWjBHMzduNGRodw?oc=5",
+   "date": "Sun, 22 Nov 2026 12:29:02 GMT",
+   "vu_le": "2026-11-22T12:30:40.317899+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Démocratiser l'IA, \"droit de révocation\" dans les médias : les propositions de Gabriel Zucman - CB News",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUxFamI5ZHc3ZmtsU1BBbG1hYVV6dEtTbzVhMTVRZWpNdVZlTjRjX3I2TjJpeFg4TnJySWVlLXdHRXJ1cVRoMzhpOVJTQVJoY2l3SXFOWFpYQ3BKOTFCYnZaQ3BMakhNT2JnZUh0SXJNRW5TNW1zTF92dXl0dTlBdV9aOF9MSjZhVFZFMDVuWUR2RnQyVVNRdTVmdHVWRW1Ya2J2WmpaXzI?oc=5",
+   "date": "Sun, 22 Nov 2026 11:48:16 GMT",
+   "vu_le": "2026-11-22T12:30:40.317899+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "« La bulle de l’infaillibilité » : aux États-Unis, l’euphorie de l’IA se fissure - Le Point",
+   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWGNIOFAzci0wc1l1SHJYWEpBRDhveGE2WWJESWhTNDg0VGdFMHYySlZQMDFULURCLW5YNGY4QkIzMjc3OU9TdENtRDVBSkcwRU5nOWpMMWRZWDF2TWpSNG5oZmtUdW11YmppQXpSVFBjMEVYSEUxeXlldzhNTUVacXBlRUtnSUVHSnIxQ2VfMUhmdlBFdlVKcnJLdl9VWTZWX25QOWVwR1YwZUFmUVdsMThKR2NKRjdrVUlxUDFZbjNMNTZxSldDQU1R?oc=5",
+   "date": "Sat, 21 Nov 2026 13:57:17 GMT",
+   "vu_le": "2026-11-22T12:30:40.317899+00:00"
+  },
+  {
+   "sujet": "Introductions en bourse",
+   "titre": "Anthropic's $81bn record IPO and what it means for the future of AI| The New Times - The New Times",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHdrZlJUZzQyeHM1S280OTcwT2JPQ01DMDFubm5VT1dmOXhTLUxibVlkT2VkYUkyM0k0bkdvcDJBR3dNRnU4cExaNkpoLXhWeTZiUmlxQ2tEVmRZMWVtbVFUd1ZsMTd5Vk5sMjhsUWRlLW9iVFBjZmtRaS1KUkJIWmxzalhWQTBBU1BIVllRbHJfWEpzYjdVcjVtSXRiZXFtZW1JNlZxdlNVN09wMFpZYXUxODVoM2ljVG44MGFhb9IBxAFBVV95cUxOSFpqR0FDeDRSaFNJb3BTZzdYbDJnNHRNbC1kYkVBOEppX2hXci1FZEdEQmFtTkw4OTZBQ2JBWlJHX3IyTnhfNC1YVWFvTjdPdzFnM2p5UXM5eE15azl4bTlGYVlMQUM1YU5XUUg2Mk1fMDN3WjI3SC10VW1wcWNOYjlCUERldGt1VS1kZ1VtTHBwTTZqb0stbUVQeTFNTm52N3dLSmhaWS1PMWE1bzk4UDd3ZDFnSzJ0akFPY1ItZTBjbXA5?oc=5",
+   "date": "Sun, 22 Nov 2026 09:50:41 GMT",
+   "vu_le": "2026-11-22T12:30:40.317899+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "EN EXCLUSIVITÉ-À l'instar de SpaceX, Anthropic a mené un processus d'introduction en bourse atypique, ce qui a - Boursorama",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdWlxaUxfblZvRDBSTHB5a3RZV0xuT1ljR2VzV0lSQlZpMXlvS19xYWEtSDVvVDBOOVg5QnlYbGRmTDFqTUxTMy1oREN0OE93VW5iNFl3VXpnbHZBS25GOW9CZUtOeTdSajhFV0JxYjZlLVdocVJLc0t4TFdHdFB5ODU5LXMzZmxjYWN4RGV4aFZ5Ykk3S2lMWFk3a244a0Y5a3pkOWs1bnBsYTV5enFVYzZxQ1JQTGVlWjBzeDBKekVOMTYzN3BETzlLNEQyWlRFMmhxbDQ4UlhPcjM5clYyVtIB5gFBVV95cUxQOTg2RC1zYTdkdlR3dWUwWTl1ZVZ4UnN2QW9vZGgzS3QtOE5PeEJBLVFpTnFpMkZtNmFHdjJQbnBPLXRaTkdnWl9icHBsWE9adjA1SmdWZXhSUV9MU1UyVW5IeTNWc1kzMGJMRlJpS0lWZ2kxQXJSZUx3N3RjbUhWTnlURlY1SUhjeWRXRTJKXzljd2V3blJFNUFfUnFNeUJ5bFJETjU5X1JWdG91LUxlNnUyOEFTUklQS1FLREFTSVBFajUwYzZOWjlYbURtZ3Z6MzRSSGhiTzhyWHVtQmd6R1N3WC0yUQ?oc=5",
    "date": "Sat, 21 Nov 2026 23:28:11 GMT",
    "vu_le": "2026-11-21T23:40:36.495202+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic ou le pari de plus en plus vertigineux de l’IA - Le Monde.fr",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQlFnV1E4UHJTNi1OUkVhSUZkLVFxaks1QUk1OGdlY2JEdG15eXBfTWVOVHdRN2tYazJzX1dXaDBzVmhuc0RtWkNJX05aVlg5T2lRMmFaZk5uVjJYWVIwX3NjNkVlVVA1aDV5U3pRMTA4eG5vd0NfeFF5eDVvVFNiWDVaLTBWQkNMUmo4UGMtTVJNQ2lJS01nZ0lTSDdNVC13Y0VVNTJlZTJ3cDNpcjNLb0lQTEFOZU5rbi1wZXlCcw?oc=5",
-   "date": "Sat, 21 Nov 2026 10:30:10 GMT",
-   "vu_le": "2026-11-21T23:30:34.910099+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Un mathématicien affirme avoir résolu un des plus célèbres problèmes du monde avec l'IA d'Anthropic - Les Echos",
-   "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQ3FpbEhFTHB1bkE1a2JtX01QRXBQWlk2S1VBcXphRmVGczZxYW52VnRNWTUxMFpIOXBSUFlXN0FmTWFFRUdjOEtKLXpaRFgyZkY4SGE3d3dfZ0Fvay0tdzYyQXBFaE9WejZSdzVEdzhRYlh0aF9kS0hXY3RsVG9UcURCaDdMU0JIQVlCSF9lVkFOOFVqUXMxMzNmSm94OWMyckRQbE9WMlFxMzZnSThTaVd5c3ZnZmZlQnhEWWgtU1llTE1qdTFXYWNMNThTQU9aLUNxdWg5bUJzZVVhX3RSYlVJNGtqZkYxZVRNZHZqV0k0bU03VXp1OXhiTQ?oc=5",
-   "date": "Sat, 21 Nov 2026 10:20:18 GMT",
-   "vu_le": "2026-11-21T23:30:34.910099+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Michael Burry Says ‘I Told You So’ as Wall Street Caught Off Guard by AI Selloff - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdzh2ZF9CQ1FlWE1oRUVfNE5rdlBOTVMydU45UC1oM2J0dTJTaS1rdHpIX3RZUlBJZU10Y1k5WDRucV9Jd2lXZGtHUk5TTmlod3FNUXp6N1F3MW9KNXVrTkFBd1FOQVdYYUxnVTBKWWpza2dYeVpBcko4NWZOV1ozQVJHeFR2aV9GQVBqR1NDQ0xERUwtWmpLbEdDcndrUG5KU0xQTFl6QXBuR2lSbmh3N1VGMmhjNFQyS0VYT2hSaw?oc=5",
-   "date": "Sat, 21 Nov 2026 14:44:00 GMT",
-   "vu_le": "2026-11-21T23:30:34.910099+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "L'économie mondiale a résisté en 2026, mais que nous réserve 2027? - L'Echo",
-   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2d5djFaZHFTUDNreUwwQ2JjOTBBOXloQlZaTmliSUFBTnNodW4zSzNYalNyUUdjend2b05UNlhqRjBLa0lxdFZWRHNGUW96TnUyOU40Ti1lLXd0S2VXRjV6VDlRTnVBMmJyXzJTUU53Sy1FUDdFclY4eDJkdEVoZ0lPOF9ycWQ0QVdjSjFLdEZJcFozTnpDME9MNnNTZkY1ekM5NDhLSW50LWt2RW9XcDY5LVRRaDVxNFRVZ3ZhNl8?oc=5",
-   "date": "Sat, 21 Nov 2026 04:04:36 GMT",
-   "vu_le": "2026-11-21T23:30:34.910099+00:00"
   }
  ],
  "erreurs": []
