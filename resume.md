@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55328.27 EUR, jour 0.8 %, mois -23.65 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55378.32 EUR, jour 0.89 %, mois -23.58 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - G-Resources Group Limited (HKEX:1051, secteur Finance) jour -2.05 %, mois -7.97 %, prix 5.485 HKD, capi 2472715327, PER 9.4, volume x16.68 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
+- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 5047665185, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 665841152, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3641703802, PER None, volume x1.08 la normale
@@ -294,8 +294,8 @@ POSITIONS ET INDICES :
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,13 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Nonprofits Build Capacity for Potential Giving After Anthropic’s IPO - Unite.AI
+- [Intelligence artificielle] Here's What a $1,000 Investment in Broadcom Stock Could Be Worth By 2035 - The Globe and Mail
+- [Introductions en bourse] Aswath Damodaran Valued Anthropic At $77 A Share — Its IPO Price Of $83 ‘Terrifies’ Him - TradingView
+- [Rachats et fusions] MTN And Telkom South Africa Resume Acquisition Talks In Potential Deal That Could Reshape Telecoms Market - Trendsnafrica
+- [Petites valeurs en croissance] Have Figma Insiders Been Selling Stock? - Simply Wall St
+- [Crypto] XRP price at Nov 22, 2026 at 1pm EST Crypto Prediction Market - Robinhood
+- [Crypto] How XRP Has Traded Every December Since 2017 - 24/7 Wall St.
 - [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - The Killeen Daily Herald
 - [Marchés mondiaux] If the AI Boom Turns Into a Total Bust, Here’s What the Pain Could Look Like - Barron's
 - [Intelligence artificielle] DNI Clayton says China likely obtained Nvidia AI chips - CNN
@@ -453,11 +460,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Marchés mondiaux] Correction or deeper reckoning? Investors seek signs US stock selling will abate - Reuters
 - [Banques centrales et taux] La Banque centrale européenne maintient ses taux d'intérêt inchangés - The Portugal News
 - [Pays émergents] India’s Foreign Buying Is No Major Shift, Spark CIO Says - JournalArta
-- [Crypto] XRP price at Nov 22, 2026 at 10am EST Crypto Prediction Market - Robinhood
-- [Marchés mondiaux] AI stock sell-off sends S&P 500 into correction, Nasdaq negative for year - Scripps News
-- [Marchés mondiaux] Berkshire Hathaway Stock Jumps 14% in 2026 as Wall Street Downgrades - Coinpaper
-- [Chine et Asie] China Eases Margin Rules After Tech Selloff Wipes Out $1.7 Trillion - Seoul Economic Daily
-- [Pays émergents] Record Rs 1.22 lakh crore foreign inflows: Is India becoming the world's 'anti-AI' trade? - The Times of India
-- [Défense, énergie, matières premières] If I Were Building a Portfolio From Scratch With $10,000, I’d Anchor It With This Unassuming Value Stock - The Globe and Mail
-- [Crypto] Polymarket Invite Code TIMES | $25 Bonus for NFL Week 11, NBA & more(Nov. 22) - El Paso Times
-- [Cry
+- [Crypto] XRP price at Nov 22, 2026 at 10am EST Crypto Prediction Market
