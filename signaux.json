@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T08:30:35.819246+00:00",
+ "mis_a_jour": "2026-11-22T08:40:37.294130+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54444.56,
+   "prix": 54846.72,
    "devise": "EUR",
-   "jour_pct": -0.81,
-   "mois_pct": -24.87,
-   "volume": 33.19180494,
+   "jour_pct": -0.08,
+   "mois_pct": -24.31,
+   "volume": 34.57247598,
    "volume_relatif": 0.14,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Noah Smith and Steve Rattner on Anthropic's IPO: the largest wealth-creation event in a generation, and what it means for inequality - Dealroom",
+   "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRnBUTHBCRFZ2MnVJOWFuVXJzcWZpSVNlUzFBTXRCQnJmT0htbF9tNWFxeVh0WW52a3ZQeTMxVEZfZjc4MUlQSVVLVkFxN0dkZm16WmdGVmpMLWE4eXlMTHZqcWZsNEp2akV3VW8wUUZiNF9nRHBYQVJhX19zbmJZcEtoY2RzMHdRV21UUDJfRE40SURPXzJ1Y1ZlT0plWnk2MWlseW1BZXFMWWI3RjJxNGduckJzT09FMG5BT3M4N1MtZmlHX2RXd1FJVE1TbElYX2JINWN3VzYzdUZIRmtNdG1laGFFY3Zhdjg0Y1dRczBTZWNZTkpR?oc=5",
+   "date": "Sun, 22 Nov 2026 08:32:01 GMT",
+   "vu_le": "2026-11-22T08:40:37.294130+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "AI Chip Supply Chain Shifts Put Disco Stock And Asian Tool Makers In Focus - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY29Pa0pYMkgtS3VxVUdBQlF2SGNtbWFIbl9ONkR3STgwamQ2Q1pyX0x5S1lYNENsN2psV251MzQ1TXlTOTBFVlVLQTFqS0c3U29FNWpsVmlNQTFfU3RtZFBQdUpRX3hhTGlNV2NTODc1QTBpNV94QlVJUFJJUnR1YUxiRjFJejJtYnZmbDB3bEdjSHQ0RWc?oc=5",
+   "date": "Sun, 22 Nov 2026 08:09:02 GMT",
+   "vu_le": "2026-11-22T08:40:37.294130+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Dow Jones Sinks to 50,759.42 as Home Depot and Cyclicals Weigh Before Nvidia's Earnings Beat Estimates - BBN Times",
+   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTjZZMG9pdDNTb19lUjAwUk9FQkpqZjdHbW40SW9TenVLWFViNzM2V0FuWUMxMzZqbGdJSjl2MnI3Q0Q1WlRMUUNQQnpXNjhqa0V0UHN0QTR0OEYxUW81Z1VGWlJlOEI3eHRRRnFaNU9IOTMyWkczMFV0bHY3YzVlS2dqZWd0M0ZBNnFySVYzNG9LYkVfc3hRLVQ4SC1WZ1NMSEVaTXpLamF3YjlBb0wyVHpqX21TTkVsYWNGMG1JZGhkOW93VmhNaTE4UzBYYjZCSUVESTlUZWhkUQ?oc=5",
+   "date": "Sun, 22 Nov 2026 06:11:29 GMT",
+   "vu_le": "2026-11-22T08:40:37.294130+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Tokio Marine Holdings (TSE:8766) Stock Looks Undervalued Relative To Capital Returns - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVW1BZkxRMG5KaEN2Vm5NY2tVbmRxekZENHk5LTY1bjJPZmNvN1Boa3dPelRxLV9VdU13XzVRXzdHT1Q0WDVYdllvbUJUS2I2elQ3Q2NRcnV5NGFjd1FXVnFxeUhlc0xYNy1XdWh3U3pqVU9wWnJIOVBEZHA2YkptY3VzMlJ2M3Rsbk5vTmFXUUZYc1FmZmZ4MEhkZw?oc=5",
+   "date": "Sun, 22 Nov 2026 08:09:48 GMT",
+   "vu_le": "2026-11-22T08:40:37.294130+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "MF Markets adds 24/7 perpetual futures trading for Palo Alto Networks - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lclRlWWVEd1lCY1E1cWdpTTVEOF8waEdsejI2R2h5bENyNW1KTW9MT1hLaG9pMEdfQm9lM3Yzc0czN19zUjVMaDc0TjZGejBsMlB1WWRBVVpkbTdzWEJVWnZvYXR2ZUE4b3Y1MHBvY1BwVTRzdDdOVk9n?oc=5",
+   "date": "Sun, 22 Nov 2026 08:03:12 GMT",
+   "vu_le": "2026-11-22T08:40:37.294130+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Nvidia and Anthropic Will Really Test the Stock Market. Only One Thing Is Certain. - Barron's",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT3NYeTJFcE9SOW1hTkpjZk8wM3UxazZiOExzY0RvRUxLaERQVXAzOFZwaHg5bnZhY0VZSElwOGU2QndKMmxuREtRVFpTV0RlSkY4eTFtUUI2cFNmQWlvTEp6bUljSkY0dmNsSzFNTnVYbWZVUWJld3I0NFExRXNvN2kzV2EzOXpyVlUyREoyc1JvdWI1RGN0ZzRqSEdrd01YSXNvVWZSMHVQS1gwR1FXdmhVQ0NFYzgwczVnNmFQVUVFeExSRU1uUm4xOU1uMDZIWGQwSUFYZ0pza2w1cFZMOWZ3?oc=5",
    "date": "Sat, 21 Nov 2026 18:53:32 GMT",
    "vu_le": "2026-11-21T19:00:35.799511+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance Australia",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E?oc=5",
-   "date": "Sat, 21 Nov 2026 12:11:50 GMT",
-   "vu_le": "2026-11-21T19:00:35.799511+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "BTC price on Nov 21, 2026 at 1pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmszMFQ0YTNJcUtBRlkzaVFPMWhmYnBGVzZHRURwLUNMdlMyOW9vRm9XVUJCSlkyRWpydGxwb3M0QVVxN1NCNVlUd0VORnRXQXdJWkJuTDRIWjBHWW1IRHpUYTdnOEtHZWlGVTEzbXB0NTU2RFpNWWNURGpnU21laHIwRHZxZGMzVHZGS1VxSHVPbFN3cmx6a25uWVNZMkVPTVJ6RHhIMEw3djQxLVE?oc=5",
-   "date": "Sat, 21 Nov 2026 17:15:30 GMT",
-   "vu_le": "2026-11-21T19:00:35.799511+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Better Buy: Bitcoin vs. Ethereum - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BYU9FQnZ4bmhIdG83OWFETmpnQngtbmZZVWxTU2VfTzBiYW9vRFVnOC16Rmd5VmtOLXZzN0lWaXk1ZkdTSnZCQ19EdV9YdlY0a05EZ2ZWbUdId09XNjVjZWhrZUhYU0ZVTTk2QkRpOGRhWU5tSnJoZ3Z3eEs2QQ?oc=5",
-   "date": "Sat, 21 Nov 2026 18:55:02 GMT",
-   "vu_le": "2026-11-21T19:00:35.799511+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "SSE Composite Drops to 3,533.79 as the AI Trade Cools and China Holds Rates - BBN Times",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXktYnZXX3ZXblJCVWxFUkFxaFRfRG5LUV9xWUNYbWRsNi1UN3o1OFNoVGVQZmZtX09PNlUyTjVHcUVma2tGMWxmX053eEIyYXFNd0hSNGxQemJFMVd2OHVIaVFmM2RISlNpNnNVNEFPY1h0STJvNUhfcGFxb0k0bFV5Vm80eXRxWGdBM2pBR2lSbzUtZEo0bGtOTF9CbkxlSVI1MldkNm9NRHRsWU5neV9ZSHNyZw?oc=5",
-   "date": "Fri, 20 Nov 2026 21:58:24 GMT",
-   "vu_le": "2026-11-21T18:50:34.845739+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "What Bitcoin Did After SpaceX’s IPO and What It Could Do After Anthropic’s - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHJqdk05Nl8yLWhyeThBdHNGTnVjaGZ2MzE3aERfZGJUaW1ybU95OXZxRWkxcUhBVVV4MWV4Q2ZYa2w2ZzFBNzhmZGNmM3FkV00yRUxyUWlyVERJWElmQ2o1dnl0NG50Ulh5Wl9VN21XdVRXMlpwZlZvMlgxWGYwWGQ5TW03cHphSXptYjdsUXdDOG5abHYtOTNyWTdscUZOR3ZydGVqWHY2MTJucjNrTTdEbG42YU12V1AyUGhrTEE1OHZ6cDJRTlVPYw?oc=5",
-   "date": "Sat, 21 Nov 2026 18:12:00 GMT",
-   "vu_le": "2026-11-21T18:50:34.845739+00:00"
   }
  ],
  "erreurs": []

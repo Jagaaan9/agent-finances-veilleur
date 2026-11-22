@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54444.56 EUR, jour -0.81 %, mois -24.87 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54846.72 EUR, jour -0.08 %, mois -24.31 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,11 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Noah Smith and Steve Rattner on Anthropic's IPO: the largest wealth-creation event in a generation, and what it means for inequality - Dealroom
+- [Intelligence artificielle] AI Chip Supply Chain Shifts Put Disco Stock And Asian Tool Makers In Focus - Yahoo Finance
+- [Résultats d'entreprises] Dow Jones Sinks to 50,759.42 as Home Depot and Cyclicals Weigh Before Nvidia's Earnings Beat Estimates - BBN Times
+- [Petites valeurs en croissance] Tokio Marine Holdings (TSE:8766) Stock Looks Undervalued Relative To Capital Returns - Yahoo Finance
+- [Crypto] MF Markets adds 24/7 perpetual futures trading for Palo Alto Networks - Crypto Briefing
 - [Anthropic] Nvidia and Anthropic Will Really Test the Stock Market. Only One Thing Is Certain. - Barron's
 - [Anthropic] Ed Zitron Calls Anthropic IPO ‘Exit Liquidity’, Warns AI Sell-Off Could Get Worse — ‘Things Are Only Going To Keep Going Down’ - Yahoo Finance
 - [Banques centrales et taux] Giá vàng mất gần 37% trong 10 tháng, điều gì có thể đẩy giá xuống thêm? - Vietnam.vn
@@ -454,11 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Intelligence artificielle] Should You Forget Nvidia and Buy These 2 AI Memory Stocks Instead? - Yahoo Finance
 - [Résultats d'entreprises] Cloudflare Q2 2026 Earnings Preview: NET at a Record High, Can a Beat Justify It? - TradingKey
 - [Petites valeurs en croissance] Uber (UBER) Stock Looks About Right Following A Delivery Partnership Expansion - Simply Wall St
-- [Crypto] Russia’s Crypto Trading Window Opens With No Venue Cleared - Cryptonews.net
-- [Crypto] Bitcoin on Brink of Losing $60,000 Level as $1.1 Billion Flees ETFs in Four Days - BigGo Finance
-- [Rachats et fusions] JTAI Stock Sees Sharp Swing – What’s The Latest On The flyExclusive Agreement? - Stocktwits
-- [Résultats d'entreprises] UnitedHealth Beats Q1 2026 and Raises Guidance - Is UNH Stock a Buy After Jumping 8%? - TradingKey
-- [Résultats d'entreprises] Cupid's (NSE:CUPID) Performance Raises Some Questions - Simply Wall St
-- [Crypto] CleanSpark Stock Slides On Bitcoin Weakness Ahead Of Earnings - Yahoo Finance
-- [Intelligence artificielle] SpaceX Lenders Want Nvidia Chips Kept on Earth: $1.5B Risk - shattered.io
-- [P
+- [Crypto] Russia’s Crypto Trading Window Opens With No Venue Cleared - Crypt
