@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T10:40:35.025794+00:00",
+ "mis_a_jour": "2026-11-22T10:50:36.391503+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55446.93,
+   "prix": 55477.15,
    "devise": "EUR",
-   "jour_pct": 1.02,
-   "mois_pct": -23.48,
-   "volume": 56.12287953,
-   "volume_relatif": 0.23,
+   "jour_pct": 1.07,
+   "mois_pct": -23.44,
+   "volume": 57.51923669,
+   "volume_relatif": 0.24,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,69 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "AMD Shares Plunge 20% in Two Days as China Firmware Supply Allegations Hit Home; Nvidia Read-Across Selling Adds Pressure - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xTldiNlF6M2NHM3VHblZtTnBvVTJVdjZFbFBKV2E4Z0dyeGZ0TkRROFhDN1ZpLWQzWkR1Z3BKNllFRmdqWE1PQUk4elYtUE94RVhDRG54bDdpQTR0RFNJV2o4a0tENnh0eDMwY2JOdEdWNEhFNnc?oc=5",
+   "date": "Sun, 22 Nov 2026 04:35:00 GMT",
+   "vu_le": "2026-11-22T10:50:36.391503+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Wong: HK can turn global cooperation vision into action - chinadailyhk",
+   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jSmtkMl9pNXFLYm5GSTA5R0JxQXhpYTQydzFNZUJnYV9PaHBWc0tpYjNad0tXSldWWm1TQWU0LXQzQlVlM250OEplSldORXlHeDBHSW1NUWE?oc=5",
+   "date": "Sun, 22 Nov 2026 03:13:56 GMT",
+   "vu_le": "2026-11-22T10:50:36.391503+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Hong Kong can help connect global bay areas, Paul Chan says - South China Morning Post",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ09hallYbzBOaVFYQlNhenZwMzVhSTMzZzZVaWNzcEJuMkFkQ2xSVDlxTjVCdTM4MmJFUm91cXY4aEZLdVJnQ2tTdlQ0MG1fcl9abDRHQXF4SkFDVGlSVFNXZExDNWFWVEQzTUxsellRN0V1Q0N4V0tfLV90bFNMQ21Tel9RXzFqZXlCUks0Qm0yZmxfZV9OTk9YaG1VYlhqN18wM29NU2dkRUsyS21EODZLMF9yY20tdEhXMzZUZFVGd1ZJZ05F0gHHAUFVX3lxTE9DT2FqWVhvME5pUVhCU2F6dnAzNWFJMzNnNlVpY3NwQm4yQWRDbFJUOXFONUJ1MzgyYkVSb3VxdjhoRkt1UmdDa1N2VDQwbV9yX1psNEdBcXhKQUNUaVJUU1dkTEM1YVZURDNNTGx6WVE3RXVDQ3hXS18tX3RsU0xDbVN6X1FfMWpleUJSSzRCbTJmbF9lX05OT1hobVViWGo3XzAzb01TZ2RFSzJLbUQ4NkswX3JjbS10SFczNlRkVUZ3VklnTkU?oc=5",
+   "date": "Sun, 22 Nov 2026 08:23:54 GMT",
+   "vu_le": "2026-11-22T10:50:36.391503+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "HANG SENG INDEX (^HSI) Charts, Data & News - Yahoo Finance - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55Skp3dFFpR29zQVMwWEY4MVY4WlA3UmZDZm9udFN4eFNOZW5Wa01FWUJKdHZHLUNPdHZRWEN5c09SbEVXM1VLbE50b1Y1dlJzVEY1TQ?oc=5",
+   "date": "Sun, 22 Nov 2026 08:44:55 GMT",
+   "vu_le": "2026-11-22T10:50:36.391503+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Marvell Beat Earnings but Fell After Hours - Is MRVL Still a Buy Above $226? - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVHdjZTdORnJKMnN0Ql9TeFhVZzZGTGNwWFhhb2pLVTNGTVMwRmdFZjk2QlJSNG5ta29tVDZ6dEpSS3VnQ3BrQ3g2cXJBT19VN3ZCR3ZPazdxQlVDQWdyeE1FRmM2c0RfZ21PaU53NzVNQkNvWEtqQ0N2WFRuRklLdzdkS2Z4Wi1mWlBIQUthYnJWY09LSnZ6SDhmRS1WVzBkcWRhN251MmVsTUdjRjNYbjR3Z0hVenJfYWFJa3VuY3pFRGs?oc=5",
+   "date": "Sat, 21 Nov 2026 17:13:27 GMT",
+   "vu_le": "2026-11-22T10:50:36.391503+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Kinsale Capital Group (KNSL) Stock Still Looks Undervalued After A 99% Five Year Run - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3NYT0ZXS0lXaWMtNGlMbDdNa0NzLTJkaXZCWE9hZzlmSEMzZjVWM2oxcGUtcWw2a0Z4S2M5b2N5eVBrU3R2STRUZ1FldGxNTTVRUURRT3FPLUlOR1Q5Q0Zmajl3NHRJLUFPTFlkTm93TUpHbVhxbkhfNUJkd19sMXBFVklRMHZLakt3Q25oMUNqdUhCa2l1dmVPQ2p1QQ?oc=5",
+   "date": "Sun, 22 Nov 2026 10:07:17 GMT",
+   "vu_le": "2026-11-22T10:50:36.391503+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Top Tokenized ETFs by Market Cap - CoinGecko",
+   "lien": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zWFpsQ0xndFBVeFkxakVrWDVZUFpwNmRSdk9jLWQ3WTlUYXhBOWtnTjE1RXhaN0xPMEQyZGFfd1pRVTlYOF9hZg?oc=5",
+   "date": "Sun, 22 Nov 2026 01:13:09 GMT",
+   "vu_le": "2026-11-22T10:50:36.391503+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Sensex Gains 308 Points, Nifty Closes Above 23,000 as IT and Pharma Stocks Lead Rally - INDIA New England News",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWndrT0xmdkJxeDluWUM1cjJYX2Z2VUZyQXlqMVZzZkMyUzFXQTJsQ2JlMzU2MUJzejJfLU0yZzNlRUFELTN2dWozZGRJcXVlUzlyZ3RwSlctcUJGSkpmcGRxUDhWRGxuRUt1V1cyY1A5SG1GWnBHb0s0VDE5Vk1FcGtDczFsSDNqR29vTENzTjRkemV6M1AtcnY3aXdGdW9qUGZBb2NSd2dZTTh2UW1VcFdn?oc=5",
+   "date": "Sun, 22 Nov 2026 09:15:58 GMT",
+   "vu_le": "2026-11-22T10:50:36.391503+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Imperial Blue sale pushes Pernod Ricard behind Diageo in India's alco-bev market - Moneycontrol.com",
+   "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONXVsRWtHV0FSVlFUZmNlSVFsZ3dya2JVOUsxOFZ3bnVTY3BTVFhmbFFjOGNXMFdNaUNpSUtTdHpUQ3N6MEstOGdqUENtTnlQS3NWWmNTelBnLUppeXFDN1dISVJHazR5OFc5Y3VlLUJnVnlFZjZOa0NhbmkwLWVmbGd4bEVhMjI0MkE5LS1lbE43RktLVGk2NHBtYjFRVUV0SUtUaWFjd3dLVWQ5SDZ5RWowckl1Vkp3UlhjeVJLSEo1eU8zQTE1STFMQUpzSFNZQ0ZUUTVhVTlWWFlLaEZ1NjA3ek5oZ9IB5gFBVV95cUxONXVsRWtHV0FSVlFUZmNlSVFsZ3dya2JVOUsxOFZ3bnVTY3BTVFhmbFFjOGNXMFdNaUNpSUtTdHpUQ3N6MEstOGdqUENtTnlQS3NWWmNTelBnLUppeXFDN1dISVJHazR5OFc5Y3VlLUJnVnlFZjZOa0NhbmkwLWVmbGd4bEVhMjI0MkE5LS1lbE43RktLVGk2NHBtYjFRVUV0SUtUaWFjd3dLVWQ5SDZ5RWowckl1Vkp3UlhjeVJLSEo1eU8zQTE1STFMQUpzSFNZQ0ZUUTVhVTlWWFlLaEZ1NjA3ek5oZw?oc=5",
+   "date": "Sun, 22 Nov 2026 09:04:37 GMT",
+   "vu_le": "2026-11-22T10:50:36.391503+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "AMD Is “A Direct Stakeholder in Anthropic.” That’s Up to $5 Billion Riding on Its IPO - TIKR.com",
@@ -6489,69 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMm5JX2ZMRkNFaHBUOVo5YTZxcmFvOFktYjREbkxsbWlvMlAxa1hac05ram02U0ZzMjlvUG55Qlh2YmJDaDM5VnJ5cXZTa3g5ODZXa1hhNWNZcnRKTXRWWkdXbEF0SDVES2NEbWtzZVI4cXhaV2o3SURzbUZBTVc1enVMaVRtR3J0NUtid3Rsbl9CTUJJdnQxZE1MNVY2OFFEZWlyLTJpcmc5QQ?oc=5",
    "date": "Sat, 21 Nov 2026 17:07:16 GMT",
    "vu_le": "2026-11-21T21:40:35.983624+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "META_TITLE_SECTORS - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KOFBhX0cwcURCekpUS0tkVExiSFRVeXdtWF9qWnNuN1ZUU3A0eE80VGd0cVdDS2pNN0lpU1JncU1kSkp2UFd6R1JqYzJ5NjY3M2syZkphVQ?oc=5",
-   "date": "Sat, 21 Nov 2026 08:12:09 GMT",
-   "vu_le": "2026-11-21T21:40:35.983624+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "IPO d'Anthropic ANT : cours de l'action Claude et faits clés 2026 - Bleap",
-   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkZjU2wtWTRlTTcyeTN5OTBQUjhrTXFYUjVXXzRHdGxPMEctZnNFcDhaVFJxQk8zTHBYQlF6dXpFd0lmNm5ZNGU2SnR1LUhJdm80TDFtOUxwTUc3a1VoRkk2dVJHLTVXV0pIVDZIWGYyUGJQNUdoZndiT3V3Rk5VMEl2R1dMZldxdW1xVg?oc=5",
-   "date": "Sat, 21 Nov 2026 21:28:25 GMT",
-   "vu_le": "2026-11-21T21:30:35.251628+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "HK50|HK50|Price:22240.000|Chg%:-511.000 - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGRXlaQUV5U1VFWk9IdGFyQXNLNnFrUE1Lb2lSWG0xWk9HZVhhbTlpVXoxZmFUT2hzQld1U3paWnhBcURGMFdLSHZOQk9vSkpyWmwtNktSUG13ZXc?oc=5",
-   "date": "Sat, 21 Nov 2026 08:23:22 GMT",
-   "vu_le": "2026-11-21T21:30:35.251628+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Dream of gas-powered vehicles falters in China’s hydrogen capital - Financial Times",
-   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR3F6OVp2MUxvbV9kZ2lUeHpXWHhlbHhJQWVxVzVfTk9qb3NaaXBKZjdmdHVhejM3YV9nRVNldU9sMDJ4Unh5WkJYdTRuaG4wSV9uR21hWmx6UHVBWFhYbHIxMU1WQmFPMjJQLWtVcW5WaEpsYTRGZW5kUVdGQ1JRdGsya28?oc=5",
-   "date": "Sat, 21 Nov 2026 21:00:02 GMT",
-   "vu_le": "2026-11-21T21:30:35.251628+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Foreign Investors Pour Record Rs 1.22 Lakh Crore into Indian Equities in November - boldnewsonline.com",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbzRsakc3dmNXQmF5V2RocWEyZDNDaHRoU1NpSFUzSEcwZm9aUmN4Tmt6eFZYbC04NE5hZkJ3TC15dzBzWFhaWXpMaVZFTGJ1MDI5N2NVU19xcnhHUUI0Z2YzUWlBMnBtTFVoTlA4VVdweGg4dFl1NDJhNld0c0k5eEFoMG50SWdjdE1KVmlTSUJvSnNLa3lwdVBWckY1eFpnaC1sY0F6Z0tkTllIcTAzWnFWOA?oc=5",
-   "date": "Sat, 21 Nov 2026 05:31:54 GMT",
-   "vu_le": "2026-11-21T21:30:35.251628+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Electro Optic Systems Holdings Limited (EOS.AX) stock price, news, quote and history - Yahoo Finance Singapore",
-   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uYVc1U3JzQ3lOVC01RXBuZGRBOE1jWjV3RzlPYW84Mm11cWRRSXV3VFpMdEpxR2JWYUlMWnMzWmlsd0dBT2ZMNjZzQWVHQ3NNeklTSQ?oc=5",
-   "date": "Sat, 21 Nov 2026 00:29:52 GMT",
-   "vu_le": "2026-11-21T21:30:35.251628+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Utility Stocks Investors Are Turning To After The AI Sell Off - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOek5FNGtxTXk3eUV5RS1jQk1LZ0NsY1JGWl9IT2dBdDJLQkViaUpSNHRENFN3WjhyNTQ3WXdUMldDYUZLRExmV3dpVWhBUHRXZHo5RWg4QTdrMVRiYXVNdUx3V3JXaWlIbDRrQU91bG5QNmMwWHpZd0FfZ3F6S1padFRWeGFRZVRvcWw1bV82d05zM3hvdU1UOE1QWWJpNDI3d3c?oc=5",
-   "date": "Sat, 21 Nov 2026 11:09:08 GMT",
-   "vu_le": "2026-11-21T21:30:35.251628+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Watch Anthropic IPO Fails to Calm AI Jitters - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcEtCaWVNSW1uUE54WWZxRlp3Skx6b0E3cEpiTlNfNDNibDY1VUN6ZWtzYldsQlpKSlVkemt1ZWZvc0lpcHVrSHFCUVQ5dG1nNnVkbTQ4anUtMzBUcHI3X1pwOWo4OW9JLXFLWnNlZGx3UjJhbEdKZlZZck56eHRoLV9kd0xqMDMzVDVsdFlXNjhpYzZBbWhCTg?oc=5",
-   "date": "Sat, 21 Nov 2026 00:00:00 GMT",
-   "vu_le": "2026-11-21T21:20:40.415218+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Beijing to restrict young Chinese firms from overseas listings - Communications Today",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWXNKQ1V1cXIyYndLRjNYakZkT2ZxbUE2a2lkVUVKalBxV3IyemZiaDBQeUNPVXFPV29Sc3ljc2tvYk1YWUZnYkU4YVFreFdIZWZHVjdNbHg1Y3hhOVpMbHhyLTNxS2ZwS0JpVThpbDNaMkxoeEdFS1h2ZXk5TjRWbEwzZlZLdW16Zzk2YVZlY3F2aHkySWJrU2JGS0RNd3k3cjlR?oc=5",
-   "date": "Sat, 21 Nov 2026 07:09:11 GMT",
-   "vu_le": "2026-11-21T21:20:40.415218+00:00"
   }
  ],
  "erreurs": []
