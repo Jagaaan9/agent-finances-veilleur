@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54846.72 EUR, jour -0.08 %, mois -24.31 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54396.82 EUR, jour -0.9 %, mois -24.93 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -294,8 +294,8 @@ POSITIONS ET INDICES :
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,13 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure - Decrypt
+- [Intelligence artificielle] The Real Force Behind the Nvidia AI Chip Smuggling Case Isn't the 'Front Woman' — It's 52-Year-Old Chinese National Li Ming - BigGo Finance
+- [Petites valeurs en croissance] Top 3 Undervalued Stocks To Watch In November 2026 - Yahoo Finance
+- [Pays émergents] Moody's Sees Limited Risk From Türkiye Fund Liquidations - Wisevoter
+- [Défense, énergie, matières premières] As artificial intelligence (AI) bubble vigilance continued, semiconductor stocks were dumped on the - 매일경제
+- [Crypto] Bitcoin price stalls near $60K as Pi Network rebounds, VVV jumps 20%: Market watch - Crypto News
+- [Crypto] Bitcoin Price Prediction: Can BTC Take Back $60K After BlackRock’s ETF Outflow? AlphaPepe Clears $3,45M Raised - StreetInsider
 - [Anthropic] Noah Smith and Steve Rattner on Anthropic's IPO: the largest wealth-creation event in a generation, and what it means for inequality - Dealroom
 - [Intelligence artificielle] AI Chip Supply Chain Shifts Put Disco Stock And Asian Tool Makers In Focus - Yahoo Finance
 - [Résultats d'entreprises] Dow Jones Sinks to 50,759.42 as Home Depot and Cyclicals Weigh Before Nvidia's Earnings Beat Estimates - BBN Times
@@ -452,11 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] What Costco Wholesale Buyers Were Betting On - Simply Wall St
 - [Défense, énergie, matières premières] HawkEye 360, Inc. (HAWK) Stock Price, News, Quote & History - Yahoo! Finance Canada
 - [Défense, énergie, matières premières] MDA Space Ltd. (MDA.TO) stock price, news, quote and history - Yahoo Finance UK
-- [Défense, énergie, matières premières] Electro Optic Systems Holdings Limited (EOS.AX) latest stock news and headlines - Yahoo Finance Australia
-- [Marchés mondiaux] S&P 500 drops more than 3% as semiconductor stocks lead market selloff - www.equiti.com
-- [Intelligence artificielle] Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off? - Yahoo Finance
-- [Intelligence artificielle] Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off? - AOL.com
-- [Intelligence artificielle] Should You Forget Nvidia and Buy These 2 AI Memory Stocks Instead? - Yahoo Finance
-- [Résultats d'entreprises] Cloudflare Q2 2026 Earnings Preview: NET at a Record High, Can a Beat Justify It? - TradingKey
-- [Petites valeurs en croissance] Uber (UBER) Stock Looks About Right Following A Delivery Partnership Expansion - Simply Wall St
-- [Crypto] Russia’s Crypto Trading Window Opens With No Venue Cleared - Crypt
+- [Défense, énergie, matières premières] Electro Optic Systems Holdings Limited (EOS.AX) latest stock n

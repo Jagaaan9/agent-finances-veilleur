@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T08:40:37.294130+00:00",
+ "mis_a_jour": "2026-11-22T08:50:34.687395+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54846.72,
+   "prix": 54396.82,
    "devise": "EUR",
-   "jour_pct": -0.08,
-   "mois_pct": -24.31,
-   "volume": 34.57247598,
-   "volume_relatif": 0.14,
+   "jour_pct": -0.9,
+   "mois_pct": -24.93,
+   "volume": 36.87068355,
+   "volume_relatif": 0.15,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure - Decrypt",
+   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTNVRTU5WEFySml3TVRmOHhPQnZkOVY1SlM2YXFNMHJIdTVuNVoxYVZfdkRackwzVlZRV3JHZVNEU0hJY3N0UE9sT2pybXlpTExSY2ZSUmtkRXFsaVhwTHFaZ1RZMkthWGNVc29ZRU05eGdlcGkwU3JrcmJhVzBsS29Lb0xlbzF4RWEw?oc=5",
+   "date": "Sat, 21 Nov 2026 18:06:19 GMT",
+   "vu_le": "2026-11-22T08:50:34.687395+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "The Real Force Behind the Nvidia AI Chip Smuggling Case Isn't the 'Front Woman' — It's 52-Year-Old Chinese National Li Ming - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDb0NQOGFwRTJKQ0M5ZVBIbU01UXhYbnRnM3E4SkZmdm5wTzdMVzlNMHp0UHVJdDFpUDU1NHdOeGJtdlM2TEE4OWZqTDIxYm1JS1FjOEV2cWJJUld2Uk03UTBZN0VNUkNkT2NuaXRITzBzcEw0UkE?oc=5",
+   "date": "Sun, 22 Nov 2026 08:35:00 GMT",
+   "vu_le": "2026-11-22T08:50:34.687395+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Top 3 Undervalued Stocks To Watch In November 2026 - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQek40TGhPNVhua1p2Mm45SUFCd1RuWC1TSTlubU84OG1ZYjR2UWxpaUo2SW1mOGlzVy1obTd0bzZ0MFotdWdfOWgxWkx0QUpCdzlTaXdKYlN2UTVHZ2trTS1GOXFqaDZrTlUxVkVsWkZTN3N3S29mRU5mbDF6c3pLU1ZTM3NxWGhxeTRpX2VqSndzLTJIbDFicVpMdw?oc=5",
+   "date": "Sat, 21 Nov 2026 21:10:41 GMT",
+   "vu_le": "2026-11-22T08:50:34.687395+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Moody's Sees Limited Risk From Türkiye Fund Liquidations - Wisevoter",
+   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcWxjc3pETVcxQWdOc2VJajVpV2MzZzcyZUlQaFREd0h4SkR6SU8wNUFGcnhhMUctV05tZzBQWEJmZElaQ21BVEJqTjFMeklTWDBNS3BrOFItLUVTN3dESTJKS2d2QklHY0dqTXdNeXh6NDNqVTRFaW1vdEJaaHNtc1FhYjdvME1nWDRmdw?oc=5",
+   "date": "Sun, 22 Nov 2026 08:40:02 GMT",
+   "vu_le": "2026-11-22T08:50:34.687395+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "As artificial intelligence (AI) bubble vigilance continued, semiconductor stocks were dumped on the - 매일경제",
+   "lien": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xNUt5QTItLWV5eFprbmZadlY1TnhISWFZVUtfZl8zTHI2SzVNVDU2WldlcHd5S0tRRmx5cW5hcWVjT1NuVFZMSVZIVFZhckU?oc=5",
+   "date": "Sun, 22 Nov 2026 08:34:15 GMT",
+   "vu_le": "2026-11-22T08:50:34.687395+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin price stalls near $60K as Pi Network rebounds, VVV jumps 20%: Market watch - Crypto News",
+   "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95SXltejJLRGVoeExpQUFieUUzX1hDQlVhdDNZQlNjVHFkWi1wWF9yYUhjY0pwZXk2SDdvSEJVeTltWC1ENTU1QjlqZ0Y0OXAxSkV4Tlo3bldYX1hnMFdPQUdiWnBIRnltUC1xSlZjamdZeEY4?oc=5",
+   "date": "Sun, 22 Nov 2026 08:39:51 GMT",
+   "vu_le": "2026-11-22T08:50:34.687395+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Price Prediction: Can BTC Take Back $60K After BlackRock’s ETF Outflow? AlphaPepe Clears $3,45M Raised - StreetInsider",
+   "lien": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPXzZ2NlBwUWptVTFOb1JYU25KTDA1US1wX1ZQS2pSMk1nbHhRMmYtQkhzTjVVVWZWNlJqM3JJZzgwSzZkUFVMZFU4VWNCSlZMcUd2YnprdkdqUjZPanhTQnByZndPOF9GOVNPeFZRUkRtWkNIZHhXZUt2c3pUSzZqQmVSY0ZiSk53MEpoU3R6Ymp1Y25fT2QxazVZWk5jSnc5ZjZjS252N0R4U0NRbWs3UFJvR1liQ3Q3eVV3blZ4RU55ZFFLS3hzcm5HVGc5ZGt1Y3lBVkNuQm5EMjVpMnNyX2xSc0NWdXFWTVNMRG91d3lSemNxXzJhT2dRamFyMEZCTlhDblNieDVVYXVUMmxnbC00dw?oc=5",
+   "date": "Sun, 22 Nov 2026 08:16:56 GMT",
+   "vu_le": "2026-11-22T08:50:34.687395+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Noah Smith and Steve Rattner on Anthropic's IPO: the largest wealth-creation event in a generation, and what it means for inequality - Dealroom",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOb0hkRGZyZGN5Z2lLaW5UN1NhOWx5Wk8wRkM1bnZCam1Ndm9idVRGUktMUzZzSzVleVZqY21PNWgzNVpHNU5qTDdLUFd5R0R2SWRKZHFGOHdULXNsRFlsbzdUdGoxSXV5Q3F6NFc2SjB0YXB2azA4cXNFc2N1TGpxWVIwQ2JnbFdyZHliS3pMeUJkd0FUREJ2bmI5UFFoZ2ZoN09McEVfQnF0bHF0WnFTTUpnZzA0Q1dDVmQ3dVJweDVmYnZYT3EtM19RbTFLb0dXdFNPejNTdklkOFM5VXNtWE5GWkN1bGUxTTVRRkRUX3llYWYtOXJEVmxoald2OHZvbWxFOThnZEFremV6?oc=5",
    "date": "Sat, 21 Nov 2026 12:03:01 GMT",
    "vu_le": "2026-11-21T19:10:35.878479+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Is Now The Time To Look At Buying China XLX Fertiliser Ltd. (HKG:1866)? - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ1ZycHhsdmc5SXJtM3JIRm44SjJIRzAzeEh2akpNNzF0TktBaWU1Y3lqb1lFRzVOTnR0aGhoVTRXSkN0YnQzUWxJcU1SRmVoVjNXUjBiMmFqdE9Dc2ZIUm9NcWdmNG54bHhJWjcyaGVsRHpzcnZ4MmJBQVNFOENPTHpKWGNXNWRvZWU1MXdyY0pFcnFkOE5yM3daWE5qZEJ0ZnctOHBhZFNsdDRhU29jcFo4bE1LWGZFTmFkeUdDVzJHSzZxTGtydjA0R25wUUxfQ0k4OUVlN1M1Nktf?oc=5",
-   "date": "Fri, 20 Nov 2026 22:48:24 GMT",
-   "vu_le": "2026-11-21T19:10:35.878479+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Why Applied Aerospace & Defense Stock Tanked This Week - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRWpVM3hndDhsb0dtMVVGMkV3cG10TkJzZ3lneUhJMnZHWU84U1VtMHZoQkxEdEY4QVh5alZhcXJzQTBxbEJ5eV9TZVRDQ2d5cG1kWG1QOEd1d2k1UmdaWnFQbkFzak1tT0xWOXNYYjNJSWNJMEtlUDJVVUNzQ2RjeExmTEg2NEk4NVBYTnk5QUItNWxPUkczX1FvaDZkWTVyOXpqRXd4eE52SnJoQ0dUYWxxM1BKNE1IT2FMYm4xT3VncEIyWTBDalpUaw?oc=5",
-   "date": "Sat, 21 Nov 2026 16:56:53 GMT",
-   "vu_le": "2026-11-21T19:10:35.878479+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Red Cat Holdings, Inc. (RCAT) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXdGYwam5URkJjMi1jdm02NHpHcWc3WjdRd2ZlYmsyQmR1Njk0a3FIQm92TW4tcHU3MnhNVWRXZ1NFV0hMT0dDRmxkUFJRYmhiYWdiSzhhaEFzaHVzTnJLYUFB?oc=5",
-   "date": "Sat, 21 Nov 2026 06:56:58 GMT",
-   "vu_le": "2026-11-21T19:10:35.878479+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Actualités ANTHROPIC RG-A - USD - Marché NASDAQ en direct, résultats ANT - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pLVU3WHQxeVpPcmxJYUEtcURrQTI2dUt4VU85ZTZSb3ZvNFR4UmlldlRIS1VEZXpldi1jRk1mcVJDMXI4Y3lCYmNHOWhIczJDQmlCNzBnV3g3TkRO?oc=5",
-   "date": "Fri, 20 Nov 2026 22:42:00 GMT",
-   "vu_le": "2026-11-21T19:00:35.799511+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Le prix de l'or chute à son plus bas niveau en 14 mois, perdant près de 9% en une seule semaine - Laodong.vn",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWVJtYkNVWGxKSFA5YmpfdGZWMUJFRnhUQTNaRVdyVTNVRnhNb1dJcDJyeFBLU1ZEaEhHUUxDVXZSYTBqWGRCYjRqUVBJN1pWZEpEX3lHTXRHakxHd2dKZTVjQlFXaE02VmxWZUIxV2NTdUdFN2hBV0JQa2NsTV9kcnJaWXFLMlJWaWI1Zlp2cm1vejVjSXJPbW85VEJfWmlUV3F5RnpNMkZ4VzdaQURERVhfMWU?oc=5",
-   "date": "Sat, 21 Nov 2026 10:57:14 GMT",
-   "vu_le": "2026-11-21T19:00:35.799511+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Technology at Work, Heritage for All: The \"Chinese Approach\" to Safeguarding the Leshan Giant Buddha - The Columbus Dispatch",
-   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObDdvVENqc1VQa2RDMmoxdzdjUVVVa1NyWjBJYlR5TkQ1N3Z0X182eG9wWWlGZlAxUC16Y1BvZm1QaWd0SzhkTlU3WUhlM0pIdnJ4U2hlWTFwSlo4M2M1bzZfSEp5cXIxYXlCMVVJQkJGOFFybC1YUHhJM1ljYzg4TUZTRURwbjkycTFvRVQxUFB1eFlTeVphMERzS1lfc3dJek1UR2U0cGN4M3E1RG45UkY5VHR6QTNXNGIxdkZDLWs4UFdvSFJNOHFlYmtjRFhIX1FGd21HQTFvNllXMVFOelpGZw?oc=5",
-   "date": "Sat, 21 Nov 2026 11:08:03 GMT",
-   "vu_le": "2026-11-21T19:00:35.799511+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Worried About a Market Crash? This AI Stock Should Bounce Back Fastest. - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT3NYeTJFcE9SOW1hTkpjZk8wM3UxazZiOExzY0RvRUxLaERQVXAzOFZwaHg5bnZhY0VZSElwOGU2QndKMmxuREtRVFpTV0RlSkY4eTFtUUI2cFNmQWlvTEp6bUljSkY0dmNsSzFNTnVYbWZVUWJld3I0NFExRXNvN2kzV2EzOXpyVlUyREoyc1JvdWI1RGN0ZzRqSEdrd01YSXNvVWZSMHVQS1gwR1FXdmhVQ0NFYzgwczVnNmFQVUVFeExSRU1uUm4xOU1uMDZIWGQwSUFYZ0pza2w1cFZMOWZ3?oc=5",
-   "date": "Sat, 21 Nov 2026 18:53:32 GMT",
-   "vu_le": "2026-11-21T19:00:35.799511+00:00"
   }
  ],
  "erreurs": []
