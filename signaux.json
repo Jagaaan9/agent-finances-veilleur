@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T10:20:39.983784+00:00",
+ "mis_a_jour": "2026-11-22T10:30:36.888321+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55523.52,
+   "prix": 55533.75,
    "devise": "EUR",
-   "jour_pct": 1.16,
-   "mois_pct": -23.38,
-   "volume": 53.9515727,
-   "volume_relatif": 0.22,
+   "jour_pct": 1.18,
+   "mois_pct": -23.36,
+   "volume": 54.93573607,
+   "volume_relatif": 0.23,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,14 +3469,14 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
+    "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "prix": 39.73,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3497,14 +3497,14 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
+    "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Il est milliardaire mais n'a aucun diplôme, il scrute la \"boîte noire\" de Claude: qui est Chris Olah, le visage méconnu d’Anthropic qui a demandé l'aide du pape pour encadrer l'IA? - BFM",
+   "lien": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNUXIzZVdNM0FuODJNLWJQRnlzdG56MTBfdW5DZXZCcENkVXpvU0VzamJkcG5MN3l1X19RR3ZxdzlNOHFiNWNpci1mMTFYWG00THNIcjk4Qnh5NlBOZ1F5Ym1GRlZjdFZfSjdKZTNMZE1nNl9kZ0ZUa1ZRTGJyaWYxTjQ5TFRVNlNOTmZUUURfMFZJdHlod094Z2xnOFd5ODh3dmlMZVpLdVUxalRNbjJTTnBzeFZ3N3RFaTNjQ2stS1BtSVRQZVBkdFY2Q3JiVFBBS1U4YTdSTjFIdlpjU0ZXM0F3alRqbGpGVjBVNUVUeGJJLWdvMGRxRFlLaS1KZjZNTVNPZ0gxRDhTY3NCRzlFQjdEdkNVLV9sckRhSUp3QUxseldKSG5mQWZJRXFLOGk5YTNUaGQxRHVGNzJ0WEozX2h5bnNmQ2FpT3o1QmxGTnRlV1FoekVrM05iaDA?oc=5",
+   "date": "Sun, 22 Nov 2026 10:02:51 GMT",
+   "vu_le": "2026-11-22T10:30:36.888321+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Piratage de GTA 6, IPO d'Anthropic et Face Unlock sur iPhone Duo — le récap tech de la semaine - Numerama",
+   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX2hDczJYOS1aUVRQOUprZVN0QVJfX0JlZ1kwcDlwaVV6YW1JY1cwUjRxM2RMT1dCN0d4b2kxaUh4SzlQWnhwOHcxcmdYcVZ0b25PSWFyU09qN3ZrSVZnLWNtV3dfdjB0QXRnbmdQTUZOVjN0V0E1Y0NWamF5RzBDS05XQ3pkMmNpMF8xSy1NejFMOEhNeDRsOVAyN251UzF6U2NhZ2ZhcnRUaUZ5Q2c2aU9uUEY5QkRkLXRYczFvMThhRzJJaGR3cTJWVFRxQzg5SUgzZTN0UQ?oc=5",
+   "date": "Sun, 22 Nov 2026 09:07:00 GMT",
+   "vu_le": "2026-11-22T10:30:36.888321+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic lève 81,3 milliards, le calcul reste incertain - Brief IA",
+   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY2tOeU1zdjRKb1ZRbjRaVUg5TVNWdWFWMTZHOHMwZE1nVDk2cUMwckN4WVhVSmJtT2xKYXREa3Rid3FTS29iS2tMamY4ZXVCS0dfVm5FT3ZQdFZfQi1OOFY1Mm1hNHVJYi0taFpNb0RiN3VuR25DNTZNR0d5MU8wazNld3hTU2t0d0E5VGNlYw?oc=5",
+   "date": "Sun, 22 Nov 2026 07:11:16 GMT",
+   "vu_le": "2026-11-22T10:30:36.888321+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Mergers & Acquisitions in Serbia: 2026 Buyer Guide - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVXRmbVJUaEtQMTc3LWwwSkZ6MjRGZjFzZ19RWDBqSGJtOVY4OWpVOTNjSi0zYl83VzBjaHVkS1RsZzVTY1BuT09VUVBXWGx0bUdCTlgyTm9VODhJcEhianJfNDl2UmFOMTBndjh1YTd2OHpHVmg2TW9vV3I5cGEyZng2NS00OE9LN18zOG5EaV9RV2M?oc=5",
+   "date": "Sun, 22 Nov 2026 08:17:34 GMT",
+   "vu_le": "2026-11-22T10:30:36.888321+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Accenture plc (ACN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10VW5xQnpvVW5CQ1FBX2VMUFdwSFdVbkVGaEFmMVpOYnhjZksyMVBwa0toSW9lUkpfM1J1bFpGanVranZOSTlmVEdMMXRUWVBX?oc=5",
+   "date": "Sun, 22 Nov 2026 09:39:06 GMT",
+   "vu_le": "2026-11-22T10:30:36.888321+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Anthropic rejoint le club des entreprises valant mille milliards de dollars. - Vietnam.vn",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRTBHZ0piMEZQUVRPRHRBN0laWlowQkVlRG9hV0pyRG5JbmxaVlZVZ29RanM1djdBX3pIbmFwRlh2R2c0Z3VFMDZiZWZKamM0WVVEU3FNSlBTdmMta0U3TXFqVzZLbnplTkFwSU5ZMDZwX0xYZ3g5UVJPSTJ3SzgyZExNQWhHMDk5dW8yWm9vVDJWOVlCQVRUaEVJM192Rl9rRjRGdXpGckxyemNPOEE?oc=5",
    "date": "Sat, 21 Nov 2026 21:08:57 GMT",
    "vu_le": "2026-11-21T21:10:35.449846+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "ETH price on Nov 22, 2026 at 5pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTmR4X3BRdldaM1p5Z0ZNWGFpWUFXS1pPQ1ktbzQ2d2tGN0dWWGY2clVoMFd4Q1RKd3h1UXNoZUVqUGZKUVFIRngtbGE2V0NtQjc0RXFiSmtQR1VTWlloUFlmZ0hLSzhBaEVPNnY5eE1RRmpOSUtEbTlnZGZCQjk2S3R5RWhzdHB1czVBWE5kVk5xTlZEdEtzNVF1OU5Fcnh2Q01xSUZHckU2YTI1Znc?oc=5",
-   "date": "Sat, 21 Nov 2026 21:08:56 GMT",
-   "vu_le": "2026-11-21T21:10:35.449846+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Rivian Buys Chinese LiDAR via Singapore After Denying RoboSense Ties - Electric Vehicles",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUw4aEpPdmplc29fb2dBMlVWNmhHSzhDaFlxTWtaSlpRek5NdW1vTW1Nc3hjYnpRd09VZ1N0R2tuZlJWZGNOVDNvR2tDMnZYU3JjUjZxV2VXWmxlSFUwREtWU0pJX3ZPT1VZeG9Bem5adXZDYzZqd09XdTJKSTJ1bHpQSFJwb0cxSTlkUUI5REk4YmUxVFBqVXhRQTl0M29yMkxRbWE0UDI?oc=5",
-   "date": "Sat, 21 Nov 2026 13:50:00 GMT",
-   "vu_le": "2026-11-21T21:08:14.099615+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "DOJ closes investigation into $66.8 billion NextEra-Dominion merger - Breitbart News",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcUVCQUpMRG93UnFjRGFvNE5IYmtPbzd0QldTYmtVV2o4X0VjdU5KenJRdHcxU29uNVBJSlUzTTVvaWIwUDR1Z3VITTZuUW8xRUhPbjdSVmx2Vk9qVXBLdGktZFMxNTlMeDd2WFZwTkl4N2FITUFJUHNlVnE2RldwUnJtMlBCRWhxTGgtQ0xBazVDSU8teEVlek5kR0RnZDA?oc=5",
-   "date": "Sat, 21 Nov 2026 05:30:33 GMT",
-   "vu_le": "2026-11-21T21:08:14.099615+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Zachert Bids to Rescue Poundland as Administration Looms - SuaraGarut.ID",
-   "lien": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xOGJpOGxFSHpTeUtja1FaeUNmV0pMYmM2OG0wY1JKQWN1YjJCZW1NTEdHUFVGVmFCcFZfeld4bWhtUi1HSTg4Q1hscEMtTG1jRVpRWlQ1MFN5djFRTndJQTVqUQ?oc=5",
-   "date": "Sat, 21 Nov 2026 13:07:33 GMT",
-   "vu_le": "2026-11-21T21:08:14.099615+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Taiwan Bans Short Sales of Stocks in New Move to Calm Markets - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0lVX2ZZa3c3NkJvd3dNbnNMN3Vzc1hNSVZaNEctQm1yV3l5Yi1qbnlqaGhuQl8tU0JScU9XSlV6dWVwNXBOYVhUejNZSjdGNmtuQ3Y5eXoxenUtZl9Xc3lNMC1aOWlEVHp3Vm9HUWJaSXRrOVU5T3VEV3dkNlBFYTdsWHdlZk80UzQycGxEdmJTazRqNUltVzVWdWUyMHhnVTAxWFBRa0MtcngzSlpiNWx3?oc=5",
-   "date": "Sat, 21 Nov 2026 09:03:38 GMT",
-   "vu_le": "2026-11-21T21:00:38.419765+00:00"
   }
  ],
  "erreurs": []
