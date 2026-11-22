@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T06:20:35.129568+00:00",
+ "mis_a_jour": "2026-11-22T06:30:35.637778+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53860,
+   "prix": 53844.59,
    "devise": "EUR",
-   "jour_pct": -1.87,
-   "mois_pct": -25.67,
-   "volume": 18.48561374,
+   "jour_pct": -1.9,
+   "mois_pct": -25.7,
+   "volume": 20.27304698,
    "volume_relatif": 0.08,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Jensen Huang Resignation: 3 AI Stocks, Flash Sale Claim - shattered.io",
+   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlZPVm1aTV93aTNwdkxkM1FaWXp2V3hwRzFCblpSbHdySE9heWhyZzVocTJwMjRUS09XZWpldlNRUUxId0hXeFREZTlPakVsMU80c0UwRFF1cFZDX184cmdYMkxzcXh3VTM2RlI1Yno2WnBOSUpQRGZMNlgyRmlyZzhVbWxJUnBfRHhWQW9NZlhtOEE?oc=5",
+   "date": "Sun, 22 Nov 2026 06:22:01 GMT",
+   "vu_le": "2026-11-22T06:30:35.637778+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "NSE’s rise signals India’s growing power in global financial markets - BLiTZ - Fears None But God",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3VWRnhmaVhtalZjZEJBU1gyN202R1lueG1SekVoRlhsV3J6T0pNbWFCUjJRTHhoZ0xTMGN6aXJETnhfYTJ5YVYzSWdHUEpKakJVVEJzeHVqaGVlZTA4SlVOZFFPaU1BSng4Ymg1bUVYbFBtVnhqMExwQ0Z5T3NPU1ZlZDZKS1BfU3RlVUdHb3NZZFNMWjBBS1JWb0p4Y004V1E4aQ?oc=5",
+   "date": "Sat, 21 Nov 2026 18:06:43 GMT",
+   "vu_le": "2026-11-22T06:30:35.637778+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "ASX to come under pressure as Wall Street tech rout deepens - AFR",
@@ -6538,20 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWNlMVlXUVVHQ29HVTRrOF9uZEdKT3dPa2F1NndhRVJJSG9oLXZqenpoazV4NG9YWEFOOGhBTk02TUw1UFp2YkhMdUJkQk4xb3Uzc0t5MDl4VmxIZ3hOTEZMejY3bU40VWQ2ZnFoVGxad1RCN2ZtZ0w0dHJjMW93R2xwYXF1VFl6?oc=5",
    "date": "Sat, 21 Nov 2026 13:30:00 GMT",
    "vu_le": "2026-11-21T17:10:40.843652+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic's IPO Premium Shrinks as Banks Draw Blame - The Defiant",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNFlsb093Q1ZzQzZIc3VJVWdzUThXbE1UdEVvUzctRkczNDlFdWZEdEJVM0lCRldKaXp2NktnQkNrMi02Z2xqdmNycjBkRFdObVdnLW4ybE9lMXRSZEtUNVp2U0UyUU5YOEV2dlhOakIwQkxpaHI0YWJaSU94ajJjMnYyemRFV0JWY1NuQzVKZ2xBZXhQ?oc=5",
-   "date": "Sat, 21 Nov 2026 16:12:22 GMT",
-   "vu_le": "2026-11-21T17:00:36.935438+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "This Stock Market Selloff Could Block the Fed’s Rate Hikes - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1U4dnBGMkhzWi1Rb29JRUtmWWgxYktRY2FsWE1HUzJPZUgzaGlUT0w1YnJQOFlOZjQtZ2FKdTVHTl9oUzJObXJ6NERDbG1mVG10R1JWR1YzdFVOaEt4SXVUU3RFVlcydHFrNVRZVjBKYkFaNWlpWXZHa2FqWnh0Zzlmcy1MRjZGZEtzX2IycC1ZSnJVYVZqYlZYak9xQlNCcW1j?oc=5",
-   "date": "Sat, 21 Nov 2026 15:17:00 GMT",
-   "vu_le": "2026-11-21T17:00:36.935438+00:00"
   }
  ],
  "erreurs": []
