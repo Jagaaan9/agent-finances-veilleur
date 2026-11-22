@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55633.31 EUR, jour 1.36 %, mois -23.23 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55842.35 EUR, jour 1.74 %, mois -22.94 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,12 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Intelligence artificielle] Prediction: These Will Be AMD’s and Nvidia’s Stock Prices by 2028 - The Globe and Mail
+- [Rachats et fusions] Equity-KCB merger: 5 major hurdles that could stop Kenya’s two biggest lenders from joining forces - People Daily
+- [Petites valeurs en croissance] Frontier Stock And Other US Consumer Cyclical Shares Worth Watching Now - Simply Wall St
+- [Pays émergents] India can attract global capital if it removes barriers to investment - Business Standard
+- [Défense, énergie, matières premières] Why Applied Aerospace & Defense Stock Tanked This Week - AOL.com
+- [Crypto] ETH price on Nov 22, 2026 at 12pm EST Crypto Prediction Market - Robinhood
 - [Anthropic (FR)] Anthropic fait ses débuts en bourse avec une hausse de trente pour cent et frôle les 2 billions - Foro3D
 - [Marchés mondiaux] Investors Brave Stock Market ‘Fragility’ as AI Trade Falters - Bloomberg.com
 - [Banques centrales et taux] Taux de change du dollar américain aujourd'hui (22 novembre) : Le dollar américain enregistre sa quatrième semaine consécutive de hausse. - Vietnam.vn
@@ -449,11 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] « La bulle de l’infaillibilité » : aux États-Unis, l’euphorie de l’IA se fissure - Le Point
 - [Introductions en bourse] Anthropic's $81bn record IPO and what it means for the future of AI| The New Times - The New Times
 - [Anthropic (FR)] EN EXCLUSIVITÉ-À l'instar de SpaceX, Anthropic a mené un processus d'introduction en bourse atypique, ce qui a - Boursorama
-- [Crypto] ETH price on Nov 22, 2026 at 8am EST Crypto Prediction Market - Robinhood
-- [Anthropic] Will Anthropic’s IPO buck the tech sell-off? - Financial Times
-- [Marchés mondiaux] Share Talk Weekly Stock Market News Review, Sunday 22nd November 2026 - Share Talk
-- [Chine et Asie] A tale of two cities: How Shenzhen and Hong Kong reflect China’s future - NBC News
-- [Résultats d'entreprises] Qualcomm Falls 7% After Q4 EPS Guidance Misses by 12% — Automotive Hit a Record $1.6B - TradingKey
-- [Petites valeurs en croissance] Insider Sellers Might Regret Selling Real REMAX Group Shares at a Lower Price Than Current Market Value - Simply Wall St
-- [Crypto] Kraken BTC/CAD Print Hits C$24,250, 71% Below USD - shattered.io
-- [Crypto] Only 
+- [Crypto] ETH price on Nov 22, 2026 at 8am EST Crypto Predicti

@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T16:20:37.658661+00:00",
+ "mis_a_jour": "2026-11-22T16:24:08.022089+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55633.31,
+   "prix": 55842.35,
    "devise": "EUR",
-   "jour_pct": 1.36,
-   "mois_pct": -23.23,
-   "volume": 119.65710304,
+   "jour_pct": 1.74,
+   "mois_pct": -22.94,
+   "volume": 120.24760304,
    "volume_relatif": 0.5,
    "capitalisation": null,
    "per": null,
@@ -3754,6 +3754,48 @@
  },
  "actualites": [
   {
+   "sujet": "Intelligence artificielle",
+   "titre": "Prediction: These Will Be AMD’s and Nvidia’s Stock Prices by 2028 - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQX1JsZzdCVDU2VHRONkxmejBRWjVsVXRoQXRYVVJVWVF4STJlam9UNExIWEJaSTYwb0V2VUQ0OUs2TjBjWE85V19acmM4akVHWkhHVEZpR19ZNXhBUU1KQnV5ejlRcTNGdFNWX3NPU3Z3eG9qcVVNVlkzYVJMbF8wZmdjTXJfdGdib2lQSzFaRkpDR2hUbHYyQVpQa0UxcmdEblJmSzJuV1hLVEF5RWF4eDNiNlpZNEowSHNrTERDdzExMXVsRWxWV3lFaXhvWFI0bmxzUkJFUEcwdVgwSms4VTlB?oc=5",
+   "date": "Sun, 22 Nov 2026 16:07:55 GMT",
+   "vu_le": "2026-11-22T16:24:08.022089+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Equity-KCB merger: 5 major hurdles that could stop Kenya’s two biggest lenders from joining forces - People Daily",
+   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUTVvYlVOSW9BU1pVUXRxd2FzWWhCWU1iZ0FxQWp4TnVSRmx2RkNyaGQ0RXJRaHpENUl3Z2FnTkRDYUtnbXlBMF81R09wSkhRSzlrbjhZS0ZKaDVEYlBfNjFFcVVvbXNBaVN4MmllZTVlU3B1cGN1dWJVbml0UTRCYkFSZGE5S3VTTmZ2U25YWEFnN0pTX2V2OWw2VTBWNndKS21sQndRZndqZU1YY0IzUzdfWEhPVi1udi1kRjFFYUNibmtEZlBSMk5GWlp2dw?oc=5",
+   "date": "Sat, 21 Nov 2026 22:39:27 GMT",
+   "vu_le": "2026-11-22T16:24:08.022089+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Frontier Stock And Other US Consumer Cyclical Shares Worth Watching Now - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVnVoNTQtWXhRWm1QZmlaTlI0b0dkSHN0SEt4akQ4RlpGV2o4b0QzeEs5UnVpN3AwbnZlSW1rZHRndjFDLTBCbFhGT0FPOS1kTmZ3RmF6SWNYVjIzOGxvWS1maFRZdzZNVVgwUFg1c0hMSmxVWm9QUUs0UDNQb2U0UWNTN0JvN2lRTHljTmxweVg3OTVlQW1zWldTUXo2dFJtUTBjc1JfM3l2YzQ0M3hNRTVkVE5IcWlTS0V1dWpCNks1c3VGQkJnc19GeEZZYkNRbHlabWJIZ3VxQlJlWDU5NXBB?oc=5",
+   "date": "Sun, 22 Nov 2026 04:17:54 GMT",
+   "vu_le": "2026-11-22T16:24:08.022089+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "India can attract global capital if it removes barriers to investment - Business Standard",
+   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM0x6WS14Tld0SEk3ckRfVXMwUGhOWHVaTjVYNnh4MTNjYWFRSndURWhNWFNISkhYSEY0cXdCWlltTThDcDZuVmhWZWVzQlpHTmZDUGZadTZobzVYcnY5ODJra3MyZG1tQlp4TUI3eEVNakxtWTVhdVh3UUdSd3ljT1ZtTjFSNzJoeWVOM3NjSDVYOUJQWjZHLVpQQTQ1eWFlT3BDM1hXY0pISVhlZE92cE10a1VYR2FMeENrWldfWFVCUmJkY055WVJsM3A3S2JFTE55bmtR0gHbAUFVX3lxTE9JVEtXUG9DaDk3N016aWVUclVmRVRFc3FvX1pWcDlMeGZIWU5HaC1NeGNIaE5DQ3UwNFFaMUxCWU1LenBZeVI5VlhVZEZrRVIzMXJWMmVscVFOOVlMMWR5Y0w2Vjc3RkY3NUhpYjhMM2Z4V1AtaGpRVF9iMl9wc19PYTEwZ2wxQ0FJaTNIVG1uRkt5bkZRVUJIMXhmYTVLOERyZlc4SVZHWWV1aW1oU0l5cUpzVlg0dVBrbVNRWnhMaTlEQkNTRnY3X0FvUnpiUGVnVXQ5MlZQOVpSQQ?oc=5",
+   "date": "Sun, 22 Nov 2026 16:05:30 GMT",
+   "vu_le": "2026-11-22T16:24:08.022089+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Why Applied Aerospace & Defense Stock Tanked This Week - AOL.com",
+   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ3pEU2h4OFVYNk1LUk5jdnlSRWxfbWJ5UFo0S1F5Y1pVWW8yWFZDOW9ETEFoWElsRFZlcXBjS2JGWm5iUDBoU0tGbmlMRWtER0xRQ3gzY255SHBaZHVYanp4bjJybGhTVVE5VXFELXN3Y3FtQ3VzU2Rmelg3STBCN2gwZTRsQQ?oc=5",
+   "date": "Sat, 21 Nov 2026 16:41:14 GMT",
+   "vu_le": "2026-11-22T16:24:08.022089+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "ETH price on Nov 22, 2026 at 12pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVklFdUZXVmNOMWo5NkJSa0ZHZ2l5cU94a1loWDhveGFhVkZZczE4aTRlbkVTc0NXYm51NHA2QmV5M1ctcTB3N0pBSDNSOEIwY25pMkF2aXhGQzlXRHk3YUs1bWhEZGtiSVRUa0NqWXpFQlNPZ2twQTFueTVGNm9hd0xRWEZaNjBLZFlRZlFXZEFXUHlsTW13UUtuMWQ3bXpBTFozdTlTUGE4MjA3cEtr?oc=5",
+   "date": "Sun, 22 Nov 2026 16:21:59 GMT",
+   "vu_le": "2026-11-22T16:24:08.022089+00:00"
+  },
+  {
    "sujet": "Anthropic (FR)",
    "titre": "Anthropic fait ses débuts en bourse avec une hausse de trente pour cent et frôle les 2 billions - Foro3D",
    "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVl9hMWNLWTNxc2Z6dHAxZXVrQnhQT2hXUjA5b3hPa3BkaGQ1WG1HZjBkUy1rSl9TRHp4bEUzb0hTYVdXdk5vRzR1em5RclVsWnF5cVVXLWJjVDBhV1UyODNETng3U3FmZW1ldVVIOTJBM1JBTzNydnRDdUNJSk0xZXlzWDl0OVN0a3R3c1BNdGdOeGFxQmdvSXpMUzQwdGt3akJTaXdhbVMtRkU4Q2ZtNA?oc=5",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOWJYT29jOGFiSWxDM19aRnY1dUxkeUdnRkJ5anBvTGdwNXJfUW1yaVpNcjJjeHRPWmR6Y3ltVDVERENuMnJxdEpNOGNSdFJEYkN4VTNxN1prd1pPV183SWdPUklFVkJRZzh4M0NWcExhbk93QjdkdEFIOTdYdHZndF92QzRjWFB0UkJsbXhYVWtmTWJKSng0cV84SmMyb0VueHlPZmlQQ2EtbzdNVnJR?oc=5",
    "date": "Sat, 21 Nov 2026 22:06:47 GMT",
    "vu_le": "2026-11-22T04:30:34.960967+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic’s IPO caps an explosive growth period for the AI startup, filled with contradictions - AP News",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMENibFhsUGZLc0pMdU5wa2tULUpUWG1BMVZ2U3JzX0ZmRlhDODdnUEs5RE0wMkVFWXRtci1JUENZNmJLTC1tSmR0LWlKXzFFYThxUkJpZTN3MGx4THJ2WGNWRlFXR2Z5UDd5VVRGODJUTk9pSlRUSG00eUtGTmhNMy04Vjlmc0dDV3lTVzdET1J5UjNWR3lUZUpFeFlXcDU0R2Zj?oc=5",
-   "date": "Sun, 22 Nov 2026 04:18:53 GMT",
-   "vu_le": "2026-11-22T04:20:35.290379+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China's $1.7 trillion AI rout turns once-hot tech trade into a losing bet - Business Standard",
-   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWjJGLWtfcGtRMEROdjZELWtLZHRENFhCQ3lyTjRZMlFmYlFhT2NYMzNSR0FCb3VLaEVpQmtiY3ZZcmZSZ3QyUjlOVkRHUjlKcW92YmtzMWgwRGlEYlpiTU44NnNGZEhzQVNKeFhnQnc0cEwtczNuRjByZ1BXUkZtNGE0OXNvcFMxbWhVUXVPNTRVMDBpbXVpeDU0SXpOcmtra2NVYVRLU3FkMU80TXFNOE9ydUNLc0NEaHhzQ2hWanFPc1BVMklSYU11bUxaR21JNlc5bHk4N1LSAdgBQVVfeXFMTVoyRi1rX3BrUTBETnY2RC1rS2R0RDRYQkN5ck40WTJRZmJRYU9jWDMzUkdBQm91S2hFaUJrYmN2WXJmUmd0MlI5TlZER1I5SnFvdmJrczFoMERpRGJaYk1OODZzRmRIc0FTSnhYZ0J3NHBMLXMzbkYwcmdQV1JGbTRhNDlzb3BTMW1oVVF1TzU0VTAwaW11aXg1NEl6TnJra2tjVWFUS1NxZDFPNE1xTThPcnVDS3NDRGh4c0NoVmpxT3NQVTJJUmFNdW1MWkdtSTZXOWx5ODdS?oc=5",
-   "date": "Sun, 22 Nov 2026 02:31:47 GMT",
-   "vu_le": "2026-11-22T04:20:35.290379+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Take-Two Stock Prediction: Can GTA 6 Push TTWO Above $250 Again? - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMjdQQVlhSDFpeHlCdjJvUXhYaklxeW5ISVhVbGdtZ1drZnJUcEJFQ3RHWWt6bkd1V25GMnY3T1FYNDBPMTlleVJac0FvTHd1TTNaeENkeVZ1elhDbzBwa2gwRWMwRUxJUnVDZFBtYTNuYkNBT0tuck1SQlVBc0RpT292TEpicUF6dDJmOWp2azRNaHlvaFFYR1h5VXhYdkd0WHhoLWllMTJTRkpYUGk1aWZ2UEU5SUhXcGR5aWFHc0diRE1WTndtQjM0NWttSWoyUmdhVkF4eDJxbkNIQnlQSWRzcGtfSmxRSnlqbW9GYTNJOUVibTVqOVJmMDdvaE90ai01anpobEdFZw?oc=5",
-   "date": "Sat, 21 Nov 2026 15:10:54 GMT",
-   "vu_le": "2026-11-22T04:20:35.290379+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Amundi Core MSCI Emerging Markets Swap UCITS ETF Dist (U127.L) - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2Q1FtTzBLWHBRVENoZ1NwV3hGblNzY1J1Zlk2Z0V1SDk0NWt1eC13QmNWMVQ0NEw2cVZTRTQ2M2xTWFlqVFFKaFp1ampjazZFaVNkQlJyYUpkb2ViMGVIcE9uNXI?oc=5",
-   "date": "Sat, 21 Nov 2026 22:21:13 GMT",
-   "vu_le": "2026-11-22T04:20:35.290379+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Russia’s Communist Party proposes adding seized crypto to national reserves - Crypto Briefing",
-   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WQl9MWXdZS3Y5VFhpTGNDYkJ5US15SXpGbXd6UWlSUmZSVEFFUVVQaEg2WDFNWlg1MzM0WmJ3X3g1UTJvYkxCZzk4bGNjQklubW5KMko3TjJuUHVVUXUwMk16NjRKdjhGUllFN0Q3Q2oyNXhJc3BDVTNrdl9lQQ?oc=5",
-   "date": "Sun, 22 Nov 2026 03:35:13 GMT",
-   "vu_le": "2026-11-22T04:20:35.290379+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Robert Kiyosaki Urges Buyers to Wait Out the Crash as Bitcoin Plummets - Cryptonews.net",
-   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uUnBNbTZPUkItYXVHNGpfelkzYTU4Skk4dGdlTElpcnY2ZC1ObVRRNlN6eXVuSTl6SmxYRUpvUVU2TVBDb2RXZ1o5ZnM3OEZmTHZzcHg5WU0?oc=5",
-   "date": "Sun, 22 Nov 2026 04:13:29 GMT",
-   "vu_le": "2026-11-22T04:20:35.290379+00:00"
   }
  ],
  "erreurs": []
