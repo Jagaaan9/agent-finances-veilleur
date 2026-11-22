@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T17:20:35.780721+00:00",
+ "mis_a_jour": "2026-11-22T17:30:35.172769+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55434.38,
+   "prix": 55491.31,
    "devise": "EUR",
-   "jour_pct": 1.0,
-   "mois_pct": -23.5,
-   "volume": 130.72366673,
+   "jour_pct": 1.1,
+   "mois_pct": -23.42,
+   "volume": 131.69981949,
    "volume_relatif": 0.54,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "SanDisk Is Up 509% YTD After a 251% Revenue Beat - Is the Pullback to $1,382 a Buying Opportunity? - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWDVGZVNwNnZDSHFmRjRwcWJWTFg5TzBSaUZFR0dqdHh4aFdtSzdyak5aZ2p0RG1OMFhlb3JtOEttQm5INUFKNXNYdmZ4UlozVHU0cmpwYnZVQ2ZUM2V4US1kbjhRM3ljRVFKcjZMc0FqYTY5T2RReGJHYnREMHR0c2ZmdEdrWE5Dc0t3UTBxQTNhUTc4dDdTZ0t4M3hrR09HQXM1aVM4NF9PcTVOZEdobmFjdlk1S0tqcUxPMkE5b2RRcEM3ZWc5SHVQSkN5SlVXX1RtUmp4Z0tPWTlseklRT196OHhyWjByc2pNUGs4NTZOQUU?oc=5",
+   "date": "Sun, 22 Nov 2026 04:50:26 GMT",
+   "vu_le": "2026-11-22T17:30:35.172769+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Defense Stocks To Keep An Eye On - November 22nd - MarketBeat",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQm5seWo2azBYc1NOUjlmLWRQaDhjbHJiTUVBMVVCb0dGX0ZCSGZ0S3JweW5QOVgyNTY3NTE4cENOLUU1NTJuSmJmeXlCVVpDUkpjLXlvbm13OVJlQ0ZiRXR4SVFIQURuejAzOGEyeUJhdzRxYzVpQWM3cUFDd25OQUtJUHdhaXNxamprdmRaU1NsSnV5cG83alBvN1BCckg2N1BYbXJLTWc?oc=5",
+   "date": "Sun, 22 Nov 2026 17:20:47 GMT",
+   "vu_le": "2026-11-22T17:30:35.172769+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "JPMorgan estimates Bitcoin mining costs at $86K as price sinks far below - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcjlCdmFXV1VxaHJJYmpVeUhvc0QyZXljekRRdElEMmJKWTJHeTJjaEI5dUlCSW1ieF91b203emtMN2NSRjBpcHYyYkY5WWczdG1yWWJnSXNFT1U3V2d2QW1oRGhXUlAwaHR3eEpyTmJjQVFrYUF6eDIyVkV2aXVubDlZV1JkWk1HdDUwMVNick9tMzdjSmx1WHNEaFE1cFFvTWlkc1JyQ1JnX3huVWpBbzJ4cHM1cUJyMmc4bVQyQ1BSaTB4RHBLQzNRbGQwVWZjclE?oc=5",
+   "date": "Sun, 22 Nov 2026 17:02:28 GMT",
+   "vu_le": "2026-11-22T17:30:35.172769+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Analysis: How Long Could Weakness Continue Across the Market? - FOREX.com",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWRmOFhIRHNCdGEzMkRNUHNFYjVFZ1hua203S3lsU2QyQWdiSURCUTJNVmQ2UlNCRi1WSjZsOGYtQ1I5Nlp5bko2UVpHeFVZSWdyaGtkUkNucmJ0UXptSm92V2t4c1pnb0JIX2lheE1hMlRRRmdpVF9xTThQN1IydUlnNVJfSzh5YnBvVnhKZ3BIX3VRUkY0c0JFMjR6WnFhQ0dvNnZyTkFDbDB1ZGN4MlN3NA?oc=5",
+   "date": "Sun, 22 Nov 2026 14:31:24 GMT",
+   "vu_le": "2026-11-22T17:30:35.172769+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bored Crypto Investors Dump Bitcoin to Chase Massive AI Stocks - Cryptonews.net",
+   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uT2hBdU5VZlEyMTlibEpac0QyWnZEZUx2V3FQaGRPRS1MUjhucXRaaEY5N0EyUldMRFhRZU5hQ0kyampuX19Dd2FoZkVYbEtjeGMxUDRCcEw?oc=5",
+   "date": "Sun, 22 Nov 2026 16:38:49 GMT",
+   "vu_le": "2026-11-22T17:30:35.172769+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "Alleged China Access to Export Controlled Chips Fuels Securities Suit Against Alibaba - The D&O Diary",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUZ6bTNZX0ZMSHhjTmo4d0J3Y3FkaVdudXZHU2xwbXBrY3VudjdfN1BiRkNDNDBweWZHMVRxV0Jsc19tLTN2VUxxd3lfNGlyRHFHdV9TYmlwcG5MUTBQOWxOaEFxQk16aEg1NnVlclBXZUtPTC1mb0Y1SlVUcmlUaENVV2EwSEta?oc=5",
    "date": "Sat, 21 Nov 2026 23:07:11 GMT",
    "vu_le": "2026-11-22T05:20:35.389224+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "4 IT Stocks with Robust Revenue Growth in Q2FY27 - Equitymaster",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYVpaS3E4bHlhaVdZUXFILUhlZXhWVE1MVnZKWGpQem5hRUdwUU1LaWdSTHNNX3l5djhoUGQ1bUNadjhiaDRJdkFmbDVfT0xDeWxrU1kxcnU1QzlSNzRiSGNWRTFqSnBmMkJGU3hwc1JsbmVaNlhkMmtmWTZJNEIwNjFWblk4ekZRTVpwV21qR2s0QVprZF9LbHVMeU82NDhWQ0RsMzBaWjFJaWY2VGluWU5XSHl0UkRiWVE?oc=5",
-   "date": "Sat, 21 Nov 2026 05:52:02 GMT",
-   "vu_le": "2026-11-22T05:20:35.389224+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Insmed (INSM) Is Drawing Acquisition Interest - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObnFfS2wySDI5RU9LTnVaYzVyUGl3U2ZwRHhmUzk3NkxRZE9qVUh0N2lfeFlFcEtkaFZqem1NSlF1dlJkN0JVTlRXZEFkb0pYYWEzbFFyeERjSk9ydDlpNHdVMmxMSkxRaFF6RGRRMmtJeExiVEhxelR1VkJhRUFaU1h5YnZpdFNZLVo0ZGU2SExnM2t4Tno4bkJnbFlUX3lpWmFzSnhTTjN3Tk5HUTQzTnNGVS1uMXBwcVlvbjNiMznSAcYBQVVfeXFMT2JuRm1GVVl3X3BpdjFLNTdPN0JLaUV5ck5FMGtXYXVRMVlFV1BwUUt6RVc0aTktVmJ2ZDVJaVBMeEtwcW9CdkZaeFBtQlF2VEtUcTFNVHZ2T3c3R2hsQWU1YkVGdUJLbDN5N21nZXBkY2JBSWZ0VUxwWGU0bjJzdmZESWJKU0p6TW5hZUd1em9WX0c1UHlCY3V5ckxSQzZySE5RcHdQajJZXzJOWHpTVmVIalVVdFJ4Q2hxQ29ObmtWQ015dFRn?oc=5",
-   "date": "Sat, 21 Nov 2026 14:09:52 GMT",
-   "vu_le": "2026-11-22T05:20:35.389224+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Broader markets underperform; Kaynes Tech, Inox Wind, CreditAccess, KEC International down 10-15% - Moneycontrol.com",
-   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRWE3aWJhRFZhVWs3Z3FwcTVhOENPdjlHQWk3UzlpUG9wc0MtaGY5NG1faFQwckFKbGlOVU50Um5JMk15YnRETUJESjlOQkFpVHVkeEdEX0ljZFNPajR3aEFSeFhFelZicklGcmU2ZVgtZHpPdTJWV1JkOTllYllSb3ByR2N0cWotTWRnQ2w0TjFEeDZYU0F4MGo0LVk1OEFFLVNhbmZIWS1aenhjcXVlaDRkMmhfNWo1cDFoTC1OaGZ4Y2xjeW41VEFtczNxUW96cTRuSThFMUhLN2UzQlpjUlg3cUpNNms0S08xedIB8gFBVV95cUxON3BuVnFVZDA0WGwwX2lCTDlmQWFXdzVyU1dBbkQ4b1FlbjlUam1kaGw1dzNieE5QQlZ0a1pnNFpHR09uYTRsMV9XbVFTQzhxODVNWWdkZ1ZrdUFWUU1PWlVzdFN5MEQzTkFMUnJUVmZhS09sYVA0Mk55MVZ1c0VlLTJPb19Rdy1KYmFwWHg0akM1b1RXMnFOTXc1WGloa21HMHRjTFZnSjQ3T0VlMWw1eGRfU1VJVmgwLWo3YTFFcTBEeHZVZlA4bjVvRkdlcTNvcEI4aG8tQTdEUXNibXdqM1BxNVFIdXdOTTJzYnVNc212Zw?oc=5",
-   "date": "Sun, 22 Nov 2026 05:03:54 GMT",
-   "vu_le": "2026-11-22T05:20:35.389224+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Top 3 British Quality Stocks To Watch In November 2026 - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2RfWkx6UHRLU3U0d0tDbTE3N1ZNSndmVEtzdV8wTnd0OGZMckFyd29VMTRiSlo3VFRTS1YxSXVlcF9DREdNckVWT1VMZTBjTF9XR3dMRHF5Y0JheUtOaElDX2prUmpMUmktbk0zWkFrWGVYd3VaLUpTYnRKc0Y2UTUzcXdBSWd3MHB5QmhJejd2ZXgyTmkxTg?oc=5",
-   "date": "Sun, 22 Nov 2026 04:17:00 GMT",
-   "vu_le": "2026-11-22T05:20:35.389224+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street Suffers Sharp Weekly Sell-Off As Nasdaq Turns Negative For 2026 - BusinessToday Malaysia",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd09HNmN3c1d4amdxN2ZJOUNVZjMwT1k4Nkhtalg2c2M2UmxPTm81QjVmNFZhTDdtM1J4aVp6WmNWZmstcVE5M1BqRnVENVJYdW1jMGtXWFI2S2l4emNwblN5WGdpWGdVY3lHM1V6X2xjRWRXb2pWLWttazFzd3VhbkoyR3NzekxCRWdQd2pVSk16TEF0bVhLZkNYZHkyMy1JWlJSYy03T0JxUHNxVFpCUEp0MFJxVkxSSGNqQQ?oc=5",
-   "date": "Sun, 22 Nov 2026 02:00:00 GMT",
-   "vu_le": "2026-11-22T05:10:36.902562+00:00"
   }
  ],
  "erreurs": []
