@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54906.61 EUR, jour 0.03 %, mois -24.23 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54811.45 EUR, jour -0.14 %, mois -24.36 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,11 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley - The New York Times
+- [Rachats et fusions] M&A Due Diligence in Turkey 2026: A Buyer's Checklist for Foreign Investors - Global Advisory Experts
+- [Résultats d'entreprises] Cerebras raises 2026 outlook, sees revenue tripling in 2027 as $26bn backlog builds - investingLive
+- [Résultats d'entreprises] Tesla Q2 Beat Revenue But EPS Miss 35%: Free Cash Flow Collapses -$1.09B as Capex Doubles - TradingKey
+- [Crypto] Dogecoin price on Nov 21, 2026 at 2pm EST Crypto Prediction Market - Robinhood
 - [Petites valeurs en croissance] What Coupang Bears Saw Before The Fall - Simply Wall St
 - [Banques centrales et taux] Le Zcash progresse tandis que les traders surveillent les risques liés aux taux d’intérêt américains et les perspectives d’inflation - Traders Union
 - [Chine et Asie] China’s AI stocks lose $1.7 trillion as tech selloff deepens By Investing.com - Investing.com UK
@@ -453,9 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Banques centrales et taux] Babylon prévoit de suspendre le staking Bitcoin : l'inflation du BABY est réduite de plus de 60 %, transition vers le p… - 深潮TechFlow
 - [Banques centrales et taux] L’euro progresse légèrement grâce au repli du dollar américain, mais reste en passe de signer une troisième semaine de baisse - www.tmgm.com
 - [Rachats et fusions] Regulatory Approvals France M&A: 2026 Guide - Global Advisory Experts
-- [Anthropic] $1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years? - Yahoo Finance
-- [Banques centrales et taux] Cours, actualités, cotation et historique des capital-actions USD/CHF (CHF=X) - Yahoo Finance France
-- [Chine et Asie] "I'm a big fan of China"Tesla CEO Elon Musk made an official visit to Shenzhen, a technology hub in - 매일경제
-- [Chine et Asie] Chinese scientists’ magic comb restores nearly 100% hair growth in mice study - South China Morning Post
-- [Chine et Asie] 3 Stocks Investors Are Watching for Asia Pacific Trade Growth - Simply Wall St
-- [Chine et As
+- [A

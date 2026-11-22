@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T01:20:35.856131+00:00",
+ "mis_a_jour": "2026-11-22T01:30:39.234655+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54906.61,
+   "prix": 54811.45,
    "devise": "EUR",
-   "jour_pct": 0.03,
-   "mois_pct": -24.23,
-   "volume": 3.92977014,
+   "jour_pct": -0.14,
+   "mois_pct": -24.36,
+   "volume": 4.75519628,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -3754,6 +3754,41 @@
  },
  "actualites": [
   {
+   "sujet": "Anthropic",
+   "titre": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley - The New York Times",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUnA1cXB0NjhBTjNiX0FZT1UxUl9lZVpLSmlhWUZLMDRyMkkwazFrdmswZkpvNC1CdDVBYjIxU085UUhNUW0wT2xJcTE5Snk5WlduUmQtU1RPY0t4MDFFeHg5UndKVHBnZkYwNUJWMjROZGlqU19fN1lDQ09WUUZGZzgtNDh2Q3J0aU9TaU1ENm1iaURVYUE?oc=5",
+   "date": "Sat, 21 Nov 2026 10:03:45 GMT",
+   "vu_le": "2026-11-22T01:30:39.234655+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "M&A Due Diligence in Turkey 2026: A Buyer's Checklist for Foreign Investors - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb1hONlUxQ2RUUE9GTnpBbzhJRmcyLXd4OHBQYXBmRVh6Q2N2aDJCc1l4R0ZINEtvejdVcngwRXdBbnpjeUR3c2RzQWRWSjdwVVM2MU5QWnQ1VnJPRWdhRmg3bm4zMEVXcENkSlpxZ3JQWFFRMVlZREpTOWhacVpjbzZtZzVMWlRkQTNzdndURHk1NnFoTVRnRlF2Y1R5RVMxTFhkZFZrc2daZDBq?oc=5",
+   "date": "Sun, 22 Nov 2026 00:37:32 GMT",
+   "vu_le": "2026-11-22T01:30:39.234655+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Cerebras raises 2026 outlook, sees revenue tripling in 2027 as $26bn backlog builds - investingLive",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFdRSWdkSDRzVkxIc2lqMm8ycjVRNmdJM2JTcTh0ejRuQUhremFaSEJSOHhWeXVMR1d5NUVFVUJ3VjJYLVUzOHlxNWtZbDZtZ1FWcnBYSTN2dVRTYVcxX1dBcTVoRHoxc2pxRk56RWVIVF9kNG55bTloZFJxME1JU3NvUzlSZC0xYkdOSUtnTFNjV2JqTDNqeVdocGtNNW54Vk1wREJFdUFiQ0E3MUVKX1VlZDVuUQ?oc=5",
+   "date": "Sun, 22 Nov 2026 00:12:35 GMT",
+   "vu_le": "2026-11-22T01:30:39.234655+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Tesla Q2 Beat Revenue But EPS Miss 35%: Free Cash Flow Collapses -$1.09B as Capex Doubles - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdEVHblZyT0p3RG9sQWp6N183aUUxUEtEdkRVcFVXcnNhYmhqZGptTE9lWUhEQjNsSWNCNE5RLTZONUNrT3VJdHFhTTdxdDA5NlFGV3VDbzcxZWJ1SHMyTUc3b1pocVlOdGlTTlpZR1RaMGR3MGxOd3d6bG9jZkFZZm1DWHRpNkNJZWttSHRHQmUwZm5HQ0k2Y3k3LVgxazh0YUhNUVNmX1Bvekk0bmQ0Q0VoQ19SOEpNdmVXd2tVSlhFMUU4Q0VsQlZHWUJ6S29iUFBGZFp2R0lGclZmeVFYalJzMV9EaGIwM1U5QzVuQUtsMWE1UWExWmFwZTBZUk0xM0E?oc=5",
+   "date": "Sat, 21 Nov 2026 12:28:15 GMT",
+   "vu_le": "2026-11-22T01:30:39.234655+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Dogecoin price on Nov 21, 2026 at 2pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2RtM3hoUk41YlctcEgtMVZzaVZ6MHlHd1RINTdwMWZ5a1N5M3F4VFMxYjJJUGZNWjRrTFpTYTNxcHNaek9VT1ljeGJHdE9KbjgtVVhNcXhreGp6UG9lSUtyeW1VT2MzUVJ2MWY5QU9md1RpcFZ3cW9XVk82RGZaV25icF9lN2c0YnNmMmFyU3hSVVpKZ0FDQzVhVVg1S3UzbUJvbUZtOVA3YlliNmZ4TVZXUG0?oc=5",
+   "date": "Sat, 21 Nov 2026 18:13:50 GMT",
+   "vu_le": "2026-11-22T01:30:39.234655+00:00"
+  },
+  {
    "sujet": "Petites valeurs en croissance",
    "titre": "What Coupang Bears Saw Before The Fall - Simply Wall St",
    "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaDBhazY4TXNlOUNSQ3BDX28yOFM3bWdIUldJTHktMHlfbFgtN29BQ0FYUWtmOHM3T21iY0NiMGFPVFZvNHY3LVpOZFFzQVR1SGlpN2FkbFJEN2E5aHZRLVkxRUFGNUF3ZFpVaFBjY2ItRDdrTm9EcTBZUTU0X2RWY0NCTkNpVUNKbnFSQTFEUUN5dkMxeElCWGNobGdxQmw1WFHSAacBQVVfeXFMTmtKbFNDUTNaOTFfRXBodE1mR19CcFRhZGdiSXJEOFJKaDI2T19KdHlMRk93UXZsSUlzNFpzY0hJM1gxaHhVc0RVZWszYWp0aTAwUlFCUG14ZHNQVGJKMWIwQnlpdE1Wa0toNDB6TkotWnlrTG9wNXg5MkM4YWdudll0M2xUalFtWVVuWDVlaW92bDlCTHREU3Jnai1hZG56XzV0T19veXM?oc=5",
@@ -6517,42 +6552,9 @@
    "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NUk5qcTZVaGlaSGpUVnJYSm5UcVNVTG9WNXJNeGtJd2hOTERtZ296OTZTNl9QNWF4QWJQSVVxSFRKQ1VVd0lXbENvRjd3bmxFcGJWUEVmYTZmbFVrUmhwR3RMYXhZNjgxdGNCbHBQZlBfY0Fwb2FoNTB6SQ?oc=5",
    "date": "Fri, 20 Nov 2026 15:32:38 GMT",
    "vu_le": "2026-11-21T13:10:34.850487+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Porsche shares plunge after delayed EV launch hits guidance - ET Auto",
-   "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQ3lwTHI0Q2RQaXQwdU9IVXNSVmRQbHdvelNmak04QU9qb2R2WGFjOF9HVUxZck9IMHhBS1llTWdaWWFHM0NYcXM0RUl4VGJnZWFLZHZ5dG1iTVBtRVFfLUhiQmJXMERfWVE3TG1qd3NBT2hkN3p0ODktT3N0b0RkZlY4UkVHbXhaeDZnaFJJMXdTSVN5b2F3clV3V1ZfVURFWDluejNNbGY1Nm83YlhyTER6a0hTQVV2UFBWcHYxT2NTdUJlTDNuZUp2QVJYanQzWkkyb2I0YmRROU9KZ3NPNWx3aTdmRHRiYUtJWV9HUXJUZjTSAe4BQVVfeXFMTVRZM2xzNjFEcFRjSV92T1lJbjZEX05EYzVxTVVRWUZJRkJSZUhhMFcxbDhvcWkwcE93MTNiUFJmaHJGaFVTRTJ1bGZ6ODFIOF9rQXlmaXlMS25HUkQxeVFGcUxCTlgzT0pOZ2JpR0d0b1BXYkhVcXZwNE9Mc1ppbThXTXpfNU5UWXZuZ0laOUlISVJ5WWNod0ZITXpSeWhZdkxOd2JsdWhYZkpZM0twOV9ORVBydWxLdmdJZUpaajFPZ0FlYXBFNnlYUGpIUmNuS09ZZzl4eWZMRlpLbkc1Rk9icERnaXVnTEsySnppZw?oc=5",
-   "date": "Sat, 21 Nov 2026 05:42:36 GMT",
-   "vu_le": "2026-11-21T13:10:34.850487+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic’s Mega IPO Lives Up to Wall Street Hype but Fails to Revive AI Trade - WSJ",
-   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82dmNNTGZ4OGRheE9CWDlFVW01c1dGLVVLNHBFX04yX0ZVcmF0V2hoTlRKRmF3T3F5MGJiYlBBaFVvUFd6eTNud2YzSzdsVFM1TWRlUmhYUE1mWklkUWlrbURFNEpobEhENVB3YWZCUGVMbDYtSnRB?oc=5",
-   "date": "Sat, 21 Nov 2026 03:25:29 GMT",
-   "vu_le": "2026-11-21T13:00:36.199254+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China's Fund Managers File for First Batch of Four Index ETFs, Adding Tools for Semiconductor and Computing-Power Themes - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LUjRvcGV0LUtxckZrM3Y5Tkx0LTJsQTFXQnFZc0lidzNNaGtrODg5U0p1RkZ2bWNOOWQ2d3VhbWFNQXJSaU54Yk9WUFlpXzllX3EtVnNSNDNJa2NxLXM5V2UzQTM5d2Q3SVgxbzFkd3g2N0NXWVE?oc=5",
-   "date": "Fri, 20 Nov 2026 13:05:00 GMT",
-   "vu_le": "2026-11-21T13:00:36.199254+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Building a distinctive fashion identity for the global clothing market - www.indiagazette.com",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdVE5aHcwcVFBNE1FTXhTR05ENUY5bFUzVzd4VEx6QzA3UFNzemNWWW1udklEcnVuRDJBSlNZMktaZmg2MVFlZXZ5U2NuVVlvMEMxTGNiVFgta0RDNFdvaVpvNm52TWhGdnpESkNSaVRjMEFJMTY3RS1TWTBhLWl0UVJHNHNGNWNQRWZkUXRUd21wVmc1VFAwRHh1TDNUYzZ4RmgxUWNsV05ES202eUt5VDZPWnY?oc=5",
-   "date": "Sat, 21 Nov 2026 08:12:00 GMT",
-   "vu_le": "2026-11-21T13:00:36.199254+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - NPR",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3FPem5vX0lZRzBlVnN0UGR3UkFUSmZXek1yY3ZmOVlIX0lOVy1kR0dWcVZoenFHSGdRS1R6MHRtenpxX2ZOVnE3UkNmOWdteXpQZUhFTHFMSTZFcG16d0hPMm9SaVlMTDdLVVpHMDljMmg3S0ZyM1hmTXotZ2w3cGhMaGNjOWFILWV4UjQ2dGxreVRGUEVrQXdSWFFMWThHLUtwVEFrWHJVLVQyQmlWdFoyX2pRRElfRm1NTnNqTnlENmQtSXNvdjZFVQ?oc=5",
-   "date": "Sat, 21 Nov 2026 12:30:16 GMT",
-   "vu_le": "2026-11-21T12:50:35.391071+00:00"
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "actu Chine et Asie: HTTP Error 429: Too Many Requests"
+ ]
 }
