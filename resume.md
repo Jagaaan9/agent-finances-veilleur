@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54227.87 EUR, jour -1.2 %, mois -25.17 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54095.15 EUR, jour -1.44 %, mois -25.35 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,11 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Bourse de Paris et Europe] FORVIA Cours Action FRVIA, Cotation Bourse Euronext Paris - Boursorama
+- [Chine et Asie] China AI Rout Wipes Out $1.7T Amid Chip Curbs - Briefs Finance
+- [Intelligence artificielle] Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off? - The Motley Fool
+- [Résultats d'entreprises] Earnings Upgrades Could Change The Case For Fastly (FSLY) Stock - Yahoo Finance
+- [Pays émergents] Top 10 Large-Cap Stocks To Invest In India November 2026 - Samco
 - [Marchés mondiaux] Tech sell-off sends Wall Street into correction. Goldman sees further pain ahead - Business Post
 - [Résultats d'entreprises] Nvidia Rival Cerebras Jumps Over 19% in Overnight Trading as Microsoft Reportedly Becomes New Customer, Raises Full-Year Revenue Guidance Cap to $960 Million - TradingKey
 - [Résultats d'entreprises] AMD Beat Revenue at $11.5B and Data Center +107% — But the Stock Just Broke $476 Support - TradingKey
@@ -453,8 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Bourse de Paris et Europe] CAC 40 : −5,27 % cette semaine, que faire lundi ? - https://www.leconseilpatrimoine.fr/
 - [Banques centrales et taux] [XAUUSD] D1 : Une zone de demande à 3 400 avant 3 253 ? pour OANDA:XAUUSD par BMR_MasteTrade - TradingView
 - [Banques centrales et taux] Prévisions EUR/USD : la paire se renforce au-dessus de 1,0950, mais reste sous la résistance de la moyenne mobile simple à 100 jours - www.tmgm.com
-- [Banques centrales et taux] La France propose Laurence Boone au directoire de la BCE dans le cadre d'un remaniement clé - IndexBox
-- [Chine et Asie] China Isn’t Collapsing. It’s Decaying | Logan Wright | Ideas Lab [Ep.55]｜Top Traders Unplugged - finance.biggo.com
-- [Chine et Asie] Hong Kong film rides new wave by breaking from typical genres - China Daily
-- [Chine et Asie] Editorial | Hong Kong’s dim sum bond index will sustain global yuan momentum - South China Morning Post
-- [Pays émergents] Ethereum, Silver & Taiwan Wiped 5–10%; India & Bonds Find Refuge as Nine New 52-Week Lows Hit on the Same Session 
+- [Banques centrales et taux] La France propose Laurence Boone au directoire de la BCE dans le cadre d'un reman

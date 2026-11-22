@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T03:00:38.616480+00:00",
+ "mis_a_jour": "2026-11-22T03:10:40.939398+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54227.87,
+   "prix": 54095.15,
    "devise": "EUR",
-   "jour_pct": -1.2,
-   "mois_pct": -25.17,
-   "volume": 10.11582322,
+   "jour_pct": -1.44,
+   "mois_pct": -25.35,
+   "volume": 10.5179047,
    "volume_relatif": 0.04,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "FORVIA Cours Action FRVIA, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6clZHLUlSclJYak9MUW5vVUNROVg4WmN1Z3BOaTJMY0ZXX2xsUWRKMVhwUjJ5d1FPWGtCNVNCaWVsQXlKRFJiaTBUUzhwd2RBZlkwYg?oc=5",
+   "date": "Sun, 22 Nov 2026 02:24:16 GMT",
+   "vu_le": "2026-11-22T03:10:40.939398+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China AI Rout Wipes Out $1.7T Amid Chip Curbs - Briefs Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUW5QSUxSRVZuemV5aGJpU1dlNzBwNlpxWERxOExyMmVVMDBtVGhOVHFjekE1TzBQVmpPRnlta255NXRRMXkyYWJ2VjMyZHgxWUNWVlF3YXhEMDVhTEM3ZzBfUEpHWDREdkVmZW1jSzE3b1JKTHpWbUlERDJVWHd4ckhfVjA4Z3NtVDZHalJCcUIxUQ?oc=5",
+   "date": "Sat, 21 Nov 2026 22:00:00 GMT",
+   "vu_le": "2026-11-22T03:10:40.939398+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off? - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkFiOUhWZENjaXdGNXRnc1hvR21YS0VvNzVwN3dSd1hZNndVV25PcDIzd0ZiaDU3cENkc09QTFJacGdmamtrbGdqdURNRTFmQlpMb1ZoT3lCbnpuNjN2VS0weXAwcnVyWEQzeGxFdlhRLW81VXdSLTlXbEExN2RSUkhlejNzSTJwZDVLNlRkMklJOG5HNFFMYk01d1d1NTVDQXpkYVYySTZaZGF3cGhRUGgxM3c4a0NNRXdpTw?oc=5",
+   "date": "Sun, 22 Nov 2026 03:00:00 GMT",
+   "vu_le": "2026-11-22T03:10:40.939398+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Earnings Upgrades Could Change The Case For Fastly (FSLY) Stock - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWRwYWFlWUZFY2hpVDB3UnFHM2xxOFREZkNEUmMyZEs0d3p0eEVDa2NMNGw5UHIzeGdCWFJxOWo0RTcyYVZxS3NodWdOeEUtUnVfbjNDaXpsMExKM0Vhajlrb3JnbXRQNk8yX280dkVPU0hnY3dCbkUwU2pLMkdpRW05a0gzX3MxcVhpT18wNGFBR0ZMVHZiOFc5U3dpSE1ybXc?oc=5",
+   "date": "Sun, 22 Nov 2026 01:11:00 GMT",
+   "vu_le": "2026-11-22T03:10:40.939398+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Top 10 Large-Cap Stocks To Invest In India November 2026 - Samco",
+   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORXh6NFFST0ZQUmk4eEo2aHNQejFyaV9abmNubFBHd2VlaUtiZEFwVWZhenFYTXZBUlhaQU8zRlJoa0ZyMVgxb3pOd29hOFRNbGM5YjBjb0g0dXNkUE9VT3hmNzNYZ3pkQy1Cc1NZdUkzdVVCSEVJc1F4cXRWMzFWMHFKaUpVQ0F1RVRhdEVuVHE1d2duWGlOVkx2UzNMWmVLQUtMV3otSkdwcFdIbTRXb2Z1UWVONldyMVJ4NGd3?oc=5",
+   "date": "Sat, 21 Nov 2026 06:51:22 GMT",
+   "vu_le": "2026-11-22T03:10:40.939398+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Tech sell-off sends Wall Street into correction. Goldman sees further pain ahead - Business Post",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPendFbDdsNDBiZUZEU0k3MTQ2M1VMVndHbFc4Z05qWEpoSmdyWC0yLUpocnhOTlczbXp6Z3VsRG83MmJud050dGFtdnkyN0FEY0V2ZFkyRmowQ0JoWVI2UjhNaWZtTmxfWVplWVRjcHUzQkdXLVBHM3AxdFdFQjFXY3dCU3BQSEJ6RHlNY0xzN0luZU05SUhxeGU5enIyMWk2cnhfZlZCdkxnMU5yRXc?oc=5",
    "date": "Sat, 21 Nov 2026 13:17:44 GMT",
    "vu_le": "2026-11-21T15:00:35.312541+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion' - Business Insider",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1ZRM1BXMkItVU9WdFVsc0dJOFVrRjlIbVVPOGxRendaRXc5QUlFQ3FYU0tQSXZRY1N5cjNRWXFJcmluLW9tLW5IaElvX0hJUHNiYWJKWVpha3FqSzBqRElZY2hBTnhsZzhoSEJKbzZMZ25vYU9Wc1J4QXpxZ0MyTVJob19lZFVnYjMyUmF5cVRaQTRBOHBz?oc=5",
-   "date": "Sat, 21 Nov 2026 12:00:00 GMT",
-   "vu_le": "2026-11-21T14:50:35.598463+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Global Stock Markets Plunge as AI Sell-Off Spreads - www.stl.news",
-   "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XMzlhZG9YdG1QS21EcHRpUHpseU9EYzJhYWtCQ1h0aFJXRWpZLVl6S0Q5MWFQRV9vX0tBbEVGeW1pZmJoUWJQN3NtNlBQVnNJNDFOMEJ2VTM3R1F2eFZWSFlsSjRKNUVxOWFsSW8yVEFRRHlTZ1JqcHZVVmg?oc=5",
-   "date": "Sat, 21 Nov 2026 14:42:46 GMT",
-   "vu_le": "2026-11-21T14:50:35.598463+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "U.S. Stock Market Weekly Update Ending Nov. 20, 2026 - www.stl.news",
-   "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YVjRCRzlMZG9BQk92bEpDaGRGR2FnZHJjUkduZnhrMXBlRjUzc2lsOU9qd1ZhSWJwV1JvVXdtRjlJTHAyazJXT0Q0d3JQN2RJN2M4em5jb1ZGdlFNN0h1TlRSQVNhWEdUbjIxMmdHYTkzQ01oZzNJQWQ5SQ?oc=5",
-   "date": "Sat, 21 Nov 2026 14:06:04 GMT",
-   "vu_le": "2026-11-21T14:50:35.598463+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "PERNOD RICARD Cours Action RI, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ta1FZdnY5UVUzYUVtX2hTeFJrVEtVcjlFVTl4MVVwQjA0REFoWk9GdjQwQi1vOXRBVTVLSDZXOW12d1RXR0Z3WXNEV0c0WUxO?oc=5",
-   "date": "Sat, 21 Nov 2026 09:57:03 GMT",
-   "vu_le": "2026-11-21T14:50:35.598463+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "German Investor Makes Last-Minute Bid to Save Poundland - The Daily Dazzling Dawn",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGEwODdCVElidUtreDFOQkhWbndtRnRlLXdGWjNCb081clpmUXBPZE9hbjFrWXBMUUhfZ1lMNlhBazVJTEFPMXFUZ3Q0WGh0eDVpODdPWWpJZGwwY0lvcUdQd2tGcDNScFN2QjdLMldGdGVDY3g5aEFJZ2ZFeXRKbThMcFAxSzJGVEdBNU93RGswaVFKaEE?oc=5",
-   "date": "Sat, 21 Nov 2026 11:33:20 GMT",
-   "vu_le": "2026-11-21T14:50:35.598463+00:00"
   }
  ],
  "erreurs": []
