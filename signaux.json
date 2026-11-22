@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T17:50:35.186841+00:00",
+ "mis_a_jour": "2026-11-22T18:00:36.345317+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55459.24,
+   "prix": 55443.7,
    "devise": "EUR",
-   "jour_pct": 1.04,
-   "mois_pct": -23.47,
-   "volume": 134.20234336,
+   "jour_pct": 1.01,
+   "mois_pct": -23.49,
+   "volume": 135.07193039,
    "volume_relatif": 0.56,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPLWdNUEo2am9DeHR2YmxrTGwwTW1jSXpLaXZIMXJrYnlaLXlUeC0xS2RDaHFzelpQbUUwa2R1T0VBU1FST3lFVlFkdmZMLXprUDhDTUZSYWV1QUJFZ2o2SlJfUXRxTXFIT3ZMTXhfQXh5T2lSa2xHMldmdDZYWWpEangybFRpYkRIRWhxRkR1Z3ZuZUc1X1UwdGo1akVwTFlReWFiQURmUkJxdnpnUlJhWE9NaHJZRlI3SmFhU0RkRDd0SXM5ZWgwbU1oM2FrV1BGOWRkWVJlZmloR2R1Ym9oem1CaGptMkJLdmhyRTIxTXFQRVpUZ0w4SDQ4YkRyV0R4UjF3Nm5la3A0ZVo0MFBadUk4SVJQQ1cxWUNVTHZzNERuRjk4aFFBaWNNenZpaXJuSDZKTGg3T0J6RTdBVGdRTjdtdlVxXzB3UktWQnlrUFRac3NZeDNUdi1n?oc=5",
+   "date": "Sun, 22 Nov 2026 09:36:00 GMT",
+   "vu_le": "2026-11-22T18:00:36.345317+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Short-term Bitcoin holders capitulate as over 113K BTC hits exchanges - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc3Z5TklfVDdpdUZlNUd2aktieEhIT3h3dWU3aGpZSGJFTlFiVF9PQzNjNlRINVBjcVZRYURGQ0Z6XzItcG96V2ExLVJtRmUwQll0V0VpMGxUS01MODM3ZFZEQm9SQ0VFMWZSZDVVN01EaDhrQ1g5NFNIa1VpVGJzRQ?oc=5",
+   "date": "Sun, 22 Nov 2026 13:04:54 GMT",
+   "vu_le": "2026-11-22T18:00:36.345317+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "La PDG d’ARK Invest, Cathie Wood, achète pour 146 millions de dollars d’Anthropic pendant que le titre recule - Martin Cid Magazine",
@@ -6537,20 +6551,6 @@
    "titre": "Les experts prévoient une surprise sur le prix de l'or après une chute proche de 3 500 USD/once - Laodong.vn",
    "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczN2Y0pGd3huOE9XTF9lWTJTMkhUeU8zR1BWTV81aGlRWUVGaTBTU19DZllLXzVudk14NlkxWVZ6MXFEMk1iNHctd0F3UkVMblFYbnUtQ19mRFlCaXR5aW1yLTJrWGVZZDFCeU5aUmV6d25qWmQxR3AyckU2NnRBU1Q4YUYxWTNoYW85d05aQ1VudmEyYXhlVU1uczRMa3RKWEJ6VVhNS0hKc19pTHV3bQ?oc=5",
    "date": "Sat, 21 Nov 2026 12:28:58 GMT",
-   "vu_le": "2026-11-22T05:40:36.348724+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Anthropic IPO Buzz Builds as Crypto Bettors Raise the Stakes on ANT Valuation - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVWlTaHN2enY3UjZ6cUs4VVFkTE9id0FSbTB0UGJHdUl4MUFEQWF2cEQ1d3RZSHk1MGN5bjJVajlpLXM2cktiTXg3S3JDVDh5RFlZTklNbW5ZUXZjdlg0eE5yRGJDOVZ1RVc4N2sxcXIteDg5T2lSdElUNlZSbWd1cl9xREJud0RJRW5pU0dUM1JnRG1vdXJsYXJxR1Q?oc=5",
-   "date": "Sun, 22 Nov 2026 04:30:00 GMT",
-   "vu_le": "2026-11-22T05:40:36.348724+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Russia Opens Bitcoin Trading as Moscow Exchange Eyes Dec. 1 - Cryptonews.net",
-   "lien": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0ZUpDcWNXRFptUFFRS2R5ZW9CTzd2Y0o0YUFNYU1hUlJrejc2cmdoNVNoNy1jT2JJWGc5TGx4LVFRNVhfbkQzWkx1UGwtUURrbm51TUZRYw?oc=5",
-   "date": "Sun, 22 Nov 2026 02:20:00 GMT",
    "vu_le": "2026-11-22T05:40:36.348724+00:00"
   }
  ],

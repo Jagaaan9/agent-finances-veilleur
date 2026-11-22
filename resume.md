@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55459.24 EUR, jour 1.04 %, mois -23.47 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55443.7 EUR, jour 1.01 %, mois -23.49 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,8 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Intelligence artificielle] Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail
+- [Crypto] Short-term Bitcoin holders capitulate as over 113K BTC hits exchanges - Crypto Briefing
 - [Anthropic (FR)] La PDG d’ARK Invest, Cathie Wood, achète pour 146 millions de dollars d’Anthropic pendant que le titre recule - Martin Cid Magazine
 - [Intelligence artificielle] Intel Chief confirms China got access to US advanced AI chips - CNN
 - [Anthropic (FR)] actualites AMAZO 144.TCIOPENS (7G38S) - Turbo | DE000SV6ATP7 - Cotation EURONEXT ACCESS PARIS - Bourse Direct
@@ -454,7 +456,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] Anthropic entre en Bourse à 83 dollars l'action - Brief IA
 - [Anthropic (FR)] Anthropic devrait générer 602 milliards de dollars de revenus par an pour rentabiliser ses engagements de calcul - Pasquale Pillitteri
 - [Intelligence artificielle] GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day - Yahoo Finance
-- [Intelligence artificielle] OpenAI’s Greg Brockman: AI Delivered “Roughly an Additional Year of Progress” on AMD’s Chip in Under 5 Months - Yahoo Finance
-- [Résultats d'entreprises] Spotify Stock After Q3: 306M Subscribers, Buy or Wait? - shattered.io
-- [Petites valeurs en croissance] We Think Cerro de Pasco Resources (CVE:CDPR) Can Afford To Drive Business Growth - Simply Wall St
-- [Petites valeurs en croissance] Eightco Holdings' 
+- [Intelligence artificielle] OpenAI’s Greg Brockman: AI Delivered “Roughly an Additional Year of Progress” on AMD’s Chip in Under 5
