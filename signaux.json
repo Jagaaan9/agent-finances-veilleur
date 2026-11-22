@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T23:00:36.414428+00:00",
+ "mis_a_jour": "2026-11-22T23:10:35.773819+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3556.428,
+   "prix": 3567.58,
    "devise": "USD",
-   "jour_pct": 0.51,
-   "mois_pct": -11.65,
+   "jour_pct": 0.83,
+   "mois_pct": -11.38,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09697,
+   "prix": 1.09742,
    "devise": "USD",
-   "jour_pct": 0.04,
-   "mois_pct": -2.18,
-   "volume": 1515,
+   "jour_pct": 0.08,
+   "mois_pct": -2.14,
+   "volume": 2276,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55627.09,
+   "prix": 55440.82,
    "devise": "EUR",
-   "jour_pct": 1.35,
-   "mois_pct": -23.24,
-   "volume": 170.75086977,
-   "volume_relatif": 0.71,
+   "jour_pct": 1.01,
+   "mois_pct": -23.49,
+   "volume": 174.40229589,
+   "volume_relatif": 0.72,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Datadog Q2 2026: Revenue Up 36% and Guidance Raised, but the Stock Fell 17% - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUg4UHhnRHN2eEFtaE5hOU80SDc3Z3drREYxWVhCV3lXdTE1dlk1cjlCbjh2SDF2Tm14bHVyemZxZVdsS3h4akxHNmJ1eS1PejltaFVEdE5wSkIxYlJKaGlBUURwRFl5SG5VOGpMSmxOOGFMei1ZbkN5SlRFZTI5djRIWVNQalc3dWdScmVjV0lpSXF2em04VGxUaTNSNmFoN01OSHZoRmFiU21vaG9ydHh5clY?oc=5",
+   "date": "Sun, 22 Nov 2026 09:58:54 GMT",
+   "vu_le": "2026-11-22T23:10:35.773819+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "Nasdaq 100 forecast: Markets turn jittery as Anthropic debuts at 34% above IPO - FOREX.com",
@@ -6544,13 +6551,6 @@
    "titre": "RVNL secures ₹348 crore wagon workshop expansion order from East Coast Railway; stock in focus - Upstox",
    "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXdsYTdqc1lDUE9ZR0NpR1pmRzE2SWhyZlpuUFg4Ymx0azk0Z2VfT0ctREZNcjlaM2VfZ3dkTE1BaWxieUVTT184VWhHbU1vWEFoRmJ3VEFfWEdoTXVSdUxuSU55MGxoVjlERUIyUHkxLTZCN2hLelZLZXR6NkVBeVZsV1dmUlI0SG15REFiQlFUVjhWVlRqa29xMDc4WUZDSGFJVGtPWFlrOTJKX1dGRG1MUjY3aGM0b3VWR1A5amdFMC15aWduYlhDcUZQUEtYeHBRMFhYeE9Ia19GWkhHRW1sUHlzUQ?oc=5",
    "date": "Sun, 22 Nov 2026 09:58:30 GMT",
-   "vu_le": "2026-11-22T10:10:35.138624+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 22, 2026 at 6am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdU4zQ3dpdkVaX1FPUFl2REdWckNNWTFBOHFtVHp2cDZLdVV0dFBDSURNMlFnQ1A3RkFVcFlZMlRRZkx6Um4wQkM1QlVmeFpkMldvOVE2Xy15Snl3RmJxYkpaazVoTkpfU2s0NDJWcFZnUFZLUUozamc0aFlxaHdOXzVPSEFLUVdvQ3Y5SFowcm15MVpaZ3NyVVZmdGdLZjZydUduXzVTclJuTVBCQmc?oc=5",
-   "date": "Sun, 22 Nov 2026 10:03:59 GMT",
    "vu_le": "2026-11-22T10:10:35.138624+00:00"
   }
  ],
