@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55329.09 EUR, jour 0.8 %, mois -23.65 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55296.38 EUR, jour 0.74 %, mois -23.69 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,12 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - AP News
+- [Anthropic] Anthropic IPO: OKX Distributes 20,000 €50 Vouchers On X-Perps - Cointribune
+- [Anthropic (FR)] IPO Anthropic : OKX distribue 20 000 vouchers de 50 € sur X-Perps - TradingView
+- [Intelligence artificielle] US intelligence says China accessed restricted American AI chips - Crypto Briefing
+- [Pays émergents] Pernod Ricard weighs India IPO as market closes in on US in global sales - The Economic Times
+- [Crypto] Top 3 Crypto Price Predictions for This Week: Dogecoin, Cardano, and Chainlink - Cryptonews.net
 - [Anthropic] Anthropic's IPO made its 7 founders' stakes worth about $141 billion. How that stacks up against Elon. - Business Insider
 - [Anthropic (FR)] Ces 10 mystères que l’introduction en Bourse historique d’Anthropic n’a pas résolus - Le Point
 - [Marchés mondiaux] The AI sell-off has investors on edge. 5 pros weigh in on whether to buy the dip — or skip. - Business Insider
@@ -452,9 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Trump’s Memecoin Gala Returns With Demand Down and Scrutiny Up - Bloomberg.com
 - [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - Times Union
 - [Petites valeurs en croissance] Create's (TSE:3024) Earnings Offer More Than Meets The Eye - Simply Wall St
-- [Pays émergents] "Global North has no future without Global South": Indian journalist Munish Gupta - www.malaysiasun.com
-- [Défense, énergie, matières premières] If I Were Building a Portfolio From Scratch With $10,000, I’d Anchor It With This Unassuming Value Stock - The Globe and Mail
-- [Crypto] BTC price on Nov 22, 2026 at 9am EST Crypto Prediction Market - Robinhood
-- [Anthropic] Blame game emerges after Anthropic's IPO market value plunge - WSJ - Seeking Alpha
-- [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - San Antonio Express-News
-- [Anthropic] Anthropic's record IPO r
+- [P

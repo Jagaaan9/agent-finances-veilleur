@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T18:20:41.112898+00:00",
+ "mis_a_jour": "2026-11-22T18:30:36.151586+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55329.09,
+   "prix": 55296.38,
    "devise": "EUR",
-   "jour_pct": 0.8,
-   "mois_pct": -23.65,
-   "volume": 137.65638435,
-   "volume_relatif": 0.57,
+   "jour_pct": 0.74,
+   "mois_pct": -23.69,
+   "volume": 140.25730753,
+   "volume_relatif": 0.58,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - AP News",
+   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTZBX2xZWWNQeGFIRExEbFNFSUJiV3I1cG80MzZzUUh2ZDZQTXM0dC1iNDdRVTZLZkFWelpTWnRvODY4clRUUmNaamdBQXdRSmM3U3NQdS1RbzU3dF92OVBfMTRRM3JIbF8tMlIzZ1JRUWFVV3Q0U2xtZHlCRU5YWkhIV3hQNURrVnZFU2d2NA?oc=5",
+   "date": "Sun, 22 Nov 2026 13:07:00 GMT",
+   "vu_le": "2026-11-22T18:30:36.151586+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic IPO: OKX Distributes 20,000 €50 Vouchers On X-Perps - Cointribune",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT0RmakJzTzg5ZkNZak5fSWlUNTN1dVUyMlBiZHhwUUpmT3Vubk94Wi1mc1lseEk0V3lvVGxocVphQjFZaUk4ajVIWXR2VWJETEhONW1vd0N2U0JnUTFhT1EzdVBXQWk0Q2dEX1VKY2k5TlFpV0ZnWF8wU3ZBS1FHbWdUbkR3N1Q0VzJIaWJLY096LTQ3NWc?oc=5",
+   "date": "Sun, 22 Nov 2026 18:05:00 GMT",
+   "vu_le": "2026-11-22T18:30:36.151586+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "IPO Anthropic : OKX distribue 20 000 vouchers de 50 € sur X-Perps - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0d1lNZGhQbW0yLVd5TnQyQU44bS02YjFfTjhFYUJjZU9xeVBXcFdqcmRSQlZnVjBUcDlMNmMyb25Tb3VxUFZkREJManUwZ2NPZFo0THlfVzBXLW5mS0VZanRScG85Qnl5cjk5Xw?oc=5",
+   "date": "Sun, 22 Nov 2026 18:00:00 GMT",
+   "vu_le": "2026-11-22T18:30:36.151586+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "US intelligence says China accessed restricted American AI chips - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xUHZUNTVfV2o3SWVIRjk0Ni1hb0FfZUVBVURwSndoRzUzYTZJOWxhaWVWWmNXdUdnOERCb19lVlJPWG5rZXh6allpcW15eEhuckxlcUVXbzZCSDFJSllBa05vbHhnMTczSFZZY1BVUlY3WFJ6clo4ZzBzV3pSY3c?oc=5",
+   "date": "Sun, 22 Nov 2026 17:51:59 GMT",
+   "vu_le": "2026-11-22T18:30:36.151586+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Pernod Ricard weighs India IPO as market closes in on US in global sales - The Economic Times",
+   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ2Q3cWF6MmpNZTlhcXM0WDVPaF9MWUx2WlNsUUdsWFNnLUhfQ3BnNGtJOEZLTW9RcnJKNlpDMzJLeTA1YzdfRHVRVk1WOVBIb3kxMEkxV01xU3hUVkNFTUl6Z1hLQkQ1LVpqbjFKU2N2U1pIMTRqeExFRWtrQ2U1QU5CRnNyR1FGaXNMQ2Y0RnVBZS1DTVFGX01rRk1HU25reFdRNjNZQkVTZDl2OWFoMENnTjFPdTJDYldSZkdVOUpPN2JCVW1reU96UW5SUTFuYTNEUXB5akZMSWJ2QU9fUHRnbFdaQ1gwOE9vWNIB8gFBVV95cUxPT19KaEdrY1BvT1RUTUN2SHU0R2daSE9KcmFjUDh0SEJteGpfUTMwVVpzc1NScmNLYUlnbTdyay1xUHd4aG4tSzlUUE02U0d6Y1Y4N3ZxdGV2VlRwRnJEakVydG52aUFmZDFVanhvNnhrbVhNSjFhbmg3SEhtMDJZdjJjUkVLTkRuaDNXNFc3bHI0SXBXUGF3T0VvQmc0VndSbllXbUJMR0tQYXo5cGdLN3hiZVNtWWEtbG9MS04tTjQ1cmI4bVB1NXRIZUYzT2w3YXowOXozVktQLUpKT1hfbW1pcHcxZjVndzA4Y0pDa3lPQQ?oc=5",
+   "date": "Sun, 22 Nov 2026 18:21:39 GMT",
+   "vu_le": "2026-11-22T18:30:36.151586+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Top 3 Crypto Price Predictions for This Week: Dogecoin, Cardano, and Chainlink - Cryptonews.net",
+   "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GQ05kYk1fVktFVEVTSzJmU0JZcjc5UVZDQTRoYjhXbUktOGRmMXV4UUR6RUlsNHFCbU5QLXAxZGlSVUFlaUgtZnk2ZkZOb1dzcDN4bE13TDNsbnM?oc=5",
+   "date": "Sun, 22 Nov 2026 18:24:19 GMT",
+   "vu_le": "2026-11-22T18:30:36.151586+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic's IPO made its 7 founders' stakes worth about $141 billion. How that stacks up against Elon. - Business Insider",
@@ -6510,64 +6552,7 @@
    "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYXVPSmc2dEY3bjVValBMZWw5MUhhem00cmVpZ1hjNUZ2dzFlS2tpaVVvajBMcjY4VllHdm9Kb1p2eFNoZlN2WHQwOFNXRE5kYU1jUlhJUHNwLUxjdV9uTXdqeFI1dF9LY3MwVGVjUGFYTzZyTkhYU2hyT1lNX0JRRXU1d1JVbExzRWRtcjhUcG9TVDFmTkhMcVBfQ3l2ZVJoNFBuUUU4d1lEbEstc3lNQmpoN29uZE1kRVN2V2Vjd0ZOeWljTkU1dA?oc=5",
    "date": "Sun, 22 Nov 2026 06:07:03 GMT",
    "vu_le": "2026-11-22T06:10:35.253495+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Nifty at nine-month high, 26,000 in sight: 5 triggers that could fuel or derail next week's rally - The Economic Times",
-   "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPY2REdUZvVjhpeUhFMGlRR1ltSXliSW1ITFVTVVEtNGI5NVM3TU8wUU9fTnJ5dXRmdEVxcWFMRzRBRFZBX1I0QXRRRVdESlJSbXRGYTdjN1c5cWFxbFd5eF93cVFGdGg5QURFZFh0SFROUXEtc1QweHBqblV6UElPVHhXODNsQXpJdzNFcjFYckR2SFZkVk5VZEsxYl85VDN1VmtqR3Zia3NCSjNPczV0XzJ2ZDhoR3V1ejNlLUhRYUVuUnBUeC1GNGpRWGtRSWRWaGxpZ3lWb1QyVlZ1eHZRQUI3ak4tclZoaXRyUDA5eXpDdkhQc2NrQzdXQdIBgAJBVV95cUxNNURhSHVPallUbjFwaGtkTHo0dzJIVlBBOVdmem1KUC1uLVVFcUpydTYyRUg4SjloZHBpcXVvUXFubHVIRlVuNU9TTkUwVXpkRFdKYWt2aWpaSl9Rc3N1cUg0ZXpyZGFwbHJQUHR5NTJkRlpscldZTUFQREZjbkRQbWMtZmZhYkFXWGF1OFU1N1ZRYnRJa0lmdlJoRElLcEp2MHBFbU5qeDNzVC1MTmFPYU1ZendJNDduQmNmcFJuZmFRdG0wbWY0U2JVd1lLOWt6YnlkeFFodjc4Wi1GSGJlRUs3TXNtM3VYUE1LOWVSQnNyUHV6MGFOZTVRcVpmM3Vs?oc=5",
-   "date": "Sun, 22 Nov 2026 04:39:09 GMT",
-   "vu_le": "2026-11-22T06:10:35.253495+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 22, 2026 at 2am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZXkweEtLRTIzaUlwODhCWkdhbDNqUXk0MW1CZGZJYWxCbWw0R3J2T1c5NDhoS3ZFTlc0R2NqSWRFajliSzBiV3g4UW5lZDRraUdGbXZGRC10OTFISzFoaW91eDVjc3FJM3QtSGN0TzV6VkZ1QlZTWGFCdnNfS3ItQnU3eEN1Z0ZMQU9CRXRDd001OXBPdW9XNDdva2piYWJ6bGhzYThDMUdFV3NLNGc?oc=5",
-   "date": "Sun, 22 Nov 2026 06:09:12 GMT",
-   "vu_le": "2026-11-22T06:10:35.253495+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Midnight price today, NIGHT to USD live price, marketcap and chart - CoinMarketCap",
-   "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYZ2VEWkwwcTBDQjRFQ1ptVWZfZmJSa3ozbG9QVUNza3BTUjRCVzZuRFFfa0J1TFctZngtRnY0OVB0d1hfcnpVV2lsZmxRMnJPeWp0MW1yWHR5ZUJ3aVlEQWtPRnY?oc=5",
-   "date": "Sun, 22 Nov 2026 00:59:04 GMT",
-   "vu_le": "2026-11-22T06:10:35.253495+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "L’investisseur futé: devriez-vous acheter des actions d'Anthropic ou non? - Le Journal de Montréal",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXQtcTUxak5sdndKWXlCek1wYlVjUkVSNmJHRkxhZW1fU1NKVGNuX0NKZTFib212WGtpRzBIOTlTRDZUbmlJdDZ5d0RmLXN3Rk9NYWVlZGdVdVg2Q0JxTEdCV3JJZWZxeTdNN28xWGtfb25FZlJHc3JDeVU4RUpkRW5IRHRkb1dYMkZhcE9wcUQ4VEdO?oc=5",
-   "date": "Sun, 22 Nov 2026 05:00:00 GMT",
-   "vu_le": "2026-11-22T06:00:36.898940+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Les cours mondiaux de l'or ont fortement chuté, enregistrant leur plus forte baisse en huit mois. Remonteront-ils la semaine prochaine ? - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNTNyeGh3QUgwT28yUmp6Yng5dllvNmlyNVRiMnR2YmJHVm5ZZ2lvNlhhMjEyazFEVUVBcTFkaTdGa3lObDJjUnhBaXNuQkV2b3gtSjFOVmd2dlZoWVc5c3hySmh4YVFyWmZJTVJOeWZLczZLTG53VldKTXpERTNPZFhPZEFXSGxLU19QOHhNckZEaXMyU1A0c3FB?oc=5",
-   "date": "Sun, 22 Nov 2026 04:53:30 GMT",
-   "vu_le": "2026-11-22T06:00:36.898940+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "L’investisseur futé: devriez-vous acheter des actions d'Anthropic ou non? - Journal de Québec",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSVlfMkptU09yWUFkbEo3TDBZczB4VWdMS2NSSGU5UlExWW5CbnBVT1FCS1VraFlBdUJURzVRWlFvUTE3YW80THZ3SUI2cmx6UHYtYVhTZlVvWURpbWpjWlRyaVluUTgtYkF4eWV2QjlvOE56TDZzUzB5SEZva3NRSUNrWjlYTzhYV29laDZjdVlNQQ?oc=5",
-   "date": "Sun, 22 Nov 2026 05:00:00 GMT",
-   "vu_le": "2026-11-22T05:50:34.830775+00:00"
   }
  ],
- "erreurs": [
-  "actu Anthropic: HTTP Error 503: Service Unavailable",
-  "actu Anthropic (FR): HTTP Error 503: Service Unavailable",
-  "actu Marchés mondiaux: HTTP Error 503: Service Unavailable",
-  "actu Bourse de Paris et Europe: HTTP Error 503: Service Unavailable",
-  "actu Banques centrales et taux: HTTP Error 503: Service Unavailable",
-  "actu Chine et Asie: HTTP Error 503: Service Unavailable",
-  "actu Intelligence artificielle: HTTP Error 503: Service Unavailable",
-  "actu Introductions en bourse: HTTP Error 503: Service Unavailable",
-  "actu Rachats et fusions: HTTP Error 503: Service Unavailable",
-  "actu Résultats d'entreprises: HTTP Error 503: Service Unavailable",
-  "actu Petites valeurs en croissance: HTTP Error 503: Service Unavailable",
-  "actu Pays émergents: HTTP Error 503: Service Unavailable",
-  "actu Défense, énergie, matières premières: HTTP Error 503: Service Unavailable",
-  "actu Crypto: HTTP Error 503: Service Unavailable"
- ]
+ "erreurs": []
 }
