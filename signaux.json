@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T14:50:35.816949+00:00",
+ "mis_a_jour": "2026-11-22T15:00:36.365848+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55558.27,
+   "prix": 55567.66,
    "devise": "EUR",
-   "jour_pct": 1.22,
-   "mois_pct": -23.33,
-   "volume": 99.35946025,
+   "jour_pct": 1.24,
+   "mois_pct": -23.32,
+   "volume": 99.76276525,
    "volume_relatif": 0.41,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "A 10% drop for the stock market is unnerving, but it's not that unusual - Spectrum News",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzVfVEcyU2RHcGYwbWJpdGYyR0hSWjd1WWpFUEUwenJCeTBTcWN6ZGo0VXp1M3lCRkUyX0phN2YzaWdOMUFha1dyOHlNSHVUaHQ1UXFIdE81MjNnMWI2MU0tUTJXaEM0eWxpQ3J4WHp5RU1YMnZqalVwZGExLTlFRzJlNnlyUC1FMTkyX1BwVDZsUQ?oc=5",
+   "date": "Sat, 21 Nov 2026 22:22:00 GMT",
+   "vu_le": "2026-11-22T15:00:36.365848+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street's Biggest Bull Says Investors Are Overreacting - BeInCrypto",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84a3pDbGt1MWpuQ0NHeURtbnozUEZCaDN2QzB4cUMxbG5rTmUtTktxNDZRNWNIWDI3WTlpOFJIeDZQdmRFLVNIR0tlcXI2Ql9CVk9vMDNzaEpzS3NEUmxmS25UcHVmSWpWWGs5a2RseVBJTElyd3c?oc=5",
+   "date": "Sun, 22 Nov 2026 12:25:31 GMT",
+   "vu_le": "2026-11-22T15:00:36.365848+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "China Switched to Making Its Own Chips “At All Costs.” That Shrinks Nvidia’s China Upside - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlZhalVla09CeHNkd1Zsd01DWWV0dUNCQVdiTjN2d083dDY1dDdKMjRyWldjMzlyaERVeEdsU0hWVldmaXcxRWotTS10cmZha2owTW1RNTVrZkp1WmJMOE1GZEpkV3VoREFWZkstUUhLYVNSRXZFcEpkVDJjU2xIdFMwVm1Fai1XUEVrclpIZ1ZzLW1LTlNB?oc=5",
+   "date": "Sun, 22 Nov 2026 14:21:26 GMT",
+   "vu_le": "2026-11-22T15:00:36.365848+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Intuit Inc. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR1EzNGJOVU5RZm5qNEdzdXFvOTFmLV9hR0FmTU0zelgxbFh5ZDFUMkNreEtKVmplSEZmRndzYXpOaUZrVEFBQXdCUkRRNGVQZEx5WFNPY0E3T1N6RmhzYm91NFpZejFwRVpRZmhXOFlVV2VYTm5zN0RmWTg3dkplTXpDUXg4ZkVWUW42MjV6Z1IxLUsyYWFZV3hUZDNyN2h0ZUlEeW5zNXVVQVUxWElHZzZBZUZPN1JydUYzeTV3R0NrWm_SAcgBQVVfeXFMT2xHMXBEMjZnclRBNUg1T1poV0hoN3FBcERpWHZZUzAtMnlBR0d2MncwUzk0MDZvY2t4YnhUU3d6YjgwbzRzY3ptWkFvS3A1Y01mN09fdnZkYkZ3Qk53X2dtVHFabjRhWHhjVDFQZ2R3c0lselA5cXh2T0duSFlfMVAyal9JQ3JCZWw3Z2VGV05vZ3dKSW5kZTRsUkUwZndDM2pOdkdFX0ZuS3Y2YXdWUVhZMm1OZnFPZ25UYzVkbE4zZXNFOWlXc1U?oc=5",
+   "date": "Sun, 22 Nov 2026 14:16:31 GMT",
+   "vu_le": "2026-11-22T15:00:36.365848+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "\"We are very excited about championship\": Jhandu Kumar, Ashok eye medals at World Para Powerlifting Championships 2026 - www.malaysiasun.com",
+   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQWJpcS1pVHkydXk4U2xBYXEtSkpHWExSS0poaTRfeWQ4T0FRakFiSUdSSEJNVWlBaWVlSFd2aUdPbUVYSnhnaUxZeUJjMnRET0hyNWJqblE1NmxfMXQwM2x4LTlsLVk5Q1JSc3BFaU1PaFRNWXI2YkZWbXVBVUdyeW9DWVhMOHc4aUI3clFrZlhWT0p5U3JyUHlmQ2c0ZWVMb1dxMTFCY3JBcmxYTVJyUUg5Nk51VG52UmlSUGh5aXVvUklTUzdpVU9OSnpiNDE3VlVNaXFwMW5PU1lLZzVmRFNkZnZLVW9fR0pCSA?oc=5",
+   "date": "Sun, 22 Nov 2026 09:03:00 GMT",
+   "vu_le": "2026-11-22T15:00:36.365848+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "ETH price on Nov 22, 2026 at 10am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSktGWGpvSXVFUXlYWUxqRTF0TW9pdHJLbW04SG9UUkVWVFlMS3VhUHhRY2xDeU1OUTkyTVVmbnotNUt4LWViLXh1WVdUM2hpNDBrM0JHcmJLWmNoQ2IxN2JkSm1NZ3dXd2l1eVFOOVJrd3hRR3ctRFJTZDE2LWRKNzZlVGg4enlvaEhNTjNIQ25VeEtxQ3A5aDk2X085dFg4Y3lIZldzLXdNbkI2ZThj?oc=5",
+   "date": "Sun, 22 Nov 2026 14:13:11 GMT",
+   "vu_le": "2026-11-22T15:00:36.365848+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "John Kennedy: If Howard Lutnick is giving AI chips away to China, ‘he needs to stop’ - NBC News",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEc0NHFyRUw5Nm1YTlVJMzc4WlZGSTRpODBpcWo1RmFubkpEeXRiQ0NlTjhTZWJ0ajJXZkg4MHdTd1JIVU9odVMxWFAxbS1jcGs2TUxXbm0wdTVuWnQxVXBycldsQkhMVWFqRzFacEtSV1FRLUJ4aVRIZHRXSklETUQzYm0yMzJIc3dKRG9FbDlNZTlPWkFhckxCaFdxSHhl?oc=5",
    "date": "Sun, 22 Nov 2026 02:55:37 GMT",
    "vu_le": "2026-11-22T03:00:38.616480+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "China’s AI stocks lose $1.7 trillion as tech selloff deepens - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb1JmaXVoTmtsN3lFbWdOSldpYU1saDFtd2pGLW1XNVdqNDRXVUdXOXVpNEJNeFowbHcxeXBLYnZzMTk0enhNNW1ySFc3SGl1TlJEMjZxWFREU3R5X3RzRjBuYlJSdXQwRXRSOGRnOG9XaWd5Zk9DQ0RtN2hBdlhJbHZKNTJJa09BTHRTZkRYOA?oc=5",
-   "date": "Sun, 22 Nov 2026 01:39:00 GMT",
-   "vu_le": "2026-11-22T02:50:34.709900+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Reverse Takeover Indonesia 2026: Step-by-Step Guide - Global Advisory Experts",
-   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUUkwSTI5aE1ZQV9UcmxUTFJoTnNBbENjZEdLMGlmaGUxcmJxZ1dqSUtQeml3dUg0bXNwRlRaaXlVZEJIVXJyLXNLd25uUF9OZ1NFNXFzZnNMZnZsRWpzNi04c2JrR0hYLUhkNzI5YlAtRjNISHpVaEhpb01UcTRlRXFpMnQ3UmZaQnZWS0tNSWxiXzg?oc=5",
-   "date": "Sat, 21 Nov 2026 13:42:27 GMT",
-   "vu_le": "2026-11-22T02:50:34.709900+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "5 Undervalued PSU Bank Stocks with Improving Financials - Equitymaster",
-   "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TMTd3cWd5bnlnOXBJVmxBbzRxYmQ0ZTNtVWdQOVdvREwtSFVRbVdIUXFscThnWXk2TlhyM1Y3U3dxazdoRVpOcW9BYVIxRUhYaFJIem1zZ2VkY0piX0lMWk9LbFBvLVlwUHNCYk51NA?oc=5",
-   "date": "Sat, 21 Nov 2026 06:38:37 GMT",
-   "vu_le": "2026-11-22T02:50:34.709900+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Li: China ready to accelerate FTA upgrade talks with Singapore - chinadailyhk",
-   "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VZW4yUmZnVnd4VkluV21haEkzbUNDQm9tSWEwazU2amJpaFB1aUN4MjVFYnN4QTlEdVFkaWkteGF1WW1sclB3UkU5LXB2X29PRmZMM2hB?oc=5",
-   "date": "Sat, 21 Nov 2026 10:00:00 GMT",
-   "vu_le": "2026-11-22T02:40:36.045224+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Amazon Reportedly Near $7.5 Billion Deal to Acquire Decart, Taking Aim at Nvidia With AI Chip Efficiency Push - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSUczV0Q5bWpYN2tEOVdJS2t2X0tPNlZxcW1DNnM4dVFUU21kTk1MNEE2UGR5WXBPYVd0QjBRSmNyUXp4TkV1b1R5eURwT0NGbzVDdUxOdGE2ay1PcW41SjFQSm12el83OS1pUWM1QnNCSWVhbGc?oc=5",
-   "date": "Sun, 22 Nov 2026 02:25:00 GMT",
-   "vu_le": "2026-11-22T02:40:36.045224+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "US Panama Trade Promotion Agreement: 2026 Guide - Global Advisory Experts",
-   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWZvVzJJa21EWkRJQ3NFaUdyMVFtRmZyMl9NU0dyZVFCR2lScFBBa2dDeUJ5azJaMVBhOUtjUVJ6RS1KWGxBbjhVMVQ1RUlra3BQSDFYMEx6VnBNSXJaQWlZd3djZ3EydGMxZXlNdEhZaVVwNVphODk2c045OWVfVGZhUktUMTcyWWNreHV3?oc=5",
-   "date": "Sun, 22 Nov 2026 00:37:32 GMT",
-   "vu_le": "2026-11-22T02:40:36.045224+00:00"
   }
  ],
  "erreurs": []

@@ -1,4 +1,4 @@
-PASSAGE DE L'APRÈS-MIDI (avant l'ouverture de Wall Street à 15h30). Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
+PASSAGE. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
 
 POSITIONS ET INDICES :
 - Anthropic, PBC Class A (NASDAQ:ANT) : 88.91 USD, jour -8.5 %, mois -20.26 %
@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55558.27 EUR, jour 1.22 %, mois -23.33 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55567.66 EUR, jour 1.24 %, mois -23.32 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,12 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] A 10% drop for the stock market is unnerving, but it's not that unusual - Spectrum News
+- [Marchés mondiaux] Wall Street's Biggest Bull Says Investors Are Overreacting - BeInCrypto
+- [Intelligence artificielle] China Switched to Making Its Own Chips “At All Costs.” That Shrinks Nvidia’s China Upside - Yahoo Finance
+- [Petites valeurs en croissance] Intuit Inc. Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions - Simply Wall St
+- [Pays émergents] "We are very excited about championship": Jhandu Kumar, Ashok eye medals at World Para Powerlifting Championships 2026 - www.malaysiasun.com
+- [Crypto] ETH price on Nov 22, 2026 at 10am EST Crypto Prediction Market - Robinhood
 - [Intelligence artificielle] John Kennedy: If Howard Lutnick is giving AI chips away to China, ‘he needs to stop’ - NBC News
 - [Intelligence artificielle] Nvidia chip smuggling web exposed - Israel Hayom
 - [Anthropic] Blaming Anthropic's IPO for Bitcoin's Slide Is 'Easy to Believe,' but Flawed, Analysts Say - Moomoo
@@ -449,10 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Pays émergents] Missed Out On Guaranty Trust's Run? Here's The Bet Holders Made - Simply Wall St
 - [Crypto] Bitcoin crashes to two-year low, losing more than half its value since October peak - Ynetnews
 - [Anthropic (FR)] Comme SpaceX, Anthropic a suivi un processus d’introduction en Bourse inhabituel, au grand dam de certains banquiers - Zonebourse Suisse
-- [Chine et Asie] China's AI stocks have lost $1.7T since June-end - NewsBytes
-- [Pays émergents] 30 Years of Stock Market: A Message from Those Who Layed the Foundation of the Market - Vietnam.vn
-- [Crypto] XRP price at Nov 22, 2026 at 7am EST Crypto Prediction Market - Robinhood
-- [Anthropic (FR)] Ébranlé par la démission de son PDG, Jensen Huang le géant des puces a perdu près de 50 % depuis début octobre. - IsraelValley
-- [Anthropic (FR)] Cathie Wood Just Bought $154 Million of Anthropic in Its First 2 Days of Trading - TIKR.com
-- [Banques centrales et taux] Trois événements qui pourraient influencer le cours de Bitcoin pendant la semaine de Thanksgiving - BeInCrypto
-- [Pays émergents] Airbnb looks 
+- [Chine et Asie] China's AI stocks have lost
