@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55751.33 EUR, jour 1.57 %, mois -23.06 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55731.19 EUR, jour 1.54 %, mois -23.09 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,18 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Anthropic en Bourse, qui paie l’addition ? - Le soir d'Algérie
+- [Banques centrales et taux] Les cours de l'or ont chuté à leur plus bas niveau depuis plus d'un an, et les experts restent pessimistes, mettant en garde contre une possible nouvelle baisse de 300 dollars. - Vietnam.vn
+- [Intelligence artificielle] Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail
+- [Rachats et fusions] Orica chasing $1bn Belgian target - The Australian
+- [Petites valeurs en croissance] Why CleanSpark Stock Is Down 16.3% And What's Next After Texas Lease Concerns - Simply Wall St
+- [Pays émergents] From underperformer to investor favourite: What is driving India’s stock market comeback? - Upstox
+- [Pays émergents] Airbnb looks beyond traditional holiday hubs to deepen India presence, bets on homestays - Moneycontrol.com
+- [Pays émergents] RVNL secures ₹348 crore wagon workshop expansion order from East Coast Railway; stock in focus - Upstox
+- [Crypto] XRP price at Nov 22, 2026 at 6am EST Crypto Prediction Market - Robinhood
+- [Crypto] Bitcoin shorts collapsed 79% in five weeks, then the market turned lower - CryptoSlate
+- [Crypto] ETH price on Nov 22, 2026 at 6am EST Crypto Prediction Market - Robinhood
+- [Crypto] The Great Cash Grab Is Crashing Gold, Silver And Bitcoin, Goldman Sachs Warns The Stock Selloff Isn't Over - Yahoo Finance
 - [Marchés mondiaux] Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years - CryptoRank
 - [Banques centrales et taux] Quel avenir pour la BCE ? - Economie Matin
 - [Chine et Asie] Xinhua Headlines: China's tech innovation engine powers a connected Asia-Pacific - Big News Network.com
@@ -447,19 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Chine et Asie] Hong Kong Stock Exchange Today: Hang Seng Index Drops 1.55% to 23,637.60 as Tech Index Sinks 3% on Nvidia Fallout - BBN Times
 - [Petites valeurs en croissance] Compass Group (LSE:CPG) Stock Could Be 22% Above Fair Value Following Portfolio Rebuild - Yahoo Finance
 - [Pays émergents] Broader markets underperform; Kaynes Tech, Inox Wind, CreditAccess, KEC International down 10-15% - TradingView
-- [Banques centrales et taux] Les experts prévoient une surprise sur le prix de l'or après une chute proche de 3 500 USD/once - Laodong.vn
-- [Crypto] Anthropic IPO Buzz Builds as Crypto Bettors Raise the Stakes on ANT Valuation - Yahoo Finance
-- [Crypto] Russia Opens Bitcoin Trading as Moscow Exchange Eyes Dec. 1 - Cryptonews.net
-- [Crypto] Kraken flags disruption in Cyber-Optimism funding gateway, deposits may be delayed - Crypto Briefing
-- [Banques centrales et taux] Décryptage de la « chute » des prix de l'or - Vietnam.vn
-- [Chine et Asie] In China’s tech mecca, Trump and Xi touted AI cooperation. Now comes the harsh reality. - CNN
-- [Résultats d'entreprises] HubSpot Beat on Revenue and Earnings — But Missed on Customers and Got Crushed 20% - TradingKey
-- [Pays émergents] 5 Paper Stocks with Robust Revenue Growth in Q2FY27 - Equitymaster
-- [Défense, énergie, matières premières] 3 Canadian Rare Earth Stocks With Revenue Growth Up To 68% - Yahoo Finance
-- [Crypto] Bitcoin News: Abraxas Capital Invests $1B Amid Market Drop - Cryptonews.net
-- [Anthropic (FR)] Anthropic lève 81,3 milliards de dollars au Nasdaq - Brief IA
-- [Petites valeurs en croissance] 4 IT Stocks with Robust Revenue Growth in Q2FY27 - Equitymaster
-- [Petites valeurs en croissance] Insmed (INSM) Is Drawing Acquisition Interest - Simply Wall St
-- [Pays émergents] Broader markets underperform; Kaynes Tech, Inox Wind, CreditAccess, KEC International down 10-15% - Moneycontrol.com
-- [Défense, énergie, matières premières] Top 3 British Quality Stocks To Watch In November 2026 - Yahoo Finance
-- [March
+- [Banques centrales et taux] Les experts prévoient une surprise sur le prix de l'or après une chute proc

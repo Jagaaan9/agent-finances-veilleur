@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T10:00:36.664321+00:00",
+ "mis_a_jour": "2026-11-22T10:10:35.138624+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55751.33,
+   "prix": 55731.19,
    "devise": "EUR",
-   "jour_pct": 1.57,
-   "mois_pct": -23.06,
-   "volume": 51.7604943,
-   "volume_relatif": 0.21,
+   "jour_pct": 1.54,
+   "mois_pct": -23.09,
+   "volume": 53.20243721,
+   "volume_relatif": 0.22,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,90 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic en Bourse, qui paie l’addition ? - Le soir d'Algérie",
+   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzJJSU1YaC1JV3dKbFMzMWZBREw5bG0tRnh2X29FbmRTSjJPVU9CNVV4QVhNaFEyaFlOMHpSX1ZseF9OeTZYel9la3Vwb0tfNDFWWkNYQVpmbzhmOU9vMGNFWlNpX3JrelNHZjV0M1Izc2lzRlFqNW11M0FCWmF3RmJqTU9vemhGaG4w?oc=5",
+   "date": "Sun, 22 Nov 2026 10:00:00 GMT",
+   "vu_le": "2026-11-22T10:10:35.138624+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les cours de l'or ont chuté à leur plus bas niveau depuis plus d'un an, et les experts restent pessimistes, mettant en garde contre une possible nouvelle baisse de 300 dollars. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU0pnWTdOYlhFNk5sazVLSlhtcVlyM0ZaeFI2UWdJMEU5cFJuSW92dk1vNENZUzhYS1l6ZG8tWTQ3aWZ1VGJ2b1lSRXdyQVRvQ3dRVE9NeHBZalBtbG1wNmhvM0hNLXpRMWVObWhHMEVhOFN0UEFPMWVCODQ4VmFDQUhUaF9SZm5NYjlwUUlJZXE0cEZFVHRUeml1X3dubUNMVF9iMHRqMnZaYTYzeWRCYjVLNEFlNnBndVpEQ0hPc1R3RzEtQUR0d0pRT0xOcHllbG1rLXd0T0hpaGdV?oc=5",
+   "date": "Sun, 22 Nov 2026 10:04:19 GMT",
+   "vu_le": "2026-11-22T10:10:35.138624+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQNkFfMDY4dG1vbVk5cW1DTm9PdkdnRmxuRGxMT0Z5ZUxlYUNYZkFHYUYtMFJ6d1djUzVsTEN0dEk1clp6c012aEZIRnZpQnp4MVdSYlQ1VlhndW5aWEZSdmlwTktxUTRGa3Q1c0Q2ZE1zTVZBdkVtUzNQaENYaVlNNndWVnY1dkF6S3doRWk3Ym10Nkd2aG5SZXJMUHNXOUZORnJWb1h3NTlUQzF5NmpfcC1OZjNXejBnb1B2SzFDeS1JclB4OXh1TGRxdFh1bWlxV3hfcEtlS0Z5R0RVSDhoTC13azJ0RF85MDFmUVMzS0dXaHMtb2cwNlhFRXV3T2NRTTJNTTVuZTZ6czJ5VjJyalIwMUxYSktnb0JKcDhmRWhnNXNXQUc5Vzh1MGRZblRfYWNacy1DemgtMHplWUZWaEtMczhWQ2Fxa0tLcnNZUFZybGNvVG40?oc=5",
+   "date": "Sun, 22 Nov 2026 09:34:02 GMT",
+   "vu_le": "2026-11-22T10:10:35.138624+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Orica chasing $1bn Belgian target - The Australian",
+   "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWHZsLXctRGJQdHV0SUFjTzh2b0wtS0U4U2JTdFdqVjVfaWVlRFJYV2lIdmhMMExvLUs5LTlCT3QxNFpJYk1MaXNfdFRhSXl1dWd1NEZCeHR4X1BMY25KaHUzcDIyc0hDZElBdHpuV29nTV9YRkNXQmpMcVQ4dXZEaU5DTUFWM3R6UkJNMC1PRFBROHUyRzFnamZSUGZuQVNZTGotODVZdUQ1Rkp3eHYwRG1ZVHBtcE9Bd2RfTmp4ampFMURmYjA1VjA4QldwdXkzSk5weWd5V2w2dTJvR29iYVF0MVkwbFd6d1V0YjAtX1drSGtPbU1MWWczenh5TkxzeU5uQ2pmVQ?oc=5",
+   "date": "Sun, 22 Nov 2026 08:43:44 GMT",
+   "vu_le": "2026-11-22T10:10:35.138624+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Why CleanSpark Stock Is Down 16.3% And What's Next After Texas Lease Concerns - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQWJQMU1kWmt6azIyX214TVhvN1FPb1c2YmI1TzMzanlMbHhpNTV4bUVEa1otR0xSNFFHQ2Vfc2FYTzRhcWVHR25SLTk3VE12M014VjRYdF8tb0gySkxzLUNhb25aMWgxcXd1M1dLdWZQb3FMQWFoX0stQ0xBdlNjeE5FTnV0R3QwLUM3MnBDSEJuM1pkdU4zUjRETUdpN2JHSnVNMVdrUk5sd0xqcVRQN1liTklNRTkxaEZIZ0h5R29ISzJDcTJr0gHMAUFVX3lxTE9GcWtnNnRxamE1TEpqajJIUTRQN3prYWl0Rk04ZUwxa08wMWVIWGxNNGtWSU40cmRxd2t3dVpYeVEwdm14OGZxLVBaUWxXWURoVVd4OXVjVU9sdjJFLVJrRHRJeEhYN3pReFI0S1FYMTBoUmhZeU1JY3RjazZ0eW1PWGZZbnZuZzk0N3JvS05kcnhleWJkeHhmVHhrTS14UWVXMkdjYWdQbVFyNnladTFxZDRpODFobnZVdkFMQ09Fdm1BSDJvbUV3NlJKRQ?oc=5",
+   "date": "Sun, 22 Nov 2026 03:14:58 GMT",
+   "vu_le": "2026-11-22T10:10:35.138624+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "From underperformer to investor favourite: What is driving India’s stock market comeback? - Upstox",
+   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX1IzTlc0NWxDMUFNaVZfa3dYd1hnTXhzSTV0LTZLVGExZnVRLXZ4dGt1SFA0Q0VEa0liQmdTMV9xUllZdUxJSHVmS0hhZ2tJenFIanhZLS1fZmpOZFpSd3pTWklMQk1rZzhvQUJBVVNYZDNxWVhMM1FaY29mNlNjMXZTcktoelZzMUZlYU9ZOGNXczh2dTk1MGsxUjZCeXI1YVBFMmV0cUQ5c29NR2FLVDlnRzRhMW9zOUdfQTN2bmRyRjFnY244MVVxbXJMTFlBNklUd0ZMcXJ0NjVwVEszSQ?oc=5",
+   "date": "Sun, 22 Nov 2026 09:58:16 GMT",
+   "vu_le": "2026-11-22T10:10:35.138624+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Airbnb looks beyond traditional holiday hubs to deepen India presence, bets on homestays - Moneycontrol.com",
+   "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMFRrZmd3eEZ4MDlaQXBiaERpWW9nMElJbFRjWTd0Nm9VLUtLV0g3ZmJiYlROSHJJSm9SbWpUdDNTVy1ycWh0YWVEYjkzb19PRHhNU1lSaEU2Ql9oM3FuSm05ZHZZUVg3QVRaM2NkeWZCem50eVZVbnNRRzdFQVRvVEZ5MlBSVnR2ZXdLLVNERTR2Y3VPU2dwTnJmM09zaVk5UGNoS2JzeEZVd2NVY2I2U05pNXZIaXNhYThVLXNtRTRGX183MXdNdkJpOHBTN2pmN25JaGZCaEttcUd2N3FJZnM1V200aHlCU3fSAe8BQVVfeXFMTWItWjRfbGNIdWtIVWcyWmJXa3RaeFJLMjlHdUdtZldkV0J3YklQRE5vOC12dzRtMlpDYUVfOUMxS1QwMzc0Y3V5ZklRellOUGV3RXY2WXctWVQtM2dtZlgyRXBCN0dQdzZJUWphZzZWN2xORnJXZ3RIc1JVYTVrSWE3T09iZFBNUlpYUXRQTlE5cWVqRVR6Z1BGOFdEMEhJUkFUbGxEamhKTjVwSHQtLXhZMkZXQWYtd0dBVnJFOVJSS3BxUzZnX250bWlCVEpOcDJzbTBGRGdwVXU0Ul9lQWZPSHRkLWlaVkIxU21IdkE?oc=5",
+   "date": "Sun, 22 Nov 2026 09:16:13 GMT",
+   "vu_le": "2026-11-22T10:10:35.138624+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "RVNL secures ₹348 crore wagon workshop expansion order from East Coast Railway; stock in focus - Upstox",
+   "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaXdsYTdqc1lDUE9ZR0NpR1pmRzE2SWhyZlpuUFg4Ymx0azk0Z2VfT0ctREZNcjlaM2VfZ3dkTE1BaWxieUVTT184VWhHbU1vWEFoRmJ3VEFfWEdoTXVSdUxuSU55MGxoVjlERUIyUHkxLTZCN2hLelZLZXR6NkVBeVZsV1dmUlI0SG15REFiQlFUVjhWVlRqa29xMDc4WUZDSGFJVGtPWFlrOTJKX1dGRG1MUjY3aGM0b3VWR1A5amdFMC15aWduYlhDcUZQUEtYeHBRMFhYeE9Ia19GWkhHRW1sUHlzUQ?oc=5",
+   "date": "Sun, 22 Nov 2026 09:58:30 GMT",
+   "vu_le": "2026-11-22T10:10:35.138624+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 22, 2026 at 6am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdU4zQ3dpdkVaX1FPUFl2REdWckNNWTFBOHFtVHp2cDZLdVV0dFBDSURNMlFnQ1A3RkFVcFlZMlRRZkx6Um4wQkM1QlVmeFpkMldvOVE2Xy15Snl3RmJxYkpaazVoTkpfU2s0NDJWcFZnUFZLUUozamc0aFlxaHdOXzVPSEFLUVdvQ3Y5SFowcm15MVpaZ3NyVVZmdGdLZjZydUduXzVTclJuTVBCQmc?oc=5",
+   "date": "Sun, 22 Nov 2026 10:03:59 GMT",
+   "vu_le": "2026-11-22T10:10:35.138624+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin shorts collapsed 79% in five weeks, then the market turned lower - CryptoSlate",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS19fb3ZZTnRJMVpYa3d5MGY4aC1CSks4YndMUE1obzdneTFpcE5yNkhoVlc4dGszNXd0MkI5LUpuaVlFYzFPa0JRUkVoeXIydWNnWDNaX1VHbGNtLTBDa2dPTnFTOVpncEdCOUR2Sm1KcktzelhPZVhZQzV5a1hnamtBTzRUQ1RFQmhhNnVZakVTMFBvMHhqWnR3MA?oc=5",
+   "date": "Sun, 22 Nov 2026 09:30:45 GMT",
+   "vu_le": "2026-11-22T10:10:35.138624+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "ETH price on Nov 22, 2026 at 6am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTWcteERySHdzR0JSOHFIUjRDM213SE90M291Q0hfSloxMGVvTEJBNWZScVhoOGZyODYxMnBGMk1rbHkybHJfZnpYTGZETU9jRXNRd244aVk5WXFERE1xQW43bUtDd1ZqVzNvZzNzblJLeWRKT24wNGVnNnlvT05JemtKWm5SWl9nMlJWeUoza0J2RWlSeUpobHdsaGE3azMxZld2RUIyaVZwSVJ3Z1E?oc=5",
+   "date": "Sun, 22 Nov 2026 10:04:00 GMT",
+   "vu_le": "2026-11-22T10:10:35.138624+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "The Great Cash Grab Is Crashing Gold, Silver And Bitcoin, Goldman Sachs Warns The Stock Selloff Isn't Over - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOakhFbTIzRVU5cXdMWC1oV2hVYk1qSlM5VUNCd2JPMkxsb3Y2Z3NSd2l2b1lLUXc4MGIwU21PNFY0RFh5cEY3SGtiZk5fVzk1b1Q2dHBfNFJCbkU1X3NKLXpDekRRZEJ2UVN1ekctXzJsX1hZdy1OUUJkcWR1ZkY4MkNEMjNYbFNab3JTYkRHcnM4dUc3Yl91QUloMFp5Ul90?oc=5",
+   "date": "Sun, 22 Nov 2026 09:49:52 GMT",
+   "vu_le": "2026-11-22T10:10:35.138624+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years - CryptoRank",
@@ -6468,90 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbnd0Y3FuSkFZT3NEd0MxVUdNRUJqM3I5SEZJcllfQldKdkpVVzRRWlhDdG5ZM1dKaFB1OUYzR2Uxd3ZzVURBSk9hbmpsV0t2RnVobFkycm5lYXo0eWlsYzBDemtHNTB3NVd6M2NSeUg1VDRvX2pLTmhubjJ6UUZ3MDdVeDBWOE1yZW9rNzA0RVFyVWMyRE5aREllZ1A3ZWRRYURfWlUwMzR1ZGJ6eHVidHZwb1pOOVJhR0ptTGQycXJyZlp3Q2JQNWM0TXFxeDQ?oc=5",
    "date": "Fri, 20 Nov 2026 21:21:42 GMT",
    "vu_le": "2026-11-21T20:50:35.554746+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Regulatory Approvals France M&A: 2026 Guide - Global Advisory Experts",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNXzloV19MVElxdlZ6RnROanIyNGYyWmFBX204cDJrenFlZ1JKMEllRm12amxSQWRGVnNlRW1PdHZ3NG1BUlhUQzJtejc3ZnZWOWQ4b2k4LWtZMjByZVZYaXUzbVVIR200Z0dwR2kzbTZyRWJ1WFgyLS1INTlfcndqNWhVMTRyaTNL?oc=5",
-   "date": "Sat, 21 Nov 2026 13:11:37 GMT",
-   "vu_le": "2026-11-21T20:50:35.554746+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "$1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2V3ZXdQR0YwNzAxYlNJal9fdmZmbklSWUZ6QVVzc05PRFhuVjhVM3dRM1BXdnhmOWdwOXA4MnNncDZwUmNpTENMUFRTSVlIckNZZXNLbWIzZDYyUS1mMkhscGY0bFRrdC1kclpvNU5SWlI1SDA2VHprWERuOGRYdE51R21WbkhrNTZuMlA5Z1RUYnk1?oc=5",
-   "date": "Sat, 21 Nov 2026 20:11:31 GMT",
-   "vu_le": "2026-11-21T20:40:37.653739+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Cours, actualités, cotation et historique des capital-actions USD/CHF (CHF=X) - Yahoo Finance France",
-   "lien": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QVGgwU2duZ2huTDhVQ1p0RmVvQXRnaGY5ZHJvR2FraGZVRU5sM2pJSzBXemZoQThKenBsbDdBRDdsRktQZzBLbzBiOTdYNXRrb1pCOEo0RlRoUVZtMTlRZzUtakZnQQ?oc=5",
-   "date": "Sat, 21 Nov 2026 10:34:48 GMT",
-   "vu_le": "2026-11-21T20:40:37.653739+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "\"I'm a big fan of China\"Tesla CEO Elon Musk made an official visit to Shenzhen, a technology hub in - 매일경제",
-   "lien": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zSkRxdGJZNWVsYVNmd1Y0N3VjQTN0T1VSVTRXbEZlWmYxUFNvdk84ZEV0eFlSN2NQTW1DM3JLNjh3dFFBSWpIbUpxWUlTSG8?oc=5",
-   "date": "Sat, 21 Nov 2026 09:11:00 GMT",
-   "vu_le": "2026-11-21T20:40:37.653739+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Chinese scientists’ magic comb restores nearly 100% hair growth in mice study - South China Morning Post",
-   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdU12SjFBaEZFUjFWZHlnME9iTU94SEZyVGNlVGxGT0tnNGN4UkpYRlphYTlfNmJiajk3THVXV3k5cXVnYTlFWm5Pb3l4MGlaNWJ3QXZ6cm44Mk5hLXdMN1NJY3hqUmVyVUdtZV9zNmN1MEZvT1k2ZFVnQlNGeHJ1WFRpSElyZmotMVhBSDRldlBKYTc3Q3JLYy1ybWlKOXRpd3JoRFc4NDFtaUczbVJQN01Fc3lYXzBaOHo3eFU4MlZ6MUwySk5mTWQwbVN4SUZPa0NUcWd5ZEg5TExYeVE?oc=5",
-   "date": "Sat, 21 Nov 2026 03:05:05 GMT",
-   "vu_le": "2026-11-21T20:40:37.653739+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "3 Stocks Investors Are Watching for Asia Pacific Trade Growth - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORk1BTTU5NTBHQWRQeGZ4VnVaMnNVdEhhaUFYUXV3V2RwZ1Zhb3J2T1pkVktLQU05d2tRQjhNYUkyYUVKbTZUQmNmZ0Zya3k3YU03WGJKRkF3aU9vRzcxYVVWb293UUNMUHg2VnI5VEdLT2Z3WWQ3QVJyU18yS2d4SC04WnROOGhPNkhVdjVBa3VrZ0xOa1pPbnRpdUxMQ2dVVlBpY0VOWTFxZm1FLTNiRllDczBjMFNSNVN4SzA4d1B1N0FqQkJReVJ1ak5PekNwZmFSdHFLQTE2dHhWLWdRNzRvQjLSAeQBQVVfeXFMTkZNQU01OTUwR0FkUHhmeFZ1WjJzVXRIYWlBWFF1d1dkcGdWYW9ydk9aZFZLS0FNOXdrUUI4TWFJMmFFSm02VEJjZmdGcmt5N2FNN1hiSkZBd2lPb0c3MWFVVm9vd1FDTFB4NlZyOVRHS09md1lkN0FSclNfMktneEgtOFp0TjhoTzZIVXY1QWt1a2dMTmtaT250aXVMTENnVVZQaWNFTlkxcWZtRS0zYkZZQ3MwYzBTUjVTeEswOHdQdTdBakJCUXlSdWpOT3pDcGZhUnRxS0ExNnR4Vi1nUTc0b0Iy?oc=5",
-   "date": "Sat, 21 Nov 2026 09:12:25 GMT",
-   "vu_le": "2026-11-21T20:40:37.653739+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc?oc=5",
-   "date": "Fri, 20 Nov 2026 20:43:20 GMT",
-   "vu_le": "2026-11-21T20:40:37.653739+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Nikkei swings harder than Nasdaq as AI fears deepen - FOREX.com",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlRRTGdMbEJUOHBJSGFsYXJtcW1naTlnWThEVWpub1NuWGd2dHRubFB2ZHNoOXZpNFNhVGNlLVBITmVzVFozS1FVcFo5VTdXcFhYaEgtcHRueEZRTVRUa3VMV0hYczJwcXpTZ1BaYTJkT1E3TjlwZFV1bmVpcF9vNGJObkdfcDBfeVpES21Uam5tdmMxampNdTNOTVVrWEE?oc=5",
-   "date": "Sat, 21 Nov 2026 07:32:08 GMT",
-   "vu_le": "2026-11-21T20:40:37.653739+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Technology at Work, Heritage for All: The \"Chinese Approach\" to Safeguarding the Leshan Giant Buddha - The Des Moines Register",
-   "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSU5OUXFzRFhfOWx5VGFZY1JSVFhOeDI5ZjVOMjRYa2ZJQUc2XzBRY21VdlFtT2l5aTctMGFwa3cxSXViSHBLNUctQ0UzSFhnbjV0TDhSdzA1Z0FxZ1MwRFdrb2p3c1lLMWhOdmFZdF9yTTVwcHIxRkRncmkwSk4tV2xWS2s5SlhVMTduQXF6NnJEXzRQX0xvUEZDWlhZc1d1YUotZm1SOERoQ1J5Y1BubFNPMWN3S2hyUzJ5bkFfamJZSWpWQmRxRTNKQ3lYTUY1OTRPTXlRcWZlRDJtd0NnT1lHYUFCb0p2RkpxSU4yTQ?oc=5",
-   "date": "Sat, 21 Nov 2026 11:21:02 GMT",
-   "vu_le": "2026-11-21T20:40:37.653739+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Indian markets may see reasonable upside over next 12 months; FPIs unwinding underweight positions: HSBC MF's Cheenu Gupta - ChiniMandi",
-   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUVdfX21iUzZxczRteGRQZVNfcy1Ua0hzcGtyeDF3YWRpeDdVMjk1X29fTFJ4TFhWYTRMNG8zOFR0WUtLeG9nTHBUZkI5cWcwMXlON1pGNWZ2VGg0b3lBMFVVVGhYX1pIVThhY3NMOHlFTXpBWnhjN0hqYUx2SXBvazFHSFdDMm8zRHFwMkJKaG9kd1hoWnRacFVUR2VENjNpU0R2Uk82b2lCTXUwdjV3VFY5SnpWZVh6RmtsTl93ajBha1B4ZEwtcmVYSUJiMjJwX2FfNDRNVDdSSnlTYlFkYg?oc=5",
-   "date": "Sat, 21 Nov 2026 09:04:23 GMT",
-   "vu_le": "2026-11-21T20:40:37.653739+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Dollar and euro notes were priced to help fund Boston Scientific’s (BSX) proposed Penumbra acquisition. - Stock Titan",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYUdvQmhmUDVFMmRxOFB6V25DNFFjWEdVVXZNVnJVdUxWZkZTelpET1ZhWnBCUHNYcG40b0xVVk1EbklaR1lVbzVnVnNiNFZHb21tUHl2R0VkX0FySDZ1N05Nd25UR2FaV1BaaC1rcWRKQ2lZTXduWkNnbWxWV3czSUFjeDBTLVZITW9VeENyNWVUMTRVS2lUbnFIcnlSN09jekw2SmN5aVNsR0hKUjRV?oc=5",
-   "date": "Fri, 20 Nov 2026 21:07:02 GMT",
-   "vu_le": "2026-11-21T20:30:36.427791+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "$1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years? - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2VXSHllTWdEM1dZazVxc3RCQVZieEhpUDgtMWpGYWhycC1FNWdEOEVsOF9WbE1RVmo5TFVINnlWbTVwM3JFcENIdHZQaHpUbXMtaXFRWEN3Nkl5UU9IcWxURW5rY3EwZHZvMmdmRjJxQzRkSHZaS2xjbGY3dEhSVmNHMHBVS1BMc0drdjRQWTg3Q3JfNDY4VVpyM1NxR1hFZTIzS2h6TmNPM0VQSVJmSnFqYTF0XzhNdUhoUVl0SURhbzRR?oc=5",
-   "date": "Sat, 21 Nov 2026 20:11:00 GMT",
-   "vu_le": "2026-11-21T20:20:35.169884+00:00"
   }
  ],
  "erreurs": []
