@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T14:00:35.695390+00:00",
+ "mis_a_jour": "2026-11-22T14:10:35.960162+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55380.14,
+   "prix": 55431.13,
    "devise": "EUR",
-   "jour_pct": 0.9,
-   "mois_pct": -23.58,
-   "volume": 95.49042854,
+   "jour_pct": 0.99,
+   "mois_pct": -23.51,
+   "volume": 95.77199687,
    "volume_relatif": 0.4,
    "capitalisation": null,
    "per": null,
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - Jacksonville Journal-Courier",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUx6S2RnSjhKTXFiZWxKbzZkMFFpZzNydDFZT0JnVEJSQ3ZYQ3VVTDhRQUg0TW9icUVLcTJhRzZlczZzSzdqejVUZEdvczlxQklXbEVyM1JIWF9FaGRUN1dkOTA1RC1FRjd1NlUyazU5ZzQxZ0FuWDFaRTM5ZmFheDgyYkhsYk0tblFUcUlFZk9HakVreTN0WTQ2X1Z0RDRGcG1JZ0Q4RQ?oc=5",
+   "date": "Sun, 22 Nov 2026 13:18:06 GMT",
+   "vu_le": "2026-11-22T14:10:35.960162+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Le dollar repasse au-dessus de 54 livres égyptiennes, la Bourse égyptienne recule - Ahraminfo",
+   "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZOFBINEdoZzVDZGVfeV9SS3dGWGZHN2lISDV0SXFGQ1NtaUtBWGV1VEpvTTdvOTVTOVJjQXhDWFhWX0h2UWlzMU9tSnVkUDNDemZObkNn?oc=5",
+   "date": "Sun, 22 Nov 2026 13:48:31 GMT",
+   "vu_le": "2026-11-22T14:10:35.960162+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Why Zscaler Stock Is Back In Focus As Cybersecurity Deal Talk Heats Up - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUkh4cGN5OFNwOFZfYXBGUjJfcW9lMGt1TTBBYk9BZUxZRUp2Y3pKTUJNdnpraWpVNFNmYzRRLXFSOUgwblRvYmJocVVKX1dray1JSTh5X2twQUt5Ni15dEt5MmtORGFDdHZiVURkXzdtem1ONVNPSG1qNG9zMTdveU5tcFVMZXVXUmdYVGFqc0NmZE94UmRBWWlkTGhMWm9LRnE5dHRPOEdvNmNnYkk4SGhpbi1zNUh2V2ctUEVfaHJIUWNiRG1VT25rSk41UFHSAdQBQVVfeXFMTm1jVVEyN1FZMkxTYzY4ZHJ6TlRfVDZ0U1hrOG5qc0xkUmJWOXQ3Uk16WGFrMmdhZ3ZzOGVaWnp2REJDWExLdkxDLTNDQk1LczVIWndGRXF5Q0tfYkpHeDBXWUE1X2dJVUdxLUxqdEM2N1BrRE5kbXNrM0xxcld6UGdZTlVaRHNqUkVUYklSLXRNNnFxcERpTUNVelVhQmhPZ1VxeVpOZkhVQmJfd01tUDB3RjZGOEs2UmZrLS1WeWNhOEI2Q0t5Qmg4VUxlaGpuaWZCdmE?oc=5",
+   "date": "Sun, 22 Nov 2026 10:10:18 GMT",
+   "vu_le": "2026-11-22T14:10:35.960162+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Insider Buyers At Baylin Technologies Likely Disappointed With 18% Slide - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRU9mWEtLQmpYb2U4RWtGdVRQQkJTVDRPRjVQeEh1ZnFRX1JJazBPRE85cXIxalVaTHhkYmZ3T1B5N2l5aDZtOFpKVkU2X3owTzJxbExId2ZLY0hiMWUyMFBSRThKLUlDemRJQWR5b2l2VjBkaEhjb2ozd0pCdDdETUh3RklmTzhmeS1JQkpZYkNmZjA3SHlVZWpndHdadkRZWXpvQjM4ZF92Z1BrWFZnQUQwcnFvTldNRzJVTVJUZ3FYSzhLbnlOVTJ2dTFRc0VqQjFv0gHYAUFVX3lxTE81WnhBVkJvb05kelQ5bFpIZFB1STJkMHU0RnpQTTNmUHY2VF9Gd0J3cmZ3Slp2dmNsb2FVQ1kwYWNJYnZaZVpmc0tVbDBSMkxGMTNvRGxPeDh4ZjJLSTYwUUdfSWlkMnNyU0xORDRlMkdaTnJPbXZMRHd4SEd2WHBjVVdsQ253VjZoYk55dGpieEVDZzVFMk1ZWlZDV0xXU01hTUdBWGhNY2FCYlp4aWJNZzQ0MFBya3FnQlRLdlY1UWhGNko2Q0hweUFDaWhqOEpJd3ZkalBEUg?oc=5",
+   "date": "Sun, 22 Nov 2026 12:49:54 GMT",
+   "vu_le": "2026-11-22T14:10:35.960162+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "\"Global North has no future without Global South\": Indian journalist Munish Gupta - https://www.indiagazette.com/",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOREZhVkxtM0VQbHM3LXZ1RUNaRnZUUGNqaFRteUpWTnZkMTY3UUp5MDdXVXdBN0NKMGFUVVNLNDVmY24ydENXY0E2Ukh4YkNXb2F1eXQwOFpIOVk0OVRQZmxldlR1NGsyaHF2Tzk5UEdiOEdrbHk2eXBzNXFjZE4wYVFRMl9OQW90X2twak9mSnlfOHJwaFRGcEhaR090c21HSUMzQ19PRVJSaE9nU1VoZUVOQXNiLXl6TGR1XzNwcw?oc=5",
+   "date": "Sun, 22 Nov 2026 08:39:00 GMT",
+   "vu_le": "2026-11-22T14:10:35.960162+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "If I Were Building a Portfolio From Scratch With $10,000, I’d Anchor It With This Unassuming Value Stock - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMnpKN3J4TDFvdC1zQUJ6R1dSVDh0Q3hlLTM0bTNhLU5SZHBqSS1vVkh3NXgyeEtaU2x6V1BFYW1CVjZULUl1UUFQWndkYWRfMVVOS2hIZksxX2lRaDBfSnpSbkh5dkg1OC1MS3VEaDZfd3FaN3Noa1dPbDRFY2NFZnRNdGVHRXhKYms0RVF3TUwtMTNQVFhXVGRDZTdsTHBnMWc3VUpJTlp2S1B1OHlFOVNzdlBwYngwM2NCR2swVkplSWc0WkYwdGxRM0RpSVpvWU03SW5uNkFXZHVWSVRNV1RoVi1HRXh4N19rVUhuNm9SVE9GWFV6dnVqZ1MtX3loZzhZMzhPcHk4RnN0UlUxdGhJa2Q?oc=5",
+   "date": "Sun, 22 Nov 2026 13:55:31 GMT",
+   "vu_le": "2026-11-22T14:10:35.960162+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin’s quantum threat goes beyond code to custodians, bridges, and 6 million coins - CoinDesk",
+   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnlBOW1KaWlxWXhWTGUzUWg2LTZiT2lRcU1rM3dFSDVTWVpDdGRLejd6dkhaN1pNY3picUtMUFdpTEhmWnRMZWtDbXpraHcxbi10eHRxdFhGYnhKWGd4bkNOZWNfbnA1WEc4ZXJyLUYwRnQ5NzhIc3Z4TFdsaEhLc09rN0FzODdEQWJseXp1c2pnaU5aQkh6c3liMmt1dTBQcXpqRU9wZzYzMU9fZXRIcDlUcnpFUEdINDJQRERmNVhQZVI0RWhXaA?oc=5",
+   "date": "Sun, 22 Nov 2026 14:00:00 GMT",
+   "vu_le": "2026-11-22T14:10:35.960162+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "7 reasons Bitcoin price crashed to $55K before rebounding to $60K - Crypto News",
+   "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NU0dheG5IMldNY0M0RUxjOWtVbm9HVEozd2dLVk1QUDBUdTdISE83bnpUcjd6Q1cteUVUWkM2TU9GR242OWR3ZnJMNUV5dm1fTjBZdWVXSDQ3NkRxMnNpVndLNjN5OHJzM0l4QUhKdzk1MlNvdTdhSTZPLV8?oc=5",
+   "date": "Sun, 22 Nov 2026 13:24:37 GMT",
+   "vu_le": "2026-11-22T14:10:35.960162+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - The Independent",
@@ -6496,62 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1dZcHJrMTdPMEUtb0RVWURfcFg2SHV3TE9VRzREMkpmR2tXdWFTNXZpdzZXblRaNHhzN3dtTF9qeDdnWlVwS3ljOVhzNmJDQXRlU3JRaGVUeV9fck0tX0ptTXlZV0thVGJ4d0ZXZDM2OC1hUkJDbHRlNXdSQ0hEWGhaVUY5Q3FPUjdfX2pvOWlvSkVGams2b2JlYnlFNl9mX2R0R1BvU1diN3AxU2w2bG54bWtYS3FaZUt3aA?oc=5",
    "date": "Sat, 21 Nov 2026 20:00:55 GMT",
    "vu_le": "2026-11-22T02:00:35.662261+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "VALLOUREC Cours Action VK, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81dFRQMXV6RUpQQmtqcGVSTFhJa2dsVVlfdElHcXlkOXZraS12QlFTYmY5NkVqYVBuTFRtLW0wbU1jbUdOOF9TY1FFSm0xTjJp?oc=5",
-   "date": "Sun, 22 Nov 2026 01:07:08 GMT",
-   "vu_le": "2026-11-22T02:00:35.662261+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Tech stock sell-off drags markets down as Anthropic shares slide - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRmlYZFYta0p0eno5V2xId1hWX1VDMl8xSWYyamRvaDlnQkFSSmlzaWR3UHN4Vl9DSXJaUFlWb1p0cU1XZ19GV1d1eDVnbkVfTlJLN3dTeC04cnEzbjVCWGJSdmQ5aTE1MjFuWHdidThMSjEwMjZhT2hZZVRLWmpfUUtSblptNTVGd01nTFBZVy1tR0pU?oc=5",
-   "date": "Sat, 21 Nov 2026 07:43:56 GMT",
-   "vu_le": "2026-11-22T01:50:36.200614+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "SAINT-GOBAIN Cours Action SGO, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yelBQSjVyWUQ4akcwX05xdmJGM2RBWlMySTEzRGsxWlQzSEJuOFdRNm5MMDlhZE5GVGZuYWU4OEFGS2Ixa0FCeEJJU2owRTduVlE?oc=5",
-   "date": "Sun, 22 Nov 2026 01:18:26 GMT",
-   "vu_le": "2026-11-22T01:50:36.200614+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China’s AI stocks lose $1.7 trillion as tech selloff deepens - Investing.com",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFVZZTg2Mld1MHF0MHZ6dS11NDd5aFA1Y1BTeFNobEFCaGlvWFAzSVZBSkVxNlR6bDRNV3ZIeWVqTFNlSW5jVC0tZDlWVV9mNTdlLWJ0XzI4OGdSdGpEdGNiOWdHOWVpQk5JTVlWcm5OWkoyVmlZSXJLSDNRM0dHS1dNQzk1TmljZ3lNcW9nZ3dzdEUzZE45TWxsVnNHQWRna3NQNS1pb214dmdDdDBJY3NVY0U?oc=5",
-   "date": "Sun, 22 Nov 2026 01:13:48 GMT",
-   "vu_le": "2026-11-22T01:50:36.200614+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "US AI chip curbs hit China tech stocks, spur self-sufficiency push - The Daily Star",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZHBlLUtBSzd0bV82TVpwQ3BJVzZlbEJwVjJKdXFBenQ2dlUxaG94SndyNE81d2w3RmVESWhia0xWcV9jQlppVWNaYnprRU16ZFlqdmdMemhrZkp2M0RVbUdhYXg2TDFna3hJMkp6SGRiLTFqcU1BODl1QUtaTmZLQmFCY0dvbkxHSnRzZlZKano4Ynh5dm1zN1lXODZhdllzM2dBV2xndzY4TDdFUncwU2hpUHhCQXpDck5mTEtVaUFiRHRrWG8wWFJSbw?oc=5",
-   "date": "Sat, 21 Nov 2026 22:46:50 GMT",
-   "vu_le": "2026-11-22T01:50:36.200614+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Plunges to Two-Year Low Before Rebounding Over 8% to Reclaim $60,000 Level - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Gc0pod3AzdFBPblREbGNxM1p5TFJobV9ZZERBcW1jcEpxMnk5eno1UXpxcDJ1dzNpbi0xbjlUVktsdFpmMVVRR0tMWkxrbmxobzR0Z19yaXVaQV9ZRU1QT0FJUnlGdldZaDZqWGROSF9hRmc4a2c?oc=5",
-   "date": "Sun, 22 Nov 2026 01:35:00 GMT",
-   "vu_le": "2026-11-22T01:50:36.200614+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China’s AI stocks lose $1.7 trillion as tech selloff deepens By Investing.com - Investing.com South Africa",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2xlSjVWTnROVVFMenk2ZDA3M29pdWktSThJOFpoMGo1Zm1uX05WM0RQLVBvR1lCWWU4NXpCeEpOZk5vNVNLb25QRWx4NGJqcTNHWnRvWmZzc3hfSVlWYWFsLUR5NkZ4SFRHN1JRNnVmQUQyaGVUQ0swMHBHdU5ZQThZZktCTnM3bHlfZGdkdTBXZWFRUE1SZGZqQjBNWHJTTW1XNVp2c015OVM3RU5haVJvTQ?oc=5",
-   "date": "Sun, 22 Nov 2026 01:18:54 GMT",
-   "vu_le": "2026-11-22T01:40:36.253991+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Should You Forget Nvidia and Buy These 2 AI Memory Stocks Instead? - AOL.com",
-   "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mdWpZZXVERmJRQTgzcDc5RWZpeUpUbXFmbFc2Smg4X1pNUVFRTUM2SFVxNjBZczZ0UlRnYU9hcUdyT1oxRXRGVnp3OFVHNnlvN1RyRXNzc3Y1aHcyT01VbE5mcXFreXlLYlRwS3hsYUJ0cG5O?oc=5",
-   "date": "Sun, 22 Nov 2026 01:23:00 GMT",
-   "vu_le": "2026-11-22T01:40:36.253991+00:00"
   }
  ],
  "erreurs": []

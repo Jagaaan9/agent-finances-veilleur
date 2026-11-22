@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55380.14 EUR, jour 0.9 %, mois -23.58 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55431.13 EUR, jour 0.99 %, mois -23.51 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,14 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - Jacksonville Journal-Courier
+- [Banques centrales et taux] Le dollar repasse au-dessus de 54 livres égyptiennes, la Bourse égyptienne recule - Ahraminfo
+- [Petites valeurs en croissance] Why Zscaler Stock Is Back In Focus As Cybersecurity Deal Talk Heats Up - Simply Wall St
+- [Petites valeurs en croissance] Insider Buyers At Baylin Technologies Likely Disappointed With 18% Slide - Simply Wall St
+- [Pays émergents] "Global North has no future without Global South": Indian journalist Munish Gupta - https://www.indiagazette.com/
+- [Défense, énergie, matières premières] If I Were Building a Portfolio From Scratch With $10,000, I’d Anchor It With This Unassuming Value Stock - The Globe and Mail
+- [Crypto] Bitcoin’s quantum threat goes beyond code to custodians, bridges, and 6 million coins - CoinDesk
+- [Crypto] 7 reasons Bitcoin price crashed to $55K before rebounding to $60K - Crypto News
 - [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - The Independent
 - [Anthropic] Weekly: Bitcoin Below $56,000, Anthropic IPO, and a Rise in Fraud Cases - Incrypted
 - [Marchés mondiaux] US Stock Market Next Week: Will Stocks Crash Again After Nasdaq’s 10% Plunge? - Stocks Down Under
@@ -445,13 +453,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Intelligence artificielle] Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail
 - [Intelligence artificielle] The 77-year-old former air-conditioning technician who built a $10 billion chip busin - CTech
 - [Résultats d'entreprises] Microsoft's Azure Turbo: Beat on Revenue and Earnings, Raised Growth Guidance, Stock Jumped 15% - TradingKey
-- [Pays émergents] Gold, silver, and India’s coming of age as a bullion market - BusinessLine
-- [Crypto] Kraken Bitcoin Price Glitch Sends BTC/CAD to $17K, Down 71% - Bitcoin Foundation
-- [Crypto] Crypto Analysis: How Long Could Weakness Continue Across the Market? - FOREX.com
-- [Crypto] OFFICIAL TRUMP price today, TRUMP to USD live price, marketcap and chart - CoinMarketCap
-- [Crypto] $400M in crypto shorts liquidated as market recovers from crash - Crypto Briefing
-- [Anthropic (FR)] Il est milliardaire mais n'a aucun diplôme, il scrute la "boîte noire" de Claude: qui est Chris Olah, le visage méconnu d’Anthropic qui a demandé l'aide du pape pour encadrer l'IA? - BFM
-- [Anthropic (FR)] Piratage de GTA 6, IPO d'Anthropic et Face Unlock sur iPhone Duo — le récap tech de la semaine - Numerama
-- [Anthropic (FR)] Anthropic lève 81,3 milliards, le calcul reste incertain - Brief IA
-- [Rachats et fusions] Mergers & Acquisitions in Serbia: 2026 Buyer Guide - Global Advisory Experts
-- [Pays émergents] Accenture plc (ACN) Stock Price, News, Quote & History - Yahoo! Finan
+- [Pays émergents] Gold, silver, and India’s coming of age as
