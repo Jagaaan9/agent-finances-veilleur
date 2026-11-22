@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T19:00:36.560510+00:00",
+ "mis_a_jour": "2026-11-22T19:10:44.579654+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55369.56,
+   "prix": 55320.72,
    "devise": "EUR",
-   "jour_pct": 0.88,
-   "mois_pct": -23.59,
-   "volume": 143.59968203,
-   "volume_relatif": 0.59,
+   "jour_pct": 0.79,
+   "mois_pct": -23.66,
+   "volume": 145.41245999,
+   "volume_relatif": 0.6,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,69 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance Singapore",
+   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNDdjcDl1QS1TcTJlOHctM1B3bWlTYjBlVGhvNDBCUDYyWDJ2OGotaFZPOEN1MTJHa0xYU1V6Y1pEN2FkNTIzM0YxQ0o2eFlzUHo2OWdoUzZySUdOaXJEeEhZbXh2MXMzMVdmSmxjbXhOemJCbGZoNnRGakY2S2dkTTQtR0NvVlhXQlllZTIwZEdGSjJsX0VVaUxieVRyandsNDdhdUFIYVNUcDl2aHJ4N2pielVsc3BVaGJtTg?oc=5",
+   "date": "Sun, 22 Nov 2026 19:00:51 GMT",
+   "vu_le": "2026-11-22T19:10:44.579654+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street Brunch: Can AI Bulls Get Up Off The Canvas? (undefined:ANT) - Seeking Alpha",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVZOb1JEZGJKblRjbnEweEctVVZDYTNNZXJ2VWVRa0U5SGVydi1KSTZvXzZGLUxvZHNTTGxKUUpUb1JnUmdObkplT3drd29yMHJtbkpiTUFvSFUxdHU1dmJBTkNRbWNQZ3Z5S1Npcm5QVHRzZkhkVGFXdXFiNktSQzNFTDZGMzE0RkFmOEdQS1BJUnl5dGtkN1R3?oc=5",
+   "date": "Sun, 22 Nov 2026 18:34:00 GMT",
+   "vu_le": "2026-11-22T19:10:44.579654+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "La Banque centrale européenne relève ses taux d'intérêt - The Portugal News",
+   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSDA4amRqNTh4M0Uza25zaTZDcW83bVhIUDZVQVA3Skh4SDE5N25CZ1ktdklfcjNNU3dQSlpDZ3N3X0ZCVFVCakxCQTY4NG9WN2xHcUdONE9FRkFNVk5UbnNfMHF3dHk0THlleF9HWWVEM2pkeDBiWjFhYWxJdnRHazNLNXJUVjE2T3RYV3ZJSHFkQnpEaUx1VUVGa09FZzU5LUU1dHR4M3pGbmlyUVFqNURwcS1sQkp1eEE?oc=5",
+   "date": "Sun, 22 Nov 2026 13:55:02 GMT",
+   "vu_le": "2026-11-22T19:10:44.579654+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Bessent says we \"need answers\" on role Nvidia played in sending AI chips to China, suggests Alice Huang is \"kind of a canard\" - CBS News",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ0w1SkRVbmd2cF9NcmxBeHYyeTdIdjQwR3c0VG5KT0g1UHlxRm15S1B4ZE1KbUVXOHhlMXhuS1VOeEFnd3VkQmNES2ZpekFDbERtQzFJUVNYXzJHZ0VvdDlUZFVQTWsxOUlJeWRGQnI4ZElsMTc3eklnUDRBcEFmLXF4Z3o?oc=5",
+   "date": "Sun, 22 Nov 2026 18:48:39 GMT",
+   "vu_le": "2026-11-22T19:10:44.579654+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "SA Asks: How much of a threat is Anthropic's multi-chip strategy to Nvidia? (NVDA:NASDAQ) - Seeking Alpha",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN2hUazlXb2h6eVVNWnd5X184WG5YMmF1N3c4Vk5oaUVFZGJycjVPWEpfSDZRNFBGYVJpa3ZoRi1KMkI3Q3ZXSFVzdE5rTVpTZncyYjlSU3d3VUNfUXZzYWRnRUVXTVFUOHFycUFyNnpBN3lPMHhOTWRrZmE4UVBxSzB3RkJkVU94MnRQNkQza3M0eDFpNlZWUUNTZmQxWHR1alFTOEhVNW03cXZhcXdr?oc=5",
+   "date": "Sun, 22 Nov 2026 19:00:09 GMT",
+   "vu_le": "2026-11-22T19:10:44.579654+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "StockWatch: Insmed Jumps on Report of Takeover Interest by Sanofi, as Analysts Conclude a Deal Would Make Sense - Genetic Engineering and Biotechnology News",
+   "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOOFhDRFZYS1hVak1CWUxEUWwwZDNLT3NJMWlEdFB5T0d3ZVpncm4zaGJGd3Z0dzg0d0o0Unl2UDNFZElzREtpRFlLUm16VDZlZDFpSU5HdW9HT1NEeHhvclM1eURpQklLWjhyM2J6YXZ6QkZmdi1sS2c1VjZMM0czbm5YWVN2ZDZKQkw2LUZKRzl2b002WEtIYzZIU1ZrVF9YZkJ6eC0zSHhXSE9FUTZVdlJPRm01Vm5iVXJJNUhJcmxBTzluN0tKc2Y2ZWZiRUV5YzZONkpDSUVsN09IaVZPRlM2T1phNmlqMloyZi11Qkx5a2JGdmN3OEhZNA?oc=5",
+   "date": "Sun, 22 Nov 2026 18:52:58 GMT",
+   "vu_le": "2026-11-22T19:10:44.579654+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Why Reddit Fell 53% Even As Profit Rose - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3NYT21kOU5sUDZlQ2tlQXJNa0Nza1BzRVpBeTEzYVVycE5qVzZYWm0xdThnNHE0Y3FxNm9rdHRGSVVnWGdWTU9qVHlBUkNSVjA4QUlobXV6RFdmTmVUeDdlSUUyUTRvcWZzNXZ2YVZXY3BzaHF6VXFvSXFfeG1DdllpVEF6UXVoc0czWmxRTWtON0c3R3dqV1lDQWgwS2PSAaQBQVVfeXFMUHAwN0NWUTJ1MkdUQndZUXN0WWlwWXdNcGNZY2pXMkstQmd6SmZFRF9YMDVITDhld0ViSlhqMkV5LUlfamZ2UUZWX2VfaTdyUmlNNFJtMGpveXZJRUgxXzNOdDlNNmlKMFJOSnlNNkV3UktSSE9NR21XQnFoNGNkV3JoaFhMNmJxdFNyOWc0VXB3YmU4VHp3X0QzSUJpOXFMWTdYWFQ?oc=5",
+   "date": "Sun, 22 Nov 2026 19:07:18 GMT",
+   "vu_le": "2026-11-22T19:10:44.579654+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "From 4% to 12%: the defensive stocks that found growth - Livewire Markets",
+   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGVUSWtHSHVHMG9od2pxNkV4RmVpaHd1bHF4QU5PVnFuMFBpMFU3Y2dYZkVDRC1IRlZvTnZxMndUMDdFMWxfZUhVclA0a2d2dlNyMXhzdUxRUlV5Tms0WWJ5YzdIc1VkdE42RUJQT1dSQWgydDBwdm8ydXQ4OWplTm9Zd3JHQ21GcldiS0F2d29MMUE?oc=5",
+   "date": "Sun, 22 Nov 2026 19:00:09 GMT",
+   "vu_le": "2026-11-22T19:10:44.579654+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Climbs Back to $60,000 After Plunging to Two-Year Low - www.trendingtopics.eu",
+   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUFNUNGdYTzBnX0NBWGdndnJTUlpDOFlHaXdjbUVkMFJHMUNPbExORmZKTHR1aFFnRmpqeTl2STNMNFB4dllxY3RDekFvZHdaWkZMa050aXZrbGZNNF82UnhZZ0FwRjdJc2Z6R1dyODZsT1ZXa3FCSG9fZl9wUjA?oc=5",
+   "date": "Sun, 22 Nov 2026 19:00:53 GMT",
+   "vu_le": "2026-11-22T19:10:44.579654+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "actualites AVGO 167.1TCIOPENS (977MS) - Turbo | DE000SX7JAT6 - Cotation EURONEXT ACCESS PARIS - Bourse Direct",
@@ -6489,69 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5",
    "date": "Sat, 21 Nov 2026 23:03:48 GMT",
    "vu_le": "2026-11-22T07:10:37.640902+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Swarmer, Inc (SWMR) stock price, news, quote and history - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mUlhua3VEZVB2OWRxMEdzM3FzSlBlOFQ0YXJJV0hhZjFSaFpKbV8zYndUWmp6dU9tV2d1WmFDSmNmcjk0bU03YzgtR3RUOGx6eGc?oc=5",
-   "date": "Sat, 21 Nov 2026 22:21:04 GMT",
-   "vu_le": "2026-11-22T07:10:37.640902+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic’s IPO caps explosive growth period for the AI startup - Jamaica Gleaner",
-   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzhMdmtla1UySzFfZnJnazdLeHotZnMwZW5vbW9FanF2YkZELXlvVVV0VnpGcGlmclJhMUFsWkdmb21oeVJCNDdqYnp2MExWMTEtbUYtejFwVGRsRVFLZE5Yd0F1a0FzWGZDcDl5YTRkSWM3eXlabjh4RWtUaF8xS1BFZ1lZMV9rTWRHYWRQMEhpb1hXQ3dYUUVhV3BiZWN6S3lTX1N0NWlYb2Rx?oc=5",
-   "date": "Sun, 22 Nov 2026 06:10:11 GMT",
-   "vu_le": "2026-11-22T07:00:36.562376+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic : une IPO à 93,5 milliards de dollars, puis un recul de 8,5 % en Bourse - business-times.fr",
-   "lien": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YY2NnbXV4Qy1KeTNBQWF1Z1hDaTdYaTJvTms3U0dRTXdUMTFZSTlhRVY5eTBvSHFwRXFVZnJJeEo4T0haeklFYmlFcWlYUGdadGg2WmJXRFJ0TXVHLXZzaGp1NDBmSFRhSFRrNA?oc=5",
-   "date": "Sun, 22 Nov 2026 06:47:00 GMT",
-   "vu_le": "2026-11-22T07:00:36.562376+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Swarmer, Inc (SWMR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NV21mYkxpMXFDNnBseHhXMzhNM3VFRno0T0JyNUNQdm9JTG9ZWG5aZVJNbmtFOF9zcXZNemFON1ZCbzBnNjVEaFFmdzhkQWNKMXc?oc=5",
-   "date": "Sat, 21 Nov 2026 23:04:30 GMT",
-   "vu_le": "2026-11-22T06:50:36.257559+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "JPMorgan Says Bitcoin Miners May Be Selling Reserves After BTC Falls $26K Below Mining Cost Estimate: Report - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTjdydHpwZ2N3bVNyQnhYYjZPX2NuTEdCVlhVdlR6aE9EeGlJNzNFd2JBbUdOQ014TG8xYjZyalRxNUwzdXN0OFhaY29jN1BUQ0p2RHJ1WkpTRi1zMF9lbGY2LW5SMl9jOGp0d0JYdGJxY0JvMkt5cHpyWXZKOXZqNDJrcUpaTjVtM1lyV20ydTlwNnRRMVdwZHcxUUhGZ1BIOWtIUFE3aVRUZG52YW9OTWxyZHcyQXBLeFppdGdqN0llOEtLMjFTS1o0SXg5ZGZVQ1F6RnkyTWdweFM5SVVqR3BleXAyM1hjanY3aUdQeHk1RGVEeVExTV9XQQ?oc=5",
-   "date": "Sun, 22 Nov 2026 06:12:00 GMT",
-   "vu_le": "2026-11-22T06:50:36.257559+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Palantir Calls Q2 \"Otherworldly\" and Raises Guidance — Will Jackson Hole Derail the AI Sovereignty Momentum? - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRUtic2RJVE1XTVltRXBkMHU0dUF1WkhhNkNoMS15Y2xlWXhReDFsU0dSRTZ4cmp3N3BGazBKSzc5ZkJ0Uy1qZ1lULUF6RVdyWms5R05LRHR2TE1tNFNqc2lPd3h0dk1BNVV4UjB5WFRpXzlYSEdzeDRReDR2UWxkVTQwaEJCdWZobUhsMk5mblhteUV3dVZhMUNsaW9UNGlpNmxKRDRFSng0NnNkVmloS3g4NzVMbEt5ME9WM3l4SEJYRVk3WjFfLXZtT1ROODkxN2JvNTIwaGxnZ19LeWVHVEFQU0czNDBkZ3FjS2doOVY0cEs5S2Q2TTFSRW9NUQ?oc=5",
-   "date": "Sat, 21 Nov 2026 17:11:07 GMT",
-   "vu_le": "2026-11-22T06:40:35.537023+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "3 US Brokerage Stocks Built For Higher Trading Volume - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWTZuOGRESE1qZkkxLTR5UW5XcW9MaWRfMFAwdEJzUkZmSi04ZFRhVE9QM0xwVXJLMTFCRDdqaFl0YnU5UzJZVUhEdDVxVHRlVm82SERFNjQwXzdQT3BwdFYtRm93bmxRMkdkUGdFZ255VU1ZTkl4bmdoU3FnbGhoZlhsWnRVcG5KZHgxcDhJZ09QcjBLa1VVYjBGdkVCLUdudzBZUHRoMkJyNDhjLW9SVDR5OUdCbjhVMUxQM19heTg2a0ZrUXVtSUsydVl1YmZDUnpEMVdxcVZIc3NJQm9RU1RYZk5WZ9IB6wFBVV95cUxNQXlkc000RlV4V3gzbWJFcllSQ0pEMGZmdThPajdldXVoYm9oeWJCZV9MS01xZXVxS0VfZXZzdU9zSFlwX3A1YlNsdGVvUDl5Zno0dTRsa25JZEM2WkkxQUxDa2hySlRNa08xcGRLUm1rRWtBVU5YbWxXVUZ5Z05oYlplVGlqQWJ6OTh0eFhlM1F1dWtJVHlYZm5ib2VJZ0JBMjc0WV9TaWtqTkJHMEFlSGdGakFrZk45cGZxSWlZZExvejhkYUd3NnllSUxIVE9QaU9QR09TMklsX1B3eGRSVGtBWWZtcXN1VmpB?oc=5",
-   "date": "Sun, 22 Nov 2026 06:16:51 GMT",
-   "vu_le": "2026-11-22T06:40:35.537023+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "India May Be The 'Anti-AI' Trade. UBS' Gautam Chhaocharia Names The Sectors That Could Benefit | Profit Exclusive - NDTV Profit",
-   "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb1dqM3hZRGtWWTgwVm41b3F6blRHelhrb1BsQ25VR0RBc0FPSDk3RXhfVjdreDVUb0tPVTc4bTQ1SlFyTzFXVXhFdjAyNFlVTVJHTXhTUUNQZm8yMERWMFJieTVsVXEyOHRxSzlzX2hiVEI0R3lMOTZTVTZIbnRoUmR2UGRkR3NtRzQ4NTVmbm5HMWlFcEg4SUF4ODVPS1ZMOFBDQ3hRekx2NGlKdzhzNG1EcTQ4M2FscU1vSW5DVTNOVEdDcEdEclQyVEg5eWZqQ2hmTndpZGI0bE1FbUM5aUtubThwWS13bjJHa0JWa0zSAfgBQVVfeXFMTUhSZTdlbUVIUUdJa0dXcHpucXhOY192aThkVDBlUXlhdjAzTFVSN3JQOEN3VGx4Y1hvdTJyRlpac1NLdjI4S0lnWEZEcV8zTlExcVVfLWVXa3RPZW5yczY5SWFKc24yNUx5d0xSdWNIbkUtTjh0RUVlLVN1MGtfU3FVaThhdlN3cXBMczAyNlF0YXQyeG5ERzBkMy00WEZzVTNOd3RDeVROT2tJX0R4UjVlU0tJblJsZTI0aFZxdlFtaVZ6Uk9yM1NjV181T2hNS2JjSWNkV3JPR1BjUzhIdVBNbGtXTHpzMVI3Smo4VTczd1o0TnV2Nnc?oc=5",
-   "date": "Sun, 22 Nov 2026 06:30:06 GMT",
-   "vu_le": "2026-11-22T06:40:35.537023+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Nifty Eyes 26,000: FIIs Pour Record Rs 1.12 Lakh Crore as Banking Rally Leads Markets - theopenpress.in",
-   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWVFpMUpyVDA0b3B6MkpKSXgyazhUbXpPTnRxNElhMmRyVVFzR09kSU92cldwQ3RnYTlISlVadkw2a05RUWM4dEZOdG14NVo4QXR2MjF0MC1Wdm5lY3hpNUh5S1RZOVE1WDQxM05tT0xPbTNobWFxVGRyRkIyUFNDREZ2R0dIZw?oc=5",
-   "date": "Sun, 22 Nov 2026 04:23:54 GMT",
-   "vu_le": "2026-11-22T06:40:35.537023+00:00"
   }
  ],
  "erreurs": []
