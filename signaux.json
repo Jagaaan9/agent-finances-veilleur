@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T07:10:37.640902+00:00",
+ "mis_a_jour": "2026-11-22T07:20:35.852813+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53910.59,
+   "prix": 53928.91,
    "devise": "EUR",
-   "jour_pct": -1.78,
-   "mois_pct": -25.6,
-   "volume": 22.04951354,
+   "jour_pct": -1.75,
+   "mois_pct": -25.58,
+   "volume": 22.55511457,
    "volume_relatif": 0.09,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Ross Gerber Tells Investors to 'Be Patient' on Anthropic Stock After Post-IPO Slide: ‘That Would Be a Gift’ - Benzinga",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTF6X0Z0VmU4eFBNWGh4NlhDX2VzODFSNXZtZVJHWEZ3NTI0ejYzamFWNDZSV240ZHhIVDhKdEVGakVpYUYxWFA4d19KYkZfQmM3RVBJR1hUajZpQTdLY1BaQ0Q0b29BYm5YUzd4RmhqdXVCRzBUQnIwa1FxNm1LeWgySWM5Q05rd2wzcVpYSWZWdU4zME9zMzRvMHZXQmlXU1RJWi1ab0lMNGN0VWNmcnVIQzFWaE0?oc=5",
+   "date": "Sun, 22 Nov 2026 07:07:47 GMT",
+   "vu_le": "2026-11-22T07:20:35.852813+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic’s IPO caps explosive growth period for the AI startup - Jamaica Gleaner",
+   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONVNIT3FUbks5VUMtaG1ZYlFLQ2tBLWlQZTY0SnhYV2IxaHQtcGVVYWFKU2o5Z3Nuc1VYSEhKcDdxNTU4eWNueWw1QktkVTJSOUg3VzdGTjhnaGJvek1DMi1yOXhIWWpLSWdPZHZfTVMzTlEycnpTVXk1anR5YjIxa0JlTU43YlZsQlVTdWxFM0JzS1RsNU1SUkpjZk1uWXhNdjEwbl9xZmRYeTQ?oc=5",
+   "date": "Sun, 22 Nov 2026 06:10:11 GMT",
+   "vu_le": "2026-11-22T07:20:35.852813+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic lève 93,5 milliards de dollars au Nasdaq - Brief IA",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWR6b0E2Z0FBdWJRblF6Q0k0SmEwT3ZYbkd6TE1pOUN0LUJSRkR4NVhublBDQ0xTRmdKMjQxVnhpY052Z2pXZVNsRTBVQUVNSTA4ZzZOUEdWeWxjZ1ItamhNY29MTXdJaThRQW5hUG5FTV9KYmpTM1d2M1BtMGViR2YwWVY0UDd1?oc=5",
+   "date": "Sun, 22 Nov 2026 07:07:01 GMT",
+   "vu_le": "2026-11-22T07:20:35.852813+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "3 Korea AI Chip Stocks Investors Are Watching As Rates Rise - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbHg2VFc3YjJnSkVBSW5MN1BfWGYwWE1kR212NllvSGU2SW0wV1oyQXRMakZqNXpHQzYyWHBjOUMzY0J3TS15U0xaVmVEVUd3MUVhNXI0cC1CSF96cGJXY2t2a2lYSlB5VkNmSlFBbDl0bzVDZzNVX0Fya3k0eHI2ZFRHd2tGZHdrZlBHS3pFNA?oc=5",
+   "date": "Sun, 22 Nov 2026 06:13:00 GMT",
+   "vu_le": "2026-11-22T07:20:35.852813+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Bristol City vs Wrexham: Total Goals - Coinbase",
+   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSk9JRlRsWVFMQ2I4U0gwaldoWEtPQTFBRHlkQzBudmdZZ3Z1V3dMbTZXUk1hY0tTb0g4bGFkOUhFWFk4T1Vkdll2LXJNZExsSjRhbnpoN18ycWdiUzhVbEkzQnRnVGNzNWVXMG9mNFJITkN5QUp4a0lYOEhqY3BYZFRsakJweWJSU0tubVBB?oc=5",
+   "date": "Sun, 22 Nov 2026 07:03:48 GMT",
+   "vu_le": "2026-11-22T07:20:35.852813+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Emerging Markets Face Risks Amid AI Investment Boom: Jefferies A - GuruFocus",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRlZzMzktVDFpLVZtdHJ4dFFjLW9LVUctYmJXZkkwRnB3Rk9tTTZlV3RScFM1VHdCXzc5UkdzMmFGWGpidnJLQ1B1SFlkc19lc0xPZ0FvZzNycW1pVzN6TWVsU252bEp4NXp6THJTNHRjZmJkZXlrWFZMNTZFS0tVdjlvQjJBR0pTQ3pyMzJaNU0xbjduQXotZkZrbHAxTXgxcnd3WDlCQjBIN0dJSGs3NUFkMm0?oc=5",
+   "date": "Sun, 22 Nov 2026 07:09:41 GMT",
+   "vu_le": "2026-11-22T07:20:35.852813+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "BTC price on Nov 21, 2026 at 11pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2xBYUZncnVOeEEtQ0YyYkdGYmFXWkd3RHJ3aVVCbVVMblZhNnJhMnBIbTRYR19qMl9FdXlrYTFNbVdOODZicDQ2b2NKY3JDaGl5VWtyamNOSTNrVjZzOFlhcVpRclZYVHBtSnBwelpTVnBZenU4WFlXN3AtN1JXd2NTYXM0QkdPdGN0cjE2OGNNdUU2SU50LWRsWDhoRnZNbGFVSU1aQkFkUndJcWhF?oc=5",
+   "date": "Sun, 22 Nov 2026 03:14:27 GMT",
+   "vu_le": "2026-11-22T07:20:35.852813+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "This Early Investor Sees 27-Fold Return In Anthropic IPO - Forbes Middle East",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95Q2F3VEtXeHRoTmFOMkVBYUF1eC1rRllmczgtbU5yV1dmZDY5OHN3eE9XRTFuZXFINVZpRDJvWXpOdHhkaHRYd0FnbWtQTFVKRWQ0WG5OcTdyQUtWQUdHSDRhTnZnaVFvcF8xVmxZT0RieGlWc1RlY1NNSjFmejA?oc=5",
    "date": "Sat, 21 Nov 2026 17:49:58 GMT",
    "vu_le": "2026-11-21T17:50:35.833266+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "AMUNDI Cours Action AMUN, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aNk9jNWFDR3JXdHhEUlpXdEJMbWJKckYwSEpwak5uT0Zhek44ZGV4LXY2U0IwR3lENjFWOWF4dU5jdXRaNmNaZHdxUlZmcmJYczM4?oc=5",
-   "date": "Sat, 21 Nov 2026 11:53:10 GMT",
-   "vu_le": "2026-11-21T17:40:36.513392+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Le CAC 40 sous 8000 pts, -5% en 1 semaine : Céder à la panique ou profiter des soldes? - Investing.com France",
-   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPazhsZmdMcFlPNnFEYkJFeUdseXpsbnRxM2M0S0g3MU9Fc0RpdGttWl9qamVfRFZUY1l1MWQtQVNkY3NpN3lhZWZEREJaV3RsVHozOGNvaUgtUGRuTGhUM1VxcnlYM2JRcVplbjRkcGd1bGRMSk9tZmRHd1BGTzBIakNJT1FoZTZrRlNXUEpXZDdqQW0wOWE5TlBLdDZlUlpyZVY0V2hqQVpJQnpLTGlOeEJHYjljUUptelU2T0RkcWVnVTJvdzVKd3hKUGRJR3U4NXpB?oc=5",
-   "date": "Sat, 21 Nov 2026 04:18:00 GMT",
-   "vu_le": "2026-11-21T17:40:36.513392+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Prévisions Bitcoin et or : le BTC et le XAU poursuivent leur repli, pénalisés par les anticipations d’une Fed restrictive - www.tmgm.com",
-   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRGhkWjRBSGFhbldiM1NDOGc2TDYtcFFnRGc5cFp3TGxmeXBsRDIxbEFOdTdoRjl6Z3lfQTM2SmZmMGdWV3BZSVpYT0pnZ1RkUkJicE5sYnR6eGdfVzFYZVpkSWhvTGVHNWx6a0VFbEp6UHV3QXRNSjg4bmxuTVVRMU9xcGhUX0wweVlQUEpDWFRtUHdSU2NPN3F6Z1BMU2k1UFJjd1NnVG1zN3R5c2p5X253aFpGX2NZNUVJTHN6VVV6TFBILVdrSlJWVGZfZHVKUG42a1AtdG15cElKaEU3ZTh4QQ?oc=5",
-   "date": "Sat, 21 Nov 2026 01:24:28 GMT",
-   "vu_le": "2026-11-21T17:40:36.513392+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Le prix de l'or chute de 9,4% en une semaine, au plus bas depuis 14 mois - IDNFinancials",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOckpqaXJGaUQwNmRWcXBSYUVoSEJHZmFiNzhGVDBaTTgzV3hMc2R0Y2dxSXZDaXB4TjhYYTVpMktrVEZMT0Q1c0dqX1A5UDJaT0N6NTBuSGpVMEdWVmpPNi1OY2pST01KOWFIODlqbnQ2Y3NqaXVhRXRvdjJxbW9wWkEwU3JCcEllNTBwc2JNRHF1alRNb3dUVG5UU2dTWWZCeVRSSWR2WUZvNjhkQ2dDRlllOA?oc=5",
-   "date": "Sat, 21 Nov 2026 08:30:00 GMT",
-   "vu_le": "2026-11-21T17:40:36.513392+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5",
-   "date": "Sat, 21 Nov 2026 13:00:01 GMT",
-   "vu_le": "2026-11-21T17:20:35.765706+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Bourse : après l'effondrement, le pire est ailleurs - Le Revenu",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN3NwN2lRSjZjaW1zZFAtWUV3TmFBSGlWMnkzUllrZGdiNDlFVExHT2Z5LWdfQ1BaN1kycUNHWVpJcVQ1eDRWRlhLY3ZkVTFFVFNDODFORU1PZ1ByQV9oZmctRHctYTFqbUR5RjR2OEREYnVOMjR4LUNOTEJSbngyQzZDcDRIeVFxNDlRbXpFX2llNHYzM1ZRUjR2Zw?oc=5",
-   "date": "Sat, 21 Nov 2026 05:39:00 GMT",
-   "vu_le": "2026-11-21T17:20:35.765706+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Technology at Work, Heritage for All: The \"Chinese Approach\" to Safeguarding the Leshan Giant Buddha - The Detroit News",
-   "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTWFqQUV2Z1ZGYnZFT3BKcWNrcHgzZW1scGtUb1N1UkY1VHBQYjJ4Ml9OTDhTdjdFRWtuRmxtMlc2TWNFUF8tM01oMFI3dEl1TmdZQkJfSXNNcDBiQzE4X0kxcFFueEV5RUNkaE9TX3JvZDNfLVFjSUxNcE85bi1NRnk3UjVSWTFBMUJxaF8yWnM1WHlSNmM2cHNVNTNlR2JJRngwS1U5bU5rSFczSHllQ0ZHS010Y1ZwczFfQTJ6UDhvcUdHZnZGZlVkYlpIelJWT2JOMDF5aFVjSGszLTU5cjZRQWxFbzA?oc=5",
-   "date": "Sat, 21 Nov 2026 11:17:04 GMT",
-   "vu_le": "2026-11-21T17:20:35.765706+00:00"
   }
  ],
  "erreurs": []
