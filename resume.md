@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54087.95 EUR, jour -1.46 %, mois -25.36 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54120.86 EUR, jour -1.4 %, mois -25.31 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,10 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Rachats et fusions] JTAI Stock Sees Sharp Swing – What’s The Latest On The flyExclusive Agreement? - Stocktwits
+- [Résultats d'entreprises] UnitedHealth Beats Q1 2026 and Raises Guidance - Is UNH Stock a Buy After Jumping 8%? - TradingKey
+- [Résultats d'entreprises] Cupid's (NSE:CUPID) Performance Raises Some Questions - Simply Wall St
+- [Crypto] CleanSpark Stock Slides On Bitcoin Weakness Ahead Of Earnings - Yahoo Finance
 - [Intelligence artificielle] SpaceX Lenders Want Nvidia Chips Kept on Earth: $1.5B Risk - shattered.io
 - [Pays émergents] Weekly Commentary: Crisis Dynamics Unleashed - Seeking Alpha
 - [Bourse de Paris et Europe] FORVIA Cours Action FRVIA, Cotation Bourse Euronext Paris - Boursorama
@@ -456,7 +460,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] BTC price on Nov 21, 2026 at 6pm EST Crypto Prediction Market - Robinhood
 - [Crypto] 3 Altcoins Defy the Market Crash as Bitcoin Hits a Two-Year Low - Cryptonews.net
 - [Crypto] XRP price at Nov 21, 2026 at 6pm EST Crypto Prediction Market - Robinhood
-- [Anthropic (FR)] Intelligence artificielle : les secrets de l'entrée en bourse record d'Anthropic - CANAL+
-- [Bourse de Paris et Europe] CAC 40 : −5,27 % cette semaine, que faire lundi ? - https://www.leconseilpatrimoine.fr/
-- [Banques centrales et taux] [XAUUSD] D1 : Une zone de demande à 3 400 avant 3 253 ? pour OANDA:XAUUSD par BMR_MasteTrade - TradingView
-- [Banques centrales et taux] Prévisions EUR/USD : la paire se renforce au-dessus de 1,0950, mais reste s
+- [Anthropic (FR)] Intelligence artifici

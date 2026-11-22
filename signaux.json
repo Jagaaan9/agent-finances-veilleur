@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T03:20:35.823006+00:00",
+ "mis_a_jour": "2026-11-22T03:30:35.468454+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54087.95,
+   "prix": 54120.86,
    "devise": "EUR",
-   "jour_pct": -1.46,
-   "mois_pct": -25.36,
-   "volume": 10.87241734,
-   "volume_relatif": 0.04,
+   "jour_pct": -1.4,
+   "mois_pct": -25.31,
+   "volume": 10.96679911,
+   "volume_relatif": 0.05,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "JTAI Stock Sees Sharp Swing – What’s The Latest On The flyExclusive Agreement? - Stocktwits",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjdXdzRwd1YtVDFiOVFtZ2JQbkM1aTZFYk13cmRJR2FrRzlPWE13WF93bGsyVGhPQ1VhQXJjcXN6d3pMc1NNR2F4aC1tUFdsRVlpVEFwNkVGbWVLLXBaRm5wbjdIU0NmYXVTUDliWFlkaUNJT3F2VmRXWnU4YjhMQjk5OTRpNGRRWkNmTW5rWkMxQ0N1ajVfcW9pRlRGbXhNYndGLW5kZ05DZ1RRamRjWHl0RQ?oc=5",
+   "date": "Sat, 21 Nov 2026 13:15:23 GMT",
+   "vu_le": "2026-11-22T03:30:35.468454+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "UnitedHealth Beats Q1 2026 and Raises Guidance - Is UNH Stock a Buy After Jumping 8%? - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeVh0WFN6TXVzUmhmdTNvWGdpOXJxdmFLUml1V09vZi1zSHZTMDduOUhZUXdWc2h1d3U5QnJUZDl4aHJqZXplcndqZnlIYmlvb0x0eVdSaHFEN1FrcENkV0s3N3BYM0g2NndDUmtJeVZnZnlOcDh6NXJXLVB0ZE1UVjZYLXBXRUt1WXAxQ1FMY1YwbmVpMWhkaV8wb2swaGs2VFVKekkySHVyT2hKYzNrcnJ2X3UwZEE?oc=5",
+   "date": "Sat, 21 Nov 2026 14:30:04 GMT",
+   "vu_le": "2026-11-22T03:30:35.468454+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Cupid's (NSE:CUPID) Performance Raises Some Questions - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclEybk1kVUhheGpMczNka0Y1LWRHWlZJYXg4YjBURjdNUGJPeTJIRldNbTJjVk1mSGxOZ2U0bGx5RWc5U2xQaDNDTDhRSldhS1BhWHhjU2FidHhDZ3FZakNRY2R6N1QtVWJyWVlMWEFKYTlaenNubHVTVjlqS2lTZ1VjcnBrYU1aODlmREREYzlEYWFtS2pkOFpWM0Z2RnV4U200NGtuMTFYWVh5VENDM2YwX1lES29OaFlKakRXYXfSAcABQVVfeXFMTXJRMm5NZFVIYXhqTHMzZGtGNS1kR1pWSWF4OGIwVEY3TVBiT3kySEZXTW0yY1ZNZkhsTmdlNGxseUVnOVNsUGgzQ0w4UUpXYUtQYVh4Y1NhYnR4Q2dxWWpDUWNkejdULVVicllZTFhBSmE5Wnpzbmx1U1Y5aktpU2dVY3Jwa2FNWjg5ZkRERGM5RGFhbUtqZDhaVjNGdkZ1eFNtNDRrbjExWFlYeVRDQzNmMF9ZREtvTmhZSmpEV2F3?oc=5",
+   "date": "Sun, 22 Nov 2026 02:02:10 GMT",
+   "vu_le": "2026-11-22T03:30:35.468454+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "CleanSpark Stock Slides On Bitcoin Weakness Ahead Of Earnings - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUVYbklyU0c2Z3NROG94WVZvWERNNGRKRTF1YUVKN05GXzhoSThXbEMzd01GemFOa1VRMlZRbmRQS0poMkh0c3h2Q3FzN19SMVQ0MmxiRktab0tJRnEwSUkzMDNya3JsSHRJYVo2amtUYlIyVGZBSnU3VWk3NEFXcGtJTlo2WmEtRW1nbi15bHRuUzZkVEh6akpUS09ZcGMyU0tUX2RtVFY?oc=5",
+   "date": "Sun, 22 Nov 2026 03:10:00 GMT",
+   "vu_le": "2026-11-22T03:30:35.468454+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "SpaceX Lenders Want Nvidia Chips Kept on Earth: $1.5B Risk - shattered.io",
@@ -6523,34 +6551,6 @@
    "titre": "Goldman Sachs upgrades Chinese H-shares to overweight, forecasts a 23% gain for MSCI China next year - MLQ.ai",
    "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ215S1l2RjMyT1dhcG1ZenNsOXJvT3JQNlpPQ1dZcWhHOU1FZTlJaEpCdUJFUml0ZzhycmVxb3ZsLTZua2JLREZBVGh1eVRXX2dUc0l1XzZ0LUlMdzJuczNZVkpLTEUtVzR0Vkp3QkdpUEkxN2xtVjFkWjJDSXJXWkFydGc2UXFCeDNQOGtxb3JtNUM1RXo1OE1SV3RiZy1MUEl3a0VLZTgtT29PejNpRWU4RWhhMUNtLU5r?oc=5",
    "date": "Sat, 21 Nov 2026 14:36:23 GMT",
-   "vu_le": "2026-11-21T15:00:35.312541+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Hang Seng TECH Index (HSTECH.HK) charts, data and news - Yahoo Finance Singapore",
-   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YcWtQbXloeThKZ245azZ5cnhpczBhOWd4OWUtUjJRbm54MlJFVWhqX2NYS21CWFV4eXZUdW1wbVpVbjlUNkU3NUdqRm1XdzBRNUpjMmRsOXQ?oc=5",
-   "date": "Sat, 21 Nov 2026 11:17:13 GMT",
-   "vu_le": "2026-11-21T15:00:35.312541+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "S&P 500 and Dow enter correction territory, Nasdaq loses 2026 gains as Anthropic dives - New York Post",
-   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR0ptRHNPWHdjV0g3ODJVTXBDeUs2VkRUSTUtVHpUQ01pVVBHNE0tNi1HT2o0MVNhb1hwbGNZbkZ3ZkFEQTlWdmdqaXpaWTVsTHpfS21BV1lCV2dFbjFCUERwQVhTcWNDZFBycEJudVlIU1UtbzNRaTZJZDhXR2Z3Qm10Vm8yQkljV3VGN0ptSXpUTzVjbmhJbTRDZTZwT0psSGpSX0dLMDhzeDVNeW14am0zUVdmT0NhdFVHX0VMVkFpZw?oc=5",
-   "date": "Fri, 20 Nov 2026 21:41:02 GMT",
-   "vu_le": "2026-11-21T15:00:35.312541+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "At about 91% above its unaffected July 20 closing price, Utz Brands (UTZ) closes its cash merger. - Stock Titan",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTGFGT2hoSEgySGpPSWxFRk9GWEtxYkl2WWNHYXZvbl8zdVBQejNPYnlqLXh5b0lfNlgwNjRnNHk3dzJjUm9TelJjcTJyUFVJcFFpYWJIa2lpYmJwd3VUUGdkeVRhYVgxaWVEUXktNWlHcEFXY0g2QXAzeHFIMEpiSEtoZWx4VHoyUXVYenQ4NEpLTWJJT2Y4LU1iN0JLck41ZWYxMw?oc=5",
-   "date": "Fri, 20 Nov 2026 21:11:51 GMT",
-   "vu_le": "2026-11-21T15:00:35.312541+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Sell Intel: Forward Guidance And Downsizing Actions Will Not Quickly Reverse - Seeking Alpha",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdGZCOVhPSjJ3ZU5wM2VUS2xDRlRVLUxBWmNhYlBpNDg5MTJ0bGdfNjVWYnFQSF9yS3pMVDNFZl9vVG9FQTJMZG5zbThFNmhDM2tYWVhwQmVRbktpMWFVdHVaOG82M1RvVVcxdkpfVGhkUkFFR2g2em80bEhlZFFUazF6Mm9DQi1BS2pGa2VkV1BXdmVNdDJtRjhEUUhXMl9QWXZwYjZiMVFfUm12UWduZC1jY2xYVkk?oc=5",
-   "date": "Sat, 21 Nov 2026 13:53:58 GMT",
    "vu_le": "2026-11-21T15:00:35.312541+00:00"
   }
  ],
