@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T15:00:36.365848+00:00",
+ "mis_a_jour": "2026-11-22T15:10:37.150515+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55567.66,
+   "prix": 55569.35,
    "devise": "EUR",
    "jour_pct": 1.24,
    "mois_pct": -23.32,
-   "volume": 99.76276525,
-   "volume_relatif": 0.41,
+   "volume": 102.63575262,
+   "volume_relatif": 0.42,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia's AI Demand, Alibaba's Chip Pressure and More: This Week in Tech - Benzinga",
+   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX3hjMW9mc2hoVVBHWmxhVXRmNW01V1BpM0VFRTNJYlhhN3VXby1JVWR4dHhjeEVGMm1EbWZPM3RPQkVxbXo4WHByYmNkQmdBUUJtZFhSZ0pITnVSYWFUaEhkQWlmWmg4cWNmdXBxMmY1cXFNMUFMdDJNQUN0NnQ1cE9iYTM2VkN5azBJ?oc=5",
+   "date": "Sun, 22 Nov 2026 13:49:56 GMT",
+   "vu_le": "2026-11-22T15:10:37.150515+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Is Nvidia a Buy at $125? Here's My Honest Take - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDZaaUZsVFpXc0FOWV9FSjVycWp4SGFmX1RwVEhzQXFGVW0yaEdFMDJ4RXNxMktRLVNxRGlOSV9tWUg5QnktRE1EcVU3bHMzMUVmZGszMzFpdE1vRHNzMHR1bXZIRmZKSzFMWHViZmlxQS1kLWpLaEtVemMwUXZwRHh0Nm51cUlsRktuTndRZTg2TUlUVDM1RUFLUkNhLUdtWUJIU1V6RW11d0FTd2dfNGVvNUk3dERtc1RLek1IWkF2Mi1wVUh3SGNjNA?oc=5",
+   "date": "Sun, 22 Nov 2026 14:52:36 GMT",
+   "vu_le": "2026-11-22T15:10:37.150515+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Leopalace21 And 2 Other Japanese Hidden Gem Stocks - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaU5fbmJPUkNWbVhLdS1McFlQbmktNWhRd1hjSG0zY2NLTVNwd2E5WE5sOXVjZmdjQ3F3T3c4Z0tqc0tuM2xWSEpaM0M0eVlENDBMWXhEYVYzU0VOLTdsVDJWdGZSdmMzd19TdGE1NnBvRUF3aVlVbkNoUFlwMkJtMHkxcGgtSXZMWF9zQ2VsUThqZWM1UUZmMVhIVWZHOHphaFE?oc=5",
+   "date": "Sun, 22 Nov 2026 14:07:02 GMT",
+   "vu_le": "2026-11-22T15:10:37.150515+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Codan (ASX:CDA) Shares Look Overvalued After a Very Large 3 Year Run - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdFFPTThlZHRuSklaLTVjREVDUUJkWEw5Q2sxb0tqSzctU0xscDB5Wl92cE9qWUNMVFJWbXVXeVNsVl9LQmF4Y2Vmb1N5aTVsdVdQVlBTZElpZ1RqVEUzc2xyR0w1dy1RNTlOUVNiX2NMOUhqb3B6dWg0aExpX0RISGdvVHBBTVRsME50T20wc3RzNk9GYURCT1pEYU5ZdElPdE5GN2h5QjUzTUNnR19kWGQwNVBFaXo0YXMyOFd0NDbSAcYBQVVfeXFMTjRfUmFzTm1wRTV3T25RcW5LcGFxaXdpanVBa3VrSnR1WF92ek1vZFlEellHeDkzR1RWbHBWWEFyeTZ3cEVVbDNFR083ek9aTW5CZ2xCejF3NjVvVmFTYnQzVnpLQm14dGdydE54RmY4Vy1jUk5DMzhRYW5ZbEI3WERGYjY3aFVMWEM2c0c2MW1nc3JQWDhwaU9PNmV6R1VqM0NxZXdCM1lQTGpDYnd2NWoyYndPT0RjYUhIVy11ZFBCd0lDSFB3?oc=5",
+   "date": "Sun, 22 Nov 2026 13:08:56 GMT",
+   "vu_le": "2026-11-22T15:10:37.150515+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "AI debt fears mount: why cash and defensive stocks are back in favor - TheStreet",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQU9pN0NodTNFNHk4MUczVVBTY3BNSlQxeGpKdmVjanhwRWlKR20zcG4tQ2tmRnVLMVRJYXhOcjF1Z1pQLVQ1ZGVpaFBVRDV1M1Izc3J0cW9raERCdENLRjRhOW1fMmpKdWM2dzhfNk5GaWc4VVVKa1Bha2Y5cDhYQVlyMVpUbndUT0Z2RG1MSVBLQnJXQ1ozTjFaUGhMMG04NFlEaXFn?oc=5",
+   "date": "Sun, 22 Nov 2026 15:00:00 GMT",
+   "vu_le": "2026-11-22T15:10:37.150515+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "A 10% drop for the stock market is unnerving, but it's not that unusual - Spectrum News",
@@ -6516,41 +6551,6 @@
    "titre": "Tech sell-off sends Wall Street into correction. Goldman sees further pain ahead - Business Post",
    "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ011dnhvQ3dxS2drQ01xSUxScUR3N2dNaWQ0elh5bjhjVGtGOFQ5aHZ6eWtUcXBsUzQ1QzZINHNvMVBEdmQ2LTVnU0swSEcxakg2QWpfa0VMSkZ1bTJYZXdYem1GZVZLNkhqQUVJRjlXNDVMekJCM016eThubjZscFVyWTFoalZPaUhwN1NPODdmek9ZeGxDNFZwazcyTUc3UDZjblpWYnJqSnlNMnB2bzZtU0xJUjA?oc=5",
    "date": "Sun, 22 Nov 2026 02:54:56 GMT",
-   "vu_le": "2026-11-22T03:00:38.616480+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Nvidia Rival Cerebras Jumps Over 19% in Overnight Trading as Microsoft Reportedly Becomes New Customer, Raises Full-Year Revenue Guidance Cap to $960 Million - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd2Iyek9KSjkyZGtCUmxSY1ZRMUNfYVMyNHlCdW9YV1ZIbi1LeHc3ZTh2YkhKNEdNNlFXbFpURkJvVGNlMXVvM3F2T0Z1b1lOcVBVNWh1YjJqVUNEY1JCbmZwQnUtTDNlbkxZVnVsbGEzVHQyYlZYWHNDTnZHN1AyY2YwVEtoLUhTeTVGVjVuemlLdlpIVmF2ZUNBUkdlSU5uVGI0dEhIUVNCemRJSm9EaUZOdUN4VnZUc0dNS0JaYjFNUjAydllCYUFkeWdjNXM?oc=5",
-   "date": "Sun, 22 Nov 2026 00:16:58 GMT",
-   "vu_le": "2026-11-22T03:00:38.616480+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "AMD Beat Revenue at $11.5B and Data Center +107% — But the Stock Just Broke $476 Support - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV3ZFcXFwS28tbkhsdGFscXlhbjZoQjY1TE9Fbk1mTU5lNGJWQUtvTjZmTHRtdTAwLWN6NHBocmN4WGlKNlhuU0UxaGF4b1BTMFRoVzRwdTVqckZyT2c2TlF1ZkJLNl8xOVlfajBCZUV1Y2lKYlBPUVBHaXZXUjJpWURwcDBZR0Z3VERmeDRERHRNR1VFOXU1ZmwxX2FsLTBEdHV6US04RDJXYUF3SWluYXAwelFwUlpwUXNJTkxOSFRSZmREU1lDOFV5TTYzUlVCM3k2bmlsbw?oc=5",
-   "date": "Sat, 21 Nov 2026 13:29:13 GMT",
-   "vu_le": "2026-11-22T03:00:38.616480+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Cupid's (NSE:CUPID) Performance Raises Some Questions - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMm1oZVFJVzJJTVhqdDA2X2t4YXN6MWlwcTVNQ2prOWFFZHNtUjVGQkw4ejQwV1hzNHh5T2IxWWluQTlZZkFUc3UyTHZrU21MYTFwQWhpVWFqcTY5ZnQ3ako5VnFfcnB3WU44MmVEY0tqSlFGenlOUHplX2d2a040YWV1aTNOakN6aFpwa3FVM3hSYmtLcXBuSnl5Wjc1WGtpLWlUWkF2WFhSS0hTQk96TVVuRHhlT3JadmZV0gHAAUFVX3lxTE1yUTJuTWRVSGF4akxzM2RrRjUtZEdaVklheDhiMFRGN01QYk95MkhGV01tMmNWTWZIbE5nZTRsbHlFZzlTbFBoM0NMOFFKV2FLUGFYeGNTYWJ0eENncVlqQ1FjZHo3VC1VYnJZWUxYQUphOVp6c25sdVNWOWpLaVNnVWNycGthTVo4OWZERERjOURhYW1LamQ4WlYzRnZGdXhTbTQ0a24xMVhZWHlUQ0MzZjBfWURLb05oWUpqRFdhdw?oc=5",
-   "date": "Sun, 22 Nov 2026 02:02:10 GMT",
-   "vu_le": "2026-11-22T03:00:38.616480+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Renk Retreats to 12-Month Low as European Defence Stocks Wobble - ad-hoc-news.de",
-   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaHRmZ0tMbEhfZkxseGRuOU5YR2VhUDR2dmJQR3lVYzBQUzdIaTZPUnVOM0RTSHVSczVXMDJUSTZxT3Y2cGdQanFXYzdLRkpDaW5wbFkwWUZKTEhmR1p5WjR0aVg3dEUtSnZxeFZjaWVzOUdnV3dRbHBfckd5RUNMMkxmTnFlWFJhWldoSW85Z2VjRnRfQVBvYzU1Zm8wZEkxQWYzQ3VjTGs5N3N3U083RjROc3UxMUh3dDJVTEZBbjR4dEZ0V1FIc3JVczc3Q0w3?oc=5",
-   "date": "Sun, 22 Nov 2026 02:51:04 GMT",
-   "vu_le": "2026-11-22T03:00:38.616480+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Anthony Scaramucci Recommends 1%-2% Bitcoin Allocation for Investors - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZEc0NHFyRUw5Nm1YTlVJMzc4WlZGSTRpODBpcWo1RmFubkpEeXRiQ0NlTjhTZWJ0ajJXZkg4MHdTd1JIVU9odVMxWFAxbS1jcGs2TUxXbm0wdTVuWnQxVXBycldsQkhMVWFqRzFacEtSV1FRLUJ4aVRIZHRXSklETUQzYm0yMzJIc3dKRG9FbDlNZTlPWkFhckxCaFdxSHhl?oc=5",
-   "date": "Sun, 22 Nov 2026 02:55:37 GMT",
    "vu_le": "2026-11-22T03:00:38.616480+00:00"
   }
  ],
