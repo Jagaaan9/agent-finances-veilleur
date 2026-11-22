@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T11:50:35.756991+00:00",
+ "mis_a_jour": "2026-11-22T12:00:38.944348+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55623.44,
+   "prix": 55696.63,
    "devise": "EUR",
-   "jour_pct": 1.34,
-   "mois_pct": -23.24,
-   "volume": 65.21587433,
+   "jour_pct": 1.47,
+   "mois_pct": -23.16,
+   "volume": 66.04714405,
    "volume_relatif": 0.27,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "S&P500 Forecast: SPX jumps ahead of Anthropic’s record IPO - StoneX",
+   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZi1nc0ZuX1FtRkZBblBabWtyaUQtZnBwczJFUkRrYThXbUt4amtjaV81NUlLdE9nSm56ZDBEWlFRVkRma0tCV2xnSGVlNlIwTC0zVG9MbEdkUFlKU29ZaTh5NUwzQVRLcFNIVndVMDhPRkR0YXVMWEVySDRFOVE2MGJPSXVYZUQxSFhtWFZTNFE0YjhaaEpucjdFeG9naV9GcF94REtZREs0ZFU?oc=5",
+   "date": "Sun, 22 Nov 2026 08:58:32 GMT",
+   "vu_le": "2026-11-22T12:00:38.944348+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic a cherché à limiter les équipes chargées de son introduction en bourse et leur travail avec des concurrents - Unite.AI",
+   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbFVtb3YyMVVGTW5ncEdoLVJ2bVp1NnRTSlNLUW9Wbm5oaEQ4alFDcXZFamI0bHFVUGRybVI4RVpKTFJrTkZ4QUh4dHVudWVRSnlwNGF1ZGJpdkdjNDdRY3NFd0NubzNsM2RJd3pmMjk5dHdKM0I5NUhqVmxaU0VpdUJLSkNGLUZJamtwT21yenk?oc=5",
+   "date": "Sun, 22 Nov 2026 11:35:03 GMT",
+   "vu_le": "2026-11-22T12:00:38.944348+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les ménages enchaînent sept mois d’affilée en augmentant leur investissement en bons du Trésor en septembre - Demócrata",
+   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRUV2T1NvZmRZYzVMMm9NTVpwQUZZTGN3VW81OFNfcTgtVlVoMjdRcVpNeGlGR3oxVzc4ZGtnYU5JXzAyYkkwcTdHdG5sYy1QUUtOOHA1ZWJ5QWRHalhPMXdTXzFEal9FbHVkYzMtcmRhT2NzcTNEamZfd2VLRTRmRlp0LU1BWjVNVXd5NzFCdEljM3ZMckhGTzJfTlNiLXRpMFowVUFVRFJVZ2NQX2YzNVkyWUdIU2h5d2w0RTlFZnhNcW11OWltYWxMaTNPWkV1emlYSVNiN0c2YVpxNzhPVkpNMNIB4wFBVV95cUxNRUV2T1NvZmRZYzVMMm9NTVpwQUZZTGN3VW81OFNfcTgtVlVoMjdRcVpNeGlGR3oxVzc4ZGtnYU5JXzAyYkkwcTdHdG5sYy1QUUtOOHA1ZWJ5QWRHalhPMXdTXzFEal9FbHVkYzMtcmRhT2NzcTNEamZfd2VLRTRmRlp0LU1BWjVNVXd5NzFCdEljM3ZMckhGTzJfTlNiLXRpMFowVUFVRFJVZ2NQX2YzNVkyWUdIU2h5d2w0RTlFZnhNcW11OWltYWxMaTNPWkV1emlYSVNiN0c2YVpxNzhPVkpNMA?oc=5",
+   "date": "Sun, 22 Nov 2026 08:48:32 GMT",
+   "vu_le": "2026-11-22T12:00:38.944348+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Chinese tech stocks, once seen as a potential challenger to the United States’ dominance in artifici.. - 매일경제",
+   "lien": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UdzJCRGRWRkNTbUhPLW5YbEU0aGwtVE5sZ3E5QjViYVZLbDEyUUNOX1NGZkI1OHB2bi1VeDVyWDllUU5MdWd6WkF0QWdoeTA?oc=5",
+   "date": "Sun, 22 Nov 2026 11:52:49 GMT",
+   "vu_le": "2026-11-22T12:00:38.944348+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall - The Guardian",
+   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeTg0TUU2RXhMMFFJaGNQRWsyUDJTN2lDeXBuaDRXM1N6TGdrRWxweklhdkZHc0F5b2JwcUlvSGVCUDYyandObUZGRWhzZnVhSmRqU3R1bTZVQmhOWno4R2U2ekJwZUFDdHRCX2ltNlMwMVVHY2VaQzJVYm9OZm9BVg?oc=5",
+   "date": "Sun, 22 Nov 2026 11:00:00 GMT",
+   "vu_le": "2026-11-22T12:00:38.944348+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Do Indian markets have more steam left after 13% rally? Morgan Stanley forecasts 18% earnings CAGR ahead - Upstox",
+   "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObkttMWlXeFBCdVdqZ0RFSHNqS2lReENYZnVmbnEySHZkYUhzVlFnNlRzT0lZTm1MYXN6RjVaZTFZVXhZNEpaSU9pb2VBS0pFTDM5dFZkZEV1ZkYwSXlVUWtGRXNOYldoY3BGSFlTbTNhN3Jva0N3TmltcFl4MjRJUnBQdmNnaGZNVGljbVdPcFBSTktlenJSMWNhNllHYzdzV1FyZVgzY3pFMk1BWXFKeC1sa05pbWt3a3hucWN0cTB2SDNwZWNQcTM5a0JOTEIxMXRQY1hOZU9tRHpQbkF5MnFpOHZzZWUzMlpCalNLVUI3QQ?oc=5",
+   "date": "Sun, 22 Nov 2026 11:48:54 GMT",
+   "vu_le": "2026-11-22T12:00:38.944348+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Gold in a free fall: Why November 25, December 4 and 9 could be crucial for prices - Upstox",
+   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ2h4RkRfeDhIVmNKcEl3MHR4ZzhLWkxtRVZNVkNWQ3VuOE9WZnN3dWY3aTVaUW43T2F6VVNnakUzaDZUN1d3OElCck5OdGV5QjA0TmczOUpBcEh3cktWVTY5VUROR0xvTDktakZJaGlsakdST1JxdXgzWFBrUi0zQVJEQ3ZCQkhHYWJfZjh5MndHbEV4eFpIWUc0NGpwaUNnQjRyNVlKVlF4RmRUTkI3cWVpa3Q0aHZLaUlibmlEMERSWHIzTXNOTWtVR1FpcHVlTGcyRFpRVEU0c1R5?oc=5",
+   "date": "Sun, 22 Nov 2026 04:28:17 GMT",
+   "vu_le": "2026-11-22T12:00:38.944348+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Did Anthropic and its bankers get a key call wrong after IPO? - Financial Times",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTFTaEtqLXhoMWV1OHRCVHJQRk9YN3Jud0h3T1ZHMXVRN0t1SC1JaW8wVWY5a2p2RDRBZTRYX21sbVgzcXVlMkpsS2s4UmlIanJLSU95QXNzdXRHQ1RmSDgzc29JazdJVHg2ZGJGQk9hUUFxYVZNUGZ4SmVoZXh1d1dEZW5wSy1mUWtkZHFRXzVNVmJZeXQ1WEpNVDdRTTYyQThPZA?oc=5",
    "date": "Sat, 21 Nov 2026 22:02:00 GMT",
    "vu_le": "2026-11-21T23:00:35.567696+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "FDI Screening Sweden: 2026 Guide for M&A Deals - Global Advisory Experts",
-   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTy1aVHlSbXhjSXhaTktaTm91QnZ0d1ZEdzNHVnB4VHBZSDhuWGhqbjVYSG05cGczRThHNFNKckVTQkh4cldKNFhzZ1NmUy1jbmIxVXQ4TzhLZ0RuQjctc3dtUWZBNG90aE03RFpuQnhCTzNrSXdrbjJkWUl6SnFYVGQyZnFDb3FRdjlB?oc=5",
-   "date": "Sat, 21 Nov 2026 13:16:46 GMT",
-   "vu_le": "2026-11-21T23:00:35.567696+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Solana ETFs Defy Wall Street’s Big Crypto Sell-Off - BeInCrypto",
-   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PNElVSkdIaWJoT0M2b3FvSGljZGZLVlVURnBCVnc2ZWhsLWtLX0hyLUhZcmFKekwwVHBOWXZ2SnZiLVlNQ3BYU0JZNDNvd25mTWcwZU54TTZJNWtOVXJhN2N6VzBLZGtSb01mMXduZzhlbjA?oc=5",
-   "date": "Sat, 21 Nov 2026 21:24:25 GMT",
-   "vu_le": "2026-11-21T23:00:35.567696+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "ETH price on Nov 21, 2026 at 6pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXRUYTdIY0hPTDFZVzVRQzRoSUZuZGVlY0g4eUtZU19FT0Y5NW5WVWx0Z3FyTl9rTnZRODVnOXJEaTJKRll2bXpzXzQ1b2E0Nkk3Z09zbXYwZmVhZnhuaUpOZ0NlRUFYZ0FVSDZwOGJqYnc5VUl4NDhIYlRXaGdhRWZlXzNaZldhd01YZm9ZLWp2WVgzQUs2TXNkMVZPX0xKTDFDckNqWnZFREM0RkE?oc=5",
-   "date": "Sat, 21 Nov 2026 22:06:49 GMT",
-   "vu_le": "2026-11-21T23:00:35.567696+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street Plunges as Market Turmoil Raises Concerns for Agriculture - AgroLatam",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdlZyQmZlWEhPeUlDUkswNTJoc0hIU0dMT0JIM0syWURjQS1oMTFkOVByOU42NmptVjZIbWdRWDd1bGZ3amF4MEY4ODFtcjEwVlF2UmtrS2NwVmZ3VmdpOThHdTZhbWNKTm5BUDN0b0lxd0E2d093VkVMMnBOUUZKOTNDN1NleEJzNDVsVHB2RUdsOUY5c0x6YVRnVDFOVXZCdlR0U1NpOW8?oc=5",
-   "date": "Sat, 21 Nov 2026 20:58:59 GMT",
-   "vu_le": "2026-11-21T22:50:34.876873+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Sixième samedi de mobilisation pour la jeunesse et contre la vie chère - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVUJXUXliMFJGaENxMDU5UmhNa0FzaHU5XzhpUnRDTmkzQzFNUElZZmh0d0V1LXJsODhwc1hiVDJZaTRfTjVldUZfdEEzTnkxRWZSMGYzZXZYbl9WaXNtbFlBVG05TTdCZHNkek5ybUpub2sxejhacjZEb2hVUFVsTklRN0FyX1otX2U1ZEJZWnp6RDV2S3JsTERMQUFUNEJYRFViREtIZlk1QldCMjN3NjFfamVIR1FiMlBtQU83LV9DYWNxMjJEMkVpanZjcXpmTUk2QWd3eDEteVpVY1NTaDhDYXNlSFpZRVNCeHJkMVVlMEwzaXkwZl9pMU5RUQ?oc=5",
-   "date": "Sat, 21 Nov 2026 02:01:00 GMT",
-   "vu_le": "2026-11-21T22:50:34.876873+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Poétique mais puant, l'étourneau reçoit un accueil glacial à Rome - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaVZXRFJtN2xjVkk0YVNQdVU3RDRxU2FrcWI2bm9jbFBiWUF1ZzNsdXNlcERJN2hwSGdYWTdwZHR1MVdWWjdrX2NMckw4SHdRRWNjMlI5bExuWEVvMDk1VDdJdDB0M1ludHBRUVA0MUVCRzQtUVdad21YT3lqWjdXUVVBU2xZenVZaVNRUXFnVkdKX2JrQ1dDb0liQ0RtM3RPNDFFenVJMHlEeWNTd3MtNjRkWGFwcDVoaEFCc0gxWkU0d21xZVdyejlldldRY29BLWZaU19EZF9mdjVaT3BTeV9UX2dUOUxSc2JpRW43VmN4QVRydWc?oc=5",
-   "date": "Sat, 21 Nov 2026 16:58:00 GMT",
-   "vu_le": "2026-11-21T22:50:34.876873+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "L'art de tout avoir ? La manifestation d'intentions, nouvelle foi des réseaux sociaux - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPMmVuOExXcUp6SWlBcmZtbEJNaHJXcGNUQU5FbTVMTnllOVZoZFNqemlXcm5QbEZ2T3dFMDNRbnVDN2F6V2RoRE9CaDdLcmhETkJnN1dadDJDdGd3ZFdZV3BvN2U1dm1fQnljUFRaNlIxelRmb2M5SnVVUEhDMEp1dUtfZnVhbTRLd0pRZmhPbnpXOHRwZ1Jqc2JaOHNtMWNpYVJvMk1hT2xnNmh2VEZDMkhwU3RlMkU3YjVaTm93Qm5aeDNqbWd2VVk0QkFTVlN5Qm9GWlNUdEZUdXFVWFRmY1YtbXNnR254QXNzQllVZVZYemdhLWc3TzhIWlA2YjlhaGMwX0k1X0FvSFZXU0NEaVItREVDX2Q1ZDNmOFBYdnc?oc=5",
-   "date": "Sat, 21 Nov 2026 11:56:00 GMT",
-   "vu_le": "2026-11-21T22:50:34.876873+00:00"
   }
  ],
  "erreurs": []
