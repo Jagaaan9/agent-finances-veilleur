@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T21:20:39.001147+00:00",
+ "mis_a_jour": "2026-11-22T21:30:35.816134+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55517.8,
+   "prix": 55585.01,
    "devise": "EUR",
-   "jour_pct": 1.15,
-   "mois_pct": -23.39,
-   "volume": 160.3081714,
-   "volume_relatif": 0.66,
+   "jour_pct": 1.27,
+   "mois_pct": -23.29,
+   "volume": 162.39515276,
+   "volume_relatif": 0.67,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China Tech Stocks Lose $1.7 Trillion as Beijing Moves to Steady Market - Seoul Economic Daily",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS2xTdnFWMEZsLVNSQWgyTFMteWpOZzgwam82V2MzcGd3THhJS2hsX3dWNXFqSnhBX0NwcWVBWkp0ci1kLVBORkt6a0dFQXZDSXBYQVpYR0pFTnNRUlFXMWZCeVc5OGZWVnpLMWwxUXRIdW91UzNUYTBidVV4eFR2QnUyOVRPci1OTVk0SndoSF9kRHVhNGpwTmNB?oc=5",
+   "date": "Sun, 22 Nov 2026 21:00:05 GMT",
+   "vu_le": "2026-11-22T21:30:35.816134+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "CEMATRIX (TSX:CEMX) Stock Looks Priced At A Premium To Earnings - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdk92TkswXzJ4YkJ1Ql8yWDFGVWliWWlYWDhhdWFfWU5nbmNobnN5Vk1Ba2pydl80YklMNDlOYmxIanlEMm5tb1hqT2JEcUZLVEJsa0RybjhPRl9ITVAxNUZORkhvYW1NbFdjNEpDdzVydlJDbXhyMkl3dTNlQnVkaldtYjVfWG82bk40QVo1bTNaVmtIWGIyLXdnODB0ajY0NzlIRkp1c0VNWVlDQ2xrU0pUQ283SzN6NWlMVW5WNGhWS0dUajgxS3dMcmnSAdIBQVVfeXFMT1doSGVvd0pvdE1kYUJENFlSSlk0SUk2UnBLU0xVc2RPSXRpMWNBZE12ZGVUTm5FeUJRN1Rra0E1SWVtaVpGOWkyNnJIeVUwejRNd3VCeVp5V1BvcExFR1pkdlJZUjZnSllwYWlhYUgyR2JaUUpjWEpFbXk0bUpQOGRtZU40NFExZ3B0WkVtV1dPeGRJRlNYMVEtdlc4cWNzUDZxQVdtdTBNaGFXNFl1Z042T2NHbWp2T3NRU1I5a1hUVDJYd0ZRNFRmaFpyUnpqU2tR?oc=5",
+   "date": "Sun, 22 Nov 2026 21:08:38 GMT",
+   "vu_le": "2026-11-22T21:30:35.816134+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin's Price Dip Attracts a Whale as Hedge Fund Scoops up $1B - Cryptonews.net",
+   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBUnVLNWt0aEFKYk41MmFBWVZjNlQwdmJtUlZ2aWNZWGpObUh4dUs0VTlsc2MzTlFKYldONUZsLUVWb0ZZUWZreDZBenNSRy01a2NqanY2M1c?oc=5",
+   "date": "Sun, 22 Nov 2026 21:20:10 GMT",
+   "vu_le": "2026-11-22T21:30:35.816134+00:00"
+  },
   {
    "sujet": "Crypto",
    "titre": "Crypto exchange's collapse hits Chinese investors hunting for yield - Nikkei Asia",
@@ -6530,27 +6551,6 @@
    "titre": "Moody's Sees Limited Risk From Türkiye Fund Liquidations - Wisevoter",
    "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcWxjc3pETVcxQWdOc2VJajVpV2MzZzcyZUlQaFREd0h4SkR6SU8wNUFGcnhhMUctV05tZzBQWEJmZElaQ21BVEJqTjFMeklTWDBNS3BrOFItLUVTN3dESTJKS2d2QklHY0dqTXdNeXh6NDNqVTRFaW1vdEJaaHNtc1FhYjdvME1nWDRmdw?oc=5",
    "date": "Sun, 22 Nov 2026 08:40:02 GMT",
-   "vu_le": "2026-11-22T08:50:34.687395+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "As artificial intelligence (AI) bubble vigilance continued, semiconductor stocks were dumped on the - 매일경제",
-   "lien": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xNUt5QTItLWV5eFprbmZadlY1TnhISWFZVUtfZl8zTHI2SzVNVDU2WldlcHd5S0tRRmx5cW5hcWVjT1NuVFZMSVZIVFZhckU?oc=5",
-   "date": "Sun, 22 Nov 2026 08:34:15 GMT",
-   "vu_le": "2026-11-22T08:50:34.687395+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin price stalls near $60K as Pi Network rebounds, VVV jumps 20%: Market watch - Crypto News",
-   "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95SXltejJLRGVoeExpQUFieUUzX1hDQlVhdDNZQlNjVHFkWi1wWF9yYUhjY0pwZXk2SDdvSEJVeTltWC1ENTU1QjlqZ0Y0OXAxSkV4Tlo3bldYX1hnMFdPQUdiWnBIRnltUC1xSlZjamdZeEY4?oc=5",
-   "date": "Sun, 22 Nov 2026 08:39:51 GMT",
-   "vu_le": "2026-11-22T08:50:34.687395+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Price Prediction: Can BTC Take Back $60K After BlackRock’s ETF Outflow? AlphaPepe Clears $3,45M Raised - StreetInsider",
-   "lien": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPXzZ2NlBwUWptVTFOb1JYU25KTDA1US1wX1ZQS2pSMk1nbHhRMmYtQkhzTjVVVWZWNlJqM3JJZzgwSzZkUFVMZFU4VWNCSlZMcUd2YnprdkdqUjZPanhTQnByZndPOF9GOVNPeFZRUkRtWkNIZHhXZUt2c3pUSzZqQmVSY0ZiSk53MEpoU3R6Ymp1Y25fT2QxazVZWk5jSnc5ZjZjS252N0R4U0NRbWs3UFJvR1liQ3Q3eVV3blZ4RU55ZFFLS3hzcm5HVGc5ZGt1Y3lBVkNuQm5EMjVpMnNyX2xSc0NWdXFWTVNMRG91d3lSemNxXzJhT2dRamFyMEZCTlhDblNieDVVYXVUMmxnbC00dw?oc=5",
-   "date": "Sun, 22 Nov 2026 08:16:56 GMT",
    "vu_le": "2026-11-22T08:50:34.687395+00:00"
   }
  ],
