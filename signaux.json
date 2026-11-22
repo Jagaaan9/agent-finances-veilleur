@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T22:10:36.580043+00:00",
+ "mis_a_jour": "2026-11-22T22:20:35.517841+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55431.12,
+   "prix": 55470.78,
    "devise": "EUR",
-   "jour_pct": 0.99,
-   "mois_pct": -23.51,
-   "volume": 167.17564824,
+   "jour_pct": 1.06,
+   "mois_pct": -23.45,
+   "volume": 167.6757669,
    "volume_relatif": 0.69,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Asia Braces for More Volatility After US Selloff: Markets Wrap - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB?oc=5",
+   "date": "Sun, 22 Nov 2026 22:02:27 GMT",
+   "vu_le": "2026-11-22T22:20:35.517841+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Indice Crypto Fear and Greed tombe à 7 : Bitcoin, Ethereum et XRP peuvent-ils rebondir ? - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oOWJ0MjFBRlhDY291NjdHWVItNjhpS2lDQ3NQN3pKVTJ1aDd6cUVIVUVfaXY0MUMzeFdzR2tyX0ZfYmFrX3FHSUpoSkhUalpwa1FYLVhLZ1VXMFdtLTRoWUxwTGs1QzQ?oc=5",
+   "date": "Sun, 22 Nov 2026 08:00:52 GMT",
+   "vu_le": "2026-11-22T22:20:35.517841+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les analystes préviennent que les prix de l'or vont encore baisser. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZZlJUVml5WGxJdTZZV19LVzlIWWFPTFJNVzN0VHJMYmRVMl9tWTJPVTZXakVTNjMyZTN4Q1J0ekNvLXpFR3dldlJSS2Z2VEg2SXB1OHVobUFjQ1hNTk1hdm1ZX0JLUnEzNEs0TVpDNnNGLUxOM25KbV9LTQ?oc=5",
+   "date": "Sun, 22 Nov 2026 10:02:30 GMT",
+   "vu_le": "2026-11-22T22:20:35.517841+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "A New Figure Emerges in the Nvidia Chip-Smuggling Saga - WSJ",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlhNXzR5WjJQLVh5WHE1dW1mdFE4MmZreUtrNHRhOVh1NEd5d2p5cjNkSlZRYzY0eU9wZUlfNms4NXM2Z1VnUDdUdnZkR20tekRUX1B4Mm01ZEJTVmFyMWdEdnFjVWFiMkFNZm5tTWtPVmJZV3ktMmdjQjdKQWY0blA1V210MGl3Q0ExTnRsZHpiakQyNWEw?oc=5",
+   "date": "Sun, 22 Nov 2026 16:46:00 GMT",
+   "vu_le": "2026-11-22T22:20:35.517841+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Microsoft (MSFT) Surged 8% After Earnings - Azure Hit 43%, Copilot 30M Seats, Capex Steady - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaF9pM0tpSHRxU3cyUjR3cng0bElLN09DQlR0QmJLZkptZ3FSUDQwZG9BR3lCdGtyckdjenRQYjR3V2pFdFZsSjJ5aldIM1RiTXFDZjlzTy1XckdramlEZ0pSSmpNdG1jbktESU9JR25wVWQycHNWVnIxY183blRURzU2Q0l0SHlwcXRQNW9xdmcwRkJWWFlzeVBNVUpIcFYyVWVWQWxUc0lWTVpGVE5LejExUjJfcUVBT0NMel96ckpyWDVuSUdXX0FpLUlmekhRTi1YSUpB?oc=5",
+   "date": "Sun, 22 Nov 2026 08:59:51 GMT",
+   "vu_le": "2026-11-22T22:20:35.517841+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "Trump’s AI Chip Crackdown Inflicts Collateral Damage Across Asia - Bloomberg.com",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQno3WGxxSkxLeU9kT05mVC1HbVMybFFSMkNvSEgxVFdSQnhjc1pZVG5hcUEzSW1hVVNDLW5lUmtKQ1YtX2FwZXlCUzhfckJMRXh6NUVtZTIzd1VBNV9tMnNSbWJhdHpfMDhFWnhBd2NfMl9TWmFkUGk4X2pKMlRvdGpoV3hvN2xUTkFpT1RQTVp6Z3E2eHpuTWtMVUxvblNmaGh1Vy1pMnliM1VGX3F6dHN5cXBiaVR4NHhvS01SampHangzZ2R0OGVrSFdoTTZrb0x0SW5sNGs4aEJ0Mk5sQ0RzUm9IUEc3UEFmR2tyUTZaUkExTWNoQm90b9IBgAJBVV95cUxOUndrcm9VeGNtR21DSHNVQzNSNk1VQzUxb2JKU2pkQ2xjQ3V3ck0xUUJrbjF1aFY1OXFhWnk5YXpqYU5taklZU3Bic1pOV2VxU0xNT2Fabk9mVkM1NG41YjhNRnlfbk5xQ0JIeGltcjgtWENjcko3OFNBSkdqdHAyNlV1RG5tcWlBNk9EYmphYlFwQzB2WlJ6S05lOEdlbnBUSmVSNmFGOUxrb1k1UWdmWkloTFR6LTZYa3NTSVRkbzFKbDZWRDFDQUV1YzRrQzBJSjBhMUZIcFV2Si1HUEtfN3c4MlpUcjhVQ1A3cTRtM0dfV1B1VFR6WDJGTk81VG83?oc=5",
    "date": "Sun, 22 Nov 2026 08:31:13 GMT",
    "vu_le": "2026-11-22T09:30:35.784385+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Vincorion SE (V1NCD.XC) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FcEdqOFlhOVlYSEVGWGQzSGpYMTlBdW5lYXpzTHcweVduelNYdElwRGMyeU9KY0lqNU0xbTBCQV9BNFpjYl9WbmxxNlZFc3p3d2NXR2VpTQ?oc=5",
-   "date": "Sun, 22 Nov 2026 09:26:36 GMT",
-   "vu_le": "2026-11-22T09:30:35.784385+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Une série de données économiques pourraient exercer une pression sur le prix de l'or la semaine prochaine - Laodong.vn",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkxjcTFvYWlodFJfT0JCUmFuUXg0ZFB5cmFBaVctZlpWejhHdmdGUDBIdDhkd01iRjIyRlhyUFVRZkp0S0FJeG5xazZtTUNmcXBVeXNzQU1hbDlUejBabGdEanhEalZyV0EtNFdHNHplVTdhNlFjUW5wS1pMZXIyUERxRW9jUGZQY2lMTkJTaW9fVS1ESmlqekZzcHoxMTlVdWttRjNXdms?oc=5",
-   "date": "Sun, 22 Nov 2026 09:06:20 GMT",
-   "vu_le": "2026-11-22T09:20:35.199837+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Merger Control Filings India: 2026 Deal Guide - Global Advisory Experts",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT1VvQ3JCSHVRWlJ3T21Md1ZiZGI4RU5GdnlVMUFxdm56UXVfWVJtN1ZaZklEc2xrUm10SjJaaWNtWGwyZ0ZXRC1PMlJKdlJLMXpjUG9kV2hJa2hlZkNwUUxCXzJNcGkzengxV25NTk8yamJFSmI1N0FaVVhJNVBiMjU4WGc1NFVaeHU0ZFBKdk1hZWtxeWc?oc=5",
-   "date": "Sun, 22 Nov 2026 08:12:34 GMT",
-   "vu_le": "2026-11-22T09:20:35.199837+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Aurora Cannabis Highlights Inaccuracies In Curaleaf’s Takeover Bid Announcement— CEO Claims Business Is Reaching Pivotal Inflection Point - Stocktwits",
-   "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQdzFKTEtuNlo3TDFhbW1vS1pWeEJYSGxLUVh6bS02d0t5NHlDQ0VCbEVMd0pmNEVRaW0xZllVOG5uTl9RZ1lRaHYxaHdmM1pZa3NLVW8xRWswdmNsd0VNYVAtcHc5cXNGeFJpOW1jV3RLRGxWQlJFSHdVeTFGN29KNHhXMGhGS2Z4WXBEVmRfSjk3RUZDU095ZlNRQ0ZyZTJQODRCTk5UTUNoWGVtb2F5VVI1NjZGbjY2d3Vnblp6dGdZSU9tdksxRThnUGRNZ2JIdGhUUTlnaUdlTmp6Sm5DaFFSSHpiZkNEQ00tTC1XTEwwbUVadGVYZ1M0MXNrX3MwVGpVUm1DMFU1ZXFobXotajROb2ZMY0FBdFk1S09ySlQ1OFJZU25z?oc=5",
-   "date": "Sat, 21 Nov 2026 13:52:03 GMT",
-   "vu_le": "2026-11-22T09:20:35.199837+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Imperial Blue sale pushes Pernod Ricard behind Diageo in India's alco-bev market - Moneycontrol.com",
-   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd0pZQThPRGhlYlljMWRaSXRDRFRPcDBFUW1UNjhsb1NxUGZtZGpHQlNHS0owa1RXcXFCT0hxMU1zV0xsRVY4TkczTnI0WXozdXlrbjVPSkJhTG4wR1dZbHN0ZmJoU2laQ1pXTmF6Sk5PbUZZaFNHM2hEaVBsQ3R5aXFTQXZ4TXd4b2JmM2dxcGZma3pDVV81UTFhYzZ5MGh6cGxpWXEwTUZXODlwVE81NlBqZDRuZWJfbU5DN2hRTW9saFNCUnc1M0FwS29iSVhrcTRVNlMtb3pKbGVmUG5Xd9IB5gFBVV95cUxONXVsRWtHV0FSVlFUZmNlSVFsZ3dya2JVOUsxOFZ3bnVTY3BTVFhmbFFjOGNXMFdNaUNpSUtTdHpUQ3N6MEstOGdqUENtTnlQS3NWWmNTelBnLUppeXFDN1dISVJHazR5OFc5Y3VlLUJnVnlFZjZOa0NhbmkwLWVmbGd4bEVhMjI0MkE5LS1lbE43RktLVGk2NHBtYjFRVUV0SUtUaWFjd3dLVWQ5SDZ5RWowckl1Vkp3UlhjeVJLSEo1eU8zQTE1STFMQUpzSFNZQ0ZUUTVhVTlWWFlLaEZ1NjA3ek5oZw?oc=5",
-   "date": "Sun, 22 Nov 2026 09:04:37 GMT",
-   "vu_le": "2026-11-22T09:20:35.199837+00:00"
   }
  ],
  "erreurs": []
