@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T20:30:35.166380+00:00",
+ "mis_a_jour": "2026-11-22T20:40:35.349963+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55240.87,
+   "prix": 55244.18,
    "devise": "EUR",
-   "jour_pct": 0.64,
-   "mois_pct": -23.77,
-   "volume": 153.05112598,
-   "volume_relatif": 0.63,
+   "jour_pct": 0.65,
+   "mois_pct": -23.76,
+   "volume": 154.21149765,
+   "volume_relatif": 0.64,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Crypto",
+   "titre": "Dogecoin price on Nov 22, 2026 at 12pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzVzRHd6MnJ4b3J5OXoxcjF5bXZ4LUtoc0h2Q2gzVU9ac0VZQk1fVTJhb2p6TThIaHlnTmprOF9oal9VRkkzNUN3aUpLS1NZNmpvX1BialJMYXZ6a2FSMTBlWWF4elJvQTNtRXNJR0NzUTVDbHZQNURiTmhkbV9fWTdoeEhmY29UYUF3Q2Q1ZVJieVdITEZabmZXbm5qeFJaSkRIakM3dW1jcTJvV3dIeW80dTY4QQ?oc=5",
+   "date": "Sun, 22 Nov 2026 16:10:04 GMT",
+   "vu_le": "2026-11-22T20:40:35.349963+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic Stock Could Soar by 72%, According to This Wall Street Analyst - The Motley Fool",
@@ -6544,13 +6551,6 @@
    "titre": "Giá vàng mất gần 37% trong 10 tháng, điều gì có thể đẩy giá xuống thêm? - Vietnam.vn",
    "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeC1HY1QyM0ZaSW5ycWFWUFlGWjdyUnBQR2JfUmI3UUI4MTRwQXRxNW1NcFlfbXh2QzB1ZjZPTXZsNFZ2Z19lMHhSbkhIYl9iZ3loU3ZTSmFjemF6aXZKaGpua2oxbjlpUXdBUnZDWGl0bEZpSi1nTmVwaGVNUW5fSUduczFQWUFKdWZabHhWcC1Kd19zWmJoZHFB?oc=5",
    "date": "Sat, 21 Nov 2026 13:33:40 GMT",
-   "vu_le": "2026-11-22T08:30:35.819246+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "X Energy (XE) Stock Looks Overvalued After A 70% Fall - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTEw2T3UxRlZTSDFpRVFvaWVLSVdheTd6SGlCT1A0ZUE5RzNocFhHTk8tTXc4UWhKS2tlU1B1Y2ZKcDNnMEVhdkdwTkhZS1hrTEdEUGdJamRTTG9HOEhYWFd1YmhjandlVEhZSTVmbHlrSFlJMFdibVpCLUdYSlROdkxXZS1NT0JHTGowak9WRnpqUU9LMERkLVNYWjBkaVpzV0QtTFZCd215WjJhQ3dyWHBfdm5wQXNzaFZ0StIBwgFBVV95cUxOam9oaDdKS1RBUXJLQUl6d0lsTE1LRmdsYzA3ZGZ5b3M4azNuQlZtc3lBQ3JZRTYtS3YtZGx3Rmh0cW9HN2FJeDZaTHBpeE55bXI3by16d1BndW5mM053RkdYaWN3MmxhRE1mNW1IenVwdVUzV1B5V2VIcGJYNGEwSGVxSzRxQnZOV0lMU0paNFdhTXZ1ZHFDS1NKNTFKLUtiU08wYkxwN1NmV0tUMmdpVjRwZllGa1lZVk9uQ3BlUUdidw?oc=5",
-   "date": "Sun, 22 Nov 2026 08:09:24 GMT",
    "vu_le": "2026-11-22T08:30:35.819246+00:00"
   }
  ],
