@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T08:00:35.385502+00:00",
+ "mis_a_jour": "2026-11-22T08:10:35.989839+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53941.91,
+   "prix": 53925.18,
    "devise": "EUR",
-   "jour_pct": -1.72,
-   "mois_pct": -25.56,
-   "volume": 25.09991106,
-   "volume_relatif": 0.1,
+   "jour_pct": -1.75,
+   "mois_pct": -25.58,
+   "volume": 26.85036474,
+   "volume_relatif": 0.11,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "L'IA réduit les embauches plus qu'elle ne supprime des postes ? Ce que disent les chiffres - JeChange",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZmZJMEphckg0b3VXbTkyZUJIa0c4WmpqbXJKaGdhNzBZUFdHdHJ6bDNBZHFZdnlZWm8tOGRWOFVnMHRDOGZwcXhUZk5LNGJpWEQ4em9hU3ZVMW0zb2lpVnRETFJ2WFRzd3ZNa2t6bDkzbmVIeWZ4RUhOUUhqNVdZTlZRVDMzcUlueGlHcklWLW1WRXR2TzJGazdB?oc=5",
+   "date": "Sun, 22 Nov 2026 07:55:00 GMT",
+   "vu_le": "2026-11-22T08:10:35.989839+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Helios Towers: a play on Africa's telecoms boom - MoneyWeek",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOTlLR3ZnVms3WmJfWE1xLUFRTTJrbGFEMnNkTkdrWlVfS2ExUFRYNEIxZ21tbGRvY0d4dnhFb3QtclBHYmx0WkVQRGpXeHVoQzNERnhqOEhLYnpVQnBjSkRtS2xmMHUzNkxscWd1YXhhU3U5ZUxvVzFnRHlXcDBST19UOVNNZG1uWVVtUHdyNnlrenpsRlZ6RjRFTXg?oc=5",
+   "date": "Sun, 22 Nov 2026 08:00:00 GMT",
+   "vu_le": "2026-11-22T08:10:35.989839+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Asia, Africa to drive expansion of India's export markets as shipments grow across regions - www.indiagazette.com",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNajI1bnZhbkRnN0NKY0lXUzJRdUVFMXVIcks1eFV6djJneHlpQ3JocFFUU3hsaVdKaVFtd2VQdUI1aXZjc2I1YnJOcEtMd0pkTnBidXFGNUprdjNNc3FUMEN0RDZCNDI5NG1tX1BqUkFxSEdYU09OWWY1dXExcU5KczdrNE5jbG0ySVBYeDdEV0gzUEx6cG1CRG1SdFJibjNoWjJlQVpzeFllWHpzYThSLUZjUExpdU5rRTBYcWdvM2x3SEtsUUt2SGtVRQ?oc=5",
+   "date": "Sun, 22 Nov 2026 03:35:00 GMT",
+   "vu_le": "2026-11-22T08:10:35.989839+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Electro Optic Systems Holdings Limited (EOPSF) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIN0VQTFAySHlLWVZPQzQxWEFzb2dCa0lFTGZXVUZSUjVyVTc0cE9feGdfcDlycE1uNFlLNFVTS2UtRDZpNGdvS0FndlRCWjVQME1j?oc=5",
+   "date": "Sun, 22 Nov 2026 00:00:05 GMT",
+   "vu_le": "2026-11-22T08:10:35.989839+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 22, 2026 at 4am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR1h0Y09IWDFIaTdjNEw4OEFDX3ZDcDNOM0hUdXh3a3B3N1huYlVjZkhvSmpqSHNOOFRNek9ucWhtWkN4OWNUZmRLTkJDNlh4bVVWLVc0U2lHdmRya295YWhJc1ZrSTE0QmNhcXh2NzRuNHlnRmZNd2RQT1lwdFNmcS1kcmQxSTAxNkd2Z1hGOUs5VjMxNDVfZk5SSVRuX1pVUktBbTlJS2JoWjRsN1E?oc=5",
+   "date": "Sun, 22 Nov 2026 08:07:22 GMT",
+   "vu_le": "2026-11-22T08:10:35.989839+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin price rebounds from $55K after historic sell-off, is $72K next? - Crypto News",
+   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rZzVTU2xaTWZXcE5LOFI0RlBsZk84N0F5ekdWY0lONHljSWROaEVCS3BsYUd6QmlZR2RpSzBtZ2JSVVFKSVhydVBEd3lQSVVVekd5MGdPVmMwVU5PenJBcm1KZWtmT1M5Y1Z1cDkxaFdqREk?oc=5",
+   "date": "Sun, 22 Nov 2026 08:01:17 GMT",
+   "vu_le": "2026-11-22T08:10:35.989839+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 22, 2026 at 4am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONnQtZ1ZIelFfOWdEYlZEVnB2elVpM1NvZ3kybmhkU3FwajBuR1hpSXRwc2N5VWhtOGFtMXBRZTZESTRVdERKNHd1cTdfeVVoQ0FGTk0zMzQxbnk3bnMwZXZQRTM1M3pJZ2k3eWxHa2FGa2VkdXBWM3BnbTdFd0xUeHc1UjFYcHBJR2NQdUE3U24wazlWUUNEa0s0REJEdVY0Zzctckh2ZlBRWmM1Mmc?oc=5",
+   "date": "Sun, 22 Nov 2026 08:07:22 GMT",
+   "vu_le": "2026-11-22T08:10:35.989839+00:00"
+  },
   {
    "sujet": "Défense, énergie, matières premières",
    "titre": "Voyager Technologies, Inc. (VOYG) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNDFvWk9qSGZZUmg4em1KMGh0RDFfcy1fZ2U0dUFnVmVXaW9ZTVlrMEVsRDNENHliOFRkOWtPQm4zN3I4aW1pQnQtblJiU3dlWjRMcmM0cEZQZmJDcFJrYUVzYXVrQzFPZHpEbl85aFpFckROeVBzM3drelFhRjhwaWdSSjEyaVFzWnlBWnhPRUg4Qmhob3c?oc=5",
    "date": "Sat, 21 Nov 2026 18:07:18 GMT",
    "vu_le": "2026-11-21T18:20:35.208635+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic’s IPO Reveals the AI Boom’s Biggest Problem - InvestorPlace",
-   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGVJTzVZSXNfcjJkMVc0TjdqQW51SEVaWGs4U0tQcVlJdmJnb3FGaVVHTmVUbndXWE5KdGRlSC0waFFyVmswR3FEd0I2VmREbUFkRXo1U3psSTJxUGw1ZEVWQ0t6a28wQ0RYelZkRWw2TmNoZHlBZkhxd2E3TmhNNWxEZ0FicVFsaEpKcFZR?oc=5",
-   "date": "Sat, 21 Nov 2026 18:08:12 GMT",
-   "vu_le": "2026-11-21T18:10:39.750828+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Taux de change du dollar américain aujourd'hui (21 novembre) : Le dollar américain se replie. - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CYlV5ZzlReWhmMzNFMUVoYVBaYUwyNWthUHBIOHNCQVFIYnYwbHowRU5PVU5adS1OTHoyZ29aeklDZEo1YzQxdDE1bmhOdXdoYXVnVE11UVl2YTNpZnlCcFE5OURxTWlaNzBXNEZkbTBnNVZIQjNz?oc=5",
-   "date": "Fri, 20 Nov 2026 23:34:08 GMT",
-   "vu_le": "2026-11-21T18:10:39.750828+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Indian Stock Market Extends 4-Week Rally as Sensex and Nifty Hit 9-Month Highs on Record FII Buying - Kotak Neo",
-   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdHRLUWlWUGExQUVQdm41Q3RTXzVkdzhBNVY1ckc2X2VmRHQ5ZGdESlV2Z290X0lWVXdCcHh2MkZkZE9rcWRfUVBzVTFiWHZEZTZXV0R2VjVaZlh5dXFBQUw2WE0wcHF1ZnBlWWR2REFwS3F4dXlCR3FoLXNBZDBHYmxva3NhLWt3eHV4ZGxoSjBQc3RPQ1pNVXl5c2pVaGIzYU54Ni1TUHh1bzI3dG9UYWR4NTR0QUxjalFCV3pvTXV6MzJacy1ORmxHZU1FcDVrLWpSUjNwYjEzSVFOejc5N0hn?oc=5",
-   "date": "Sat, 21 Nov 2026 05:52:38 GMT",
-   "vu_le": "2026-11-21T18:10:39.750828+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Samsung Stock And 2 AI Infrastructure Picks For Data Centre Supply Chain Shifts - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWjMtYVd1X0Z6UzJyajROdmF4M1R5LVJ3c0FuMTUteUFub0kwT1JQZjFkSlJoeTRCSEFTbVFmdFZyQndtSzd5LTRrODZTRGM5ZTF2Vzdsak5QVWYxUTRVWXJobUtYTjNITXZfYkxsLW5PWDl6bHhhejZMS1FMU0JVMmljM21KSXVyenJFY3dmZGdUbUt0SXNjVlhUMmZxTllWUzQ3bV92YjVhWjVFTGI2Q2JnMUxqNWJfcUhYZFlta1lRZC02c3pWZEQtM2R0VFdNaFc3QmtPVXLSAd4BQVVfeXFMTWRkY0J0dWVpRk90ejVjMjNEcy1WNXN5Wk9BSTFudjlhY1pmcjViOHUwNXpZeHFiWHcwUVlMVWJoUzJYOFZ2UnBLMDI1ZVAyemx3R2NXTXpJcG9mZmxjT1FoMnVrZUFRZ2NTcXZzOUVNcFFveTNxeW83WlB6MTBtemtiZjZ6eEVvdlZyMVNSM2VLTzM5MkN5VmNzc2JhN2dmeWxLN21TS2hyTzlaLUtTcTY4YnltR3pFakhBRHhYd09HX0tEd3NlVEo5dzFmX2F6MFVhNFBvakdIS0p0b09n?oc=5",
-   "date": "Sat, 21 Nov 2026 14:12:10 GMT",
-   "vu_le": "2026-11-21T18:10:39.750828+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "RPSG Ventures Ltd Upgraded to Buy on Strong Financials and Bullish Technicals - MarketsMojo",
-   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONS1SNy0xTzlkT1ExODl3Z3QwSGp5aGxzMVNxajJlVklweXcxRmFUMjFQZWU1cXdHM0ZYWktWeDR3UkNGekVycm5hZmtIalhRcS1CNV9HXzhTVFNCZzdtc2lSUmZMcFFRZDJLNHkxMlZwa1A0WVNtWTIxdXk5Zmd1U2diSmhQY1E4bnZtVmgtTDNmaFo5aDI3b2ZUeV9NT1Q0RnE0ODk1RmppUXlmSDVwNndUSzhIc1E0VE9JX3ZsSWJYX1dkdjNvRjg1b0s5Rk02Qmh0bGtB?oc=5",
-   "date": "Sat, 21 Nov 2026 06:34:06 GMT",
-   "vu_le": "2026-11-21T18:10:39.750828+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Confidence Petroleum India Ltd is Rated Buy - MarketsMojo",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejhQVlBZS1VpTzZHWGQ1MmJUelM3bXp5NTcwN2VkT2FUdnJDaDV2Szh2MS1aR2RTUjF0ZW1GbXAzQk5LR0RZYWFhZk5WZ095WnM3WU5mQ2pVNVR2b3FqaUllaGpRazg0S21xRlQ2eUdjUlZ2NDFRWEJuRkxyNm9wWHdNbVgweU9ZSWdzQkRHRVhHMkE3ZWMtTHktRFlQVmt6NzRjM09FQUE?oc=5",
-   "date": "Sat, 21 Nov 2026 05:36:03 GMT",
-   "vu_le": "2026-11-21T18:10:39.750828+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "NEXANS Cours Action NEX, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82djB1RmVXWUNtdjFXVlVMVzFrdWlPUldOUnY5bnc1UWNHZ3VYTmNaM3lLdkIxTFFzNG4tWjZ6Q0p3dzZxZUFiUDdidHh1Rmpkc0E?oc=5",
-   "date": "Sat, 21 Nov 2026 11:55:09 GMT",
-   "vu_le": "2026-11-21T18:00:36.242505+00:00"
   }
  ],
  "erreurs": []
