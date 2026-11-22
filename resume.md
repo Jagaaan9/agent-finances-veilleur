@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55581.17 EUR, jour 1.26 %, mois -23.3 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55434.38 EUR, jour 1.0 %, mois -23.5 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,10 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] Alleged China Access to Export Controlled Chips Fuels Securities Suit Against Alibaba - The D&O Diary
+- [Intelligence artificielle] No new curbs on Nvidia chips - Taipei Times
+- [Résultats d'entreprises] Earnings Beat Could Change The Case For Palo Alto Networks Stock - Simply Wall St
+- [Petites valeurs en croissance] Learn Why The Bull Case For Ionis Pharmaceuticals Stock Could Change Following Alzheimer’s Trial Data - Simply Wall St
 - [Anthropic (FR)] À l’instar de SpaceX, Anthropic a mené un processus d’introduction en Bourse inhabituel, au grand dam de certains banquiers - Zonebourse
 - [Résultats d'entreprises] Intel Q2 2026: Revenue Up 25%, Data Center +59%, Stock Surges Then Retreats to $100 - TradingKey
 - [Crypto] Bitcoin Won't Be the Best Way to Get Rich in the Next Bull Run, Expert Claims - Benzinga
@@ -452,8 +456,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] Anthropic IPO Fortunes Collide With State Wealth Tax Debates - News and Statistics - IndexBox
 - [Anthropic] This Early Investor Sees 27-Fold Return In Anthropic IPO - Forbes Middle East
 - [Marchés mondiaux] Has the AI Bubble Already Burst? - WSJ
-- [Banques centrales et taux] Laurence Boone, une économiste éclectique au poste stratégique de responsable des marchés de la BCE - Les Echos
-- [Crypto] 'Shockingly Low'—Trump’s Worst Nightmare Is Suddenly Coming True As The Bitcoin Price And His Crypto Memecoin Crash - Forbes
-- [Crypto] Bitcoin's Downside Risk, Dogecoin's Support Level and More: This Week in Crypto - Benzinga
-- [Pays émergents] COP31 climate talks end without deal as EU, island nations reject draft over fossil fuels - Moneycontrol.com
-- [Crypto] Arthur Hayes warns B
+- [Banques centrales et taux] Laurence Boone, une économiste éclectique au poste st

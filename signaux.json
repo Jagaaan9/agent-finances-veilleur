@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T17:10:35.657746+00:00",
+ "mis_a_jour": "2026-11-22T17:20:35.780721+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55581.17,
+   "prix": 55434.38,
    "devise": "EUR",
-   "jour_pct": 1.26,
-   "mois_pct": -23.3,
-   "volume": 127.99178403,
-   "volume_relatif": 0.53,
+   "jour_pct": 1.0,
+   "mois_pct": -23.5,
+   "volume": 130.72366673,
+   "volume_relatif": 0.54,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3754,6 +3754,34 @@
  },
  "actualites": [
   {
+   "sujet": "Chine et Asie",
+   "titre": "Alleged China Access to Export Controlled Chips Fuels Securities Suit Against Alibaba - The D&O Diary",
+   "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRXU4blFEQWpXRWZmLVV1aFNJODloMGNJR0lyNHpxMGU0VUVUMGJ4bWF6S0gtcXdCYmZuYnNTVE9jR2lvUWlta1NzbnpLSXRoNldndUhaalg3MlMyalMzSWs1Q3Etc1Q0a0hjMHpEZG4xM0lnMmoxaXRCSVRRelZxSUlxdWFJb01tSE9CSkJ1d0dWMmRYXy1WWjlKQXMyLWQwR19sNGVnbncyTFF1TE5UQVJxSm03R3JreGFFdmktXzdOMXo0VmVpX01yOUc0cExvQnlDZzZhMHJDZE44M0RGZDBVX1BSa2s?oc=5",
+   "date": "Sun, 22 Nov 2026 16:08:35 GMT",
+   "vu_le": "2026-11-22T17:20:35.780721+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "No new curbs on Nvidia chips - Taipei Times",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLaUdtU1FXZ3owMFN1WjMzNjhkNWFOeU51c3BpMV8xY1FnY0puUEZoaUVLUzVyeW1mZ0g3OVFWS1RuTF9Ia2l2eGNYc1NNRTJ1NDVVSkg3SFg1Y2VMbnRVMS1tR002NUg0bnJKbUp1NENFQkJic1E?oc=5",
+   "date": "Sun, 22 Nov 2026 16:00:00 GMT",
+   "vu_le": "2026-11-22T17:20:35.780721+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Earnings Beat Could Change The Case For Palo Alto Networks Stock - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON3lTQi1qR1JNSzVDSUZLS2g0cmVJVkUyZ3dSUkN0cklqdkhidWNBVWxsbUFjN00zaEs5MFBsZzcwUmNPNm1hOVpvS1JzeDN4MVRPWlZZcWRFaUo4SWhLOUxvbFl3UVZOdk5XazhKT1lDaWM2NkRETlN4ZVRmdUxZWW9QR2s4TmtoaWhHYUxOVUV4cExQVnpLcGtseDZoOHFQV0lnR0hRRUNxQmY3enpMVGYwWWpNY04tVXRTWHZuUThjUXpHdTN4dEdLbzJaeWlqRXhLSUFTcHnSAdgBQVVfeXFMTjd5U0ItakdSTUs1Q0lGS0toNHJlSVZFMmd3UlJDdHJJanZIYnVjQVVsbG1BYzdNM2hLOTBQbGc3MFJjTzZtYTlab0tSc3gzeDFUT1pWWXFkRWlKOEloSzlMb2xZd1FWTnZOV2s4Sk9ZQ2ljNjZERE5TeGVUZnVMWVlvUEdrOE5raGloR2FMTlVFeHBMUFZ6S3BrbHg2aDhxUFdJZ0dIUUVDcUJmN3p6TFRmMFlqTWNOLVV0U1h2blE4Y1F6R3UzeHRHS28yWnlpakV4S0lBU3B5?oc=5",
+   "date": "Sun, 22 Nov 2026 16:08:43 GMT",
+   "vu_le": "2026-11-22T17:20:35.780721+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Learn Why The Bull Case For Ionis Pharmaceuticals Stock Could Change Following Alzheimer’s Trial Data - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQN1JkRFpkR0lJNnUtTkdhelhaMDliQ1cwcDVCaGJWZG9JNEdGZmJUNHZjZzhGUDgwSkd1UnN0dFpjMFJRa0t2MGN5cmRuOWxZM3ZGQkpBZGJwaUZFVlRxMmQ1MFhqOEwzYU1yYzNnMEUyRkJtSGFZVjY5RmdkMlg2QlNCZXhtZzFBLS1IeGYzTXhEVWRWaDBjTk9FYkJ5NFlNM1l4a0ZMLThLTXNiTGtQdnlqTmg3OWxzS1AySGZpQXpmTDl4ZV9HLTE4RFdzaW5UbjZVYmM2b2VaUURsSkhoUFJzdUFaR1dQaVlF0gHwAUFVX3lxTFBFZDZkSV9GeHhPanFPY2hQTTgtUURSVHFYQWV0ZHlBRmtrZkpySW1veWN6T2NlY28zbm9jeGllTDdjTTNHajZwUWtUWXNPTmYyR1JRQjNCT1VaU2k5aFlzUTNaT0xwUGczZi10blk3MkFwRHFqZU9xX1Jxam53aVo1X25FWHBvNVpldTRaczdoMmhqMXVnNXJNRHBIY05qNmhYZ1J3cV9oOGk2NkZLZldkWGJnWlJvWmpWMWI4bzN4TVR4THRsdjF0UlR3emR4NlJKUmhmWVVOMjBUSjVYRWJqRTFfaUFFVk4zdUttRzdBUQ?oc=5",
+   "date": "Sun, 22 Nov 2026 17:09:39 GMT",
+   "vu_le": "2026-11-22T17:20:35.780721+00:00"
+  },
+  {
    "sujet": "Anthropic (FR)",
    "titre": "À l’instar de SpaceX, Anthropic a mené un processus d’introduction en Bourse inhabituel, au grand dam de certains banquiers - Zonebourse",
    "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcXR0X0ItNUg2YkVjQnk1ZHFNM1hNSDA3eE9MNUlzM3kwbWU4SWxoT29uLV84ak9OT3FCZFJfNXNMc3JyRU9rRmVTY1NYQlZuWjQ3Rm9JSXcyUWlWQkRsZUNZeV9oRkpya3RuZXd1OEFQeGFfY3VzdXpJeWctWmk4VWFoWS02SS1LaXRSa0dwdjk2aTREYk1kYWRGOG9jZzA1dlFzUU16WGZ3TUc3UGtFRGxxZEdzenpMclZRUkJVUXZ3ZVpXN2NEdEdCa2NDNElOTERPVUw1THhUdDc3TS1XNmNvT1kxYjFTMG5CUVl3?oc=5",
@@ -6523,34 +6551,6 @@
    "titre": "Wall Street Suffers Sharp Weekly Sell-Off As Nasdaq Turns Negative For 2026 - BusinessToday Malaysia",
    "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd09HNmN3c1d4amdxN2ZJOUNVZjMwT1k4Nkhtalg2c2M2UmxPTm81QjVmNFZhTDdtM1J4aVp6WmNWZmstcVE5M1BqRnVENVJYdW1jMGtXWFI2S2l4emNwblN5WGdpWGdVY3lHM1V6X2xjRWRXb2pWLWttazFzd3VhbkoyR3NzekxCRWdQd2pVSk16TEF0bVhLZkNYZHkyMy1JWlJSYy03T0JxUHNxVFpCUEp0MFJxVkxSSGNqQQ?oc=5",
    "date": "Sun, 22 Nov 2026 02:00:00 GMT",
-   "vu_le": "2026-11-22T05:10:36.902562+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "FDJ UNITED Cours Action FDJU, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vcmRTeE9nVWlNRVMtRTlucjdHZnVSZF9jbGllNUE4NlllQVJhaW53VW8wZURSWjJ1VU00WFJPc1phdEphdEpuQksxaVZGTlZOeVZr?oc=5",
-   "date": "Sun, 22 Nov 2026 05:01:56 GMT",
-   "vu_le": "2026-11-22T05:10:36.902562+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "U Stock Gains After Q2 Beat — CEO Says It Was 'Arguably The Best Quarter In Unity's History As A Public Company' - Stocktwits",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPODFwLUhXRy1Mcm52V25xUkR0T2l5aEJ5bUZidHYwbTVJVGpBbm5Bbmxoa1hveWY3azNxY3ZfQ3JYdGRjWlFEaHhaX3ZQQkJWT3pYQ2hvVnYxTHVqTGxOSjFQbjAzdWRuVUN3Sll0T1N4T3dDOVYxU3JFbVlyclBUam9aSEhacWdqS0xORkJIMWs0SWxhdlZoVVhmTXJUVFViOVNodUlaZGdXZlh1OFVHR1E4ZjRBWkVFVnRxOWdtUWw5emw2WmREd1VKV2ZJcktPS09WTl9TWThoLU52cnQ4?oc=5",
-   "date": "Sat, 21 Nov 2026 14:14:00 GMT",
-   "vu_le": "2026-11-22T05:10:36.902562+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Nasdaq posts worst week since Covid-19 pandemic over AI-linked fears - tennews.in",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLUVDVFRuTkdnUFR2U2VrTjZ4YUw4WmtwOUpVWVBmczNpSzMxNmNaaUx1YllMQ200YXpzbGFJemJqSl9YZ2NNbVRiUVVyRGRwMDJmUE1YWEI0X2xScF9IQUpwNDl0MFhBZ204TTFRQ0dVS0x6M1dxQzhQbjlaOW9DV0ZQN1AxbDFWejJNd3lKRzVTdw?oc=5",
-   "date": "Sat, 21 Nov 2026 05:43:33 GMT",
-   "vu_le": "2026-11-22T05:10:36.902562+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "China’s used smartphone trade expands to South Asia and Africa - Africanews",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWttaE9UX3FoNkdvbHZpaFRfMy1kN3V1X0RRWFFqc0ZuZk5qTm1fMk1yUnBMOXNOaTdsVHg0UC00TmYxU1k1TEoyTmxBb3A3M3Jmdm5XZjJFZnp5VWx0SHg0RUFLNThwd1MtdWU0cjRMd1oyVjJGWTJXLWxNSUlQU0VhMGlyQ2tGeXJZSzU4d3N2T2dBXzhjSkFYZmJPMl9OT2RQY1d6QdIBpwFBVV95cUxOVWttaE9UX3FoNkdvbHZpaFRfMy1kN3V1X0RRWFFqc0ZuZk5qTm1fMk1yUnBMOXNOaTdsVHg0UC00TmYxU1k1TEoyTmxBb3A3M3Jmdm5XZjJFZnp5VWx0SHg0RUFLNThwd1MtdWU0cjRMd1oyVjJGWTJXLWxNSUlQU0VhMGlyQ2tGeXJZSzU4d3N2T2dBXzhjSkFYZmJPMl9OT2RQY1d6QQ?oc=5",
-   "date": "Sat, 21 Nov 2026 08:55:10 GMT",
    "vu_le": "2026-11-22T05:10:36.902562+00:00"
   }
  ],
