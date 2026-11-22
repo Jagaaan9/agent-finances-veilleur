@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T16:40:35.651264+00:00",
+ "mis_a_jour": "2026-11-22T16:50:35.779541+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55893.81,
+   "prix": 55852.71,
    "devise": "EUR",
-   "jour_pct": 1.83,
-   "mois_pct": -22.87,
-   "volume": 122.75405471,
-   "volume_relatif": 0.51,
+   "jour_pct": 1.76,
+   "mois_pct": -22.92,
+   "volume": 124.57223525,
+   "volume_relatif": 0.52,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - Cherokee Tribune",
+   "lien": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNc3dFbVpjU2dOSWhQN3AtWXFFVUV5ZE50eDJLd1ExUXJBUThJeHdSZnlTXzBmYTNtMHR6bXVvNGVRV2hLaWhZbWF6dk5OQ0lzZDVKQjRLTVFVclJSeDg0V3NDQ1pwemJGVmZXNGlSLUlCN3N6MklxcjRzalRLVXNSa0ItUXNPLWhtS1FFbThLM0ZPQkJDNDJ3R1dSMEpiUW85ajZJY1hHM0JYWEdhNGtNWXlBbmphLVNfQk9Nd0t4b2dCS2JlZmZUc2JUbGJTNV8zbF81cVl3NVZyTXpaZkluSzh3cmJmVHNGdTB6MGpDREcwSTRRTUlkMnZNZEJuUG5RS0tSdERpRXZJTzhOYXluNExqZklwS1dYUkROZ1VHVERqWlFuSHZFbXpVdngwQ3RmdEtJOVlkRjQ?oc=5",
+   "date": "Sun, 22 Nov 2026 13:07:06 GMT",
+   "vu_le": "2026-11-22T16:50:35.779541+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Is Nvidia a Buy at $125? Here's My Honest Take - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMGZzQzJubFMzaVFtRWVqSHZDc2twTjF4Vk1iMzNYZU5lTVNmdkNxWER6RUtfclo4SnlockdzeUpSYm5tM0JiZ1NzU0hySWpiNXZxYm13UFc2WlFTamg4eTNnOVhqX0VWT2hDd0o4NUxJWVpzRXhoSjRHaTNHbzdBZVQ5WmdfLXZMdWc4ZzNTTFdrTkxkcWpOOW5DS2xaZVBSTk95WWZUZTcxSlVZM0I2eEYwa3hGa2psSWt3UXRHalc5cWc3R0pz?oc=5",
+   "date": "Sun, 22 Nov 2026 14:51:49 GMT",
+   "vu_le": "2026-11-22T16:50:35.779541+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "As Stock Selloff and “Haven Trade” Took Over the Treasury Market this Week, Fundamentals Went Out the Window (Briefly) - Wolf Street",
@@ -6537,20 +6551,6 @@
    "titre": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal - The New York Times",
    "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkJNbHp2RjF0Y0hlVmh1aGRIQ2llajUxMFE2NXBhRHg4dDBtcHBhd2lrMzFpTDBhRnZPYTRMMWNVczNJdmtUM0wxUFFucEs3dlh3ZldjVmhDRFE3eXlqcXJKWnAzQzNmZGtHWVlrQzBrdVJjMHN6Q0ZSbmthdjk0Z3YySGRiOWtBVGtmaXY0cXRDdw?oc=5",
    "date": "Sun, 22 Nov 2026 04:28:43 GMT",
-   "vu_le": "2026-11-22T04:40:35.749375+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "MaxLinear’s AI Optical Business Surged 136% and the Stock Jumped 84% Overnight - Is MXL a Buy at $63? - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeFlEN2NmME5aZXpXZk8yTWFJejh6UlhBVXpCS3BGWTNiQ29pMkw5a2xFTjdsUGs4b1N6UHRieUhXa2tSbHRIaVBZbjIzNnhwdkt4ZkotdklibE1sU1JibGVteWgyRF9VMFVJdXpnSHpJdXAwVlBwMmpaNFEzRnRaZEw0R3dXNnc5Q2tFTkx5Q1lsTGVJTDc4UU4yX2VTLUR6VmM2UG0tbHozUTN3dEprc1BDTFZ6ZmJFbnBKRg?oc=5",
-   "date": "Sat, 21 Nov 2026 14:40:44 GMT",
-   "vu_le": "2026-11-22T04:40:35.749375+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Dassault Systèmes (ENXTPA:DSY) Sets 2029 Growth Targets, Does It Look Fairly Valued? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3JRN2RSaDU5NDhncjhkUjBUaURGbk9XMXdPajNYcjQ4WThUNUlvMEplYS1WaWJXNnBrUkp0OXh6cVczdF80QTNzRVhoTXM5bm5rU0tOZWRHUldBTm5pc1RSa2U3V2g5SUhFZ3hpU1FWXzJyWWh6cWkzd1llTjBvTVM0OWNnOHI4ZWwyUlQ4Zlhzdk9idU9ITA?oc=5",
-   "date": "Sat, 21 Nov 2026 14:12:22 GMT",
    "vu_le": "2026-11-22T04:40:35.749375+00:00"
   }
  ],

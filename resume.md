@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55893.81 EUR, jour 1.83 %, mois -22.87 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55852.71 EUR, jour 1.76 %, mois -22.92 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -294,8 +294,8 @@ POSITIONS ET INDICES :
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,8 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - Cherokee Tribune
+- [Intelligence artificielle] Is Nvidia a Buy at $125? Here's My Honest Take - The Globe and Mail
 - [Marchés mondiaux] As Stock Selloff and “Haven Trade” Took Over the Treasury Market this Week, Fundamentals Went Out the Window (Briefly) - Wolf Street
 - [Chine et Asie] Tencent touts independent safety assessment of latest AI model Hy4 - South China Morning Post
 - [Chine et Asie] China's Shenzhen Stock Exchange Seeks Public Comment on ChiNext Market-Making Rules, Completing Market-Making Framework Across All Three A-Share Growth Boards - BigGo Finance
@@ -453,6 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Chine et Asie] Bank of China Limited (3988.HK) stock price, news, quote and history - Yahoo Finance Singapore
 - [Intelligence artificielle] Opinion | America’s AI policy has a chip-size hole in it - The Washington Post
 - [Intelligence artificielle] Nvidia's next CEO must tackle the 'complete reorganization of the AI equilibrium,' investor says - Fortune
-- [Intelligence artificielle] GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day - Yahoo Finance Singapore
-- [Rachats et fusions] Merger Control Turkey 2026: New Thresholds and Notification Rules for Businesses - Global Advisory Experts
-- [Pays émergents] Investment Managers Constructive On AI,
+- [Intelligence artificielle] GPU prices are rising for Nvidia's older chips even as the stock keeps going down:
