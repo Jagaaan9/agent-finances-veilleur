@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T01:50:36.200614+00:00",
+ "mis_a_jour": "2026-11-22T02:00:35.662261+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54879.26,
+   "prix": 54813.44,
    "devise": "EUR",
-   "jour_pct": -0.02,
-   "mois_pct": -24.27,
-   "volume": 5.04772635,
+   "jour_pct": -0.14,
+   "mois_pct": -24.36,
+   "volume": 5.27256435,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3491,20 +3505,6 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic IPO six times oversubscribed: what retail investors can realistically expect - investingLive",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1RGSnFrb3dsbnFwaUZ1cV92UzVHbjlsV1UweExVNThXYVl1TUpITjFacTNJUVZQbTc0NVRBU3MySVNYdWlNSGdzLWplTXpHbGZGamVoWkRmR0NEM3AwSmxSSV9QZ3o1UWdpWWdQSG1QM19BM3JJdUJsZ0hjTmkyMmlHUHRPMUZKRDY4YlpqWGtmVGQydF81V1pVS09lMUVZcmpxYlFnMFVOcjZxNnM2WDFzakpRTUg3UnN3?oc=5",
+   "date": "Sun, 22 Nov 2026 00:14:34 GMT",
+   "vu_le": "2026-11-22T02:00:35.662261+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Is the S&P 500 in a bear market, and will it rally? No, it's in a correction, 11.6% below its record - Nacionale",
+   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd1dZcHJrMTdPMEUtb0RVWURfcFg2SHV3TE9VRzREMkpmR2tXdWFTNXZpdzZXblRaNHhzN3dtTF9qeDdnWlVwS3ljOVhzNmJDQXRlU3JRaGVUeV9fck0tX0ptTXlZV0thVGJ4d0ZXZDM2OC1hUkJDbHRlNXdSQ0hEWGhaVUY5Q3FPUjdfX2pvOWlvSkVGams2b2JlYnlFNl9mX2R0R1BvU1diN3AxU2w2bG54bWtYS3FaZUt3aA?oc=5",
+   "date": "Sat, 21 Nov 2026 20:00:55 GMT",
+   "vu_le": "2026-11-22T02:00:35.662261+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "VALLOUREC Cours Action VK, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81dFRQMXV6RUpQQmtqcGVSTFhJa2dsVVlfdElHcXlkOXZraS12QlFTYmY5NkVqYVBuTFRtLW0wbU1jbUdOOF9TY1FFSm0xTjJp?oc=5",
+   "date": "Sun, 22 Nov 2026 01:07:08 GMT",
+   "vu_le": "2026-11-22T02:00:35.662261+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Tech stock sell-off drags markets down as Anthropic shares slide - Yahoo! Finance Canada",
@@ -6531,27 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGZTRVdJcGNQbEdjRlRQUnN1YjBzTXlaYzFDb0swSDlCNTVsLVo2SGtQTGxsUGxzVmE0SkFPbHB0dFBXbWhGQVZUdmFQZ21zeDBwcW5OSjJmOUtmQjB4U3lNVkptMzYybHpmR1hkTUZESVlQU1VtWFhsSzNGWUlmWHNUa3FCd0t6NjNFR0xkTzBxdjYySFFtSTRQbTFwTDd0TXlfVEY4dnZCNmxrVnZFWVlSR0U?oc=5",
    "date": "Sat, 21 Nov 2026 13:00:00 GMT",
    "vu_le": "2026-11-21T13:50:35.938059+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Nagel (Bundesbank) défend que la BCE relève les taux jusqu’à un niveau restrictif pour l’économie - Demócrata",
-   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc19heFBCN0FKSVktek5CR1h2WG9WNVV3aEhkV1J4WEEteWc1TDlUNWlYQVYyM19adHBLM2tEMXJxeWx3OFRkX295R0R3MjY2b2FIVXpWbVVpSzdUS3NxUTFKRmdGR2dtOHJ3Nm8tYkJOenRLN1NKb0wtekppWDVTZUxQY2tWelZPY2x1UmF5SGdYWFBRMXpGQnBLVHd4WHgwdm9wQXRQU3RjLTNIbVNUQy04eG5QUzVCZFN6NW9McnRpeHFVNGEwQ1NiNVRfZ9IB0wFBVV95cUxQRVRPSGZaZjJGY1NQUFV4ZVUyYzVZUHNsWDhLcnFmbmZ0d3FvT293RE1xYm94cjJnZlZFeDA3dmU5TTFVY0tFY2lrZGRPbzExQ2ZlLXRSUmJQTHM1M3dkemRIekt5OUhZUFFkVGtOUDFoYXZUbUdvRi0yVi1nbTF6RkJ6TFRhY3NTTG4zRmVLaDhHazJ3ZzFDbEpHaF9tSjRPYUYybEJZRW5tR3lRbVdjNUEwRXJXR3RHQnVGc3VoMjBaSmtRNnFLZjJieHRQVUszZ0tR?oc=5",
-   "date": "Fri, 20 Nov 2026 16:16:45 GMT",
-   "vu_le": "2026-11-21T13:50:35.938059+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "BILL Holdings to Be Acquired by TPG and Corpay at $63.25 Per Share in Cash Merger - Kalkine Media",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObldhZGdxMkdpbWo0Rmo4TC1OaENwSUkxRlp6OUQzT0FjRUoxdWxRM1FBNE1kc2kzNG1zd3daUTg4OTJpRmRsZ3RMdW5fVjU3UFdhQVkyZXFSOXNqcUd0eHRzd3ExeVFrWkpRWC10WHkxNTMzQmpnTkVNVmdLTHJmS2s3bEZBbm1qNy1NeHBBTnBwandJbzZRWjUyTEN1bG9KV0VEb3dzODlqOGhPTHVsLVRqVkdMZi1sU0Z4ZGJzX3o3OWlp?oc=5",
-   "date": "Fri, 20 Nov 2026 14:11:50 GMT",
-   "vu_le": "2026-11-21T13:50:35.938059+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "PWR Q1 Deep Dive: Strong Data Center and Utility Demand Drive Robust Growth and Guidance Lift - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPalctRkNPellOMGZPVVNGOVVLTFdpLUFtc3J5Mk1HS1NsUnFJeUY2azMtZDNnN2JEbTVYWGhrd3FyZUNwc0N0ZzA2SHZXZmJ2bE9KSF9DUGNpZjVnTDI0UDR0UmR0ZlUxYXI4RHU3TUVhM3FoTGM5OVU4TnZJRlpPeEhFOFlQMzVEQUdNYXRfTUhPMk9MdjYtOHl0WmRGbmZZSnhJaEh3aW83d2xjVm1lbnZyZUc5XzlGQnhzZUJKVnBVV2FXMEF1c29IVm9IQjhxM0ttV1hLYWQxdlZ5WU9pVExGWHhVS1U?oc=5",
-   "date": "Fri, 20 Nov 2026 14:39:45 GMT",
-   "vu_le": "2026-11-21T13:40:35.377771+00:00"
   }
  ],
  "erreurs": []
