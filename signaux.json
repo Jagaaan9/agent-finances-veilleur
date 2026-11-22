@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T12:30:40.317899+00:00",
+ "mis_a_jour": "2026-11-22T12:40:39.934382+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55345.78,
+   "prix": 55283.15,
    "devise": "EUR",
-   "jour_pct": 0.83,
-   "mois_pct": -23.62,
-   "volume": 82.28247983,
-   "volume_relatif": 0.34,
+   "jour_pct": 0.72,
+   "mois_pct": -23.71,
+   "volume": 84.95286762,
+   "volume_relatif": 0.35,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Pays émergents",
+   "titre": "Investment Managers Constructive On AI, Tech Stocks In 2027 - Wealth Briefing Asia",
+   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmw3WTQycS1MVnBQVkZxTjkxN25HU1psWjJLQk9Ba2RLSEtIR3drMWUxVFhkM1BsTzZNeldKd3pUTDVSUmR3a2I2OVF4RW9COGJlTjhsNmxKSEV0cFdDRjhzeklZclZ3S0xtcW03Y3FxdmcxcUpaelFvbUJjbkVMNUNub2JXdndha3ZaZnJOc3hCTTZhR1FQUm42Uk52Y0dhYm9uanJxeG1EcG8?oc=5",
+   "date": "Sun, 22 Nov 2026 12:31:35 GMT",
+   "vu_le": "2026-11-22T12:40:39.934382+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "L’HEBDO – L'entrée en Bourse (sans étincelles) d'Anthropic, les suites de l'éviction de Jensen Huang, les lourdes pertes d'OpenAI - Cafétech",
@@ -6544,13 +6551,6 @@
    "titre": "AI Selloff Has Opened New Ways To Play Semiconductor Short Exposure - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2REdlJpRXhsTWt3VlBXaUtvZnd3aGVIdXR3akhjRWhkYWFTcC1oY2xjcHBOQnZkOWFYekdvZW1QLXlaQkFtcmFlQ2VtcmN3Nzl2MWcxQzZHYzc1cllwU2o4cnhaZjVlMGtGdjgwbVN2clRyRmh5XzV3MHM4TXFYZ2lSZDRCYThsM2w3Tl8tUkVsMGgySGc?oc=5",
    "date": "Sat, 21 Nov 2026 21:10:24 GMT",
-   "vu_le": "2026-11-21T23:40:36.495202+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Is It Too Late To Consider Buying SUNIC SYSTEM Co., Ltd. (KOSDAQ:171090)? - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdWlxaUxfblZvRDBSTHB5a3RZV0xuT1ljR2VzV0lSQlZpMXlvS19xYWEtSDVvVDBOOVg5QnlYbGRmTDFqTUxTMy1oREN0OE93VW5iNFl3VXpnbHZBS25GOW9CZUtOeTdSajhFV0JxYjZlLVdocVJLc0t4TFdHdFB5ODU5LXMzZmxjYWN4RGV4aFZ5Ykk3S2lMWFk3a244a0Y5a3pkOWs1bnBsYTV5enFVYzZxQ1JQTGVlWjBzeDBKekVOMTYzN3BETzlLNEQyWlRFMmhxbDQ4UlhPcjM5clYyVtIB5gFBVV95cUxQOTg2RC1zYTdkdlR3dWUwWTl1ZVZ4UnN2QW9vZGgzS3QtOE5PeEJBLVFpTnFpMkZtNmFHdjJQbnBPLXRaTkdnWl9icHBsWE9adjA1SmdWZXhSUV9MU1UyVW5IeTNWc1kzMGJMRlJpS0lWZ2kxQXJSZUx3N3RjbUhWTnlURlY1SUhjeWRXRTJKXzljd2V3blJFNUFfUnFNeUJ5bFJETjU5X1JWdG91LUxlNnUyOEFTUklQS1FLREFTSVBFajUwYzZOWjlYbURtZ3Z6MzRSSGhiTzhyWHVtQmd6R1N3WC0yUQ?oc=5",
-   "date": "Sat, 21 Nov 2026 23:28:11 GMT",
    "vu_le": "2026-11-21T23:40:36.495202+00:00"
   }
  ],
