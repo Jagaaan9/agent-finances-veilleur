@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55585.01 EUR, jour 1.27 %, mois -23.29 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55548.58 EUR, jour 1.2 %, mois -23.34 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - G-Resources Group Limited (HKEX:1051, secteur Finance) jour -2.05 %, mois -7.97 %, prix 5.485 HKD, capi 2472715327, PER 9.4, volume x16.68 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
 - Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
+- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 5047665185, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 665841152, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3641703802, PER None, volume x1.08 la normale
@@ -294,8 +294,8 @@ POSITIONS ET INDICES :
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,14 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] BlackRock iShares Bitcoin Trust, IBIT, Records Historic Outflow on Day of Anthropic IPO Debut on Nasdaq - Crowdfund Insider
+- [Marchés mondiaux] S&P 500 Faces Thanksgiving Week After Sharp Market Selloff - cwibc.co.id
+- [Intelligence artificielle] AMD vs. Nvidia Stock After Jensen Huang’s Exit: 1 Trades at Nearly 4x the Other’s Earnings Multiple. Here’s the AI Chip Stock I’d Buy Now. - Barchart.com
+- [Intelligence artificielle] SA Asks: How much of a threat is Anthropic's multi-chip strategy to Nvidia? - TradingView
+- [Rachats et fusions] Vection to acquire zSpace in push into US education - ChannelLife Australia
+- [Défense, énergie, matières premières] Jeffries says he’ll move to ban lawmakers from stock trading ‘very early’ in next Congress - The Hill
+- [Crypto] SOL price on Nov 22, 2026 at 1pm EST Crypto Prediction Market - Robinhood
+- [Crypto] Which Crypto Under 10 Cents Has the Most Upside by 2030? - 24/7 Wall St.
 - [Chine et Asie] China Tech Stocks Lose $1.7 Trillion as Beijing Moves to Steady Market - Seoul Economic Daily
 - [Petites valeurs en croissance] CEMATRIX (TSX:CEMX) Stock Looks Priced At A Premium To Earnings - Simply Wall St
 - [Crypto] Bitcoin's Price Dip Attracts a Whale as Hedge Fund Scoops up $1B - Cryptonews.net
@@ -455,12 +463,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Défense, énergie, matières premières] Arxis, Inc. (ARXS) stock price, news, quote and history - Yahoo Finance UK
 - [Crypto] HYPE price on Nov 22, 2026 at 12pm EST Crypto Prediction Market - Robinhood
 - [Intelligence artificielle] Nvidia's AI Demand, Alibaba's Chip Pressure and More: This Week in Tech - Benzinga
-- [Défense, énergie, matières premières] Ondas Inc. (ONDS) Stock Price, News, Quote & History - Yahoo! Finance Canada
-- [Marchés mondiaux] S. Korea Rolls Out Phased Measures to Stabilize Volatile Markets - Bloomberg.com
-- [Chine et Asie] Xiaomi's Japan Debut Meets a Harder Question: How Deep Is the Profit Slide? - ad-hoc-news.de
-- [Rachats et fusions] M&A Due Diligence Saudi Arabia: 2026 Buyer Guide - Global Advisory Experts
-- [Pays émergents] Markets Next Week: Nifty eyes 26,000 as FIIs pour in record Rs 1.12 lakh crore; will banking rally extend? Key triggers to watch - Business Today
-- [Défense, énergie, matières premières] 3 Canadian Rare Earth Stocks Face Project Hurdles - JournalArta
-- [Intelligence artificielle] Prediction: These Will Be AMD’s and Nvidia’s Stock Prices by 2028 - The Motley Fool
-- [Anthropic (FR)] Wall Street perd des centaines de milliards de dollars en une séance, plombée par les valeurs de l'IA - Le Tribunal du Net
-- [Chine et As
+- [Défense, énergie, ma
