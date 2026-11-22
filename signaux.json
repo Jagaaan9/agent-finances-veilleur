@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T20:40:35.349963+00:00",
+ "mis_a_jour": "2026-11-22T20:50:35.193612+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55244.18,
+   "prix": 55435,
    "devise": "EUR",
-   "jour_pct": 0.65,
-   "mois_pct": -23.76,
-   "volume": 154.21149765,
+   "jour_pct": 1.0,
+   "mois_pct": -23.5,
+   "volume": 155.82770389,
    "volume_relatif": 0.64,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street Strategists See Silver Lining for Stock Market - Barron's",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVGVBc1ZvVkN3NHA2dnQzbEFQeEtsanRGYWluMXRLamVkZHNRYlZyWnZXMnRHQzk2SWhuSjh6Xy1ySGE5blRiZXA1ck1RM3pyMEZiX1RickFIVzBxa3NGejJNN1RGcFQ3cURNd05pVGNFZjFHM3dHV2RxTVZhWWU3eUhKb1JqM3RUcEQtc3ItN1lHVUh1Smc1dmNvZjJ4QQ?oc=5",
+   "date": "Sun, 22 Nov 2026 19:46:00 GMT",
+   "vu_le": "2026-11-22T20:50:35.193612+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Foreign Institutional Investors Log ₹1.12 Lakh Crore Inflow - Multibagg AI",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXhnbzJLTGd3QmdDaG41cmVlQjVYdW5SZlJKUUx3ODQzMk82YkhTcFh4TXF4aTlOMVJDWHBrNXFOeElEbnIteEtLeU1KWWF3OXFCd0h2NEFSOW9sREZvb0JsYVRWWXpIOXNXdjg0YndxajNzNzlpc1RZZU1oZnVIdC1GckI1N0VJcU5sTFRoUTA0MXBpQVRfMjZaUk9iZEhCbXdSQVM1QQ?oc=5",
+   "date": "Sun, 22 Nov 2026 05:00:36 GMT",
+   "vu_le": "2026-11-22T20:50:35.193612+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "IDBI Bank Clarifies Disinvestment Status Amid Market Speculation - scanx.trade",
+   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSTRPV1UycEJmSzRfSS1BVzdpdFVRNDdPRjdsM2hpd3MxTWU2UTBIbGFDZjVCTlc1aGlUMWlSODROYUR2a2VVdWdYQ1QyVVFreHZHMm1BTmdDZVNYdjRuS0dYYm5WUDg5X3hNSC1uQ0FrWjlTQWNlcDNySmo2YlJVMUZZano1Vzd3T0lVZ2xWM2hja2VQQ1NsbTVtLXIxNTJnQTBkNHlDQXdLVVBGVjVzcENvaWhWcW13TUVxRDd0R1VkQ0tiZ2hrblp3?oc=5",
+   "date": "Sun, 22 Nov 2026 09:24:46 GMT",
+   "vu_le": "2026-11-22T20:50:35.193612+00:00"
+  },
   {
    "sujet": "Crypto",
    "titre": "Dogecoin price on Nov 22, 2026 at 12pm EST Crypto Prediction Market - Robinhood",
@@ -6531,27 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lclRlWWVEd1lCY1E1cWdpTTVEOF8waEdsejI2R2h5bENyNW1KTW9MT1hLaG9pMEdfQm9lM3Yzc0czN19zUjVMaDc0TjZGejBsMlB1WWRBVVpkbTdzWEJVWnZvYXR2ZUE4b3Y1MHBvY1BwVTRzdDdOVk9n?oc=5",
    "date": "Sun, 22 Nov 2026 08:03:12 GMT",
    "vu_le": "2026-11-22T08:40:37.294130+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Nvidia and Anthropic Will Really Test the Stock Market. Only One Thing Is Certain. - Barron's",
-   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHNBeWZmdmgyeDJLV2FtWXRCNkdid0pVVE9ncnl5MHZfb1NBOFI1Rks2V1V3Mm53OGpJbERpa0pYcFVMSlJUSHc3VmhXdXh5V25tcUNhR2pxdGVZZlV0d0pYRmtXR050Rl9hbnNhcmNHLWFjNWpoN0V6a3BDMURacA?oc=5",
-   "date": "Sun, 22 Nov 2026 07:46:16 GMT",
-   "vu_le": "2026-11-22T08:30:35.819246+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Ed Zitron Calls Anthropic IPO ‘Exit Liquidity’, Warns AI Sell-Off Could Get Worse — ‘Things Are Only Going To Keep Going Down’ - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUhCSWFJV1pKZ1N2a0EtcDNyTzVNUS1HeWZSdGZnaXJMdG94N1JwVUd1Ymp2N2Fta3N0X01XMEUtMXZWYUYyZjJCbnlXS2hieVVERmhjVmZtYUtXYTkxcWRITktYcjJ5a0k0NU1iUUNNLUc4MF9WeVgzcWNJM1VFMUMzNjRnazhwTURZa3kxekIwQkt3MGVZNg?oc=5",
-   "date": "Sun, 22 Nov 2026 07:41:00 GMT",
-   "vu_le": "2026-11-22T08:30:35.819246+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Giá vàng mất gần 37% trong 10 tháng, điều gì có thể đẩy giá xuống thêm? - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeC1HY1QyM0ZaSW5ycWFWUFlGWjdyUnBQR2JfUmI3UUI4MTRwQXRxNW1NcFlfbXh2QzB1ZjZPTXZsNFZ2Z19lMHhSbkhIYl9iZ3loU3ZTSmFjemF6aXZKaGpua2oxbjlpUXdBUnZDWGl0bEZpSi1nTmVwaGVNUW5fSUduczFQWUFKdWZabHhWcC1Kd19zWmJoZHFB?oc=5",
-   "date": "Sat, 21 Nov 2026 13:33:40 GMT",
-   "vu_le": "2026-11-22T08:30:35.819246+00:00"
   }
  ],
  "erreurs": []
