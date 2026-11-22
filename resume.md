@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55853.96 EUR, jour 1.76 %, mois -22.92 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55581.17 EUR, jour 1.26 %, mois -23.3 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - G-Resources Group Limited (HKEX:1051, secteur Finance) jour -2.05 %, mois -7.97 %, prix 5.485 HKD, capi 2472715327, PER 9.4, volume x16.68 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
 - Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
+- Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 5047665185, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 665841152, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3641703802, PER None, volume x1.08 la normale
@@ -317,6 +317,9 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] À l’instar de SpaceX, Anthropic a mené un processus d’introduction en Bourse inhabituel, au grand dam de certains banquiers - Zonebourse
+- [Résultats d'entreprises] Intel Q2 2026: Revenue Up 25%, Data Center +59%, Stock Surges Then Retreats to $100 - TradingKey
+- [Crypto] Bitcoin Won't Be the Best Way to Get Rich in the Next Bull Run, Expert Claims - Benzinga
 - [Anthropic] What Comes Next After Anthropic’s Historic IPO - WSJ
 - [Bourse de Paris et Europe] Bourses européennes : éviter le jeu de qui perd perd - Les Echos
 - [Pays émergents] As Wall Street struggles, is India emerging as a new investment destination? - The American Bazaar
@@ -453,7 +456,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] 'Shockingly Low'—Trump’s Worst Nightmare Is Suddenly Coming True As The Bitcoin Price And His Crypto Memecoin Crash - Forbes
 - [Crypto] Bitcoin's Downside Risk, Dogecoin's Support Level and More: This Week in Crypto - Benzinga
 - [Pays émergents] COP31 climate talks end without deal as EU, island nations reject draft over fossil fuels - Moneycontrol.com
-- [Crypto] Arthur Hayes warns Bitcoin could test $50K if the Nasdaq keeps sliding - Crypto Briefing
-- [Anthropic] Blame game emerges after Anthropic's IPO market value plunge - WSJ - TradingView
-- [Marchés mondiaux] Trump's Economic Policies Fuel Inflation Fears As Wall Street Faces Growing Risk of Major Sell-Off - تسنیم
-- [Banques centrales et taux] Taux immobilier 2026 : Barème, évolution et simulateur - M
+- [Crypto] Arthur Hayes warns B

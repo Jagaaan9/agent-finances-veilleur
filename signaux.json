@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T17:00:35.288490+00:00",
+ "mis_a_jour": "2026-11-22T17:10:35.657746+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55853.96,
+   "prix": 55581.17,
    "devise": "EUR",
-   "jour_pct": 1.76,
-   "mois_pct": -22.92,
-   "volume": 125.98541712,
-   "volume_relatif": 0.52,
+   "jour_pct": 1.26,
+   "mois_pct": -23.3,
+   "volume": 127.99178403,
+   "volume_relatif": 0.53,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "À l’instar de SpaceX, Anthropic a mené un processus d’introduction en Bourse inhabituel, au grand dam de certains banquiers - Zonebourse",
+   "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcXR0X0ItNUg2YkVjQnk1ZHFNM1hNSDA3eE9MNUlzM3kwbWU4SWxoT29uLV84ak9OT3FCZFJfNXNMc3JyRU9rRmVTY1NYQlZuWjQ3Rm9JSXcyUWlWQkRsZUNZeV9oRkpya3RuZXd1OEFQeGFfY3VzdXpJeWctWmk4VWFoWS02SS1LaXRSa0dwdjk2aTREYk1kYWRGOG9jZzA1dlFzUU16WGZ3TUc3UGtFRGxxZEdzenpMclZRUkJVUXZ3ZVpXN2NEdEdCa2NDNElOTERPVUw1THhUdDc3TS1XNmNvT1kxYjFTMG5CUVl3?oc=5",
+   "date": "Sun, 22 Nov 2026 11:01:49 GMT",
+   "vu_le": "2026-11-22T17:10:35.657746+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Intel Q2 2026: Revenue Up 25%, Data Center +59%, Stock Surges Then Retreats to $100 - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSTRQZEVBYzJNekhNS2NEYThtTnBoNEJCcWRZTS1SSFVXYnVfNjdpNndfd2xrWklfM2JvakdWTUdQNjdWaVFDaHl3bEo5WnpwUWZZQWlwdUpfUTZqbUR4R1hHdDhhLVowZU5IYnllc3ZkVTBHcDhGbzg0SERudlh6TVlNc3JPb2FjdkNjNFo1SmkzMFZHcmk0d1A5OERwMlFFeVhrQ1RuSVJVMmd1U3E1Z0toZWN6RWE2c1NkeU9ZejM5cGhJV0pxSg?oc=5",
+   "date": "Sun, 22 Nov 2026 03:35:48 GMT",
+   "vu_le": "2026-11-22T17:10:35.657746+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Won't Be the Best Way to Get Rich in the Next Bull Run, Expert Claims - Benzinga",
+   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcXBzSUpiYWc5bHhpWUVhRGtPNkRPaE9QOXVhLVUzQzJTMFBqcGl0YzBtZjY1d0FEZmZuZEhBTDFtNjI1S3RqNXIzSFlzRUhsRFlpcDJUeFJQSXA0R3R1X3AwU1B6ZUhoYWM1NzI3ZnRIdzZoUjlnU1lHeHhScWlEQ3Y4Q2NJbmVMSUpsNS00NGhVajdzNmtQVmZ3bDhWVDNsUzlDaGlPSEhEbDZiTEtjd0VNY2VZRUc1SHNGUWVNRjJrWE1INlZYWUhhNFpaNnFBNWkw?oc=5",
+   "date": "Sun, 22 Nov 2026 17:00:08 GMT",
+   "vu_le": "2026-11-22T17:10:35.657746+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "What Comes Next After Anthropic’s Historic IPO - WSJ",
@@ -6531,27 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWttaE9UX3FoNkdvbHZpaFRfMy1kN3V1X0RRWFFqc0ZuZk5qTm1fMk1yUnBMOXNOaTdsVHg0UC00TmYxU1k1TEoyTmxBb3A3M3Jmdm5XZjJFZnp5VWx0SHg0RUFLNThwd1MtdWU0cjRMd1oyVjJGWTJXLWxNSUlQU0VhMGlyQ2tGeXJZSzU4d3N2T2dBXzhjSkFYZmJPMl9OT2RQY1d6QdIBpwFBVV95cUxOVWttaE9UX3FoNkdvbHZpaFRfMy1kN3V1X0RRWFFqc0ZuZk5qTm1fMk1yUnBMOXNOaTdsVHg0UC00TmYxU1k1TEoyTmxBb3A3M3Jmdm5XZjJFZnp5VWx0SHg0RUFLNThwd1MtdWU0cjRMd1oyVjJGWTJXLWxNSUlQU0VhMGlyQ2tGeXJZSzU4d3N2T2dBXzhjSkFYZmJPMl9OT2RQY1d6QQ?oc=5",
    "date": "Sat, 21 Nov 2026 08:55:10 GMT",
    "vu_le": "2026-11-22T05:10:36.902562+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "RENAULT Cours Action RNO, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQnhpaFNXNzBFZzZLUHNkdjRKUnJHaTZBQVFOeDhaQTBMd1pFWllJVUgzQkVlNTZXTlNPV2ludU94Z1ZzdVc2Z3oyTEVsNVdMelE?oc=5",
-   "date": "Sun, 22 Nov 2026 03:52:40 GMT",
-   "vu_le": "2026-11-22T05:00:35.885298+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "ETF Daily Report (Nov 17) | NVIDIA Earnings Window Approaches; Hong Kong Internet Stocks Lead Decline; Crude Oil Market Supply-Demand Outlook Shifts to Surplus - Moomoo",
-   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFZkc3B4SnI1OE1rYUdRU0Y1bFZwWUw1TjFhZ3JVb2lCTjBobUxaVy03X1hkV19Hc0ZvTWN2MWcyWEZfX1NnUWlOZ25BMXlfa3ZmdUJlNFFlM1lHY29XWlRPbDF1aVFhM3dzVUtSZ3R6azB5V1JsalNTODgtTzFDZWVXcjB0ZjFhYW16SnJ5NG9VMWZ4bjRoTGtIamJaWk56Z1ZQdGxFSndhZw?oc=5",
-   "date": "Sun, 22 Nov 2026 02:49:29 GMT",
-   "vu_le": "2026-11-22T05:00:35.885298+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Upcoming Key Events: PCE, Q3 GDP, Xiaomi, Meituan, Bilibili, and Dell Earnings - KuCoin",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWpqcFZmT1FSbWFBeVZCek9fNzF6UXc5Y19PUjF6TzJBV2JKaGxqUXNQQUoyRi1GaG1BY0FpV3REVFVYVTlFYTdodVBHSWJlcmlIeUN2RE9nUzU1aUJCeTV2V1M0anVTcExuc3JIX2plMmhrck9uTXVDRUpGck14U1V0Z2pVQ190N3RuMzh6YmlwUFVHYTJoc2FCVmU1MmNaLW5tM3hB?oc=5",
-   "date": "Sun, 22 Nov 2026 04:57:29 GMT",
-   "vu_le": "2026-11-22T05:00:35.885298+00:00"
   }
  ],
  "erreurs": []
