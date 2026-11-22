@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T02:20:34.712924+00:00",
+ "mis_a_jour": "2026-11-22T02:30:35.881538+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54586.05,
+   "prix": 54532.25,
    "devise": "EUR",
-   "jour_pct": -0.55,
-   "mois_pct": -24.67,
-   "volume": 5.4894804,
-   "volume_relatif": 0.02,
+   "jour_pct": -0.65,
+   "mois_pct": -24.75,
+   "volume": 6.55706751,
+   "volume_relatif": 0.03,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3491,20 +3505,6 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Hang Seng Suffers Four-Day Losing Streak With AI Concerns Rattle Investors - BusinessToday Malaysia",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1lZQkc5T2FsSl9sN3pINzFKREhjaWlrWjFnM0wyQTJ4Qjh4VVIwcFhHdEdyOGM0ajA3YjF4Y291X0pIaHZoeTdfNHJXaFRvSWVqZkJsM21GU1NKX28yMF9teWlwN3ZhR0ZadC1jRWE3Q24tR0JiTzRUYURlU3d3OU9JWlBpc1lENHl0N3B6aVZQM1pVZlhKUmYzUnVOQmFUc2syYTlnTGZtYjktSHlRcnFxVmY5QUJSanVZ?oc=5",
+   "date": "Sun, 22 Nov 2026 02:15:00 GMT",
+   "vu_le": "2026-11-22T02:30:35.881538+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China - WSJ",
+   "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94MVRKSkVSTXVkZmRDTWYtakd3VFYtQ0VIWUhWRjVzTmlEUE9HbHh5QTZZU1pQMHRaNEpacHRjZWxad1c4VlJOdktDcFQ1c1lqRmdBR2hkZmFFVlAwNXdOamUtYVVmS3pJeFdpbVBKb05BZnYtLXktamVR?oc=5",
+   "date": "Sun, 22 Nov 2026 02:00:00 GMT",
+   "vu_le": "2026-11-22T02:30:35.881538+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Merger Control Colombia in 2026: A Dealmaker's Guide to SIC Clearance - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTHVNME11c1NHc0dlQkMybnpwN0R0dmNCeTV3YzUyeFd6bDlZSFhTMTdoTXlZV2p0dWRDQmtJSlpRVEhEcnd0OEVHelVtaVJwRHhsNWJpUjRGME9WT3AwbUlFQTY3SjhvQ2ozR19DMG1TX2lwRUVOLV9GUWsxaXBhcFJ6RkloREdLd25JSTdB?oc=5",
+   "date": "Sun, 22 Nov 2026 01:02:32 GMT",
+   "vu_le": "2026-11-22T02:30:35.881538+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Trump Calls Mojtaba Leadership 'More Rational', Rules Out Regime Change Bid As Focus On 'Permanent' Deal To Block Nukes - The Daily Jagran",
+   "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVU1VY2hGZjFkNkRwSVJFdUpGR2dmLWJ0WXRrSTY5ZHNZTEhTUVdCUGlGTDBva2pGa1B6SkZOaVFPdEFIZWh3dDdYdmU1VmJ6aVFuWWZ6Nm05bnVvWjRLX3dlWjZHQ1N5Sm9BazJhRmxjSUMzWnJVbXo0T0pDS0ljbWUxY1pmZFVVUFlITENITzY3V3o4ckhobXRxbUJleEdJR09lY0FMSWpwZ3dfbzVCekQ0ZFVpSDRjSVh5dXRPMVhDcEozYnFzVEhTbzU0R2piMzQwU0xVN1JHYUdGZkxVSXo0cTF5dHRialFKR1pn0gH0AUFVX3lxTE9LQmlNcWg3TzhZVUdyS01Jc2lOZjI4cnd0RnFHR3hYRFNxTkZGLXhiMmw1c1hXa1JxT2tvOXNBWENCTHpPNWwwR0RwRkoyaHVQcXN1VldoaG41OVM3dUtpYldEWklGUFRVYVpnWEhtYjRVTDR6TmJjcmtTVzd3SmZVMU1fcWZTUGhLNExKbVpJU3AxYU5lc3pvRTZkR1pmOGNRQkJQaWJaYl82UzVsdFBSMkdKZ0UzM2U0dUNCOGNqWmstemZzTWdlYmJOOUhSWVNyNmFTaUZfUGFDQk5nMm1OdUdsNUdhN1loLXdQOFBYcW9VTFY?oc=5",
+   "date": "Sun, 22 Nov 2026 01:43:00 GMT",
+   "vu_le": "2026-11-22T02:30:35.881538+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Wall Street asks what can save AI trade after Anthropic wipeout - The Business Times",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeG82NkQwa1ZyWU1wWVB1U3hHSURZMXViQVZzOVlyTzRzczdndk1WMW9JUnZpbTFnRmZCaE1GRFFRTnNoSUZYM0owME9jcFo4bGI4Y3paeDAtMnlUS2hpZktQWDA2S2staHBWSTZ1SUtxbXJlUFJTLUxSamtUSWFkOWQ2TjlERldPQjBtVTNrV1Iyd1kwQ3l4WFlNVHUwVzQ0WV9OX004QjhicDFILXlncEJWTG9MQnduMzFR0gHHAUFVX3lxTFBYbXhwOGxZRWpyc3J5bElBTTVOSkR4YkdQTmlkVUV0Rk1fSjN2M0RzYkhMaDJrSU9FOHlzQ19vQlUwRlBqOTVkY1daUEYzY1ZDa3ZZWTNBZlVnZnBaS1p2QW5fbzFxMVhHS21vYUlhVXg1UTgxMl9XemR3bVl0aDZkaVhZMzlObWp5OXUtaFlIME02SE11QnAtamZxcUhSTHlocXY2V3JDdFNqcHQ1aE9fWTZzT184Vy1KV1hUbEF0WnZEXzhuM1U?oc=5",
    "date": "Sat, 21 Nov 2026 14:09:44 GMT",
    "vu_le": "2026-11-21T14:30:35.990035+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "L’euro aborde une semaine dominée par l’inflation américaine avec une hausse des taux déjà intégrée dans les cours - www.tmgm.com",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNczJXSXJnekxEZm1acDlXU09RallXeFNJMlpPWnBJMzlNeHN5VWpTVFpxcmhzMG1SZ3BHQnl6VVEybWltdnNCREl0Z2ZheXlGeHZTUGpLQmFXbldOV1AtcU1sRHF5bW1WNFNJQWNWNVh0dkdxNDc1Tmw0YUN0T3VVS29sb256TV9UMFdSWmRjZElhblRhajhmWEhvOUZtZW83VlhWWHVLN1BtMDI0WkNvZVBncWlCYnRCY2s2OE5GbGVzaGQ5V1hFM3VNQllidGlWWFBtbWFNZjZkRXl2?oc=5",
-   "date": "Sat, 21 Nov 2026 00:39:54 GMT",
-   "vu_le": "2026-11-21T14:20:35.850415+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Asian Stocks Look Like Bargains. Where to Invest Now. - Barron's",
-   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2NFSFZZVWYyMmpLUWswS0s3QklZQjU5NVZMaF9RcUJnVnpMSzNnTDBVMGVVRV9TUktQeUF1ZjNfZGVfV18zUGdKTWpJbnluZTRKSk1rWTJwd2wyRzczLTc2emZZdTlBaS1yVVZ4dVZvYUpGY2xXNW9lV050VWx4OHg5STJweXk5Xy1j?oc=5",
-   "date": "Fri, 20 Nov 2026 16:18:00 GMT",
-   "vu_le": "2026-11-21T14:20:35.850415+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Why Apollo's £5.7 Billion easyJet Takeover Caps Its Funds At 49.9% Of The New Parent Company - Simple Flying",
-   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVlhWZUdYNzdHcVpSaU1lbkZ1UUpOWW1fMUJsQ1NfVGdYYnZfOFBsd1VqQ25FZVBnUVBZXzZXcy05T2w1VnhpeXd5NUl0ZDdhYURXd2VobHVwSXFLMGdmcERFTWlFNU9RaFR2RWNWeGdUYnJjcDhJNE5JX21kM3FjblhOUHZIZw?oc=5",
-   "date": "Fri, 20 Nov 2026 16:00:19 GMT",
-   "vu_le": "2026-11-21T14:20:35.850415+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Unusual Volume Alert: Kroger (NYSE:KR) Shares Rise in Active Trading - kalkine.ca",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUkFvTjNNM1JzVHYyak9PUEpVVTNGQU8xTmlrcFZfbDhZd0M4M3VtRkZUbzBmamhOckpBZkZobGlydTNwYktpY19mUGpMeXVKZW5EaW44TlZuN3pxcDZpN1pZZ3JYUHlwODhXWS1ESWFSalExZE85WFF6ZXRQTEdJSzdmckNYVWhoVGRlNzh4NVhaSWMtWlVxeTZTUQ?oc=5",
-   "date": "Fri, 20 Nov 2026 20:48:00 GMT",
-   "vu_le": "2026-11-21T14:20:35.850415+00:00"
   }
  ],
  "erreurs": []
