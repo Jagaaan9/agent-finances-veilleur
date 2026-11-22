@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T06:00:36.898940+00:00",
+ "mis_a_jour": "2026-11-22T06:10:35.253495+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53708.04,
+   "prix": 53948.13,
    "devise": "EUR",
-   "jour_pct": -2.15,
-   "mois_pct": -25.88,
-   "volume": 17.03110294,
+   "jour_pct": -1.71,
+   "mois_pct": -25.55,
+   "volume": 17.59413404,
    "volume_relatif": 0.07,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Pays émergents",
+   "titre": "Is the AI boom losing its grip on emerging markets? Jefferies flags risks - Investing.com",
+   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYXVPSmc2dEY3bjVValBMZWw5MUhhem00cmVpZ1hjNUZ2dzFlS2tpaVVvajBMcjY4VllHdm9Kb1p2eFNoZlN2WHQwOFNXRE5kYU1jUlhJUHNwLUxjdV9uTXdqeFI1dF9LY3MwVGVjUGFYTzZyTkhYU2hyT1lNX0JRRXU1d1JVbExzRWRtcjhUcG9TVDFmTkhMcVBfQ3l2ZVJoNFBuUUU4d1lEbEstc3lNQmpoN29uZE1kRVN2V2Vjd0ZOeWljTkU1dA?oc=5",
+   "date": "Sun, 22 Nov 2026 06:07:03 GMT",
+   "vu_le": "2026-11-22T06:10:35.253495+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Nifty at nine-month high, 26,000 in sight: 5 triggers that could fuel or derail next week's rally - The Economic Times",
+   "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPY2REdUZvVjhpeUhFMGlRR1ltSXliSW1ITFVTVVEtNGI5NVM3TU8wUU9fTnJ5dXRmdEVxcWFMRzRBRFZBX1I0QXRRRVdESlJSbXRGYTdjN1c5cWFxbFd5eF93cVFGdGg5QURFZFh0SFROUXEtc1QweHBqblV6UElPVHhXODNsQXpJdzNFcjFYckR2SFZkVk5VZEsxYl85VDN1VmtqR3Zia3NCSjNPczV0XzJ2ZDhoR3V1ejNlLUhRYUVuUnBUeC1GNGpRWGtRSWRWaGxpZ3lWb1QyVlZ1eHZRQUI3ak4tclZoaXRyUDA5eXpDdkhQc2NrQzdXQdIBgAJBVV95cUxNNURhSHVPallUbjFwaGtkTHo0dzJIVlBBOVdmem1KUC1uLVVFcUpydTYyRUg4SjloZHBpcXVvUXFubHVIRlVuNU9TTkUwVXpkRFdKYWt2aWpaSl9Rc3N1cUg0ZXpyZGFwbHJQUHR5NTJkRlpscldZTUFQREZjbkRQbWMtZmZhYkFXWGF1OFU1N1ZRYnRJa0lmdlJoRElLcEp2MHBFbU5qeDNzVC1MTmFPYU1ZendJNDduQmNmcFJuZmFRdG0wbWY0U2JVd1lLOWt6YnlkeFFodjc4Wi1GSGJlRUs3TXNtM3VYUE1LOWVSQnNyUHV6MGFOZTVRcVpmM3Vs?oc=5",
+   "date": "Sun, 22 Nov 2026 04:39:09 GMT",
+   "vu_le": "2026-11-22T06:10:35.253495+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 22, 2026 at 2am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZXkweEtLRTIzaUlwODhCWkdhbDNqUXk0MW1CZGZJYWxCbWw0R3J2T1c5NDhoS3ZFTlc0R2NqSWRFajliSzBiV3g4UW5lZDRraUdGbXZGRC10OTFISzFoaW91eDVjc3FJM3QtSGN0TzV6VkZ1QlZTWGFCdnNfS3ItQnU3eEN1Z0ZMQU9CRXRDd001OXBPdW9XNDdva2piYWJ6bGhzYThDMUdFV3NLNGc?oc=5",
+   "date": "Sun, 22 Nov 2026 06:09:12 GMT",
+   "vu_le": "2026-11-22T06:10:35.253495+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Midnight price today, NIGHT to USD live price, marketcap and chart - CoinMarketCap",
+   "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYZ2VEWkwwcTBDQjRFQ1ptVWZfZmJSa3ozbG9QVUNza3BTUjRCVzZuRFFfa0J1TFctZngtRnY0OVB0d1hfcnpVV2lsZmxRMnJPeWp0MW1yWHR5ZUJ3aVlEQWtPRnY?oc=5",
+   "date": "Sun, 22 Nov 2026 00:59:04 GMT",
+   "vu_le": "2026-11-22T06:10:35.253495+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "L’investisseur futé: devriez-vous acheter des actions d'Anthropic ou non? - Le Journal de Montréal",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXE4OGstY1QyaDJwWngxdnhnZnRCaWU4bUprV2xKdDNwemJlODFJSnBDRHhiLS1OaVJiVzV4TkcyemZ1Zi03NHF0RTNNU0F5SF9fVVJKQ2tCOXlpVHhGajZRa2FkTlJPd3kyQ3RCU2k1RzlrOHZkTlRFcmhCalQ4aC1VNGNUbVdHSFRvNGRDd0lIYXA0N1EzTzVad2huV2ZOUGtRbklCbEc2aGtX?oc=5",
    "date": "Sat, 21 Nov 2026 16:21:14 GMT",
    "vu_le": "2026-11-21T17:00:36.935438+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "L'Espagnol Pablo Hernandez de Cos s'impose dans la course à la présidence de la BCE - Les Echos",
-   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSTFjdEJyZkpXQXNmV3d1Tmp2TWh5MjhOeVVMYTcyUnFTdGd3d1JpX0xUMzVmZUdjYkJuSzNmTUFiS3UwN2ZRQWpteHVXa2hYSlhfdXJ1SlBFcTgtSk5GTzgxRkU1UXdjalJaMC1pWF9HdVlPQTJNenRTRGQtb0tiemM1UjZXWDBwSVNYbHNvYUZaWnJ0Z0lUa1NNUzZ6eWpiZkpfQ3VaZnVrTVJhcTVlbEtzc01GNDM3R3RVeXZMUlFCYWVNWFMyQlZzZFRsUVpxd3NKT1B0QTI1RzdpVkZyTHp3?oc=5",
-   "date": "Sat, 21 Nov 2026 08:25:09 GMT",
-   "vu_le": "2026-11-21T16:50:35.121738+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "BCE : l’Espagnol Pablo Hernandez de Cos sur le point d’être choisi comme successeur de Christine Lagarde - Le Figaro",
-   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS2xDMW8tdzNtMXh0NDlHMF9KVUlwYk91blNhYkxwZzB4ZGVuemNkSFhNRkd2N0NLODE3OF9qUkVrUkN6Q2tuckJLRDZBekY4bXNBSG5mRkFra3VMSzNRWjBYRVRqMkIwU1RTaGpISEVHYVV3UW55Qk5DUTNxQ08xNWh3ZWo1ajFEZWg1S3EwRW8yTUpWYTdzbFFUOFk2clJXSng0VG5QZ3NDVGVYZHlYSWcxX2U2Z2ZYQkNNdzBBdW1HU3NqWlBqUFdKeWZnWG0waHZUcVdFYk50eGhKMUVydw?oc=5",
-   "date": "Fri, 20 Nov 2026 18:56:00 GMT",
-   "vu_le": "2026-11-21T16:50:35.121738+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "La gouverneure de la Fed, Lisa Cook, estime que le FOMC ne peut pas se permettre d’attendre avant de relever encore les taux - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNzFaNktoa0Ztb0c5NUtZV1o4QXQ5VWhlcHRZU1FHOHh4aXIybXpiN3NYSktiZ2RoZWhyOHJxZk1naVZ1aU5yLWlMdENNVmM2dW5hSk5DaDZtZlVCUExUblJaamRrN3k3NjhJZ3FabHlvTEZ3N0YtV3Y2SlBqMFBSRDlrTmpaYU1YdjZYYS1POEFlODBMcjBBSG1nbzBvMXNGb0ZjWXE1QTk2elBwZEotdG1ZazQzUFJ5cmJmV0dLV3hGNXdvbHBwTTk0QlZLS3VmRjMzQ3lOVF81bFNRU3RHeDV2OHFKWTZXZGI2Vg?oc=5",
-   "date": "Fri, 20 Nov 2026 17:37:26 GMT",
-   "vu_le": "2026-11-21T16:50:35.121738+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "TCBX: SEC Form S-4 filed by Third Coast Bancshares Inc. - Quantisnow",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1Z6cnVWRVkycjQ0Q2pPMjI1UU14S3NIWkxoY2FpdlZjQmtNbFNXWlcyNWw2eFVUVFpTSUU2a0VLcDZ5WGJtS0JPUFNDWXEtNElYSldVSm01bXVyRlc4NDg3ZTA5NTQzV2prSW5VZkppUi1jYXdNN25QTlJweko2NjJQckN1RUZHcnUzN2tScmQ?oc=5",
-   "date": "Fri, 20 Nov 2026 22:20:42 GMT",
-   "vu_le": "2026-11-21T16:50:35.121738+00:00"
   }
  ],
  "erreurs": []
