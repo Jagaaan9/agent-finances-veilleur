@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T04:00:39.123352+00:00",
+ "mis_a_jour": "2026-11-22T04:10:35.857490+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54095.13,
+   "prix": 54195.56,
    "devise": "EUR",
-   "jour_pct": -1.44,
-   "mois_pct": -25.35,
-   "volume": 12.69111802,
-   "volume_relatif": 0.05,
+   "jour_pct": -1.26,
+   "mois_pct": -25.21,
+   "volume": 13.73146629,
+   "volume_relatif": 0.06,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic stock slides with rest of market after big-ticker IPO - Washington Examiner",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc0o1TFlNT1Y2ZDZDdFBTcHBjX3g3bFRxaDZLdTNvdFlTdTdKbG9fUFBkeUdpMXJJcWRhWkF5dlVraGZIZDlSd2lhWnlKZ09Uckp1ZDRRdllKNnBiR2dvZW9pOWQxd0UtUkVSeDV4Mkg2YjBkNE5TeksyNnpfWHBaVm1Ka0Nnc3RuNkFaQUd0OEo0MnRfRmVweDlZQW95YVYxRFE?oc=5",
+   "date": "Sun, 22 Nov 2026 04:01:03 GMT",
+   "vu_le": "2026-11-22T04:10:35.857490+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Panique à Wall Street : faut-il craindre un krach après une chute historique de la tech ? - Le Figaro",
+   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc3VkVTF4TDgtQXkxU0ZyRDU2aXVFTU01NjdPRndfb2tRNU5nYVowdDJlV1ZPS1pBOGl3NDhkcFRPX2I2c2sxTHF5RkxJanBXQkxEV2xpQnNkVjZXWW9FUGg5RHU1N1VsLUdRX1hVRFFENmNYSXpEYTM2Q1FFa2pmd05TUEZZUUZPMzlCRy1rRUo2ZDJpRDhHVU04Z2lOdllLc0gyNmFGYnA0LVFtcW1hdklaaEE4T0tWMExlVWZtSTBoX0xnQTFSM1I1aUFuaFNWN3c?oc=5",
+   "date": "Sat, 21 Nov 2026 13:09:33 GMT",
+   "vu_le": "2026-11-22T04:10:35.857490+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les prix mondiaux de l'argent ont chuté de plus de 15 % cette semaine pour atteindre un plus bas en 14 mois, tandis que l'iShares Silver Trust (SLV) a acheté de manière inattendue 77 tonnes nettes. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPanJhSlRBLTZ4RDE5ZTVOb1FTcnVOUHNOaV9pcG5ucW9ESE5aN2tlZEZmbUtkZERqb3g5cEhCd1hPRzY1WWlzNEZfcW8yVlpFWmN3UURwTzI4WnpYbVNtOHZrZGswUF91TVlwdm1yaDZBLUpVNUFCcDBESGc5THpMaVllMm1oQjdGNGcwYnVsYTVHUE5XdUVpbzItWDBocnd5ci1oaUdZRTQ2enJkbmE0RmFhMXB3UExsdllqTi1QRENyS3R4a2FiUTNpa0VQbEU?oc=5",
+   "date": "Sun, 22 Nov 2026 03:59:16 GMT",
+   "vu_le": "2026-11-22T04:10:35.857490+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Nvidia Q2 Earnings Preview: Gross Margin and Rubin Hold Key to Breakout After Four Straight Quarters of Post-Earnings Drops - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaFNkVFRDVlJ3OUJvc1hMZUl1UzA1RTN2ZFd6MGUxUnFQbXltQlFWV0U5RVdEcFBIc1VkN1dnQ2VFcW1EaVVScjgtWERlVE9SNHU2V093QjI4RmdLRTZyWTNLcm0zRFNILVZ0YTZFUzJIQjhUZHBWNXFhU3pnak5rUWtVQjIyMUhERnZxY3dXVHpncVhDQjQzZ1o5aF9QQUUtbDlON2ZuZllMdGFwMzBwenlXcTBCd255VzB5ZVpxUHdrNmZMMlhCSVdPUFpldlBpa3Vld1M3VlFmdw?oc=5",
+   "date": "Sat, 21 Nov 2026 14:53:52 GMT",
+   "vu_le": "2026-11-22T04:10:35.857490+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "ASML (ASML) Q2 2026 Earnings Preview: $7.94 EPS Expected, 8% Options Swing; Triangle at $1,800 - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUk5WVnlaMVZ4c04zTVNBV2ZTSDdGOGlsM2xvZUFVZ042UTI3U1p6N0tiaVFJNS1qZmNOTEF1NTBQaWxCWUpLVWF2eXRVSG80R0tTenZGeW5XRGVfMU1RbEEzeXhQS212QVhweVA5ZFdmbFJUamR6UTgwOXpTN1lDZDFtSVRMZWpSSndZclJ6RmxvNFo5VS11RnBtU2xRdFhDT2JkMWEtY2RvdW8zdTkyaE00dlB2WDdVb082OHVROFBoWVRwaEt1NUJn?oc=5",
+   "date": "Sat, 21 Nov 2026 15:05:21 GMT",
+   "vu_le": "2026-11-22T04:10:35.857490+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 22, 2026 at 12am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYktMOVJFMktOUHU2MVZjZlRDNVNpRU9zMXdaZTRFSk5ZYjhfcHE1SHJTYk9lNEgtek9YdWFTR0hSaHNYWTIyU1dkeEZ2cGRYeUJEOVdhYkxocExodURMQkNNdGJVX3B5aDlnNlBhd0EtMjhoYW5aRFNZYkl0TF82eWNObXh1bnVzaUhQU1JIQmI1RVpsVlRUeWxOUjlYQU5TTWlfTGVwZ043TVNNOGVz?oc=5",
+   "date": "Sun, 22 Nov 2026 04:04:48 GMT",
+   "vu_le": "2026-11-22T04:10:35.857490+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "Le Bitcoin tombe sous les 60 000 dollars et menace d'entraîner le marché - Génération NT",
@@ -6510,64 +6552,7 @@
    "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGFpcUU3anVCMzlaMkJWbjBlZm9uUFVBMEZ4dFptUl9zNG5oS21JM1NJZ01SR3lKX0U3ZW9ZS2pPaUIwczRrbW9WYk9wQ1QzcnpYWTQxSVdOelZmcndFN040cExUdDlPejBtVkRPOGZtcnZxX00xSXpWUE1iQ0pORFE4WmcxNVdUdWZtOW8ydFJWd2FkSFp2T1JBdnVoRmEwM2w0?oc=5",
    "date": "Sat, 21 Nov 2026 15:25:32 GMT",
    "vu_le": "2026-11-21T15:30:35.084971+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Anthropic And Nvidia Are Saying The AI Bubble Is Finally Popping - Seeking Alpha",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOExsYVF5bHI3Rm9XQTZoMTFJTVhEbFJ5bnhMdjJIdEVzRFBJc21STEhyVTdNLUpjZ3FYVVcwdWRMTWs3V1pHQXEzUTVPZXR3X2daWUV6UXFWMmE2aXR0eDlQVmUtYlc5ems1aWtEdGg0UzVFSlVNWXQ1NW94bFFzdnk4eGN5aml6Rkt3SE44R2k0WTNzR2JnUEU4bWk5d0xjSkRod3RrdWM?oc=5",
-   "date": "Fri, 20 Nov 2026 18:22:12 GMT",
-   "vu_le": "2026-11-21T15:30:35.084971+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More - Inc42",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVU94dFhyMVNPZFBOeklEbER6NHMwNzZpZDdzamhwdXpTYWZjWkh1cVN6WFhGV2UxZWlyVEZrOUlRak5NSFQ5UWstcjFjMHNzWFNuTzZaRUFVWXVhM0YzU0F6clJYMWp1VlBSOTV2SEdTYlVFbTZkYTJQMzYyNzRZWllNaWhDWFduSmhKcmxicm51d1JuMGVjR3R3?oc=5",
-   "date": "Sat, 21 Nov 2026 12:17:25 GMT",
-   "vu_le": "2026-11-21T15:30:35.084971+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "BlackRock Said Bitcoin Moves Against AI Stocks: Then Both Crashed Together - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRXgxNEYxNmR5Q2lGMXQwSGZCOTV5c0tXd0c1YlJqd0tGMlNfNTQ2eDk2UkJIbmZtZzliN2JCWWUyVnR6QTlOX05UcFdMWkFyRVB3T08yRHR3eDNjNS1zMXRfMTBUNjdjeEdqUXZWbGplRW9ONk1fUUl2TmVHRW9oQ2kxNTBaTUU2OFA1b01fSjVoZTRkMmxuV0lGMEFpVmlNUGVsZTRHS0RNTG9mSFZHNVBZSU04MVo1Q2ZiQ2Z5VV9MUE5OMU1iM1Z6XzE?oc=5",
-   "date": "Sat, 21 Nov 2026 13:33:00 GMT",
-   "vu_le": "2026-11-21T15:30:35.084971+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "BIOMERIEUX Cours Action BIM, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mTnlDQ1ItU3JSbXFCRWtEMzF4WEtzRXRDaWtWeXlMa1dpQlJpY1d2ZzZKdFgzd1A5UFF0c3BNc0NrLVZhVW10R1RYbENMVkcxclE?oc=5",
-   "date": "Sat, 21 Nov 2026 07:45:46 GMT",
-   "vu_le": "2026-11-21T15:20:36.150054+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "What China Gets From Its AI Honeypots and Smuggled Chips - Rolling Stone",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc3V2ZzhSVVhNXzhKbk81dC1BdWE3eTRUVGxzY2JwSC1ld3ltYU84ek9MQ3d6NWM4UkJuUFRxZC1kTkVURU1HZmNsck41U0YwSHBmb3BVRTFFZWVlTmVMUi1NTlN2cUFQeE4zendDTmEza3V3cWxXQTE1YlBiYlAyLVo5azBWa05UT0RDTDlUb0RBaHhiNDZHaEpKM3Qtc0dFNTMyQ0cyN1hRelVxbG5TVA?oc=5",
-   "date": "Sat, 21 Nov 2026 15:00:00 GMT",
-   "vu_le": "2026-11-21T15:20:36.150054+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "First Advantage Corporation (FA) Rallying as Revenue Growth and Profitability Accelerate - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLTAydHlzVFNSRVFYWlRpSERMUm5OSzB2eU54YzFJbVF5UEpEV2hfWDdEd3NJc2xSalRSREpTeEdYQ3ZONW5sZnZtSmQxcTl2aDByQks4R0NwUDRIcGhidmhfeVozOG85ZF9HZXBUblVMLUpXTFdSS2ZQbmNkYTNMUUIyR2t2YzItN1JJM2tJcUxibXV4OGZjWTdEZ1h2ZEMwOVNxMjZJdw?oc=5",
-   "date": "Sat, 21 Nov 2026 15:00:37 GMT",
-   "vu_le": "2026-11-21T15:20:36.150054+00:00"
   }
  ],
- "erreurs": [
-  "actu Anthropic: HTTP Error 503: Service Unavailable",
-  "actu Anthropic (FR): HTTP Error 503: Service Unavailable",
-  "actu Marchés mondiaux: HTTP Error 503: Service Unavailable",
-  "actu Bourse de Paris et Europe: HTTP Error 429: Too Many Requests",
-  "actu Banques centrales et taux: HTTP Error 503: Service Unavailable",
-  "actu Chine et Asie: HTTP Error 503: Service Unavailable",
-  "actu Intelligence artificielle: HTTP Error 503: Service Unavailable",
-  "actu Introductions en bourse: HTTP Error 503: Service Unavailable",
-  "actu Rachats et fusions: HTTP Error 503: Service Unavailable",
-  "actu Résultats d'entreprises: HTTP Error 503: Service Unavailable",
-  "actu Petites valeurs en croissance: HTTP Error 503: Service Unavailable",
-  "actu Pays émergents: HTTP Error 503: Service Unavailable",
-  "actu Défense, énergie, matières premières: HTTP Error 503: Service Unavailable",
-  "actu Crypto: HTTP Error 503: Service Unavailable"
- ]
+ "erreurs": []
 }
