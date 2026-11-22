@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-21T23:50:35.845486+00:00",
+ "mis_a_jour": "2026-11-22T00:00:35.350041+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54923,
+   "prix": 54892.11,
    "devise": "EUR",
-   "jour_pct": 2.33,
-   "mois_pct": -26.59,
-   "volume": 414.03519181,
-   "volume_relatif": 1.99,
+   "jour_pct": 0.01,
+   "mois_pct": -24.25,
+   "volume": 0.00090867,
+   "volume_relatif": 0.0,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "ERAMET Cours Action ERA, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1haVF6Z2RiVmxSd2lPVWdrVXF5bHk2WWFYakk2T183U3EyUUZiMkFuU0ZqUzRRZk45Wkg2VVFJWkx1NmtBOFhZeV9jRHJyeGEwTVE?oc=5",
+   "date": "Sat, 21 Nov 2026 23:35:48 GMT",
+   "vu_le": "2026-11-22T00:00:35.350041+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Innotech's (TSE:9880) Performance Raises Some Questions - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHlPanQ4UjA2d3Jiay1HTVNZdWdpTVIyeWJmZUxLV0NublhJTzJndjdSbVFfTE1xWFUtOWZXa2NUcFZLeWczcmVZUUhFTXNvNVFyQjlfdThtVDVkLXpoQXVzd242ODhNc0tHMjlQYXlLQTFXcUhNckRCQzJVWlg2SmRTaDRJTHl2ekFpc0g1a2ctdE9QUVNLSDlXTnJSNzJSWGstdmRMcVFaZ0I1b2o5NUJuVWlfNkhTSkHSAb8BQVVfeXFMT0Qya1JGLXRTajY1UFQxR0ZVZFhTb01zQVA3c250UFFLMWo3cVhacEdxbVVFVldJTV9hZFhIdUhNcWJ1aHpjb2VtbGJJU3p3YjlvQ2NZVEFRelFseFBiTEFxRXdVUGJlMEQyWmJaZ29wejhKeHBITkJjN1NUQ3hWYlFUMDdsaWR4dmpKMm5nOUFUQmFyV0E3azdMcE9pTVhocWVwaW9lQnBvMXliRnR1VDhGeHFiZGMydFZNbXREYU0?oc=5",
+   "date": "Sat, 21 Nov 2026 23:45:08 GMT",
+   "vu_le": "2026-11-22T00:00:35.350041+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "AI Boom Cracks, Unleashing US Stock Selloff as S&P 500 and Dow Both Slip Below Correction Line - BigGo Finance",
@@ -6537,20 +6551,6 @@
    "titre": "Anthropic : Bourse, l'introduction historique entre euphorie et prudence - Presse Agence",
    "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMURWUUJ2bkJmR2RaVVVTY01FMncwbnJPbEk1ZG83ZzdNSzBuY0gySHBaTTA4SnVHenhWNEs4MjZHa0hjV3NoY2tkNE5HWWdfanFDcmNLMnFzSElfN2RBaEhBbEI0OGhSSkk3NG1VZHVaMl9mMEFhQkJYZTNQcXVObXQxdGxURjZUbGZYRVczTlAzdVRiWXhFMklUNFQ?oc=5",
    "date": "Sat, 21 Nov 2026 11:00:00 GMT",
-   "vu_le": "2026-11-21T11:50:39.427515+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Nasdaq 100 Forecast: Anthropic IPO fails to calm AI worries - FOREX.com",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkRENXRpbUs0Um0zQ0JGOGh5S1pBQ2Jadmh5aDRuSUFXYTJfNmJPMDVMU2Q1Z1RhWk5vM1hGR0ZpeEtVNkFpRUpNSWlTcVhHbGxnck5LUHpVSklXTWRrc1ZQeXpjX3NtYnJFa1JWMjBZcWFVRjRXWEFWZlhpVkdMWjI4WHo0SmdIUDhWUF91cTdqWmhOcDFNOEZsLUhyTERGNFdhanE4WjA?oc=5",
-   "date": "Fri, 20 Nov 2026 23:19:04 GMT",
-   "vu_le": "2026-11-21T11:50:39.427515+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "After Nvidia, will AMD be a target as China’s ‘2nd-choice’ supplier for AI chips? - South China Morning Post",
-   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWExyVlp5cmlPYkhKVEhwWTVSM1BMQWkzVUg5N2hJVzUwTzh1RFM2QVJ2Tnh0ODg1VDlQTE5NaWttV3U4NTNTeWRJWC02Nmc4MlFlMjY2RktxeWc0S2VkOHFjSDNUemdLS1g1VHZpcGpxQkZCSVdxRUxpOXFmRHViSEh5Q1piZzRoRW1YeG9UbVRlbjBydmltNTR3RklBTUlWNEtTTVRBd2owbS1sUjVBQ0dR0gGyAUFVX3lxTE5YTHJWWnlyaU9iSEpUSHBZNVIzUExBaTNVSDk3aElXNTBPOHVEUzZBUnZOeHQ4ODVUOVBMTk1pa21XdTg1M1N5ZElYLTY2ZzgyUWUyNjZGS3F5ZzRLZWQ4cWNIM1R6Z0tLWDVUdmlwanFCRkJJV3FFTGk5cWZEdWJISHlDWmJnNGhFbVh4b1RtVGVuMHJ2aW01NHdGSUFNSVY0S1NNVEF3ajBtLWxSNUFDR1E?oc=5",
-   "date": "Fri, 20 Nov 2026 12:30:09 GMT",
    "vu_le": "2026-11-21T11:50:39.427515+00:00"
   }
  ],
