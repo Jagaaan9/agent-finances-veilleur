@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T18:00:36.345317+00:00",
+ "mis_a_jour": "2026-11-22T18:10:34.897191+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55443.7,
+   "prix": 55286.11,
    "devise": "EUR",
-   "jour_pct": 1.01,
-   "mois_pct": -23.49,
-   "volume": 135.07193039,
+   "jour_pct": 0.73,
+   "mois_pct": -23.71,
+   "volume": 136.37092454,
    "volume_relatif": 0.56,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic's IPO made its 7 founders' stakes worth about $141 billion. How that stacks up against Elon. - Business Insider",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemFDcTcyNmVvMzhJeFdLX2VQNFdHdGZFX01XbjYyTDBYbE5OOUs4NllpdHlDalluUHR5eGhQZW44S2ZmdGh4ME1Fd0VLN2RHclpxLWU2OTNvM1RJUkwyQmQtTjQydUduM05rQ25PemdYNmYxdXgzOXZmTXk3S0tBMmIwUEtpTlBMZEs4RzB5UGd1RUR5LUM0?oc=5",
+   "date": "Sun, 22 Nov 2026 12:18:00 GMT",
+   "vu_le": "2026-11-22T18:10:34.897191+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Ces 10 mystères que l’introduction en Bourse historique d’Anthropic n’a pas résolus - Le Point",
+   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcFNmcWtLY1pTY2ZfalVOVHFHUFVjNElBN296a0JfcWhObGRZZ1BrZXd6enltR1V4cXAyRW9XalFSNnUwTC0zNDY4N0R1bnlTbUJKZ1l6SUszRDZYa0RpWjVpSHNLa0M1dUlITFM1NGNrM1JSMU00bjVhaUZIckR2MEtPWF94bzdmOXRnMDlOVHRMRzlXR2Rndy0tLU82Xy16bEswd292NUstYmhUd1pEbHJhdnAwblNoQjBmTTdPUW44WmhQWGg2NkJyOGpDUUxqWXh2ODh2VHh2ckZmU0RGLTAwbTY?oc=5",
+   "date": "Sun, 22 Nov 2026 18:00:00 GMT",
+   "vu_le": "2026-11-22T18:10:34.897191+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "The AI sell-off has investors on edge. 5 pros weigh in on whether to buy the dip — or skip. - Business Insider",
+   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUktOeEx5TGt0Wk9pZGRKOUdoa1VfVWV5WnlSOVZxeWxjZm5NR1dIdThReWoxT0pZWmRIa1UzRDdHYnRYTFBGTnN0SG9FMi1wNDlLeW1nbFRON3ppZS1QOUNtQzBLYmVUc0M3bDk1V3l6Q1JhRVlJUmkzM1R6LWpXYTJ6VjREeUpxMHJJOQ?oc=5",
+   "date": "Sun, 22 Nov 2026 11:01:00 GMT",
+   "vu_le": "2026-11-22T18:10:34.897191+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "L’or s’effondre comme en 2008, Peter Schiff affirme que c’est justement pour cela qu’il est haussier - BeInCrypto",
+   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yM2haWHZTM1RxbVQ3ZkJ2Vk1RMXRHdWwtR2RVRWlYOHM0MFYwN09UR29ZdDlqSG05TDdsZUJZaEhPVUd0Vml0bHlHUFpNMDY4RWFfSlljRkhRcnVLLTZIWndsalFUUW9nM3hOTXpMUHRyYVpFS0ZnalJZTTBRZw?oc=5",
+   "date": "Sun, 22 Nov 2026 17:51:00 GMT",
+   "vu_le": "2026-11-22T18:10:34.897191+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 22, 2026 at 12pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXJCNTZndTVjTERfSmxYRTlTQ3RnY0FfaVpQQThybExBemhSdkd3QUlmT1lFLVNFa1RTUzN3b0J0bFUtTkhPNzA1UGpfX21QdV9KNEtjTEE3aG9VTVVmMjZaN01kLWpmZndLSEtrNklRX0NiVnBlMW01MG1XalFvUUFJVEZYOG14NmRZd2haWTJtQnFlTzJ3bEc3bHZBZVlwbnBucW5fTm5kZk9qVW5J?oc=5",
+   "date": "Sun, 22 Nov 2026 16:10:03 GMT",
+   "vu_le": "2026-11-22T18:10:34.897191+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSVlfMkptU09yWUFkbEo3TDBZczB4VWdMS2NSSGU5UlExWW5CbnBVT1FCS1VraFlBdUJURzVRWlFvUTE3YW80THZ3SUI2cmx6UHYtYVhTZlVvWURpbWpjWlRyaVluUTgtYkF4eWV2QjlvOE56TDZzUzB5SEZva3NRSUNrWjlYTzhYV29laDZjdVlNQQ?oc=5",
    "date": "Sun, 22 Nov 2026 05:00:00 GMT",
    "vu_le": "2026-11-22T05:50:34.830775+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Prix ​​de l'or aujourd'hui, 21 novembre : Il continue de baisser de 100 $/once, pour atteindre près de 3 500 $/once. - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNFM5UnZTZWZoaU5peVFtWkJXbXFpYndKMmItblZjZGdBOURpRHJobDQ3NXl2YXFsbi1GUHVNQnMtbjVaUnNjdG5hc3U4Q19sckEzczFsRmpmNV9jeGlpeDlzYVFCQVB2WDJwd3JpWGFUQ0FNYnY2MlJKbmp4eTlaTVdqdDBrVmtoZFV0WnF2bGo0QXpFdWpHeVNTU1F2amRC?oc=5",
-   "date": "Sat, 21 Nov 2026 06:28:46 GMT",
-   "vu_le": "2026-11-22T05:50:34.830775+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Hong Kong Stock Exchange Today: Hang Seng Index Drops 1.55% to 23,637.60 as Tech Index Sinks 3% on Nvidia Fallout - BBN Times",
-   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZW9mUGVJZlB3djNoNmZ4a1FIdmdMWlR1TnhTMFZsazI4dV9ySGtjYmFLbENOSXNTN1VSdjAtWEo1b2FHdUN2TXV0X1ZudVFQVFBLa1JOQ2syUmtmV3UzblNRZFQxbFVUbi1QWUVEQUhqeGVhTWJaZ0hZRlJxeEJYcW1fM2ZpYXp3c2hCVU01VXh5TWtSdVBvNWJVeUxoUDdpdVZfWVBJTmZmeVVYYXd1RGtxNk9WWkkzclo2RzRtcWtjV3REd3c2Q2I3eERUejNPRjloX2o0MU5RaW0xX0E?oc=5",
-   "date": "Sat, 21 Nov 2026 07:52:50 GMT",
-   "vu_le": "2026-11-22T05:50:34.830775+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Compass Group (LSE:CPG) Stock Could Be 22% Above Fair Value Following Portfolio Rebuild - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcWlXWlFHMFQ0YU9xS083S08wVk5BbXlEQ2FXd2pTa1VnLXVJdGJjdVhSMjYyVEVCaGlNeDhzb1E1WUZVS1pBODh1TEg3NzVJcm5tQXQ1dS1pMmRyTHA0RGdwVWE1VUV4WmE0MF9sZmRWbU5NWjU4SnZSZ08tLXRGaGRXLXh5UzhvWmkzamV3OE14c2FrdE9OTzF5NldlT0VQanc?oc=5",
-   "date": "Sat, 21 Nov 2026 13:30:41 GMT",
-   "vu_le": "2026-11-22T05:50:34.830775+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Broader markets underperform; Kaynes Tech, Inox Wind, CreditAccess, KEC International down 10-15% - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUjNBTEFLQndnSlZOaWIyanZzcTVpSDFDcEVPSkh6V0xObHl3ZmM0b2RLcUpvNy1uWHVKNXRtTFF0NXNSS0RjNW9zaUtndmcxZ0lXNWdEdW9wZ3Jqem1NX2JVLTZ6c1ZFLVZQUGpNazVWUUl0MklxaXBPVWhqMTc4Y2NUSTVEU29NYzlSdWtwaVFjMFhHTUEwZ3N1OHZyNmR1MmF4YkdWajFzSXlLR3RJLWljSkxQcjlZLWhWTlRqNFJwNTh1UTRHandvdG9lNjl1emVVbXVMa3l0dTY3dF8zZ2lrek1QX2pBampB?oc=5",
-   "date": "Sun, 22 Nov 2026 05:03:00 GMT",
-   "vu_le": "2026-11-22T05:50:34.830775+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Les experts prévoient une surprise sur le prix de l'or après une chute proche de 3 500 USD/once - Laodong.vn",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczN2Y0pGd3huOE9XTF9lWTJTMkhUeU8zR1BWTV81aGlRWUVGaTBTU19DZllLXzVudk14NlkxWVZ6MXFEMk1iNHctd0F3UkVMblFYbnUtQ19mRFlCaXR5aW1yLTJrWGVZZDFCeU5aUmV6d25qWmQxR3AyckU2NnRBU1Q4YUYxWTNoYW85d05aQ1VudmEyYXhlVU1uczRMa3RKWEJ6VVhNS0hKc19pTHV3bQ?oc=5",
-   "date": "Sat, 21 Nov 2026 12:28:58 GMT",
-   "vu_le": "2026-11-22T05:40:36.348724+00:00"
   }
  ],
  "erreurs": []
