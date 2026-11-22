@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T15:30:35.945952+00:00",
+ "mis_a_jour": "2026-11-22T15:40:35.808507+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55566.44,
+   "prix": 55483.33,
    "devise": "EUR",
-   "jour_pct": 1.24,
-   "mois_pct": -23.32,
-   "volume": 106.32145732,
-   "volume_relatif": 0.44,
+   "jour_pct": 1.08,
+   "mois_pct": -23.43,
+   "volume": 108.55886319,
+   "volume_relatif": 0.45,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Wall Street perd des centaines de milliards de dollars en une séance, plombée par les valeurs de l'IA - Le Tribunal du Net",
+   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbVYyUVFWM1hYNlp6clZPLWlSMXEwNFVSa1drUXFzbVpxY1lxY0laQ3BZSE5GS1FqQnBIWDVndktRT3ZDRWs1dDNTTnhtRHliSUFHUzNjTHpoVVdmTUl3OVhad0VkQjZnbm9zaUZXLUMteVdmQnVzRUZJZk11ZTgxMVlYOTc3dXZWTnRhdQ?oc=5",
+   "date": "Sun, 22 Nov 2026 08:30:00 GMT",
+   "vu_le": "2026-11-22T15:40:35.808507+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China unveils measures to stabilise stocks after mainland and Hong Kong markets fall sharply - 联合早报",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3BpcU1CZUNwSVBhWTA5WGhQRHZLNUlkbHo1SVVvWWp0VHViZlo5MFRjeUtqRGJVNzczblZrYTBIN2JMbC1INmV6dDlFek9Db3JyN1JvcEdYUlRCUE42SXE0MGpEbVBhZ3NMTWt5RFJqMlRsVG8wUXFJbU02YlBoWHVoMWN0U0N2dEJQQnI5aXFHYklHc2R2YzhQLTNFV3ZFaHpLaS1CQ3E0RWlVSHc?oc=5",
+   "date": "Sun, 22 Nov 2026 13:40:47 GMT",
+   "vu_le": "2026-11-22T15:40:35.808507+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Is Nvidia a Buy at $125? Here's My Honest Take - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnlPdFV3WDhnZm40Sk1NendOQzhpa0g0ZXlIUVVuTml5alhqdF9TTWZ6ODhpbERlOWN2YWVPVHQyekNoZllOV1ZGSFBRSlZjeDBxcEg2R21TMHQtNmZFazVBbF85aVBXSzMtdEVVRlpLR1pZQ0FHSXJFbGpsc24wY1JLR1kzZlZBYldjTllWdHBHMkVlUFlDcFRRZjlWUlJJSWROeXAzNW04SVY3bE1fcjM3akpVY25MaF9TQ0FmeXE?oc=5",
+   "date": "Sun, 22 Nov 2026 14:53:31 GMT",
+   "vu_le": "2026-11-22T15:40:35.808507+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Nvidia Shares Sink 14% as SEC Examines Accounting - JournalArta",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdncwREFCYmhtRFhScWpPYnVTWEtPRlhrRFZaLUtOcFBPZzBZZ2piakNxSW5KM3RUNDFINTlZNnE2dEI3T2k4TVRHZlBzb09zTENqRjFuTHB1am9iMWVxWTZJZEJPdFN1VHB1a29SUk1tM3p0NDNQTjJQVVR1X1hheThpcTlYSlVm?oc=5",
+   "date": "Sun, 22 Nov 2026 15:22:02 GMT",
+   "vu_le": "2026-11-22T15:40:35.808507+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Rocket Lab (RKLB): Q1 $200M Revenue +63%, $2.2B Backlog, $663M Defense Wins, Stock Tests $83 Breakout - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcVBxbVJ6bmgzY1g2Qzh0Z1B4VTFDZVlBczJPSkVvWHVKMXZhUWNkMGZjXzVLTHRBUXlZUzhnVUh6SHQ4ZTlfVE05dXVPbFRFaTVFQkV6SHVqc3ZWbldYVFZ3Yi1WUlhfLW00c2U4Tkh6RDZmVEZqZWs2cnVVbkZzRHRYVWxxaE02bnRVQU5IdFF5dDdlRllweWhoQ2pNUFZ1ajJLLWl4d3duU01qcHpZVEwzYXVzaUJkWEhFSzczc0t0VTlmdTR4NXo0SUJSSE01dWd6UVZOeVlod0xxQThYaklRM1M?oc=5",
+   "date": "Sun, 22 Nov 2026 01:32:07 GMT",
+   "vu_le": "2026-11-22T15:40:35.808507+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "L’introduction en Bourse record d’Anthropic soulève de nouvelles questions après la disparition du soutien à la stabilisation - Traders Union",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVG5rZDgtbkh0c2lvdWtYbTExR2xQTW1YQzc3YlBLcjFwcnZMS1FicnhyVVppdkluUTZDZmx6TnVoQzA5VVNNU1p1NnltV0xickp6SjdrYzV6WkhvM2hxVmxZeXh3UE8tdVoxVl9JNl9MWEl3Z1Rrd1Z5cXN3dGVXZTVKTTJCZHRjUnpvVDVyck5JS0xZOFQ1V1VqcUY0RzlibVAwUDU2SldYVThhMF93R0F3Y1dqa2l0Q1g1X2F1R3p2clZISG5BV0V4V2RYOVVwZ1RuSDF2Z9IB3AFBVV95cUxNUGxkbHdkengwMkFJNDdEdmJFanYzRmN1ZzN3VTFDeWhrTm5UT1lzeHhRc0huNWhpeDBUSUtNLWlvQ19DSlZxcnVaRHR3aTRhOFhFQ0h2VkxaYWNnRjEyU0EwWTJQUzNITkg4ZUJLc3BxVGhYUXBwSWJTN1dzYVFxN0ZXRy1PMzUydkhGdkdnelQtLU9nYTRZVmdWSkdxOGJvNGdDTlA1eDB5SVRJYjlPMDVnVnFNUUZfU0xLcjkxMUUwNENNWHBxQ2VXNmREWjJSaXJqTWFwUzl2SC1r?oc=5",
    "date": "Sun, 22 Nov 2026 03:14:45 GMT",
    "vu_le": "2026-11-22T03:40:35.173258+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Russia’s Crypto Trading Window Opens With No Venue Cleared - Cryptonews.net",
-   "lien": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IV0p0SEhmVFdkdl85QklVb1QyR29ScV8xQkJkU0RzYm5kMWhvZVp2aHEyWUpCaWJQMUNRb3I2TmFWT2NaMGlmdEw4UHhjQ2x6T1UwZUdkaw?oc=5",
-   "date": "Sun, 22 Nov 2026 03:38:18 GMT",
-   "vu_le": "2026-11-22T03:40:35.173258+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin on Brink of Losing $60,000 Level as $1.1 Billion Flees ETFs in Four Days - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVVE9vRzNFREhiRE5tMXdvTTRvRzZNM3EzaVZhX3p3b3R0Z0Z2cTdhQWxzRVV0UF9MdDNlNTFNcWVrb0tKU0NRejVIOW1BbGNLeWh0SmpQZGl2Sk1ZLV94VnZSQmlYamh1bUozR0w0bDZvNkRmcXc?oc=5",
-   "date": "Sun, 22 Nov 2026 02:56:00 GMT",
-   "vu_le": "2026-11-22T03:40:35.173258+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "JTAI Stock Sees Sharp Swing – What’s The Latest On The flyExclusive Agreement? - Stocktwits",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjdXdzRwd1YtVDFiOVFtZ2JQbkM1aTZFYk13cmRJR2FrRzlPWE13WF93bGsyVGhPQ1VhQXJjcXN6d3pMc1NNR2F4aC1tUFdsRVlpVEFwNkVGbWVLLXBaRm5wbjdIU0NmYXVTUDliWFlkaUNJT3F2VmRXWnU4YjhMQjk5OTRpNGRRWkNmTW5rWkMxQ0N1ajVfcW9pRlRGbXhNYndGLW5kZ05DZ1RRamRjWHl0RQ?oc=5",
-   "date": "Sat, 21 Nov 2026 13:15:23 GMT",
-   "vu_le": "2026-11-22T03:30:35.468454+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "UnitedHealth Beats Q1 2026 and Raises Guidance - Is UNH Stock a Buy After Jumping 8%? - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeVh0WFN6TXVzUmhmdTNvWGdpOXJxdmFLUml1V09vZi1zSHZTMDduOUhZUXdWc2h1d3U5QnJUZDl4aHJqZXplcndqZnlIYmlvb0x0eVdSaHFEN1FrcENkV0s3N3BYM0g2NndDUmtJeVZnZnlOcDh6NXJXLVB0ZE1UVjZYLXBXRUt1WXAxQ1FMY1YwbmVpMWhkaV8wb2swaGs2VFVKekkySHVyT2hKYzNrcnJ2X3UwZEE?oc=5",
-   "date": "Sat, 21 Nov 2026 14:30:04 GMT",
-   "vu_le": "2026-11-22T03:30:35.468454+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Cupid's (NSE:CUPID) Performance Raises Some Questions - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclEybk1kVUhheGpMczNka0Y1LWRHWlZJYXg4YjBURjdNUGJPeTJIRldNbTJjVk1mSGxOZ2U0bGx5RWc5U2xQaDNDTDhRSldhS1BhWHhjU2FidHhDZ3FZakNRY2R6N1QtVWJyWVlMWEFKYTlaenNubHVTVjlqS2lTZ1VjcnBrYU1aODlmREREYzlEYWFtS2pkOFpWM0Z2RnV4U200NGtuMTFYWVh5VENDM2YwX1lES29OaFlKakRXYXfSAcABQVVfeXFMTXJRMm5NZFVIYXhqTHMzZGtGNS1kR1pWSWF4OGIwVEY3TVBiT3kySEZXTW0yY1ZNZkhsTmdlNGxseUVnOVNsUGgzQ0w4UUpXYUtQYVh4Y1NhYnR4Q2dxWWpDUWNkejdULVVicllZTFhBSmE5Wnpzbmx1U1Y5aktpU2dVY3Jwa2FNWjg5ZkRERGM5RGFhbUtqZDhaVjNGdkZ1eFNtNDRrbjExWFlYeVRDQzNmMF9ZREtvTmhZSmpEV2F3?oc=5",
-   "date": "Sun, 22 Nov 2026 02:02:10 GMT",
-   "vu_le": "2026-11-22T03:30:35.468454+00:00"
   }
  ],
  "erreurs": []
