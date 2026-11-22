@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T19:30:35.618717+00:00",
+ "mis_a_jour": "2026-11-22T19:40:36.733021+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55378.32,
+   "prix": 55319.18,
    "devise": "EUR",
-   "jour_pct": 0.89,
-   "mois_pct": -23.58,
-   "volume": 146.30404339,
+   "jour_pct": 0.79,
+   "mois_pct": -23.66,
+   "volume": 147.13153136,
    "volume_relatif": 0.61,
    "capitalisation": null,
    "per": null,
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Record Anthropic IPO set to trigger global cash crunch - Financial Newswire",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMG1qYnNxV1pXcjJyMGZxdTNXVEpUaVNCNEt5QlJfX1hmbC1EOFJzY1NGTmRXWkpYTkNKQUhhQmMyZU5MZDdyZ2twNjN2Y3ZCN0lWemFMN2x4RXZiek5obGRZelBaQlZuejY2M1BzeTlEYndGSVVCeVRFVzJicHphbVpSZGt6VE1xUlhFZ0dETWNhLWFKN1FHcElCRkFmQ2dj?oc=5",
+   "date": "Sun, 22 Nov 2026 19:30:19 GMT",
+   "vu_le": "2026-11-22T19:40:36.733021+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Western Union’s $500M acquisition falls through - The Business Journals",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1dsS0wza0hJZ0VlX3hmVVpHNC1vWHZVckJTUHBPUXpDRGE3dDJmbVBkdnpfLUExaXc1MDFENGZLbGxmVHF2Q3ZZa1Ftd3FMemI2anJxcnRVb1d6Y1UwZGR4TjFnTFJCYjBWY21aY1NyZk5TR0tCUkhwRngzb2lXVlJmQnhhLTNZckhoN19yLUxXZU11cnFybG1MSHVOZG9DM2NzSXlBaUstQlJs?oc=5",
+   "date": "Sun, 22 Nov 2026 17:25:00 GMT",
+   "vu_le": "2026-11-22T19:40:36.733021+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "What Warren Buffett Has Said About Bitcoin and Whether He Was Right - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObllseEZIOGUyZ2tIWndBYnNGZ2d0Uk5kWXJMc0FYTXh1emNvSmMyME01NmxrSFNtX0NFSHozREozQm5jNDBCUUdJS21xdGUyZTZselgzMkNXdHRQT0M3eXJNYVRlbEpOdTZIYTZHMVhqMFVDcDg4OFJJTmtTQUtBUVlZRWJGam9lTy0xY0R6d0FzbnlxZENab2JjSzctMnQxdHc?oc=5",
+   "date": "Sun, 22 Nov 2026 18:08:07 GMT",
+   "vu_le": "2026-11-22T19:40:36.733021+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "How Low Can Bitcoin Fall Before Trump Media Has to Sell? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVXpJSDN0X0tSMU5GSEdybFRtbUFtejlQU0dXSjUtSUQza0tUTVdFNzF3WGI5aU5Nc2ZaZ2hiN05mbEQ1ektEd3RubkdMckdvMXFsMi1pdE5iS1FTZWhzeF9qcFozUlRtNDBaMlV3dmZRcFQ5S05XdWF5VXU2T2N5SlhXUWVHVHZRVlVaclZ4Mnpkd1dNVFFrTGlfSnIzN1gtdkFWalpTbDBmMTYxV1VCUzNJcnM?oc=5",
+   "date": "Sun, 22 Nov 2026 19:32:00 GMT",
+   "vu_le": "2026-11-22T19:40:36.733021+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Nonprofits Build Capacity for Potential Giving After Anthropic’s IPO - Unite.AI",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZkVmQ2FKc01fYmN0bXZ0M1J0eFM1STRQTzlsREJ4VXI3UzVOMm5DbVczRkp1WUJhWHBCS2M4dFNnSk1BVjgyUWsyZnAweV9xbFd5NTZ2LU1JamJKR0RzeTZQbTY2UjRqaW0wMkJTVE9rT2VwX25hR3N6N1VBNjFDNnFGT1NLdEpLb0xYeEhwNUpuUWNDcnk2Qkttckw0SEhDem5xamt4QTd6OHUtN2Q2WEFMMzVDbExIaVVKcGd1V1RoQUFwVFR4MEhnMnItd0pJS0RRY21sRWRkWEluX0luNlhnejJVNnZheTlvV0lnY0hXZ0tCSE1OZA?oc=5",
    "date": "Sat, 21 Nov 2026 18:29:19 GMT",
    "vu_le": "2026-11-22T07:40:38.329112+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "5 Paper Stocks with Robust Revenue Growth in Q2FY27 - Equitymaster",
-   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObzZfdUdHMk5uTFQtX3EwN0FOT2ZPS2JnUEt1M2dRZHRFMHMxQVpoaWdfdDNNc0dxZHltamtuYllZOGMwZXBmNjdlMV8tRVJVNkdmUC1qT2VBZTdSTHFzcHZtaXpCM0g1dEMxWTg4ZFJsV2F2TDlfNGZwanhaVFA0dXhVLV9adW9nbTZ3NkdpY0V6dXZfU1JoQXQ0bVdSUEE5X250ZzJ4TmR4U1NJOXdXY2N4MnZvY2tPWC1tZnNB?oc=5",
-   "date": "Sun, 22 Nov 2026 05:06:35 GMT",
-   "vu_le": "2026-11-22T07:40:38.329112+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Binance Bitcoin funding turns negative, and one analyst sees a possible reversal - Crypto Briefing",
-   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMUI3REdqb204UjBWSGtNLUxVd005czNTMzdYcVVYd05oLWc0UEhZU2lONE5CbnRyZnpRUHZZajZ2T0MtOV9BdjlKdUtscXlEZmRmZGRIaEJBczc2VWxHb2Q3RE5kYUNZeW1PX1pNOFZxT0VzZko1cHZzeFZfdU1iVA?oc=5",
-   "date": "Sun, 22 Nov 2026 07:33:58 GMT",
-   "vu_le": "2026-11-22T07:40:38.329112+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Philip Morris Stock And 2 Defensive Dividend Names Worth Watching Now - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOHM0bDJNWWNnaDVibnVlMzFzYlBxVV9RVlUzTGltNEJEeE1JTVZRdUpZTXBlMjN5OGNXUFJzMnZ5QTNpWXpDY0tJLXBHcUxkZGwzSEdoM3M4MmVPd1JudUdsOUJDMHFsamlXV2JTbG1LODVyYWNsVUdDRWdxVjNyU3U4alhLcjRhbHdhaWt6NGUtZXh3ZjZrb3VReXJaU01CVldmdWlVTVJNN2tQSThDbUwxNEtmOWhZUEFKSThoZjVrU1MxeVVnekFGNVRueDNndnFjNnFfWnQxaHQ5S3BhMVFRVDNIaGc5YTNB0gHwAUFVX3lxTFBwT2l0bE5nWVd1VXpEZEs0dWpDbHR1LW9iOGxIYkU5WURwRnAwaUtFcDBBSFFYSTh4bXE3VWZ2ay00NkdOZWNJc0ltM2FJVFlKX3FmeS1DUTFlQ1dUS2xyQ01OU2h5MHczWHBLellHMUxCNV9tdjZDZFFUOVRMc2ZkbVVyMzNZUG0xT2U1dVlrZ3BrZTZJN2tkXzlGWDRtbjFUbHZNR3BNRkotTDVSemNpN1VJWmM4dVhybnZ2eXpXM0JGVll1VVRETjhyLV96OG9XS2o3bTdOaHNQckpZcS1SbzlmQjFUREZxa1Jlb2JPdA?oc=5",
-   "date": "Sun, 22 Nov 2026 07:13:32 GMT",
-   "vu_le": "2026-11-22T07:30:36.050010+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Ross Gerber Tells Investors to 'Be Patient' on Anthropic Stock After Post-IPO Slide: ‘That Would Be a Gift’ - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTF6X0Z0VmU4eFBNWGh4NlhDX2VzODFSNXZtZVJHWEZ3NTI0ejYzamFWNDZSV240ZHhIVDhKdEVGakVpYUYxWFA4d19KYkZfQmM3RVBJR1hUajZpQTdLY1BaQ0Q0b29BYm5YUzd4RmhqdXVCRzBUQnIwa1FxNm1LeWgySWM5Q05rd2wzcVpYSWZWdU4zME9zMzRvMHZXQmlXU1RJWi1ab0lMNGN0VWNmcnVIQzFWaE0?oc=5",
-   "date": "Sun, 22 Nov 2026 07:07:47 GMT",
-   "vu_le": "2026-11-22T07:20:35.852813+00:00"
   }
  ],
  "erreurs": []
