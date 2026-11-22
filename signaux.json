@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T12:40:39.934382+00:00",
+ "mis_a_jour": "2026-11-22T12:50:35.612962+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55283.15,
+   "prix": 55487.93,
    "devise": "EUR",
-   "jour_pct": 0.72,
-   "mois_pct": -23.71,
-   "volume": 84.95286762,
-   "volume_relatif": 0.35,
+   "jour_pct": 1.09,
+   "mois_pct": -23.43,
+   "volume": 89.86443001,
+   "volume_relatif": 0.37,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,69 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Blame game emerges after Anthropic's IPO market value plunge - WSJ - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkRpcDFfVGRoTER5NEhNYjlQMVhfVElVVFBRSnlFWk9aMllNVjdzam5md0lsOGYzbFMycFMybi0xaUpNemxoLXdpZE1acXZLTHh6c3c1eml5T2k0bUR3N2I2cmlTWFlud1dSNHM0ZFdEN1NJbm5XbnUzVlp3NzhULWRxQWkwa2p5SFJKQVEwdlVkXzZUbmoyLVRlU2lXOVE3aHd3dFQ3ZC1BbFRLSU9uRUN6UGRpM3pqdlpRaDVnZDMyRV9nbXc?oc=5",
+   "date": "Sun, 22 Nov 2026 12:34:33 GMT",
+   "vu_le": "2026-11-22T12:50:35.612962+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Trump's Economic Policies Fuel Inflation Fears As Wall Street Faces Growing Risk of Major Sell-Off - تسنیم",
+   "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWlQ3VndzZU11RVRPWl9NY3hUWVFDN0RJdDdEUE1kYklVY0RPLVlSWFFfLXdZSlVBQjZoZ3ozNnVFVWV3SFV1TjZqM2xDWkpYazZaTVBJVUlPdHZEcVY4SndVRi1MSjZmU3BLbnBnQnN6dG9pa1plcUxPYUl4NjRtV2F3NW53b05hdTd4b1BHX0R6ZWVYYW9qUFByc01fbFpYWE54Wmd1b0s1bFpvVW1XYVlNZ2ZEaDJEMmFiSDdqeThoMVZidy1NUGd6QmZoUUU0dnpPX0h0dVc1WGdoWHJmVk5kclZPZ9IB6wFBVV95cUxPUDhrN3BGNmZBQ2duZk41OE1qNUo1ZlJvTVItY21nNVVSSU9WeENZNW5HS3NzMVdwMWdVNm1vMXNDUVBlcUVqSTh2VVE3cEFnWUtKNEs4UWdjRWw2aU1GQVNXQWpndUJsZ0NHek9PVy00Z3k1VTJaNlZoN1pJOU1iMGZnZDBTTWpaUnJ5MUdlNGxvckt0X2dUMUxUR0NGX1VBRjYxSm5aTnpEVG9JQmxsc3FES0NXR29OQW9FUDZhVkVtZEtCMnUxcHM1bzVHQXJLRUNFSTVWaVBPbXhzd3JvWkhQMERBRXdvMHZv?oc=5",
+   "date": "Sun, 22 Nov 2026 12:45:00 GMT",
+   "vu_le": "2026-11-22T12:50:35.612962+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Taux immobilier 2026 : Barème, évolution et simulateur - MySweetImmo",
+   "lien": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWYW1GWno1aGlfTDJxdHktRk9CUHk3Vi1ibWtSM1gzaGFtZ0hZODUwV09zZ3hydzBwd3I5OFNQeTJnWG9JWElELU1YZ2l5a1I3TXUwOUxlaw?oc=5",
+   "date": "Sat, 21 Nov 2026 20:54:13 GMT",
+   "vu_le": "2026-11-22T12:50:35.612962+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "About $1.7 Trillion Wiped Off Chinese AI Tech Stocks — \"Still 30-50% Overvalued\" - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90c0JsTTc2am9WcW41akJHMFUzelNvaGthb21nX2hlczlDOVhXS2dLcV9yUUtQMkx6SHl2ckk3Tk5RbXg4NFFUOEtmeHYxTGlVYTdXTVBHb1ZGUU5ySTUtM2cwS0RsSGxVMVdPRTdQY2ZZcFlYTmc?oc=5",
+   "date": "Sun, 22 Nov 2026 12:35:00 GMT",
+   "vu_le": "2026-11-22T12:50:35.612962+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Bank of China Limited (3988.HK) stock price, news, quote and history - Yahoo Finance Singapore",
+   "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10SXVCM3NoTlU0Qjh4V0pGa1VNc3BDU2NvUl90YzRmSHZzNVhUUGZBTnJHT1VaYXRkckFkMkRBNWxyYVRueVZQcnU2UDNCX0hnM0l5d0J3?oc=5",
+   "date": "Sun, 22 Nov 2026 11:47:58 GMT",
+   "vu_le": "2026-11-22T12:50:35.612962+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Opinion | America’s AI policy has a chip-size hole in it - The Washington Post",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSjZLandHNDJKcTM5WWhtaGlHQ1lwUGJqVTIwN0JEMlhqcXgybnk0UU1laXJLcURHU0cyTEQ3MGFBMThyM3Qwc202UzVfRkEwRTRNRFpmWnl1cm1VTHJiMndzbEdGR0FRRzQzNmE5WGhRczVpQXg4TXBTRFZqZDQ3LVoyV0toeDd0NVJjWTdKY05UYTZWOGRXM1E3eDNTMDBDUjJRdG9QWQ?oc=5",
+   "date": "Sun, 22 Nov 2026 12:10:19 GMT",
+   "vu_le": "2026-11-22T12:50:35.612962+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia's next CEO must tackle the 'complete reorganization of the AI equilibrium,' investor says - Fortune",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeE9Oc2JHbjNuM2I1amhILTRQa3lNczRNdEFpbGN1VmpGeEc2dlF3NzY5NzhhQVNucEc3VXBBTUNsS0xuTVU2NTZnRWJxNmpIVVRseXVIN3p0Rkg4M1UwakVYTWVEejhSUFprVnZmbGw0UmdNNF9tSms1clVnSk1xZnpHUXVkLWZRRkhicEhLRzV6TzgtbkQ1dHM4WW1JaGxYM3c?oc=5",
+   "date": "Sun, 22 Nov 2026 12:30:00 GMT",
+   "vu_le": "2026-11-22T12:50:35.612962+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day - Yahoo Finance Singapore",
+   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWkdLUkJJQlVpLW5Vc0IxdnlMdzNVRkJGSnpmYlNoaGtPSjJobWktT3J0NGQtLXBNSUQ0dkpOYjNpejh5dUdhSFlqbmhsT2VZWThzdnhRc3FHSno4RjRVRkE5VlBXLU5UeTgyWW0zbXFvQTRjUWtFQmNFUzhuZmhIQVdhZDZYWlNPMkhwbk90WEdiZEVZa1h6LUxEcUlBNEtOZWlrUWVZRnVkMzE5YmVzZGwyTjVXWUtNdTAzVTlvajJjWjAzVGItMFpyUXZJdjBKZ2I3bkRJYjdTcE11U2tZ?oc=5",
+   "date": "Sun, 22 Nov 2026 12:37:21 GMT",
+   "vu_le": "2026-11-22T12:50:35.612962+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Merger Control Turkey 2026: New Thresholds and Notification Rules for Businesses - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX05EeURXczZ3OFUtajZwZDlpempxcmZqN0ZkYlhyMFRRTk51SWtKMUNoR0NhY2F2QkI3V3JveTlzSDBnNGN4TS1uVlM1NG5VOXBlM2hTcllCRHN6Q3BhV0ZFOWpSbnBYSkJIREloR1gtVU8yN1FfYkR1bnVlRlhyV05jS3Q0R1laT2tXR2VjbzIySGRfNGg5aldwZw?oc=5",
+   "date": "Sun, 22 Nov 2026 05:17:33 GMT",
+   "vu_le": "2026-11-22T12:50:35.612962+00:00"
+  },
   {
    "sujet": "Pays émergents",
    "titre": "Investment Managers Constructive On AI, Tech Stocks In 2027 - Wealth Briefing Asia",
@@ -6489,69 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcmhObkc3ZzhvYVpLbFBYVVN0Y2dPVnNocnlkdlJuTTFrYm9pYTVRSUdaTC1SQWVkZWduS1M0SFZMWVd1NzZwQTg3Z2ctSmNHOFVIdHdQbHkybU5BRVoycFl1b0tWVWVhUURjb0JkeDRPdWRxZkRtdE1tMmVRWHdpa3ptVGh0LVRXMjRnRDlTVTcwOU1nOU12enpNd2I2dUZPMzRJeUZVbTNvY2p0NG52bDdrd0ZFRFR2THcxX1Q0bw?oc=5",
    "date": "Sat, 21 Nov 2026 12:50:58 GMT",
    "vu_le": "2026-11-22T00:10:35.555827+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Indonesia's OJK fines and sanctions firms for stock manipulation, disclosure failures - www.marketscreener.com",
-   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRU14dXRvdXA5ZVo2cG1VSlhWaWhBanJ6YlIzczR3ZnZqQzI1WXdrel9oQ0YwQ1Rzb1p6dU1EOXV0WE1JNmhIdFB4MExWRU9IU2FmeVQ5QnJ5NDI3NVVtYnFnSVdGQ1Y4c2Jpa3lJaWFKY2JRN1c5TzBTbGwwMmdpQ2JxMV9UWU13OURURzdPYV9TZ0oxcVVCQUNhdmhxR21XSFNqTThoTDZpSjIzcnpRQVZrNWVuV2M5OVE2dVNHaEtnMFdSX3BmdDNlMFRlelBYV1Uw?oc=5",
-   "date": "Sat, 21 Nov 2026 06:32:17 GMT",
-   "vu_le": "2026-11-22T00:10:35.555827+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "BTC price on Nov 21, 2026 at 8pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObDk1U2poOEUxRXRwTXdfalZlVEt6WmZVNUNucFhld0lJLUhDUG5IWnV2Vl81U3VsMThpbm12eDZwNnpyZUxQam1mOEczMGV3Z0tfRlRja2plSUtGd2s3QmlzUmp4WkdseDhmT2pmbkFLNHZZTFpaRXhXTklpUmN4dXMyR2RYcHNHaW1kRFZkbUh0aE5QSzZBWnJyWmV6aUREUm9laV9xeHVocFZ4RXc?oc=5",
-   "date": "Sun, 22 Nov 2026 00:03:15 GMT",
-   "vu_le": "2026-11-22T00:10:35.555827+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "ERAMET Cours Action ERA, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1haVF6Z2RiVmxSd2lPVWdrVXF5bHk2WWFYakk2T183U3EyUUZiMkFuU0ZqUzRRZk45Wkg2VVFJWkx1NmtBOFhZeV9jRHJyeGEwTVE?oc=5",
-   "date": "Sat, 21 Nov 2026 23:35:48 GMT",
-   "vu_le": "2026-11-22T00:00:35.350041+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Innotech's (TSE:9880) Performance Raises Some Questions - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHlPanQ4UjA2d3Jiay1HTVNZdWdpTVIyeWJmZUxLV0NublhJTzJndjdSbVFfTE1xWFUtOWZXa2NUcFZLeWczcmVZUUhFTXNvNVFyQjlfdThtVDVkLXpoQXVzd242ODhNc0tHMjlQYXlLQTFXcUhNckRCQzJVWlg2SmRTaDRJTHl2ekFpc0g1a2ctdE9QUVNLSDlXTnJSNzJSWGstdmRMcVFaZ0I1b2o5NUJuVWlfNkhTSkHSAb8BQVVfeXFMT0Qya1JGLXRTajY1UFQxR0ZVZFhTb01zQVA3c250UFFLMWo3cVhacEdxbVVFVldJTV9hZFhIdUhNcWJ1aHpjb2VtbGJJU3p3YjlvQ2NZVEFRelFseFBiTEFxRXdVUGJlMEQyWmJaZ29wejhKeHBITkJjN1NUQ3hWYlFUMDdsaWR4dmpKMm5nOUFUQmFyV0E3azdMcE9pTVhocWVwaW9lQnBvMXliRnR1VDhGeHFiZGMydFZNbXREYU0?oc=5",
-   "date": "Sat, 21 Nov 2026 23:45:08 GMT",
-   "vu_le": "2026-11-22T00:00:35.350041+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "AI Boom Cracks, Unleashing US Stock Selloff as S&P 500 and Dow Both Slip Below Correction Line - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NR1VZR0dEaVJFS1ZrV2pNQWhjeTAyN1lKM3JVeTdvLWx5TlEzcVV0em1EV20tLTlxYUI0Rm5kU2Y0V0pTN1M2WURzNzV4eVByZzZPdGExNTdVOUVuUWo5Y3lzdkMwOGNmUXhyZ1hLTkdGeGxKT0E?oc=5",
-   "date": "Sat, 21 Nov 2026 23:35:00 GMT",
-   "vu_le": "2026-11-21T23:50:35.845486+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Chinese scientists’ magic comb restores nearly 100% hair growth in mice study - South China Morning Post",
-   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTkZubjl5bEwxeUl6TF9FU0pWdjBPX2lDcGstaG4zR0RRcW1kZ0p5anZNcEpSeTVtT1V0ZkxWRDcxWnczbHFXUnBMOWRRMlRVcDdEOXM1emFRV3RKM3E1V1pSd0NTT3VpQ2l5MVV2cFVpd0VtOUE2bHlkVVp2ekVVSjZGMlQ2dlN5SDR1dHFqRHFadHdjZ0dlVzJJbWpPQzg5ODI1dDZOUTM0bjVFek16SUZCSzluRDRkQ2ZqOHJQMTNJcnJKMXMxQVNWVm1Nb0dXbXVkandaYmdRMXNHWVNKNFdOQQ?oc=5",
-   "date": "Sat, 21 Nov 2026 03:05:05 GMT",
-   "vu_le": "2026-11-21T23:50:35.845486+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Ultramarine & Pigments Ltd Valuation Shifts Signal Renewed Price Attractiveness - MarketsMojo",
-   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSTdmZTB3LXliOV80MHh6Q1ViLVVSenlIa0N0UmI4czR2OFhNZ0tOR052aUx1NEVsOXJRQlJ0bGw0UF81S0EzazNMekJvbjM0djhFMDZjYW4wTHY2SzJsVldlOEJNNXpqdGdhS3pKdVFTdHZWbE5UNnlYYW83d0lFRE9lNGJ0eko5ejZXaEhVc1BXaloyZUR0WXFIUElWSkxaajFHWk9WVF8xUm52OUxjUmptUTdzQkxzOHg0R0J4Y1hSeVJtMlFONUgySkN6dDFB?oc=5",
-   "date": "Sat, 21 Nov 2026 10:37:22 GMT",
-   "vu_le": "2026-11-21T23:50:35.845486+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Kalpataru Projects International Ltd is Rated Buy - MarketsMojo",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMHVGelIxdjh4UFJzT1V3M0pZRFRwU2lfUkRlY3o2Yl82eUY1NXh0d0NZWlF1NUMxSFIyMlJJYzhobld0WW5sZ0dOWmF1emw5TFIybWtrZGRqdFBYMmtRYWN5WGlRc1JPVnJMTURUV2VGSUlkRlY2eEJ0SkhUWnR6UUkwNEJEc25RRWVyRUJheVk5ajdBSTlEUHI3dkg1RGp2UVpCLXpxZjJUYzVsYW1GZA?oc=5",
-   "date": "Sat, 21 Nov 2026 12:36:03 GMT",
-   "vu_le": "2026-11-21T23:50:35.845486+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "AI Selloff Has Opened New Ways To Play Semiconductor Short Exposure - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2REdlJpRXhsTWt3VlBXaUtvZnd3aGVIdXR3akhjRWhkYWFTcC1oY2xjcHBOQnZkOWFYekdvZW1QLXlaQkFtcmFlQ2VtcmN3Nzl2MWcxQzZHYzc1cllwU2o4cnhaZjVlMGtGdjgwbVN2clRyRmh5XzV3MHM4TXFYZ2lSZDRCYThsM2w3Tl8tUkVsMGgySGc?oc=5",
-   "date": "Sat, 21 Nov 2026 21:10:24 GMT",
-   "vu_le": "2026-11-21T23:40:36.495202+00:00"
   }
  ],
  "erreurs": []
