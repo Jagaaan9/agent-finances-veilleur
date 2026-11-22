@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54874.13 EUR, jour -0.03 %, mois -24.27 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54906.61 EUR, jour 0.03 %, mois -24.23 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,7 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Petites valeurs en croissance] What Coupang Bears Saw Before The Fall - Simply Wall St
 - [Banques centrales et taux] Le Zcash progresse tandis que les traders surveillent les risques liés aux taux d’intérêt américains et les perspectives d’inflation - Traders Union
 - [Chine et Asie] China’s AI stocks lose $1.7 trillion as tech selloff deepens By Investing.com - Investing.com UK
 - [Résultats d'entreprises] Datadog Stock Forecast: AI Customer Cuts Usage as DDOG Loses $203.55 - TradingKey
@@ -457,4 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Chine et Asie] "I'm a big fan of China"Tesla CEO Elon Musk made an official visit to Shenzhen, a technology hub in - 매일경제
 - [Chine et Asie] Chinese scientists’ magic comb restores nearly 100% hair growth in mice study - South China Morning Post
 - [Chine et Asie] 3 Stocks Investors Are Watching for Asia Pacific Trade Growth - Simply Wall St
-- [Chine et Asie] NVIDIA Corporation (NVDA) Stock Price, News, Quote & History - Yahoo! Finance Canada
+- [Chine et As

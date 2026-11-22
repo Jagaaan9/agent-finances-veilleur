@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T01:17:11.726067+00:00",
+ "mis_a_jour": "2026-11-22T01:20:35.856131+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54874.13,
+   "prix": 54906.61,
    "devise": "EUR",
-   "jour_pct": -0.03,
-   "mois_pct": -24.27,
-   "volume": 3.88922014,
+   "jour_pct": 0.03,
+   "mois_pct": -24.23,
+   "volume": 3.92977014,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -3754,6 +3754,13 @@
  },
  "actualites": [
   {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "What Coupang Bears Saw Before The Fall - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaDBhazY4TXNlOUNSQ3BDX28yOFM3bWdIUldJTHktMHlfbFgtN29BQ0FYUWtmOHM3T21iY0NiMGFPVFZvNHY3LVpOZFFzQVR1SGlpN2FkbFJEN2E5aHZRLVkxRUFGNUF3ZFpVaFBjY2ItRDdrTm9EcTBZUTU0X2RWY0NCTkNpVUNKbnFSQTFEUUN5dkMxeElCWGNobGdxQmw1WFHSAacBQVVfeXFMTmtKbFNDUTNaOTFfRXBodE1mR19CcFRhZGdiSXJEOFJKaDI2T19KdHlMRk93UXZsSUlzNFpzY0hJM1gxaHhVc0RVZWszYWp0aTAwUlFCUG14ZHNQVGJKMWIwQnlpdE1Wa0toNDB6TkotWnlrTG9wNXg5MkM4YWdudll0M2xUalFtWVVuWDVlaW92bDlCTHREU3Jnai1hZG56XzV0T19veXM?oc=5",
+   "date": "Sun, 22 Nov 2026 01:09:09 GMT",
+   "vu_le": "2026-11-22T01:20:35.856131+00:00"
+  },
+  {
    "sujet": "Banques centrales et taux",
    "titre": "Le Zcash progresse tandis que les traders surveillent les risques liés aux taux d’intérêt américains et les perspectives d’inflation - Traders Union",
    "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDNGaU9RZTV5Qmk3bVhpVjNzUm1pSUNOZmxCLWF5QzhKc3ZMZ1NFNEFsSmZ3bTVzVVF1U1RaWFlsUmw1Yk9zT2s3UC15MVJZcmtKWkp2eUNZN01sZVVUMHlzcGxiX1lpdU00dVgxS1ZKM0pGV2lvRjhQbHczOWhoM3I2SmRYWEtxbjc2bGkzNmsxcjR1bzFoQmln?oc=5",
@@ -6544,13 +6551,6 @@
    "titre": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI - NPR",
    "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3FPem5vX0lZRzBlVnN0UGR3UkFUSmZXek1yY3ZmOVlIX0lOVy1kR0dWcVZoenFHSGdRS1R6MHRtenpxX2ZOVnE3UkNmOWdteXpQZUhFTHFMSTZFcG16d0hPMm9SaVlMTDdLVVpHMDljMmg3S0ZyM1hmTXotZ2w3cGhMaGNjOWFILWV4UjQ2dGxreVRGUEVrQXdSWFFMWThHLUtwVEFrWHJVLVQyQmlWdFoyX2pRRElfRm1NTnNqTnlENmQtSXNvdjZFVQ?oc=5",
    "date": "Sat, 21 Nov 2026 12:30:16 GMT",
-   "vu_le": "2026-11-21T12:50:35.391071+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic IPO: Amazon, Google And The Art Of The AI Cloud Deal - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzZQaWxDcTNpTWhzZEVnV2xHalRtNHNlTXdjNk4zTUxfaExVY0diTlFtSDRQeV9JYVZyYTV0cWxUX3dmSUt5bm1fRWFTMXhUZkFQZ2phNFlrd01Pa1ZCQWJKLVNDdGxWSHJVY1FpNy1mR3ZFYmhRY1FKYmRtanFrN1Y2eEtZSnRSbkhLUE1Ja3hib3lqVnhYMXZZOA?oc=5",
-   "date": "Sat, 21 Nov 2026 11:08:30 GMT",
    "vu_le": "2026-11-21T12:50:35.391071+00:00"
   }
  ],
