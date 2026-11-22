@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T03:50:34.815576+00:00",
+ "mis_a_jour": "2026-11-22T04:00:39.123352+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53913.37,
+   "prix": 54095.13,
    "devise": "EUR",
-   "jour_pct": -1.78,
-   "mois_pct": -25.6,
-   "volume": 11.51925668,
+   "jour_pct": -1.44,
+   "mois_pct": -25.35,
+   "volume": 12.69111802,
    "volume_relatif": 0.05,
    "capitalisation": null,
    "per": null,
@@ -1172,7 +1172,7 @@
     "prix": 26.45,
     "devise": "EUR",
     "jour_pct": 2.48,
-    "mois_pct": 2.24,
+    "mois_pct": 3.32,
     "volume": 104649,
     "volume_relatif": 0.98,
     "capitalisation": 125973957390,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -6554,5 +6554,20 @@
    "vu_le": "2026-11-21T15:20:36.150054+00:00"
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "actu Anthropic: HTTP Error 503: Service Unavailable",
+  "actu Anthropic (FR): HTTP Error 503: Service Unavailable",
+  "actu Marchés mondiaux: HTTP Error 503: Service Unavailable",
+  "actu Bourse de Paris et Europe: HTTP Error 429: Too Many Requests",
+  "actu Banques centrales et taux: HTTP Error 503: Service Unavailable",
+  "actu Chine et Asie: HTTP Error 503: Service Unavailable",
+  "actu Intelligence artificielle: HTTP Error 503: Service Unavailable",
+  "actu Introductions en bourse: HTTP Error 503: Service Unavailable",
+  "actu Rachats et fusions: HTTP Error 503: Service Unavailable",
+  "actu Résultats d'entreprises: HTTP Error 503: Service Unavailable",
+  "actu Petites valeurs en croissance: HTTP Error 503: Service Unavailable",
+  "actu Pays émergents: HTTP Error 503: Service Unavailable",
+  "actu Défense, énergie, matières premières: HTTP Error 503: Service Unavailable",
+  "actu Crypto: HTTP Error 503: Service Unavailable"
+ ]
 }
