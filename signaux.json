@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T04:50:35.219538+00:00",
+ "mis_a_jour": "2026-11-22T05:00:35.885298+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54070.2,
+   "prix": 54079.2,
    "devise": "EUR",
-   "jour_pct": -1.49,
-   "mois_pct": -25.38,
-   "volume": 14.3705333,
+   "jour_pct": -1.47,
+   "mois_pct": -25.37,
+   "volume": 14.70347507,
    "volume_relatif": 0.06,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "RENAULT Cours Action RNO, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQnhpaFNXNzBFZzZLUHNkdjRKUnJHaTZBQVFOeDhaQTBMd1pFWllJVUgzQkVlNTZXTlNPV2ludU94Z1ZzdVc2Z3oyTEVsNVdMelE?oc=5",
+   "date": "Sun, 22 Nov 2026 03:52:40 GMT",
+   "vu_le": "2026-11-22T05:00:35.885298+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "ETF Daily Report (Nov 17) | NVIDIA Earnings Window Approaches; Hong Kong Internet Stocks Lead Decline; Crude Oil Market Supply-Demand Outlook Shifts to Surplus - Moomoo",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFZkc3B4SnI1OE1rYUdRU0Y1bFZwWUw1TjFhZ3JVb2lCTjBobUxaVy03X1hkV19Hc0ZvTWN2MWcyWEZfX1NnUWlOZ25BMXlfa3ZmdUJlNFFlM1lHY29XWlRPbDF1aVFhM3dzVUtSZ3R6azB5V1JsalNTODgtTzFDZWVXcjB0ZjFhYW16SnJ5NG9VMWZ4bjRoTGtIamJaWk56Z1ZQdGxFSndhZw?oc=5",
+   "date": "Sun, 22 Nov 2026 02:49:29 GMT",
+   "vu_le": "2026-11-22T05:00:35.885298+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Upcoming Key Events: PCE, Q3 GDP, Xiaomi, Meituan, Bilibili, and Dell Earnings - KuCoin",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWpqcFZmT1FSbWFBeVZCek9fNzF6UXc5Y19PUjF6TzJBV2JKaGxqUXNQQUoyRi1GaG1BY0FpV3REVFVYVTlFYTdodVBHSWJlcmlIeUN2RE9nUzU1aUJCeTV2V1M0anVTcExuc3JIX2plMmhrck9uTXVDRUpGck14U1V0Z2pVQ190N3RuMzh6YmlwUFVHYTJoc2FCVmU1MmNaLW5tM3hB?oc=5",
+   "date": "Sun, 22 Nov 2026 04:57:29 GMT",
+   "vu_le": "2026-11-22T05:00:35.885298+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Mainland Chinese travelling more but keeping a tighter grip on spending - South China Morning Post",
+   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX0h6Y01xTFlwR00yN3dMelZ5dzRUaS1wbFdZM1l5bkd0bnhQcFA3MXItY1RlX19IWGhaUW8yTGgwdFJtaTVVQnZGbmh2RTljOXpmX0ZlQkMwSmRMSWFCZGJWamFIci1uYkN2TjA2SFB0TTBTUWxWb3pnemtJeXItNTNwTXA2ZV9tWGJrTkZRMkNUZm9FNXZ1eE12U1FSQXNJVmRNZHA0VWRyV2FOR3lXRDVKZFNOcTlWc0diNWoxYWJlSnEzVTNxd09IUlhGYUpsWFVDbGdZbXZjZzJL0gHcAUFVX3lxTE5fSHpjTXFMWXBHTTI3d0x6Vnl3NFRpLXBsV1kzWXluR3RueFBwUDcxci1jVGVfX0hYaFpRbzJMaDB0Um1pNVVCdkZuaHZFOWM5emZfRmVCQzBKZExJYUJkYlZqYUhyLW5iQ3ZOMDZIUHRNMFNRbFZvemd6a0l5ci01M3BNcDZlX21YYmtORlEyQ1Rmb0U1dnV4TXZTUVJBc0lWZE1kcDRVZHJXYU5HeVdENUpkU05xOVZzR2I1ajFhYmVKcTNVM3F3T0hSWEZhSmxYVUNsZ1ltdmNnMks?oc=5",
+   "date": "Sat, 21 Nov 2026 08:00:12 GMT",
+   "vu_le": "2026-11-22T05:00:35.885298+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Monotype India : SAST 29(2) - 20.11.2026 - www.marketscreener.com",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLU8tczFwTFlCcVJOZndKVWsxMkEwdlpTMjdlWWJuRnZHX2MwMzM2d2szY2Z1UEpHR3NmQjRjRW9aZFFkQzhNTjBrTTlDeWRQV3hETEtHM3NEa2dES0t0NDNNLVE3eFFqUFZHN0FFdWx2SDZ4WE1vdk9aSnVUR215NURDanpVMGNycVJ2MWV6ZVJhQQ?oc=5",
+   "date": "Sat, 21 Nov 2026 12:31:03 GMT",
+   "vu_le": "2026-11-22T05:00:35.885298+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "UBS signale une nouvelle faiblesse de l’or avant le retour des anticipations de baisses de taux - Investing.com France",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVdBN25ORUg4Q1NnZWM3ZWJsWGZvTldRNEpSZVNQenZrODIwV1VjckNtRWpzd19tVno5V3ZwWEtZeTFUN2w5Y3pISUFRRmRRaDhScVBKYXE2Uk5Va3hsZEhpNl9lS2RObzNkeW1DNnAtemRDZzZaNTFBR2Q2Tmh2VEFzVjJWSkFkTEtsTVh6eVlqcGRtQkxOQTVXQlNDN3NRWTRjZVcwb0lsMGdhOUxnZUdhMzY?oc=5",
    "date": "Sat, 21 Nov 2026 11:04:49 GMT",
    "vu_le": "2026-11-21T16:00:35.161733+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "A 10% drop for the stock market is unnerving, but it's not that unusual - ABC News - Breaking News, Latest News and Videos",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd045UnVGay1hWGVJME1yaEczSnBDd3pUdEpRVWRKbUpYeC1RWHIwY2Z1R0t4MVhoclZlQ1BOMmgwamtIazJCNEJab2MtemtzOEFCeFdoa3dlMmVJZzloVjE2cTRzaEJyR0FmaE1aREVNQk0zc3NvMzU0UlZ5UGltZ1lnV2RCTkdiUnBBendJbm7SAZYBQVVfeXFMTlFLemtKM2JKbW1fZEZBU2R0OWJGa3RMOFEyeE9tMDExM3JaQmR4bWR1NFNGZzBIR2hma1FtNUtOcklSYW1nUzhXcndGbWFodjlDWFczS0ZUVmoxcld0MkUwdlVKWllsTG94U0dwRFZ6dzE5UXhNMGZJbTlrTnRsclRScGM0bzBFUU0zVEJwdGwzeDV4cUZn?oc=5",
-   "date": "Sat, 21 Nov 2026 14:59:43 GMT",
-   "vu_le": "2026-11-21T15:50:39.429145+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street’s Fear Index Just Hit 9.7. History Says the S&P 500 Could Rally 10.5% in 3 Weeks - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGcwWU5zUDZCMUNPeUcxdGVVWW9IUnE4T3BIbl80OVJMUXVRTXFZcEphQVE1QmRlMTdwZENsSVJwY05mM0doQ1YzOVB0ZDgwRXdpS0M0ZHliX2kwbnhOTXRfQ2RGSGg4VzlraHdTVXh3ai0wLXdzc3VZdTh4SVY4UVFRczFSLUNRX3U3d1NfSjByRGdmTUNN?oc=5",
-   "date": "Sat, 21 Nov 2026 15:28:29 GMT",
-   "vu_le": "2026-11-21T15:50:39.429145+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "L'Europe finit en nette baisse, l'IA secoue le Nasdaq - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYm81TXdKTk9yeExDRGl5ODBWYjVxRHRnVDd6ZElLSGx6S01UY0RDOVMweU53UXRKOUdLZ3prZkhSMHRMRUZoLXIxaUFlNXFnMHFzb21TdEt0TTBfOTZHRWs2Qmdrc1pYM2hxTGg4OEtCUXQ3Z04xcXl6eTNyTWV1bzU1OGduQXpDbG80MHZyMmxwZVJiRDdmSWZxSmdTNVh0aDZyVXFkdEtGTG5iMDlPbndlQVc5d3lGTlUwQ3haYkNjRFhGTzM0MTBUQ3dtcTDSAc8BQVVfeXFMTWJvNU13Sk5PcnhMQ0RpeTgwVmI1cUR0Z1Q3emRJS0hsektNVGNEQzlTMHlOd1F0SjlHS2d6a2ZIUjB0TEVGaC1yMWlBZTVxZzBxc29tU3RLdE0wXzk2R0VrNkJna3NaWDNocUxoODhLQlF0N2dOMXF5enkzck1ldW81NThnbkF6Q2xvNDB2cjJscGVSYkQ3ZklmcUpnUzVYdGg2clVxZHRLRkxuYjA5T253ZUFXOXd5Rk5VMEN4WmJDY0RYRk8zNDEwVEN3bXEw?oc=5",
-   "date": "Fri, 20 Nov 2026 17:09:56 GMT",
-   "vu_le": "2026-11-21T15:50:39.429145+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Présidentielle: près d'un maire sur deux exclut de parrainer un candidat - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaDh3b1lodGpFdFJ1c0FmY3FibEczekxwVFJmNDFySE1TN2JsT3BPbWZQSE9TRUVfRnpNSEtzZWlvd3pXV256bWlRUFlRYWl4M2hjSkkzTzJybjQ1QkhvcjJNOTROLUY1aUNYTEpDbmVNRlZTZVo5djBNSU1iUW5iazk4ZjVJUjdmZGpqckZBM2R2dXM3WXl4dDJPTFpneUZ2RzVWbkk2ZU55MEIzUnM3NUpqak5FX1V4bWI4ZWVJMXY4eFBHajZLWXhJT3p4QjJvUHVGUHFKd0RHVFhrcTZKQzhjNWNTS2UtdzFqZGhuOFlWVjVvb0FySWx4RklfMS14?oc=5",
-   "date": "Fri, 20 Nov 2026 17:02:00 GMT",
-   "vu_le": "2026-11-21T15:50:39.429145+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Trump accuse la Réserve fédérale d’être très politisée et s’en prend aux taux d’intérêt élevés - Demócrata",
-   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY2E0T1Zmdjk1aGIwMlMyZTZhNktjX25aZkNEVWRkenhsM0ZrTkd2Tng5VHhJSHNkOFV2enN5clZNa3FGY1RHeVNMeHhHUGxFMVZmYlFzdy1sdk43cHJZdnNUNEE3ajc4bm9qTGJJTzFyQjJFNHNMeDd5T1M4VzMzVFQzQ3VWWnZyYXdkWTNidU41UXI3X2Y2WGp1aVNIMkNDSkxPU0pWM3BPUUUxWTNIYzlLcTBNWV9qU1Z6MlJveHJGZlZEbEFVcG96SzXSAdIBQVVfeXFMTzh5X2xuRk9JOUFmMmZJRlV1NmhjdnJJLU9jVXU2alFqMGJrSGljOHYzTVY2bmJyaVd3M09OQ3k0OVpBZjF3dVBIRDVpd1FLN1BNOG5veHRJYmtVMC1YWTNJYWRPcHFXVmV3aUlncTVUbjZiQmVfd0pWbHBjbUpmZEwtVTh2enpBY3dqWkZscF9jV3NwM2JtYkh5OEdyVXZ4ajM1eHBpdnZqc3poQldKWGdwbFhOTnVFOHFnWW1UU2cwQVJrMVllYkxJZURYRThTemVn?oc=5",
-   "date": "Fri, 20 Nov 2026 19:26:35 GMT",
-   "vu_le": "2026-11-21T15:50:39.429145+00:00"
   }
  ],
  "erreurs": []
