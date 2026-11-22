@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T12:10:37.293810+00:00",
+ "mis_a_jour": "2026-11-22T12:20:35.172596+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55844.62,
+   "prix": 56064.79,
    "devise": "EUR",
-   "jour_pct": 1.74,
-   "mois_pct": -22.94,
-   "volume": 66.77179191,
-   "volume_relatif": 0.28,
+   "jour_pct": 2.14,
+   "mois_pct": -22.63,
+   "volume": 77.79652408,
+   "volume_relatif": 0.32,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "EN EXCLUSIVITÉ-À l'instar de SpaceX, Anthropic a mené un processus d'introduction en bourse atypique, ce qui a - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPQXM1WVdURUdSSU1YVVFTV0UxaTBPLTM5amZQUE45dGxBQ0VTd0V4R0Rrb0NUWDhhQUtnQUl0VjVTeEJrbjdXdDNtZnpnQ1ZQZWZ2ODJDRjVIOVhTWFFmYWQyVmR5SGUtZ3ljam9tc2tmbjI1d05VeFpMZ2tBaE4xMVVTT1QySTJUalRVaG4xWHNGV3FmTC1jLWhLdHAwbUZyMWQwbW4taDUxa2dGTmFPRURUWDBucUNVb3QyWndqdmRUNWlPcE9GZTVpNVozQVhXbXNCUTRyYUZBb1QzTXpmUmVBMFdJZXczc0tJdlVzd0Y2Rm95OWxVbnItVG5KbXVTd1J4blUxTHo5Um5JNXFSbWxpZDFkamlMMDkzTzdxUnNodmY0SjQ5QnlpMlNWaUdHVVVUc2loQjJJcTNK0gG8AkFVX3lxTE9BczVZV1RFR1JJTVhVUVNXRTFpME8tMzlqZlBQTjl0bEFDRVN3RXhHRGtvQ1RYOGFBS2dBSXRWNVN4QmtuN1d0M21memdDVlBlZnY4MkNGNUg5WFNYUWZhZDJWZHlIZS1neWNqb21za2ZuMjV3TlV4Wkxna0FoTjExVVNPVDJJMlRqVFVobjFYc0ZXcWZMLWMtaEt0cDBtRnIxZDBtbi1oNTFrZ0ZOYU9FRFRYMG5xQ1VvdDJad2p2ZFQ1aU9wT0ZlNWk1WjNBWFdtc0JRNHJhRkFvVDNNemZSZUEwV0lldzNzS0l2VXN3RjZGb3k5bFVuci1UbkptdVN3UnhuVTFMejlSbkk1cVJtbGlkMWRqaUwwOTNPN3FSc2h2ZjRKNDlCeWkyU1ZpR0dVVVRzaWhCMklxM0o?oc=5",
+   "date": "Sun, 22 Nov 2026 11:01:18 GMT",
+   "vu_le": "2026-11-22T12:20:35.172596+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "ETH price on Nov 22, 2026 at 8am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmhVbjk1UDB6N3dhU2pndDBhUEhZWUdzRERhRTc1RDJxcndqZmtjdVBqcldyNDFnUFlCdDlpdEszZktybEVnaFJ2NXphbkpzSG8wX0FEUWpVSWZWWkNEX010UUNzX2FzSXlVOWdBNlZXZGZQZFg0TUdvZ20wYW1YU2hMOGJwci1FS1ZYZDdCVkRmdS1nYWFTeUhEM2tFWTlDMTFIdnFrRUQwZUY4RHc?oc=5",
+   "date": "Sun, 22 Nov 2026 12:16:37 GMT",
+   "vu_le": "2026-11-22T12:20:35.172596+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Will Anthropic’s IPO buck the tech sell-off? - Financial Times",
@@ -6538,23 +6552,7 @@
    "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2d5djFaZHFTUDNreUwwQ2JjOTBBOXloQlZaTmliSUFBTnNodW4zSzNYalNyUUdjend2b05UNlhqRjBLa0lxdFZWRHNGUW96TnUyOU40Ti1lLXd0S2VXRjV6VDlRTnVBMmJyXzJTUU53Sy1FUDdFclY4eDJkdEVoZ0lPOF9ycWQ0QVdjSjFLdEZJcFozTnpDME9MNnNTZkY1ekM5NDhLSW50LWt2RW9XcDY5LVRRaDVxNFRVZ3ZhNl8?oc=5",
    "date": "Sat, 21 Nov 2026 04:04:36 GMT",
    "vu_le": "2026-11-21T23:30:34.910099+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Asia outnumbers North America and Europe combined in top 100 of global science ranking - VnExpress International",
-   "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdExRSVpLVjgzUk56c0JOU0JtOEdaNEhObWxUVmZLSTQtYTlFNVVaNUtNcW5OdXF6em5Mc2dmNjNJNnJXLUt4QnlCdnYtSHJtblllTTBkYjA3ZnFQQjRGODh1anlSczVXMjdhU3VoSFlobVhGZ3FEcnFrSU5GZHN4ZVBfdnNNc3V3YVRQUXktd21FVGJhNkJ0SGlEaE9mbEdyQm9ta25oQlU4aFl0cXdmd2NSVGpub1JWUVJVc2tRM044d2ZYSGpyaUdmaDVlbV9raExoWGR3aEc1dDg?oc=5",
-   "date": "Sat, 21 Nov 2026 23:00:00 GMT",
-   "vu_le": "2026-11-21T23:20:36.841621+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Goldman Sachs Market Panic Index Hit 9 out of 10 – What Does It Mean? - BeInCrypto",
-   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10ekpaSzQ4QTNZQzl1dE1UQVlvV3dUSHJtSnF3R1Q3aUZVa2N4U1VHLVpsVGlLN2VjcHlVTU91YXRGdXA0UjFwbzdBQVNvOWZpdndMX2F1NHA1SUR3MVVuTEQ0SFFkajBCOWtmeEZPYVhlNFZTMFBr?oc=5",
-   "date": "Sat, 21 Nov 2026 21:24:25 GMT",
-   "vu_le": "2026-11-21T23:20:36.841621+00:00"
   }
  ],
- "erreurs": [
-  "actu Rachats et fusions: HTTP Error 429: Too Many Requests"
- ]
+ "erreurs": []
 }
