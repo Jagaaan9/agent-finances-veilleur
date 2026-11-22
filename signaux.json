@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T05:30:34.881809+00:00",
+ "mis_a_jour": "2026-11-22T05:40:36.348724+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53724.46,
+   "prix": 53619.73,
    "devise": "EUR",
-   "jour_pct": -2.12,
-   "mois_pct": -25.86,
-   "volume": 15.37726416,
+   "jour_pct": -2.31,
+   "mois_pct": -26.01,
+   "volume": 15.45908767,
    "volume_relatif": 0.06,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3491,6 +3477,20 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les experts prévoient une surprise sur le prix de l'or après une chute proche de 3 500 USD/once - Laodong.vn",
+   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczN2Y0pGd3huOE9XTF9lWTJTMkhUeU8zR1BWTV81aGlRWUVGaTBTU19DZllLXzVudk14NlkxWVZ6MXFEMk1iNHctd0F3UkVMblFYbnUtQ19mRFlCaXR5aW1yLTJrWGVZZDFCeU5aUmV6d25qWmQxR3AyckU2NnRBU1Q4YUYxWTNoYW85d05aQ1VudmEyYXhlVU1uczRMa3RKWEJ6VVhNS0hKc19pTHV3bQ?oc=5",
+   "date": "Sat, 21 Nov 2026 12:28:58 GMT",
+   "vu_le": "2026-11-22T05:40:36.348724+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Anthropic IPO Buzz Builds as Crypto Bettors Raise the Stakes on ANT Valuation - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVWlTaHN2enY3UjZ6cUs4VVFkTE9id0FSbTB0UGJHdUl4MUFEQWF2cEQ1d3RZSHk1MGN5bjJVajlpLXM2cktiTXg3S3JDVDh5RFlZTklNbW5ZUXZjdlg0eE5yRGJDOVZ1RVc4N2sxcXIteDg5T2lSdElUNlZSbWd1cl9xREJud0RJRW5pU0dUM1JnRG1vdXJsYXJxR1Q?oc=5",
+   "date": "Sun, 22 Nov 2026 04:30:00 GMT",
+   "vu_le": "2026-11-22T05:40:36.348724+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Russia Opens Bitcoin Trading as Moscow Exchange Eyes Dec. 1 - Cryptonews.net",
+   "lien": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0ZUpDcWNXRFptUFFRS2R5ZW9CTzd2Y0o0YUFNYU1hUlJrejc2cmdoNVNoNy1jT2JJWGc5TGx4LVFRNVhfbkQzWkx1UGwtUURrbm51TUZRYw?oc=5",
+   "date": "Sun, 22 Nov 2026 02:20:00 GMT",
+   "vu_le": "2026-11-22T05:40:36.348724+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Kraken flags disruption in Cyber-Optimism funding gateway, deposits may be delayed - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON3NielloSXR1T3V5OHU0Q3BlUXBQTC1TRXRVMWVsOFNRendtaUV2QVFZU1Jyd2Z4dzE1R2hwQWtidEdKeHZ2Y0xnSDNuMlpMNW10OXd6ZGxnWmc5QmxFazlZeDJObUtpYXFtakl5cTAtYjZ5UGJ2NGtPRkJSWmVXSGFR?oc=5",
+   "date": "Sun, 22 Nov 2026 04:57:14 GMT",
+   "vu_le": "2026-11-22T05:40:36.348724+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "Décryptage de la « chute » des prix de l'or - Vietnam.vn",
@@ -6524,35 +6552,9 @@
    "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fLVppQU5tN3hzeHB0cTVUbE9fTnBqY2VLQ0VIemUzakw3YWtNQWxDeUNDbXNDUDA3WGFlclNQa29OZG1PMXBKYXF2ekhwMXpfUVNqd0VPeTEwbmk2THNmUUMzMEk5VERkdnNEVjhR?oc=5",
    "date": "Sat, 21 Nov 2026 14:28:17 GMT",
    "vu_le": "2026-11-21T16:30:37.721371+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "BOUYGUES Cours Action EN, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FRnRQY2lqUkxRT3htOEdjOEJvZDUzVk11MnVaWG4xQVU1aHczaFBQcXIyMFZyNF81T0YxYWtLSzZDVVZ2UC00bmVLOV9tUXlp?oc=5",
-   "date": "Sat, 21 Nov 2026 07:11:22 GMT",
-   "vu_le": "2026-11-21T16:30:37.721371+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Technology at Work, Heritage for All: The \"Chinese Approach\" to Safeguarding the Leshan Giant Buddha - azcentral.com and The Arizona Republic",
-   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMWNaQzNkQnNjcG90OThQanRWOFRGTHowQ20zVWVpZko3NFJ6a0tEZlFDdzZwTUktNlNMbUI2RU9ETmx3RlpHSWNob3hMa19mcHZ2bEZzeWVsdExRa0pNZU5WVFJDaEcwems5Q3ExUnpYV3FmVTNoWExBNG1PVFIxcVItMHFBaWJjMXpjZUlxNTNINVpUczF4WDE3TDg0dHQwSVV0ejJhdTBaM0tRVUdCRnFlODlfakxUODU2N01nak1IRkJRRndNTXg0Q0lpd2pMai1VTmw3bWREVFlCTFZ5dl9QV3k?oc=5",
-   "date": "Sat, 21 Nov 2026 11:17:04 GMT",
-   "vu_le": "2026-11-21T16:30:37.721371+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Arista Networks And 2 More Defensive Stocks To Own - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSENvY1FZVm1hT082Q2JDVnRITkpQVml3YnRRTk9ZRVRqa0MtcHpYdjFDZ2JWVTlaVGVLa0N5SXgtN2s4YU5ZeFppNndFYUNMbDJySHVvZDB1LUJkMXZwZng1QVYtVDZlY25fNjRhTG9rZ0diamNZZUVQeXN5VG5iYV9ETWp3Tk5WbU1jQ2p5S0sxRHBpT2tpZDNLQUYzUQ?oc=5",
-   "date": "Sat, 21 Nov 2026 16:10:04 GMT",
-   "vu_le": "2026-11-21T16:30:37.721371+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Les actions d’Anthropic chutent de 8,5% lors de leur deuxième séance, dans un mouvement de vente des titres liés à l’IA - Unite.AI",
-   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVdWRVY4WXpOc0drek1XUFMzTmpUc3NBR1RRVTNteFRsWE1YaUd6b3pDcU9pSGEwWHRDeVRqQklkZU1DNWF1ejM5emZEU0hxZFZuZUpubnhsaWtnUzJXVVhhakNXNlNMME1iOGJUdF9FdUtxTG9nN2pualFiN25iczUtcHgwb2pVbERWSlpuaw?oc=5",
-   "date": "Sat, 21 Nov 2026 13:52:03 GMT",
-   "vu_le": "2026-11-21T16:20:35.610885+00:00"
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "actu Rachats et fusions: HTTP Error 429: Too Many Requests"
+ ]
 }
