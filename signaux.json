@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T23:30:36.557639+00:00",
+ "mis_a_jour": "2026-11-22T23:40:35.045725+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3578.68,
+   "prix": 3573.29,
    "devise": "USD",
-   "jour_pct": 1.14,
-   "mois_pct": -11.1,
+   "jour_pct": 0.99,
+   "mois_pct": -11.24,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.0971899999999999,
+   "prix": 1.09733,
    "devise": "USD",
-   "jour_pct": 0.06,
-   "mois_pct": -2.16,
-   "volume": 3496,
+   "jour_pct": 0.07,
+   "mois_pct": -2.15,
+   "volume": 4205,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55610.9,
+   "prix": 55818.74,
    "devise": "EUR",
-   "jour_pct": 1.32,
-   "mois_pct": -23.26,
-   "volume": 175.86274658,
+   "jour_pct": 1.7,
+   "mois_pct": -22.97,
+   "volume": 176.1429634,
    "volume_relatif": 0.73,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Le CAC 40 bat un nouveau record historique, soutenu par le repli des cours du pétrole - Frontières",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY1c1bWlCbG1FWXdvY2ZyblBvMld2cEpVa0ZTY1VLUGRjZkpCNXZoTEhHSlV2M0JOVzc3R21aXzdGR3pVcmYwQ19aT0hoNGtMYkpLUE1DckRXQkdhUDdwODltTHdaVFRDSDNxSmZYRTc4c2d2TVNNd0s5X3k3R0JfZ2JVMlM2aEJGY0VVX1RfX2lvaTRQWm96MEt5b05sNXI0VWpmeExqeFZsbnFrVm9zaGxpUkJoeDA4UXlBdXd3UkNRc2RKbUxCTmlQOA?oc=5",
+   "date": "Sun, 22 Nov 2026 19:06:38 GMT",
+   "vu_le": "2026-11-22T23:40:35.045725+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Trump blames $6 trillion stock market slide on Democrats’ midterm wins - Yahoo! Finance Canada",
@@ -6544,13 +6551,6 @@
    "titre": "Why Cipher Digital Stock Is Under Pressure As Debt Concerns Grow - Simply Wall St",
    "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ04xN09SOG00enlQZzdYanVnZXZkbFNOLWF6ZVdQRzdGSGlEMW53bi00VlE4aEo5U3JsS3MwajB2Wmp0RzVSNlBzbVR4eTRneUcxREs1YzR5ckgzUEJJc09IWWlqOHo1UTdFWkNXaWw3cklVM0tYbFdXSEVyUUVEajlqR3I3R2c3dlJ2em5TT0gweDhETHdQQ0lDZjFLNHRDN1FmNHdoMWdoLW5XWFZ4SEFWYTBBaEFsTF9EcFVxTGhTQndWZ0pHc05BcjjSAdIBQVVfeXFMTUw0WW9GcTJWYzQ1RlI1bEVPR255SEc4MFQxRzhXS1VXcXV0a0cxaGZRUG9TblVhS2paVGotMmV2RzJWZS1IMHdaVXdVVDRWWGEwLWFmajlVN3VhYXNUa2lWcmp2OHRGNXpSX29zdkdyZFdmV25rbmRVVnZxTGRiUzJlaVVxRWhyOFgyM29HWGNwTmMyd3VZaGpmNm9weTZZWHkxSWtBaVlfcTJqMWVrd1BBZVl1NS1JQkJGenI2S1d3VVJMS3FGLUYySFlVZFdVN21R?oc=5",
    "date": "Sun, 22 Nov 2026 10:09:24 GMT",
-   "vu_le": "2026-11-22T10:20:39.983784+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Did FTAI Aviation's Fall Catch You Out? What Investors Missed - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRDltaFBSaUNsRWtzYmZ4QjlwNVZWWFJGRjk3Tm90NlVNNC1FUllhcjU1UmRYaWN3Q1Z3LUNpRFRmQkZ6NVZTMjZSVGNFVXBELVY2MXNhOTdQREZ5TnpOMi1KZ3p6R2w0SDNvS2lpOWszQmlsX2hrQUxhZVBPWUdDYmZJYmZIOVkyb05VOUwyUVhWLVQyTE1WaXJwZkozaGNDR1A3ekQwaGlmaVlWNHpleHhqTThUbkhaWTFqT0V2WXRlbHFyWFd1M01BSTBjX0I4N1HSAdcBQVVfeXFMTzBIRnNyamhNYkNndnNaaERYQXVsOWtaMExyZlVFTnZFMW5uUGxwZzM4MUtsVndoT0xIUVlSempZZkRqbnRzdTZPRVJrVTdqZWFFT1YzazhuX2tTR3NsRV9jRGJ5Y0ppU2MzbHl2NWdNTFdBcUdmZ2dKSnRHMmxuRXl2R05HZFdOaFZvZkRVVGxRUk9LbnNrYkg0N3VtRUI3akV0WldrUUhBejVPWW9YbkE1QlVWV2pkQ0s0LXBDU09aNEtsWVlNZlJ0b1pxNFoxa2pSTmJSVzQ?oc=5",
-   "date": "Sun, 22 Nov 2026 10:08:39 GMT",
    "vu_le": "2026-11-22T10:20:39.983784+00:00"
   }
  ],
