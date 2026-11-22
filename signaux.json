@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T05:10:36.902562+00:00",
+ "mis_a_jour": "2026-11-22T05:20:35.389224+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53903.05,
+   "prix": 53624.16,
    "devise": "EUR",
-   "jour_pct": -1.79,
-   "mois_pct": -25.61,
-   "volume": 14.8998905,
+   "jour_pct": -2.3,
+   "mois_pct": -26.0,
+   "volume": 15.20311713,
    "volume_relatif": 0.06,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic lève 81,3 milliards de dollars au Nasdaq - Brief IA",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUZ6bTNZX0ZMSHhjTmo4d0J3Y3FkaVdudXZHU2xwbXBrY3VudjdfN1BiRkNDNDBweWZHMVRxV0Jsc19tLTN2VUxxd3lfNGlyRHFHdV9TYmlwcG5MUTBQOWxOaEFxQk16aEg1NnVlclBXZUtPTC1mb0Y1SlVUcmlUaENVV2EwSEta?oc=5",
+   "date": "Sat, 21 Nov 2026 23:07:11 GMT",
+   "vu_le": "2026-11-22T05:20:35.389224+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "4 IT Stocks with Robust Revenue Growth in Q2FY27 - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYVpaS3E4bHlhaVdZUXFILUhlZXhWVE1MVnZKWGpQem5hRUdwUU1LaWdSTHNNX3l5djhoUGQ1bUNadjhiaDRJdkFmbDVfT0xDeWxrU1kxcnU1QzlSNzRiSGNWRTFqSnBmMkJGU3hwc1JsbmVaNlhkMmtmWTZJNEIwNjFWblk4ekZRTVpwV21qR2s0QVprZF9LbHVMeU82NDhWQ0RsMzBaWjFJaWY2VGluWU5XSHl0UkRiWVE?oc=5",
+   "date": "Sat, 21 Nov 2026 05:52:02 GMT",
+   "vu_le": "2026-11-22T05:20:35.389224+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Insmed (INSM) Is Drawing Acquisition Interest - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObnFfS2wySDI5RU9LTnVaYzVyUGl3U2ZwRHhmUzk3NkxRZE9qVUh0N2lfeFlFcEtkaFZqem1NSlF1dlJkN0JVTlRXZEFkb0pYYWEzbFFyeERjSk9ydDlpNHdVMmxMSkxRaFF6RGRRMmtJeExiVEhxelR1VkJhRUFaU1h5YnZpdFNZLVo0ZGU2SExnM2t4Tno4bkJnbFlUX3lpWmFzSnhTTjN3Tk5HUTQzTnNGVS1uMXBwcVlvbjNiMznSAcYBQVVfeXFMT2JuRm1GVVl3X3BpdjFLNTdPN0JLaUV5ck5FMGtXYXVRMVlFV1BwUUt6RVc0aTktVmJ2ZDVJaVBMeEtwcW9CdkZaeFBtQlF2VEtUcTFNVHZ2T3c3R2hsQWU1YkVGdUJLbDN5N21nZXBkY2JBSWZ0VUxwWGU0bjJzdmZESWJKU0p6TW5hZUd1em9WX0c1UHlCY3V5ckxSQzZySE5RcHdQajJZXzJOWHpTVmVIalVVdFJ4Q2hxQ29ObmtWQ015dFRn?oc=5",
+   "date": "Sat, 21 Nov 2026 14:09:52 GMT",
+   "vu_le": "2026-11-22T05:20:35.389224+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Broader markets underperform; Kaynes Tech, Inox Wind, CreditAccess, KEC International down 10-15% - Moneycontrol.com",
+   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRWE3aWJhRFZhVWs3Z3FwcTVhOENPdjlHQWk3UzlpUG9wc0MtaGY5NG1faFQwckFKbGlOVU50Um5JMk15YnRETUJESjlOQkFpVHVkeEdEX0ljZFNPajR3aEFSeFhFelZicklGcmU2ZVgtZHpPdTJWV1JkOTllYllSb3ByR2N0cWotTWRnQ2w0TjFEeDZYU0F4MGo0LVk1OEFFLVNhbmZIWS1aenhjcXVlaDRkMmhfNWo1cDFoTC1OaGZ4Y2xjeW41VEFtczNxUW96cTRuSThFMUhLN2UzQlpjUlg3cUpNNms0S08xedIB8gFBVV95cUxON3BuVnFVZDA0WGwwX2lCTDlmQWFXdzVyU1dBbkQ4b1FlbjlUam1kaGw1dzNieE5QQlZ0a1pnNFpHR09uYTRsMV9XbVFTQzhxODVNWWdkZ1ZrdUFWUU1PWlVzdFN5MEQzTkFMUnJUVmZhS09sYVA0Mk55MVZ1c0VlLTJPb19Rdy1KYmFwWHg0akM1b1RXMnFOTXc1WGloa21HMHRjTFZnSjQ3T0VlMWw1eGRfU1VJVmgwLWo3YTFFcTBEeHZVZlA4bjVvRkdlcTNvcEI4aG8tQTdEUXNibXdqM1BxNVFIdXdOTTJzYnVNc212Zw?oc=5",
+   "date": "Sun, 22 Nov 2026 05:03:54 GMT",
+   "vu_le": "2026-11-22T05:20:35.389224+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Top 3 British Quality Stocks To Watch In November 2026 - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2RfWkx6UHRLU3U0d0tDbTE3N1ZNSndmVEtzdV8wTnd0OGZMckFyd29VMTRiSlo3VFRTS1YxSXVlcF9DREdNckVWT1VMZTBjTF9XR3dMRHF5Y0JheUtOaElDX2prUmpMUmktbk0zWkFrWGVYd3VaLUpTYnRKc0Y2UTUzcXdBSWd3MHB5QmhJejd2ZXgyTmkxTg?oc=5",
+   "date": "Sun, 22 Nov 2026 04:17:00 GMT",
+   "vu_le": "2026-11-22T05:20:35.389224+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Wall Street Suffers Sharp Weekly Sell-Off As Nasdaq Turns Negative For 2026 - BusinessToday Malaysia",
@@ -6516,41 +6551,6 @@
    "titre": "A 10% drop for the stock market is unnerving, but it's not that unusual - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVU1pNzhXYU5zdjVDa2s4WEtmcU9UV2gxdlF5RnJmYVAxdTh2dnJLSEZOWlN1ZGFTc1VCS0VncGJEcjF1R0tsbHhaOWhrZ25IZFVneGVIelpnNWpKX1UwbldId1docGIyNjU4QUdqcVp1a2lhUUVWRFpDalZLZ1psY3ZGR2dmQ0FaY1h3aFJDTHlDX2J5TjRzS2pqOA?oc=5",
    "date": "Sat, 21 Nov 2026 14:01:56 GMT",
-   "vu_le": "2026-11-21T16:10:36.306221+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "MICHELIN Cours Action ML, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hR2Q5ajlWM0tXT20zbkNzRS1wMzRscGs2OWRHQ1NFS2FZaTd2RDdoTDBZUXdkYlFpVFR2QVI5X0t2TVNYYWZLRVRRZG1VOUFW?oc=5",
-   "date": "Sat, 21 Nov 2026 11:22:51 GMT",
-   "vu_le": "2026-11-21T16:10:36.306221+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Bank of China Limited (3988.HK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DS2ZIbGFDM09teVNWNVVVN0NWRDZYbVRHa0ZvWVg2ZThocDc2WF9DeXZjeHpqLWZ1MXlZdUtSWFMwNVdaeXQ4OVVIZzA3YVlwVGFjaWxR?oc=5",
-   "date": "Fri, 20 Nov 2026 16:14:37 GMT",
-   "vu_le": "2026-11-21T16:10:36.306221+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "How China gets access to American AI chips - CBS News",
-   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jaTJKX1RmZ1EtcWxXdDJ1LUhTUng1ano1LUZwd3pOUGtpSHhBRWdUd2hfRWp3UVBvM1dyN0xQY01LWm5aeXd5aVM0SFVHQzdiNGgyWFJPZ2FLVVd3M2V0TzgxOC1NWWtQOU02TTVrRGhjSEh2YlRlR29ZRVlVdw?oc=5",
-   "date": "Sat, 21 Nov 2026 12:13:00 GMT",
-   "vu_le": "2026-11-21T16:10:36.306221+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Does ImmunityBio, Inc. (IBRX) Have More Upside on Major ANKTIVA Milestones - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNi1aSjBwNkpCUWVNdXFwQjhMZXpldDNBSUxjYlhQUHhmUHQ2bkJwT1dCTEdWZTE4QjYtSlRyLTBxMFhMWXRNZUxZTUw4MW8ySnFCTFZVQVZOcDlqSlg4YkxOeFB4VzVVWUdVNkdJX3dRa2ZmRC1UdkROVloxVlRZbXl2dURYdFhEMlc3OEE4T0JXYTlDa1E?oc=5",
-   "date": "Sat, 21 Nov 2026 15:01:50 GMT",
-   "vu_le": "2026-11-21T16:10:36.306221+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "+28.6% in November: India’s AI stock picks, up to 55% off this early Black Friday - Investing.com India",
-   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcWdBT2ZYNWtHbnpiTGcta2p1SUlTRlBPLXN1bl9JZmpzU2pSOVpiQzBaNkM5UDltam1SWHRSbFkxeDRqV0hyd3FxUE1PNFUtRnA5YkRDRTBPVFl2bHNWZlpNOEJWem1nOTR3MU5qTkZRaVRXX3lJbkRKb2xrNHdtUE9heHZfRjNyUV9IaVgxaVNZemxZMnJuOGxZRU5ZLWhDcm1RSDFKOWxlaGQ2UFZ5N1dQMXpVVkRKTXYtV2pic296eFg5Yko3aXFR?oc=5",
-   "date": "Sat, 21 Nov 2026 04:41:28 GMT",
    "vu_le": "2026-11-21T16:10:36.306221+00:00"
   }
  ],
