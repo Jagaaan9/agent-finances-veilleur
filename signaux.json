@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T07:40:38.329112+00:00",
+ "mis_a_jour": "2026-11-22T07:50:36.085985+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53835.42,
+   "prix": 53917.37,
    "devise": "EUR",
-   "jour_pct": -1.92,
-   "mois_pct": -25.71,
-   "volume": 24.01616557,
+   "jour_pct": -1.77,
+   "mois_pct": -25.6,
+   "volume": 24.74589961,
    "volume_relatif": 0.1,
    "capitalisation": null,
    "per": null,
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "How the Anthropic IPO could affect Amazon, Google, Nvidia and AI stocks - www.equiti.com",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3VEREZZcnNIU0FLaDhXR1ZZRUI3SnZ0V1NBbUR6dXpPWXlYaWtZeTZJY01tQVh3TjUzYWhWeUwzQkFwckEwMmFnR2JmbHVqSWdmT2JoN1d2cmxyMVNOa1NjUVd0VDROVnlfNW5TVDNSWnA5SThIYzlQR2ltU0hyRTZiblZtTjdtbmw1c3NRVUNVcTdsRlNZMW16TjJxYWx2Y3c?oc=5",
+   "date": "Sun, 22 Nov 2026 03:41:04 GMT",
+   "vu_le": "2026-11-22T07:50:36.085985+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Meta Stock Slides Ahead of Q2 Earnings as AI Spending, Ad Growth Stay in Focus - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWmxyODh4WnJjRWVjcWR5d3ZpdG94aVlEN0duUzZ0NHZMYzVXa2tfS1VNNEVyYlJkQXRfV1o5c3JyQk55MTlzY2VIb3haay0ydmZOeEtGUzhKTWpPY2xmcVQ3SGhhNE1DdElEZkNRQ3JnMG5pVFdZX0wzSzBQQkhCTFBpcGtjT0FOT1hjVk1aNU5BZTJrMUtjMzNzZDRBVWd1enpjVENWMXdzNFlYMjB6WXNqbkpKUTVlUzhnM2hYc2U4ZEoz?oc=5",
+   "date": "Sat, 21 Nov 2026 16:10:25 GMT",
+   "vu_le": "2026-11-22T07:50:36.085985+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "From Currency Crash to Comeback: IMF Explains What Is Really Driving Brazil's Economic Swings - Devdiscourse",
+   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWWhyYnI1MjlOVGxmeWVvT3BHd25yclVScTJ0RXpCOXF4bF9fWUpZTE84ODBIMG8teEkyZ0hnWENlQnowTkFTRzlvMGd0d2paQ3ZhY09ZclAzd3l6Tk0ySFNkQ0d3T2xuQXprX1g5NkwzSjhLLXRhSVo0aWJYRUJFWGV6VWlVeUVkbm1SdkFJd0NLMkZUbnYwNndUZHVmSVh2SS1tdE1wSmFNLUR6MHNmLXdzb0U4amZYT2ZLREZxVlBnR3FWV1BNc2FMUnFZblgzNFJSb2V5Y1dkQdIB3wFBVV95cUxPSkwtZ0lDNVlMTld2RlgxSldjR0pYdHF4ZEJUWXRsQ2Q3TmdaZUFJakNCM2JnM0NWNDZCSHFnSmZya251c2xaUjlkSVVDY0hrWUlMalAxOVREeVRCNkZmaVktM3RhSU1iY3JQa05fRVlfR256TGhHSjNYUTExUlQ3WDBFRU1KQUZSTzdnNl9IT2YxM1VzYXpUWS01WHpfR243V3NGenNUdExYdUNmMF9tdDNPUXNmTnNPcGhPeWs1NWl6ZkFfZXJCSFBuTVlJeW02bnd1d0dNX3FiNDdicVhR?oc=5",
+   "date": "Sun, 22 Nov 2026 04:18:06 GMT",
+   "vu_le": "2026-11-22T07:50:36.085985+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Broader markets underperform; Kaynes Tech, Inox Wind, CreditAccess, KEC International down 10-15% - Moneycontrol.com",
+   "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxON3BuVnFVZDA0WGwwX2lCTDlmQWFXdzVyU1dBbkQ4b1FlbjlUam1kaGw1dzNieE5QQlZ0a1pnNFpHR09uYTRsMV9XbVFTQzhxODVNWWdkZ1ZrdUFWUU1PWlVzdFN5MEQzTkFMUnJUVmZhS09sYVA0Mk55MVZ1c0VlLTJPb19Rdy1KYmFwWHg0akM1b1RXMnFOTXc1WGloa21HMHRjTFZnSjQ3T0VlMWw1eGRfU1VJVmgwLWo3YTFFcTBEeHZVZlA4bjVvRkdlcTNvcEI4aG8tQTdEUXNibXdqM1BxNVFIdXdOTTJzYnVNc212Z9IB8gFBVV95cUxON3BuVnFVZDA0WGwwX2lCTDlmQWFXdzVyU1dBbkQ4b1FlbjlUam1kaGw1dzNieE5QQlZ0a1pnNFpHR09uYTRsMV9XbVFTQzhxODVNWWdkZ1ZrdUFWUU1PWlVzdFN5MEQzTkFMUnJUVmZhS09sYVA0Mk55MVZ1c0VlLTJPb19Rdy1KYmFwWHg0akM1b1RXMnFOTXc1WGloa21HMHRjTFZnSjQ3T0VlMWw1eGRfU1VJVmgwLWo3YTFFcTBEeHZVZlA4bjVvRkdlcTNvcEI4aG8tQTdEUXNibXdqM1BxNVFIdXdOTTJzYnVNc212Zw?oc=5",
+   "date": "Sun, 22 Nov 2026 05:03:54 GMT",
+   "vu_le": "2026-11-22T07:50:36.085985+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Airbnb looks beyond traditional holiday hubs to deepen presence in India - Business Standard",
+   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLTB5d0x6T2tvRDIzbWpodklJNUpMV0t3U2hfZE04bHQ3NUtLa3JWbV9qNXR2SGQ4YXNON0ZRUkMyX3ByY0hfeU5aLWZyVEJxYWFGWDByaVMtSG00RmwyUU9ZMkxaeEM4cXI0eHAwVTVkNFVra0MyWENUR09rNVhMU0FhQkQ4dkJBVGEwRTU1LVZ2MEdNRFNNdWlwQ0VrWFdsR25mZ3JJM3JkWGR0dEQ0WVgzaEFCSnpfano3OXFiRHZBdzdLRUJpLW5yRGFvOW81U243eVRHN3FRbEVGQ2fSAd4BQVVfeXFMUC0weXdMek9rb0QyM21qaHZJSTVKTFdLd1NoX2RNOGx0NzVLS2tyVm1fajV0dkhkOGFzTjdGUVJDMl9wcmNIX3lOWi1mclRCcWFhRlgwcmlTLUhtNEZsMlFPWTJMWnhDOHFyNHhwMFU1ZDRVa2tDMlhDVEdPazVYTFNBYUJEOHZCQVRhMEU1NS1WdjBHTURTTXVpcENFa1hXbEduZmdySTNyZFhkdHRENFlYM2hBQkp6X2p6NzlxYkR2QXc3S0VCaS1uckRhbzlvNVNuN3lURzdxUWxFRkNn?oc=5",
+   "date": "Sun, 22 Nov 2026 06:15:30 GMT",
+   "vu_le": "2026-11-22T07:50:36.085985+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "5 Midcap Stocks with Robust Revenue Growth in Q2FY27 - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80aEZVaHpFN1VhdDRtWktESlNpdUYwdkhJQ2xrZllRTUpSRzdENUhzZ1J2ZS1RaVdnNjM2Si1hQUJ6OW90S0dZRGZ3UjE1d0dHS2N5cnR2STZva05JSXpDbGRwRmN3WFBqcVNfUFVDR2c?oc=5",
+   "date": "Sat, 21 Nov 2026 11:07:34 GMT",
+   "vu_le": "2026-11-22T07:50:36.085985+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "India Minicorn Tracker: Mapping The Next Wave Of High-Growth Startups - Inc42",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOVlVQ0F1MTdvdllDQkt0ODZvc0NpYllsTzdZZFBUbWtESExWNGRRWjU4Vk5yOXRpV1lxNEpGTmZZdHVkTWtVcFNsQmt1ZlRtczBVNFh1N083OWFvOVZnS04wN0tfSG82QklDSGtYSG95Nm9UanJuVGgxM3ZhLW5zVkZza0ZXRG1EWGNIbDV4ZXcxSjNfWnRPaVZ1ekU?oc=5",
+   "date": "Sat, 21 Nov 2026 19:03:19 GMT",
+   "vu_le": "2026-11-22T07:50:36.085985+00:00"
+  },
   {
    "sujet": "Résultats d'entreprises",
    "titre": "Nvidia Reports After the Bell Today — Five Things That Will Move NVDA After the Close - TradingKey",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXRuR2stTl80R2lnZW9RUnJabW8xRmVFdjJId0ZzUE1rczNvUXRveFNLakhSM2lMRkpMUVNQQ2xVaE1HRDRGdkxNMUQ2MUNtUEtqaXF2cUptYnp1QkNwTmJtS3dLQllFaUxnSS1EM24yQzAtWWhUdlhydkc1UnA4ODNxWFo0Zk1iYzJSa0pneWx5dw?oc=5",
    "date": "Sat, 21 Nov 2026 06:53:10 GMT",
    "vu_le": "2026-11-21T18:00:36.242505+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia (NVDA) shares fell sharply as SEC investigates potential accounting issues - Beinsure",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNejVjekR5NUpDRmUzNmNTYUY5clRuR19VMS1VcmFXbld5LWJXMDZHX1otN204QXJoYjFYVEh2MjJjSEp3VHJaUHIyQzBVaHlYc1VQemdCb2FXRjFIRGJWdnVoVzBMeWhMZW1UMFJjalAtS2tESFJsYS10TXBMS0RpbEIxOWVYd2M4T0JUUUloVV9CV0tHQVloTGxYZw?oc=5",
-   "date": "Sat, 21 Nov 2026 10:33:20 GMT",
-   "vu_le": "2026-11-21T18:00:36.242505+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazQwdWlpUGFEeW94QjNwc09ZYzFHblczcTFvUEI3SzdwMTE4cWw4T0RlcFhJcE50cWhhcWVaWnVxekgzVWJDWjNpWTJoZnEwcDBmVHA4NUZyVi1rNUU0dkRFZkpOMkZrYlBseEN4WWFFenlSbFJZVXp3REFlaUZ1UjNGTjdELVhDalhvd1lFNGJMUHktUlpDOWtCajF3TmZKYy1XOURObVAySU9yRS1Oclc2QTZaR2J5WGhpcXpoRWowaFJEUnpwUEFXYXNtYWs?oc=5",
-   "date": "Sat, 21 Nov 2026 17:51:06 GMT",
-   "vu_le": "2026-11-21T18:00:36.242505+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "After Blockbuster Anthropic IPO, Dario Amodei Heads To Puglia - Forbes",
-   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDhCN093ZTBxUmJKdExUcWo3TldsOGN6T0tKa0s2UmVNN2pUNTNrTzEtSkhHUW1aRGwxMjYyUGRDYVdRcmV3VVlWV3Z5dnZaWkhqNFZIWVlDa3kwZW1LOF9nVElPQW9wY3pnVDNnMlJ3Mks2dEQ3ang1dzZlUDNLSVBOdzJsREtiSnJQTGVHdkd0MExRMktscnFpN3lkd0pLZFg2RlhuaF9zZG56SUtwMGRYZVVoTmhs?oc=5",
-   "date": "Sat, 21 Nov 2026 17:41:21 GMT",
-   "vu_le": "2026-11-21T17:50:35.833266+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Budget européen : Paris et Berlin fustigent un nouveau projet revu à la baisse - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPVHd0eDJEWlJSZUExUmg4dnVMMjN2eUZYVFc3VDVudmNYWXhOeDM4VmFNZ2FJZ05ucmc3SVBSYmdNRVFJekdhTm5PdE1GUGw1ZEFZdnJrSEF3NmVibXduMzh1eWRaSG1oVm1heTB4RGJ6TnlIS19vVklXWkkwRDFpa0tHWHE1ZWgwRnhRdEpVVzVIMzF5X09IZ2hUR2ZhdjdTeUJka2FzVXpxbzkyeExUT1VObDZTb1JXREtXajZRT2lfelBsRWIwaG1XU3QtUnIwTTBJSTVQSHdGblB4bHlvVU9aOS1rVjhxem15WVVScW1ibWMxakNfYjdiTWx0MFA4NDZ2X0lVY3RsRTJqYUhadEQyNlQyeEk3?oc=5",
-   "date": "Sat, 21 Nov 2026 13:48:00 GMT",
-   "vu_le": "2026-11-21T17:50:35.833266+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Bourse : après l'effondrement, le pire est ailleurs - Le Revenu",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZVZrR09oa2RqMW1LbG95b195RndndFB0cURQM0NTaU5wM1hoTktyeXpldTVtOWktUjNLb2kxM3FWRnFWbXVqdngzWENDWHhxY1IwbjN2akVFbHNaU09qa05kLW5ZZVBvQWZ6eURjUk9Xd2NCYmhIcXQ4UlRiQkt3TTBYV21YWmdSbmhNRGxGWmF4S1g0N2NOWDR3?oc=5",
-   "date": "Sat, 21 Nov 2026 05:39:00 GMT",
-   "vu_le": "2026-11-21T17:50:35.833266+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Macron dénonce un \"agenda agressif\" de la Russie sur le \"territoire européen\", un \"pari irresponsable\" - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQT3dVQmVvN2JvaGZsbTJJOTZfXy1GSzA1enk1WEZOdFdyRHZwVVV0ZkVQM3FvSkxxYWZlUmhrMFBsMmV6VnZ0UWZBaTVkRDhEbHRHc1VyaU1PdTE5ODNONFFQRWVzUzlmVmlwbWxheWVvSjZnaHZ3WFMtd0pCMjZpM1ZCYkFqbXZrR19HbHZCdFhVbjBKNE1CMm92TGZMbDF5bVZGLU1rRWZCcTY4aUlxajNzemxCcWNCOWk4YllUMGp0UEpyZHZFTkswRnBTeER2OHoyTHdUeGpJTzdUVTkzNC01VUxyczl0dmZLRExxWmNyUDVORHAwbmNjbzE4bEw3TE9PMU10WXlLbjNqV3RPT1JvWXFWOXNnNXJiQW9JZDNzOFpUdXpGNGNn?oc=5",
-   "date": "Fri, 20 Nov 2026 20:30:00 GMT",
-   "vu_le": "2026-11-21T17:50:35.833266+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Ubisoft -23 %, Worldline -15,5 %, Vallourec -14,6 %… : la semaine noire qui a coûté 5,2 % au CAC 40 - Le Tribunal du Net",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWRvOVhvY1cwTGFqUDVyejExT09rRzNHazBfRE1TbWIxUzBaTnBGZTV5TzJPelRIQVJOZWhXNDkwNTQ2MHZ6TFRoNEJmdno0clZNYUlNSkpZZ3Bsc3RYSG9odVk1NFhMLU9SQ2tTdm1lZzZ2VWs0OGstU1o3T0dEQXotSkx4ZElpYWYwX21UUlhxdHJCZXM4QzlXd2FSQ1E?oc=5",
-   "date": "Sat, 21 Nov 2026 09:40:00 GMT",
-   "vu_le": "2026-11-21T17:50:35.833266+00:00"
   }
  ],
  "erreurs": []
