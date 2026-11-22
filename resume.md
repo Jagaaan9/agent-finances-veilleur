@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55420.73 EUR, jour 0.97 %, mois -23.52 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55332.54 EUR, jour 0.81 %, mois -23.64 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - G-Resources Group Limited (HKEX:1051, secteur Finance) jour -2.05 %, mois -7.97 %, prix 5.485 HKD, capi 2472715327, PER 9.4, volume x16.68 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
+- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 5047665185, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 665841152, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3641703802, PER None, volume x1.08 la normale
@@ -317,6 +317,23 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Blame game emerges after Anthropic's IPO market value plunge - WSJ - Seeking Alpha
+- [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - San Antonio Express-News
+- [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - Marietta Daily Journal
+- [Anthropic (FR)] Anthropic entre en Bourse à 83 dollars l'action - Brief IA
+- [Anthropic (FR)] Anthropic devrait générer 602 milliards de dollars de revenus par an pour rentabiliser ses engagements de calcul - Pasquale Pillitteri
+- [Intelligence artificielle] GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day - Yahoo Finance
+- [Intelligence artificielle] OpenAI’s Greg Brockman: AI Delivered “Roughly an Additional Year of Progress” on AMD’s Chip in Under 5 Months - Yahoo Finance
+- [Résultats d'entreprises] Spotify Stock After Q3: 306M Subscribers, Buy or Wait? - shattered.io
+- [Petites valeurs en croissance] We Think Cerro de Pasco Resources (CVE:CDPR) Can Afford To Drive Business Growth - Simply Wall St
+- [Petites valeurs en croissance] Eightco Holdings' US$49m Market Cap Fall Books Insider Losses - Simply Wall St
+- [Pays émergents] "Focuses too much on negativity": Union Minister Giriraj Singh hits out at opposition, hails PM Modi's 2047 Atmanirbhar Bharat push - www.indiagazette.com
+- [Pays émergents] RVNL emerges as lowest bidder for Rs 348 crore wagon workshop expansion - https://www.indiagazette.com/
+- [Pays émergents] Dignity, hopes snatched away will be restored: Azam Khan attends Mulayam Singh Yadav's birth anniversary programme in Rampur - www.indiagazette.com
+- [Pays émergents] Tillu gang member Pawan 'Makkhi' held for abducting, threatening property dealer at gunpoint: Delhi Police - www.indiagazette.com
+- [Pays émergents] Uttarakhand: Rajnath Singh gives 9-point mantra to BJP workers ahead of assembly polls - www.indiagazette.com
+- [Crypto] XRP price at Nov 22, 2026 at 9am EST Crypto Prediction Market - Robinhood
+- [Crypto] ETH price on Nov 22, 2026 at 9am EST Crypto Prediction Market - Robinhood
 - [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - CTPost
 - [Anthropic] Anthropic IPO Fortunes Collide With State Wealth Tax Debates - News and Statistics - IndexBox
 - [Anthropic] This Early Investor Sees 27-Fold Return In Anthropic IPO - Forbes Middle East
@@ -438,21 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] The Great Cash Grab Is Crashing Gold, Silver And Bitcoin, Goldman Sachs Warns The Stock Selloff Isn't Over - Yahoo Finance
 - [Marchés mondiaux] Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years - CryptoRank
 - [Banques centrales et taux] Quel avenir pour la BCE ? - Economie Matin
-- [Chine et Asie] Xinhua Headlines: China's tech innovation engine powers a connected Asia-Pacific - Big News Network.com
-- [Intelligence artificielle] Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail
-- [Intelligence artificielle] Broadcom Stock Is 27% Below Its June Record. Here's Where I Think It Will Be in 2030. - The Globe and Mail
-- [Résultats d'entreprises] NVIDIA Q1 FY2027: Revenue $81.6B Beat, Data Center +92%, but August 26 Guidance Test Will Prove Sustainability - TradingKey
-- [Résultats d'entreprises] AMD Hits All-Time Highs as the x86 CPU Renaissance Takes Hold - Is AMD Stock a Buy at $345? - TradingKey
-- [Crypto] Crypto Market Remains Under Pressure Though Bitcoin, Ethereum Rebound - Moomoo
-- [Crypto] Bitcoin briefly drops to $17K on Kraken, exchange upholds trades - TradingView
-- [Crypto] Record $950 Billion of Bitcoin Capital Sits Below Cost Basis as Price Slumps Near $58,000 - BigGo Finance
-- [Marchés mondiaux] Is the AI bubble finally bursting, or is Wall Street just catching its breath? - CTech
-- [Intelligence artificielle] Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off? - The Globe and Mail
-- [Crypto] XRP Ledger Users Fall 60% From 250K to 92K as XRP Rebounds - Bitcoin Foundation
-- [Crypto] Is This Cryptocurrency a Potential Millionaire Maker? - Yahoo Finance
-- [Crypto] Schiff Pitches Solana as a Bitcoin Stand-In. The Data Shows a Costly Trade-Off - finance.biggo.com
-- [Intelligence artificielle] Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Motley Fool
-- [Intelligence artificielle] Alice Huang just a front? Chinese businessman ran Nvidia chip smuggling network - India Today
-- [Pays émergents] F&O Talk: 25,500 remains crucial support for Nifty, says Sudeep Shah; gives RIL, HDFC Bank strategy - The Economic Times
-- [Défense, énergie, matières premières] Vincorion SE (V1NCD.XC) Stock Price, News, Quote & History - Yahoo! Finance Canada
-- [Banques centrales et taux] Une série de données économiques pourraient exercer une pression sur le prix d
+- [Chine et Asie] Xinhua Headlines: China's tech innovation engine powers a connected Asia-Pacific - Big

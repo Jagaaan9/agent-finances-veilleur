@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T13:20:39.422896+00:00",
+ "mis_a_jour": "2026-11-22T13:30:35.845485+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55420.73,
+   "prix": 55332.54,
    "devise": "EUR",
-   "jour_pct": 0.97,
-   "mois_pct": -23.52,
-   "volume": 93.43425926,
+   "jour_pct": 0.81,
+   "mois_pct": -23.64,
+   "volume": 94.07280348,
    "volume_relatif": 0.39,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3753,6 +3753,125 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Blame game emerges after Anthropic's IPO market value plunge - WSJ - Seeking Alpha",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTFUwRDVmUGNrN3o5eFlUMDB0SDZBZkVscjNLVkd2ZFpYQTZ6ZW9KMUlPZGEtbFNIcHhKd25SZC1RUm50TEROanUyYmk4YmVNbGZfc0lsTEhNSU1iYTFzZFF6ZVNiSGFWbGphZzh5cFk1Y3FHWjFOd3QzR0VJX3EyYVo0Ujk0MGZTaDlLZXQtS3pkbWxKOFdtTlRZdlBIQjhGMi1QZk1B?oc=5",
+   "date": "Sun, 22 Nov 2026 12:34:33 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - San Antonio Express-News",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOODVDcWxpdWowS0xHTEhhYVpESHQ4RFJjeTlLTEN1bVJ6LXg0emhydzE3aExoYWFPQXlhZHhCWFhpdHhOYXRHRE1fd21SQjJTaUdLeVl5UGllcFNRVjRDR0pHWHBCZXo3a29BckhNUHcyalZBMzFQSzVIMzZrMnVJWEgtS3pkWkJoLWVRVkZxVjJkMzEyNDE5b1U4LXowSnFu?oc=5",
+   "date": "Sun, 22 Nov 2026 13:27:28 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - Marietta Daily Journal",
+   "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQb3hnSG1DN1lPNTVZZF9hSEU5T2xUWGoxZXBsMTN5Tzl2bXNOVGI2Mm95Wlh3Z2IzalVnUzBURzhlUG1ib3dOd0RTb25wLVJjZXRsQVFSZjZEUnRhV1ZDaHhTdmpGTDRnNTFUYkF2QURyMGtDNE5BYVlfcnVSX0hwcEhZdDhtNF9TdE0wb2RRdDNERjY5RzFTcTFKRFZuSkxVMWlqaHhIeE04eHJlb1ZkOHJkX19GeXExZGtEbjRLRnl4cFZfR3A1bE04ZFFfc3BzY3hnYzd4UDdnWUI3VFRzYTg5Z2g4N3Ywb1dlSFU5d3FvQlV2MEkzZXV5anNuOXJjWkthTU5vRnZ5czFSdXEzY3BTNmVIRy1n?oc=5",
+   "date": "Sun, 22 Nov 2026 13:00:06 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic entre en Bourse à 83 dollars l'action - Brief IA",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZl9uT2pmdE1wMXVYTl9FdWhGczByOFMtUTY2S25sVk5qVjRqeGpmSU5xVGM2dDh5YXZncFJ3c1UxcTZxZHhWMWFyRWt0LW5iVTBVOUt4VTZBV1BZU1JrUlhQbDZKZXVXRzctTXo3cDlWOHhxdmhfTVZLaUZCVmplclZGVlA?oc=5",
+   "date": "Sun, 22 Nov 2026 13:04:52 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic devrait générer 602 milliards de dollars de revenus par an pour rentabiliser ses engagements de calcul - Pasquale Pillitteri",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTHI2NFlhaWhPYkVrcnJzeEZoaWlvTWN2OHdxVVVJa0VTSGJGcWZpd0FZdHhKRFVKYjNpVHR4c1J6aTcyOXc2VHpFY2w4dzFUMnhjMi1sN3VweU54RzhfcmJ6NnVqQ3FuZURnNU4wWHI1c0JocUxiak53X0pWRUV4WnZublgxckp5Z01YRHpKRTVWTzFkUVVsc3BwVDFGb2ZSVFYw?oc=5",
+   "date": "Sun, 22 Nov 2026 13:24:27 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "GPU prices are rising for Nvidia's older chips even as the stock keeps going down: Chart of the Day - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbmNXRjNhZUdxb2NzZG03T1VJOFdieU1vTWwwNllJRGV3N0h5ei1ZRldwTk5TNmFFSzNFblhCdnVhcFowOXlNZm54a29aeTJEOFJhUU03Z0ZTUU5Hc0doOF8xOE0tcDhlQjBIQ0o5R3p6dFo3eEdwQVFJQUU3bktTSUFDUzl6R2N6a096SGdOejhGdmhFQkRFZS1YMnpNUHpiSDdYU3VNdWloR3g0WFNtM2h0RmxjMUFwU0JUX0ZLa01IdEJZelBUMWdmbEpYVWJLR3ZzdWYwcExNWjJWVjZqNjdNeG9iTjBMcUE?oc=5",
+   "date": "Sun, 22 Nov 2026 12:37:21 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "OpenAI’s Greg Brockman: AI Delivered “Roughly an Additional Year of Progress” on AMD’s Chip in Under 5 Months - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFdqUkR2UTB0cWRINUpOdS0tQ2gyUzZlZ0tOSW9QQVBwNGhzeWFfZ2RPSFBpRGtYRS1vT3FfQ20yZ2RFWjdYSUNqLS1qd2ZOZUxiTzJKaElTVFUxallyQTlrNlpLTndVbXFsa3FicDRoRnU0eDdmSXVEZFE0bWVYdElZcjh3UUROUG82RHowdHcyaHRZS3AzS3NjQVZ0QQ?oc=5",
+   "date": "Sun, 22 Nov 2026 12:35:32 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Spotify Stock After Q3: 306M Subscribers, Buy or Wait? - shattered.io",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUC1kZ3hvbU1JeG1Ha1Y2dW1jYmVXTk02U2syYjdUdzZocnhKbjNrOVdvZEx5dlh1TzZHQTY3TjhSVHVtcWIzcTZQa2UtWTFaZF9rZl9wVW1uUWU2dXNTeU5KZ0JKVVN5Vk13RVNySFc4RXZJMElYVWMzRGczbmU3Q0RtbG1HdHpaRm9zcVVMeXFMZWJVVFI5cEgySmpkcTQ?oc=5",
+   "date": "Sun, 22 Nov 2026 12:44:45 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "We Think Cerro de Pasco Resources (CVE:CDPR) Can Afford To Drive Business Growth - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWDFQUmlhR0JhRmoxVTI1NnhRRGV5VTY5VlNnZEExeTIzbDFEb0Vaa0Q2TzNvTXBNS09YT2ZWQ0Q3V0JiSWgyVXZEaWIwcTI0Uy1Xdm9nNElwZ1BrTVM0cFhfSmh3MFlvWnJhcmwzSmFYcHE4V3hfNDZxa3lhWG9RUEZIalV4ZDFqX1hnMk1tVUhSLTBXQW1JQjVqeGVLM2ZZXzN5TlQ3dkUtWmRtbE12Z0FVNXhMZk1GdHhrb2doemdGTDc3V0d0YmVBMjhSaHJrek5wa0kwMGNUNTBibmJEV0FYa9IB6AFBVV95cUxPekUybDlwOGM5TWZiVjBPTFhONmgwVUVwXzJWTlZfYkd2YV9FNFhuZUZneXA4Y01PblNNbzhfUVQ1eFB1ZmtJWklKX2dPWUUyLUZHNUJ4S0tyV3pRem1RcS0wWDQxZWNaTFdYTF9sTkNNLUhZMUNleUtKZEVNLWhXeklXWG04dGRNSGNXNkpyM3E2U3VTdGpuQTlkYlBuaDFvZF81cXp4RnhKWTlXeTRGU0JrV2ZkTy1MMFF3UDRIOVVIUlVPZDZmeWh4ZHo0SHBUcG16OGlJQTlJNjNoVWY3UEJMYTZBeGpv?oc=5",
+   "date": "Sun, 22 Nov 2026 13:08:53 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Eightco Holdings' US$49m Market Cap Fall Books Insider Losses - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMmg1bzVRZ1NPSk9VVThaWlRoeExzMUpSa2FBNHVHdmU1VVBMZXJjVFJ2aVRsWTRURU04QmtpbFB3d1JyekJjVnp2S0FWWXJnMmtPWmtHYlhLTUpSekJlR3RodHZ6Z2VYMmZ3X2QxckJ4QzV5N0FEU1VFTUU0MExuMW5ZWHBmV0ZNQUVCd29IVEtMWXZ2N2tsaG8wcWl0MkRBeTZtRlA1TzNlcUp5Qm5lb05wY0dLMWQxT2hKRVNuSllUVE1JYXZ0UWFRcF_SAdIBQVVfeXFMTkl6SG5xZm55aTZyUjA2ZjNnY2JyZ3AwSkJIWnhuUW80MzlFTmlFb0NTLUlGVWM1LUdqcUhFMHhyaG5GakdBMGhPNDkxeEdaMnJfWHRBb2Y0cFpXZFhSYV93UGtYd3hJbFdNMzZSVUIwaGFDd0d2WlRVSjcxdnQzU3JJSmQ0bUFNZ1R5dlBlWXZHelo2MDFacHpuQWJIcXJ4cnJIM3R2MTlqN3dHYjFrVG5DUkRINHVQdmVEdXdZYV8xX050dXhNMjBTdDNISFEzaHp3?oc=5",
+   "date": "Sun, 22 Nov 2026 13:18:22 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "\"Focuses too much on negativity\": Union Minister Giriraj Singh hits out at opposition, hails PM Modi's 2047 Atmanirbhar Bharat push - www.indiagazette.com",
+   "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUFlpM3dLNWxXLUV4MmVXY3U4b2s4V3h2OWxRTDhpRnpkcHdlTTB4bFE3ZzdsWVZqMG00Q2FvMVplREY0X2EzQV9Mb3o5dEk1aDhRWlBZcXFreVR2NDRSVENoRGZFZEJTX3RiOVk5TU0tVGlJMGtEQTJkcFZ4QTdIUy1wR045NGlOR3lHbGxUV0dTOHlYNUxCNzJBdkROd0dELXRLakNGM0FYNzRja1ZnYjNSY3BoTHROaEhCOG53clh4dE1MQ01KX1AzRXpnMUtZa1V6QTR4aERNaDFQOXVqV01wY3dlMzZUSGFZMTVNZ2hqek50Z2xEOUwteEJJQQ?oc=5",
+   "date": "Sun, 22 Nov 2026 08:38:00 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "RVNL emerges as lowest bidder for Rs 348 crore wagon workshop expansion - https://www.indiagazette.com/",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSnhMLUozdlpwakRMX1g2Q01qOFFhd3JhZVhSRG5DOXJPVHdWWXEwM1pGcDhFelpkbjdndlktNGg0OXQzUDM5bW8za21TM0pNMVhteFBJQm9xM1FGWlk2VWRkS1hJdHJ4Z3k1WHJlZTdQTGlsOXhZbjhqbThYLXFZZ0c5MVRyNGVqTG9WMzEtODdSRzdDNktQeG1DU0NWR1AxNXVLTU5UaU1QN3VyWlJOM0dYRTloZw?oc=5",
+   "date": "Sun, 22 Nov 2026 08:39:00 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Dignity, hopes snatched away will be restored: Azam Khan attends Mulayam Singh Yadav's birth anniversary programme in Rampur - www.indiagazette.com",
+   "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNEVweWx0Y0k5TVN1bXJ0LVNWUGhHR2RjbHdMZmZaXzJ4aFVuamwzamZYUGhzZi1EbG4wYmNPTkVVcUpoYlNhN2Y2ZVZ3MnRvM0dGVGh6Rng1YkdCX3RpMFZvb3N6bUFaTjVPX3ViSlM0TjR5RGFOdElON3ptcGkyaFNGRWdLRnFidTNWVXJXRS1Uc3RMbFhpT1J6eTZVTFlIcVAzbG8xUW8zbTF5MzdIeS1STmFBdVRnbDQ3M2JxSlplVGFXNHhSVWtZMUhfbzU3cmVQa09KNVd3OHprT1FFQ2F5TmNQNEljUktfZUwyQWVvY0tZb05z?oc=5",
+   "date": "Sun, 22 Nov 2026 08:39:00 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Tillu gang member Pawan 'Makkhi' held for abducting, threatening property dealer at gunpoint: Delhi Police - www.indiagazette.com",
+   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZnRrV2dHOHdRQnlNSVZySjNJX0hGVkxJQkVjaUR1S0dFTk5WakptOXVTc3hjWW1jUjdHeFpLaVlSbHozZEhTaGdNZEVxUC00YTZFTUQ0aFZCSzEyMXJqejlIR3dlb29NZEtvQmRuaXFEUTlPOWVZRXdHa1FmTjNHVWV5LWM2TWZYRGRaOW0yVV81Q09CTVctakl5RTNwYjV3dHNqUnZzeE9RNVN5cF81aXVZQU1Rb01QelJQRlBxZTNTSHI0Mm8yUzlvLUVtS2d4VUJwd1BPZ3N3UVRGN21z?oc=5",
+   "date": "Sun, 22 Nov 2026 08:39:00 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Uttarakhand: Rajnath Singh gives 9-point mantra to BJP workers ahead of assembly polls - www.indiagazette.com",
+   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa3BINnlpckxIb1hIZnM2aHo1eHlNSml0LVVkTGhmRVk4bksxekZmekdKNF9wdHBWM0k4czdnZGg4bS1YUFNMZ1otUVVHd3hNRUpjMnVFX3FqMUY3eWZWdWlxbUpKaEtuS0k4eW1VUi1FdFRLNE5tT2dWMVQ0ZGJiNWlIYkFOY21LcmFFdVBWcFNIc0dkMGFTWEdKRFQ3cVJscDJwdFdsVUdhSmJmLXI1M2R0RGV0QmFsQjhneDNKN194WjZpckdyZA?oc=5",
+   "date": "Sun, 22 Nov 2026 08:39:00 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 22, 2026 at 9am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTRZMEx6d2tHeUlPTFVBZEM1WGxGZURPRWxNbnFFSmFNR0NKNnVxbDZoOVhEVzdGRlB0ZDRlWUdMZ3ZPUUNmck5FWm9oMVQ1aV9BZC1TQi1ZMl9mSFZKT2pBTTJHMC1COTEtcHExLW1DTVVZTy12T3hIblA5d3ptbld1SlFtLUFTbHdFa21YdjktdFRUUWpISEJGM0lyQ1RLX0pTZ25wLXVmMTZFRWc?oc=5",
+   "date": "Sun, 22 Nov 2026 13:12:48 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "ETH price on Nov 22, 2026 at 9am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM0NJSXk2QlZTdEZ0SlZLMGR5X3dyUG1VR2NxYTBIUmtjUFRIY2JORzdlN002QS1HcFZQTkJ4RGR3U1dhNDVaeWZIZ3pxanhpWDVFUnlaSWxUY3lzYUFjVDkxTWxoeVd2NHBsLU9MdmxfVFFXYi0tN2R5Qkc0ZjNoaTl2TVFSdDVGNWlJWGg3eHlhQUppNURhREh1QVZXLU1qR25PNTRXUzFweWFxT1E?oc=5",
+   "date": "Sun, 22 Nov 2026 13:12:49 GMT",
+   "vu_le": "2026-11-22T13:30:35.845485+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - CTPost",
@@ -6433,141 +6552,7 @@
    "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYWYzRXlXUjBpZjVIc2x0dHZjVzdxRWNGYWNaZjA4bzdXWEVobDVua0ktTFZ5czVZcVlrTFR2SllTdzl6NXo5aDdPR284b2lwSFZTa1pZdlNQNlFTMUVOWGlIc21veVlPTFBLOFpfUUZMaHpMRlVfRlRUZnBjVFpLUkJvaUNMSll4Y1Q1OC1NMUpPVTZ3T2RqNU1iYk4yRG8?oc=5",
    "date": "Sun, 22 Nov 2026 01:03:24 GMT",
    "vu_le": "2026-11-22T01:10:35.415402+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia slips to fourth as Anthropic and SpaceX crash the global top 10 - Crypto Briefing",
-   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LUkNwc1RzVXJ3OHQyX0gwY1NoOENfOXpxTVoxcEEtU2p5dWJvQ0lLNnpnVGxQTjFaZHZVYTVWaFpSYXRxTWRaLXpvVExvNnozaEdWNXB2d2NTT19pWlJRU3kxY3RPZW85dUROZDhUYWRybWc?oc=5",
-   "date": "Sat, 21 Nov 2026 22:28:12 GMT",
-   "vu_le": "2026-11-22T01:10:35.415402+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Que s'est-il passé avec le Bitcoin avant ces deux introductions en bourse historiques ? - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGktblZTOEpJT0FhWG5sY0dUSmwwOXFTbVdHLWJXa3VHVXlBVFBmclQyc0UzZTVWZHJHaHhyNEtDZ2JnczM5aDA0NkJINzJkQTIyVjQtaFpmbUNoZUJUOVdWc09XNHBxeGhVSGF1WWRSYXZOODVYNnZ4dG5VcEJvNjJmdXBDelhOeDRoYw?oc=5",
-   "date": "Sat, 21 Nov 2026 23:12:46 GMT",
-   "vu_le": "2026-11-22T01:00:36.614176+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "UBISOFT Cours Action UBI, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzYVl2bkJhY2piTnlTanhRbW1HdWRCdUlVWEx0QTlZbGdqM2M0dVVkZG5hZUVYdEhWRDRMUGJIdjk1cHdJTUdpd2VTNDBqRkNHV2c?oc=5",
-   "date": "Sun, 22 Nov 2026 00:55:04 GMT",
-   "vu_le": "2026-11-22T01:00:36.614176+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFM5M0lfajByTmNXWHhadkRCd19qQUJGU1FUM0ZUQnBXdVhDQU42NVF1X2RuUHJXUUt4QW41UWpnWS12aHNsX1JZU0RtSTBacFZTU0dncHpmOTRTLWJMbGRwY2pSeHFOTTI3dFFmcXJlRnQwcnRQSjlMSTh1a1pjdkRNQ1dCQlJlSGZPcXZQRk9MdUJBaWlUVFBzT2xCaUV2cUtQTXVCVVY0S0xDWFJEMQ?oc=5",
-   "date": "Sun, 22 Nov 2026 00:00:00 GMT",
-   "vu_le": "2026-11-22T01:00:36.614176+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "At 74, a Machinist Planned to Pay for His Nursing Home With $150,000 in Bitcoin. After the Crash It’s Worth About $90,000, and the Loss Will Get Him Onto Medicaid About 5½ Months Sooner - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZEV0SW5zQktJcmJfaUFmRW85b3RpTzItQVFCNC1CcG15RmtJZ2lyVFVUM1N6SGhkWkZ3UkdyRkp4bkZCbWtlUGt2R1BCYUVVTzJmNV9SY1c4blo0WDRJbVpwMEZMMWlkZHFoODVReGlIT3c1ZFFjeFVDczdwZ2VzX0F3TlNxMmZRZ1ZoTWx2blg2X19BSEFDVHJsb1A5Zw?oc=5",
-   "date": "Sat, 21 Nov 2026 22:27:31 GMT",
-   "vu_le": "2026-11-22T01:00:36.614176+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "NVIDIA Cours Action NVDA, Cotation Bourse NASDAQ - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FY3p6cDdaTUwxUFkxZjNJcjdVd1YtTnJocUg0eEJhYjBhTUNsemQtbWVaMFh3TVVKRFBuQ203c2ZyNzdDMVpoOXU2YXpTNjg?oc=5",
-   "date": "Sat, 21 Nov 2026 23:27:44 GMT",
-   "vu_le": "2026-11-22T00:50:35.136510+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb004S0RzRWI3allKLTFxNkt3N21ROG5SUF9pYmJSTkNuWnlOVGFIbGdXUThxXzF4ZnBwOV8ta04xLWR0c0IyVFJuMWNMZXRmNzBKeF9sN2pBRHM5Zk5VSFBXNmpBZUJSQm9sNlNoYjVpRzYwaEoxZE80Y3dOQ0ZkcHJTdi1kV3FiYjdNanplMkxrLVQ1RERUaUY4ZW9rcWJ5czhTOE9PRTJKSVptYlFXemxxd285bUM5a0hmQWM4V250ZEpmVDhjV1R6dXJCVmc?oc=5",
-   "date": "Sun, 22 Nov 2026 00:00:00 GMT",
-   "vu_le": "2026-11-22T00:50:35.136510+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock market correction? This chief investment officer sees the S&P 500 soaring 45% to 10,000 - Fortune",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWMydm9FbVFNbEVhQVl6RHhuZnVYbzZ3UGE5clZSWWtHd0VnOWZvamxqbGMzVllwaXlqb09Za3FDaFhFMWFGYTN4ZktCSXF4TnNWN0J5VnJ1VFEtUmtIbVBYVVJtWkdxbGRUZ0tmREJtRkhlaVJ0dHlHcU16eEYwdTNvMUpkTEpHVjlqdzNoYk5TMHVtUHFwcjRVc3hGNEJx?oc=5",
-   "date": "Sun, 22 Nov 2026 00:02:00 GMT",
-   "vu_le": "2026-11-22T00:40:36.684601+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Cours de l'or la semaine prochaine : les perspectives de reprise restent fragiles. - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3cTdEbHl6MDIwWW4yNENmOW9CQm9fVEtpRDBMeHVmS190VG9YenFnR1g2Q25lTW5BdE1sZEtPNGc5UEVHY0VwSEY4cnBySkNXZlh4QTVmcjBiSFJ6WmtFTk9hVWU0bVZQb2hkM0g4X0tvTzRJbGF3cVNLdm9jWTQ?oc=5",
-   "date": "Sat, 21 Nov 2026 09:37:08 GMT",
-   "vu_le": "2026-11-22T00:40:36.684601+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Red Cat Holdings, Inc. (RCAT) stock price, news, quote and history - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52eGFtMXlNWWZjcTN1ckQyTUNGT3JZNVdWTE1JdXFwVkpHMTd2T3FNZ19RZFRiZTI0Y1pEd1gzWHd2RFF3Z0JZamdSdzdpYnRtMFM5R0dpbHRvN2NONnl2bDBn?oc=5",
-   "date": "Sat, 21 Nov 2026 13:37:14 GMT",
-   "vu_le": "2026-11-22T00:40:36.684601+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Vanguard Real Estate Index Fund ETF Shares (VNQ) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RMy1RbHU3NWpjd3NMaGhLd3hFZTJWRHFyaVhDMFpwSlpUdm92UTZabHE4T2ZXTnhRWEdUU2Zjam96djlOdXJLbnVJVFN5ZXZX?oc=5",
-   "date": "Sat, 21 Nov 2026 07:15:16 GMT",
-   "vu_le": "2026-11-22T00:30:35.522095+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Electro Optic Systems Holdings Limited (EOS.AX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CMV9iYkJ0eHc5Z2lBd0Jub1lBa3RiaFJ4UkpFZVF3S25wdTRIRDJaUkZuTDlaSm1LUHNtSFpOZnJTRXRRUXdoTHRHVmwyVDd1bGFtZg?oc=5",
-   "date": "Sat, 21 Nov 2026 03:42:49 GMT",
-   "vu_le": "2026-11-22T00:30:35.522095+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "5 Defence Stocks With Strong FY27 Revenue Guidance and Order Books of Up to ₹2.54 Lakh Crore - Trade Brains",
-   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWmxYTEQ5RV9HM2laak8xeWdLYlJZT3hqay1UUVFVREVzeDFsWnA3b1dOVk9PWFk3aGIyeUlEd0VlR0w2YVBFX2I3M1VxTU1Rd1pJRXFGZVZ6TEVuVTVTampYNmcyMUk1cVd5dlZ1R09xaC1OLUpnTnFLY3lwZFpwd2t0VGU1dU5WNmlyeUotTTBfQW5GTEFnTXplUm8xS25MclRZQ21uRDVyNFQ4cnlQbmJLSlp3VHd3TVdUWEtYMlBZbGZVNm9zTTdPOHFucUFDQ1k4?oc=5",
-   "date": "Sat, 21 Nov 2026 16:30:37 GMT",
-   "vu_le": "2026-11-22T00:30:35.522095+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "CleanSpark’s Harry Sudock says power access is the real edge for Bitcoin miners - Crypto Briefing",
-   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56V0lPb2U2TzZKN29JQnFSaTVuZGFaNGREQW02T2FPVWpHWmo2WnNJOUFfRThIdmtuTHNwTWg1VjR4Nm04OXdrbUhzTUZLSHV6aU9oaDZuTEpLQlU0QXJPUDJkUTE0cE1lR2lxaGc4YWtSRW5qTlR1dFFHeko2UQ?oc=5",
-   "date": "Sun, 22 Nov 2026 00:05:03 GMT",
-   "vu_le": "2026-11-22T00:30:35.522095+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street tumbles as AI stocks plunge - 1News",
-   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR1VwVWFLWGlQM2VFWFdqWGJ2NURRT3FTcjVkQ1VxS3B1Wi1RckNBM3JYcmpQS05mRElPQkZlcTg4WlpFeW5iUjF2LW5vdTJzUmk1VHNRR0ctamE0M0oxRmpHdE45dHpUUEtBeUlQR3N4OWR6ZjN6SVNwRkJHNWxFZA?oc=5",
-   "date": "Sat, 21 Nov 2026 20:44:37 GMT",
-   "vu_le": "2026-11-22T00:20:35.841978+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "SentinelOne (S) Beat Its Own Guidance. What Does It Expect Next? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbEJwTU44OFRLMGpLY0hnWWNPX2ZBc3FUQ1YzV2tqMWxZb3QwMzhET3VpM2x2c1Nsd2hNS0RqbWNXRWcyWHdfeV9rRGdCUXg1NVlzcjBUVWFTay0td2J0dGdKVHhQM2JxdUFSZkJGYk5rRHBVcV9ETU5aUDBmcUZkZWpQdmF2ejFqLU4tOWMzQnowQS10UnZJbXEyWUhrXzhS?oc=5",
-   "date": "Sun, 22 Nov 2026 00:03:00 GMT",
-   "vu_le": "2026-11-22T00:20:35.841978+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Laprophan IPO draws strong demand of 15.3 billion Dirhams - The North Africa Post",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRjVrcG5mWFJDVWpSQ3dhdFo5MG5MUFMtalVrTlp0RFhHUHp6MzA3RHRFZktQYmdGb1RNSklSNGRiYk1xeVgwcXRLVnpCYlJydzR1eDlRR2x5OWpnMC1HYTdXUGtjNzVTejQ4MnFWLVFaY3BsUmIxWEEzM202eTJMOVFWNFpTcy1FQnNjaUstbUpJbDBpWmswbFJPMVJZQQ?oc=5",
-   "date": "Sat, 21 Nov 2026 13:00:25 GMT",
-   "vu_le": "2026-11-22T00:20:35.841978+00:00"
   }
  ],
- "erreurs": [
-  "actu Anthropic: HTTP Error 503: Service Unavailable",
-  "actu Anthropic (FR): HTTP Error 503: Service Unavailable",
-  "actu Marchés mondiaux: HTTP Error 503: Service Unavailable",
-  "actu Bourse de Paris et Europe: HTTP Error 503: Service Unavailable",
-  "actu Banques centrales et taux: HTTP Error 503: Service Unavailable",
-  "actu Chine et Asie: HTTP Error 429: Too Many Requests",
-  "actu Intelligence artificielle: HTTP Error 503: Service Unavailable",
-  "actu Introductions en bourse: HTTP Error 503: Service Unavailable",
-  "actu Rachats et fusions: HTTP Error 429: Too Many Requests",
-  "actu Résultats d'entreprises: HTTP Error 503: Service Unavailable",
-  "actu Petites valeurs en croissance: HTTP Error 503: Service Unavailable",
-  "actu Pays émergents: HTTP Error 503: Service Unavailable",
-  "actu Défense, énergie, matières premières: HTTP Error 503: Service Unavailable",
-  "actu Crypto: HTTP Error 503: Service Unavailable"
- ]
+ "erreurs": []
 }
