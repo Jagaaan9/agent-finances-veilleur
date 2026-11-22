@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54079.2 EUR, jour -1.47 %, mois -25.37 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53903.05 EUR, jour -1.79 %, mois -25.61 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,11 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Wall Street Suffers Sharp Weekly Sell-Off As Nasdaq Turns Negative For 2026 - BusinessToday Malaysia
+- [Bourse de Paris et Europe] FDJ UNITED Cours Action FDJU, Cotation Bourse Euronext Paris - Boursorama
+- [Résultats d'entreprises] U Stock Gains After Q2 Beat — CEO Says It Was 'Arguably The Best Quarter In Unity's History As A Public Company' - Stocktwits
+- [Pays émergents] Nasdaq posts worst week since Covid-19 pandemic over AI-linked fears - tennews.in
+- [Pays émergents] China’s used smartphone trade expands to South Asia and Africa - Africanews
 - [Bourse de Paris et Europe] RENAULT Cours Action RNO, Cotation Bourse Euronext Paris - Boursorama
 - [Chine et Asie] ETF Daily Report (Nov 17) | NVIDIA Earnings Window Approaches; Hong Kong Internet Stocks Lead Decline; Crude Oil Market Supply-Demand Outlook Shifts to Surplus - Moomoo
 - [Chine et Asie] Upcoming Key Events: PCE, Q3 GDP, Xiaomi, Meituan, Bilibili, and Dell Earnings - KuCoin
@@ -455,9 +460,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Chine et Asie] Nvidia affair puts Chinese spies in spotlight - Financial Times
 - [Chine et Asie] Wang Zhiyi advances to Hong Kong Badminton Open semifinals - chinadailyhk
 - [Intelligence artificielle] Sovereign AI factory in Germany wins startups with no lock-in - SiliconANGLE
-- [Pays émergents] Form 4 Capital Group Multi-Asset Income ETF For: 21 November By Investing.com - Investing.com India
-- [Pays émergents] National Stock Exchange of India Limited Announces Management Changes - marketscreener.com
-- [Pays émergents] Indonesia's OJK fines and sanctions firms for stock manipulation, disclosure failures - www.marketscreener.com
-- [Crypto] BTC price on Nov 21, 2026 at 8pm EST Crypto Prediction Market - Robinhood
-- [Bourse de Paris et Europe] ERAMET Cours Action ERA, Cotation Bourse Euronext Paris - Boursorama
-- [Résultats d'entreprises] Innotech's (TSE:9880) Performance Raises Some Questions - Simply Wall
+- [Pays émergents] Form 4 Capital Group Multi-Asset Income ETF 

@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T05:00:35.885298+00:00",
+ "mis_a_jour": "2026-11-22T05:10:36.902562+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54079.2,
+   "prix": 53903.05,
    "devise": "EUR",
-   "jour_pct": -1.47,
-   "mois_pct": -25.37,
-   "volume": 14.70347507,
+   "jour_pct": -1.79,
+   "mois_pct": -25.61,
+   "volume": 14.8998905,
    "volume_relatif": 0.06,
    "capitalisation": null,
    "per": null,
@@ -3754,6 +3754,41 @@
  },
  "actualites": [
   {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street Suffers Sharp Weekly Sell-Off As Nasdaq Turns Negative For 2026 - BusinessToday Malaysia",
+   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd09HNmN3c1d4amdxN2ZJOUNVZjMwT1k4Nkhtalg2c2M2UmxPTm81QjVmNFZhTDdtM1J4aVp6WmNWZmstcVE5M1BqRnVENVJYdW1jMGtXWFI2S2l4emNwblN5WGdpWGdVY3lHM1V6X2xjRWRXb2pWLWttazFzd3VhbkoyR3NzekxCRWdQd2pVSk16TEF0bVhLZkNYZHkyMy1JWlJSYy03T0JxUHNxVFpCUEp0MFJxVkxSSGNqQQ?oc=5",
+   "date": "Sun, 22 Nov 2026 02:00:00 GMT",
+   "vu_le": "2026-11-22T05:10:36.902562+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "FDJ UNITED Cours Action FDJU, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vcmRTeE9nVWlNRVMtRTlucjdHZnVSZF9jbGllNUE4NlllQVJhaW53VW8wZURSWjJ1VU00WFJPc1phdEphdEpuQksxaVZGTlZOeVZr?oc=5",
+   "date": "Sun, 22 Nov 2026 05:01:56 GMT",
+   "vu_le": "2026-11-22T05:10:36.902562+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "U Stock Gains After Q2 Beat — CEO Says It Was 'Arguably The Best Quarter In Unity's History As A Public Company' - Stocktwits",
+   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPODFwLUhXRy1Mcm52V25xUkR0T2l5aEJ5bUZidHYwbTVJVGpBbm5Bbmxoa1hveWY3azNxY3ZfQ3JYdGRjWlFEaHhaX3ZQQkJWT3pYQ2hvVnYxTHVqTGxOSjFQbjAzdWRuVUN3Sll0T1N4T3dDOVYxU3JFbVlyclBUam9aSEhacWdqS0xORkJIMWs0SWxhdlZoVVhmTXJUVFViOVNodUlaZGdXZlh1OFVHR1E4ZjRBWkVFVnRxOWdtUWw5emw2WmREd1VKV2ZJcktPS09WTl9TWThoLU52cnQ4?oc=5",
+   "date": "Sat, 21 Nov 2026 14:14:00 GMT",
+   "vu_le": "2026-11-22T05:10:36.902562+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Nasdaq posts worst week since Covid-19 pandemic over AI-linked fears - tennews.in",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLUVDVFRuTkdnUFR2U2VrTjZ4YUw4WmtwOUpVWVBmczNpSzMxNmNaaUx1YllMQ200YXpzbGFJemJqSl9YZ2NNbVRiUVVyRGRwMDJmUE1YWEI0X2xScF9IQUpwNDl0MFhBZ204TTFRQ0dVS0x6M1dxQzhQbjlaOW9DV0ZQN1AxbDFWejJNd3lKRzVTdw?oc=5",
+   "date": "Sat, 21 Nov 2026 05:43:33 GMT",
+   "vu_le": "2026-11-22T05:10:36.902562+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "China’s used smartphone trade expands to South Asia and Africa - Africanews",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWttaE9UX3FoNkdvbHZpaFRfMy1kN3V1X0RRWFFqc0ZuZk5qTm1fMk1yUnBMOXNOaTdsVHg0UC00TmYxU1k1TEoyTmxBb3A3M3Jmdm5XZjJFZnp5VWx0SHg0RUFLNThwd1MtdWU0cjRMd1oyVjJGWTJXLWxNSUlQU0VhMGlyQ2tGeXJZSzU4d3N2T2dBXzhjSkFYZmJPMl9OT2RQY1d6QdIBpwFBVV95cUxOVWttaE9UX3FoNkdvbHZpaFRfMy1kN3V1X0RRWFFqc0ZuZk5qTm1fMk1yUnBMOXNOaTdsVHg0UC00TmYxU1k1TEoyTmxBb3A3M3Jmdm5XZjJFZnp5VWx0SHg0RUFLNThwd1MtdWU0cjRMd1oyVjJGWTJXLWxNSUlQU0VhMGlyQ2tGeXJZSzU4d3N2T2dBXzhjSkFYZmJPMl9OT2RQY1d6QQ?oc=5",
+   "date": "Sat, 21 Nov 2026 08:55:10 GMT",
+   "vu_le": "2026-11-22T05:10:36.902562+00:00"
+  },
+  {
    "sujet": "Bourse de Paris et Europe",
    "titre": "RENAULT Cours Action RNO, Cotation Bourse Euronext Paris - Boursorama",
    "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQnhpaFNXNzBFZzZLUHNkdjRKUnJHaTZBQVFOeDhaQTBMd1pFWllJVUgzQkVlNTZXTlNPV2ludU94Z1ZzdVc2Z3oyTEVsNVdMelE?oc=5",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcWdBT2ZYNWtHbnpiTGcta2p1SUlTRlBPLXN1bl9JZmpzU2pSOVpiQzBaNkM5UDltam1SWHRSbFkxeDRqV0hyd3FxUE1PNFUtRnA5YkRDRTBPVFl2bHNWZlpNOEJWem1nOTR3MU5qTkZRaVRXX3lJbkRKb2xrNHdtUE9heHZfRjNyUV9IaVgxaVNZemxZMnJuOGxZRU5ZLWhDcm1RSDFKOWxlaGQ2UFZ5N1dQMXpVVkRKTXYtV2pic296eFg5Yko3aXFR?oc=5",
    "date": "Sat, 21 Nov 2026 04:41:28 GMT",
    "vu_le": "2026-11-21T16:10:36.306221+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Trump affirme que les taux d'intérêt sont trop élevés parce que la Fed est “politisée” - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNW4tNmp5Q2VObDFocTdsMjU0OFBhVE9sOFQ0MC1kSWVrbVdnNzlPNENmMU5PNDAzbk8yTEdlMm5OSWlqN1VfeUpUNDVmeVBSd3B2V1Z1TWVZNzVMdEVnSHhIX2pjdUQ0ZDR4RzJRMlE2WDRFWE9KbEp5UGN4RExfVDdjNEZCZU9qU0pSaXByenpqdw?oc=5",
-   "date": "Fri, 20 Nov 2026 17:37:19 GMT",
-   "vu_le": "2026-11-21T16:00:35.161733+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Wonder explores sale of delivery service Grubhub: report - The Business Times",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDFuT2pvb3NFSGx3ZW5DN3RDY1h1eHNYaHhaSXZidzNxbm9qc1FqZktmQ0pkaHFPYkdkOWxkN2c0ek9RSTVuTzFBdHNlSURNUXFnZUJhMDF0WHBTT3NYU0JHZXpIaGZMbmlvcFhkdGFQOG1qMlFZVU1NTV9Td204R196WkFlTW1pTms4VGhWNHpyVFo0SzVodDFtTlZJWDBG?oc=5",
-   "date": "Sat, 21 Nov 2026 02:28:00 GMT",
-   "vu_le": "2026-11-21T16:00:35.161733+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "As the EQT deal moves forward, Range Resources (RRC) updates its FAQ for employees on accrued vacation. - Stock Titan",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbUxabVFDTllPTkNVVzJnZjlBa0RPbFpsRllzZVFuTHpLd0tiV3AzTExEeC1lQXo4NDF3RF9LbldPRURRSlVfa09OY3VBeHNxUVRpU1k4ZEQ1d2VMYnUtZzdydUtGODYtLVFybk0yUUdlbkVaUVpsTXpJZkNITWNoOWR4eHVVV3pHMU5Rd29LR2lWX0RkYTFTQndZZkhoTmxnMXZtd21SMEQwWndJTFI3aU12TDZ6V0tBR1IwWA?oc=5",
-   "date": "Fri, 20 Nov 2026 21:00:46 GMT",
-   "vu_le": "2026-11-21T16:00:35.161733+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Loses $60K for First Time Since July as AI Stocks Crash - Bitbo",
-   "lien": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iTXp2WU5BQ2pyczJmdGxMNmh3UXU1NjFpM1NQN0hlZko1aDNxdGVqVHNZejFkelBnV1JQQlJFM1NqWEZMVEZHeUNlRUFhR2JLZ1pfd1Zhb3JOdUFt?oc=5",
-   "date": "Sat, 21 Nov 2026 15:40:00 GMT",
-   "vu_le": "2026-11-21T16:00:35.161733+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Dogecoin price on Nov 21, 2026 at 7am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVdBN25ORUg4Q1NnZWM3ZWJsWGZvTldRNEpSZVNQenZrODIwV1VjckNtRWpzd19tVno5V3ZwWEtZeTFUN2w5Y3pISUFRRmRRaDhScVBKYXE2Uk5Va3hsZEhpNl9lS2RObzNkeW1DNnAtemRDZzZaNTFBR2Q2Tmh2VEFzVjJWSkFkTEtsTVh6eVlqcGRtQkxOQTVXQlNDN3NRWTRjZVcwb0lsMGdhOUxnZUdhMzY?oc=5",
-   "date": "Sat, 21 Nov 2026 11:04:49 GMT",
-   "vu_le": "2026-11-21T16:00:35.161733+00:00"
   }
  ],
  "erreurs": []
