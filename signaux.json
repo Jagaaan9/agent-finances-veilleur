@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T09:10:36.203547+00:00",
+ "mis_a_jour": "2026-11-22T09:20:35.199837+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54434.01,
+   "prix": 54752.33,
    "devise": "EUR",
-   "jour_pct": -0.83,
-   "mois_pct": -24.88,
-   "volume": 38.38540745,
-   "volume_relatif": 0.16,
+   "jour_pct": -0.25,
+   "mois_pct": -24.44,
+   "volume": 41.01288289,
+   "volume_relatif": 0.17,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Une série de données économiques pourraient exercer une pression sur le prix de l'or la semaine prochaine - Laodong.vn",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkxjcTFvYWlodFJfT0JCUmFuUXg0ZFB5cmFBaVctZlpWejhHdmdGUDBIdDhkd01iRjIyRlhyUFVRZkp0S0FJeG5xazZtTUNmcXBVeXNzQU1hbDlUejBabGdEanhEalZyV0EtNFdHNHplVTdhNlFjUW5wS1pMZXIyUERxRW9jUGZQY2lMTkJTaW9fVS1ESmlqekZzcHoxMTlVdWttRjNXdms?oc=5",
+   "date": "Sun, 22 Nov 2026 09:06:20 GMT",
+   "vu_le": "2026-11-22T09:20:35.199837+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Merger Control Filings India: 2026 Deal Guide - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT1VvQ3JCSHVRWlJ3T21Md1ZiZGI4RU5GdnlVMUFxdm56UXVfWVJtN1ZaZklEc2xrUm10SjJaaWNtWGwyZ0ZXRC1PMlJKdlJLMXpjUG9kV2hJa2hlZkNwUUxCXzJNcGkzengxV25NTk8yamJFSmI1N0FaVVhJNVBiMjU4WGc1NFVaeHU0ZFBKdk1hZWtxeWc?oc=5",
+   "date": "Sun, 22 Nov 2026 08:12:34 GMT",
+   "vu_le": "2026-11-22T09:20:35.199837+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Aurora Cannabis Highlights Inaccuracies In Curaleaf’s Takeover Bid Announcement— CEO Claims Business Is Reaching Pivotal Inflection Point - Stocktwits",
+   "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQdzFKTEtuNlo3TDFhbW1vS1pWeEJYSGxLUVh6bS02d0t5NHlDQ0VCbEVMd0pmNEVRaW0xZllVOG5uTl9RZ1lRaHYxaHdmM1pZa3NLVW8xRWswdmNsd0VNYVAtcHc5cXNGeFJpOW1jV3RLRGxWQlJFSHdVeTFGN29KNHhXMGhGS2Z4WXBEVmRfSjk3RUZDU095ZlNRQ0ZyZTJQODRCTk5UTUNoWGVtb2F5VVI1NjZGbjY2d3Vnblp6dGdZSU9tdksxRThnUGRNZ2JIdGhUUTlnaUdlTmp6Sm5DaFFSSHpiZkNEQ00tTC1XTEwwbUVadGVYZ1M0MXNrX3MwVGpVUm1DMFU1ZXFobXotajROb2ZMY0FBdFk1S09ySlQ1OFJZU25z?oc=5",
+   "date": "Sat, 21 Nov 2026 13:52:03 GMT",
+   "vu_le": "2026-11-22T09:20:35.199837+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Imperial Blue sale pushes Pernod Ricard behind Diageo in India's alco-bev market - Moneycontrol.com",
+   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd0pZQThPRGhlYlljMWRaSXRDRFRPcDBFUW1UNjhsb1NxUGZtZGpHQlNHS0owa1RXcXFCT0hxMU1zV0xsRVY4TkczTnI0WXozdXlrbjVPSkJhTG4wR1dZbHN0ZmJoU2laQ1pXTmF6Sk5PbUZZaFNHM2hEaVBsQ3R5aXFTQXZ4TXd4b2JmM2dxcGZma3pDVV81UTFhYzZ5MGh6cGxpWXEwTUZXODlwVE81NlBqZDRuZWJfbU5DN2hRTW9saFNCUnc1M0FwS29iSVhrcTRVNlMtb3pKbGVmUG5Xd9IB5gFBVV95cUxONXVsRWtHV0FSVlFUZmNlSVFsZ3dya2JVOUsxOFZ3bnVTY3BTVFhmbFFjOGNXMFdNaUNpSUtTdHpUQ3N6MEstOGdqUENtTnlQS3NWWmNTelBnLUppeXFDN1dISVJHazR5OFc5Y3VlLUJnVnlFZjZOa0NhbmkwLWVmbGd4bEVhMjI0MkE5LS1lbE43RktLVGk2NHBtYjFRVUV0SUtUaWFjd3dLVWQ5SDZ5RWowckl1Vkp3UlhjeVJLSEo1eU8zQTE1STFMQUpzSFNZQ0ZUUTVhVTlWWFlLaEZ1NjA3ek5oZw?oc=5",
+   "date": "Sun, 22 Nov 2026 09:04:37 GMT",
+   "vu_le": "2026-11-22T09:20:35.199837+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Analysis: How Long Could Weakness Continue Across the Market? - FOREX.com",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWpjRHpLdEtDMjB3MkxmcmlUQUgybFBBYXVaR3F6NjRxeTlPZ1hCYVFTWHlNYVNtUkdlRlNfenNMU0tCbklfRktWc3lQdkdFN0tVYjZCYVJKZzFyb2RaVDZyZGdqTll6YlpmWEt5SjlRNTJWWmhiWjBhUHh2UFR1UTJlYUZsNWpOODRBMjF3eENhV3BVNjQtVGtJUUZIaEhaRmhoMUtzLXpWLXNCOEZV0gG7AUFVX3lxTE5tT04xb0JVbEZWRWEyX2NPOTB3dTAycHVucjJnX0ktaFpuaW51dkd4Q3prZXZ0T1BPdU4zRFVmcG1UVjJraHYxMWYwRjRacjk4blE1a3ZSVHpjS0JqRS1QNDYtOHFzY3Z0UDMyTWN5NzMya20zR2NEWHRTelBrUUdBRFVoRVRhd243cnl2QTc3QUN6WURROE1GRWIwOHBSYVlaczhCRFpnTXNwNHhKVTFMWW5jTFMyZ3BhQ2M?oc=5",
+   "date": "Sun, 22 Nov 2026 09:13:19 GMT",
+   "vu_le": "2026-11-22T09:20:35.199837+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Poland Crypto Tax: 19% Rate, DAC8 Data Swap in 2027 - shattered.io",
+   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUxDSThUUnRQLUV6OEpMSmZ3R2ZfM3pEZmE3OTFsTFVVVkd5UVlWQWlFeHNyVFc2ZzIyNWdvUU0yRC1jSVlhY0ZJdElIeDdPVUVHOWdFQ0M3eXRWamVid2FmQlNnTHRobi1iYmowTmdVcHRWMzFkU2hyY1hPenl5clI4ZDB3TTNhbGQzMw?oc=5",
+   "date": "Sun, 22 Nov 2026 09:17:05 GMT",
+   "vu_le": "2026-11-22T09:20:35.199837+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "AI Cyber Attacks Breach Systems in Under 3 Hours - Bitcoin Foundation",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc2RGN05OUGhQZVNGTENuYm5BaGVmbjBCSmlmYzRYZDFxUG5idlAzZWw4RDlMbnhlMXF4MDZVQUo4UzNsWGZiSTVIbVo0TS1BbTNIMnRLS0FCdEVLWXZNWEZWdVhfVUd6V19neHo0TnI4eWtoOUd2blpTS0J6UFVka0sxNEVydXIzMzZsR25zRXNmblczcDZyZHZCS3Q3ZWhNSktMM2lWNUo?oc=5",
+   "date": "Sun, 22 Nov 2026 09:07:35 GMT",
+   "vu_le": "2026-11-22T09:20:35.199837+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "ETH price on Nov 22, 2026 at 5am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUZJZktWcXRFQjRiUk5uOXRmVjRVbVpObVQ5ZmNUUHBXV1RFQmhCT0kzcVlYcGVVQTAwS3dGbm4wS2ZvaG1IdDY3T2tPSHdLZUVfT012ejc3dHJ1MlRlTkE5WW1GZHQtcE1BZ21aRlM2U2pxdzRjNkRTYmNZR1FPcjROc18xYVJEVWlXcGVTcXpsY0RoYkQzeXVjU1c3NmNyMFhKWFJHM3E4ZVVQdUE?oc=5",
+   "date": "Sun, 22 Nov 2026 09:05:45 GMT",
+   "vu_le": "2026-11-22T09:20:35.199837+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic IPO puts spotlight on stake FTX sold in bankruptcy - Northwest Arkansas Democrat-Gazette",
@@ -6496,62 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vVm9TUl92R1owRWJQRUFZSGdySEpnSmhueG1seTduN1c3eGVFa2ZNR0VIQVdldlkyUHRXQU5kNUItMmhQYklPbmRYOFIydU01RF93VlowQnlRZERPVTA5UWdlU0F6YlpwakhuTnIySmJmd1planVSeA?oc=5",
    "date": "Sat, 21 Nov 2026 19:40:03 GMT",
    "vu_le": "2026-11-21T20:10:35.786918+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "How to Go 2x Long Anthropic (ANT): Leverage Shares by Themes Explains ANUU, the 2x Leveraged Anthropic ETF Launching Monday - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZlZtUnI3ZlBCbXZCQng0emxmZVNIeVFRVjlCOG9iYUF1c1Z2OTZ2M3JrbmpsMnNsVFpEekFINTQ4bXByX1ZBZHRFU1NoSlVSSUtDdTAxRXhSSkk5N1E5NXJrRVJCTzJ1VjlBQzdOcmlEZU9hRi1qVlMwbUVOYjVKTzB3V2dSRG01Zm5nWVBOc0dia1o3WUJyc0FRdDl1WWZaMjAyelFOdkhfbVB3cERuQmpyeDYtTjdQekNIQVVCdDgtbks4UWtrX0lLaHMtMko0a1NfRGUybHlaNGVxVnpVN05IaC1aeUpTVWVMOXhldGhhSnFpWE5yWXM1ZGNNR1NycEtEdGxvQ25UQlFQ?oc=5",
-   "date": "Sat, 21 Nov 2026 19:00:00 GMT",
-   "vu_le": "2026-11-21T20:00:35.106001+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Worried About Black Monday? What Wall Street Says Could Happen. - Barron's",
-   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeTVJTGZmWm5BMG1wTFRwSlNabEtmYVYtaTdMZGE2YmJvQTBaYkpudUFvMl9oeG84WW9iVFVRd1ZkR1NVQUkwSHpseGMtSzJzVEh3Wk90VVVaajJCZ2RXREpzSFpUYkt4bWhoajcxbnY3ZFJkdHFlaU8xUjFveDhRMEdOc2xZTExpdjNRMzN3?oc=5",
-   "date": "Sat, 21 Nov 2026 16:38:00 GMT",
-   "vu_le": "2026-11-21T20:00:35.106001+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Boston Scientific Prices $7.25 Billion in Dollar and Euro Notes for Penumbra Deal - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYkJvczRXdlJGM3d3cnQ3c3hmR0lEaFNDUnhHTjF3S0ltU015RVhuVDBEYktLTkdvQWk1ZURoYUpwbGNXekFOXy1yYXl5c01ncVBvSm52STB3MlZTV21xNTBTUHJndWZBX0ZNdUoxbmd1dmVKMzlRbk03dWhsVHhfTmI3QjFodUZmM1FfQURCdlY3RnFLZkN5TzVBZkpVNXlyVzEtd3NLcUZLNmlMZlE2eDhsS200bmVSMlpael9IZzZaWTBINUQxZkowYkNoMDFMRmxHQTNZXzVHQQ?oc=5",
-   "date": "Fri, 20 Nov 2026 21:13:02 GMT",
-   "vu_le": "2026-11-21T20:00:35.106001+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "SoftBank's $1 Trillion SK Hynix Sounding Board Goes Nowhere as Morgan Stanley Slashes Target - ad-hoc-news.de",
-   "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdVFNUElYX010TWVOSnpjVVdXOVV0TVJxN3g0Ykd1VVBERmtNNDh2LW9HQnpfOTFzOUVZVlV6Y2d1MXM2aUlwdnhjX2JHZWlLa0NmWTB4cE5Fd0lqZ0NQQjRXSXo5dDZLRHdnaGVrMWdldXk0OVVRZVZHVEpCdzdHVlJCYUIyc2l5aWF1SHZNM2RyZG5JcVlwZkdpeEVrWGdqRkpLeVVQd1kxQVFuZnVrazhnZlZqX3RrTTQ1TjZhSGI2ZGdYWHk2UXZFYzVGRERZU2xQXzY4eVVhUk1uMmJzb1RoZ2xwbTVWb1pBNTdYNW9WMy13S0E?oc=5",
-   "date": "Sat, 21 Nov 2026 13:51:23 GMT",
-   "vu_le": "2026-11-21T20:00:35.106001+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin BTC (BTC-USD) Live Price, News, Chart and Price History - Yahoo Finance Australia",
-   "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vY3UycVZqZEJIblcwdHR4dFFWTkl0YTNSZUNDdXl5bk9zdjVockJaMVJUZlEzYmFDLWlTSUJyX0FHdmVnOFFodWhUZE9MMjRXYmlBVlJB?oc=5",
-   "date": "Sat, 21 Nov 2026 10:30:31 GMT",
-   "vu_le": "2026-11-21T20:00:35.106001+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Has Traded Below Its 200-Week Average Only 8.4% of the Time. History Says This Is When Patient Investors Get Paid. - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHVvWER4c2NtMVo3Snp6a1RrZ3hzZ0Q0RzQ0aHgycnY2UGZQc1pFb1RXbVZ0QWFVTVpFa2F5T1QzSDFKYlhlcHZ0Vm9wRF93OG9KcXpfM2dwZVZrZU9DMkMyV2MtVWZKQnU5cVRfZnc4MTdVV2c3cVc2V1pHMEZKQjF6NTFnS3hidXNqb25qbFMtQlFkR3FvdkFn?oc=5",
-   "date": "Sat, 21 Nov 2026 13:39:41 GMT",
-   "vu_le": "2026-11-21T20:00:35.106001+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Budget européen : une taxe sur les géants du numérique pour débloquer les discussions - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNE1LVXFvbFZ0a3hfTzJSRTg1ck1NMHVUQ21BVjZpYkJvLVpoMEc0QXBpeVRNbnhKUE9kakRaeU83UUZwc3FfSnFyX2lHdGxsZWg2M0RhYVh6Skx6dG9KT1l2TjZCYmtjb1UxZV9XMXN6Q0lrVzZfc0l4dGc5dWM4UTQ4d25EbE1Mb0ZOcV9IbFlaM2lBcjBkdjdjOVBmZVdZWm8zWllZVWNXQkZkeGYwZjJ2dzJTVFNkMkJkRjUyY0tfU1ZGbGpwSzN0dUw2VnB3WnRoUHBXektib2c2aXdMVncxellhdTNzYktiY3dIYlRxVEdKOFVjTlhqRDk4S3A5N2NjeVRxTjdJNHBBelNz?oc=5",
-   "date": "Sat, 21 Nov 2026 01:47:00 GMT",
-   "vu_le": "2026-11-21T19:50:35.438247+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "MSCI Is Cutting Strategy and Metaplanet From Its Indexes. Here's What It Means for Bitcoin Treasury Company Stocks. - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObHN3NzNSVkZkMkRhcE9qRkw1QXZkZmdDOElscEN6aUFoQXYtdk0zNlJqSDZQUGhHQkdtWEVqQTFEY2NzUEpreEVaZ1FaUGVKTjlBdjVvVmVBUW9BTFlybDNKcU51TmhGWTVRX296VmZDclVxb191eFRhNUdOaUpKWEMwWDhFaGJxcGNnSzA2ck9PeVRGUmRqSDE2WWlIbFNRc2FTVHVieDRQcWlYVnF4REYya1hNdGMwWFIxQkdCMkxtbC1wVnVRdmpiYlF2dUM1b1AtdzZ5NFVHYTBxSVBKRjJnOWlvTlVUVVFyYQ?oc=5",
-   "date": "Sat, 21 Nov 2026 19:17:02 GMT",
-   "vu_le": "2026-11-21T19:50:35.438247+00:00"
   }
  ],
  "erreurs": []
