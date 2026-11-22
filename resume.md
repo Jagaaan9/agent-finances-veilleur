@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55487.93 EUR, jour 1.09 %, mois -23.43 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55500.7 EUR, jour 1.12 %, mois -23.41 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,8 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Pays émergents] COP31 climate talks end without deal as EU, island nations reject draft over fossil fuels - Moneycontrol.com
+- [Crypto] Arthur Hayes warns Bitcoin could test $50K if the Nasdaq keeps sliding - Crypto Briefing
 - [Anthropic] Blame game emerges after Anthropic's IPO market value plunge - WSJ - TradingView
 - [Marchés mondiaux] Trump's Economic Policies Fuel Inflation Fears As Wall Street Faces Growing Risk of Major Sell-Off - تسنیم
 - [Banques centrales et taux] Taux immobilier 2026 : Barème, évolution et simulateur - MySweetImmo
@@ -454,6 +456,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Poland Crypto Tax: 19% Rate, DAC8 Data Swap in 2027 - shattered.io
 - [Crypto] AI Cyber Attacks Breach Systems in Under 3 Hours - Bitcoin Foundation
 - [Crypto] ETH price on Nov 22, 2026 at 5am EST Crypto Prediction Market - Robinhood
-- [Anthropic] Anthropic IPO puts spotlight on stake FTX sold in bankruptcy - Northwest Arkansas Democrat-Gazette
-- [Intelligence artificielle] Amazon to Acquire Israeli AI Startup Decart for $7.5 Billion - 조선일보
-- [Pays émergent

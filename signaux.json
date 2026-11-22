@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T12:50:35.612962+00:00",
+ "mis_a_jour": "2026-11-22T13:00:35.991655+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55487.93,
+   "prix": 55500.7,
    "devise": "EUR",
-   "jour_pct": 1.09,
-   "mois_pct": -23.43,
-   "volume": 89.86443001,
-   "volume_relatif": 0.37,
+   "jour_pct": 1.12,
+   "mois_pct": -23.41,
+   "volume": 91.49626481,
+   "volume_relatif": 0.38,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3754,6 +3754,20 @@
  },
  "actualites": [
   {
+   "sujet": "Pays émergents",
+   "titre": "COP31 climate talks end without deal as EU, island nations reject draft over fossil fuels - Moneycontrol.com",
+   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNanY2REFwVThKOFU0bjE0ajZlU241R2ZzSXRxTnV3Zy1pY2d4Nk5ydDduR1F2b3pYNnFhSmNuQTFkYlBNdHg1ZjBmZk0xaDFlYUZWSFc1SEg1Y29ZYU1FaUh5QnBVeEh4X2RMRDZKZEZha2JpOVhGSEwxVlZjUFBhNjJMTENka0ZYcTR5Wmw2OXJVU3ZjRV9lZmpQYm1Ua3c4ci0xaEdwQ2xVb1R4Vmp4THY4MDBmbW91NEZtbW5MSEw3QnJXZEphd2NGZmJuQkE2Nzducm5OSTllelQ3dTFVd1B4MNIB4wFBVV95cUxNanY2REFwVThKOFU0bjE0ajZlU241R2ZzSXRxTnV3Zy1pY2d4Nk5ydDduR1F2b3pYNnFhSmNuQTFkYlBNdHg1ZjBmZk0xaDFlYUZWSFc1SEg1Y29ZYU1FaUh5QnBVeEh4X2RMRDZKZEZha2JpOVhGSEwxVlZjUFBhNjJMTENka0ZYcTR5Wmw2OXJVU3ZjRV9lZmpQYm1Ua3c4ci0xaEdwQ2xVb1R4Vmp4THY4MDBmbW91NEZtbW5MSEw3QnJXZEphd2NGZmJuQkE2Nzducm5OSTllelQ3dTFVd1B4MA?oc=5",
+   "date": "Sun, 22 Nov 2026 12:52:19 GMT",
+   "vu_le": "2026-11-22T13:00:35.991655+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Arthur Hayes warns Bitcoin could test $50K if the Nasdaq keeps sliding - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JXzFJaUwyRUp4Mmd1aXQwcmxmY3pXWVl4RzJtVU9PWS1NS2VTZUIwbmpHNUI0bmlaaGU1d0RjT015ei04ZzY3TGJGd2dIS0c1TmFmY1lCOVJ0eGpnRnVUNHMwbjM3aUpMR2JFVi1VdlFRN19uSkE?oc=5",
+   "date": "Sun, 22 Nov 2026 12:35:47 GMT",
+   "vu_le": "2026-11-22T13:00:35.991655+00:00"
+  },
+  {
    "sujet": "Anthropic",
    "titre": "Blame game emerges after Anthropic's IPO market value plunge - WSJ - TradingView",
    "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkRpcDFfVGRoTER5NEhNYjlQMVhfVElVVFBRSnlFWk9aMllNVjdzam5md0lsOGYzbFMycFMybi0xaUpNemxoLXdpZE1acXZLTHh6c3c1eml5T2k0bUR3N2I2cmlTWFlud1dSNHM0ZFdEN1NJbm5XbnUzVlp3NzhULWRxQWkwa2p5SFJKQVEwdlVkXzZUbmoyLVRlU2lXOVE3aHd3dFQ3ZC1BbFRLSU9uRUN6UGRpM3pqdlpRaDVnZDMyRV9nbXc?oc=5",
@@ -6537,20 +6551,6 @@
    "titre": "Sovereign AI factory in Germany wins startups with no lock-in - SiliconANGLE",
    "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1FDOUxrN005cXhyWUlIdmxfZk91ZjRPQ3QzQ2hGQ3JKUktmTnRwVmFESVlVLWdDb1QtQ2JvdFJxTFlvWXJpSE9ZQXJOaFNvVGl1bU13Z05keWZIbnhqVWJuRXpLU3E0Wi1Oc3J1Qlo0RGo1MjFORXFfVDBIMVlmMVFUNkdiOUFqQjF2NDZWSmM5dlpJbFFIQkdocWlpX1d3?oc=5",
    "date": "Sat, 21 Nov 2026 21:48:00 GMT",
-   "vu_le": "2026-11-22T00:10:35.555827+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Form 4 Capital Group Multi-Asset Income ETF For: 21 November By Investing.com - Investing.com India",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORVk1cWxydkdGMnY5SVJ4RTI5MlpuNFdYdkVmNVdWYVFYZHFPWmlnZHJ2SlptM2Y1NjV6c3F4bGstYzRZV05wN3I2azNMb3dxN3FkVkdueXBZYW1INHRuZ09ZOVJqaHBRVnlaZUZOR0dFTVJSUWRuanJwWDkxZXBIckdtYndkVkZkZU9ROTU5M2lTYWctdi1oMGllcFZ3Snk5MHZkc2txZUhTeGd3X0piN1NzMFloQ09Hd1RZOQ?oc=5",
-   "date": "Sat, 21 Nov 2026 20:37:16 GMT",
-   "vu_le": "2026-11-22T00:10:35.555827+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "National Stock Exchange of India Limited Announces Management Changes - marketscreener.com",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcmhObkc3ZzhvYVpLbFBYVVN0Y2dPVnNocnlkdlJuTTFrYm9pYTVRSUdaTC1SQWVkZWduS1M0SFZMWVd1NzZwQTg3Z2ctSmNHOFVIdHdQbHkybU5BRVoycFl1b0tWVWVhUURjb0JkeDRPdWRxZkRtdE1tMmVRWHdpa3ptVGh0LVRXMjRnRDlTVTcwOU1nOU12enpNd2I2dUZPMzRJeUZVbTNvY2p0NG52bDdrd0ZFRFR2THcxX1Q0bw?oc=5",
-   "date": "Sat, 21 Nov 2026 12:50:58 GMT",
    "vu_le": "2026-11-22T00:10:35.555827+00:00"
   }
  ],
