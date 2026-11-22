@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T12:00:38.944348+00:00",
+ "mis_a_jour": "2026-11-22T12:10:37.293810+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55696.63,
+   "prix": 55844.62,
    "devise": "EUR",
-   "jour_pct": 1.47,
-   "mois_pct": -23.16,
-   "volume": 66.04714405,
-   "volume_relatif": 0.27,
+   "jour_pct": 1.74,
+   "mois_pct": -22.94,
+   "volume": 66.77179191,
+   "volume_relatif": 0.28,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Will Anthropic’s IPO buck the tech sell-off? - Financial Times",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOVVFNmptMzZsNnBaaGdXX19UcXlYOWZQWXBOV2NFRVNfbnR3MUlIZjBYUjhPSWRUUFR3NTdLeDJXUHdrc2ZDT3V3a2Q2MFEyR0s3djN4T2hlLW9Bb2ZCa21ua2hvR2kwSmdXMjZGRE54SnhHbnJ2bGJwM1FNblJmbEFTMGk?oc=5",
+   "date": "Sun, 22 Nov 2026 12:00:06 GMT",
+   "vu_le": "2026-11-22T12:10:37.293810+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Share Talk Weekly Stock Market News Review, Sunday 22nd November 2026 - Share Talk",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbUQ3MWktaWJNMUhnZEdRX01BWHB3SEJfTzRFQ21nWFBtMUMxelI4Zy0wZ3QwMDhLU29TWU0zZHVyay1kZXVSTnlpUUdHLVdpVHBIQS1Gc1VpRHhZblFVdmpZNTFBbGVBcVJULUNtLWJtNGJlWW05Y3JxaWg5ekw5WXJadlBVcVpmb1JIY3dNNEFYQ1lVWTdLT21wQUE?oc=5",
+   "date": "Sun, 22 Nov 2026 12:05:07 GMT",
+   "vu_le": "2026-11-22T12:10:37.293810+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "A tale of two cities: How Shenzhen and Hong Kong reflect China’s future - NBC News",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVk5RHdOS1FwUDZJUVJ5blVNd3BRdExZT1gyb2staWpvbkROSWRhRlNfNFZUS3B4X1cwZUx2bVhkYWs1TjdRWVBmWjdZRE5rQUhiMDNFREhRR1FiLVZBbHJkMDZJeTdVNk1waTdKWWZRWHNmc05qRVFOc2tHelhTMTRFSDRIbE1rRmhUeDlVY1ZEaTFmVHpSLVFTSlRMZEZhS3NKcjlYM0doSGg1ZG9aOVk0Umh2a2s?oc=5",
+   "date": "Sun, 22 Nov 2026 12:00:00 GMT",
+   "vu_le": "2026-11-22T12:10:37.293810+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Qualcomm Falls 7% After Q4 EPS Guidance Misses by 12% — Automotive Hit a Record $1.6B - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUlJMN05wR2dhMUcyWFBPbUpIQ3hoQTBJdHFzRUdDRUc4LVVzWm1lb3JpV2FRY3cxY0hPOGpkMlF2NDFMZVg5MTl6eDhQSlBlUmRkTVVOaU9ZZmNFMmhCYnFSbzRyNGgxOTVfLUdXeW13aXloUXFNemRMN1diY2VJV1hUSG0zTmsxTW9WRzFkcUloZmdTU1dYZjk5eEN6OWd4MlVDX25rblpGVlVmd2xDUjFwUDRtd0ljb3Zsb2dNaWpuaVBWTVR6ZmRtVE8?oc=5",
+   "date": "Sat, 21 Nov 2026 15:59:13 GMT",
+   "vu_le": "2026-11-22T12:10:37.293810+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Insider Sellers Might Regret Selling Real REMAX Group Shares at a Lower Price Than Current Market Value - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcndvZkFDUzVtWnhxWjlhOWhuelE5cnh5RDl1eWUzdG5oNTN0OGNiSjFCZ1BSUnZIRGt0S3dUM3k5YTBhYVB2c3EydVFGTmMyUGxJN01GeFgwV3h0WG5xU3NrQU85YnV1UjBYZWh2ZExGZmNFa2dxcXFjTUVFMzlmOFJfcEphZUVXMGhUY3VDa3NubkF5Yk1PN3hHc0tRS0pNODVlbWx0N0Y3S3dfSXlQQll1cEFmNTgzdFNXcmtlTExsM0xJXy1vVlJGdmczWEpUZmduY1dZVExNY2llM1lIcDRiTkV2Yy1HcHB6SllaT3Q0OUg0bnlCctIB_gFBVV95cUxNdHE3ZlhxbWxKR2NDYThMS1lLT2g0X2pwSHoyMWN6ajZUZ0t5Y2s1Z3VQWE94VjN3UTdmb3hnMlFkNWhCRDZLa1Q2UUY0TWl4cnVfcTFjUDRvUDlDZm1YZk5aN1NyN2wzQ1Fxa1E4SUUwaVZOY1ozWjd0YnE0N2tmaHJ1djBvcm42ZVNrQURDZzZGVklHS0ZnZzN1Zm85WnJYQkFwSDB6S2tHOG1tSHFWT2J2M0NoLUFoYzF5WWhCSTNMc0t5U2lpUEkyUjdvX2pPLVRydlZ5cmQwampzY1NJOEV2UzVLVURjLUdzRWU5MVVhNW5lY0oxRUxqQkwxQQ?oc=5",
+   "date": "Sun, 22 Nov 2026 12:02:27 GMT",
+   "vu_le": "2026-11-22T12:10:37.293810+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Kraken BTC/CAD Print Hits C$24,250, 71% Below USD - shattered.io",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObEVOcllxSTE4elJSQU03QjBia3BBTHNUaFpPeFJhdXVFSm00NTE3bjhRMW92Z0FJUHJVbjJzaXlXTjRWSllGWko2b0xNZm5yQkhiZ2hYMkgwT0ZZenFGNGMxbjhmRU9vNHlUZnBZakZpcDlZdEoyd1ZiM0NHMzlCWFZFaW8?oc=5",
+   "date": "Sun, 22 Nov 2026 12:04:24 GMT",
+   "vu_le": "2026-11-22T12:10:37.293810+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Only 5% of Cryptocurrencies Are Rising as Fed Rate Hike Fears Grow - BeInCrypto",
+   "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FWVE2LTdiaGMwZHNITXp4aDNUZ21wQlJfM3RuM3dxNGxmNURNWWFDaV9STUJLaEJtS010ZHV1bFBDUXFoMERvMDA2R1NXYjVudzJqcE9jU3NqMWYtMEVjRjJCNldwTHpXR3BDZEdsZmROaTUxY3RRNFVxNA?oc=5",
+   "date": "Sun, 22 Nov 2026 10:40:43 GMT",
+   "vu_le": "2026-11-22T12:10:37.293810+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "S&P500 Forecast: SPX jumps ahead of Anthropic’s record IPO - StoneX",
@@ -6503,56 +6552,9 @@
    "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10ekpaSzQ4QTNZQzl1dE1UQVlvV3dUSHJtSnF3R1Q3aUZVa2N4U1VHLVpsVGlLN2VjcHlVTU91YXRGdXA0UjFwbzdBQVNvOWZpdndMX2F1NHA1SUR3MVVuTEQ0SFFkajBCOWtmeEZPYVhlNFZTMFBr?oc=5",
    "date": "Sat, 21 Nov 2026 21:24:25 GMT",
    "vu_le": "2026-11-21T23:20:36.841621+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "CUHK School of Life Sciences advances translational research in iPSC-based vascular regeneration technology “Super Vascular Endothelial Cell” technology offers new hope for refractory ischemic diseases and receives prestigious national recognition - CUHK Communications and Public Relations Office",
-   "lien": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNT2Q0cTgzd1ctZUdVQmxWN0tjblRNUHhVN0NzOXljTHUzUzkyTG9ObHhVTVNzb3FYcGlsd0VfaEtMbklHTTdpTGE5OEdNMTRZckcwNlF4ZVRLNEVzLUpXLXlYUjAwUEpxVGV0R3VEbW80UTh6RDdjcWVVLTFqUHNoaEZjTFdYclRFaEtPSkhhVzg3alBUbm0wSGt2bFd1Y0gyeU5FNTZrOXFYbFFWUlBRSjV2aW1yOHpjRXJMVzZwWUpKQldya2ZCT2xoS2tEUDNhOVdvVFBKUEdVTmVVaFNtMm5sSGZwMjlweFhURWF3QU5CLUFQLVI0SFlCQTM3VXkyQVlJOERBelV2X0VOVm9VVVFUd3lsSUtEcGVXbXhXTEpadG9mUVlKemZneEVCbG1aV050VkhneHhjMEQzSG1wUg?oc=5",
-   "date": "Sat, 21 Nov 2026 05:32:29 GMT",
-   "vu_le": "2026-11-21T23:10:35.679517+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Geely Automobile Holdings Limited (0175.HK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94emluMjJkSFktU253UDhMcjdOWFFCX3dSX3BBcUFESU0tOWJmVG9wMEZ2bXB5LTJ6eHh6eHNtcXBRdmFhZW5ScS02LWlFMFpDTXNUZVNn?oc=5",
-   "date": "Sat, 21 Nov 2026 06:51:19 GMT",
-   "vu_le": "2026-11-21T23:10:35.679517+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Geely Automobile Holdings Limited (0175.HK) stock price, news, quote and history - Yahoo Finance Australia",
-   "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoYTBPMUdYc05adUlsWGM0VjdoS2gwZFlLUnR4RzVwZ3VuMnQ1amFsQWhaZ1IwV21PMFA3alVVcHlIajNZSlJ3LWhRQld2bGxUaVJSMGxB?oc=5",
-   "date": "Sat, 21 Nov 2026 10:40:14 GMT",
-   "vu_le": "2026-11-21T23:10:35.679517+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTGI3Sng2eVpHTHVCWFlFamhHRWxSYXNtMkU1R0Y1amNNMHRNMXdMQ0RNbHBNSXhvdlVIRU42Z0N4V3RWRGdzYnp6UjdkeDZsY2pwU29iRG9GR29NakVMV1FYRjdvWjdhckM1N0dmSVUwYjNXWU5yVVZQZm92U2tzNlpQMlNJZVRGTzNJbm1KLUpfUQ?oc=5",
-   "date": "Sat, 21 Nov 2026 22:50:00 GMT",
-   "vu_le": "2026-11-21T23:10:35.679517+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Russia Opens Regulated Crypto Trading, but No Exchange Has a Green Light Yet - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lbnNZbDlhU0ZJbFFfZzVNZmE1Y2VCb19CblNlQ2tVV0k5MTVvaHUyc0lXT1I4VEJiTjhQWGJwRHFLeTJzSWtaZXJLQnpSYUtCUjhvZFh6a2NnekNjeEJoMHYtbk1TeW0ybmg1enYxQ192LWJTWWc?oc=5",
-   "date": "Sat, 21 Nov 2026 22:55:00 GMT",
-   "vu_le": "2026-11-21T23:10:35.679517+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "AI tech rout prompts US investors to rush into value stocks - The Standard (HK)",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNjFmUklOVUJUcVpVWlpFN0h6T0pYbkpTcWVIRFVSWXlYS1NPeDhBdHlVNTdScG5YeGdTcU1VY1MwakppWHFwM0I1VjdvOGNCS052eTYtQUVqRWFJSFNKbkw4Y0dDSUVGalpPTHA0LWpQUE9oUEFFSFo1amZ3WlpfZG5iUjJMSEhVRlNScS1zclh1NXRnMkVJaXdYR0FFbGo0clJRNE1EeVNmLUNPOUllTF9ocw?oc=5",
-   "date": "Fri, 20 Nov 2026 23:05:57 GMT",
-   "vu_le": "2026-11-21T23:00:35.567696+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market - Business Insider",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTFTaEtqLXhoMWV1OHRCVHJQRk9YN3Jud0h3T1ZHMXVRN0t1SC1JaW8wVWY5a2p2RDRBZTRYX21sbVgzcXVlMkpsS2s4UmlIanJLSU95QXNzdXRHQ1RmSDgzc29JazdJVHg2ZGJGQk9hUUFxYVZNUGZ4SmVoZXh1d1dEZW5wSy1mUWtkZHFRXzVNVmJZeXQ1WEpNVDdRTTYyQThPZA?oc=5",
-   "date": "Sat, 21 Nov 2026 22:02:00 GMT",
-   "vu_le": "2026-11-21T23:00:35.567696+00:00"
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "actu Rachats et fusions: HTTP Error 429: Too Many Requests"
+ ]
 }
