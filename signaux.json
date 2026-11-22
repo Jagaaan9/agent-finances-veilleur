@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T07:30:36.050010+00:00",
+ "mis_a_jour": "2026-11-22T07:40:38.329112+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53881.75,
+   "prix": 53835.42,
    "devise": "EUR",
-   "jour_pct": -1.83,
-   "mois_pct": -25.64,
-   "volume": 22.88395838,
-   "volume_relatif": 0.09,
+   "jour_pct": -1.92,
+   "mois_pct": -25.71,
+   "volume": 24.01616557,
+   "volume_relatif": 0.1,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Nvidia Reports After the Bell Today — Five Things That Will Move NVDA After the Close - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZkVmQ2FKc01fYmN0bXZ0M1J0eFM1STRQTzlsREJ4VXI3UzVOMm5DbVczRkp1WUJhWHBCS2M4dFNnSk1BVjgyUWsyZnAweV9xbFd5NTZ2LU1JamJKR0RzeTZQbTY2UjRqaW0wMkJTVE9rT2VwX25hR3N6N1VBNjFDNnFGT1NLdEpLb0xYeEhwNUpuUWNDcnk2Qkttckw0SEhDem5xamt4QTd6OHUtN2Q2WEFMMzVDbExIaVVKcGd1V1RoQUFwVFR4MEhnMnItd0pJS0RRY21sRWRkWEluX0luNlhnejJVNnZheTlvV0lnY0hXZ0tCSE1OZA?oc=5",
+   "date": "Sat, 21 Nov 2026 18:29:19 GMT",
+   "vu_le": "2026-11-22T07:40:38.329112+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "5 Paper Stocks with Robust Revenue Growth in Q2FY27 - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObzZfdUdHMk5uTFQtX3EwN0FOT2ZPS2JnUEt1M2dRZHRFMHMxQVpoaWdfdDNNc0dxZHltamtuYllZOGMwZXBmNjdlMV8tRVJVNkdmUC1qT2VBZTdSTHFzcHZtaXpCM0g1dEMxWTg4ZFJsV2F2TDlfNGZwanhaVFA0dXhVLV9adW9nbTZ3NkdpY0V6dXZfU1JoQXQ0bVdSUEE5X250ZzJ4TmR4U1NJOXdXY2N4MnZvY2tPWC1tZnNB?oc=5",
+   "date": "Sun, 22 Nov 2026 05:06:35 GMT",
+   "vu_le": "2026-11-22T07:40:38.329112+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Binance Bitcoin funding turns negative, and one analyst sees a possible reversal - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMUI3REdqb204UjBWSGtNLUxVd005czNTMzdYcVVYd05oLWc0UEhZU2lONE5CbnRyZnpRUHZZajZ2T0MtOV9BdjlKdUtscXlEZmRmZGRIaEJBczc2VWxHb2Q3RE5kYUNZeW1PX1pNOFZxT0VzZko1cHZzeFZfdU1iVA?oc=5",
+   "date": "Sun, 22 Nov 2026 07:33:58 GMT",
+   "vu_le": "2026-11-22T07:40:38.329112+00:00"
+  },
   {
    "sujet": "Défense, énergie, matières premières",
    "titre": "Philip Morris Stock And 2 Defensive Dividend Names Worth Watching Now - Simply Wall St",
@@ -6530,27 +6551,6 @@
    "titre": "Ubisoft -23 %, Worldline -15,5 %, Vallourec -14,6 %… : la semaine noire qui a coûté 5,2 % au CAC 40 - Le Tribunal du Net",
    "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWRvOVhvY1cwTGFqUDVyejExT09rRzNHazBfRE1TbWIxUzBaTnBGZTV5TzJPelRIQVJOZWhXNDkwNTQ2MHZ6TFRoNEJmdno0clZNYUlNSkpZZ3Bsc3RYSG9odVk1NFhMLU9SQ2tTdm1lZzZ2VWs0OGstU1o3T0dEQXotSkx4ZElpYWYwX21UUlhxdHJCZXM4QzlXd2FSQ1E?oc=5",
    "date": "Sat, 21 Nov 2026 09:40:00 GMT",
-   "vu_le": "2026-11-21T17:50:35.833266+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Laurence Boone, figure de proue de l'économie européenne, va intégrer le directoire de la BCE - France 24",
-   "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYlF1M190LUJQN1hkVnkzY0VpVVUwNVhCbTFKbzl1Sy1uYXdId0otZ1lzMm1Xb01FU0RXTTF1cFRSTEtnRzRoN1p1Q1UtUnV4SWVXUVpEWFcyY2E1RE5UV2NMQWZ5TGJSYlNkWmFZaGlNSmxiQktZREhoQlJtWG1ScVczN1NYWWlSWkhHZHQ2eDcxOFlHdFlMRjV2akdySW9ZMGd4Z0NsUUNqS2FDZUJhcXpGOUxYU0dSaXhiOXcxX1d0OGFmUTB1dUU4bE9XVDR5OTNCbWs5T0xZanotUGRib2JTUjg2V1BfNjVtNFBTOV8?oc=5",
-   "date": "Fri, 20 Nov 2026 18:10:23 GMT",
-   "vu_le": "2026-11-21T17:50:35.833266+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Cours de l'or aujourd'hui, 21 novembre : la chute se poursuit, atteignant un plus bas en 14 mois. - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnlPVVFsUjI3NTZWbVBzbzlFZUhlU085MjhZazJEeG1qeHdBM1ZuUXh2T01YTEZYUVVXT2l5Y1gyZnozcTJxTUZya0FZZWxFOS01QnZ6V2dXcGdhd2xiTE42STJLM29TNnNTRGVFdWtWMlpSckV5bTgxa3FYT1l1TEc2QzJ6bUxNdmpZ?oc=5",
-   "date": "Fri, 20 Nov 2026 23:29:51 GMT",
-   "vu_le": "2026-11-21T17:50:35.833266+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "4 Defence Stocks to Watch as Ministry Seeks 20% Defence Capex Hike in FY28 - Equitymaster",
-   "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeU1QYXB6NkdtOXV0dXZOM081X0tXOTZ4RmtYSVNQUkVhYjd3SHExdklkaWRSYlBCWHc2blBtbjMxZDZISlFETkMydExwU2pxdTRPQ3pXLV80WVYzdENRTmotX0k3cndlRkJwTVduNzBuc2xjQXluRk9VLU1HVmtiRWFXckVXR0RqMTdPMzhUcWN5ZnZCcW9NZ0RxT2Z2R0lCVjBZZDdiMV9mbVFHWk5rRFQtaDFUMVprbXVFbFRST19ySk8wbV9fVWszTWNXSGZHN19abDQtdDFSRGM?oc=5",
-   "date": "Sat, 21 Nov 2026 11:07:45 GMT",
    "vu_le": "2026-11-21T17:50:35.833266+00:00"
   }
  ],
