@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T15:10:37.150515+00:00",
+ "mis_a_jour": "2026-11-22T15:20:35.965659+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55569.35,
+   "prix": 55474.31,
    "devise": "EUR",
-   "jour_pct": 1.24,
-   "mois_pct": -23.32,
-   "volume": 102.63575262,
-   "volume_relatif": 0.42,
+   "jour_pct": 1.07,
+   "mois_pct": -23.45,
+   "volume": 103.92973231,
+   "volume_relatif": 0.43,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "A 10% drop for the stock market is unnerving, but it's not that unusual - Spectrum News",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNODZRckFqYVVBdDRLRVRqMWlDOFQyZExHRlRnbWt0RzBqR3F1YUtBNVJYZENqakFLeEpCdV9ONE1UdlN0aDE2WWg3THl6dkw4YnFnQ3ZHMHBvQkxsLVdzRjgzV2JjclQxMDh6X25QYkRqUVlEVjVzVmlVZVhjbzZmOTJRckJnMmVMb0JLTjVpTjl6QQ?oc=5",
+   "date": "Sat, 21 Nov 2026 22:22:00 GMT",
+   "vu_le": "2026-11-22T15:20:35.965659+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China Tech Stocks Lose ₩2,289 Trillion in Market Value in Five Months; Authorities Cut Margin Requirements for First Time in 10 Months - 파이낸셜뉴스",
+   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EOXhKQmlmTU9XU2NKUHdhTmNTbVF3SU1ySTZaamlSMUZJYXp2eXo3eHJBem5DdkdQZGpCZU9iMkV5WVVrVjdyVzNyVGlkRExJY1BRb1hSMGM?oc=5",
+   "date": "Sun, 22 Nov 2026 15:09:16 GMT",
+   "vu_le": "2026-11-22T15:20:35.965659+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia's AI Demand, Alibaba's Chip Pressure and More: This Week in Tech - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdmNkZmJpQVQxLVU0ckR4ak9IYlBGd2lfZDVHVDV2Sjk3ZlBTeWxETW93RjRLd0RjcDBIZXJEdE5GX0hRQWZ4bk5oTGJEQjRaSFN3WXZ6SElkQ0kzSnpKSUxidVlrRExITTVPNkZWWE9PUDhIQnB3OEw5RUw3YWxZcF9WeEFYLURHa0RienJtRVBiVDhSaHVma3MzVTF5aEY4dTZFcHBuQ2ZEWkV6NkhHc1Z3dlZNR3h5cEJOMWxHWTBHdnp4M2JZ?oc=5",
+   "date": "Sun, 22 Nov 2026 13:49:56 GMT",
+   "vu_le": "2026-11-22T15:20:35.965659+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 22, 2026 at 11am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1JsX0FXbUo1TFNETVZCNFdDZ0xrN1UtRm1qcnA1Nmc4Wm1Mb190TDN6Z1BtN25VVHZjekhQM29YbWZOM2lMVzJrRnotbUdPM2E2eWdTUHppSUJUcHVFZTlfY1pWOUFsdk9kLUVWMDlBcjVEam8xNVlZeVBucEJwTzVIY0t6eTE4UUYwR0gybmZYSU1mdzRqWFJBVkR0czVPT3ZIM3ZjX0pfS191cVE4?oc=5",
+   "date": "Sun, 22 Nov 2026 15:11:27 GMT",
+   "vu_le": "2026-11-22T15:20:35.965659+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "Nvidia's AI Demand, Alibaba's Chip Pressure and More: This Week in Tech - Benzinga",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUW5QSUxSRVZuemV5aGJpU1dlNzBwNlpxWERxOExyMmVVMDBtVGhOVHFjekE1TzBQVmpPRnlta255NXRRMXkyYWJ2VjMyZHgxWUNWVlF3YXhEMDVhTEM3ZzBfUEpHWDREdkVmZW1jSzE3b1JKTHpWbUlERDJVWHd4ckhfVjA4Z3NtVDZHalJCcUIxUQ?oc=5",
    "date": "Sat, 21 Nov 2026 22:00:00 GMT",
    "vu_le": "2026-11-22T03:10:40.939398+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off? - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkFiOUhWZENjaXdGNXRnc1hvR21YS0VvNzVwN3dSd1hZNndVV25PcDIzd0ZiaDU3cENkc09QTFJacGdmamtrbGdqdURNRTFmQlpMb1ZoT3lCbnpuNjN2VS0weXAwcnVyWEQzeGxFdlhRLW81VXdSLTlXbEExN2RSUkhlejNzSTJwZDVLNlRkMklJOG5HNFFMYk01d1d1NTVDQXpkYVYySTZaZGF3cGhRUGgxM3c4a0NNRXdpTw?oc=5",
-   "date": "Sun, 22 Nov 2026 03:00:00 GMT",
-   "vu_le": "2026-11-22T03:10:40.939398+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Earnings Upgrades Could Change The Case For Fastly (FSLY) Stock - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZWRwYWFlWUZFY2hpVDB3UnFHM2xxOFREZkNEUmMyZEs0d3p0eEVDa2NMNGw5UHIzeGdCWFJxOWo0RTcyYVZxS3NodWdOeEUtUnVfbjNDaXpsMExKM0Vhajlrb3JnbXRQNk8yX280dkVPU0hnY3dCbkUwU2pLMkdpRW05a0gzX3MxcVhpT18wNGFBR0ZMVHZiOFc5U3dpSE1ybXc?oc=5",
-   "date": "Sun, 22 Nov 2026 01:11:00 GMT",
-   "vu_le": "2026-11-22T03:10:40.939398+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Top 10 Large-Cap Stocks To Invest In India November 2026 - Samco",
-   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORXh6NFFST0ZQUmk4eEo2aHNQejFyaV9abmNubFBHd2VlaUtiZEFwVWZhenFYTXZBUlhaQU8zRlJoa0ZyMVgxb3pOd29hOFRNbGM5YjBjb0g0dXNkUE9VT3hmNzNYZ3pkQy1Cc1NZdUkzdVVCSEVJc1F4cXRWMzFWMHFKaUpVQ0F1RVRhdEVuVHE1d2duWGlOVkx2UzNMWmVLQUtMV3otSkdwcFdIbTRXb2Z1UWVONldyMVJ4NGd3?oc=5",
-   "date": "Sat, 21 Nov 2026 06:51:22 GMT",
-   "vu_le": "2026-11-22T03:10:40.939398+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Tech sell-off sends Wall Street into correction. Goldman sees further pain ahead - Business Post",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ011dnhvQ3dxS2drQ01xSUxScUR3N2dNaWQ0elh5bjhjVGtGOFQ5aHZ6eWtUcXBsUzQ1QzZINHNvMVBEdmQ2LTVnU0swSEcxakg2QWpfa0VMSkZ1bTJYZXdYem1GZVZLNkhqQUVJRjlXNDVMekJCM016eThubjZscFVyWTFoalZPaUhwN1NPODdmek9ZeGxDNFZwazcyTUc3UDZjblpWYnJqSnlNMnB2bzZtU0xJUjA?oc=5",
-   "date": "Sun, 22 Nov 2026 02:54:56 GMT",
-   "vu_le": "2026-11-22T03:00:38.616480+00:00"
   }
  ],
  "erreurs": []
