@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T14:30:35.840140+00:00",
+ "mis_a_jour": "2026-11-22T14:40:36.515185+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55319.54,
+   "prix": 55343.78,
    "devise": "EUR",
-   "jour_pct": 0.79,
-   "mois_pct": -23.66,
-   "volume": 97.31901041,
+   "jour_pct": 0.83,
+   "mois_pct": -23.63,
+   "volume": 97.56440106,
    "volume_relatif": 0.4,
    "capitalisation": null,
    "per": null,
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Blaming Anthropic's IPO for Bitcoin's Slide Is 'Easy to Believe,' but Flawed, Analysts Say - Moomoo",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjNXWXBnYUtCRURYUFd1TVB4QjNIMWlEZGNHSjFpVXluSm5QZW9jVEpXZUJaZnk5eXZ5SndrN3lfZVpxWFoydjJOaWUzaTFqb1h0TmNfdXFoTVZSczFmOVhZamlsNDJ6RU5ac2tZVHFEd0ViR1VMVlRJNFl5bXhLZWdYbVhfTHhIWnA3SW1qcXo4NUY2TWFDdlpPNA?oc=5",
+   "date": "Sun, 22 Nov 2026 13:25:07 GMT",
+   "vu_le": "2026-11-22T14:40:36.515185+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Is China Mobile (SEHK:941) Still Undervalued Following Mixed Share Price Moves? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWFhJamc4ZEszdG5MY0d2RmU5cnNIN0p4THpaUWVzYTRaNVlVWk1aaGJncEdleHI4bjlMZUZ3eGF4ZkVFc1hMaGtOSXR6a2NiV3NGVjV6RHNLWHpNTWZ3THBfck9JNTJ2ckx4UXFXaXlUckQ4UVZmN3FWRmxFdWdTc2F0OGR0ek9iSWZhbnlZRWZ5RFRnLXcw?oc=5",
+   "date": "Sun, 22 Nov 2026 12:10:32 GMT",
+   "vu_le": "2026-11-22T14:40:36.515185+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Mergers and Acquisitions Cyprus: 2026 Guide to Approvals, Steps and Timing - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQckNZeXhZVG9jcmlIZDlpNXpOaG1ZdUVvNTN2ZEYxN21oWUxDR0E2UE1hUHNvU0ZlNDlIQUUwd2hObWk0V1dOLTVHWGJqX0thSGZFOFFnYjVQOEFmNVdvdHZMYVhxZ2tyb3AyYnlpNHVyUll1blFtdjF0Zm5SSGxyaUJUeElwcjhRVFJGS2xqejc1cUg1MmlnQ0pfd3hGZw?oc=5",
+   "date": "Sun, 22 Nov 2026 01:37:32 GMT",
+   "vu_le": "2026-11-22T14:40:36.515185+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "New Zealand vs India | Prediction Markets - Coinbase",
+   "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuRnN6RGhpbXBXdVVHMFhiNllNdUhxNmRoY2NFVFo0TkRMTHhSM2ZkMlB4WFBMZG13bXFOQjE1Q3c3ZkR5V1l0Z3NKdERiRUtrQkNrdnRSdm5OYWJpNzBYV2FxODlpeDFaM1psZ3BaMngtd1JBeTRrVjlwdw?oc=5",
+   "date": "Sun, 22 Nov 2026 10:39:37 GMT",
+   "vu_le": "2026-11-22T14:40:36.515185+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic IPO Pricing: $83 vs $97.17 Close, Bankers Call - shattered.io",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1lZQkc5T2FsSl9sN3pINzFKREhjaWlrWjFnM0wyQTJ4Qjh4VVIwcFhHdEdyOGM0ajA3YjF4Y291X0pIaHZoeTdfNHJXaFRvSWVqZkJsM21GU1NKX28yMF9teWlwN3ZhR0ZadC1jRWE3Q24tR0JiTzRUYURlU3d3OU9JWlBpc1lENHl0N3B6aVZQM1pVZlhKUmYzUnVOQmFUc2syYTlnTGZtYjktSHlRcnFxVmY5QUJSanVZ?oc=5",
    "date": "Sun, 22 Nov 2026 02:15:00 GMT",
    "vu_le": "2026-11-22T02:30:35.881538+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China - WSJ",
-   "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94MVRKSkVSTXVkZmRDTWYtakd3VFYtQ0VIWUhWRjVzTmlEUE9HbHh5QTZZU1pQMHRaNEpacHRjZWxad1c4VlJOdktDcFQ1c1lqRmdBR2hkZmFFVlAwNXdOamUtYVVmS3pJeFdpbVBKb05BZnYtLXktamVR?oc=5",
-   "date": "Sun, 22 Nov 2026 02:00:00 GMT",
-   "vu_le": "2026-11-22T02:30:35.881538+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Merger Control Colombia in 2026: A Dealmaker's Guide to SIC Clearance - Global Advisory Experts",
-   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTHVNME11c1NHc0dlQkMybnpwN0R0dmNCeTV3YzUyeFd6bDlZSFhTMTdoTXlZV2p0dWRDQmtJSlpRVEhEcnd0OEVHelVtaVJwRHhsNWJpUjRGME9WT3AwbUlFQTY3SjhvQ2ozR19DMG1TX2lwRUVOLV9GUWsxaXBhcFJ6RkloREdLd25JSTdB?oc=5",
-   "date": "Sun, 22 Nov 2026 01:02:32 GMT",
-   "vu_le": "2026-11-22T02:30:35.881538+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Trump Calls Mojtaba Leadership 'More Rational', Rules Out Regime Change Bid As Focus On 'Permanent' Deal To Block Nukes - The Daily Jagran",
-   "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVU1VY2hGZjFkNkRwSVJFdUpGR2dmLWJ0WXRrSTY5ZHNZTEhTUVdCUGlGTDBva2pGa1B6SkZOaVFPdEFIZWh3dDdYdmU1VmJ6aVFuWWZ6Nm05bnVvWjRLX3dlWjZHQ1N5Sm9BazJhRmxjSUMzWnJVbXo0T0pDS0ljbWUxY1pmZFVVUFlITENITzY3V3o4ckhobXRxbUJleEdJR09lY0FMSWpwZ3dfbzVCekQ0ZFVpSDRjSVh5dXRPMVhDcEozYnFzVEhTbzU0R2piMzQwU0xVN1JHYUdGZkxVSXo0cTF5dHRialFKR1pn0gH0AUFVX3lxTE9LQmlNcWg3TzhZVUdyS01Jc2lOZjI4cnd0RnFHR3hYRFNxTkZGLXhiMmw1c1hXa1JxT2tvOXNBWENCTHpPNWwwR0RwRkoyaHVQcXN1VldoaG41OVM3dUtpYldEWklGUFRVYVpnWEhtYjRVTDR6TmJjcmtTVzd3SmZVMU1fcWZTUGhLNExKbVpJU3AxYU5lc3pvRTZkR1pmOGNRQkJQaWJaYl82UzVsdFBSMkdKZ0UzM2U0dUNCOGNqWmstemZzTWdlYmJOOUhSWVNyNmFTaUZfUGFDQk5nMm1OdUdsNUdhN1loLXdQOFBYcW9VTFY?oc=5",
-   "date": "Sun, 22 Nov 2026 01:43:00 GMT",
-   "vu_le": "2026-11-22T02:30:35.881538+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street asks what can save AI trade after Anthropic wipeout - The Business Times",
-   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQUt2TDFITlRINlBPc3RteHZTamNlWVQtY0tSb0VkV3VidjNkT0xZRTdxUmxrZ0RCYnNCcVlZdmpMVzlydkd5SDNEY0RYbGQxQjd5czBGeDNncjhqMnMwWHdqRnNSc1BEdVloeXZwREdoTjI0bW9rWHI0cm1wRW5kamZyUWVBY09HQzcwN3hmbHVkM0xTWHM4andRZHJGN3BXbTYwc0dyaE5nRXQ5TlVXQXhjalczZEg2aE45cFdnUkwyeVdIb2F4djFnSWdEM285S2RRSW1Gc18?oc=5",
-   "date": "Sun, 22 Nov 2026 01:17:00 GMT",
-   "vu_le": "2026-11-22T02:20:34.712924+00:00"
   }
  ],
  "erreurs": []
