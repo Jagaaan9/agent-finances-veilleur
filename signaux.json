@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T13:00:35.991655+00:00",
+ "mis_a_jour": "2026-11-22T13:10:36.221531+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55500.7,
+   "prix": 55356.28,
    "devise": "EUR",
-   "jour_pct": 1.12,
-   "mois_pct": -23.41,
-   "volume": 91.49626481,
+   "jour_pct": 0.85,
+   "mois_pct": -23.61,
+   "volume": 92.6258243,
    "volume_relatif": 0.38,
    "capitalisation": null,
    "per": null,
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,20 +3507,6 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - CTPost",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1k1TmU0dFR4cDFDZXpnQ0pkUnBLRWVTa0ZuUGotTXNEWUF6R1Q4c3FtQWZPaVhyMG56Skd6dDA1X2FqRWFRTXRWTk96RzgtTFhZWnVpMWs5S3FuSlF2bktNUkZkQ2ZGZjU2S25VTmJRcXdXQWhlc0ZnaVVoa0xqTmRaN2trS0pmb3hjeWJ0ZFFTdXN2WFRzV19B?oc=5",
+   "date": "Sun, 22 Nov 2026 13:04:26 GMT",
+   "vu_le": "2026-11-22T13:10:36.221531+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic IPO Fortunes Collide With State Wealth Tax Debates - News and Statistics - IndexBox",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcHl4NGdycENtUkF0dENMT0VzbnJOT05CU0tPT1ZmTFhXSV9BdldIdHBxVWd1WDlORVBxcFZhbGtiOE82X0RtN1haSnV1SFVJWV94UDBpcEJSaUJmWko3ZTZUM1NYZ3lIRzRucVo4Wlk3eXB4NWs2OWxtdjhib3NxempMT1I?oc=5",
+   "date": "Sun, 22 Nov 2026 12:31:13 GMT",
+   "vu_le": "2026-11-22T13:10:36.221531+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "This Early Investor Sees 27-Fold Return In Anthropic IPO - Forbes Middle East",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHVhc0hEZmhkRC1EZEdlMzRGUnNTVmgxaUxyRFJXWk9rdGhYQjhidzFLemZNeThVUXBtUTF5QVFqemFVSHI1Y2VHZGRoZHp2dDA1NHp0Wmc5RGUycjUtN2lkYk80U2xCNU9wWDJLcmhnZGhGZ0ZSZWVyaFN6bGVfVlRmRW1zT0p5WUZGMWdVRjIwaHRhUGQxLWVKSGpMaG45dEczandpMmVNcWl4TmhyY2kyd1Y?oc=5",
+   "date": "Sun, 22 Nov 2026 07:01:03 GMT",
+   "vu_le": "2026-11-22T13:10:36.221531+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Has the AI Bubble Already Burst? - WSJ",
+   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNY1JnMEhXZi1IVjZ1SmxTWE5RWThOVFJSLTAxcV9mQ3NWVUYyNm5UNjVaTkhHZDduNnVDclZJWWd4Vi1KOElBS1lrSExJSFVCZGtyWEdMRnpSLW9kZ3hQa2pfMUoyTUJqaWlYSDRyaEdjdlZ2RTlVQk5FS3JkU0czdw?oc=5",
+   "date": "Sun, 22 Nov 2026 10:30:00 GMT",
+   "vu_le": "2026-11-22T13:10:36.221531+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Laurence Boone, une économiste éclectique au poste stratégique de responsable des marchés de la BCE - Les Echos",
+   "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWDYtUm5ZcEFpWTFYdVRIRThzdUExVndMMGFlTFdZSWctRDg0UkdyU3IzTkNTYnJOU2pqcVFHbnJsX09mSVYwdE11ZDN0RFpwMEhFaVJMVGxvbEcxU0dmSW5pZS1XWnFndHdpVGJpRXQ2MHFfSWM1NjFUZ1hmVmZuc1F5aXZFQWdFZkJKak54SXN6bFRqWjl3UUJwRUNfWmZTNzhHQkVWRVZISTVDRml1UDVjeFlJQWVsY1hLTDFVMmZxX0llQ2F5MkV2TWI4UkVUQzQ2bU0yX0hQOFVPRVNYVmtPbWRoUmFWWm5LQV9HS0dpZ2VPdWRPeA?oc=5",
+   "date": "Sun, 22 Nov 2026 13:00:09 GMT",
+   "vu_le": "2026-11-22T13:10:36.221531+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "'Shockingly Low'—Trump’s Worst Nightmare Is Suddenly Coming True As The Bitcoin Price And His Crypto Memecoin Crash - Forbes",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEdfUVMtY2hLZmlsX19wcTh2Yzdyczh3RDQySGt0T2VwSEZnSlFVZ0Q1U1N3NW5KSkdXenRWVTNYTldabUtmSWJRa2FzME5EZEwwb2NRNlFjTmJOUUlKSTF0S3o1TklCU2xxLWZPU2NXR2Rxbkp3MUctMTNDSG93RUFkNHYyU1R6eTdVWGx6QVJpWVcxU3U5SkZySEZ4Z2E0N3dTZmpB?oc=5",
+   "date": "Sun, 22 Nov 2026 12:42:28 GMT",
+   "vu_le": "2026-11-22T13:10:36.221531+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin's Downside Risk, Dogecoin's Support Level and More: This Week in Crypto - Benzinga",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdEwybTdvR0xzOVNSZ0s0RGtha0k3SFpSUlB0LXZtN25pTmgzM0JNaHpnM2ZGQXNtaUlOeERvLVNud01IMXJjRlZmOVlsSHVid3hxd3VLUlBNWjB6OU9RVDBUQnJfeFI4MTNXZE5ZOHh6WnZHOFdzUnEyQUwyRHA0VDF0bmZVODdzd0xiLVRobDYzUi1WcmRJZ2V3?oc=5",
+   "date": "Sun, 22 Nov 2026 13:00:10 GMT",
+   "vu_le": "2026-11-22T13:10:36.221531+00:00"
+  },
   {
    "sujet": "Pays émergents",
    "titre": "COP31 climate talks end without deal as EU, island nations reject draft over fossil fuels - Moneycontrol.com",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRjVrcG5mWFJDVWpSQ3dhdFo5MG5MUFMtalVrTlp0RFhHUHp6MzA3RHRFZktQYmdGb1RNSklSNGRiYk1xeVgwcXRLVnpCYlJydzR1eDlRR2x5OWpnMC1HYTdXUGtjNzVTejQ4MnFWLVFaY3BsUmIxWEEzM202eTJMOVFWNFpTcy1FQnNjaUstbUpJbDBpWmswbFJPMVJZQQ?oc=5",
    "date": "Sat, 21 Nov 2026 13:00:25 GMT",
    "vu_le": "2026-11-22T00:20:35.841978+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street sell-off drives portfolio buying as AI stocks stumble - Traders Union",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjZPVi1sVUJrcUFpWldjaDRRTTBic1Q5RklleWY0dG94NFpEdFNxdTl5RFRUWGg3OWdzOHYtNWFIZGNfdGtGSHpXTGowalprMUtNUUY1ZGZJV0RyRkJJRlVRb19PNzhCc1hULTRicnFUQW9KdXpVWmxwaXE3cW9NUjBXVDU5bnVGNDF5eXBqU21qVkMyOFE?oc=5",
-   "date": "Sat, 21 Nov 2026 15:10:34 GMT",
-   "vu_le": "2026-11-22T00:10:35.555827+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "VALNEVA Cours Action VLA, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FTHkyZWhJRkFQRVVIM3R0WlhkRWR4YVZjbVp3RHFHVTZHYVJna2sxUFd2aldYR1ZlMGFibW8xRjlWbmxzeVQ1TUdLN2hONGRSaEE?oc=5",
-   "date": "Sat, 21 Nov 2026 23:25:39 GMT",
-   "vu_le": "2026-11-22T00:10:35.555827+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Canada inflation rate YoY for November - Coinbase",
-   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wLVo4X2xSSDdoX2lQSy1GR25rX2lCWFRjMnNNZTZMVVZYbmdZdHpzZ3BZN0paS3N0ZURSRnFTSTVjZk1pODVZRFQ1bW0yQ21YNE5vRjhZd19mN09kU2plVjQwXzZVUDhvNy1yMW9CMjllMTQ?oc=5",
-   "date": "Sat, 21 Nov 2026 21:47:44 GMT",
-   "vu_le": "2026-11-22T00:10:35.555827+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Key facts: AMD Share Rises; Venice Forecast Jumps; China Sales $7.75B - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWGMxcTRwUEk5N0hEOGkxekRObVBiMWlaYUFEem5yMzBnbVU2bUM2UmR0MTBLVkdBc1UtOFhJNmRnVnVXaEY1bkloc09FTHp4N1FhR1lpVndLdjZKY2RfR0NDNnQtRXl5aG5pLU9GemhLVVc5a0JJUHl3MXdIazFScS1pUmJHOVBhQmxYaFU3bGVOTFI2aUFYdW5DX1BZM205MS1ES2tXMEJzN2RLZ1h4ZlR6Q1EwVERvLWdpWmZOV2szUEpXbnc?oc=5",
-   "date": "Sat, 21 Nov 2026 08:00:00 GMT",
-   "vu_le": "2026-11-22T00:10:35.555827+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Nvidia affair puts Chinese spies in spotlight - Financial Times",
-   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNenZuSHhmdTJDTjdMN2RjUGZob1AtNVk2cHo4T21nYlZRTnFnQ0JHRTAweDVZRVJLX0Z1UlhLenpIamp5bV9JQ3hpa0FkWFRRcXNwajlOT1FQLXZ3Tk02Y3d6UmhsNVhUbm83TEVJanZ2WVNFN2JZbzVRZ2RuVkI1akxVdUs?oc=5",
-   "date": "Sat, 21 Nov 2026 03:58:46 GMT",
-   "vu_le": "2026-11-22T00:10:35.555827+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Wang Zhiyi advances to Hong Kong Badminton Open semifinals - chinadailyhk",
-   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xa2hEZGR2Z0IycG5kSU1BNmw3UHRhaE9SYTVMUmFfemZrSE4yeXlybWRUZzVSMGw0dnh0Yjh5NmNPS25iRVBOd0JZa21HS0FyWGlOMU5xZGY?oc=5",
-   "date": "Sat, 21 Nov 2026 04:14:19 GMT",
-   "vu_le": "2026-11-22T00:10:35.555827+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Sovereign AI factory in Germany wins startups with no lock-in - SiliconANGLE",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1FDOUxrN005cXhyWUlIdmxfZk91ZjRPQ3QzQ2hGQ3JKUktmTnRwVmFESVlVLWdDb1QtQ2JvdFJxTFlvWXJpSE9ZQXJOaFNvVGl1bU13Z05keWZIbnhqVWJuRXpLU3E0Wi1Oc3J1Qlo0RGo1MjFORXFfVDBIMVlmMVFUNkdiOUFqQjF2NDZWSmM5dlpJbFFIQkdocWlpX1d3?oc=5",
-   "date": "Sat, 21 Nov 2026 21:48:00 GMT",
-   "vu_le": "2026-11-22T00:10:35.555827+00:00"
   }
  ],
  "erreurs": []

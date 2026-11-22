@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55500.7 EUR, jour 1.12 %, mois -23.41 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55356.28 EUR, jour 0.85 %, mois -23.61 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,13 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - CTPost
+- [Anthropic] Anthropic IPO Fortunes Collide With State Wealth Tax Debates - News and Statistics - IndexBox
+- [Anthropic] This Early Investor Sees 27-Fold Return In Anthropic IPO - Forbes Middle East
+- [Marchés mondiaux] Has the AI Bubble Already Burst? - WSJ
+- [Banques centrales et taux] Laurence Boone, une économiste éclectique au poste stratégique de responsable des marchés de la BCE - Les Echos
+- [Crypto] 'Shockingly Low'—Trump’s Worst Nightmare Is Suddenly Coming True As The Bitcoin Price And His Crypto Memecoin Crash - Forbes
+- [Crypto] Bitcoin's Downside Risk, Dogecoin's Support Level and More: This Week in Crypto - Benzinga
 - [Pays émergents] COP31 climate talks end without deal as EU, island nations reject draft over fossil fuels - Moneycontrol.com
 - [Crypto] Arthur Hayes warns Bitcoin could test $50K if the Nasdaq keeps sliding - Crypto Briefing
 - [Anthropic] Blame game emerges after Anthropic's IPO market value plunge - WSJ - TradingView
@@ -448,11 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Intelligence artificielle] Alice Huang just a front? Chinese businessman ran Nvidia chip smuggling network - India Today
 - [Pays émergents] F&O Talk: 25,500 remains crucial support for Nifty, says Sudeep Shah; gives RIL, HDFC Bank strategy - The Economic Times
 - [Défense, énergie, matières premières] Vincorion SE (V1NCD.XC) Stock Price, News, Quote & History - Yahoo! Finance Canada
-- [Banques centrales et taux] Une série de données économiques pourraient exercer une pression sur le prix de l'or la semaine prochaine - Laodong.vn
-- [Rachats et fusions] Merger Control Filings India: 2026 Deal Guide - Global Advisory Experts
-- [Rachats et fusions] Aurora Cannabis Highlights Inaccuracies In Curaleaf’s Takeover Bid Announcement— CEO Claims Business Is Reaching Pivotal Inflection Point - Stocktwits
-- [Pays émergents] Imperial Blue sale pushes Pernod Ricard behind Diageo in India's alco-bev market - Moneycontrol.com
-- [Crypto] Crypto Analysis: How Long Could Weakness Continue Across the Market? - FOREX.com
-- [Crypto] Poland Crypto Tax: 19% Rate, DAC8 Data Swap in 2027 - shattered.io
-- [Crypto] AI Cyber Attacks Breach Systems in Under 3 Hours - Bitcoin Foundation
-- [Crypto] ETH price on Nov 22, 2026 at 5am EST Crypto Prediction Market - Robinhood
+- [Banques centrales et taux] Une série de données économiques pourraient exercer une pression sur le prix d
