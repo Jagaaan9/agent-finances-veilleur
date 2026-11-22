@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55507.8 EUR, jour 1.13 %, mois -23.4 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55224.97 EUR, jour 0.61 %, mois -23.79 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - G-Resources Group Limited (HKEX:1051, secteur Finance) jour -2.05 %, mois -7.97 %, prix 5.485 HKD, capi 2472715327, PER 9.4, volume x16.68 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
+- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 5047665185, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 665841152, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3641703802, PER None, volume x1.08 la normale
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,13 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] "When should you buy? When there is panic": Investors weigh Wall Street rout - www.calcalistech.com
+- [Résultats d'entreprises] Palantir Grew Revenue 85% and Raised Full-Year Guidance by 10 Points — So Why Is PLTR Down 26% YTD? - TradingKey
+- [Résultats d'entreprises] Cisco Raised AI Orders to $9B — So Why Is the Stock Stuck Below $124.62 Resistance? - TradingKey
+- [Pays émergents] Tata Steel board approves ₹28,000 crore divestment to APL Apollo - scanx.trade
+- [Défense, énergie, matières premières] Top 3 British Defensive Stocks To Watch In November 2026 - Yahoo Finance
+- [Défense, énergie, matières premières] If I Were Building a Portfolio From Scratch With $10,000, I’d Anchor It With This Unassuming Value Stock - The Globe and Mail
+- [Crypto] Trump’s Memecoin Gala Returns With Demand Down and Scrutiny Up - Bloomberg.com
 - [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - Times Union
 - [Petites valeurs en croissance] Create's (TSE:3024) Earnings Offer More Than Meets The Eye - Simply Wall St
 - [Pays émergents] "Global North has no future without Global South": Indian journalist Munish Gupta - www.malaysiasun.com
@@ -447,11 +454,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Bitcoin SV Rises 3.7% Amid Broad Market Rebound - CoinMarketCap
 - [Crypto] Kraken upholds trades after Bitcoin briefly drops to $17K on its CAD markets - TradingView
 - [Anthropic (FR)] Anthropic en Bourse, qui paie l’addition ? - Le soir d'Algérie
-- [Banques centrales et taux] Les cours de l'or ont chuté à leur plus bas niveau depuis plus d'un an, et les experts restent pessimistes, mettant en garde contre une possible nouvelle baisse de 300 dollars. - Vietnam.vn
-- [Intelligence artificielle] Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail
-- [Rachats et fusions] Orica chasing $1bn Belgian target - The Australian
-- [Petites valeurs en croissance] Why CleanSpark Stock Is Down 16.3% And What's Next After Texas Lease Concerns - Simply Wall St
-- [Pays émergents] From underperformer to investor favourite: What is driving India’s stock market comeback? - Upstox
-- [Pays émergents] Airbnb looks beyond traditional holiday hubs to deepen India presence, bets on homestays - Moneycontrol.com
-- [Pays émergents] RVNL secures ₹348 crore wagon workshop expansion order from East Coast Railway; stock in focus - Upstox
-- [Crypto] XRP price at Nov 22, 2026 at 6am EST Crypto Prediction Market 
+- [Banques centrales et taux] Les cours de l'or ont chuté à leur plus bas niveau depuis plus d'un an, et les experts restent pessimistes, mettant en garde contre une possible nouvelle baisse de 300 dollars. - Vietn

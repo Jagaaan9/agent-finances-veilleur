@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T13:40:35.213612+00:00",
+ "mis_a_jour": "2026-11-22T13:50:34.836399+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55507.8,
+   "prix": 55224.97,
    "devise": "EUR",
-   "jour_pct": 1.13,
-   "mois_pct": -23.4,
-   "volume": 94.75567242,
+   "jour_pct": 0.61,
+   "mois_pct": -23.79,
+   "volume": 95.05555357,
    "volume_relatif": 0.39,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
-    "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
-    "capitalisation": 3235509897217,
-    "per": 13.8,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.73,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
+    "devise": "USD",
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
+    "capitalisation": 3235509897217,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "\"When should you buy? When there is panic\": Investors weigh Wall Street rout - www.calcalistech.com",
+   "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PbmJsVEt3RFVscDBtZzhKekhWdEJiS3FxQ0FtVVpwc3FVczltNjdMLUd0TFpacDBQNXRmeWF2dmc4UnItQkt0TVBBR1dXRWFlTWIycmxIVFBldHBnMEZ6S2FSUGMxcDQ?oc=5",
+   "date": "Sun, 22 Nov 2026 13:41:00 GMT",
+   "vu_le": "2026-11-22T13:50:34.836399+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Palantir Grew Revenue 85% and Raised Full-Year Guidance by 10 Points — So Why Is PLTR Down 26% YTD? - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNmM2SURNRGVLR0RMNmJYbUJidUVteEZBTkRuejNZX2JTMHo4SG5jVnhlbFBrd0FsUFpSTmg3ZGp6RlpzalpSNTlNVElFRGVJRVdQWjJQb2N4WndtWXpHNFZMQVNlLUJrNEpRMDd1X3kyUHk3cWtIeFBLNGpOOEF1MVc0cXBkUlZHcVhjenM2MDhmQ1NRbGk5TFVPV0xTbGNxRHQ2YlRMcnNINVhrOG9aUUZWQl9wa3BWRTItVmpMcHhVNUNoZXZuLTN4dUJ0Nm5HLWp4MTEtUFo0eFQ0RWYxa1VvVkZZR1JPdVh4XzhMdFBmNGY5MUY5a3NMVmxLSjBTWjlFOHBXb01mSkk?oc=5",
+   "date": "Sun, 22 Nov 2026 00:58:01 GMT",
+   "vu_le": "2026-11-22T13:50:34.836399+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Cisco Raised AI Orders to $9B — So Why Is the Stock Stuck Below $124.62 Resistance? - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT2lKcWZzd0M3R2RBb05UTkUzNUVidXhRYTZQZmNVM2d1OGhBcFJ3ZkFvVmxFaF81NHVIQjYycVlnV0I2RGxMb1c5T3RYLXl4VVhEeGJGdDBHR2RmRmgwNnh1bnpqOVhuTTk4em1CbGFUMUg0MzRhNWdwNW9QaGFweW90ZDJDOHpqT2pKOUJPR29LWjJxMHc0R2JHSkJrNDdfZHNiakJrQ0xyejZMNnNlRzEwZEtpc1pESU1xUXlPdVZwbWNGN2E5OTZBWmUyd2xKSmRWcVJjS2VHd1M0ZHhOZEtBQQ?oc=5",
+   "date": "Sun, 22 Nov 2026 00:19:15 GMT",
+   "vu_le": "2026-11-22T13:50:34.836399+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Tata Steel board approves ₹28,000 crore divestment to APL Apollo - scanx.trade",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT0RkMUszak1YeWVEdmt1cl9vMHZYWmpEY0ZOVjJzNHhtYUlVa3o2MlIyU3lIUEQxZURjSXZTT3ZGZzUzV1dvbzNsbk95dnRDTjFVQWkyeFpqM1laUFpPcEJyYTZ1eG00eFZxMGdCazMtQU16STh5aldKWWlBMDJnMU0xWmJCU3ZWQ2F2bWYzV0VBVU5LQWJDVVFYNldBWVFFeGx6RkhBdkw2dmtsYk9USXNMRGozLUNQ?oc=5",
+   "date": "Sun, 22 Nov 2026 13:49:40 GMT",
+   "vu_le": "2026-11-22T13:50:34.836399+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Top 3 British Defensive Stocks To Watch In November 2026 - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNTFCWlN5NHozQm9kdGtqb3hzTEI3d3RVaHlJS3RmYzhnUHBUMTU3ZExVR2NvWmJlcnZacElXaFFDNFhPcmJ6dnc4RENjYks2bDZXSTBqVS14OHBKbk1SVTZjYkJiRzJvcE4yNkJYRzU0Z1k4eDV2RllQMEM1MVM4MXlrZXhCaHBtdHBfZEtESTNSWEZxRGlNOEdnTQ?oc=5",
+   "date": "Sun, 22 Nov 2026 13:07:23 GMT",
+   "vu_le": "2026-11-22T13:50:34.836399+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "If I Were Building a Portfolio From Scratch With $10,000, I’d Anchor It With This Unassuming Value Stock - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQOHViTWVKOXctS2U3Nk9FVXU1dm1EbDFBd3NLNUc4SFhXd1RocS0xQVJfT3RRZ0pLQllXeXlHVVdnS3E4ckNMeFRfRURtOVhPNUR6WVRoa2FCUEt4bzAxRHZRYlc1YU1nVmVnWGhzMWxJZk1jaDJPT05mUWlCOFpqbm9nNi1oZDVTV3dJNGhKNDJUYU9DM2RMN1E0djBveVhFMWJod3BiSlVzYVI5enVrYUx6R3pMUUFEdzlpeEloRm5seUZ2UTFzdEpvZ1pIZWFtWU45X3h1ZGJvVnk5MlVKQ2FQcVZYSFljU3F5TmdmWGJtc3c4bTdRNnNsNjlELTBia3VHWmlyWmg3UVVWQXFYaXZB?oc=5",
+   "date": "Sun, 22 Nov 2026 13:20:03 GMT",
+   "vu_le": "2026-11-22T13:50:34.836399+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Trump’s Memecoin Gala Returns With Demand Down and Scrutiny Up - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMGM2ckhMOENSc1poZlBPM2p5OUZaN2RhSFplTG1FV2pteDUwdnBSNkVWLVpGcE1uY3Z0bWw3S0VRS3hvc2UwUWpiNkl3Vlk0N3I1NVpUMHJmNHdHaDlkbUplT3pVRGlxeVdRWm9vVjlxdnQ4X0djanpFMUdmeEtwSWhIWm12d0xaX0Nkb29QcEZCWmlMODlTNFRlblVub2pMaXc0Sk9XazBlS21jaUxmcDA3Zw?oc=5",
+   "date": "Sun, 22 Nov 2026 13:00:00 GMT",
+   "vu_le": "2026-11-22T13:50:34.836399+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - Times Union",
@@ -6503,55 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdEVHblZyT0p3RG9sQWp6N183aUUxUEtEdkRVcFVXcnNhYmhqZGptTE9lWUhEQjNsSWNCNE5RLTZONUNrT3VJdHFhTTdxdDA5NlFGV3VDbzcxZWJ1SHMyTUc3b1pocVlOdGlTTlpZR1RaMGR3MGxOd3d6bG9jZkFZZm1DWHRpNkNJZWttSHRHQmUwZm5HQ0k2Y3k3LVgxazh0YUhNUVNmX1Bvekk0bmQ0Q0VoQ19SOEpNdmVXd2tVSlhFMUU4Q0VsQlZHWUJ6S29iUFBGZFp2R0lGclZmeVFYalJzMV9EaGIwM1U5QzVuQUtsMWE1UWExWmFwZTBZUk0xM0E?oc=5",
    "date": "Sat, 21 Nov 2026 12:28:15 GMT",
    "vu_le": "2026-11-22T01:30:39.234655+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Dogecoin price on Nov 21, 2026 at 2pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2RtM3hoUk41YlctcEgtMVZzaVZ6MHlHd1RINTdwMWZ5a1N5M3F4VFMxYjJJUGZNWjRrTFpTYTNxcHNaek9VT1ljeGJHdE9KbjgtVVhNcXhreGp6UG9lSUtyeW1VT2MzUVJ2MWY5QU9md1RpcFZ3cW9XVk82RGZaV25icF9lN2c0YnNmMmFyU3hSVVpKZ0FDQzVhVVg1S3UzbUJvbUZtOVA3YlliNmZ4TVZXUG0?oc=5",
-   "date": "Sat, 21 Nov 2026 18:13:50 GMT",
-   "vu_le": "2026-11-22T01:30:39.234655+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "What Coupang Bears Saw Before The Fall - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaDBhazY4TXNlOUNSQ3BDX28yOFM3bWdIUldJTHktMHlfbFgtN29BQ0FYUWtmOHM3T21iY0NiMGFPVFZvNHY3LVpOZFFzQVR1SGlpN2FkbFJEN2E5aHZRLVkxRUFGNUF3ZFpVaFBjY2ItRDdrTm9EcTBZUTU0X2RWY0NCTkNpVUNKbnFSQTFEUUN5dkMxeElCWGNobGdxQmw1WFHSAacBQVVfeXFMTmtKbFNDUTNaOTFfRXBodE1mR19CcFRhZGdiSXJEOFJKaDI2T19KdHlMRk93UXZsSUlzNFpzY0hJM1gxaHhVc0RVZWszYWp0aTAwUlFCUG14ZHNQVGJKMWIwQnlpdE1Wa0toNDB6TkotWnlrTG9wNXg5MkM4YWdudll0M2xUalFtWVVuWDVlaW92bDlCTHREU3Jnai1hZG56XzV0T19veXM?oc=5",
-   "date": "Sun, 22 Nov 2026 01:09:09 GMT",
-   "vu_le": "2026-11-22T01:20:35.856131+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Le Zcash progresse tandis que les traders surveillent les risques liés aux taux d’intérêt américains et les perspectives d’inflation - Traders Union",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDNGaU9RZTV5Qmk3bVhpVjNzUm1pSUNOZmxCLWF5QzhKc3ZMZ1NFNEFsSmZ3bTVzVVF1U1RaWFlsUmw1Yk9zT2s3UC15MVJZcmtKWkp2eUNZN01sZVVUMHlzcGxiX1lpdU00dVgxS1ZKM0pGV2lvRjhQbHczOWhoM3I2SmRYWEtxbjc2bGkzNmsxcjR1bzFoQmln?oc=5",
-   "date": "Sat, 21 Nov 2026 21:36:29 GMT",
-   "vu_le": "2026-11-22T01:17:11.726067+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China’s AI stocks lose $1.7 trillion as tech selloff deepens By Investing.com - Investing.com UK",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQjRTLUh4X1hIMXVaeVM4T0ROSk5OWGZfdjBRNHpFSWJPd3EzQjRUOTJocno5VERack55ZlJYdERDS0hhV21pMjRMSF9saWppSFlqOEJITEZhSWgxTUZ4WTNxX2tPakdacUpxbGxadXYyNXlPOGxXT0licUhRZ0FHcjdVbHd3cThlbW10d1RrRXI3ZGNIbVRRMFlTS1hRemY3NFh1aTZWSS1ydFVEWmpOaXJoYw?oc=5",
-   "date": "Sun, 22 Nov 2026 01:12:00 GMT",
-   "vu_le": "2026-11-22T01:17:11.726067+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Datadog Stock Forecast: AI Customer Cuts Usage as DDOG Loses $203.55 - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3JiLU5Ea1FRd0VWZ2xRSDhRZERfSlhTRHdKdzB3RFJuMDdmTDFMdkJzQzNUVzJUMGpKc05VLXpnb2YtSldfLWVhQk9DaTZiNGdkSlgxUHFJVjRXWjhVRGZKZF9PSm1HbldaalFhZnRnZ0xtU2hLZldMandBTlZaSzRYdFR3NURuZFlsbXkzbHdpTjJfZUhGeDRaMXQyMmdPcUoxcnh5ZjJOcVBqb3ZvdjFlMXJodw?oc=5",
-   "date": "Sat, 21 Nov 2026 22:17:12 GMT",
-   "vu_le": "2026-11-22T01:17:11.726067+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Innotech's (TSE:9880) Performance Raises Some Questions - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRDJrUkYtdFNqNjVQVDFHRlVkWFNvTXNBUDdzbnRQUUsxajdxWFpwR3FtVUVWV0lNX2FkWEh1SE1xYnVoemNvZW1sYklTendiOW9DY1lUQVF6UWx4UGJMQXFFd1VQYmUwRDJaYlpnb3B6OEp4cEhOQmM3U1RDeFZiUVQwN2xpZHh2akoybmc5QVRCYXJXQTdrN0xwT2lNWGhxZXBpb2VCcG8xeWJGdHVUOEZ4cWJkYzJ0Vk1tdERhTdIBvwFBVV95cUxPRDJrUkYtdFNqNjVQVDFHRlVkWFNvTXNBUDdzbnRQUUsxajdxWFpwR3FtVUVWV0lNX2FkWEh1SE1xYnVoemNvZW1sYklTendiOW9DY1lUQVF6UWx4UGJMQXFFd1VQYmUwRDJaYlpnb3B6OEp4cEhOQmM3U1RDeFZiUVQwN2xpZHh2akoybmc5QVRCYXJXQTdrN0xwT2lNWGhxZXBpb2VCcG8xeWJGdHVUOEZ4cWJkYzJ0Vk1tdERhTQ?oc=5",
-   "date": "Sat, 21 Nov 2026 23:45:08 GMT",
-   "vu_le": "2026-11-22T01:17:11.726067+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Overview #87 — Exit Liquidity - Smartkarma",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOGVEVFlzenpUUFZQVkJ4SENlX1Q1cC1ta3RzZUczcTNEZmk2Mm95VXlvVUt6VWlPZGk3QWY1a2lYbExMNE5qWnNCZThvSFFpRk8xSlViZS00N0o1bjBXaXViU0VCT0dya1hFU2E4VVNCWmN0aVJMNXBDNmUyb19iVlBPa2hzUnlwMW14RVNfVWVzNC1fVWczcg?oc=5",
-   "date": "Sun, 22 Nov 2026 00:45:14 GMT",
-   "vu_le": "2026-11-22T01:17:11.726067+00:00"
   }
  ],
  "erreurs": []
