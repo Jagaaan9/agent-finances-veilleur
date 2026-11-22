@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T00:50:35.136510+00:00",
+ "mis_a_jour": "2026-11-22T01:00:36.614176+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54940.12,
+   "prix": 54857.01,
    "devise": "EUR",
-   "jour_pct": 0.09,
-   "mois_pct": -24.18,
-   "volume": 3.36829711,
-   "volume_relatif": 0.01,
+   "jour_pct": -0.06,
+   "mois_pct": -24.3,
+   "volume": 3.65184224,
+   "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Que s'est-il passé avec le Bitcoin avant ces deux introductions en bourse historiques ? - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGktblZTOEpJT0FhWG5sY0dUSmwwOXFTbVdHLWJXa3VHVXlBVFBmclQyc0UzZTVWZHJHaHhyNEtDZ2JnczM5aDA0NkJINzJkQTIyVjQtaFpmbUNoZUJUOVdWc09XNHBxeGhVSGF1WWRSYXZOODVYNnZ4dG5VcEJvNjJmdXBDelhOeDRoYw?oc=5",
+   "date": "Sat, 21 Nov 2026 23:12:46 GMT",
+   "vu_le": "2026-11-22T01:00:36.614176+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "UBISOFT Cours Action UBI, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzYVl2bkJhY2piTnlTanhRbW1HdWRCdUlVWEx0QTlZbGdqM2M0dVVkZG5hZUVYdEhWRDRMUGJIdjk1cHdJTUdpd2VTNDBqRkNHV2c?oc=5",
+   "date": "Sun, 22 Nov 2026 00:55:04 GMT",
+   "vu_le": "2026-11-22T01:00:36.614176+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFM5M0lfajByTmNXWHhadkRCd19qQUJGU1FUM0ZUQnBXdVhDQU42NVF1X2RuUHJXUUt4QW41UWpnWS12aHNsX1JZU0RtSTBacFZTU0dncHpmOTRTLWJMbGRwY2pSeHFOTTI3dFFmcXJlRnQwcnRQSjlMSTh1a1pjdkRNQ1dCQlJlSGZPcXZQRk9MdUJBaWlUVFBzT2xCaUV2cUtQTXVCVVY0S0xDWFJEMQ?oc=5",
+   "date": "Sun, 22 Nov 2026 00:00:00 GMT",
+   "vu_le": "2026-11-22T01:00:36.614176+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "At 74, a Machinist Planned to Pay for His Nursing Home With $150,000 in Bitcoin. After the Crash It’s Worth About $90,000, and the Loss Will Get Him Onto Medicaid About 5½ Months Sooner - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZEV0SW5zQktJcmJfaUFmRW85b3RpTzItQVFCNC1CcG15RmtJZ2lyVFVUM1N6SGhkWkZ3UkdyRkp4bkZCbWtlUGt2R1BCYUVVTzJmNV9SY1c4blo0WDRJbVpwMEZMMWlkZHFoODVReGlIT3c1ZFFjeFVDczdwZ2VzX0F3TlNxMmZRZ1ZoTWx2blg2X19BSEFDVHJsb1A5Zw?oc=5",
+   "date": "Sat, 21 Nov 2026 22:27:31 GMT",
+   "vu_le": "2026-11-22T01:00:36.614176+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "NVIDIA Cours Action NVDA, Cotation Bourse NASDAQ - Boursorama",
@@ -6523,34 +6551,6 @@
    "titre": "Chinese regulator fines Baidu $75,000 over live-streaming business acquisition - Reuters",
    "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd3BjYmNDbHppdWZkdFNXM2dCNUVKRDZENmp2dGZMVXVvX2xDVV9BSEZ5WUdHZVJjRVRnRkpZU01Qa1ZoSFkzM2F1bjNkZzk5YTdqMFFuT1BWSXY0QXFXVE1XNTdPXy1ld0wwSmZ4a0ZxZkVUNzZ0c3pNdTE3VkgxV1Rud2lTRk8zVTZNQ2tZdlcwalZRMEU0NHNWLXpabjlJeFdaRG1rR0dpdHRqY3RfMWYwNzJsZG9YVjMtbFpFbUJaVTVfVHRsNg?oc=5",
    "date": "Fri, 20 Nov 2026 18:40:27 GMT",
-   "vu_le": "2026-11-21T12:30:35.985569+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "If AI Chips Become Commoditized, Nvidia Has the Most to Lose, While These 3 Stocks Are Set to Gain - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPazQ2QjlWenhKR0pYTjhBSkFiZXhZcGMxRXNmb0o0aGhZNUwybVRGS2NiQVV5d0thb2ZOZll1UmtrR1ZWcW9qajloeWcxQTJWUUdPMDFtNmpUU2w4RVIxYm5MRmFFWng3T0xyWlY1TlgzVjJSR3FRaDRGU2JxNkNJLUFVQmlXbzFxT2h1Q25SS3pxbm8wWDFrTHdxbEZPSE5JZTdjVl9uOXYwTzhiYVc5djM4X1VTZktHS2lSV1RXcU8tZ3o4ODNYR0VMYVViQW5XcWlwZVdBb01USlJ0QWtwc0xsRl9lYTRHWmFLQVM5dFdiczJLLTZ4QzdzcjlTV1luaG1GdHotZWd0eVE4REk0?oc=5",
-   "date": "Sat, 21 Nov 2026 12:03:01 GMT",
-   "vu_le": "2026-11-21T12:30:35.985569+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "International Tower Hill Mines CEO & Director Acquires 51% More Stock - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ1p6ZVFmWDJ1Y0dLSGJPbjZKS1czejhSVWFCRTVTVzNRQjZ3djZVRGlJTjJFODAwZzdmc3EzVTBlcWlaSFVZalN0bEdqUjZIQ2RPYlVpSjJiUnI3OFg1VlNzdXFlRXc4cDBfQ0t2NURaTjlkMll0VUIxbDNsLXlScWo3ZDRPb2RZMl9JWDFYLUQ1S3NzSFo3aWllRHVtLVFoMHB2RmNxdXRTZ05hSlJNNC1jZVBJdUZWa2ZrR0J4akNPeFhDVWt3a0puVDdsZzBrWEtKQ3p5bWoxdjZOU3JfN0dsSXQ0WHUz0gHuAUFVX3lxTE1LLUJMRmx4UWV5cENTTXp0bTNDTFdpVjN1QURqZ3RjOHFjTnhncVJPNXdjakw4UDcwa1Qwa2h6QUdHMDZ4YmtZaXF2ajQ1VWFXQW5ISTdkd2dINTJiM0tNdDU1d0haQ3lMenlVUmsyMG45eHZGTXFqeHpJN0pUbklQZG90OGlaaXN6a0RwcEtQVUFVRmVKdHgyakg5T1FpTE1TaHE1ak1CQ3o5QU16QUJtS0YtQ2c3S3NacU5FcENVYTlxQ1M4bXR3UXNvTU83TEY4VWpZOTFPWGgwdnR2WDdGeGVPb29CTE9ORnh0eXc?oc=5",
-   "date": "Sat, 21 Nov 2026 12:11:45 GMT",
-   "vu_le": "2026-11-21T12:30:35.985569+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Piyush Goyal's Egypt visit advance trade and startup Collaboration; EaseMyTrip Chairman Rikant Pittie Leads 23-member CII startup delegation - https://www.indiagazette.com/",
-   "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPM2thN3dGV0RHX2h6el81cEpRb193U3JmRHJlTmJMVkJUWUJocFRFM3F0NGJSVTVBa243UG1ac2xHNGFtSXNXQnZPY0otMkN0MWZHa3J4d1RLbWJwd3NRQ3FHZU9zMWNrU0RKT3gxVkduU1JQODdkY3pwYU1EUTIyZkh0djRJdFlmRlJVdEVuWTZ4YS1hRkNhcVp5d3NqY2pEVmZDYnFld2J3dHJTXzFqbGtqd21ja0o5S1NWUGdwejJQR0UtRXREWXRwZ1VpMWNhUHVTaENYWDFpSUYwQTdCbzBRT21tcmRtTFpBYjBsa21VRjRjd2xwV0RJT1FGYUdVME5jM1B6UzExTklFV0E?oc=5",
-   "date": "Sat, 21 Nov 2026 07:35:00 GMT",
-   "vu_le": "2026-11-21T12:30:35.985569+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Sam Bankman-Fried Crypto Case: Anthropic Stake at $43B - Bitcoin Foundation",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVkROdFJWLUNEYjJ6MF8xOGhEd2RhZDRmU1lkT2FQS0laN0hQdzdEbS13eXN4UHk2d0JaN2ZqeDFhSEYwWFBkSXlrUjZIWkRRSGg4bkx5dndrOE10aU5hUGQ3UFpobWFiSlJieGJKR2w2ZXFkUmpiRU5PWU9uYlRveGwxdDhsR1BWaFBpeVZoOTdhOFI3alg2aFRJTUhOdFdaUk1UcndHM0JNSlpRWXpzZmRyOXpSQQ?oc=5",
-   "date": "Sat, 21 Nov 2026 12:22:34 GMT",
    "vu_le": "2026-11-21T12:30:35.985569+00:00"
   }
  ],
