@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T03:40:35.173258+00:00",
+ "mis_a_jour": "2026-11-22T03:50:34.815576+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53988.44,
+   "prix": 53913.37,
    "devise": "EUR",
-   "jour_pct": -1.64,
-   "mois_pct": -25.5,
-   "volume": 11.23505801,
+   "jour_pct": -1.78,
+   "mois_pct": -25.6,
+   "volume": 11.51925668,
    "volume_relatif": 0.05,
    "capitalisation": null,
    "per": null,
@@ -3754,6 +3754,48 @@
  },
  "actualites": [
   {
+   "sujet": "Banques centrales et taux",
+   "titre": "Le Bitcoin tombe sous les 60 000 dollars et menace d'entraîner le marché - Génération NT",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOFZKanhPZElEZC1PdXVNMWxGYnhhcWtNeTUxQm45cmd6X0g5WVNZQXl5cnUzMzlzWVBhQnhMQUg1V0YycFhrYnZPMEM0Z28zNTVpTVlSZDFXOW5ELWdXQ1ZPVUlHUGxHZkpQUHJIUXhJZ0hQRE8zbzZ0Z0FQeXJrcDJxaWFkbk10ODlZUEZpY2IwVWFxZmg5bnV1ejdGQdIBowFBVV95cUxNTGpja20ybmpBSG1FYmF3OTRkZ05XejljQk1GakJhNnVSdU8zR0ZDOVd6Mm03U0M5SWg2Q05HT0g2ZVRCZkFFZ3JWN1otN193clhveHpBSDdFYjJPWUQ1alZPNXJJWmlyZzFwZTk5YlRkM0Q4b0dpRi1KQ09OdVQ1UXhZQTdIcWJxZkFZV3JxZWNmbjNoTzVNX1R6bnhwbDBtT09J?oc=5",
+   "date": "Sat, 21 Nov 2026 17:30:01 GMT",
+   "vu_le": "2026-11-22T03:50:34.815576+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China’s $1.7 Trillion Rout Hits AI Stocks: Full Details - JournalArta",
+   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWnNibnpDcFZKdmM3NTRGMTQ0NlBrelJVNUxNMmNBaExnY1JydkR6QmFocHpYSFY1SEtSSjZTQTduemNLZF8xT01nTW9pMm5BTFM2bGR6R0RybmFjejktQWNwYTFZZ19OdE9hVTUyLVk1THJ4Qmt1NUV5NjJKYmJRUzlXSW04MnFHRlE?oc=5",
+   "date": "Sun, 22 Nov 2026 03:43:31 GMT",
+   "vu_le": "2026-11-22T03:50:34.815576+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "What Costco Wholesale Buyers Were Betting On - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaEhCLUpZWVBWcVlJeGJlUVZPM1U1MV9qMHphbzdzT2lVNmJIWW4xengtSUZmX3JMdV9yWXkwOVRDbV9ZTnBPV21HTFNNbWZmQTg0U0k4cEZmQ0RsRHR2dTJnc2EyRjlCT0dUcUtXdE9OOFZwdlJIWUFJSlR1eFhlNE56UDRjTDVrdEZVLU9tbVBvem1iMFZvNUQ2eEoweFM5TmRNUi1mTWM5dUkzNXJGMU5SOHZPVURLaFI5T1UxWjRJQ3lrU2RCUw?oc=5",
+   "date": "Sat, 21 Nov 2026 10:09:59 GMT",
+   "vu_le": "2026-11-22T03:50:34.815576+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "HawkEye 360, Inc. (HAWK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uZ0o5Z2RqOF9Xa3h3bk5kNlN4S3VHZ21uY2xFZjNkZFFobTZvZFBOMndFTVhtNTJiRTlDZVFMR1hRZXd0RU9WamlxOThpa0p4UEE?oc=5",
+   "date": "Sat, 21 Nov 2026 13:35:47 GMT",
+   "vu_le": "2026-11-22T03:50:34.815576+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "MDA Space Ltd. (MDA.TO) stock price, news, quote and history - Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54ZWw4dG9QZGNFUWtkd1ZERnE4QVpjUTdYWXB4UUg5UVE2QkNodUhsX3FVekJHZ1htQ2daU2dIZVJIVlBfX3VGTlNTUVl6a190eFVUUg?oc=5",
+   "date": "Sat, 21 Nov 2026 15:47:09 GMT",
+   "vu_le": "2026-11-22T03:50:34.815576+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Electro Optic Systems Holdings Limited (EOS.AX) latest stock news and headlines - Yahoo Finance Australia",
+   "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93NzQwRldFZG9rRi1UVlRPNm5YU3NHQ2FHYV9JMFc3TzZVZVRFalRqbGRaX2JDVUI0RjBsMGpWMTBrNzBVUkxkTFZMdUpWSWhNY1pvZ1NRcTZTSUE?oc=5",
+   "date": "Sat, 21 Nov 2026 18:03:00 GMT",
+   "vu_le": "2026-11-22T03:50:34.815576+00:00"
+  },
+  {
    "sujet": "Marchés mondiaux",
    "titre": "S&P 500 drops more than 3% as semiconductor stocks lead market selloff - www.equiti.com",
    "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUYwQUZNMTc0ODR5eXlsdUhacFhUNXVlWGpkel9fRldXUlNUTU9CZXpKWjlZcTZJdkNBcEZ6bGdnRHBKVWgzbEJXT1NESHdneEp1ZU9vbThMVzcwaHZqXzlBUWFDemRUbHI4UWh0S2hpZ3k0WV81b2tGMW9IM0FXdkdWeW83T2t3RllTX25kQk0wbWtuYjJkWENia2RhZkltOTZqaUU5dlBFX0xteFJXSHUteHRGQ05XMlN2SDVIZUxmdw?oc=5",
@@ -6510,48 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLTAydHlzVFNSRVFYWlRpSERMUm5OSzB2eU54YzFJbVF5UEpEV2hfWDdEd3NJc2xSalRSREpTeEdYQ3ZONW5sZnZtSmQxcTl2aDByQks4R0NwUDRIcGhidmhfeVozOG85ZF9HZXBUblVMLUpXTFdSS2ZQbmNkYTNMUUIyR2t2YzItN1JJM2tJcUxibXV4OGZjWTdEZ1h2ZEMwOVNxMjZJdw?oc=5",
    "date": "Sat, 21 Nov 2026 15:00:37 GMT",
    "vu_le": "2026-11-21T15:20:36.150054+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Why is crypto crashing? 7 reasons behind the bitcoin crash - CryptoTicker.io",
-   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNml2THZDN2Q3SUdzbGxkTTdyWWJRWmE5eWw5WEpWbXFwZmxDWjRBWHRiMll5M0NzYko4QVlKeVhaRjZ4TUVFTzF5OXBYNUJkUXZKVHBNeHZ0RGgwbzZlNC15bGQtWUdCOXcxMXU0OFB4Sk9NTDhrMm1VdU9ackRZWTVR?oc=5",
-   "date": "Sat, 21 Nov 2026 10:56:08 GMT",
-   "vu_le": "2026-11-21T15:20:36.150054+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Nvidia sinks roughly 40% as AI bubble fears drag Bitcoin below $60,000 - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORVUwZndINF95SnBka3FOYWQwU3JRZkZQSTJfZ21SVXBPRGx6SXVVdW5CSHBwNmk3SmxZaE5SclF4X1YxMlJuWkhxZXMtbXN4NXBPaFFWbjR1a0Naa09hdmZDaUxUSDdpU0F5UmRIdm5sLVE3eDZHcDhrUW1HTEZVRk13b3VYMnVlVmU4RXB6NnBzNm5zMkRuMV9hUnBRMmowR1V5UDlzWmdXSllLQnk2bWFPT200bDFFSk03ZkdhbTZPSW12TWR3Z0FsZVFBdw?oc=5",
-   "date": "Sat, 21 Nov 2026 14:06:08 GMT",
-   "vu_le": "2026-11-21T15:20:36.150054+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Is Anthropic turning into OpenAI? - The Verge",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVJWMDdSVXlIT05KX3ZILTRURV84REVnaG9wTFVjaGtvcEJhZ0E0SWx2YUV5ckF3M1BVaTI2Qm5xYXo0RG04Sm9URkZLc1Z1V2RudC1fbXhpck02dFp4dE5oOEFaZzNBOVFNUU14NXpyUTNxajFncjJrTUVyaGtLbUlENnJBUEdMd0s2YXFLclVaQQ?oc=5",
-   "date": "Sat, 21 Nov 2026 15:00:00 GMT",
-   "vu_le": "2026-11-21T15:10:35.456601+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Lisa Cook, de la Fed, juge de plus en plus urgent de lutter contre l’inflation - Zonebourse",
-   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcFYxTFlzNV90eVNZc05sOE9LcUVkVTFJRlU5azR6LVRyRUlPQ2VaLVhqVm5IQml2Q09yMXMwX2R3X1Zpc2Nid0ZtLWVMMUFyb0tFaG1RNUp0MFdlZTBCWFd0LV9RYjgtWko1WklpekYxN3dKblZQRWdBS3pLelZCbHRTVGoyX0tOc08xcGVQaGpsVm9vTjdESk95bTA0bWZTSi0xckRmTDJFbDU3SnZaRC1BU2xoX3M4SzRBa2tBbV91cGlYenBIeDZDdUR0S2tITEFUVw?oc=5",
-   "date": "Fri, 20 Nov 2026 18:56:31 GMT",
-   "vu_le": "2026-11-21T15:10:35.456601+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "3 Chip Stocks Retail Investors Are Reading for AI Fab Buildout Exposure - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSVVKMjdXUnBDTnlmaW1nZkt3cDVyNmlndE9Qc09EcEc4OThHZDBHcHM2ck5NdVhnc3NzbUNsbDF5eWZLYVZLek5YVjhHQ2R5YnlIODVoS25udFJIaWNPVGdza0d4SmpIdkZYcnBSNVZBcnVxU1Y0SUN5WW1PeHZQNS1mMW40dWpwV3k0a1k5dzBSSzFVWVE?oc=5",
-   "date": "Sat, 21 Nov 2026 14:09:28 GMT",
-   "vu_le": "2026-11-21T15:10:35.456601+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Is Hut 8 Corp. (NASDAQ: HUT) Priced for Too Much AI Growth? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSHpJdHV1VFNHdXBlVGl4UW82NnVkWVo0bnIxLUROM3VSbl81YktnUlAwcFpxUW14b0gzcGhNamt6bHh4Z3dZSjlNWTZxbmdNcDVNXy1fczZ0dlBhLWwycE5uMTcxamEwYXcyVkJzNFVucVBrLU1TNlIwZHVfWGcwVkJLVUliVERPYUpCQUIwaw?oc=5",
-   "date": "Sat, 21 Nov 2026 14:52:05 GMT",
-   "vu_le": "2026-11-21T15:10:35.456601+00:00"
   }
  ],
  "erreurs": []

@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
 - Gold (TVC:GOLD) : 3538.31 USD, jour -2.42 %, mois -14.59 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09654 USD, jour -0.02 %, mois -2.37 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53988.44 EUR, jour -1.64 %, mois -25.5 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 53913.37 EUR, jour -1.78 %, mois -25.6 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,12 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Banques centrales et taux] Le Bitcoin tombe sous les 60 000 dollars et menace d'entraîner le marché - Génération NT
+- [Chine et Asie] China’s $1.7 Trillion Rout Hits AI Stocks: Full Details - JournalArta
+- [Petites valeurs en croissance] What Costco Wholesale Buyers Were Betting On - Simply Wall St
+- [Défense, énergie, matières premières] HawkEye 360, Inc. (HAWK) Stock Price, News, Quote & History - Yahoo! Finance Canada
+- [Défense, énergie, matières premières] MDA Space Ltd. (MDA.TO) stock price, news, quote and history - Yahoo Finance UK
+- [Défense, énergie, matières premières] Electro Optic Systems Holdings Limited (EOS.AX) latest stock news and headlines - Yahoo Finance Australia
 - [Marchés mondiaux] S&P 500 drops more than 3% as semiconductor stocks lead market selloff - www.equiti.com
 - [Intelligence artificielle] Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off? - Yahoo Finance
 - [Intelligence artificielle] Billionaire David Tepper Just Made a Massive AI Chip Rotation — Will It Pay Off? - AOL.com
@@ -454,9 +460,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Bourse de Paris et Europe] L'art de tout avoir ? La manifestation d'intentions, nouvelle foi des réseaux sociaux - Bourse Direct
 - [Bourse de Paris et Europe] Déraillement en Normandie : la SNCF défend ses agents après un premier point d'enquête - Bourse Direct
 - [Bourse de Paris et Europe] La Finlande a détecté une attaque de drone contre un cargo russe en mer Baltique - Bourse Direct
-- [Bourse de Paris et Europe] Ruffin retire sa candidature et souhaite "bonne campagne" aux "candidats de gauche encore en lice" - Bourse Direct
-- [Bourse de Paris et Europe] Grands titres et actualités sur les capital-actions SSE STAR High-End Equipment Man (000687.SS) - Yahoo Finance France
-- [Crypto] Bitcoin Rebounds Above $60,000 After $2.4 Billion Liquidation Wave Wipes Out Leveraged Bets - BigGo Finance
-- [Intelligence artificielle] The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market - Yahoo Finance UK
-- [Pays émergents] 3 of the best ASX ETFs to buy and hold for 10 years - The Motley Fool Australia
-- [Marchés mondiaux] We May Be Witnessing Wall Street's Biggest Bubble Burst in Real Time (and I'm Not Talking About Artificial Intelligence) - T
+- [Bourse de Paris et Europe] Ruffin retire sa candidature et souhaite "bonne campagne" aux "c
