@@ -8,13 +8,13 @@ POSITIONS ET INDICES :
 - CAC 40 Index (EURONEXT:PX1) : 7927.75 , jour -1.89 %, mois 1.19 %
 - STOXX 50 (TVC:SX5E) : 5941.95 EUR, jour -2.81 %, mois -3.21 %
 - Japan 225 Index (TVC:NI225) : 59024.23 JPY, jour 4.58 %, mois -5.81 %
-- Hang Seng Index (TVC:HSI) : 22384.67 HKD, jour -0.12 %, mois -2.79 %
-- SSE Composite Index (SSE:000001) : 3534.7239 , jour 0.03 %, mois -2.45 %
+- Hang Seng Index (TVC:HSI) : 22405.21 HKD, jour -0.02 %, mois -2.7 %
+- SSE Composite Index (SSE:000001) : 3538.948 , jour 0.15 %, mois -2.34 %
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
-- Gold (TVC:GOLD) : 3627.527 USD, jour 2.52 %, mois -9.89 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09995 USD, jour 0.31 %, mois -1.92 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55867.49 EUR, jour 0.13 %, mois -22.85 %
-- United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.948 , jour -0.04 %, mois -0.02 %
+- Gold (TVC:GOLD) : 3635.906 USD, jour 2.76 %, mois -9.68 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.10016 USD, jour 0.33 %, mois -1.9 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55806.57 EUR, jour 0.02 %, mois -22.93 %
+- United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.952 , jour 0.04 %, mois 0.06 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - Energy World Corporation Ltd (OTC:EWCLF, secteur Utilities) jour 142.33 %, mois -16.72 %, prix 0.0727 USD, capi 280141438.46, PER None, volume x12.24 la normale
@@ -90,27 +90,27 @@ POSITIONS ET INDICES :
 
 ÉCRAN Allemagne : plus fortes hausses :
 - Avacta Group PLC (LS:A2ADP0, secteur Commercial Services) jour 9.09 %, mois -18.18 %, prix 0.72 EUR, capi 342644927.96913904, PER None, volume x6.58 la normale
-- NVIDIA Corporation (TRADEGATE:NVD, secteur Electronic Technology) jour 6.38 %, mois -35.39 %, prix 122.38 EUR, capi 2758951392648.628, PER 14.7, volume x0.07 la normale
+- NVIDIA Corporation (TRADEGATE:NVD, secteur Electronic Technology) jour 6.0 %, mois -35.62 %, prix 121.94 EUR, capi 2758951392648.628, PER 14.6, volume x0.09 la normale
 - HelloFresh SE (XETR:HFG, secteur Retail Trade) jour 5.15 %, mois 4.44 %, prix 3.06 EUR, capi 440894416, PER None, volume x1.4 la normale
-- Stellantis N.V. (TRADEGATE:8TI, secteur Consumer Durables) jour 4.61 %, mois -14.62 %, prix 3.1995 EUR, capi 11782947248, PER None, volume x0.22 la normale
 - AUTO1 Group SE (XETR:AG1, secteur Technology Services) jour 4.04 %, mois -26.26 %, prix 13.65 EUR, capi 3029970412, PER None, volume x1.54 la normale
-- Intrum AB (TRADEGATE:IJU, secteur Commercial Services) jour 3.73 %, mois -42.21 %, prix 0.1447 EUR, capi 453270913.045334, PER None, volume x0.73 la normale
+- Stellantis N.V. (TRADEGATE:8TI, secteur Consumer Durables) jour 3.65 %, mois -15.41 %, prix 3.17 EUR, capi 11782947248, PER None, volume x0.22 la normale
 - freenet AG (XETR:FNTN, secteur Communications) jour 2.92 %, mois 8.26 %, prix 24.64 EUR, capi 2876316694, PER 13.4, volume x1.69 la normale
 - flatexDEGIRO SE (XETR:FTK, secteur Finance) jour 2.49 %, mois -8.26 %, prix 22.22 EUR, capi 2447189500, PER 12.3, volume x2.46 la normale
 - Talanx AG (XETR:TLX, secteur Finance) jour 2.44 %, mois 7.61 %, prix 134.3 EUR, capi 34667454728, PER 12.8, volume x3.0 la normale
 - Fresenius Medical Care AG (XETR:FME, secteur Health Services) jour 2.4 %, mois -1.05 %, prix 37.6 EUR, capi 9990952305, PER 12.6, volume x1.45 la normale
+- Hannover Rueck SE (XETR:HNR1, secteur Finance) jour 1.73 %, mois 7.07 %, prix 293.8 EUR, capi 35425939072, PER 12.8, volume x1.15 la normale
 
 ÉCRAN Allemagne : plus fortes baisses :
 - UBISOFT Entertainment (XETR:UEN, secteur Technology Services) jour -25.75 %, mois -34.07 %, prix 3.174 EUR, capi 444890534, PER None, volume x28.02 la normale
 - Anthropic, PBC Class A (XETR:1ANT, secteur Technology Services) jour -22.64 %, mois -22.64 %, prix 79.68 EUR, capi 1071888998818.0898, PER None, volume xNone la normale
 - Sivers Semiconductors AB (XETR:2DG, secteur Electronic Technology) jour -17.41 %, mois -53.91 %, prix 1.015 EUR, capi 319904486.73041326, PER None, volume x1.47 la normale
 - Almonty Industries Inc. (XETR:ALI1, secteur Non-Energy Minerals) jour -14.95 %, mois -25.79 %, prix 6.008 EUR, capi 1660648462.8783526, PER 25.0, volume x1.1 la normale
-- NVIDIA Corporation (FWB:NVD, secteur Electronic Technology) jour -12.79 %, mois -40.9 %, prix 115.9 EUR, capi 2758951392648.628, PER 13.9, volume x0.94 la normale
 - Advanced Micro Devices, Inc. (XETR:AMD, secteur Electronic Technology) jour -12.29 %, mois -18.56 %, prix 396.9 EUR, capi 634762993169.3616, PER 97.7, volume x1.69 la normale
 - Jenoptik AG (XETR:JEN, secteur Electronic Technology) jour -11.76 %, mois -13.39 %, prix 31.82 EUR, capi 1821316872, PER 18.2, volume x3.57 la normale
 - Eutelsat Communications SA (XETR:E3B, secteur Communications) jour -11.4 %, mois -13.28 %, prix 1.4885 EUR, capi 1736306837, PER None, volume x1.82 la normale
 - NVIDIA Corporation (XETR:NVD, secteur Electronic Technology) jour -10.77 %, mois -36.53 %, prix 124.32 EUR, capi 2758951392648.628, PER 14.9, volume x0.91 la normale
 - Cerro de Pasco Resources, Inc. (LS:A2N7XK, secteur Non-Energy Minerals) jour -10.51 %, mois -21.67 %, prix 0.3705 EUR, capi 215278653.0542712, PER None, volume x23.02 la normale
+- Firefly Aerospace, Inc. (LS:A41ENY, secteur Electronic Technology) jour -10.47 %, mois 6.14 %, prix 15.99 EUR, capi 2770887229.7155576, PER None, volume x8.89 la normale
 
 ÉCRAN Allemagne : volumes anormaux :
 - UBISOFT Entertainment (XETR:UEN, secteur Technology Services) jour -25.75 %, mois -34.07 %, prix 3.174 EUR, capi 444890534, PER None, volume x28.02 la normale
@@ -125,76 +125,76 @@ POSITIONS ET INDICES :
 - Jenoptik AG (XETR:JEN, secteur Electronic Technology) jour -11.76 %, mois -13.39 %, prix 31.82 EUR, capi 1821316872, PER 18.2, volume x3.57 la normale
 
 ÉCRAN Hong Kong / Chine : plus fortes hausses :
-- STAR SHINE HOLDINGS GROUP LIMITED (HKEX:2963, secteur Consumer Non-Durables) jour 44250 %, mois 44250 %, prix 4.435 HKD, capi 20537999039, PER None, volume xNone la normale
-- Shanghai Sunmi Technology Co. Ltd. Class H (HKEX:6810, secteur Technology Services) jour 34.83 %, mois 126.58 %, prix 134.7 HKD, capi 29870146187, PER 370.3, volume x0.75 la normale
-- Hao Tian International Construction Investment Group Limited (HKEX:1341, secteur Finance) jour 34.48 %, mois 200.0 %, prix 0.039 HKD, capi 321765922, PER 390, volume x0.72 la normale
-- King International Investment Limited (HKEX:928, secteur Health Technology) jour 28.44 %, mois 100.69 %, prix 1.445 HKD, capi 208172808, PER 144.5, volume x8.9 la normale
-- Shanghai REFIRE Group Ltd. Class H (HKEX:2570, secteur Utilities) jour 24.5 %, mois -30.99 %, prix 3.43 HKD, capi 265316545.00000003, PER None, volume x2.54 la normale
-- Manycore Tech Inc. (HKEX:68, secteur Technology Services) jour 23.77 %, mois 12.91 %, prix 3.28 HKD, capi 4583517413, PER None, volume x1.54 la normale
+- STAR SHINE HOLDINGS GROUP LIMITED (HKEX:2963, secteur Consumer Non-Durables) jour 42150 %, mois 42150 %, prix 4.225 HKD, capi 20537999039, PER None, volume xNone la normale
+- Shanghai REFIRE Group Ltd. Class H (HKEX:2570, secteur Utilities) jour 38.11 %, mois -23.44 %, prix 3.805 HKD, capi 265316545.00000003, PER None, volume x2.71 la normale
+- Shanghai Sunmi Technology Co. Ltd. Class H (HKEX:6810, secteur Technology Services) jour 34.63 %, mois 126.24 %, prix 134.5 HKD, capi 29870146187, PER 369.7, volume x0.8 la normale
+- Hao Tian International Construction Investment Group Limited (HKEX:1341, secteur Finance) jour 34.48 %, mois 200.0 %, prix 0.039 HKD, capi 321765922, PER 390, volume x0.78 la normale
+- King International Investment Limited (HKEX:928, secteur Health Technology) jour 30.67 %, mois 104.17 %, prix 1.47 HKD, capi 208172808, PER 147, volume x8.93 la normale
+- Manycore Tech Inc. (HKEX:68, secteur Technology Services) jour 24.15 %, mois 13.25 %, prix 3.29 HKD, capi 4583517413, PER None, volume x1.6 la normale
 - Universal Technologies Holdings Limited (HKEX:1026, secteur Utilities) jour 19.75 %, mois 22.78 %, prix 0.097 HKD, capi 445126602, PER None, volume x0.88 la normale
-- Beijing Shougang LanzaTech Technology Co., Ltd. Class H (HKEX:2553, secteur Process Industries) jour 19.57 %, mois -10.8 %, prix 11.15 HKD, capi 3729999972.0249996, PER None, volume x5.33 la normale
-- Nameson Holdings Ltd. (HKEX:1982, secteur Consumer Non-Durables) jour 18.66 %, mois 7.43 %, prix 0.795 HKD, capi 1527192738, PER 6.8, volume x4.86 la normale
+- Beijing Shougang LanzaTech Technology Co., Ltd. Class H (HKEX:2553, secteur Process Industries) jour 18.71 %, mois -11.44 %, prix 11.07 HKD, capi 3729999972.0249996, PER None, volume x5.54 la normale
 - Redco Healthy Living Company Limited (HKEX:2370, secteur Finance) jour 17.3 %, mois -8.05 %, prix 1.085 HKD, capi 217000008, PER None, volume x0.31 la normale
+- Nameson Holdings Ltd. (HKEX:1982, secteur Consumer Non-Durables) jour 16.42 %, mois 5.41 %, prix 0.78 HKD, capi 1527192738, PER 6.6, volume x5.0 la normale
 
 ÉCRAN Hong Kong / Chine : plus fortes baisses :
+- Public Financial Holdings Limited (HKEX:626, secteur Finance) jour -31.85 %, mois -28.03 %, prix 1.605 HKD, capi 2585595975, PER 17.2, volume x3.23 la normale
 - Futong Technology Development Holdings Ltd. (HKEX:465, secteur Technology Services) jour -29.17 %, mois -34.27 %, prix 2.1 HKD, capi 662940580, PER None, volume x3.88 la normale
-- Public Financial Holdings Limited (HKEX:626, secteur Finance) jour -27.81 %, mois -23.77 %, prix 1.7 HKD, capi 2585595975, PER 18.2, volume x3.1 la normale
 - Hevol Services Group Co. Limited (HKEX:6093, secteur Finance) jour -24.71 %, mois -50 %, prix 0.32 HKD, capi 238000007, PER None, volume x1.75 la normale
-- AIROBO Platform Group Limited (HKEX:419, secteur Consumer Services) jour -19.72 %, mois -25.0 %, prix 0.285 HKD, capi 623789800, PER None, volume x5.54 la normale
+- AIROBO Platform Group Limited (HKEX:419, secteur Consumer Services) jour -18.31 %, mois -23.68 %, prix 0.29 HKD, capi 623789800, PER None, volume x6.2 la normale
 - Universal Health International Group Holding Ltd. (HKEX:2211, secteur Retail Trade) jour -16.91 %, mois 37.8 %, prix 0.565 HKD, capi 375857138, PER None, volume x1.47 la normale
-- China Harmony Auto Holding Limited (HKEX:3836, secteur Retail Trade) jour -16.88 %, mois -20.99 %, prix 0.32 HKD, capi 563361669, PER None, volume x8.97 la normale
-- C&D Newin Paper & Pulp Corporation Limited (HKEX:731, secteur Process Industries) jour -16.1 %, mois -32.55 %, prix 0.172 HKD, capi 289993168, PER None, volume x3.42 la normale
 - BFB Health Limited (HKEX:205, secteur Commercial Services) jour -16 %, mois -21.25 %, prix 0.315 HKD, capi 469205292, PER 95.5, volume x14.0 la normale
 - Vision Synergy Holdings Limited (HKEX:627, secteur Finance) jour -15.91 %, mois -37.82 %, prix 0.74 HKD, capi 1051298195.0000001, PER None, volume x0.44 la normale
-- Bairong AI Inc. Class B (HKEX:6608, secteur Technology Services) jour -14.93 %, mois -35.45 %, prix 3.76 HKD, capi 2057856824, PER None, volume x1.66 la normale
+- China Harmony Auto Holding Limited (HKEX:3836, secteur Retail Trade) jour -15.58 %, mois -19.75 %, prix 0.325 HKD, capi 563361669, PER None, volume x9.09 la normale
+- Vala Inc. (HKEX:2051, secteur Finance) jour -14.29 %, mois -15.79 %, prix 0.24 HKD, capi 456395593, PER None, volume x0.96 la normale
+- Want Want China Holdings Limited (HKEX:151, secteur Consumer Non-Durables) jour -13.36 %, mois -12.74 %, prix 2.465 HKD, capi 33089823038.000004, PER 6.9, volume x3.12 la normale
 
 ÉCRAN Hong Kong / Chine : volumes anormaux :
 - China Boqi Environmental (Holding) Co., Ltd. (HKEX:2377, secteur Industrial Services) jour -8.4 %, mois -17.24 %, prix 0.6 HKD, capi 546101429, PER 2.3, volume x129.44 la normale
 - Powerwin Tech Group Limited (HKEX:2405, secteur Commercial Services) jour 0 %, mois 1.67 %, prix 0.305 HKD, capi 244000006, PER None, volume x116.67 la normale
 - TI Cloud Inc. (HKEX:2167, secteur Technology Services) jour -1.55 %, mois -10.14 %, prix 3.5 HKD, capi 618571476, PER 6.6, volume x54.18 la normale
-- Home Control International Limited (HKEX:1747, secteur Electronic Technology) jour -0.85 %, mois -7.63 %, prix 3.51 HKD, capi 1894161850, PER 56.7, volume x39.62 la normale
-- Beijing UBOX Online Technology Corp. Class H (HKEX:2429, secteur Producer Manufacturing) jour -13.04 %, mois -19.71 %, prix 1.1 HKD, capi 1302498241, PER None, volume x32.93 la normale
+- Home Control International Limited (HKEX:1747, secteur Electronic Technology) jour 0.99 %, mois -5.92 %, prix 3.575 HKD, capi 1894161850, PER 57.8, volume x39.75 la normale
+- Beijing UBOX Online Technology Corp. Class H (HKEX:2429, secteur Producer Manufacturing) jour -9.09 %, mois -16.06 %, prix 1.15 HKD, capi 1302498241, PER None, volume x33.61 la normale
 - Infinity Logistics and Transport Ventures Limited (HKEX:1442, secteur Transportation) jour -6.67 %, mois -8.46 %, prix 0.238 HKD, capi 491232011, PER 33.1, volume x31.62 la normale
-- Magnificent Hotel Investments Limited (HKEX:201, secteur Consumer Services) jour 1.35 %, mois 27.12 %, prix 0.075 HKD, capi 644187699, PER 17.9, volume x22.45 la normale
+- Magnificent Hotel Investments Limited (HKEX:201, secteur Consumer Services) jour 4.05 %, mois 30.51 %, prix 0.077 HKD, capi 644187699, PER 18.3, volume x22.93 la normale
+- Shandong Baogai New Materials Technology Co.,Ltd. Class H (HKEX:8090, secteur Process Industries) jour 5.58 %, mois -19.7 %, prix 3.975 HKD, capi 217880543, PER 10.1, volume x22.89 la normale
 - TATA Health International Holdings Ltd. (HKEX:1255, secteur Retail Trade) jour 12.5 %, mois -1.37 %, prix 1.8 HKD, capi 437120991, PER None, volume x21.76 la normale
 - Best Linking Group Holdings Limited (HKEX:9882, secteur Producer Manufacturing) jour 5.7 %, mois -7.22 %, prix 0.835 HKD, capi 667999983, PER None, volume x18.17 la normale
-- SIM Technology Group Limited (HKEX:2000, secteur Electronic Technology) jour 1.85 %, mois -14.06 %, prix 0.275 HKD, capi 572654279, PER None, volume x17.29 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 20.06 %, mois 3.67 %, prix 3.95 CNY, capi 665841152, PER None, volume x1.92 la normale
-- Chongqing Lummy Pharmaceutical Co., Ltd. Class A (SZSE:300006, secteur Health Technology) jour 20.05 %, mois 18.43 %, prix 8.74 CNY, capi 7687034157, PER None, volume x1.04 la normale
+- Chongqing Lummy Pharmaceutical Co., Ltd. Class A (SZSE:300006, secteur Health Technology) jour 20.05 %, mois 18.43 %, prix 8.74 CNY, capi 7687034157, PER None, volume x1.05 la normale
 - Hanwei Electronics Group Corporation Class A (SZSE:300007, secteur Electronic Technology) jour 20.01 %, mois 4.97 %, prix 36.1 CNY, capi 9849564155, PER 73.7, volume x1.26 la normale
 - ValueHD Corp. Class A (SZSE:301318, secteur Consumer Durables) jour 20.01 %, mois 6.85 %, prix 21.53 CNY, capi 2343616089, PER 78.1, volume x5.52 la normale
 - Shenzhen Ampron Technology Co., Ltd. Class A (SZSE:301413, secteur Commercial Services) jour 20.0 %, mois 20.37 %, prix 74.76 CNY, capi 8559524912.999999, PER 350.5, volume x1.0 la normale
-- Shanghai Weihong Electronic Technology Co., Ltd. Class A (SZSE:300508, secteur Producer Manufacturing) jour 20.0 %, mois 21.02 %, prix 38.46 CNY, capi 3516269207, PER 172.3, volume x1.04 la normale
-- Henan Jindan Lactic Acid Technology Co., Ltd. Class A (SZSE:300829, secteur Process Industries) jour 20.0 %, mois 57.99 %, prix 31.44 CNY, capi 5954608212, PER 104.9, volume x1.58 la normale
 - WuHu Foresight Technology Co., Ltd. Class A (SZSE:301529, secteur Producer Manufacturing) jour 20.0 %, mois 10.01 %, prix 154.8 CNY, capi 15164338285, PER 145.7, volume x1.45 la normale
+- Henan Jindan Lactic Acid Technology Co., Ltd. Class A (SZSE:300829, secteur Process Industries) jour 20.0 %, mois 57.99 %, prix 31.44 CNY, capi 5954608212, PER 104.9, volume x1.58 la normale
 - Shanghai Hajime Advanced Material Technology Co. Ltd. Class A (SZSE:301000, secteur Producer Manufacturing) jour 20.0 %, mois 34.99 %, prix 30.48 CNY, capi 6187156746, PER 60.4, volume x1.3 la normale
-- Jiangxi Avonflow HVAC Tech Co., Ltd. Class A (SZSE:301575, secteur Producer Manufacturing) jour 20.0 %, mois 32.78 %, prix 28.68 CNY, capi 2899978157, PER 31.9, volume x3.26 la normale
+- Shanghai Weihong Electronic Technology Co., Ltd. Class A (SZSE:300508, secteur Producer Manufacturing) jour 20.0 %, mois 21.02 %, prix 38.46 CNY, capi 3516269207, PER 172.3, volume x1.04 la normale
+- Jiangxi Avonflow HVAC Tech Co., Ltd. Class A (SZSE:301575, secteur Producer Manufacturing) jour 20.0 %, mois 32.78 %, prix 28.68 CNY, capi 2899978157, PER 31.9, volume x3.27 la normale
 
 ÉCRAN Chine continentale : plus fortes baisses :
-- Piesat Information Technology Co., Ltd. Class A (SSE:688066, secteur Technology Services) jour -19.91 %, mois -48.56 %, prix 3.74 CNY, capi 1433006084, PER None, volume x2.64 la normale
-- Tansun Technology Co., Ltd. Class A (SZSE:300872, secteur Technology Services) jour -18.62 %, mois -35.8 %, prix 9.18 CNY, capi 5506005807, PER None, volume x3.42 la normale
-- Geo-Jade Petroleum Corporation Class A (SSE:600759, secteur Energy Minerals) jour -10.22 %, mois -19.71 %, prix 1.67 CNY, capi 7717157315, PER 20.1, volume x0.55 la normale
-- Shenzhen Ruihe Construction Decoration Co., Ltd. Class A (SZSE:002620, secteur Commercial Services) jour -10.02 %, mois 14.58 %, prix 5.03 CNY, capi 2048761525.9999998, PER None, volume x1.5 la normale
-- Huada Automotive Technology Corp., Ltd. Class A (SSE:603358, secteur Producer Manufacturing) jour -10.0 %, mois -39.7 %, prix 22.31 CNY, capi 11644931198, PER None, volume x0.21 la normale
-- Zhejiang Cady Industry Co., Ltd. Class A (SSE:603073, secteur Consumer Non-Durables) jour -10 %, mois -18.23 %, prix 14.22 CNY, capi 1486893020, PER 42.3, volume x2.5 la normale
-- Chongqing Zhengchuan Pharmaceutical Packaging Co. Ltd. Class A (SSE:603976, secteur Consumer Durables) jour -10 %, mois -25.95 %, prix 22.68 CNY, capi 4324686349, PER 172.7, volume x0.47 la normale
-- Bros Eastern Co., Ltd. Class A (SSE:601339, secteur Process Industries) jour -9.96 %, mois 2.92 %, prix 7.05 CNY, capi 11538045876, PER 11.7, volume x1.9 la normale
-- Xi'an Tourism Co., Ltd. Class A (SZSE:000610, secteur Consumer Services) jour -9.68 %, mois 4.19 %, prix 6.72 CNY, capi 1761404461, PER None, volume x1.6 la normale
-- Shenzhen New Industries Biomedical Engineering Co. Ltd. Class A (SZSE:300832, secteur Health Technology) jour -9.48 %, mois 9.64 %, prix 57.79 CNY, capi 50100248088, PER 25.1, volume x2.5 la normale
+- Piesat Information Technology Co., Ltd. Class A (SSE:688066, secteur Technology Services) jour -19.91 %, mois -48.56 %, prix 3.74 CNY, capi 1433006084, PER None, volume x2.69 la normale
+- Tansun Technology Co., Ltd. Class A (SZSE:300872, secteur Technology Services) jour -15.96 %, mois -33.71 %, prix 9.48 CNY, capi 5506005807, PER None, volume x3.57 la normale
+- Geo-Jade Petroleum Corporation Class A (SSE:600759, secteur Energy Minerals) jour -10.22 %, mois -19.71 %, prix 1.67 CNY, capi 7717157315, PER 20.1, volume x0.56 la normale
+- Shenzhen Ruihe Construction Decoration Co., Ltd. Class A (SZSE:002620, secteur Commercial Services) jour -10.02 %, mois 14.58 %, prix 5.03 CNY, capi 2048761525.9999998, PER None, volume x1.52 la normale
+- Huada Automotive Technology Corp., Ltd. Class A (SSE:603358, secteur Producer Manufacturing) jour -10.0 %, mois -39.7 %, prix 22.31 CNY, capi 11644931198, PER None, volume x0.22 la normale
+- Zhejiang Cady Industry Co., Ltd. Class A (SSE:603073, secteur Consumer Non-Durables) jour -10 %, mois -18.23 %, prix 14.22 CNY, capi 1486893020, PER 42.3, volume x2.54 la normale
+- Chongqing Zhengchuan Pharmaceutical Packaging Co. Ltd. Class A (SSE:603976, secteur Consumer Durables) jour -10 %, mois -25.95 %, prix 22.68 CNY, capi 4324686349, PER 172.7, volume x0.53 la normale
+- Bros Eastern Co., Ltd. Class A (SSE:601339, secteur Process Industries) jour -9.71 %, mois 3.21 %, prix 7.07 CNY, capi 11538045876, PER 11.7, volume x1.95 la normale
+- Xi'an Tourism Co., Ltd. Class A (SZSE:000610, secteur Consumer Services) jour -9.54 %, mois 4.34 %, prix 6.73 CNY, capi 1761404461, PER None, volume x1.63 la normale
+- Shenzhen New Industries Biomedical Engineering Co. Ltd. Class A (SZSE:300832, secteur Health Technology) jour -9.16 %, mois 10.02 %, prix 57.99 CNY, capi 50100248088, PER 25.2, volume x2.54 la normale
 
 ÉCRAN Chine continentale : volumes anormaux :
-- Beijing Transtrue Technology Inc Class A (SZSE:002771, secteur Electronic Technology) jour 9.99 %, mois 49.74 %, prix 17.4 CNY, capi 3318467984, PER None, volume x10.6 la normale
-- CHINA ASSET MANAGEMENT CO CNNC CLEAN ENERGY CLOSED INFRASTRUCTURE (SSE:508050, secteur Finance) jour -0.1 %, mois -0.21 %, prix 6.308 CNY, capi 1894140113, PER None, volume x6.64 la normale
+- Beijing Transtrue Technology Inc Class A (SZSE:002771, secteur Electronic Technology) jour 9.99 %, mois 49.74 %, prix 17.4 CNY, capi 3318467984, PER None, volume x10.63 la normale
+- CHINA ASSET MANAGEMENT CO CNNC CLEAN ENERGY CLOSED INFRASTRUCTURE (SSE:508050, secteur Finance) jour -0.1 %, mois -0.21 %, prix 6.308 CNY, capi 1894140113, PER None, volume x6.65 la normale
 - Zhejiang East Crystal Electronic Co., Ltd. Class A (SZSE:002199, secteur Electronic Technology) jour 10.05 %, mois 3.48 %, prix 10.4 CNY, capi 2300530327, PER None, volume x6.61 la normale
-- Zhejiang Dragon Technology Co., Ltd. Class A (SSE:603004, secteur Process Industries) jour 9.99 %, mois 13.99 %, prix 20.04 CNY, capi 4269667424.9999995, PER 46.9, volume x6.2 la normale
-- Sichuan Guoguang Agrochemical Co. Ltd. Class A (SZSE:002749, secteur Process Industries) jour 6.33 %, mois 12.96 %, prix 9.24 CNY, capi 4766238291, PER 21.4, volume x6.13 la normale
+- Zhejiang Dragon Technology Co., Ltd. Class A (SSE:603004, secteur Process Industries) jour 9.99 %, mois 13.99 %, prix 20.04 CNY, capi 4269667424.9999995, PER 46.9, volume x6.21 la normale
+- Sichuan Guoguang Agrochemical Co. Ltd. Class A (SZSE:002749, secteur Process Industries) jour 6.44 %, mois 13.08 %, prix 9.25 CNY, capi 4766238291, PER 21.4, volume x6.2 la normale
 - ValueHD Corp. Class A (SZSE:301318, secteur Consumer Durables) jour 20.01 %, mois 6.85 %, prix 21.53 CNY, capi 2343616089, PER 78.1, volume x5.52 la normale
-- Shanghai Shengjian Technology Co., Ltd. Class A (SSE:603324, secteur Producer Manufacturing) jour 10.0 %, mois 50.89 %, prix 30.48 CNY, capi 4116332287.9999995, PER None, volume x5.46 la normale
-- MCLON Jewellery Co., Ltd. Class A (SZSE:300945, secteur Retail Trade) jour 15.5 %, mois -4.31 %, prix 9.76 CNY, capi 2214505179, PER 26.7, volume x5.13 la normale
-- GuangDong Leary New Material Technology Co. Ltd. Class A (SSE:688683, secteur Process Industries) jour -2.55 %, mois -24.32 %, prix 18.73 CNY, capi 3096299482, PER 59.8, volume x5.01 la normale
-- Zhejiang Jianye Chemical Co., Ltd. Class A (SSE:603948, secteur Process Industries) jour -2.91 %, mois -4.28 %, prix 18.99 CNY, capi 3178288005, PER 21.7, volume x4.9 la normale
+- Shanghai Shengjian Technology Co., Ltd. Class A (SSE:603324, secteur Producer Manufacturing) jour 10.0 %, mois 50.89 %, prix 30.48 CNY, capi 4116332287.9999995, PER None, volume x5.47 la normale
+- MCLON Jewellery Co., Ltd. Class A (SZSE:300945, secteur Retail Trade) jour 16.09 %, mois -3.82 %, prix 9.81 CNY, capi 2214505179, PER 26.8, volume x5.22 la normale
+- GuangDong Leary New Material Technology Co. Ltd. Class A (SSE:688683, secteur Process Industries) jour -2.29 %, mois -24.12 %, prix 18.78 CNY, capi 3096299482, PER 60, volume x5.11 la normale
+- Zhejiang Jianye Chemical Co., Ltd. Class A (SSE:603948, secteur Process Industries) jour -1.94 %, mois -3.33 %, prix 19.18 CNY, capi 3178288005, PER 21.9, volume x5.09 la normale
 
 ÉCRAN Japon : plus fortes hausses :
 - Medrx Co., Ltd. (TSE:4586, secteur Health Technology) jour 38.96 %, mois 109.8 %, prix 107 JPY, capi 7933739952, PER None, volume x10.34 la normale
@@ -233,40 +233,40 @@ POSITIONS ET INDICES :
 - Terilogy Holdings Corporation (TSE:5133, secteur Electronic Technology) jour 9.81 %, mois -20.38 %, prix 414 JPY, capi 7081979919, PER 225.1, volume x7.44 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- HCL Infosystems Limited (BSE:HCL_INSYS, secteur Technology Services) jour 20.0 %, mois 17.16 %, prix 11.4 INR, capi 3127494049, PER None, volume x40.53 la normale
-- HCL Infosystems Limited (NSE:HCL_INSYS, secteur Technology Services) jour 19.92 %, mois 19.16 %, prix 11.38 INR, capi 3127494049, PER None, volume x21.54 la normale
-- Shalimar Paints Ltd (NSE:SHALPAINTS, secteur Process Industries) jour 16.63 %, mois 41.18 %, prix 113.62 INR, capi 8162677501, PER None, volume x9.74 la normale
-- Shalimar Paints Ltd (BSE:SHALPAINTS, secteur Process Industries) jour 16.28 %, mois 38.44 %, prix 113.38 INR, capi 8162677501, PER None, volume x6.38 la normale
-- HMA Agro Industries Limited (NSE:HMAAGRO, secteur Distribution Services) jour 15.45 %, mois 62.99 %, prix 39.15 INR, capi 17096279826.000002, PER 8.6, volume x7.4 la normale
-- Yaashvi Jewellers Ltd. (BSE:YAASHVI, secteur Consumer Durables) jour 14.8 %, mois 26.01 %, prix 107.74 INR, capi 1653780121.25, PER None, volume x4.93 la normale
-- HMA Agro Industries Limited (BSE:HMAAGRO, secteur Distribution Services) jour 14.67 %, mois 66.03 %, prix 39.15 INR, capi 17096279826.000002, PER 8.6, volume x5.68 la normale
-- Permanent Magnets Limited (NSE:PERMAGN, secteur Producer Manufacturing) jour 14.34 %, mois 44.85 %, prix 1290.65 INR, capi 9682718301, PER 63.2, volume x2.9 la normale
-- Hi-Tech Pipes Ltd. (BSE:HITECH, secteur Non-Energy Minerals) jour 13.72 %, mois 29.47 %, prix 85.71 INR, capi 15308229946, PER 23.1, volume x24.25 la normale
-- Hi-Tech Pipes Ltd. (NSE:HITECH, secteur Non-Energy Minerals) jour 13.6 %, mois 29.55 %, prix 85.7 INR, capi 15308229946, PER 23.1, volume x43.17 la normale
+- HCL Infosystems Limited (NSE:HCL_INSYS, secteur Technology Services) jour 19.92 %, mois 19.16 %, prix 11.38 INR, capi 3127494049, PER None, volume x22.09 la normale
+- HCL Infosystems Limited (BSE:HCL_INSYS, secteur Technology Services) jour 19.79 %, mois 16.96 %, prix 11.38 INR, capi 3127494049, PER None, volume x42.79 la normale
+- Permanent Magnets Limited (NSE:PERMAGN, secteur Producer Manufacturing) jour 16.84 %, mois 48.01 %, prix 1318.8 INR, capi 9682718301, PER 64.6, volume x3.14 la normale
+- HMA Agro Industries Limited (NSE:HMAAGRO, secteur Distribution Services) jour 14.86 %, mois 62.16 %, prix 38.95 INR, capi 17096279826.000002, PER 8.5, volume x7.48 la normale
+- Yaashvi Jewellers Ltd. (BSE:YAASHVI, secteur Consumer Durables) jour 14.01 %, mois 25.15 %, prix 107 INR, capi 1653780121.25, PER None, volume x4.99 la normale
+- HMA Agro Industries Limited (BSE:HMAAGRO, secteur Distribution Services) jour 14.0 %, mois 65.06 %, prix 38.92 INR, capi 17096279826.000002, PER 8.5, volume x5.85 la normale
+- Hi-Tech Pipes Ltd. (BSE:HITECH, secteur Non-Energy Minerals) jour 13.28 %, mois 28.97 %, prix 85.38 INR, capi 15308229946, PER 23.0, volume x24.45 la normale
+- Hi-Tech Pipes Ltd. (NSE:HITECH, secteur Non-Energy Minerals) jour 13.22 %, mois 29.12 %, prix 85.41 INR, capi 15308229946, PER 23.0, volume x43.69 la normale
+- Sambhv Steel Tubes Limited (BSE:SAMBHV, secteur Non-Energy Minerals) jour 12.64 %, mois 12.68 %, prix 178.2 INR, capi 46617022135, PER 26.9, volume x7.89 la normale
+- Sambhv Steel Tubes Limited (NSE:SAMBHV, secteur Non-Energy Minerals) jour 12.6 %, mois 10.59 %, prix 177.98 INR, capi 46617022135, PER 26.9, volume x11.97 la normale
 
 ÉCRAN Inde : plus fortes baisses :
-- APL Apollo Tubes Limited (BSE:APLAPOLLO, secteur Non-Energy Minerals) jour -19.32 %, mois -16.48 %, prix 1712.15 INR, capi 589232781987, PER 36.4, volume x535.16 la normale
-- APL Apollo Tubes Limited (NSE:APLAPOLLO, secteur Non-Energy Minerals) jour -19.26 %, mois -16.38 %, prix 1713 INR, capi 589232781987, PER 36.4, volume x17.48 la normale
+- APL Apollo Tubes Limited (BSE:APLAPOLLO, secteur Non-Energy Minerals) jour -19.7 %, mois -16.88 %, prix 1704 INR, capi 589232781987, PER 36.2, volume x535.71 la normale
+- APL Apollo Tubes Limited (NSE:APLAPOLLO, secteur Non-Energy Minerals) jour -19.66 %, mois -16.8 %, prix 1704.4 INR, capi 589232781987, PER 36.3, volume x17.84 la normale
 - Shine Fashions India Ltd (BSE:SHINEFASH, secteur Process Industries) jour -19.21 %, mois 2.25 %, prix 20.44 INR, capi 508077100, PER 20.9, volume x4.91 la normale
 - Ajwa Projects Limited (BSE:AJWA, secteur Industrial Services) jour -9.98 %, mois -58.45 %, prix 84.35 INR, capi 515406190.00000006, PER None, volume x6.77 la normale
-- Steel Strips Wheels Ltd (NSE:SSWL, secteur Producer Manufacturing) jour -8.82 %, mois 22.38 %, prix 478.5 INR, capi 82532725815, PER 25.7, volume x1.55 la normale
-- Apollo Pipes Ltd. (NSE:APOLLOPIPE, secteur Producer Manufacturing) jour -8.35 %, mois -4.41 %, prix 490.35 INR, capi 23541564410, PER None, volume x1.38 la normale
-- Tata Steel Limited (NSE:TATASTEEL, secteur Non-Energy Minerals) jour -8.22 %, mois -4.41 %, prix 163.36 INR, capi 2218947853271, PER 17.6, volume x4.25 la normale
-- Tata Steel Limited (BSE:TATASTEEL, secteur Non-Energy Minerals) jour -8.07 %, mois -4.58 %, prix 163.4 INR, capi 2218947853271, PER 17.6, volume x4.19 la normale
-- Jupiter Life Line Hospitals Ltd. (NSE:JLHL, secteur Health Services) jour -7.14 %, mois 21.27 %, prix 294.75 INR, capi 104004111649, PER 51.8, volume x0.87 la normale
-- Jupiter Life Line Hospitals Ltd. (BSE:JLHL, secteur Health Services) jour -7.03 %, mois 21.53 %, prix 294.95 INR, capi 104004111649, PER 51.9, volume x1.43 la normale
+- Steel Strips Wheels Ltd (NSE:SSWL, secteur Producer Manufacturing) jour -8.69 %, mois 22.56 %, prix 479.2 INR, capi 82532725815, PER 25.7, volume x1.58 la normale
+- Steel Strips Wheels Ltd (BSE:SSWL, secteur Producer Manufacturing) jour -8.68 %, mois 24.43 %, prix 479.25 INR, capi 82532725815, PER 25.7, volume x2.36 la normale
+- Tata Steel Limited (NSE:TATASTEEL, secteur Non-Energy Minerals) jour -8.46 %, mois -4.65 %, prix 162.95 INR, capi 2218947853271, PER 17.5, volume x4.32 la normale
+- Tata Steel Limited (BSE:TATASTEEL, secteur Non-Energy Minerals) jour -8.3 %, mois -4.82 %, prix 163 INR, capi 2218947853271, PER 17.5, volume x4.25 la normale
+- Apollo Pipes Ltd. (NSE:APOLLOPIPE, secteur Producer Manufacturing) jour -8.0 %, mois -4.05 %, prix 492.2 INR, capi 23541564410, PER None, volume x1.52 la normale
+- Jupiter Life Line Hospitals Ltd. (NSE:JLHL, secteur Health Services) jour -7.21 %, mois 21.17 %, prix 294.5 INR, capi 104004111649, PER 51.8, volume x0.88 la normale
 
 ÉCRAN Inde : volumes anormaux :
-- APL Apollo Tubes Limited (BSE:APLAPOLLO, secteur Non-Energy Minerals) jour -19.32 %, mois -16.48 %, prix 1712.15 INR, capi 589232781987, PER 36.4, volume x535.16 la normale
-- Ruchi Infrastructure Limited (BSE:RUCHINFRA, secteur Transportation) jour 6.33 %, mois 1.36 %, prix 5.21 INR, capi 1156522194, PER 14.8, volume x529.45 la normale
-- SJ Corporation Limited (BSE:SJCORP, secteur Consumer Durables) jour 1.0 %, mois 6.07 %, prix 202.6 INR, capi 8697013173, PER 477.6, volume x74.1 la normale
-- Ruchi Infrastructure Limited (NSE:RUCHINFRA, secteur Transportation) jour 4.44 %, mois -2.27 %, prix 5.17 INR, capi 1156522194, PER 14.7, volume x49.9 la normale
-- Hi-Tech Pipes Ltd. (NSE:HITECH, secteur Non-Energy Minerals) jour 13.6 %, mois 29.55 %, prix 85.7 INR, capi 15308229946, PER 23.1, volume x43.17 la normale
-- HCL Infosystems Limited (BSE:HCL_INSYS, secteur Technology Services) jour 20.0 %, mois 17.16 %, prix 11.4 INR, capi 3127494049, PER None, volume x40.53 la normale
-- Windsor Machines Limited (NSE:WINDMACHIN, secteur Producer Manufacturing) jour 11.46 %, mois 23.45 %, prix 358 INR, capi 33143223144.000004, PER None, volume x38.56 la normale
-- Parvati Sweetners & Power Ltd. (BSE:PARVATI, secteur Process Industries) jour 4.86 %, mois 6.11 %, prix 7.12 INR, capi 1012686492, PER None, volume x38.26 la normale
-- Windsor Machines Limited (BSE:WINDMACHIN, secteur Producer Manufacturing) jour 11.83 %, mois 24.87 %, prix 358.25 INR, capi 33143223144.000004, PER None, volume x31.68 la normale
-- Hi-Tech Pipes Ltd. (BSE:HITECH, secteur Non-Energy Minerals) jour 13.72 %, mois 29.47 %, prix 85.71 INR, capi 15308229946, PER 23.1, volume x24.25 la normale
+- APL Apollo Tubes Limited (BSE:APLAPOLLO, secteur Non-Energy Minerals) jour -19.7 %, mois -16.88 %, prix 1704 INR, capi 589232781987, PER 36.2, volume x535.71 la normale
+- Ruchi Infrastructure Limited (BSE:RUCHINFRA, secteur Transportation) jour 6.33 %, mois 1.36 %, prix 5.21 INR, capi 1156522194, PER 14.8, volume x529.54 la normale
+- SJ Corporation Limited (BSE:SJCORP, secteur Consumer Durables) jour 1.0 %, mois 6.07 %, prix 202.6 INR, capi 8697013173, PER 477.6, volume x77.88 la normale
+- Ruchi Infrastructure Limited (NSE:RUCHINFRA, secteur Transportation) jour 5.05 %, mois -1.7 %, prix 5.2 INR, capi 1156522194, PER 14.7, volume x50.08 la normale
+- Hi-Tech Pipes Ltd. (NSE:HITECH, secteur Non-Energy Minerals) jour 13.22 %, mois 29.12 %, prix 85.41 INR, capi 15308229946, PER 23.0, volume x43.69 la normale
+- HCL Infosystems Limited (BSE:HCL_INSYS, secteur Technology Services) jour 19.79 %, mois 16.96 %, prix 11.38 INR, capi 3127494049, PER None, volume x42.79 la normale
+- Windsor Machines Limited (NSE:WINDMACHIN, secteur Producer Manufacturing) jour 11.53 %, mois 23.53 %, prix 358.25 INR, capi 33143223144.000004, PER None, volume x38.92 la normale
+- Parvati Sweetners & Power Ltd. (BSE:PARVATI, secteur Process Industries) jour 4.86 %, mois 6.11 %, prix 7.12 INR, capi 1012686492, PER None, volume x38.35 la normale
+- Windsor Machines Limited (BSE:WINDMACHIN, secteur Producer Manufacturing) jour 12.1 %, mois 25.17 %, prix 359.1 INR, capi 33143223144.000004, PER None, volume x31.85 la normale
+- EIH Limited (BSE:EIHOTEL, secteur Consumer Services) jour -0.06 %, mois 12.81 %, prix 334.15 INR, capi 209090523009, PER 28.5, volume x28.94 la normale
 
 ÉCRAN États-Unis : meilleures performances sur 1 mois :
 - Bgin Blockchain Ltd. Class A (NASDAQ:BGIN, secteur Technology Services) jour -14.26 %, mois 155.85 %, prix 4.81 USD, capi 544183869, PER None, volume x0.61 la normale
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586430196.780672, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,15 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] De SpaceX à Anthropic: Bulle tech: les fortunes bien introduites ont touché le jackpot - Bilan
+- [Anthropic (FR)] Les Bourses d'Asie continuent de chuter face aux inquiétudes sur l'IA, Séoul en tête - Le Figaro
+- [Bourse de Paris et Europe] Prudence en Europe après la purge de Wall Street - Zonebourse Suisse
+- [Rachats et fusions] PCC Merger Notification Philippines: 2026 M&A Guide - Global Advisory Experts
+- [Rachats et fusions] United States: TotalEnergies Strengthens its Partnership with Continental Resources to Develop its Gas Production - Quantisnow
+- [Rachats et fusions] Hammer Metals completes 1-for-35 gold asset demerger - grafa.com
+- [Crypto] Mike McGlone Says Crypto Crash Is A Preview Of The 'Everything Bubble' Bursting, Sees Bitcoin At $10,000 Again - Yahoo Finance
+- [Crypto] Bitcoin Climbs Above $61,000 as Wall Street Hopes for a Rebound - www.trendingtopics.eu
+- [Crypto] HYPE price on Nov 23, 2026 at 3am EST Crypto Prediction Market - Robinhood
 - [Anthropic] Ripple CEO Says Crypto Will Rebound After Anthropic IPO, as It Did After SpaceX - bloomingbit
 - [Marchés mondiaux] US stock futures rebound as Asian stocks tumble. There may be more trouble ahead for the AI trade. - Business Insider
 - [Marchés mondiaux] Wall Street plunges 10%: Is it time to buy or sell? - Ynetnews
@@ -453,12 +462,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Intelligence artificielle] AI Bubble Deflating? Dell's $95B Backlog Faces a Test - shattered.io
 - [Crypto] Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP remain vulnerable as bears drive prices toward yearly lows - www.tmgm.com
 - [Marchés mondiaux] WSJ: "The AI Mini-Bubble Has Already Burst" — Flags Leverage Overheating in South Korean Stock Market - BigGo Finance
-- [Intelligence artificielle] AMD vs. Nvidia Stock After Jensen Huang’s Exit: 1 Trades at Nearly 4x the Other’s Earnings Multiple. Here’s the AI Chip Stock I’d Buy Now. - Yahoo Finance
-- [Crypto] Russia Allows Exchanges to Offer Crypto Trading; Moscow Exchange Targets Dec. 1 Pilot - TradingView
-- [Anthropic] Anthropic IPO and Bitcoin Price Drop: What the Evidence Shows - KuCoin
-- [Anthropic (FR)] Wall Street : Anthropic s'envole de 34 % dans les premiers échanges, atteint 2.000 milliards de dollars de valorisation - Ahraminfo
-- [Marchés mondiaux] U.S. Stocks Mostly Lower After Nvidia Earnings Fail to Soothe Nerves - WSJ
-- [Banques centrales et taux] Silver Price Forecast: XAG/USD holds opening gains as Fed bigger rate hike prospects wane - tmgm.com
-- [Chine et Asie] Hong Kong Stock Market Open | Hang Seng Index opens 1.08% lower; auto stocks decline, with Li Auto-W (02015) down 5.82% - Moomoo
-- [Intelligence artificielle] Worried About Nvidia? Buy This Fantastic Artificial Intelligence (AI) Stock Instead - The Globe and Mail
-- [Pays émergents] MSCI discussed avoiding Indonesia downgrade with 
+- [Intelligence artificielle] AMD vs. Nvidia Stock After Jensen Huang’s Exit: 1 Trades at Nearly 4x the Other’s Earnings Multiple. He
