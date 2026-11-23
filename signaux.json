@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-23T01:00:37.438716+00:00",
+ "mis_a_jour": "2026-11-23T01:10:41.610481+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3573.151,
+   "prix": 3603.845,
    "devise": "USD",
-   "jour_pct": 0.98,
-   "mois_pct": -11.24,
+   "jour_pct": 1.85,
+   "mois_pct": -10.48,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,12 +160,12 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09792,
+   "prix": 1.09822,
    "devise": "USD",
-   "jour_pct": 0.13,
-   "mois_pct": -2.1,
-   "volume": 12132,
-   "volume_relatif": 0.07,
+   "jour_pct": 0.15,
+   "mois_pct": -2.07,
+   "volume": 13873,
+   "volume_relatif": 0.08,
    "capitalisation": null,
    "per": null,
    "bourse": "FX",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55769.58,
+   "prix": 55441.12,
    "devise": "EUR",
-   "jour_pct": -0.04,
-   "mois_pct": -22.98,
-   "volume": 6.06447805,
-   "volume_relatif": 0.02,
+   "jour_pct": -0.63,
+   "mois_pct": -23.44,
+   "volume": 6.34334852,
+   "volume_relatif": 0.03,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:300812",
-    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
-    "prix": 18,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 11.46,
-    "volume": 28918012,
-    "volume_relatif": 5.28,
-    "capitalisation": 3529941284,
-    "per": 2857.1,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:301313",
     "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
     "prix": 59.16,
@@ -1933,6 +1919,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SZSE:300812",
+    "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
+    "prix": 18,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 11.46,
+    "volume": 28918012,
+    "volume_relatif": 5.28,
+    "capitalisation": 3529941284,
+    "per": 2857.1,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3493,6 +3479,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0lsWGMtQzFaN3pHeFA3ZFVNLWdHN0lDcVZESDA4UFZUVlVpXzhTdllpOHhTZDBzX2pvT3dEdDNZS1laUnh0bzVWZS16WXZyYlVvTW5qU3VVOXVzSzFVTlRWbzB2eFhoS0VVVk14WGU0aGQxLUxaOG1Gb01lTURmMERJaDhEVkVoNXdxdFNLTVZLdXFGWjZ4WWJWajV4NmZaTEhuUmFLY1BzVHQxQTRoZ1l4WQ?oc=5",
+   "date": "Mon, 23 Nov 2026 00:16:00 GMT",
+   "vu_le": "2026-11-23T01:10:41.610481+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair - The New York Times",
+   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVzVyaXo0aXJLT2VuWXdDRlJIWEw1RDBlTWtxcG9RN2ZydEN0T2U5dnlCRnJXWFVKeVZ2X2JXUmpHUTQ5d0tCNHFGc0VKZHE4TFdVQXFId1k5YkRGU29pdF9VM3FES1ZDbEItTW9rQWRYQTVTakxtMG1uVnZwV1ZTRmc4XzV0MmtVX2NWYUhvWHM?oc=5",
+   "date": "Mon, 23 Nov 2026 00:05:50 GMT",
+   "vu_le": "2026-11-23T01:10:41.610481+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "At JP¥644, Is CMK Corporation (TSE:6958) Worth Looking At Closely? - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaHhfRGJ1Z0pBT0lWTTdSX2EwVWc5ZWttUEZOZ3h5WUdNZW15aWQwYzBkNFdQVmcwdXlXbk5qMWwxamtpc1puMGRJQ2wtdUpBQkNxb1h0YnhiT2ZvSjRaVGJyZXQ1VE1RWVZ1ZzJROUZKUFFENGRYZHNtV2tfbVNLZVg2TXRwZXdsREgtNkpSTkNsSlFfaVZQMzFINmxHbkwxUjlWdE9BWmJ0dTBOOU95YzdTVmRaaFNKbWduSUR6Y9IBxAFBVV95cUxOWjlmX1FLX3ZNVDlyTXo1MWtqSnNXOXhzVDVIMUV6ek5aREtqT01WbHhfd3NjeVh0T2FlRE1NcWIxaGdXekpOSlV2Tkx3Q09zcEZ2SGtzcFlnZXpxa3lsOWdtSGwyWGhOVzlQckhFZl9fUUdrUTZpRWxEWXJOV3lRTzQ4OUdaSjhlMWxaaWRhQWdzR0tId0pSbm5OWjl4UkdXdl9QcmxZMWprTWhCeUFveXJSNmlsZVN2SlBRY1lPZ0dRM2t3?oc=5",
+   "date": "Mon, 23 Nov 2026 00:54:38 GMT",
+   "vu_le": "2026-11-23T01:10:41.610481+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "How to Invest in Vanguard Morningstar Value ETF (VTV) - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ2s2b3FyRlQ3RGFUMjN4VGl1Ym54MHRDR2ZqM2ZURlZpdEg4UVBPaVZ1OGZJY05DSVVkSTFEdlRTQnkyMnE2d1p4S2NNOVl6aWdJSkhBRHVOZXdQR3RweW1SMktiVGJkNEhjUFdPRjVMMG5HV25iUlMyRWxkVUk5VQ?oc=5",
+   "date": "Sun, 22 Nov 2026 19:48:00 GMT",
+   "vu_le": "2026-11-23T01:10:41.610481+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "ETH price on Nov 22, 2026 at 9pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdHc2enQyVmo0cnBDMVppd2tyWkdlZVl1eUJjQVpsUVlKVEFlRnVUUmFFbGFRaEYxZ0tHeFg0X3dhemtwZV9IN3c4SDlQYmNUWnh6MkZEbEJYZDF1RWRSV2JsTW1IeThiR0NpeC1wVFlGeVNvcXlkSjZXU0l6MmRGNEttOGYtcFVOdWFjOTBGdW9SeWtWSFRKaGd6Q1JHc1B3T3BFeG5KbkFmTExnbXc?oc=5",
+   "date": "Mon, 23 Nov 2026 01:03:44 GMT",
+   "vu_le": "2026-11-23T01:10:41.610481+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "Stocks to watch: UOB, Hongkong Land, Stoneweg, Marco Polo Marine - The Business Times",
@@ -6517,44 +6552,7 @@
    "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTnBFRmQtaXRxek9mRE8wMXFFWEZhVERhSkRDR1FSOVJFYjdCeGJBTmhLOTJWTllRQ19FQ2JkU01DTzNKNndyZnVzejlpdUd3d05wRWFXVUJuYklhelNWbkRUMU9VOHUtRmNUdWw4OThJUzFqYlltVFpqSzdyZWpNcGxkTlRySV9PNmZhbjRXaVlteVNadWY3bnBhMnZwUTZZWG1HaE9MbENmMVJPeWtyeHhlMDAydXY3ZlluS3BuQQ?oc=5",
    "date": "Sat, 21 Nov 2026 14:26:15 GMT",
    "vu_le": "2026-11-22T11:20:36.364695+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "La fin de la récré - Howl.Link",
-   "lien": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE42YTVRQzhGSm5ubVg1ZlBUenJodzR2VXdYdWo1MDVBQ0ZqaGxMQXFFb0FNWE5HS0dUUTBN?oc=5",
-   "date": "Sun, 22 Nov 2026 07:19:42 GMT",
-   "vu_le": "2026-11-22T11:20:36.364695+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmVjR2pPZV81aXlnbXVMblJIYTZka3ZuYS1FVl9aRW9IX3l5YS12eGRtZVVHT2xVeW9MbWU1WkQ1YmhBNnJZaDZxaTVRYVpZSEFyMTFPNXJIYTNpNDhUbkt5alM2ZTNIb0V3ckJHc2M2WHZxUnhIRDJUcnFEM2JqZXZQdlpqVjhIUmtBNDNoU3dxR0IzS1ZPRXI5MkRldXQyN3p5aV9Eaw?oc=5",
-   "date": "Sun, 22 Nov 2026 09:34:02 GMT",
-   "vu_le": "2026-11-22T11:20:36.364695+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Broadcom Stock Is 27% Below Its June Record. Here's Where I Think It Will Be in 2030. - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNNGFZTlhvUTNrUV9RR0lOYnFvSS1UODBfMzFpSWVlVEVlQmZoc0MtS2VaRkozNDlCeWpWV214SXFoVkp5WFFfTHdrWDFGNndhcko4ZGJtUlMwM21oSVp4b1lDYXl4cTVWVkgzaGxLZEhsaGJ1N3lSTVZQNWlXTUxWUkxkS3UwaVhuMGIzcnktTXV5aHV0RW5FZ1Rka1IybUYyQVlLZDlWMXRCeFlxZGJyVFZCUG5nR0owb0p4dVduUFdfdmtTN2xUME16M3RxYWd4NzZKMk1rZUVtYUM1azJRMFZkM0lKN2Z4SlEyMmRaMlFkcGM?oc=5",
-   "date": "Sun, 22 Nov 2026 09:53:59 GMT",
-   "vu_le": "2026-11-22T11:20:36.364695+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Commercial Transactions Lawyer South Africa: 2026 Guide - Global Advisory Experts",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUU5RWkM1TFFkM3lJbUstcHB4NnBIeVA0LUZtS3lfTjdhRDNFR3dPSkJPZDdjczY4eHc2aVZuXzh6VURETlFONzJQTVJhWUNCYWhmbDBSQVZsT3R3Nkd1WWxFb3lUbldYQ1hFZGRmSWRFOU85RlNfUWE1NmRTdFA4WS1ydjJVb0FtMWttWnZQU040dXBrQlozUC1BNA?oc=5",
-   "date": "Sun, 22 Nov 2026 09:02:35 GMT",
-   "vu_le": "2026-11-22T11:20:36.364695+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Convex Choices Equity Strategy and High-Conviction Ideas Quarterly Q2FY27 by Choice Institutional Equities - Investment Guru India",
-   "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSWRYbEZJc2tqeHlWZXlVNTlBc0NSU05aX0o4TVZUNDdBTWdrcU5rckt5bFNkOGlJdFFCZFkycE44UllYUDRoNFIxaWNKMHBtTVQ4UjRWZTh3VmhxbzdNeWR0UVVhOWlEUGhuTFpfMUUxYzVrSTlHVHZwLTBYX2liTmxxenJSeG1BWXNFQTFqamtMWjRBYXprUTVpMGd6RGxQMTZ4aDg1ZHFpeTFJMzZFcVE3V1ppX3NmZWptVDZaeUJrS3NCT2FaVU10ekJKYVp3VnhsVi01RHBoT0s4dXhpRjJDMEdfbDBmUXl0Wm1EMlg?oc=5",
-   "date": "Sun, 22 Nov 2026 11:14:39 GMT",
-   "vu_le": "2026-11-22T11:20:36.364695+00:00"
   }
  ],
- "erreurs": [
-  "actu Bourse de Paris et Europe: HTTP Error 429: Too Many Requests"
- ]
+ "erreurs": []
 }

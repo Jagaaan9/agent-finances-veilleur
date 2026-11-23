@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22410.81 HKD, jour -1.89 %, mois -7.16 %
 - SSE Composite Index (SSE:000001) : 3533.7929 , jour -1.22 %, mois -5.53 %
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
-- Gold (TVC:GOLD) : 3573.151 USD, jour 0.98 %, mois -11.24 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09792 USD, jour 0.13 %, mois -2.1 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55769.58 EUR, jour -0.04 %, mois -22.98 %
+- Gold (TVC:GOLD) : 3603.845 USD, jour 1.85 %, mois -10.48 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09822 USD, jour 0.15 %, mois -2.07 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55441.12 EUR, jour -0.63 %, mois -23.44 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -161,8 +161,8 @@ POSITIONS ET INDICES :
 - G-Resources Group Limited (HKEX:1051, secteur Finance) jour -2.05 %, mois -7.97 %, prix 5.485 HKD, capi 2472715327, PER 9.4, volume x16.68 la normale
 
 ÉCRAN Chine continentale : plus fortes hausses :
-- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A (SZSE:301313, secteur Communications) jour 20 %, mois 18.63 %, prix 59.16 CNY, capi 5914901287, PER None, volume x1.05 la normale
+- Shenzhen Etmade Automatic Equipment Co., Ltd. Class A (SZSE:300812, secteur Producer Manufacturing) jour 20 %, mois 11.46 %, prix 18 CNY, capi 3529941284, PER 2857.1, volume x5.28 la normale
 - Ji'an Mankun Technology Co., Ltd. Class A (SZSE:301132, secteur Electronic Technology) jour 20.0 %, mois -25.07 %, prix 51.07 CNY, capi 5047665185, PER 39.7, volume x1.4 la normale
 - Suzhou Shijing Environmental Technology Co., Ltd. Class A (SZSE:301030, secteur Producer Manufacturing) jour 14.24 %, mois -25.73 %, prix 3.29 CNY, capi 665841152, PER None, volume x2.21 la normale
 - Guomai Culture & Media Co., Ltd. Class A (SZSE:301052, secteur Distribution Services) jour 11.92 %, mois 12.13 %, prix 36.8 CNY, capi 3641703802, PER None, volume x1.08 la normale
@@ -293,8 +293,8 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
@@ -317,6 +317,11 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] China Lowers Margin Requirement to 80% to Boost Stock Liquidity - Bloomberg.com
+- [Intelligence artificielle] U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair - The New York Times
+- [Petites valeurs en croissance] At JP¥644, Is CMK Corporation (TSE:6958) Worth Looking At Closely? - Simply Wall St
+- [Petites valeurs en croissance] How to Invest in Vanguard Morningstar Value ETF (VTV) - The Motley Fool
+- [Crypto] ETH price on Nov 22, 2026 at 9pm EST Crypto Prediction Market - Robinhood
 - [Chine et Asie] Stocks to watch: UOB, Hongkong Land, Stoneweg, Marco Polo Marine - The Business Times
 - [Résultats d'entreprises] Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - TradingKey
 - [Défense, énergie, matières premières] Asia-Pacific stocks fall as S&P 500 enters correction territory - scanx.trade
@@ -459,9 +464,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] How Low Can Bitcoin Fall Before Trump Media Has to Sell? - 24/7 Wall St.
 - [Anthropic] Nonprofits Build Capacity for Potential Giving After Anthropic’s IPO - Unite.AI
 - [Intelligence artificielle] Here's What a $1,000 Investment in Broadcom Stock Could Be Worth By 2035 - The Globe and Mail
-- [Introductions en bourse] Aswath Damodaran Valued Anthropic At $77 A Share — Its IPO Price Of $83 ‘Terrifies’ Him - TradingView
-- [Rachats et fusions] MTN And Telkom South Africa Resume Acquisition Talks In Potential Deal That Could Reshape Telecoms Market - Trendsnafrica
-- [Petites valeurs en croissance] Have Figma Insiders Been Selling Stock? - Simply Wall St
-- [Crypto] XRP price at Nov 22, 2026 at 1pm EST Crypto Prediction Market - Robinhood
-- [Crypto] How XRP Has Traded Every December Since 2017 - 24/7 Wall St.
-- [Anthropic] Anthropic's reco
+- [Introduct
