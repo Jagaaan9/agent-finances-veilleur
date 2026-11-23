@@ -7,13 +7,13 @@ POSITIONS ET INDICES :
 - NASDAQ Composite Index (NASDAQ:IXIC) : 22617.733 , jour -5.28 %, mois -14.98 %
 - CAC 40 Index (EURONEXT:PX1) : 7927.75 , jour -1.89 %, mois 1.19 %
 - STOXX 50 (TVC:SX5E) : 5941.95 EUR, jour -2.81 %, mois -3.21 %
-- Japan 225 Index (TVC:NI225) : 59261.13 JPY, jour 5.0 %, mois -5.43 %
-- Hang Seng Index (TVC:HSI) : 22168.19 HKD, jour -1.08 %, mois -3.73 %
+- Japan 225 Index (TVC:NI225) : 59024.23 JPY, jour 4.58 %, mois -5.81 %
+- Hang Seng Index (TVC:HSI) : 22154.52 HKD, jour -1.14 %, mois -3.79 %
 - SSE Composite Index (SSE:000001) : 3533.7929 , jour -1.22 %, mois -5.53 %
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
-- Gold (TVC:GOLD) : 3623.141 USD, jour 2.4 %, mois -10.0 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09811 USD, jour 0.14 %, mois -2.08 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55489.11 EUR, jour -0.55 %, mois -23.37 %
+- Gold (TVC:GOLD) : 3620.35 USD, jour 2.32 %, mois -10.07 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09826 USD, jour 0.16 %, mois -2.07 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55571.98 EUR, jour -0.4 %, mois -23.26 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,9 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Emerging-Market Stocks Set to Erase 2026 Gains on AI Selloff - Bloomberg.com
+- [Rachats et fusions] Share Purchase Agreement Spain: 2026 SPA Guide - Global Advisory Experts
+- [Pays émergents] Korean snack makers grow overseas but face fierce competition - Chosunbiz
 - [Anthropic (FR)] La Bourse de Séoul ouvre en baisse de 3% dans le sillage de Wall Street - TradingView
 - [Chine et Asie] Beijing to bar young ‘red-chip’ firms from listing outside mainland China: sources - The Business Times
 - [Pays émergents] EU Tariff Cuts Put Renault Stock And European Car Exporters In Focus - Simply Wall St
@@ -460,7 +463,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] Anthropic fait ses débuts en bourse avec 107,3 milliards et frôle 1,5 billion de valorisation - Foro3D
 - [Anthropic (FR)] Anthropic prépare son entrée en bourse tandis que l'Europe cherche à retenir les talents de l'IA - Foro3D
 - [Banques centrales et taux] Barclays signale un risque en fin d'année pour les actions, le soutien de la Fed étant remis en question - IndexBox
-- [Crypto] Russia permits exchange crypto trading from November 22 as digital ruble expands in 2027 - Yahoo Finance
-- [Crypto] Summary: This Week in Crypto W3 Nov 26’ - Santiment
-- [Crypto] XRP vs Solana: Where Could $5,000 Grow More by 2030? - 24/7 Wall St.
-- [Anthropic] Record Anthropic IP
+- [C

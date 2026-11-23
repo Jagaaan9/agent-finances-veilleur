@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-23T01:20:36.361675+00:00",
+ "mis_a_jour": "2026-11-23T01:30:37.186142+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -90,10 +90,10 @@
   {
    "nom": "Japan 225 Index",
    "symbole": "TVC:NI225",
-   "prix": 59261.13,
+   "prix": 59024.23,
    "devise": "JPY",
-   "jour_pct": 5.0,
-   "mois_pct": -5.43,
+   "jour_pct": 4.58,
+   "mois_pct": -5.81,
    "volume": null,
    "volume_relatif": null,
    "capitalisation": null,
@@ -104,10 +104,10 @@
   {
    "nom": "Hang Seng Index",
    "symbole": "TVC:HSI",
-   "prix": 22168.19,
+   "prix": 22154.52,
    "devise": "HKD",
-   "jour_pct": -1.08,
-   "mois_pct": -3.73,
+   "jour_pct": -1.14,
+   "mois_pct": -3.79,
    "volume": null,
    "volume_relatif": null,
    "capitalisation": null,
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3623.141,
+   "prix": 3620.35,
    "devise": "USD",
-   "jour_pct": 2.4,
-   "mois_pct": -10.0,
+   "jour_pct": 2.32,
+   "mois_pct": -10.07,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,12 +160,12 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09811,
+   "prix": 1.09826,
    "devise": "USD",
-   "jour_pct": 0.14,
-   "mois_pct": -2.08,
-   "volume": 15501,
-   "volume_relatif": 0.09,
+   "jour_pct": 0.16,
+   "mois_pct": -2.07,
+   "volume": 16922,
+   "volume_relatif": 0.1,
    "capitalisation": null,
    "per": null,
    "bourse": "FX",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55489.11,
+   "prix": 55571.98,
    "devise": "EUR",
-   "jour_pct": -0.55,
-   "mois_pct": -23.37,
-   "volume": 6.47170464,
+   "jour_pct": -0.4,
+   "mois_pct": -23.26,
+   "volume": 8.01562942,
    "volume_relatif": 0.03,
    "capitalisation": null,
    "per": null,
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3491,20 +3505,6 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Emerging-Market Stocks Set to Erase 2026 Gains on AI Selloff - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTnU4YXhhUmpUTkZ5UTVfZ2dsb2ZIcE5fRk9KSXVoMWVEb3l4SW9RMjc3RWJXMjljX1ZBczd0WGhYVEx0bnJDVVBvVTljeTdXREdqM3NCcXVJT3RYanNQelN2ODdXalhNSGw0bWRULTNWSjA3N24xQVc2OVBuLTkxc3NmV2VRZ0NOVU1xSEVVSGxNRjEyNGpmb1pCNEhPODhtQUpuZ3hPVTBNTXo5S2NwcA?oc=5",
+   "date": "Mon, 23 Nov 2026 01:02:00 GMT",
+   "vu_le": "2026-11-23T01:30:37.186142+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Share Purchase Agreement Spain: 2026 SPA Guide - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDZjQWx3cUk3OTdtaUZja3dwWHd5UUdwdkNNQzdZV21NMFZrMlhwRGxWdTQ4WThXX0I4OTY0UEVpQ3BNR0NUb2dJaWdudEVVVXFZME5iQlNrSTl3R1ZTaEtWT09HU1piMFlURWZMQU5FV1dsMWtzY2t4V0NOX3NwX2RobXl2MW5nOTBTbUgxbGdLbmpsUnBVZ2xMZVFFRF90OEdYdA?oc=5",
+   "date": "Mon, 23 Nov 2026 00:28:12 GMT",
+   "vu_le": "2026-11-23T01:30:37.186142+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Korean snack makers grow overseas but face fierce competition - Chosunbiz",
+   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWmFCWC1qNTdGSUd4WjN3ZmFySzhoNVB6QlpBWW8xRUlyV0dfSlZJOTFqYmt0UndZWGNFVndFVmhrNXV4YVVSSUpJUWVhWGJsVlRvUTJJMEFKdTh4Z3BSeERfS3ZCTXlzUTUtMzFfQ2pZSkh1RElTNl9fVjdjN0FfZWtnd184Y3R5azJ2cFZQZ0gwT1HSAZMBQVVfeXFMT1phQlgtajU3RklHeFozd2Zhcks4aDVQekJaQVlvMUVJcldHX0pWSTkxamJrdFJ3WVhjRVZ3RVZoazV1eGFVUklKSVFlYVhibFZUb1EySTBBSnU4eGdwUnhEX0t2Qk15c1E1LTMxX0NqWUpIdURJUzZfX1Y3YzdBX2VrZ3dfOGN0eWsydnBWUGdIME9R?oc=5",
+   "date": "Sun, 22 Nov 2026 21:00:00 GMT",
+   "vu_le": "2026-11-23T01:30:37.186142+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "La Bourse de Séoul ouvre en baisse de 3% dans le sillage de Wall Street - TradingView",
@@ -6530,27 +6551,6 @@
    "titre": "Broadcom Stock Is 27% Below Its June Record. Here's Where I Think It Will Be in 2030. - The Globe and Mail",
    "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUUxMVFREZ2UxUGdmZFFZdVVKZFBQazJhcTRBYUd4YjlWeW53TnNQaVZlVlNiUFhSRVRsQ2J1NE4tdC10VHR5d3ppd3hqZzVpWGhTeUFpbVBhU0g1S2FhXzctNGFyUE95RGw0WFVRcFFrc1NxSHJ2LVNHekpBZ0dldWRhWDVnOGlwQ0tYcXozMUpKY01JWXZUTlVhTnRiWmJDbmQ1b3FCRGlYRlNrSzJwTmRuS1BuOXlLaXB4U29qeGxBRV9JeWJ5MW9jdkhZcFlob0I5VWNVbE5tdUx0M0VTRlJ3Nnc3SkRONHp1WmI3RUlNeTF4UEItMHZ1aHlNUQ?oc=5",
    "date": "Sun, 22 Nov 2026 09:39:46 GMT",
-   "vu_le": "2026-11-22T11:40:35.442846+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "AMD Beat on Revenue, Profit, and Guidance — So Why Did the Stock Drop 7%? - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWgycWIzMXpJOU1OaWNtTm1HRll3eGFEcllxZ0htNzgyRVFyWWJ3VHl1NGJSQnBqbUd6RU1tcXVwVVNtM0pEUWhxcmwxa3k0NF9qU1N2dnJIY0NsV2I0ZWZoTzlWamNLVHJxdjhNeEVkYmMwUEl5dUlLRVU3eHI0MDB6Y1NBLXMtRGctcDhzV3NuQ3FFa1dFbTFJNXVJemsxU2FSaDhZQXRWNVpMS3pLWVV2WGVLVTRkT0E?oc=5",
-   "date": "Sat, 21 Nov 2026 21:57:43 GMT",
-   "vu_le": "2026-11-22T11:40:35.442846+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "GE Aerospace (GE) Beats Earnings: Why the Stock Plunged Anyway - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSmQtRHNGNDBvX0NBNTdFc3lqNkF5MGlzZXB3a1JJSWtUcGoza1dRZDducmp2aUJfNHpFLTBQbnZQNXU4dWpMaTJPdFJNN1p3V1VCS3p0emxqOS1sV1RJZGcyaU0xVkVWbVc4eTZrSWdaTFFIaTFIWjBHQTN4WEVucS1neVFPSHVSSjl5NmlzTnFSbjA1cG5mbnFSNWtfQ3VzbVJHUzVwV1QwYi1waElLVUdvVGlQX2dBcDlhTUxMWFNQcU52M1JtOUJVZW11ZURnNVBVRDNDMmw?oc=5",
-   "date": "Sat, 21 Nov 2026 18:00:34 GMT",
-   "vu_le": "2026-11-22T11:40:35.442846+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse the Trend? - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdElsOVVGaVZjUTYxTHdKWGViSWxlVmNpV0dJckpsRVB3emxHNHl4OHJpbm9Fb1ZqWHdNcFVqUWNXR3JaTXc2cGM1Ml9pMU1rMGxOQ2czd3QydFhxUTk3T3RLRFAyV0h5R0M4ZGIwV09aM2pDRF9mSGpQcGVVTnJ3THNqTlhMaERROWdYcHpJbldGRGZ6eFlaZmktMHBUaGNMQ0w0Vk82V1VJa0dyWlpDZFNTWlg1VzVj?oc=5",
-   "date": "Sat, 21 Nov 2026 22:45:01 GMT",
    "vu_le": "2026-11-22T11:40:35.442846+00:00"
   }
  ],
