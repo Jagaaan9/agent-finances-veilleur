@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-22T23:50:36.487167+00:00",
+ "mis_a_jour": "2026-11-23T00:00:36.690533+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3578.375,
+   "prix": 3583.291,
    "devise": "USD",
-   "jour_pct": 1.13,
-   "mois_pct": -11.11,
+   "jour_pct": 1.27,
+   "mois_pct": -10.99,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.0974,
+   "prix": 1.09722,
    "devise": "USD",
-   "jour_pct": 0.08,
-   "mois_pct": -2.15,
-   "volume": 4859,
+   "jour_pct": 0.06,
+   "mois_pct": -2.16,
+   "volume": 5560,
    "volume_relatif": 0.03,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55792.82,
+   "prix": 55793.99,
    "devise": "EUR",
    "jour_pct": 1.65,
-   "mois_pct": -23.01,
-   "volume": 177.15967628,
+   "mois_pct": -22.95,
+   "volume": 177.47474349,
    "volume_relatif": 0.73,
    "capitalisation": null,
    "per": null,
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "What Did The Anthropic IPO Tell Us About The AI Bubble? - TalkMarkets - Howl.Link",
+   "lien": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFB3dnpHWGk3YnpaLWtHTTdfSWF5b2FJOGZPbnVmUTc3T3RwMlVjRU5WRF9DVHdlTWx0dlpF?oc=5",
+   "date": "Sun, 22 Nov 2026 22:38:00 GMT",
+   "vu_le": "2026-11-23T00:00:36.690533+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Taiwan Announces Short-Selling Ban To Save Its AI Stock Market - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGhkdzV6SjROOUJyNWxNMkxWSVZ3alBFME1HVnd0NTl0VnVDTFIxSFMtTGZnVk1kdW9DcjdBWU00MndfQk93REdsamFuTWpxczJrWU84UXk2bFgtLUItQWkxcWJMYlh0WG9MbHFEX2R5MXNiRGJqUmhTWjRsU2tHRWpLUXZHc1B3Uko4bGlzTWhpWTFwMlpIV1liQzNzWm1n?oc=5",
+   "date": "Sun, 22 Nov 2026 10:47:36 GMT",
+   "vu_le": "2026-11-23T00:00:36.690533+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Earnings delivery to drive next phase of returns: Chockalingam Narayanan - Business Standard",
+   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcFZ1Q1N5ZEprazlRMi1LM0Z6aUJMdGJyWS01cWNzeFBUSmliaEwtdWpZaFNQN29ldVVJeXJud2JISHZaTWFxSkhOV2ViS1ZObHdkMG1aVGZaeWdoRVNrZ01wUnRqTE5EamZyNGs2WTFscmNLVTZBQ185enhIdEdfMjMxczFOeEdUQm5ucThObVJ1MElaZlZJcjZCWFBNYm9DNGpIclg4U05HeFNjRmd3U3JlSEpYQkwzVzc3NnFTUk4xV1VVWGt5QlFtLTVMUWJLQ2dDT2hzRkpmU2lV0gHiAUFVX3lxTFB3OUpqQWx3b1M3RVJnVzl5MWkzYlh6MUw0VjlyM2h4dkdBaFU1Wm9NR0lpLVV2czN1TlJtT1RoVWhfNE5meEFwTXExQWJGY3ZQR2h4SXB1NTNiczlJOXB2Si02UzRnRmFVRks3QmE1V1p2aUw1cHJQUHlCOVVlcjZrdEt3bHRWVENSUk5QaWN5UG5temREMFJWaXpMQUpfZHBCY1QxOFQ0eUZaWmVCQ3YwOS1LZUJCcC1xY0E1M2VOQ09aaEZRbHdWSUQ2bG9Sa2tGUFp1UFlRcTdYZEI0MThBdkE?oc=5",
+   "date": "Sun, 22 Nov 2026 16:00:02 GMT",
+   "vu_le": "2026-11-23T00:00:36.690533+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Why Is the Kospi Falling So Fast? Nvidia Turmoil, AI Fears and Foreign Selling Drag Korean Stocks Lower - International Business Times Australia",
+   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSF9TeVhTNzBoRmxaRUhxQkRCUXJwN0ZTWXVidm9XS21aY2doSjA2dmJucWdfUXl0QXl2MEpYZnprckt1OHFIaFlJSVdLNzBuSzRSTUI4cGo5MFVic3pMSWdkQ3hUa1VnQlFiQmptNnVTYTNOS3RTMW9aRzFFZjh3LThNMnFsMGpTYjhPLUlB?oc=5",
+   "date": "Sun, 22 Nov 2026 14:02:26 GMT",
+   "vu_le": "2026-11-23T00:00:36.690533+00:00"
+  },
   {
    "sujet": "Défense, énergie, matières premières",
    "titre": "Elmet Group (Nasdaq:ELMT) - Stock Analysis - Simply Wall St",
@@ -6524,34 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX2hDczJYOS1aUVRQOUprZVN0QVJfX0JlZ1kwcDlwaVV6YW1JY1cwUjRxM2RMT1dCN0d4b2kxaUh4SzlQWnhwOHcxcmdYcVZ0b25PSWFyU09qN3ZrSVZnLWNtV3dfdjB0QXRnbmdQTUZOVjN0V0E1Y0NWamF5RzBDS05XQ3pkMmNpMF8xSy1NejFMOEhNeDRsOVAyN251UzF6U2NhZ2ZhcnRUaUZ5Q2c2aU9uUEY5QkRkLXRYczFvMThhRzJJaGR3cTJWVFRxQzg5SUgzZTN0UQ?oc=5",
    "date": "Sun, 22 Nov 2026 09:07:00 GMT",
    "vu_le": "2026-11-22T10:30:36.888321+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic lève 81,3 milliards, le calcul reste incertain - Brief IA",
-   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY2tOeU1zdjRKb1ZRbjRaVUg5TVNWdWFWMTZHOHMwZE1nVDk2cUMwckN4WVhVSmJtT2xKYXREa3Rid3FTS29iS2tMamY4ZXVCS0dfVm5FT3ZQdFZfQi1OOFY1Mm1hNHVJYi0taFpNb0RiN3VuR25DNTZNR0d5MU8wazNld3hTU2t0d0E5VGNlYw?oc=5",
-   "date": "Sun, 22 Nov 2026 07:11:16 GMT",
-   "vu_le": "2026-11-22T10:30:36.888321+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Mergers & Acquisitions in Serbia: 2026 Buyer Guide - Global Advisory Experts",
-   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVXRmbVJUaEtQMTc3LWwwSkZ6MjRGZjFzZ19RWDBqSGJtOVY4OWpVOTNjSi0zYl83VzBjaHVkS1RsZzVTY1BuT09VUVBXWGx0bUdCTlgyTm9VODhJcEhianJfNDl2UmFOMTBndjh1YTd2OHpHVmg2TW9vV3I5cGEyZng2NS00OE9LN18zOG5EaV9RV2M?oc=5",
-   "date": "Sun, 22 Nov 2026 08:17:34 GMT",
-   "vu_le": "2026-11-22T10:30:36.888321+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Accenture plc (ACN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10VW5xQnpvVW5CQ1FBX2VMUFdwSFdVbkVGaEFmMVpOYnhjZksyMVBwa0toSW9lUkpfM1J1bFpGanVranZOSTlmVEdMMXRUWVBX?oc=5",
-   "date": "Sun, 22 Nov 2026 09:39:06 GMT",
-   "vu_le": "2026-11-22T10:30:36.888321+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic rejoint le club des entreprises valant mille milliards de dollars. - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObzZSQkVkV1BaSDUxZE5kSlFSS1hjUWlYYmdSWGhDY0FXOTdPbjVWTzh3U09pNlQxMzNOd3pxRkpWQW9zRzJ5aUlTblpRLXBYNjFWSUhja0FSQ3VYRnYxczNQUG9ISFM5VzRNQjNWMXZYSnhtLXBhenZwNlQ3RkxzUVN2dHpseTF1?oc=5",
-   "date": "Sat, 21 Nov 2026 14:29:25 GMT",
-   "vu_le": "2026-11-22T10:20:39.983784+00:00"
   }
  ],
  "erreurs": []
