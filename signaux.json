@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-23T01:10:41.610481+00:00",
+ "mis_a_jour": "2026-11-23T01:20:36.361675+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -90,10 +90,10 @@
   {
    "nom": "Japan 225 Index",
    "symbole": "TVC:NI225",
-   "prix": 59319.35,
+   "prix": 59261.13,
    "devise": "JPY",
-   "jour_pct": 5.11,
-   "mois_pct": -5.34,
+   "jour_pct": 5.0,
+   "mois_pct": -5.43,
    "volume": null,
    "volume_relatif": null,
    "capitalisation": null,
@@ -104,10 +104,10 @@
   {
    "nom": "Hang Seng Index",
    "symbole": "TVC:HSI",
-   "prix": 22410.81,
+   "prix": 22168.19,
    "devise": "HKD",
-   "jour_pct": -1.89,
-   "mois_pct": -7.16,
+   "jour_pct": -1.08,
+   "mois_pct": -3.73,
    "volume": null,
    "volume_relatif": null,
    "capitalisation": null,
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3603.845,
+   "prix": 3623.141,
    "devise": "USD",
-   "jour_pct": 1.85,
-   "mois_pct": -10.48,
+   "jour_pct": 2.4,
+   "mois_pct": -10.0,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,12 +160,12 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09822,
+   "prix": 1.09811,
    "devise": "USD",
-   "jour_pct": 0.15,
-   "mois_pct": -2.07,
-   "volume": 13873,
-   "volume_relatif": 0.08,
+   "jour_pct": 0.14,
+   "mois_pct": -2.08,
+   "volume": 15501,
+   "volume_relatif": 0.09,
    "capitalisation": null,
    "per": null,
    "bourse": "FX",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55441.12,
+   "prix": 55489.11,
    "devise": "EUR",
-   "jour_pct": -0.63,
-   "mois_pct": -23.44,
-   "volume": 6.34334852,
+   "jour_pct": -0.55,
+   "mois_pct": -23.37,
+   "volume": 6.47170464,
    "volume_relatif": 0.03,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3483,20 +3483,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3505,6 +3491,20 @@
     "mois_pct": -17.9,
     "volume": 1325113,
     "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "La Bourse de Séoul ouvre en baisse de 3% dans le sillage de Wall Street - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hdGREUmk0TXBLaHVkOVBKQUR1cHd3STVXSm1memo0WXZua3dTTkpET1FjZjZ3ZnJlVzQ2eFdzRXZvemZNd0pHYW5VN3c5Q2hleGRfcElyVkpndS1xUVlhZVp3?oc=5",
+   "date": "Sun, 22 Nov 2026 16:42:00 GMT",
+   "vu_le": "2026-11-23T01:20:36.361675+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Beijing to bar young ‘red-chip’ firms from listing outside mainland China: sources - The Business Times",
+   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSUJpNEVQQ2tlRTJlVlNUeU5UZDh4RXRYT1lBcFVzRlItNzJlTEFBVXp5MTJ1djJEaHNDUEk1QWFhUWF6NW12NlZHYzBfYTRYZUthYWZEMXdROVJ1RnppNDdGckNLbkVqUUhGMnNCeDVuUnI5cWk5TWt0UU9RTEVtYlRibFA3aE8tMi1zYTV0NVBRdVlJTjZCY0lsNVE2ZmZ5YXJYbnZKRldwbzctcFRnTFZSTWNLX0h5NEM2dkszUFdxdWc?oc=5",
+   "date": "Mon, 23 Nov 2026 00:44:00 GMT",
+   "vu_le": "2026-11-23T01:20:36.361675+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "EU Tariff Cuts Put Renault Stock And European Car Exporters In Focus - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOREZiRUppd1QycjRkZVZrSTMxTm5pVTgtLVBhWDBRQlVGRWpnc2QtT080WjhubFlsUTdsLVExYXZ6N1BuQmdkVmxKLTVRSFNjbUFMZlNkOFN6Q0JiWW9BWXdYRXZiMjBtTUVFTE1GZEM1bTNWWko4NUVhdzhRaU5EY2lMQXJmV3pwWTBqNkZ1SU9HYnpiazJZUnQ3TjJvMEpLYzljVGxaR2xsS2xwZVBEY2RfckFtNW5wSTBkVzdlVVV4Mmc5VnpNalZTa9IB0AFBVV95cUxOcTB2cU9zMjJpcnc5VF81bktyNm5lSW0tOTRwek1TU1RyUTBnS2w2V2J4TklIdG16T3NMLXVudDl3bkNrQWhvVG9tWXFzc01zeEg4TEYtZkFpOGJaMkIyZkRha0tPMWZvTFZHamlCWFRwWUJrSUNBd21kZTd3ZTM1dU10dEhXN0VsZkd5dEJOYlJYdDZoUHlPUGlscGlvMkpVUGtkUUdBclhuNlhtbDFKVGFNUUYyeWw3VDM2Nzl5c3RxQlF1bGtZVkZBWlNUd3pT?oc=5",
+   "date": "Mon, 23 Nov 2026 01:08:05 GMT",
+   "vu_le": "2026-11-23T01:20:36.361675+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Stock market outlook today,23 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+   "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSmdhaldXb0U1ZkdRM2RlWkRfWFZRa3BIS21TcGtBUWp4elN2Q2VrOHYxRTlSSHY2enpscWd2YXNxYTRwbTg4dGd0aTNCMWRoVmctNEIwWlQ2b1R2blVfRzJWbjJ3bFRpazZha3RqakhuU2dKRUVSZE9PMWR1Ri1ZRTBYR09lMWIxemc1YVZ4V0FLa09LUDVCa1lnenFSLW94T3Fhc0swWFVqcEl6SmhlZEc5b0w4am0zbjFmdlBuem9LQTNjR0JheGstSmd4VXlXdzU4OEFrb2E2TWRjY2hBTk5DM1Rsa2t4ZXlUZFFWaTY2NUxIcXJjX2dZWmtRSU9mVnF5bEhrd2I4QUnSAZACQVVfeXFMUDdtTWhXU3FiNXFXWDd3RzN4RkhQMEc1aXVrU1E5a2FZYXBxaHk1ZlN5c0RjNldmbG9RU0x0Y0pBNGtjSnpic0VYZW1qX2o4Yk9GTFpFQV9zN0FXTzBfdGg5Q3Rtb00zaXVoc3FXbG5BaWxmaWRhZUltYmwwZFVXSk5EV2wzcDMwbUljNDNnZmI1MDVpelVCbVhwd095RWxoTXAzTnAzd1gzTGZzNGJORXlaYTR3UkVZR281TWk0RUNtVkEtc0dDRmdkMks5YjNQaUI4Z1hBcWJrcjZ3dklINkhjOVN5XzVINjZQUUY3c3FIRkxKdlh3aXBsX1V3LWUzZmRCRWdsdmRyV1BWVXF0NV8?oc=5",
+   "date": "Mon, 23 Nov 2026 01:09:12 GMT",
+   "vu_le": "2026-11-23T01:20:36.361675+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "BTC price on Nov 22, 2026 at 9pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWp1amhUUTRZVkhhdC1tU0pmMzNQemU5WFJtZU5MZFB6ZDlIUDJUUnJPbEpTaGxIMDBSNVNmWUhaR0RzeFRnUmNRTFkzYTJEeS1YY0dKV3JtczZndDB4RS1DN1FxTGhHdFpwY2lHNHoxR0plcnoyWWhKSW5kSjM5V0FtVDVCMmNoaHE2dW42MU5KaUZFSl9VS2RnNHhJd0F4Y3lBWVk1d0lVMUxqWXc?oc=5",
+   "date": "Mon, 23 Nov 2026 01:09:49 GMT",
+   "vu_le": "2026-11-23T01:20:36.361675+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "China Lowers Margin Requirement to 80% to Boost Stock Liquidity - Bloomberg.com",
@@ -6517,41 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdElsOVVGaVZjUTYxTHdKWGViSWxlVmNpV0dJckpsRVB3emxHNHl4OHJpbm9Fb1ZqWHdNcFVqUWNXR3JaTXc2cGM1Ml9pMU1rMGxOQ2czd3QydFhxUTk3T3RLRFAyV0h5R0M4ZGIwV09aM2pDRF9mSGpQcGVVTnJ3THNqTlhMaERROWdYcHpJbldGRGZ6eFlaZmktMHBUaGNMQ0w0Vk82V1VJa0dyWlpDZFNTWlg1VzVj?oc=5",
    "date": "Sat, 21 Nov 2026 22:45:01 GMT",
    "vu_le": "2026-11-22T11:40:35.442846+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Le marché boursier n'a pas été confirmé comme ayant un creux - Laodong.vn",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSmtLeWN1U3lWT0FVX1gtcmJCSDdkSFBkWFdPa2FpZ2VoNGc3elNiZG1hTk9BMmtvWmZmQ2lSTWRCbGM1aE16Z1luMEsySFU2eUtVWlNiTHVaN1ZqT2k1djdvUUVOZ2JENlJPbHZpRHRSY09ZVkpzNU5KbWI4RzhnenZveHdSWkJ1UHU0aUpZdU9YYTBhbFJrRmZn?oc=5",
-   "date": "Sun, 22 Nov 2026 11:16:55 GMT",
-   "vu_le": "2026-11-22T11:30:35.685621+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Marvell Stock Forecast: Q1 Revenue Jumps 28%, but Is the Trillion-Dollar Thesis Real? - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNHdCZWpxVmpVNjUxQzl6N2hDdGdZWG9Xa1pfSnB3TVNYcWt2ZnMydm4wSHFwWm5zQXZmTkVSSk1nWkRUZXluMFJzYlgwYkVMOF9peGpoYzdJTWRpYkJMM0lGWG42aWVvVDJnREVxc0JaYnhjNHFIYzJBeXYtQWxTSUxtYnVvTERQbWVxVWZxa0lVOXhCZG1zQ3VVLVpqa1VlZFI0eHMta1A3T2gxcmc1S1ZMV3JlTUstUDl4SUgzVmpuUXRfdnhqTS1FbU5jTU1kSzdubkNFUk9fTENSX1Q2b1NhVVFtaXJncGdTOQ?oc=5",
-   "date": "Sat, 21 Nov 2026 19:22:02 GMT",
-   "vu_le": "2026-11-22T11:30:35.685621+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Q4 ’26 Asset Allocation Viewpoints: Market Crossroads - T. Rowe Price",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZUo0djZvMUotSF9mQll2TDNyMEZZZVBIaUNjZVdFb1FKVXBNeW9RWWl1azJjTHktN3NYNjh3ZlBIdHNha0w3OUJyMmZNZjRXS2pXTW9FZWIycGI5OElQSVhOLXhIUWlBeGpETVN2a1pyTkNGX05STkx4Qzl0UFVZQ1Q0b3pyeU9Mc0toZWxvbDhwUUpT?oc=5",
-   "date": "Sat, 21 Nov 2026 22:12:28 GMT",
-   "vu_le": "2026-11-22T11:30:35.685621+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic’s IPO Showed Wall Street Who’s Really In Charge - Finimize",
-   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSkdvYzJWOFktSGVPbFdDOEpJOGFPLWhkdTM1LVlRVlRMdVNJUjdsOFM0elZScUNxaHBMUmxDYVY1SUhQOUJ0TTBjVkwxRG9Fc09zUE9ZbENjb3R1cGlYWUpYMTZXVUdGM3BxMFNMd3U5eHZSbDM3dVJLS3daXzNDcHdGZWpZRWtYUHV1bg?oc=5",
-   "date": "Sun, 22 Nov 2026 11:04:06 GMT",
-   "vu_le": "2026-11-22T11:20:36.364695+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Broadcom Backstops Up to $29 Billion of Anthropic’s Leases. Anthropic Just Gave Back Its IPO Pop - TIKR.com",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTnBFRmQtaXRxek9mRE8wMXFFWEZhVERhSkRDR1FSOVJFYjdCeGJBTmhLOTJWTllRQ19FQ2JkU01DTzNKNndyZnVzejlpdUd3d05wRWFXVUJuYklhelNWbkRUMU9VOHUtRmNUdWw4OThJUzFqYlltVFpqSzdyZWpNcGxkTlRySV9PNmZhbjRXaVlteVNadWY3bnBhMnZwUTZZWG1HaE9MbENmMVJPeWtyeHhlMDAydXY3ZlluS3BuQQ?oc=5",
-   "date": "Sat, 21 Nov 2026 14:26:15 GMT",
-   "vu_le": "2026-11-22T11:20:36.364695+00:00"
   }
  ],
  "erreurs": []
