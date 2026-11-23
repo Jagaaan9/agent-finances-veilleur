@@ -11,22 +11,22 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22383.75 HKD, jour -0.12 %, mois -2.8 %
 - SSE Composite Index (SSE:000001) : 3538.948 , jour 0.15 %, mois -2.34 %
 - VOLATILITY S&P 500 (TVC:VIX) : 26.61 USD, jour -25.88 %, mois 38.74 %
-- Gold (TVC:GOLD) : 3639.991 USD, jour 0.16 %, mois -9.58 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09034 USD, jour 0.01 %, mois -2.77 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56146.4 EUR, jour 0.63 %, mois -22.46 %
+- Gold (TVC:GOLD) : 3636.371 USD, jour 0.06 %, mois -9.67 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09072 USD, jour 0.05 %, mois -2.74 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56231.16 EUR, jour 0.78 %, mois -22.35 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.942 , jour -0.16 %, mois -0.14 %
 
 ÉCRAN États-Unis : plus fortes hausses :
-- Oatly Group AB Sponsored ADR (NASDAQ:OTLY, secteur Consumer Non-Durables) jour 109.08 %, mois 20.33 %, prix 14.5 USD, capi 221313713, PER None, volume x131.66 la normale
+- Oatly Group AB Sponsored ADR (NASDAQ:OTLY, secteur Consumer Non-Durables) jour 109.08 %, mois 20.33 %, prix 14.5 USD, capi 221313713, PER None, volume x131.7 la normale
 - Gorilla Technology Group, Inc. (NASDAQ:GRRR, secteur Technology Services) jour 44.43 %, mois -6.99 %, prix 7.59 USD, capi 209320869.16270217, PER None, volume x2.01 la normale
 - BUUU Group Limited Class A (NASDAQ:BUUU, secteur Commercial Services) jour 34.04 %, mois -6.49 %, prix 4.41 USD, capi 876619783.9148935, PER None, volume x2.11 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour 31.48 %, mois -21.77 %, prix 165.05 USD, capi 3977704961319.1597, PER 17.7, volume x1.77 la normale
-- Kymera Therapeutics, Inc. (NASDAQ:KYMR, secteur Health Technology) jour 30.4 %, mois 35.65 %, prix 150.37 USD, capi 12837296985.055416, PER None, volume x8.98 la normale
+- Kymera Therapeutics, Inc. (NASDAQ:KYMR, secteur Health Technology) jour 30.4 %, mois 35.65 %, prix 150.37 USD, capi 12837296985.055416, PER None, volume x8.99 la normale
 - Kioxia Holdings Corporation Unsponsored ADR (OTC:KXIAY, secteur Electronic Technology) jour 27.2 %, mois -36.16 %, prix 5.05 USD, capi 75858860428.8643, PER 7.3, volume x3.29 la normale
 - Sitka Gold Corp. (OTC:SITKF, secteur Non-Energy Minerals) jour 26.21 %, mois -4.15 %, prix 0.5841 USD, capi 253440614.62985292, PER None, volume x7.26 la normale
 - Braskem S.A. Sponsored ADR Pfd Class A (NYSE:BAK, secteur Process Industries) jour 25.59 %, mois -41.67 %, prix 0.9275 USD, capi 385476307.03139997, PER None, volume x1.86 la normale
 - Lenovo Group Limited Sponsored ADR (OTC:LNVGY, secteur Electronic Technology) jour 25.25 %, mois -13.3 %, prix 49.85 USD, capi 26745882752.612095, PER None, volume x3.33 la normale
-- Braiin Limited (NASDAQ:BRAI, secteur Technology Services) jour 25.0 %, mois -52.32 %, prix 1.85 USD, capi 381263251.25, PER None, volume x14.94 la normale
+- Braiin Limited (NASDAQ:BRAI, secteur Technology Services) jour 25.0 %, mois -52.32 %, prix 1.85 USD, capi 381263251.25, PER None, volume x14.96 la normale
 
 ÉCRAN États-Unis : plus fortes baisses :
 - China Rare Earth Holdings Limited (OTC:CREQF, secteur Non-Energy Minerals) jour -99.4 %, mois -40.0 %, prix 0.0003 USD, capi 249125808.23661998, PER None, volume x11.65 la normale
@@ -36,7 +36,7 @@ POSITIONS ET INDICES :
 - Sinda Limited (NYSE:SIND, secteur Non-Energy Minerals) jour -16.61 %, mois -33.86 %, prix 7.58 USD, capi 1203634993.647965, PER None, volume x0.95 la normale
 - Chagee Holdings Limited Unsponsored ADR (NASDAQ:CHA, secteur Consumer Non-Durables) jour -15.77 %, mois -10.81 %, prix 11.06 USD, capi 2504722492, PER 10.9, volume x1.16 la normale
 - Stewards, Inc. (NASDAQ:SWRD, secteur Non-Energy Minerals) jour -14.74 %, mois -34.94 %, prix 1.62 USD, capi 356105688.631579, PER None, volume x0.74 la normale
-- Anbio Biotechnology Class A (NASDAQ:NNNN, secteur Health Technology) jour -12.95 %, mois -22.1 %, prix 2.89 USD, capi 415845562.7771085, PER None, volume x2.37 la normale
+- Anbio Biotechnology Class A (NASDAQ:NNNN, secteur Health Technology) jour -12.95 %, mois -22.1 %, prix 2.89 USD, capi 415845562.7771085, PER None, volume x2.38 la normale
 - Aurelia Metals Limited (OTC:AUMTF, secteur Non-Energy Minerals) jour -12.61 %, mois -17.05 %, prix 0.2447 USD, capi 421002472.49702704, PER 8.0, volume x14.58 la normale
 - Monro, Inc. (NASDAQ:MNRO, secteur Retail Trade) jour -11.79 %, mois -38.43 %, prix 8.38 USD, capi 262519649.58315796, PER None, volume x2.86 la normale
 
@@ -45,7 +45,7 @@ POSITIONS ET INDICES :
 - GlobalData Plc (OTC:GLDAF, secteur Commercial Services) jour -6.39 %, mois -6.39 %, prix 0.7535 USD, capi 493353872.0769231, PER 12.0, volume x317.65 la normale
 - Singapore Airlines Ltd. (OTC:SINGF, secteur Transportation) jour -2.58 %, mois -4.0 %, prix 5.28 USD, capi 16648728913.30472, PER 19.7, volume x195.76 la normale
 - Fresenius Medical Care AG (OTC:FMCQF, secteur Health Services) jour -6.92 %, mois 1.61 %, prix 44.526 USD, capi 11831306976.92633, PER 13.1, volume x151.42 la normale
-- Oatly Group AB Sponsored ADR (NASDAQ:OTLY, secteur Consumer Non-Durables) jour 109.08 %, mois 20.33 %, prix 14.5 USD, capi 221313713, PER None, volume x131.66 la normale
+- Oatly Group AB Sponsored ADR (NASDAQ:OTLY, secteur Consumer Non-Durables) jour 109.08 %, mois 20.33 %, prix 14.5 USD, capi 221313713, PER None, volume x131.7 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109532.460526, PER 5.1, volume x99.36 la normale
 - RTW Biotech Opportunities Ltd USD (OTC:RTWFF, secteur Miscellaneous) jour -5.71 %, mois -1.49 %, prix 2.31 USD, capi 777161220, PER 1.6, volume x58.24 la normale
 - PRO Real Estate Investment Trust (OTC:PRVFF, secteur Finance) jour 0.48 %, mois -0.34 %, prix 4.8833 USD, capi 391030635.18724245, PER 12.1, volume x53.34 la normale
@@ -164,10 +164,10 @@ POSITIONS ET INDICES :
 - Hanwei Electronics Group Corporation Class A (SZSE:300007, secteur Electronic Technology) jour 20.01 %, mois 4.97 %, prix 36.1 CNY, capi 9849564155, PER 73.7, volume x1.26 la normale
 - ValueHD Corp. Class A (SZSE:301318, secteur Consumer Durables) jour 20.01 %, mois 6.85 %, prix 21.53 CNY, capi 2343616089, PER 78.1, volume x5.52 la normale
 - Shenzhen Ampron Technology Co., Ltd. Class A (SZSE:301413, secteur Commercial Services) jour 20.0 %, mois 20.37 %, prix 74.76 CNY, capi 8559524912.999999, PER 350.5, volume x1.0 la normale
+- Shanghai Hajime Advanced Material Technology Co. Ltd. Class A (SZSE:301000, secteur Producer Manufacturing) jour 20.0 %, mois 34.99 %, prix 30.48 CNY, capi 6187156746, PER 60.4, volume x1.3 la normale
 - Shanghai Weihong Electronic Technology Co., Ltd. Class A (SZSE:300508, secteur Producer Manufacturing) jour 20.0 %, mois 21.02 %, prix 38.46 CNY, capi 3516269207, PER 172.3, volume x1.04 la normale
 - WuHu Foresight Technology Co., Ltd. Class A (SZSE:301529, secteur Producer Manufacturing) jour 20.0 %, mois 10.01 %, prix 154.8 CNY, capi 15164338285, PER 145.7, volume x1.45 la normale
 - Henan Jindan Lactic Acid Technology Co., Ltd. Class A (SZSE:300829, secteur Process Industries) jour 20.0 %, mois 57.99 %, prix 31.44 CNY, capi 5954608212, PER 104.9, volume x1.58 la normale
-- Shanghai Hajime Advanced Material Technology Co. Ltd. Class A (SZSE:301000, secteur Producer Manufacturing) jour 20.0 %, mois 34.99 %, prix 30.48 CNY, capi 6187156746, PER 60.4, volume x1.3 la normale
 - Jiangxi Avonflow HVAC Tech Co., Ltd. Class A (SZSE:301575, secteur Producer Manufacturing) jour 20.0 %, mois 32.78 %, prix 28.68 CNY, capi 2899978157, PER 31.9, volume x3.27 la normale
 
 ÉCRAN Chine continentale : plus fortes baisses :
@@ -176,8 +176,8 @@ POSITIONS ET INDICES :
 - Geo-Jade Petroleum Corporation Class A (SSE:600759, secteur Energy Minerals) jour -10.22 %, mois -19.71 %, prix 1.67 CNY, capi 7717157315, PER 20.1, volume x0.56 la normale
 - Shenzhen Ruihe Construction Decoration Co., Ltd. Class A (SZSE:002620, secteur Commercial Services) jour -10.02 %, mois 14.58 %, prix 5.03 CNY, capi 2048761525.9999998, PER None, volume x1.52 la normale
 - Huada Automotive Technology Corp., Ltd. Class A (SSE:603358, secteur Producer Manufacturing) jour -10.0 %, mois -39.7 %, prix 22.31 CNY, capi 11644931198, PER None, volume x0.22 la normale
-- Zhejiang Cady Industry Co., Ltd. Class A (SSE:603073, secteur Consumer Non-Durables) jour -10 %, mois -18.23 %, prix 14.22 CNY, capi 1486893020, PER 42.3, volume x2.54 la normale
 - Chongqing Zhengchuan Pharmaceutical Packaging Co. Ltd. Class A (SSE:603976, secteur Consumer Durables) jour -10 %, mois -25.95 %, prix 22.68 CNY, capi 4324686349, PER 172.7, volume x0.53 la normale
+- Zhejiang Cady Industry Co., Ltd. Class A (SSE:603073, secteur Consumer Non-Durables) jour -10 %, mois -18.23 %, prix 14.22 CNY, capi 1486893020, PER 42.3, volume x2.54 la normale
 - Bros Eastern Co., Ltd. Class A (SSE:601339, secteur Process Industries) jour -9.71 %, mois 3.21 %, prix 7.07 CNY, capi 11538045876, PER 11.7, volume x1.95 la normale
 - Xi'an Tourism Co., Ltd. Class A (SZSE:000610, secteur Consumer Services) jour -9.54 %, mois 4.34 %, prix 6.73 CNY, capi 1761404461, PER None, volume x1.63 la normale
 - Shenzhen New Industries Biomedical Engineering Co. Ltd. Class A (SZSE:300832, secteur Health Technology) jour -9.16 %, mois 10.02 %, prix 57.99 CNY, capi 50100248088, PER 25.2, volume x2.54 la normale
@@ -267,7 +267,7 @@ POSITIONS ET INDICES :
 - Storage Technologies & Automation Ltd. (BSE:STAL, secteur Producer Manufacturing) jour 4.98 %, mois 68.96 %, prix 59.39 INR, capi 726358805, PER None, volume x49.66 la normale
 
 ÉCRAN États-Unis : meilleures performances sur 1 mois :
-- Bgin Blockchain Ltd. Class A (NASDAQ:BGIN, secteur Technology Services) jour 10.6 %, mois 193.92 %, prix 5.32 USD, capi 601883198.1455302, PER None, volume x0.43 la normale
+- Bgin Blockchain Ltd. Class A (NASDAQ:BGIN, secteur Technology Services) jour 10.6 %, mois 193.92 %, prix 5.32 USD, capi 601883198.1455302, PER None, volume x0.44 la normale
 - Ultralife Corporation (NASDAQ:ULBI, secteur Producer Manufacturing) jour 0 %, mois 152.1 %, prix 15.58 USD, capi 259688200, PER None, volume x0.99 la normale
 - Inovio Pharmaceuticals, Inc. (NASDAQ:INO, secteur Health Technology) jour 2.84 %, mois 112.82 %, prix 1.81 USD, capi 339025459.1761364, PER None, volume x0.74 la normale
 - Aterian Inc (NASDAQ:ATER, secteur Retail Trade) jour 18.27 %, mois 95.24 %, prix 1.23 USD, capi 322115359.09615386, PER None, volume x2.01 la normale
@@ -315,6 +315,12 @@ POSITIONS ET INDICES :
 - Elis SA (EURONEXT:ELIS, secteur Commercial Services) jour 1.54 %, mois 8.89 %, prix 23.76 EUR, capi 5595557401, PER 15.8, volume x1.02 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic stock falls as Monday's tech rally takes off - Yahoo Finance
+- [Banques centrales et taux] John Williams, de la Fed, affirme que la banque centrale s’efforce de réduire l’inflation - Zonebourse
+- [Banques centrales et taux] Les Etats-Unis risquent d'entrer en récession si la Fed relève ses taux, selon Bill Ackman - Zonebourse
+- [Intelligence artificielle] Nvidia vs. TSMC: With Jensen Huang Back, Which AI Stock Is the Better Buy for 2027? - The Motley Fool
+- [Crypto] XRP price at Nov 23, 2026 at 6pm EST Crypto Prediction Market - Robinhood
+- [Crypto] HYPE price on Nov 23, 2026 at 4pm EST Crypto Prediction Market - Robinhood
 - [Marchés mondiaux] Asian Stocks to Rally as Huang’s Return Revives AI: Markets Wrap - Bloomberg.com
 - [Bourse de Paris et Europe] CAC 40: La Bourse de Paris rebondit nettement grâce au come-back de Jensen Huang - ABC Bourse
 - [Chine et Asie] Why Did the Hang Seng Hold Near Flat Amid a Divided Asia, and Is iShares China Large-Cap ETF (NYSEARCA:FXI) Affected? - Kalkine
@@ -453,10 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Rachats et fusions] IPXG: Inflection Point Acquisition Corp. VII filed SEC Form 8-K... - Quantisnow
 - [Crypto] XRP price at Nov 23, 2026 at 3pm EST Crypto Prediction Market - Robinhood
 - [Anthropic] Anthropic stock falls, sitting out Monday's rally - Yahoo Finance
-- [Anthropic] Anthropic stock range-bound after IPO sell-off, stuck between $83 support and $93.80 resistance - Yahoo Finance
-- [Anthropic (FR)] Les options d’Anthropic échangent environ 160 000 contrats durant leur première heure - Unite.AI
-- [Intelligence artificielle] Jensen Huang is back: 5 AI stocks to buy now - Curzio Research
-- [Intelligence artificielle] Amazon to acquire AI startup Decart's chip software, hire founders - CNBC
-- [Petites valeurs en croissance] Deterra Royalties (ASX:DRR) Shares May Be 13% Undervalued On Cash Flow - Yahoo Finance
-- [Défense, énergie, matières premières] How Much RTX Do You Really Get Through 3 ETFs? - Yahoo Finance
-- 
+- [Anthropic
