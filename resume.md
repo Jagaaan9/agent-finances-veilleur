@@ -12,21 +12,21 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3538.948 , jour 0.15 %, mois -2.34 %
 - VOLATILITY S&P 500 (TVC:VIX) : 26.61 USD, jour -25.88 %, mois 38.74 %
 - Gold (TVC:GOLD) : 3634.204 USD, jour 2.71 %, mois -9.72 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09028 USD, jour 0.01 %, mois -2.78 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56022.51 EUR, jour 0.41 %, mois -22.63 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09022 USD, jour 0 %, mois -2.79 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 56120.32 EUR, jour 0.58 %, mois -22.5 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.942 , jour -0.16 %, mois -0.14 %
 
 ÉCRAN États-Unis : plus fortes hausses :
-- Oatly Group AB Sponsored ADR (NASDAQ:OTLY, secteur Consumer Non-Durables) jour 109.08 %, mois 20.33 %, prix 14.5 USD, capi 221313713, PER None, volume x131.58 la normale
+- Oatly Group AB Sponsored ADR (NASDAQ:OTLY, secteur Consumer Non-Durables) jour 109.08 %, mois 20.33 %, prix 14.5 USD, capi 221313713, PER None, volume x131.6 la normale
 - Gorilla Technology Group, Inc. (NASDAQ:GRRR, secteur Technology Services) jour 44.43 %, mois -6.99 %, prix 7.59 USD, capi 209320869.16270217, PER None, volume x2.01 la normale
 - BUUU Group Limited Class A (NASDAQ:BUUU, secteur Commercial Services) jour 34.04 %, mois -6.49 %, prix 4.41 USD, capi 876619783.9148935, PER None, volume x2.11 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour 31.48 %, mois -21.77 %, prix 165.05 USD, capi 3977704961319.1597, PER 17.7, volume x1.77 la normale
-- Kymera Therapeutics, Inc. (NASDAQ:KYMR, secteur Health Technology) jour 30.4 %, mois 35.65 %, prix 150.37 USD, capi 12837296985.055416, PER None, volume x8.95 la normale
+- Kymera Therapeutics, Inc. (NASDAQ:KYMR, secteur Health Technology) jour 30.4 %, mois 35.65 %, prix 150.37 USD, capi 12837296985.055416, PER None, volume x8.96 la normale
 - Kioxia Holdings Corporation Unsponsored ADR (OTC:KXIAY, secteur Electronic Technology) jour 27.2 %, mois -36.16 %, prix 5.05 USD, capi 75858860428.8643, PER 7.3, volume x3.29 la normale
 - Sitka Gold Corp. (OTC:SITKF, secteur Non-Energy Minerals) jour 26.21 %, mois -4.15 %, prix 0.5841 USD, capi 253440614.62985292, PER None, volume x7.26 la normale
 - Braskem S.A. Sponsored ADR Pfd Class A (NYSE:BAK, secteur Process Industries) jour 25.59 %, mois -41.67 %, prix 0.9275 USD, capi 385476307.03139997, PER None, volume x1.86 la normale
 - Lenovo Group Limited Sponsored ADR (OTC:LNVGY, secteur Electronic Technology) jour 25.25 %, mois -13.3 %, prix 49.85 USD, capi 26745882752.612095, PER None, volume x3.33 la normale
-- Braiin Limited (NASDAQ:BRAI, secteur Technology Services) jour 25.0 %, mois -52.32 %, prix 1.85 USD, capi 381263251.25, PER None, volume x14.91 la normale
+- Braiin Limited (NASDAQ:BRAI, secteur Technology Services) jour 25.0 %, mois -52.32 %, prix 1.85 USD, capi 381263251.25, PER None, volume x14.92 la normale
 
 ÉCRAN États-Unis : plus fortes baisses :
 - China Rare Earth Holdings Limited (OTC:CREQF, secteur Non-Energy Minerals) jour -99.4 %, mois -40.0 %, prix 0.0003 USD, capi 249125808.23661998, PER None, volume x11.65 la normale
@@ -45,7 +45,7 @@ POSITIONS ET INDICES :
 - GlobalData Plc (OTC:GLDAF, secteur Commercial Services) jour -6.39 %, mois -6.39 %, prix 0.7535 USD, capi 493353872.0769231, PER 12.0, volume x317.65 la normale
 - Singapore Airlines Ltd. (OTC:SINGF, secteur Transportation) jour -2.58 %, mois -4.0 %, prix 5.28 USD, capi 16648728913.30472, PER 19.7, volume x195.76 la normale
 - Fresenius Medical Care AG (OTC:FMCQF, secteur Health Services) jour -6.92 %, mois 1.61 %, prix 44.526 USD, capi 11831306976.92633, PER 13.1, volume x151.42 la normale
-- Oatly Group AB Sponsored ADR (NASDAQ:OTLY, secteur Consumer Non-Durables) jour 109.08 %, mois 20.33 %, prix 14.5 USD, capi 221313713, PER None, volume x131.58 la normale
+- Oatly Group AB Sponsored ADR (NASDAQ:OTLY, secteur Consumer Non-Durables) jour 109.08 %, mois 20.33 %, prix 14.5 USD, capi 221313713, PER None, volume x131.6 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109532.460526, PER 5.1, volume x99.36 la normale
 - RTW Biotech Opportunities Ltd USD (OTC:RTWFF, secteur Miscellaneous) jour -5.71 %, mois -1.49 %, prix 2.31 USD, capi 777161220, PER 1.6, volume x58.24 la normale
 - PRO Real Estate Investment Trust (OTC:PRVFF, secteur Finance) jour 0.48 %, mois -0.34 %, prix 4.8833 USD, capi 391030635.18724245, PER 12.1, volume x53.34 la normale
@@ -315,6 +315,9 @@ POSITIONS ET INDICES :
 - Elis SA (EURONEXT:ELIS, secteur Commercial Services) jour 1.54 %, mois 8.89 %, prix 23.76 EUR, capi 5595557401, PER 15.8, volume x1.02 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Only Six Nasdaq-100 Stocks Fell As Nvidia Raises Big Questions - Forbes
+- [Intelligence artificielle] What’s next for NVIDIA as board reinstates Jensen Huang amid AI chip security debate - WSET
+- [Défense, énergie, matières premières] China Gold International Resources And 2 Other Canadian Defensive Stocks - Yahoo Finance
 - [Anthropic] Anthropic’s IPO Mints New Millionaires - WSJ
 - [Marchés mondiaux] ‘I Fell Off My Chair.’ Investors Marvel as Huang’s Return Sends Stocks Rocketing. - WSJ
 - [Marchés mondiaux] Stock Market Today, Nov. 23: Markets Rebound From Correction on AI Relief Rally - Yahoo Finance
@@ -455,7 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] Les options sur les actions d'Anthropic commencent à se négocier avec un volume soutenu - Boursorama
 - [Intelligence artificielle] Billionaire Ray Dalio Is Going All-In on AI and Chip Stocks: Top 5 Holdings - Yahoo Finance
 - [Intelligence artificielle] Amazon Makes AI Chip Move; Stock Climbs Alongside Nvidia Relief Rally - Investor's Business Daily
-- [Anthropic (FR)] Anthropic permettra à ses clients professionnels de contrôler leurs données lors de l’utilisation de son IA avancée, rapporte Bloomberg - Zonebourse Suisse
-- [Chine et Asie] China Stocks Hit 16-Month Low as US Chip Restrictions Threaten AI Rally - CryptoRank
-- [Intelligence artificielle] Billionaire Ray Dalio Is Going All-In on These 10 AI and Chip Stocks: Should You Buy? - Yahoo Finance
-- [Résultats d'entreprises] 【Taichung Commercial B
+- [Anthropic (FR)] Anthropic permettra à ses clients professionnels de contrôler leurs données lors de l’utilisation de s
