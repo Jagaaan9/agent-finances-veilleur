@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-23T00:20:40.205374+00:00",
+ "mis_a_jour": "2026-11-23T00:30:35.485087+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -90,10 +90,10 @@
   {
    "nom": "Japan 225 Index",
    "symbole": "TVC:NI225",
-   "prix": 58138.87,
+   "prix": 59614.52,
    "devise": "JPY",
-   "jour_pct": 3.02,
-   "mois_pct": -7.23,
+   "jour_pct": 5.63,
+   "mois_pct": -4.87,
    "volume": null,
    "volume_relatif": null,
    "capitalisation": null,
@@ -146,9 +146,9 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3572.84,
+   "prix": 3572.781,
    "devise": "USD",
-   "jour_pct": 0.98,
+   "jour_pct": 0.97,
    "mois_pct": -11.25,
    "volume": 0,
    "volume_relatif": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09764,
+   "prix": 1.09776,
    "devise": "USD",
-   "jour_pct": 0.1,
-   "mois_pct": -2.13,
-   "volume": 8226,
+   "jour_pct": 0.11,
+   "mois_pct": -2.11,
+   "volume": 9423,
    "volume_relatif": 0.05,
    "capitalisation": null,
    "per": null,
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55739.77,
+   "prix": 55758.29,
    "devise": "EUR",
-   "jour_pct": -0.1,
-   "mois_pct": -23.02,
-   "volume": 3.28285407,
-   "volume_relatif": 0.01,
+   "jour_pct": -0.06,
+   "mois_pct": -23.0,
+   "volume": 4.18418444,
+   "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,16 +3469,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 265.29,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.7,
+    "mois_pct": -21.27,
+    "volume": 57606333,
+    "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
-    "per": 2.1,
+    "per": 13.8,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 265.29,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.7,
-    "mois_pct": -21.27,
-    "volume": 57606333,
-    "volume_relatif": 1.71,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
-    "per": 13.8,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Les temples délaissés de Rawalpindi, écho d'un passé oecuménique du Pakistan - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUUdpc1RlU211STVSUUFyS2pDazA2a1RObFFMa1l4TVJDRmg3NXZkemptdGcxNU9RelNwV1lyUU1qTG5hVldYWEZHbVBvX1ZfT2VBRVdJMkNkVUttY1FYQlQ3SnpxU3Jtc25rYXhUWTVHc3Z6OHpxTlpmRzVpSmpjeGhRMFZWZjhucU1BRnlqdkR1b1J3LUFDdTAzZUxNeGY0bi1TLUdxalE3RUlsZnZLb29nSWRSV2YwaExCNUFXaW50QmdUblpRdWQtRFowLUJMY1VsOGZPMS1xNHhnemo2NmRSTExVcmR4ZnFaS1dtU3NIYURqcVkzTHRZT0NidmJlclNNdQ?oc=5",
+   "date": "Sun, 22 Nov 2026 11:55:00 GMT",
+   "vu_le": "2026-11-23T00:30:35.485087+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Should You Buy Tesla or SpaceX Stock Before Their Potential Merger? - AOL.co.uk",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaG96ZUNZMWZlQnYtbzVMYmRCREg1TU1lT1RiRTNLeEN1RUtwZ0trUmFOTmU2enVOUWRYSkJZbnZoeXMxRV83WVh3bURXWEQ0WHd5Qm1wbE85djl3M0lZX3BIbTJTaXBKZHZLSGU0YVdvUC1XZ1dERVpSc1VVQ1lFZUpLSDM?oc=5",
+   "date": "Sun, 22 Nov 2026 22:21:02 GMT",
+   "vu_le": "2026-11-23T00:30:35.485087+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Vodafone Idea's (NSE:IDEA) Performance Raises Some Questions - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb1JjN183cDB1QnAyTWVvX0Y2SGNVVkcweHc5QTItYzZUaHBYU0RJX2dyaE5aN1R6cTBlRFJwUHQwUHdWV0hYRVpNUVlyeTY5dVBDQloyVTR1d3haV2o4RHBPdkVxVHhpZ3NrTDFfaDhtODFmV0NraWFCa2doZ3pIcWR0T0Q2VHV2ZTRiYUpxR05sNDhOejdpRndnak5fRndJS1VVM3Zlc0RNVHpvQVQxWkV5X0pkQ2VlQVFBMGt4Qk1TbGsxXzRmYWhaSUU3d9IB0wFBVV95cUxNUXRSZnBHem12elE4T2Nha2JYVjB1UzFTU2JZcS03OEpDMVBxN1p3VXhsbUh1TmpKc0lnRlAydjhBVk15VnhCYlZ4Tlhka1NBbmJXMzZqUi1nbWkxX2YxU09EU1NFNmF1bDBrbzhUcG9ubDhaRFd1aEduQkRJb0tYb2N0d2dTaTVVanlkUWNldDlvM1B5dFpheTVqREVNbTdTWGs5LWk2MHJFVmdfYTlGeXRWel8tSHBTbDM5OUpaMTJxS3o2Zzhxb1hhcE9OclJqeGNF?oc=5",
+   "date": "Mon, 23 Nov 2026 00:23:06 GMT",
+   "vu_le": "2026-11-23T00:30:35.485087+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "With EPS Growth And More, Lonking Holdings (HKG:3339) Makes An Interesting Case - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUGZWLUlMV09DRTEwTUthcnExUU1WMVRkem5fTTJpdXc4aUE0d1MtUjh0WlVHQnRMVHZ3TGczWjFjOEdRblZQV3hCR3lFRjJ1Y1F6THdLcERlSS16SG9PcEtMSWdHZEFZVlNGYVU5OGNkUEdJbEwxNG0wU0FwUjJsMjYyVERBeHdLQ3FxTTJ5Z1BITHRDWVhuRVFGcUlYR3JzMlMtOWVIdEpWd2dBb3JvQ25vUDNNY2h4ekFxbVcycVlRVV9rOEdPTkRnZ2pnWmZ3VDVNRjlQWW9OQkNm0gHiAUFVX3lxTFBKZ18tZmQ5LWtlYWpVM2J6TmM5T0JWdnJ3WEJibTB4QnJDZGM2eEpoTk1qczVHaWIydEVUbWs5Rm0wX2Eza0M5dTczeHVGTFRRbm5RR0pqNUQ1WGg2WHE5Vk1pQW9fcEVnc2ZCM1lxb2FQSmdHZEpmaVk0YnViRDdnMVVldmlKcVlqbzN0NmxEclFCNUZIbkRqTFlwV3hoY21QamhRb1EwbEFTeW1TMnU0TXVQcE5wVHQzSnlMQ051S0JkWkN2X283SDAzNklja3hQVzZOUklPVV9pZjNqOHJNalE?oc=5",
+   "date": "Mon, 23 Nov 2026 00:04:41 GMT",
+   "vu_le": "2026-11-23T00:30:35.485087+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Can Comcast (CMCSA) Hold Its Undervalued Case As Broadband Resets? - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONTNJaDlWakJMdDBJV2tnanJNQW5MZ0N2VF9Yb1ZYNTh1cmZNU3lzX3AzbkNUWE41WTRsUUlHaTJuc0Z6OFdMcUVEWjhSVVdUaFR2cFpma0lBd0pLY1U0TVp5MFdfeUM2d3IyNXAyLWRRN2RUOGNxQ1BSdXpXejlRMFJJRzhoMTIyalFIR1VySWRoWUJvYm1QdnVuQ3Z5aXBLUWd0RFpDYzVWRWpZekxWeEZLZXA2UWlGdEs4VEFsUjNhQ0Yz0gHKAUFVX3lxTE9aZ3ppb1JpYVEzeDVESkgtOGI2T2ZpcUJsMS1wSVJ2ZmMzMWxKcVlIQ25fdEhTcmRfa1BHb2VTQk1yVjBOUUdHdkVab28tTFRvNWJpd0lWMUhOV2dodTc1RUg5bWl5OF9VUVZJdnpBU1hFaVA3RVc4M3FCM1o0NDRfdE5YUzBqd3Y0MnhURUVUdk5tcmVUVGRGY2hfSjFBY3JicVdnTEhBOWhVYndweW45d1VjNmlRME9OUUYtOVVSdjdKMmFJZzJNZEE?oc=5",
+   "date": "Mon, 23 Nov 2026 00:22:21 GMT",
+   "vu_le": "2026-11-23T00:30:35.485087+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "ETFs Investing in Orkla India Ltd. Stocks - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1USXh5dnl5YzZKZU1XQmxyRGJmdGtBQlZLR2hNcVZUdm5oRU54b2ZBOW1WelhQOGRNTXdmZG9UclpLWDBwX1lfak8tNjQ1OTVBNlJ2dHF5YW9nOTIwT2thN3BOYzZCMXM?oc=5",
+   "date": "Sun, 22 Nov 2026 23:01:04 GMT",
+   "vu_le": "2026-11-23T00:30:35.485087+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic's IPO Drew 144 Trillion Won, but KOSPI Saw Just One New Listing in 26 Years - BigGo Finance",
@@ -6509,48 +6551,6 @@
    "titre": "Hong Kong can help connect global bay areas, Paul Chan says - South China Morning Post",
    "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ09hallYbzBOaVFYQlNhenZwMzVhSTMzZzZVaWNzcEJuMkFkQ2xSVDlxTjVCdTM4MmJFUm91cXY4aEZLdVJnQ2tTdlQ0MG1fcl9abDRHQXF4SkFDVGlSVFNXZExDNWFWVEQzTUxsellRN0V1Q0N4V0tfLV90bFNMQ21Tel9RXzFqZXlCUks0Qm0yZmxfZV9OTk9YaG1VYlhqN18wM29NU2dkRUsyS21EODZLMF9yY20tdEhXMzZUZFVGd1ZJZ05F0gHHAUFVX3lxTE9DT2FqWVhvME5pUVhCU2F6dnAzNWFJMzNnNlVpY3NwQm4yQWRDbFJUOXFONUJ1MzgyYkVSb3VxdjhoRkt1UmdDa1N2VDQwbV9yX1psNEdBcXhKQUNUaVJUU1dkTEM1YVZURDNNTGx6WVE3RXVDQ3hXS18tX3RsU0xDbVN6X1FfMWpleUJSSzRCbTJmbF9lX05OT1hobVViWGo3XzAzb01TZ2RFSzJLbUQ4NkswX3JjbS10SFczNlRkVUZ3VklnTkU?oc=5",
    "date": "Sun, 22 Nov 2026 08:23:54 GMT",
-   "vu_le": "2026-11-22T10:50:36.391503+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "HANG SENG INDEX (^HSI) Charts, Data & News - Yahoo Finance - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55Skp3dFFpR29zQVMwWEY4MVY4WlA3UmZDZm9udFN4eFNOZW5Wa01FWUJKdHZHLUNPdHZRWEN5c09SbEVXM1VLbE50b1Y1dlJzVEY1TQ?oc=5",
-   "date": "Sun, 22 Nov 2026 08:44:55 GMT",
-   "vu_le": "2026-11-22T10:50:36.391503+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Marvell Beat Earnings but Fell After Hours - Is MRVL Still a Buy Above $226? - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVHdjZTdORnJKMnN0Ql9TeFhVZzZGTGNwWFhhb2pLVTNGTVMwRmdFZjk2QlJSNG5ta29tVDZ6dEpSS3VnQ3BrQ3g2cXJBT19VN3ZCR3ZPazdxQlVDQWdyeE1FRmM2c0RfZ21PaU53NzVNQkNvWEtqQ0N2WFRuRklLdzdkS2Z4Wi1mWlBIQUthYnJWY09LSnZ6SDhmRS1WVzBkcWRhN251MmVsTUdjRjNYbjR3Z0hVenJfYWFJa3VuY3pFRGs?oc=5",
-   "date": "Sat, 21 Nov 2026 17:13:27 GMT",
-   "vu_le": "2026-11-22T10:50:36.391503+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Kinsale Capital Group (KNSL) Stock Still Looks Undervalued After A 99% Five Year Run - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3NYT0ZXS0lXaWMtNGlMbDdNa0NzLTJkaXZCWE9hZzlmSEMzZjVWM2oxcGUtcWw2a0Z4S2M5b2N5eVBrU3R2STRUZ1FldGxNTTVRUURRT3FPLUlOR1Q5Q0Zmajl3NHRJLUFPTFlkTm93TUpHbVhxbkhfNUJkd19sMXBFVklRMHZLakt3Q25oMUNqdUhCa2l1dmVPQ2p1QQ?oc=5",
-   "date": "Sun, 22 Nov 2026 10:07:17 GMT",
-   "vu_le": "2026-11-22T10:50:36.391503+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Top Tokenized ETFs by Market Cap - CoinGecko",
-   "lien": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zWFpsQ0xndFBVeFkxakVrWDVZUFpwNmRSdk9jLWQ3WTlUYXhBOWtnTjE1RXhaN0xPMEQyZGFfd1pRVTlYOF9hZg?oc=5",
-   "date": "Sun, 22 Nov 2026 01:13:09 GMT",
-   "vu_le": "2026-11-22T10:50:36.391503+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Sensex Gains 308 Points, Nifty Closes Above 23,000 as IT and Pharma Stocks Lead Rally - INDIA New England News",
-   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWndrT0xmdkJxeDluWUM1cjJYX2Z2VUZyQXlqMVZzZkMyUzFXQTJsQ2JlMzU2MUJzejJfLU0yZzNlRUFELTN2dWozZGRJcXVlUzlyZ3RwSlctcUJGSkpmcGRxUDhWRGxuRUt1V1cyY1A5SG1GWnBHb0s0VDE5Vk1FcGtDczFsSDNqR29vTENzTjRkemV6M1AtcnY3aXdGdW9qUGZBb2NSd2dZTTh2UW1VcFdn?oc=5",
-   "date": "Sun, 22 Nov 2026 09:15:58 GMT",
-   "vu_le": "2026-11-22T10:50:36.391503+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Imperial Blue sale pushes Pernod Ricard behind Diageo in India's alco-bev market - Moneycontrol.com",
-   "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONXVsRWtHV0FSVlFUZmNlSVFsZ3dya2JVOUsxOFZ3bnVTY3BTVFhmbFFjOGNXMFdNaUNpSUtTdHpUQ3N6MEstOGdqUENtTnlQS3NWWmNTelBnLUppeXFDN1dISVJHazR5OFc5Y3VlLUJnVnlFZjZOa0NhbmkwLWVmbGd4bEVhMjI0MkE5LS1lbE43RktLVGk2NHBtYjFRVUV0SUtUaWFjd3dLVWQ5SDZ5RWowckl1Vkp3UlhjeVJLSEo1eU8zQTE1STFMQUpzSFNZQ0ZUUTVhVTlWWFlLaEZ1NjA3ek5oZ9IB5gFBVV95cUxONXVsRWtHV0FSVlFUZmNlSVFsZ3dya2JVOUsxOFZ3bnVTY3BTVFhmbFFjOGNXMFdNaUNpSUtTdHpUQ3N6MEstOGdqUENtTnlQS3NWWmNTelBnLUppeXFDN1dISVJHazR5OFc5Y3VlLUJnVnlFZjZOa0NhbmkwLWVmbGd4bEVhMjI0MkE5LS1lbE43RktLVGk2NHBtYjFRVUV0SUtUaWFjd3dLVWQ5SDZ5RWowckl1Vkp3UlhjeVJLSEo1eU8zQTE1STFMQUpzSFNZQ0ZUUTVhVTlWWFlLaEZ1NjA3ek5oZw?oc=5",
-   "date": "Sun, 22 Nov 2026 09:04:37 GMT",
    "vu_le": "2026-11-22T10:50:36.391503+00:00"
   }
  ],

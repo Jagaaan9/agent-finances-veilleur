@@ -7,13 +7,13 @@ POSITIONS ET INDICES :
 - NASDAQ Composite Index (NASDAQ:IXIC) : 22617.733 , jour -5.28 %, mois -14.98 %
 - CAC 40 Index (EURONEXT:PX1) : 7927.75 , jour -1.89 %, mois 1.19 %
 - STOXX 50 (TVC:SX5E) : 5941.95 EUR, jour -2.81 %, mois -3.21 %
-- Japan 225 Index (TVC:NI225) : 58138.87 JPY, jour 3.02 %, mois -7.23 %
+- Japan 225 Index (TVC:NI225) : 59614.52 JPY, jour 5.63 %, mois -4.87 %
 - Hang Seng Index (TVC:HSI) : 22410.81 HKD, jour -1.89 %, mois -7.16 %
 - SSE Composite Index (SSE:000001) : 3533.7929 , jour -1.22 %, mois -5.53 %
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
-- Gold (TVC:GOLD) : 3572.84 USD, jour 0.98 %, mois -11.25 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09764 USD, jour 0.1 %, mois -2.13 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55739.77 EUR, jour -0.1 %, mois -23.02 %
+- Gold (TVC:GOLD) : 3572.781 USD, jour 0.97 %, mois -11.25 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09776 USD, jour 0.11 %, mois -2.11 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55758.29 EUR, jour -0.06 %, mois -23.0 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,12 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Bourse de Paris et Europe] Les temples délaissés de Rawalpindi, écho d'un passé oecuménique du Pakistan - Bourse Direct
+- [Rachats et fusions] Should You Buy Tesla or SpaceX Stock Before Their Potential Merger? - AOL.co.uk
+- [Résultats d'entreprises] Vodafone Idea's (NSE:IDEA) Performance Raises Some Questions - Simply Wall St
+- [Petites valeurs en croissance] With EPS Growth And More, Lonking Holdings (HKG:3339) Makes An Interesting Case - Simply Wall St
+- [Petites valeurs en croissance] Can Comcast (CMCSA) Hold Its Undervalued Case As Broadband Resets? - Simply Wall St
+- [Pays émergents] ETFs Investing in Orkla India Ltd. Stocks - TradingView
 - [Anthropic] Anthropic's IPO Drew 144 Trillion Won, but KOSPI Saw Just One New Listing in 26 Years - BigGo Finance
 - [Marchés mondiaux] Stock market today: Dow futures jump 700 points and Nasdaq soars 3% after entering correction - Fortune
 - [Marchés mondiaux] Is the AI Stock Market Boom Coming to an End? - News On Japan
@@ -457,10 +463,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Rachats et fusions] StockWatch: Insmed Jumps on Report of Takeover Interest by Sanofi, as Analysts Conclude a Deal Would Make Sense - Genetic Engineering and Biotechnology News
 - [Petites valeurs en croissance] Why Reddit Fell 53% Even As Profit Rose - Simply Wall St
 - [Défense, énergie, matières premières] From 4% to 12%: the defensive stocks that found growth - Livewire Markets
-- [Crypto] Bitcoin Climbs Back to $60,000 After Plunging to Two-Year Low - www.trendingtopics.eu
-- [Anthropic (FR)] actualites AVGO 167.1TCIOPENS (977MS) - Turbo | DE000SX7JAT6 - Cotation EURONEXT ACCESS PARIS - Bourse Direct
-- [Anthropic (FR)] Bulle ou pas bulle, peu importe: l’intelligence artificielle dévore la planète - Le Temps
-- [Bourse de Paris et Europe] Le CAC 40 décroche de 5,3 % sur fond de défiance envers l’IA - Zoom Invest
-- [Rachats et fusions] China Fines Baidu Unit 500,000 Yuan Over Joyy Deal - Retail News Asia
-- [Pays émergents] Record Rs 1.22 lakh crore foreign inflows: Is India becoming the world's 'anti-AI' trade? - The Times of India
-- [Pays émergents] Dalal Street Week Ahe
+- [Crypto] Bitcoin Climbs Back to $60,000 Aft
