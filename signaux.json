@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-23T00:40:35.554463+00:00",
+ "mis_a_jour": "2026-11-23T00:50:35.744100+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -90,10 +90,10 @@
   {
    "nom": "Japan 225 Index",
    "symbole": "TVC:NI225",
-   "prix": 59614.52,
+   "prix": 59378.38,
    "devise": "JPY",
-   "jour_pct": 5.63,
-   "mois_pct": -4.87,
+   "jour_pct": 5.21,
+   "mois_pct": -5.25,
    "volume": null,
    "volume_relatif": null,
    "capitalisation": null,
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3570.792,
+   "prix": 3574.63,
    "devise": "USD",
-   "jour_pct": 0.92,
-   "mois_pct": -11.3,
+   "jour_pct": 1.03,
+   "mois_pct": -11.2,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.0977999999999999,
+   "prix": 1.09794,
    "devise": "USD",
-   "jour_pct": 0.11,
-   "mois_pct": -2.11,
-   "volume": 10266,
+   "jour_pct": 0.13,
+   "mois_pct": -2.1,
+   "volume": 11114,
    "volume_relatif": 0.06,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55595.02,
+   "prix": 55586,
    "devise": "EUR",
-   "jour_pct": -0.36,
-   "mois_pct": -23.22,
-   "volume": 5.07967136,
+   "jour_pct": -0.37,
+   "mois_pct": -23.24,
+   "volume": 5.64500012,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -3754,6 +3754,20 @@
  },
  "actualites": [
   {
+   "sujet": "Pays émergents",
+   "titre": "Indian Stock Market News, Equity Market and Sensex Today in India - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdTdxYUhBdzhRN3l3NGJtWVJmN3JacEJiQXhKb2w5MHpGT2lUWDlIZGVFOTA4MDI0UEg5VGVHVGppY0VRbGVpQUk5X3U1UC02RzNEWmU0TnU1ZFVaTUVsczBpUWJrSUZhczlGTUtKM2JTNkUyQkZDUnRVMDNtS0hsc3lJbTNJMTM0dTBoYlVVMkZieWlMTkFXVU5CRTdDQ3VMbDdaRmNvQkZ1dFM0Z3hscHVKT3dNLUJqbUxETmtsRWg0bUVmc24zZ0FXNVRodERmM2s0ZldqU1pGZEp5NGV1c2hjVEZzMmhXZy0yQmUwbHUtQ0IzbTQ3OWgtZ1pveGxabE5acUVjQ0VZbzZSZVZKaC1CWE96U1RrLV84QmxBUHE?oc=5",
+   "date": "Mon, 23 Nov 2026 00:30:00 GMT",
+   "vu_le": "2026-11-23T00:50:35.744100+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "HawkEye 360, Inc. (HAWK) stock price, news, quote and history - Yahoo Finance Australia",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIOGpPbnBETU1jSTNDX0xSOWs0VkU2SUZzTWJKSk0wQzRpVmptRDBBdThzTkhFN0JJS3phNXdNdEZrUm4tNWZOTnZ1MWoxeEVyX1E?oc=5",
+   "date": "Sun, 22 Nov 2026 12:31:50 GMT",
+   "vu_le": "2026-11-23T00:50:35.744100+00:00"
+  },
+  {
    "sujet": "Marchés mondiaux",
    "titre": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely - Bloomberg.com",
    "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcThLY0szV3pPS2IxUHRPYm5NSDNZU25MRWJYZkplcU43YjhEb2JSRm5kdmR2ZWYyN2pDMzhOb2RjUUdiMjFBbFZRMDlDNTZVZDRjYWluVmQ3WElhaFVMNkwzZUxGQ2dBSEI2MU4yTlZ2NDFacEdtUUF2aUYyZm9RZl9JSnBvd2Y2UFhpSmdsNDBSRFUtVDJ5ejJSSXZ3cTAwbEtfYzJFR1ZmWGFYQTBrZTNnUQ?oc=5",
@@ -6538,20 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNemdSMmZoLWxpOFVtMmV1SEVodW9XNW42dVkzZGQwWURqWmFZVXhUd2tUZ2J4NnpGTVBQczJYMFFBZlc0alRLUk9tekFlQ3F0ZXVpdk9MdUxIRVFrX1E4cXJUNldHbFBEODZwcnd2ZTdOU0E2QXJJejlidlJDSkhYdnBLQ1FkYmliNGdGQXRUSVVXTHZWMU5FNVhPZw?oc=5",
    "date": "Sun, 22 Nov 2026 10:54:38 GMT",
    "vu_le": "2026-11-22T11:10:35.471498+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 22, 2026 at 7am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbUN5MlVXY056cFB3QXoyOFZIWHRfRFlXM18wVFMxeTB2N1l4Z0VKcVZOazF6QlJPbVpUT3JwOWhTaHU2NklZNFVXdnZiclZldHE4S0kweFp1bEVqNVlYbUcwRFN5UDFNendicFY5UnVSRmlaWWJBYUozUjlkR2RJYXN4cTRIazdSY1pVb2wzVlZoN2tGTTBqTDRUTEZfcnJ5bmpEN1NZYUJiZWlzLWc?oc=5",
-   "date": "Sun, 22 Nov 2026 11:04:17 GMT",
-   "vu_le": "2026-11-22T11:10:35.471498+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Ébranlé par la démission de son PDG, Jensen Huang le géant des puces a perdu près de 50 % depuis début octobre. - IsraelValley",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUURFajdpYXlIM0JMamJXWjVmeXcxdUY3NEN6ZWpHdEhJcll1YlVCZkxMRnk1Z29BR1pzZmRrMm1YYm1ZR2k4bWZrQ1JNcWRVS0E1NTFNOUZZRmEwQXdndFRqWU9VTHRlaFQtaGZtRDFDREgwdE4tYmZwRTRUX0VKeXRUdUZ6N1NBbFB0ODhDamlwQjdnTW1QMUhhQTJ4dmp6UEswZHlCampDV0M3dkN3bU4tMkYtVDlmMmNqWEpFcHVSWkpfWGJ5eXBfZGVfMW1PakM3TE1NU2MzQ3Fi?oc=5",
-   "date": "Sat, 21 Nov 2026 12:17:39 GMT",
-   "vu_le": "2026-11-22T11:00:34.989141+00:00"
   }
  ],
  "erreurs": []

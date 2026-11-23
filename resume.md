@@ -7,13 +7,13 @@ POSITIONS ET INDICES :
 - NASDAQ Composite Index (NASDAQ:IXIC) : 22617.733 , jour -5.28 %, mois -14.98 %
 - CAC 40 Index (EURONEXT:PX1) : 7927.75 , jour -1.89 %, mois 1.19 %
 - STOXX 50 (TVC:SX5E) : 5941.95 EUR, jour -2.81 %, mois -3.21 %
-- Japan 225 Index (TVC:NI225) : 59614.52 JPY, jour 5.63 %, mois -4.87 %
+- Japan 225 Index (TVC:NI225) : 59378.38 JPY, jour 5.21 %, mois -5.25 %
 - Hang Seng Index (TVC:HSI) : 22410.81 HKD, jour -1.89 %, mois -7.16 %
 - SSE Composite Index (SSE:000001) : 3533.7929 , jour -1.22 %, mois -5.53 %
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
-- Gold (TVC:GOLD) : 3570.792 USD, jour 0.92 %, mois -11.3 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.0977999999999999 USD, jour 0.11 %, mois -2.11 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55595.02 EUR, jour -0.36 %, mois -23.22 %
+- Gold (TVC:GOLD) : 3574.63 USD, jour 1.03 %, mois -11.2 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09794 USD, jour 0.13 %, mois -2.1 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55586 EUR, jour -0.37 %, mois -23.24 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -317,6 +317,8 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Pays émergents] Indian Stock Market News, Equity Market and Sensex Today in India - Equitymaster
+- [Défense, énergie, matières premières] HawkEye 360, Inc. (HAWK) stock price, news, quote and history - Yahoo Finance Australia
 - [Marchés mondiaux] Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely - Bloomberg.com
 - [Chine et Asie] Hong Kong IPO boom stalls $6bn short of its 2010 record - IntelliNews
 - [Résultats d'entreprises] Cisco Smashes Q3 FY2026 With Record $15.8B Revenue and $2.1B in AI Orders - Is CSCO a Buy at $102? - TradingKey
@@ -462,6 +464,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Intelligence artificielle] DNI Clayton says China likely obtained Nvidia AI chips - CNN
 - [Crypto] XRP price at Nov 22, 2026 at 2pm EST Crypto Prediction Market - Robinhood
 - [Crypto] Are Innovations Being Deliberately Overlooked in Crypto? Who Profits from Keeping Information Hidden? - Kriptofoni
-- [Crypto] ETH price on Nov 22, 2026 at 3pm EST Crypto Prediction Market - Robinhood
-- [Anthropic] Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters - Yahoo Finance Singapore
-- [Marchés mondiaux] Wall Street Brunch: Can AI Bulls Get Up Off The Canvas? (undefined:ANT
+- [Crypto] ETH price on Nov 22, 2026 at 3pm EST Crypto Prediction Market - Ro
