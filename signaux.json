@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-23T00:00:36.690533+00:00",
+ "mis_a_jour": "2026-11-23T00:10:36.792186+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3583.291,
+   "prix": 3574.292,
    "devise": "USD",
-   "jour_pct": 1.27,
-   "mois_pct": -10.99,
+   "jour_pct": 1.02,
+   "mois_pct": -11.21,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,12 +160,12 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09722,
+   "prix": 1.09778,
    "devise": "USD",
-   "jour_pct": 0.06,
-   "mois_pct": -2.16,
-   "volume": 5560,
-   "volume_relatif": 0.03,
+   "jour_pct": 0.11,
+   "mois_pct": -2.11,
+   "volume": 7110,
+   "volume_relatif": 0.04,
    "capitalisation": null,
    "per": null,
    "bourse": "FX",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55793.99,
+   "prix": 55687.92,
    "devise": "EUR",
-   "jour_pct": 1.65,
-   "mois_pct": -22.95,
-   "volume": 177.47474349,
-   "volume_relatif": 0.73,
+   "jour_pct": -0.19,
+   "mois_pct": -23.1,
+   "volume": 2.6213313,
+   "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3469,20 +3469,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
-    "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 39.67,
@@ -3507,6 +3493,20 @@
     "volume_relatif": 1.71,
     "capitalisation": 3235509897217,
     "per": 13.8,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.73,
+    "devise": "USD",
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3753,6 +3753,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "AI Stocks Trigger Broad Wall Street Sell-Off - Sharecafe",
+   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOUY0Nmx2QWZISFd6VVlvSEttdW1iY0xXRXlCbkFPWTMteWpRcEVkS25OTm40dVJlUzh2WHBGRFdlUG5YaUpfN1lvdS0yUElPV0ZPNVhiaXg0WHBodGRBR1ZOR2tWdGZuSkdrRFhEc2ozU3hRRVVFYV9NTkIzX1R5a3dFekxLb2hROTJfOFRR?oc=5",
+   "date": "Sun, 22 Nov 2026 23:27:55 GMT",
+   "vu_le": "2026-11-23T00:10:36.792186+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Asia Braces for Volatility After Wall Street Selloff - JournalArta",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQkJ2cUpnNmhZRU5lY3JCZmZMLU94TktUcThQdmlDVnIxaXF1Y3Vwb2JhNWYwVWp6cnJJOTFwNlRkM1NscV9mNVA2dC1Jdjl1S21MN0tIbEhEN0M2UFJGMWpRZFZLam03cEJQWFZ6STVHZTNuR1FaYjc5VnlUX08yazN3MkNCVWdn?oc=5",
+   "date": "Mon, 23 Nov 2026 00:05:26 GMT",
+   "vu_le": "2026-11-23T00:10:36.792186+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin's Slide to $55,000 Puts the Four-Year Cycle to the Test as On-Chain Gauges Stay Above Past Bear-Market Lows - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JU2FSVWdCTEVxTVZQbUMyai1HbGFhQkR0SHctRDhOUFRzU3hlS2xYX1ZjWWJzY3p4cFdZSEh3MXk1S1FPa3JFbUdKa2tHQzg3ZkNQNzRaelh0VkJWODAxcXE0RWZqbUFvV29UTE90MTN2T0U4Rnc?oc=5",
+   "date": "Sun, 22 Nov 2026 23:25:00 GMT",
+   "vu_le": "2026-11-23T00:10:36.792186+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "What Did The Anthropic IPO Tell Us About The AI Bubble? - TalkMarkets - Howl.Link",
@@ -6531,27 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qS295djdtaHNudEZrc1hXWU5WeVM1cWQ2RTBRWnJ0OFNiZExQVXllbThpa0ZEMXZ1V1JKRlhzd0lMTXFZejR1RGoxVTFNb05hSVNmM2sxbFM3N25TMUtTbzFB?oc=5",
    "date": "Sun, 22 Nov 2026 10:04:18 GMT",
    "vu_le": "2026-11-22T10:40:35.025794+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "$400M in crypto shorts liquidated as market recovers from crash - Crypto Briefing",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUS1vam80cGplUFZwU1RCYzQ4MENSaFdETV9UMVlYcHdQVnllZmVUUzlMNktPWkxSMy16RmZSTWtmam5OdnU3dm9RWWxqemRXV0RyemFqdVRjcVpBWENKaGZmbVctdkdFVVZRSktBQzRKZldfQkF6RnM4S3BESl9hWW84cVpZc0NrLU8wNUJ3UDFqUUhq?oc=5",
-   "date": "Sun, 22 Nov 2026 10:36:45 GMT",
-   "vu_le": "2026-11-22T10:40:35.025794+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Il est milliardaire mais n'a aucun diplôme, il scrute la \"boîte noire\" de Claude: qui est Chris Olah, le visage méconnu d’Anthropic qui a demandé l'aide du pape pour encadrer l'IA? - BFM",
-   "lien": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNUXIzZVdNM0FuODJNLWJQRnlzdG56MTBfdW5DZXZCcENkVXpvU0VzamJkcG5MN3l1X19RR3ZxdzlNOHFiNWNpci1mMTFYWG00THNIcjk4Qnh5NlBOZ1F5Ym1GRlZjdFZfSjdKZTNMZE1nNl9kZ0ZUa1ZRTGJyaWYxTjQ5TFRVNlNOTmZUUURfMFZJdHlod094Z2xnOFd5ODh3dmlMZVpLdVUxalRNbjJTTnBzeFZ3N3RFaTNjQ2stS1BtSVRQZVBkdFY2Q3JiVFBBS1U4YTdSTjFIdlpjU0ZXM0F3alRqbGpGVjBVNUVUeGJJLWdvMGRxRFlLaS1KZjZNTVNPZ0gxRDhTY3NCRzlFQjdEdkNVLV9sckRhSUp3QUxseldKSG5mQWZJRXFLOGk5YTNUaGQxRHVGNzJ0WEozX2h5bnNmQ2FpT3o1QmxGTnRlV1FoekVrM05iaDA?oc=5",
-   "date": "Sun, 22 Nov 2026 10:02:51 GMT",
-   "vu_le": "2026-11-22T10:30:36.888321+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Piratage de GTA 6, IPO d'Anthropic et Face Unlock sur iPhone Duo — le récap tech de la semaine - Numerama",
-   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNX2hDczJYOS1aUVRQOUprZVN0QVJfX0JlZ1kwcDlwaVV6YW1JY1cwUjRxM2RMT1dCN0d4b2kxaUh4SzlQWnhwOHcxcmdYcVZ0b25PSWFyU09qN3ZrSVZnLWNtV3dfdjB0QXRnbmdQTUZOVjN0V0E1Y0NWamF5RzBDS05XQ3pkMmNpMF8xSy1NejFMOEhNeDRsOVAyN251UzF6U2NhZ2ZhcnRUaUZ5Q2c2aU9uUEY5QkRkLXRYczFvMThhRzJJaGR3cTJWVFRxQzg5SUgzZTN0UQ?oc=5",
-   "date": "Sun, 22 Nov 2026 09:07:00 GMT",
-   "vu_le": "2026-11-22T10:30:36.888321+00:00"
   }
  ],
  "erreurs": []

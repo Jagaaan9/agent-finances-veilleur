@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22410.81 HKD, jour -1.89 %, mois -7.16 %
 - SSE Composite Index (SSE:000001) : 3533.7929 , jour -1.22 %, mois -5.53 %
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
-- Gold (TVC:GOLD) : 3583.291 USD, jour 1.27 %, mois -10.99 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09722 USD, jour 0.06 %, mois -2.16 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55793.99 EUR, jour 1.65 %, mois -22.95 %
+- Gold (TVC:GOLD) : 3574.292 USD, jour 1.02 %, mois -11.21 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09778 USD, jour 0.11 %, mois -2.11 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55687.92 EUR, jour -0.19 %, mois -23.1 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,9 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] AI Stocks Trigger Broad Wall Street Sell-Off - Sharecafe
+- [Pays émergents] Asia Braces for Volatility After Wall Street Selloff - JournalArta
+- [Crypto] Bitcoin's Slide to $55,000 Puts the Four-Year Cycle to the Test as On-Chain Gauges Stay Above Past Bear-Market Lows - BigGo Finance
 - [Anthropic] What Did The Anthropic IPO Tell Us About The AI Bubble? - TalkMarkets - Howl.Link
 - [Marchés mondiaux] Taiwan Announces Short-Selling Ban To Save Its AI Stock Market - Yahoo Finance
 - [Pays émergents] Earnings delivery to drive next phase of returns: Chockalingam Narayanan - Business Standard
@@ -461,7 +464,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - AP News
 - [Anthropic] Anthropic IPO: OKX Distributes 20,000 €50 Vouchers On X-Perps - Cointribune
 - [Anthropic (FR)] IPO Anthropic : OKX distribue 20 000 vouchers de 50 € sur X-Perps - TradingView
-- [Intelligence artificielle] US intelligence says China accessed restricted American AI chips - Crypto Briefing
-- [Pays émergents] Pernod Ricard weighs India IPO as market closes in on US in global sales - The Economic Times
-- [Crypto] Top 3 Crypto Price Predictions for This Week: Dogecoin, Cardano, and Chainlink - Cryptonews.net
-- [Anthropic] Anthropic's IPO made its 7 foun
+- [Intelligence artificielle] US intelligence says China accessed restr
