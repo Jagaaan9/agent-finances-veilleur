@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-23T00:50:35.744100+00:00",
+ "mis_a_jour": "2026-11-23T01:00:37.438716+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -90,10 +90,10 @@
   {
    "nom": "Japan 225 Index",
    "symbole": "TVC:NI225",
-   "prix": 59378.38,
+   "prix": 59319.35,
    "devise": "JPY",
-   "jour_pct": 5.21,
-   "mois_pct": -5.25,
+   "jour_pct": 5.11,
+   "mois_pct": -5.34,
    "volume": null,
    "volume_relatif": null,
    "capitalisation": null,
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3574.63,
+   "prix": 3573.151,
    "devise": "USD",
-   "jour_pct": 1.03,
-   "mois_pct": -11.2,
+   "jour_pct": 0.98,
+   "mois_pct": -11.24,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,12 +160,12 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09794,
+   "prix": 1.09792,
    "devise": "USD",
    "jour_pct": 0.13,
    "mois_pct": -2.1,
-   "volume": 11114,
-   "volume_relatif": 0.06,
+   "volume": 12132,
+   "volume_relatif": 0.07,
    "capitalisation": null,
    "per": null,
    "bourse": "FX",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55586,
+   "prix": 55769.58,
    "devise": "EUR",
-   "jour_pct": -0.37,
-   "mois_pct": -23.24,
-   "volume": 5.64500012,
+   "jour_pct": -0.04,
+   "mois_pct": -22.98,
+   "volume": 6.06447805,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -3469,14 +3469,14 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
+    "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
+    "prix": 39.73,
     "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
+    "jour_pct": -2.12,
+    "mois_pct": -17.23,
+    "volume": 717188,
+    "volume_relatif": 0.47,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3497,14 +3497,14 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
+    "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.73,
+    "prix": 39.67,
     "devise": "USD",
-    "jour_pct": -2.12,
-    "mois_pct": -17.23,
-    "volume": 717188,
-    "volume_relatif": 0.47,
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Stocks to watch: UOB, Hongkong Land, Stoneweg, Marco Polo Marine - The Business Times",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2FGc01EMHNuM0RjVFc1cWtkS3BvbTZnQ29HeTdoZjVnUmo0cEYzZjAwT1ljYnAwQjlLdGlROGtyYjJRc2RPQ29QU0t3cXN1UTF3LVFJRlVaZUJGNWtqby00Y1F3c1pTamFVYy15T21uQ3VMalVXTlVsUGdrQjIwU1VLTmxaSjNGa19LRXpWTGozcGJDczFnM2NIbnVucWFuMVlfdVl0aWpTTFo1?oc=5",
+   "date": "Mon, 23 Nov 2026 00:42:00 GMT",
+   "vu_le": "2026-11-23T01:00:37.438716+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUVBQQnREaHBhVnByYVlfMGZjWVFzOG1TMnFiT0V4cEpObHFId0s0UHdLdV9UMzVVUnowdG5XcU90cUFLdFBTN08xZUtMcHZNcDJvZjllMVFfemdxQlN3eGlBRVZ0eFZieS1Ka3VVTkhYY3o4ZndEM2JvQjZZYjEwM2VHSGRMUUFqTHZKQ045SjJ1cGNNdE9oZHlReFZQajl0MnkyMUVGOF9JVWN4SzdKMVdjQldabVpFLXJmQktwb1I0Z1dKUC16VUNqcw?oc=5",
+   "date": "Sun, 22 Nov 2026 08:05:05 GMT",
+   "vu_le": "2026-11-23T01:00:37.438716+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Asia-Pacific stocks fall as S&P 500 enters correction territory - scanx.trade",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWmlDVkwxZ2tXbEJTTmUzM1R4dTJlVE1GcTRXMUtHUml3YnBROUZJNVdGV1l2MGhWT052blIyQmxmLVA5Y094QTVsdHNCaUx4bnZza05iX3UwbU5tamRhejF1bmw2cVZjTWNBRmtGc0s4R1owS3BtRWQxNVhpLVlGZHpNY2Yzb1JBaEp4ZWlFUmMxV0RUczJ3R2V3REhkdkNKbDdqcXNPYWJyUEwtMTBLcXRzbVI?oc=5",
+   "date": "Mon, 23 Nov 2026 00:50:32 GMT",
+   "vu_le": "2026-11-23T01:00:37.438716+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Defence to AI data centres: Meet 2 Indian EMS stocks with 70%+ profit growth - The Financial Express",
+   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMmQzTmlhM1oyNTZOeGlNSklGMldQQ0c2LTV5eEdRNnh1OEU0R0UzQVZCNlRzMV9Zb2kzbXhHZFhSMmNrci16aG40ZzN6VGhkcGZlS3NHcnN0bHRKUHRHQjRTWjRJYml2RVpTc1hpWm1OcmNMS2pmMDBmVVpmVXVPeUprMmN5d1NzeU9keXMxM1I0cUVFSUhPVXg1TmFhQTN2cFZwNUxkeW9XZnJFRUNVNWduYjRiMEhtUGlCYUhfMVFZeFZWZmRYVWtoWVR4ci1EMTNB0gHaAUFVX3lxTFBzNmZ4eXFncDNxazNGRWhVTTdJdkhidE9nYXgtUklLcExyWHhsRXdXb0hPWGJGQjU1V1A5M3phQzVUWHJzb1ZQXzlLNm5QNTRmOS1sZkhTSTltZEZISFdvdlZabkd4ZFhIeDVRNEhadVNMQ1MydFVPUlpEWUhTbEQ1UkdNY0RyZ1htRWRTREVEdzVQSDl0dVRQRXpIbVotTkdYSkhfX3lEYXJYS1l5cm1HdWFKSmJvbHNqanhGZ3NnZmJyMXB6cDBwMVpvRHFNY0toMms0RHdvdEJ3?oc=5",
+   "date": "Sun, 22 Nov 2026 23:55:00 GMT",
+   "vu_le": "2026-11-23T01:00:37.438716+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Reclaims $60,000 as Four-Year Cycle Bottom Comes Into Focus - Businesskorea",
+   "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jb0hwUVFBNVJoNzRjMjZOM0R3ck1MUnVHU095dlJhakNKWDg0T3BPMVVmRWdsc0dxUmVJQUtNa2duRWNQRkszZmhjWDZXc1NDMnBYbGEteVRUVk81R0I3REg4WmFELWZWN05lQ1FTckdjQXBl?oc=5",
+   "date": "Mon, 23 Nov 2026 00:41:52 GMT",
+   "vu_le": "2026-11-23T01:00:37.438716+00:00"
+  },
   {
    "sujet": "Pays émergents",
    "titre": "Indian Stock Market News, Equity Market and Sensex Today in India - Equitymaster",
@@ -6517,42 +6552,9 @@
    "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSWRYbEZJc2tqeHlWZXlVNTlBc0NSU05aX0o4TVZUNDdBTWdrcU5rckt5bFNkOGlJdFFCZFkycE44UllYUDRoNFIxaWNKMHBtTVQ4UjRWZTh3VmhxbzdNeWR0UVVhOWlEUGhuTFpfMUUxYzVrSTlHVHZwLTBYX2liTmxxenJSeG1BWXNFQTFqamtMWjRBYXprUTVpMGd6RGxQMTZ4aDg1ZHFpeTFJMzZFcVE3V1ppX3NmZWptVDZaeUJrS3NCT2FaVU10ekJKYVp3VnhsVi01RHBoT0s4dXhpRjJDMEdfbDBmUXl0Wm1EMlg?oc=5",
    "date": "Sun, 22 Nov 2026 11:14:39 GMT",
    "vu_le": "2026-11-22T11:20:36.364695+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Missed Out On Guaranty Trust's Run? Here's The Bet Holders Made - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcW00bTlDZFNDcGNHV3EtY3ZSOEVGVEEybmU4ODVfVXQtNVJ5UEtLYzRXeW13WDg2Ulp6azV0dldYb1haMnRETnlFSUZyMFJuTU5aU2t1bDJJaTltNGtXUXIxeG1iVHF5b3FXMzdOUnFsMDZERUJHNlo4TTlsNkl2cWo1OTJEbnhfT2xDMTNqY1ZYWG1vOXR5Mm10X0hVUER3dWFib1F4TGstTVA2d1F1amNQNGVaV2ZaSE12VnM2eUdObzhVekFMVkVBcDhpYWdqMm9iaVJSR19CY2vSAeABQVVfeXFMTXdXUEQtSmtzN1dxMWRLcGRYbVJfVmZXX3lIUVRQVHkyZ2trSENLOUZhY1VxZ0k4ZldMZkY1QzlqWmYwR2ZnbV9oRjJJYXhMekdnTlJ3dDJwTk13M0NzZkhWSWtYRW1tRlREM2RyWENPUEFabzE0cTV0a1ZjWE5jUWVOcU50WHJEMjE1UUVXaW5QR29ueWxvRVdURTdULWhhbWJ6bW13bEc3cmwwRjN1MDVFUkdIWnFjMDN4VXR1X2RZVmxDQ1dUeVNtVGxKOXN1ZTF3ZldBU0dyNnFjaTdneG4?oc=5",
-   "date": "Sun, 22 Nov 2026 11:09:55 GMT",
-   "vu_le": "2026-11-22T11:20:36.364695+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin crashes to two-year low, losing more than half its value since October peak - Ynetnews",
-   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZMUtmZmVXa2dya195bFpnelV1NDJzR0h4amtQYWVGQ0xwT0Ytbko3SENnbDRVMnBmN25LbWFBT3JuWmhVUTBLOGloZGdQVExUNW1iYXVOMUJLX2FjdDZwZ3pn?oc=5",
-   "date": "Sun, 22 Nov 2026 11:05:16 GMT",
-   "vu_le": "2026-11-22T11:20:36.364695+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Comme SpaceX, Anthropic a suivi un processus d’introduction en Bourse inhabituel, au grand dam de certains banquiers - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEQ1aGEzVnhQUkR3MWRVTnFRX2N6MXdJaW9mM0xjWVpBLTlad0NQbnJFOEE4WTBWVjR0TTB0OVRxOU1ZSWJuWWQ1WU1RRm5SX2FPbDcyYjJMYkxQWGlXZDFEQWxFd3VxUEVSUFhUb08zdXQ5cG9HazM0cWFtNVZza0lqOVU5RUhZTVhvNEV5d1REdEpxbi12OThKMWFNb19jbzkzN3Q4eFZYWXpiZ3NDSGxlZ0NENnlCRll2eS1rUndhSkxqbmlnaDNJR3YxUUI0NnQ3X0VTWHpJMTdiRHFwZ1p0czdMSmQ2T0hXSQ?oc=5",
-   "date": "Sun, 22 Nov 2026 11:01:49 GMT",
-   "vu_le": "2026-11-22T11:10:35.471498+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China's AI stocks have lost $1.7T since June-end - NewsBytes",
-   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVhpN25SNjRFaU5qcWRpU2t6RGV5TWF0dXNNZnBIQm5qT2xsOXJUZlB5djFreGhQQlJpT2RQRWZxWmFhaTVnTmQ5c2RickwyV24yMUpuR2lZbXZydGFveWZlZHgteHBvMTNqMC1sRVR1VU1Wdk1TQTdLcDJOZDhZeXN3UW1wWHRCRzloTVRR?oc=5",
-   "date": "Sun, 22 Nov 2026 10:58:40 GMT",
-   "vu_le": "2026-11-22T11:10:35.471498+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "30 Years of Stock Market: A Message from Those Who Layed the Foundation of the Market - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNemdSMmZoLWxpOFVtMmV1SEVodW9XNW42dVkzZGQwWURqWmFZVXhUd2tUZ2J4NnpGTVBQczJYMFFBZlc0alRLUk9tekFlQ3F0ZXVpdk9MdUxIRVFrX1E4cXJUNldHbFBEODZwcnd2ZTdOU0E2QXJJejlidlJDSkhYdnBLQ1FkYmliNGdGQXRUSVVXTHZWMU5FNVhPZw?oc=5",
-   "date": "Sun, 22 Nov 2026 10:54:38 GMT",
-   "vu_le": "2026-11-22T11:10:35.471498+00:00"
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "actu Bourse de Paris et Europe: HTTP Error 429: Too Many Requests"
+ ]
 }

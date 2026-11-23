@@ -7,13 +7,13 @@ POSITIONS ET INDICES :
 - NASDAQ Composite Index (NASDAQ:IXIC) : 22617.733 , jour -5.28 %, mois -14.98 %
 - CAC 40 Index (EURONEXT:PX1) : 7927.75 , jour -1.89 %, mois 1.19 %
 - STOXX 50 (TVC:SX5E) : 5941.95 EUR, jour -2.81 %, mois -3.21 %
-- Japan 225 Index (TVC:NI225) : 59378.38 JPY, jour 5.21 %, mois -5.25 %
+- Japan 225 Index (TVC:NI225) : 59319.35 JPY, jour 5.11 %, mois -5.34 %
 - Hang Seng Index (TVC:HSI) : 22410.81 HKD, jour -1.89 %, mois -7.16 %
 - SSE Composite Index (SSE:000001) : 3533.7929 , jour -1.22 %, mois -5.53 %
 - VOLATILITY S&P 500 (TVC:VIX) : 35.9 USD, jour 26.28 %, mois 108.12 %
-- Gold (TVC:GOLD) : 3574.63 USD, jour 1.03 %, mois -11.2 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09794 USD, jour 0.13 %, mois -2.1 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55586 EUR, jour -0.37 %, mois -23.24 %
+- Gold (TVC:GOLD) : 3573.151 USD, jour 0.98 %, mois -11.24 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09792 USD, jour 0.13 %, mois -2.1 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55769.58 EUR, jour -0.04 %, mois -22.98 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.95 , jour -1.98 %, mois -3.45 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -293,9 +293,9 @@ POSITIONS ET INDICES :
 - PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.74 %, mois 22.33 %, prix 8.08 EUR, capi 586152442.851264, PER None, volume x1.58 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -2.12 %, mois -17.23 %, prix 39.73 USD, capi 3235509897217, PER 2.1, volume x0.47 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.7 %, mois -21.27 %, prix 265.29 USD, capi 3235509897217, PER 13.8, volume x1.71 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.98 %, mois -17.9 %, prix 39.67 USD, capi 3235509897217, PER 2.1, volume x0.83 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.59 %, mois -20.8 %, prix 264 USD, capi 3235509897216.9995, PER 13.8, volume x1.77 la normale
 - NVIDIA Corporation (NASDAQ:NVDA, secteur Electronic Technology) jour -14.01 %, mois -43.19 %, prix 125.53 USD, capi 3025272970581.0005, PER 13.5, volume x1.6 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -4.59 %, mois -7.28 %, prix 46.36 USD, capi 1433642301357, PER 1.6, volume x1.51 la normale
@@ -317,6 +317,11 @@ POSITIONS ET INDICES :
 - Pernod Ricard SA (EURONEXT:RI, secteur Consumer Non-Durables) jour 0.42 %, mois 7.55 %, prix 71.24 EUR, capi 17900036492, PER 14.9, volume x1.38 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] Stocks to watch: UOB, Hongkong Land, Stoneweg, Marco Polo Marine - The Business Times
+- [Résultats d'entreprises] Why Is Meta (META) Crashing After Earnings? EPS Missed 14%, FCF Hit $784M, Capex Raised Again - TradingKey
+- [Défense, énergie, matières premières] Asia-Pacific stocks fall as S&P 500 enters correction territory - scanx.trade
+- [Défense, énergie, matières premières] Defence to AI data centres: Meet 2 Indian EMS stocks with 70%+ profit growth - The Financial Express
+- [Crypto] Bitcoin Reclaims $60,000 as Four-Year Cycle Bottom Comes Into Focus - Businesskorea
 - [Pays émergents] Indian Stock Market News, Equity Market and Sensex Today in India - Equitymaster
 - [Défense, énergie, matières premières] HawkEye 360, Inc. (HAWK) stock price, news, quote and history - Yahoo Finance Australia
 - [Marchés mondiaux] Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely - Bloomberg.com
@@ -459,9 +464,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] Have Figma Insiders Been Selling Stock? - Simply Wall St
 - [Crypto] XRP price at Nov 22, 2026 at 1pm EST Crypto Prediction Market - Robinhood
 - [Crypto] How XRP Has Traded Every December Since 2017 - 24/7 Wall St.
-- [Anthropic] Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale - The Killeen Daily Herald
-- [Marchés mondiaux] If the AI Boom Turns Into a Total Bust, Here’s What the Pain Could Look Like - Barron's
-- [Intelligence artificielle] DNI Clayton says China likely obtained Nvidia AI chips - CNN
-- [Crypto] XRP price at Nov 22, 2026 at 2pm EST Crypto Prediction Market - Robinhood
-- [Crypto] Are Innovations Being Deliberately Overlooked in Crypto? Who Profits from Keeping Information Hidden? - Kriptofoni
-- [Crypto] ETH price on Nov 22, 2026 at 3pm EST Crypto Prediction Market - Ro
+- [Anthropic] Anthropic's reco
