@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-23T22:20:35.979446+00:00",
+ "mis_a_jour": "2026-11-23T22:30:35.413395+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -8,7 +8,7 @@
    "devise": "USD",
    "jour_pct": -1.43,
    "mois_pct": -21.4,
-   "volume": 253369739,
+   "volume": 253420631,
    "volume_relatif": null,
    "capitalisation": 1158569497481.9185,
    "per": null,
@@ -52,7 +52,7 @@
    "devise": "",
    "jour_pct": 6.51,
    "mois_pct": -6.97,
-   "volume": 9545367498,
+   "volume": 9570327149,
    "volume_relatif": 1.12,
    "capitalisation": null,
    "per": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09012,
+   "prix": 1.09015,
    "devise": "USD",
    "jour_pct": -0.01,
    "mois_pct": -2.79,
-   "volume": 389,
+   "volume": 487,
    "volume_relatif": 0.0,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 56154.64,
+   "prix": 56124.52,
    "devise": "EUR",
-   "jour_pct": 0.65,
-   "mois_pct": -22.45,
-   "volume": 226.85519906,
+   "jour_pct": 0.59,
+   "mois_pct": -22.49,
+   "volume": 227.19392844,
    "volume_relatif": 0.91,
    "capitalisation": null,
    "per": null,
@@ -209,8 +209,8 @@
     "devise": "USD",
     "jour_pct": 109.08,
     "mois_pct": 20.33,
-    "volume": 12578269,
-    "volume_relatif": 131.5,
+    "volume": 12582359,
+    "volume_relatif": 131.54,
     "capitalisation": 221313713,
     "per": null,
     "bourse": "NASDAQ",
@@ -223,7 +223,7 @@
     "devise": "USD",
     "jour_pct": 44.43,
     "mois_pct": -6.99,
-    "volume": 1996820,
+    "volume": 1999474,
     "volume_relatif": 2.01,
     "capitalisation": 209320869.16270217,
     "per": null,
@@ -237,7 +237,7 @@
     "devise": "USD",
     "jour_pct": 34.04,
     "mois_pct": -6.49,
-    "volume": 981067,
+    "volume": 981087,
     "volume_relatif": 2.11,
     "capitalisation": 876619783.9148935,
     "per": null,
@@ -251,7 +251,7 @@
     "devise": "USD",
     "jour_pct": 31.48,
     "mois_pct": -21.77,
-    "volume": 776406699,
+    "volume": 776663989,
     "volume_relatif": 1.77,
     "capitalisation": 3977704961319.1597,
     "per": 17.7,
@@ -265,7 +265,7 @@
     "devise": "USD",
     "jour_pct": 30.4,
     "mois_pct": 35.65,
-    "volume": 7825253,
+    "volume": 7830901,
     "volume_relatif": 8.94,
     "capitalisation": 12837296985.055416,
     "per": null,
@@ -335,8 +335,8 @@
     "devise": "USD",
     "jour_pct": 25.0,
     "mois_pct": -52.32,
-    "volume": 15773504,
-    "volume_relatif": 14.8,
+    "volume": 15861271,
+    "volume_relatif": 14.88,
     "capitalisation": 381263251.25,
     "per": null,
     "bourse": "NASDAQ",
@@ -365,7 +365,7 @@
     "devise": "USD",
     "jour_pct": -74.7,
     "mois_pct": -68.16,
-    "volume": 32676645,
+    "volume": 32686598,
     "volume_relatif": 4.48,
     "capitalisation": 441298645,
     "per": null,
@@ -549,8 +549,8 @@
     "devise": "USD",
     "jour_pct": 109.08,
     "mois_pct": 20.33,
-    "volume": 12578269,
-    "volume_relatif": 131.5,
+    "volume": 12582359,
+    "volume_relatif": 131.54,
     "capitalisation": 221313713,
     "per": null,
     "bourse": "NASDAQ",
@@ -1949,6 +1949,20 @@
     "secteur": "Commercial Services"
    },
    {
+    "symbole": "SZSE:301529",
+    "nom": "WuHu Foresight Technology Co., Ltd. Class A",
+    "prix": 154.8,
+    "devise": "CNY",
+    "jour_pct": 20.0,
+    "mois_pct": 10.01,
+    "volume": 6725024,
+    "volume_relatif": 1.45,
+    "capitalisation": 15164338285,
+    "per": 145.7,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
+   },
+   {
     "symbole": "SZSE:301000",
     "nom": "Shanghai Hajime Advanced Material Technology Co. Ltd. Class A",
     "prix": 30.48,
@@ -1987,20 +2001,6 @@
     "volume_relatif": 1.04,
     "capitalisation": 3516269207,
     "per": 172.3,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
-    "symbole": "SZSE:301529",
-    "nom": "WuHu Foresight Technology Co., Ltd. Class A",
-    "prix": 154.8,
-    "devise": "CNY",
-    "jour_pct": 20.0,
-    "mois_pct": 10.01,
-    "volume": 6725024,
-    "volume_relatif": 1.45,
-    "capitalisation": 15164338285,
-    "per": 145.7,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
    },
@@ -3177,8 +3177,8 @@
     "devise": "USD",
     "jour_pct": 0,
     "mois_pct": 152.1,
-    "volume": 126226,
-    "volume_relatif": 0.97,
+    "volume": 127214,
+    "volume_relatif": 0.98,
     "capitalisation": 259688200,
     "per": null,
     "bourse": "NASDAQ",
@@ -3191,7 +3191,7 @@
     "devise": "USD",
     "jour_pct": 2.84,
     "mois_pct": 112.82,
-    "volume": 9003505,
+    "volume": 9004359,
     "volume_relatif": 0.74,
     "capitalisation": 339025459.1761364,
     "per": null,
@@ -3233,7 +3233,7 @@
     "devise": "USD",
     "jour_pct": 9.91,
     "mois_pct": 75.84,
-    "volume": 1787005,
+    "volume": 1787007,
     "volume_relatif": 0.73,
     "capitalisation": 1987016507.1001573,
     "per": null,
@@ -3289,7 +3289,7 @@
     "devise": "USD",
     "jour_pct": -1.1,
     "mois_pct": 66.98,
-    "volume": 1819751,
+    "volume": 1819752,
     "volume_relatif": 0.44,
     "capitalisation": 291295373.1019284,
     "per": null,
@@ -3447,7 +3447,7 @@
     "devise": "USD",
     "jour_pct": 6.34,
     "mois_pct": -12.16,
-    "volume": 44086250,
+    "volume": 44110051,
     "volume_relatif": 1.23,
     "capitalisation": 3440526751874.9883,
     "per": 14.7,
@@ -3461,24 +3461,10 @@
     "devise": "USD",
     "jour_pct": 5.88,
     "mois_pct": -12.03,
-    "volume": 31327196,
+    "volume": 31336132,
     "volume_relatif": 1.37,
     "capitalisation": 3425841218064.651,
     "per": 14.6,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 41.38,
-    "devise": "USD",
-    "jour_pct": 4.15,
-    "mois_pct": -10.43,
-    "volume": 450580,
-    "volume_relatif": 0.3,
-    "capitalisation": 3235509897217,
-    "per": 2.2,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3491,6 +3477,20 @@
     "mois_pct": -10.98,
     "volume": 629317,
     "volume_relatif": 0.38,
+    "capitalisation": 3235509897217,
+    "per": 2.2,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 41.38,
+    "devise": "USD",
+    "jour_pct": 4.15,
+    "mois_pct": -10.43,
+    "volume": 450590,
+    "volume_relatif": 0.3,
     "capitalisation": 3235509897217,
     "per": 2.2,
     "bourse": "NASDAQ",
@@ -3517,7 +3517,7 @@
     "devise": "USD",
     "jour_pct": 1.92,
     "mois_pct": -4.91,
-    "volume": 8709193,
+    "volume": 8709402,
     "volume_relatif": 1.31,
     "capitalisation": 840925338691.3389,
     "per": 13.3,
@@ -3531,7 +3531,7 @@
     "devise": "USD",
     "jour_pct": 19.04,
     "mois_pct": -17.93,
-    "volume": 49420325,
+    "volume": 49437212,
     "volume_relatif": 1.47,
     "capitalisation": 800708224371.5156,
     "per": 9.5,
@@ -3545,7 +3545,7 @@
     "devise": "USD",
     "jour_pct": 20.0,
     "mois_pct": -9.03,
-    "volume": 35358051,
+    "volume": 35371030,
     "volume_relatif": 1.71,
     "capitalisation": 580009104601.6841,
     "per": 6.9,
@@ -3573,7 +3573,7 @@
     "devise": "USD",
     "jour_pct": 2.25,
     "mois_pct": -5.11,
-    "volume": 33683558,
+    "volume": 33685453,
     "volume_relatif": 1.11,
     "capitalisation": 332176066972.5315,
     "per": 11.5,
@@ -3725,6 +3725,83 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic IPO lessons: Permit participation in AI growth by paring back regs on prediction markets and publicly traded companies - Competitive Enterprise Institute",
+   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMFMtd1VybmZCdXJMbGo5VmZaVU1zcTNzNnFSdWpWQzh6X1hKQzljZHpTMk9VRWUxdm9vVGExWjF0SU56S2h1TkR1WHFLVEhFWk9mbmxnMWtGRWx2YUZiNUEtRWZXR1JDODhudjdQQjhJWUlPOWFTbnVXWlRGaW1uZjA5dlRNdU9aR2xxcVo4aTVIb05IekRiS0tkRUVOdGp4Mjc0bUJYelNQZ01fYzhSTGs4RlFjd0JYM0loMFAtYTVaZzY5QnlHYzZjR2J3NkRubkh1WnNERkFxN0t0bUNJUnJMSQ?oc=5",
+   "date": "Mon, 23 Nov 2026 22:27:11 GMT",
+   "vu_le": "2026-11-23T22:30:35.413395+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic Stock Is Now Public. Here’s What History Says About Buying the Hottest IPOs in Their First Month. - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdlBqTTB4THBSMDdZcU0xX1VMaUg1T0Yxa3VIbS1nbk5JbzlnVC1zSTR2MEFRdlg2Qm5tcGpQalUyUEFXU24ydkZoWkZEVnNzVldadmV4b2o2SzQ4UU5GVDBWd0tuZGhtUnFGR00yTXZnWTJXQWNVQXpjOERnUjVjV1psRXVwQkZSR3hfYjZRdzAtTEpIWHRHUVQwT1lqSGIyY0Y4YlQ2TEpKR0ZVdFZJVWVXbDhJRHFXZktQb2kwOHkxai1VWkhtUVBvYmZnWlJHOVYxdEJRQkJBakNzZTN5QWlB?oc=5",
+   "date": "Mon, 23 Nov 2026 22:23:01 GMT",
+   "vu_le": "2026-11-23T22:30:35.413395+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stock Market Today, Nov. 23: Markets Rebound From Correction on AI Relief Rally - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTVNSOGdwRGRqRkc4Nnl2OXI4SXctRXlOQkk0QU40UFRTSHB5clpPUnFUWTV6cTVNZFVsT29Mb0dFcEJMUUt4cVo1MkIwNC1UUXVlN084Z19LOGt2M2FaVi1tV3BaTUs5dmVuWFNaSGQ3MVN1NFRRM3kzR2UwQ3FMa2FxUW1jNmU4OTJMQ0dIcXIwNndKRjQ0Nm9JVXl5X0FzbDZGd1c0bHhibGV3aWdHdTdGQ0U5WEVIX255R1prb1BPQWRCSmtUWkFHX2dubFpOSFlr?oc=5",
+   "date": "Mon, 23 Nov 2026 22:09:08 GMT",
+   "vu_le": "2026-11-23T22:30:35.413395+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "John Williams, de la Fed, affirme que la banque centrale s’efforce de réduire l’inflation - Zonebourse Suisse",
+   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVVhEc2VQMTIzOS0yZFVCMGd6RWNrLU1TT3VNei1oeWFBd3ZmSkM0aXU1eV9aOHpvYVlwUzJZTW1aMFc5UTBIWUxHTUY4T2N6RHpuSERqbmR3a0JtVDd6d3pVaTl3NlJMVm1ES0R4SFZ2YUR1ZWp3U3hkcWlsZGlnOE1ib2tCZFpXU2dUMTJmeFQ4YUlUV0xoNk9hV3JJb29Del9Bdk5aYmVnajMtbFVWbHlWbnBac0JBenliVF9CRFl5S2hCY0FDNXFGeGYtTjVKTkpXNmxJd0F0Vk1uaVNVemloNA?oc=5",
+   "date": "Mon, 23 Nov 2026 22:08:30 GMT",
+   "vu_le": "2026-11-23T22:30:35.413395+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "US futures rally as AI selloff pauses, Asian authorities support stocks - StreetInsider",
+   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQUFSZEdwVlhtcWFYaG1vWldYSGhQT1ZQUUR0Nm4zNWdHWV9adlk5S1FJWjkzZWE0aDJZemg4TTBxSFM1UFdYRkxhenVVM1NWb0VaMUdEbGNEYnl2M1dQT0hsWU5RMFljWGVQTWVzaVhfa281aDlCNTEwenUtenBBQ1ZZWjAzRmpEcVk4LWJXYkM0MUdMaE4zY0thRXVMS184M2pOR1BZeVpXMTA4RDB1Zk1GRFpTc0tuTDdZd2Exb1ZOcXM?oc=5",
+   "date": "Mon, 23 Nov 2026 02:27:53 GMT",
+   "vu_le": "2026-11-23T22:30:35.413395+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "The U.S-China AI Race Is About Much More than Nvidia - Council on Foreign Relations",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbE41UDN1SmJWZFNwYi02LWJ0dS13YXhOTUV1eGo3SFlPb1dmUEtrQm9ySzQ2Z054ZnpBVDF3YnNSbmJNY0ZiTGM3U0FkZnBZVXZpRDU0dVA2NGVGcjBLR1BFSkxpUDRWQUt4MGNVbXNoZGRlcGtRRE9nUnJDOVozQlBZRXVIeUF2?oc=5",
+   "date": "Mon, 23 Nov 2026 22:17:19 GMT",
+   "vu_le": "2026-11-23T22:30:35.413395+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Jensen Huang’s triumph willfully discounts future - Breakingviews",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGEtTl9pUXNpa2VKWG9oaFNwZEhCNjNHMjhoTlJwYmpvR1oxZ2U5bDFWVVRZaWlMMERTc244M3pJUWdJUDVrTmxlcmZjZFUtN2h6N2JvbjVNMnlvNXUxZWRkNWZ6OTRqcVNhQzdTd3pkTkRlelJrVHdZNzkyaURfMlc2Y1pRT2NXT19NWm5iaDd6YWtFSDI2YUVXN1BfSk5RRmZaQWN6QWlZUXJ6bjRTUjhB?oc=5",
+   "date": "Mon, 23 Nov 2026 22:18:45 GMT",
+   "vu_le": "2026-11-23T22:30:35.413395+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Nigeria's SEC approves Dangote refinery's IPO share distribution plan, sources say - Reuters",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTEIwNEtiZmRzUElhSzJQTUNtNXJDTGZRelZmcWl3MG43RmdaTGdsWU15ODNLbm9yQkZlM1RwcTJFMENCNWdWRVJodnR6aHZreGZnZzVhLVJ1U0lXanBjUXhfb0JsU3Yzb29kLXhibEk1OUxGRzl4QTNDU3RkVUlfd2xHU1NZTkhRNWlfd0tXSDd4dVp5bXNPZnBJcWVvS2FJS0lheWZHUmJZVnFnM1BiT1ZRclJmX3EzM3VONVJ3SFFOblQwellPdDJmYw?oc=5",
+   "date": "Mon, 23 Nov 2026 17:53:43 GMT",
+   "vu_le": "2026-11-23T22:30:35.413395+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Market Today, Nov. 23: Bitcoin Sits Out Wall Street's Historic Rally as $1.8 Billion ETF Exodus Weighs on Prices - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNUdIeEQtY2JONVdUT2ZPM2Jlb0JTR0plOTRXZmIwT0c2RG5UUERWczUzM2czRUpIbWhvbXpEUGVFLUFZUjFDZTZIUWhJV0MtUWFUYkRhZ0gwQlBrZ0ZHSW9xWUpzVXZiOF9aNFVONFV5Q2RObVZHdkRKMHBFQmRBTW9XMXFtbmRBOTJrQ0JFNFdKSVlhU3c?oc=5",
+   "date": "Mon, 23 Nov 2026 22:15:02 GMT",
+   "vu_le": "2026-11-23T22:30:35.413395+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Grayscale says bitcoin and major altcoins look 'oversold' as AI risks cloud near-term outlook - The Block",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNVlIbVU5SFJHYXFOazZKU3Nub0FPX0l5c0lfXzQzNFFtUnBBbXZWUzdaZGFac2tNbVNBSVBuVmJPaXhKNGtXQ1hlcmFSbzRqd1AyYjF0UHNGUHItVnoyVS02emlSTmV5Q0pQSFg2QWR6ZXhvTkl6R2lDUS1wVzNoYU5Da0ZDS3ozaXVHdkFtR2t4UDBPenJJS01veWlJb1JJbkFRbm5WQmF5S2JnaDVJWk1GZnc?oc=5",
+   "date": "Mon, 23 Nov 2026 22:18:00 GMT",
+   "vu_le": "2026-11-23T22:30:35.413395+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 23, 2026 at 1pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSldwbk5Mcjl4R1diUzUtdHUtZzhDcm9FaGNvZ29oeGFLbHpwNi1ubmFaT1B0Uk96eUlUZWhuaWdHckF5djhyUU0tRGdKSklKMV9SNWR6M3pYdTdRd0JPU25tS2gydElzTUVvbWJYb0tTMURsWXFraEZuUmNoY2h0U1NYTGVIdUI2ekE5aWp2SWkyU3JNZzBfYm5UUWRVUDl5c19kOHFCRFA3NnppOXc?oc=5",
+   "date": "Mon, 23 Nov 2026 17:04:08 GMT",
+   "vu_le": "2026-11-23T22:30:35.413395+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "Fed’s Williams: \"Must act\" on inflation, sees 2% target only in 2028 - tmgm.com",
@@ -6447,83 +6524,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFVWdEh6SUpXRlpEaUNCRTJMQnRVWXY4WXRSZ2JtODhtTU11dE9XM1p6STFHTXlHRHZ1STFuSjdtTTlTV3hJYWlFaXlvU0lJSVFtdG9DaU9VOWNNRkt3X0tnMGFFRWxIdy1FWVJIS2hWSU1NcjZtVjIwMF9MMXJZNU1FYWtHTXdIRHV6NWlLbnA3U01lOElLNHhuVzN6d1J6c1HSAacBQVVfeXFMTkVYS2piX08wbFhDOGhSYUdOSktLdWdibDF3Q3RfSnBOdGRiQ0UwZEI5UnJvSTdkRlBoQ2JSSGxzUl80ZlVkem1SdUNsdGE1TFVWN2VYdTh0T3pQdTZzbGxyaE9nNkFiM2hIM2hJRlNTdWt6SVc0RGRxekNEekI3UG5oTWJRWnQ0anVzaVpHQS1rbENaNWx1T0wtekNLQWtmeDVvcXZOeGs?oc=5",
    "date": "Mon, 23 Nov 2026 12:16:17 GMT",
    "vu_le": "2026-11-23T12:30:37.177620+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "L3Harris Technologies (LHX) Dropped, So What Is Driving Attention Now? - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbTd2OUpoZ2ZDQkNOZk1hY1hDd3J2cWhseWUtTnRqODN3U0Fvalh2MExlejZYMy1RTWRDVzlyZjl6QUpkdXpNNnY4QmxKai1kMnFMbGQ1R0tQTzRyODhoaHNVTExLMzlraGpReVlKNXpEZnRaeXZqdFpHLUVGS01jMGhnVWpLVlNITktId3k3SnhFNG5ibFl1RlQtZkw0Y3F3X1JxQUE4anhRX1FaRUtTSDNwci12c05XMGp4dkJLSEZzbC1MY0wwU1FlVm5MTzl4R3lkOEd4NmNtQdIB3wFBVV95cUxOS2pPYUhrQ2djWWhlUl9zbUljVlZJZEhabzFDai1WR2RTYzZtVDR5T29YQV91SWVIbnRkZlhES3FMRk1zYWpFRk0zLTJKOFpHaEtBR3ZjTm5EOThqLXdQZ1RydHJPdmxTMmNTYy1tQ1FMZWpscTBzOHpYVTdlVnl3dXYwdkg5NDdzY0hJU2IxMkFfYng0VjU2VU1rcV8tSEwwel9Bb2pGbEpGaDIwUnpUZW1oSHNDcXdYY2F6SDRLN0ZwNG1kamRzQndvdnRNNlc5WUpNU3VnZldDMUd3c0Fv?oc=5",
-   "date": "Mon, 23 Nov 2026 12:13:01 GMT",
-   "vu_le": "2026-11-23T12:30:37.177620+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Fibonacci Day: How Crypto Traders Use Retracement Levels to Spot Potential Bitcoin Reversals - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSnpBazJDMW1oSi00NzVHcW5FV3lxem9HdmZPUkhrbVQtdUMwQ3RFblBqeXlPYkxiOW80MnpoZThxRTlJV21CeGVOaWtXZ2R1Umhxc2YyUWlUckdEMWZNelREbnRWbEFHcTV4UDhyTy1rUXkwYXlRUWVCX19JSkI0VWlScmpEdU1yN1ZPNHFyVkpNT0J3TXk4Z016ejAtZHZLVXVDcGhTMnE?oc=5",
-   "date": "Mon, 23 Nov 2026 12:02:15 GMT",
-   "vu_le": "2026-11-23T12:30:37.177620+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUENDazYzcl9MR1ZMYklmOXNqRGdnN2ozVHhuVUZnTkg5RmR1YXRUc0xJNUlSSzJYNUstaUFYUnZlQ1lkYkRPenJKakR6X0RDaFFnLVdJMTdzc3dsV2NFNFZqZDdVU09xZVpoUTdfZlRTSXhObDZZZmh1cVA0bUdadkpJZ3JndkR1MU9PMjRZYWh0VHN4bEdVZFgtVXc2Q0RoQVVFMUFuX2RkbDlLcmRFdFJLLXVYcXhkS3NDZERUc3dYMTVBb2k4TWNn?oc=5",
-   "date": "Mon, 23 Nov 2026 12:13:35 GMT",
-   "vu_le": "2026-11-23T12:30:37.177620+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "The Fed isn't riding to the rescue — Wall Street still sees a December rate hike after tech's worst week since 2020: Chart of the Day - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNZUR1MTlERXpOM1pMNmNIb1VzalZvZldna0dhNlN6dG9ZYl9NT0tNTWVlbllaUjhFT0tkdjBmTDRFaUZhb0hCYkdwOE9GR3RxYjMzWUJVbjhhRmtMS2NubUNrd28waGdhQ0ZfLTN4U2duc2E0QnBscm1GNjNvWFozMVUxb1NJVXJRdXQ5MHRYcVpuWHFrUmp0d1hHUEVWZVlUVFMwY01jMnVwaWV4MXk4aVk1cHFrcFZUYUUwWjhDRG5iZTZfRFRoLTZ4TkdtMDZYTGIxYkNYaktQVk1sNU1kVFdNYXBHRUtabWZ4TlUwYVpaZUF6ZjVvbThwbEtlRGtfUkRzZnk5OU1KeHZyVF9IQktKbTE?oc=5",
-   "date": "Mon, 23 Nov 2026 11:00:00 GMT",
-   "vu_le": "2026-11-23T12:20:36.496470+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Que signifient des conditions financières plus strictes pour la Fed ? Goldman donne son avis. - Investing.com France",
-   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMHBKd181UzdyODZtaTlocG8zR0FYOVl0VFZYWlpqZlBaWHFqWUVrOUtyeDBkNjdCNi1keXJJbUpJRVQ4VURuRUV5WEJ3dTlRN2k5NGVJNkZfY2xEeVFzZlpyNVdXVi02S1diTklXcUNqZzE5dEJBVjJxS1hRcHdDZTc4NHZqVV9OM0ZZRzZYa2daLTlOai1mamVoeTdFUUxKQktTQVI5WWJhYnpUQlE5bUt0eTdISUZCQVdGQWlhTDNMTGVfaG1pQVFxTTVyLWtNWWluakRvTXlWQQ?oc=5",
-   "date": "Mon, 23 Nov 2026 12:13:00 GMT",
-   "vu_le": "2026-11-23T12:20:36.496470+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "New 19-month low: Hong Kong stocks plunge as AI sell-off spreads to Asia - South China Morning Post",
-   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcmMtMXlBOU00QjRmbEpaOEZua2ZuemEzSElFak9MNlRjbmphNVpOaXlLMGFwQ1o5aGV2VGtoUU0tWDBxQ2V6MWdVM3p5STRtREIyS1llUzh3QkJ3c2pvVmp5bHppS050ZEw5T3FNSDBqZDhvX2cxeGJCZlFNaDRBUTFMdXEyQk5PU3ZsUlZBTnBpRE5OVDFGcktSWlYtSTNQOHF4Q2tTWGJoT05mcU9iSUN2NF81Slo4Z2x2Y20yZEVkaGJMRnRYVEx4cTRkaUhETWVrUzNWLUhWamdUS1A1dw?oc=5",
-   "date": "Mon, 23 Nov 2026 04:20:57 GMT",
-   "vu_le": "2026-11-23T12:20:36.496470+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "3 Millionaire-Maker AI Chip Stocks Wall Street Isn't Talking About - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSVVTNXdyWkg4d3lvdUtNR2ZLYm9ReFY2TGpGb0xjVC1Qd21lSTZRekF6Rm1xTWMzYW1yM25EQkFXSUhXTjItN3VKTTF6b1hhcG9nN096SjJVaWVVZmMtTHJmRHZGUHFad1dza28tSVl1c3J6Z1dyLU04RVFtaTMtektjcExFWngtUE9mbmJ5ck1uX2xFQ21wdWhVSTdQMkM0MnhjbXVVb0N5WEQ3dzhTWERabzlwUXVGR2ZnRlNwaFFVaVhKQUdsNTIzSmhIY3l0Wm4weGw3LUhIZFlTYndYUmVCZng?oc=5",
-   "date": "Mon, 23 Nov 2026 11:21:08 GMT",
-   "vu_le": "2026-11-23T12:20:36.496470+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Market Open: Carclo Profit Rises, EnSilica Secures Chip Deal - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ1pkSjBNa2Fkbno4SXIyRUg5ckQ2TTZSdG1mNkM1eHJEZ2JYSk1NeFJGRmx2MjY5T2xHUVh4akNvZ3dvc0dQNm91UlNYQk5jQjZLOHprUUFHMU95R0xRUDB2VHBOU3o0T0lnWW9nNmtFQ2VnbC13VHZJMFBzVzdKQThpejhqTm8?oc=5",
-   "date": "Mon, 23 Nov 2026 10:29:51 GMT",
-   "vu_le": "2026-11-23T12:20:36.496470+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "FPIs inject $16 bn into Indian equities since Oct 16; five reasons behind foreign inflow surge - Fortune India",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeVpyN1A3bkdEVmNzSXMxM3laQmMwNGt6c0JtQU9LOERkZlF5WnJ1ZUFJR1MyQnVYZl9wUjdhd0hFWWt0djY4eDZ4SnhtYTlxc2VnMF9RZlQ5YkVQZXFMS2pGdGl6d3d3SHdhTUZQUWF4TVUzQ1p1X0NsVHU5b3MtZEs2VUM0TWhxNTFVQ3Q1LWdWbTJWSjE3YmthZVBQcXhSMTBCS0sxRGtrakJiNW5iYy1reVBQN2hPYzlZSElLRzhwcmxtb3J5SzVOYXVCdHRSZV9PQWlPQ09lVjRuczlJ0gHfAUFVX3lxTFB5WnI3UDduR0RWY3NJczEzeVpCYzA0a3pzQm1BT0s4RGRmUXlacnVlQUlHUzJCdVhmX3BSN2F3SEVZa3R2Njh4NnhKeG1hOXFzZWcwX1FmVDliRVBlcUxLakZ0aXp3d3dId2FNRlBRYXhNVTNDWnVfQ2xUdTlvcy1kSzZVQzRNaHE1MVVDdDUtZ1ZtMlZKMTdia2FlUFBxeFIxMEJLSzFEa2tqQmI1bmJjLWt5UFA3aE9jOVlISUtHOHBybG1vcnlLNU5hdUJ0dFJlX09BaU9DT2VWNG5zOUk?oc=5",
-   "date": "Mon, 23 Nov 2026 08:23:29 GMT",
-   "vu_le": "2026-11-23T12:20:36.496470+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Redwire Stock In Focus After Moon Base Power Contract Wins - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ0g0ODNvREZqNFZjZG1Jbjd6djVSUWxkWXpoT3ZqZlFVMWk3NVNjYU8ySVhLa3VXaE1FV3V0d1FMZVZZQnpuYzY1VmhWclg5ZkU3eWlMV0lXQmRVcDRhU2tZVXA4UTBvRVlVV2EtRWFCdUVXdldfQ1JJVEFyS0NtSTlfTktSRGpvS0pUcEpSRnZGb2IycmNCa2NKci1mX1Y2aG1fMnFnX3pkUFl3OUUtTDM0ZkZUa0JaYWRXOVJzOG1YVFE10gHKAUFVX3lxTE5PYWVVU1ZCcklodVVTdllzNHQtUjMwNVFnOVdxUm1vZU41MHpBc3pZNHE1UGVwNm1MTTZPUVRoZGIwbWRmZWpxd1lUSzhwZVJBd3RpQUgySXF5Wnk3TDJkQkZZTWZTZ2duaTc2bWZRVDF1OXZRSkJlZXRtRGlCMTNXUW5LeHlLOFBlSGkzbElIdW9IR21QQ0hOXzh5TkRhSmhkY0EyTEU4RzRBU096VTBJR3IyUEhQaVAta2RjMjRBdWt1UUotZlltcnc?oc=5",
-   "date": "Mon, 23 Nov 2026 12:12:39 GMT",
-   "vu_le": "2026-11-23T12:20:36.496470+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb3BEMkk1RHdaS3VyUXdXY3RmQ2lpM0NRWXVoa2lHSzZTdnEyUWFHcHBjRWFBS1ZRVUY5d1NVZmRJQlkwUXhFV3lPLW9ZZGVlazdoQmdHR3BPV3lMZ1NwblZrcncyOGpPQWFsa3ktcnhVbENXSzVWSlplWnF0T2RfOGI1aDFDaWxsdXNIZC1QOHg0aW9vYmZ6U3pLSWhHUkxWc2JrZFppLV9Jd9IBrwFBVV95cUxPVHlBbUJLMVFRaUxPRnhvU0lIUlN1LVNxbThhUmt2SEprVkYtb3Y0aUlSaFZ4aEp6SWtnY2JuVDlvcEx1OVZwNnVFTy1BUUlmVVpKNm1CRTdId1ExbDIwVWx1aFBlVVBVaHNnaWw1ZUN2RlZFTmJ2UjFRWGl6aWdnY0pfcTZ3UXNxMFU4cnRsVFFobXNSVndPTmNnWklLdm1vUnRRWjhjX1NXeTk4Rjkw?oc=5",
-   "date": "Mon, 23 Nov 2026 12:05:06 GMT",
-   "vu_le": "2026-11-23T12:20:36.496470+00:00"
   }
  ],
  "erreurs": []
