@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-23T00:30:35.485087+00:00",
+ "mis_a_jour": "2026-11-23T00:40:35.554463+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3572.781,
+   "prix": 3570.792,
    "devise": "USD",
-   "jour_pct": 0.97,
-   "mois_pct": -11.25,
+   "jour_pct": 0.92,
+   "mois_pct": -11.3,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,12 +160,12 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09776,
+   "prix": 1.0977999999999999,
    "devise": "USD",
    "jour_pct": 0.11,
    "mois_pct": -2.11,
-   "volume": 9423,
-   "volume_relatif": 0.05,
+   "volume": 10266,
+   "volume_relatif": 0.06,
    "capitalisation": null,
    "per": null,
    "bourse": "FX",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55758.29,
+   "prix": 55595.02,
    "devise": "EUR",
-   "jour_pct": -0.06,
-   "mois_pct": -23.0,
-   "volume": 4.18418444,
+   "jour_pct": -0.36,
+   "mois_pct": -23.22,
+   "volume": 5.07967136,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -1907,20 +1907,6 @@
   ],
   "Chine continentale : plus fortes hausses": [
    {
-    "symbole": "SZSE:301313",
-    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
-    "prix": 59.16,
-    "devise": "CNY",
-    "jour_pct": 20,
-    "mois_pct": 18.63,
-    "volume": 27473758,
-    "volume_relatif": 1.05,
-    "capitalisation": 5914901287,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Communications"
-   },
-   {
     "symbole": "SZSE:300812",
     "nom": "Shenzhen Etmade Automatic Equipment Co., Ltd. Class A",
     "prix": 18,
@@ -1933,6 +1919,20 @@
     "per": 2857.1,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:301313",
+    "nom": "Guangzhou Frontop Digital Creative Technology Co., Ltd. Class A",
+    "prix": 59.16,
+    "devise": "CNY",
+    "jour_pct": 20,
+    "mois_pct": 18.63,
+    "volume": 27473758,
+    "volume_relatif": 1.05,
+    "capitalisation": 5914901287,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Communications"
    },
    {
     "symbole": "SZSE:301132",
@@ -3469,6 +3469,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 39.67,
+    "devise": "USD",
+    "jour_pct": -1.98,
+    "mois_pct": -17.9,
+    "volume": 1325113,
+    "volume_relatif": 0.83,
+    "capitalisation": 3235509897217,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 265.29,
@@ -3491,20 +3505,6 @@
     "mois_pct": -17.23,
     "volume": 717188,
     "volume_relatif": 0.47,
-    "capitalisation": 3235509897217,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 39.67,
-    "devise": "USD",
-    "jour_pct": -1.98,
-    "mois_pct": -17.9,
-    "volume": 1325113,
-    "volume_relatif": 0.83,
     "capitalisation": 3235509897217,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3753,6 +3753,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcThLY0szV3pPS2IxUHRPYm5NSDNZU25MRWJYZkplcU43YjhEb2JSRm5kdmR2ZWYyN2pDMzhOb2RjUUdiMjFBbFZRMDlDNTZVZDRjYWluVmQ3WElhaFVMNkwzZUxGQ2dBSEI2MU4yTlZ2NDFacEdtUUF2aUYyZm9RZl9JSnBvd2Y2UFhpSmdsNDBSRFUtVDJ5ejJSSXZ3cTAwbEtfYzJFR1ZmWGFYQTBrZTNnUQ?oc=5",
+   "date": "Sun, 22 Nov 2026 15:18:13 GMT",
+   "vu_le": "2026-11-23T00:40:35.554463+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Hong Kong IPO boom stalls $6bn short of its 2010 record - IntelliNews",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNazVmWm5aRHB0SlVkczdIS2hJbmhjRWJvbXdaMmhLRXNOVE9BT2g3bjZMWDNVeHB6YU5MVkNBbU5pTkhVejlRajNVNmNxN0FDLVpaYXQxbUxXOEZNcFlod2Nkb1JadnFSMmZHR3BibWZqRFQ2WmM0X2ZlYkI0QWc2RTFvTUhQNTNoTk1VRlJIbW80TVc1NjZHaGdWc0Juc1V6Tm9JVHNB?oc=5",
+   "date": "Sun, 22 Nov 2026 22:27:10 GMT",
+   "vu_le": "2026-11-23T00:40:35.554463+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Cisco Smashes Q3 FY2026 With Record $15.8B Revenue and $2.1B in AI Orders - Is CSCO a Buy at $102? - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQM1ViR0NZOXpTZ0dCYWZOZnJfWEJodDdjWFpnclVwRmNtTDNTTlVhckt4Z19BQ0x2bzFpUGFEa21XZ1J4akxRR19mRmJRT1JlSjBLaUx1S1BTZVAzejVXQ0w4YjFoVjUwWExQSVIwZmF3dk10dGFVcHBqeFlWclBVV0NkYkxLeGZOSmNZZkRNcDdsRGlmMm1ucnZxLV9SUnFPeWZfWnZLcGpudlJzdTR6eVJOWlhLYjFvY3Z5M2l2VkxRMGZ1QXVzZ3ZrZkVrWVJrdUcyc2pINlRDLUc3aVVNWE0zLTVoZXVENTlfNmo3SVpOd1lGbTB0MEswS3FzV2M?oc=5",
+   "date": "Sun, 22 Nov 2026 07:21:59 GMT",
+   "vu_le": "2026-11-23T00:40:35.554463+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Amazon Q2 Smashes Estimates: $200.6B Revenue, EPS $5.75 Beat, AWS +37%, $220B Capex, $3T Market Cap - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMXU1Ml9ULTdJZ1RPZHcxVTZiUVJPX2JiNDM5cGZDaC1PLVg0ZnI3TE1fLWR2UGlOOFp4cVNXQTBtNmdYemlPc21SZGhyZWdJVF9tT2V1ZDFZeGowUGxTTXk3cHJmQ1FyS0JsVnZXeG5HZE5rQ3hrVWJXRGgzN3FlS1FPVjBvamdpQkdQNHYwVm03WHhLaWRTREZMZkZsZkdzSnJ2UjgtalR2OUU5dS02WmhiMGVlZERZdzNIYjdNWlM1Vmc0RVVzTDluclNzaWVyaDBvU1hIMEJvck1BZUxqSzVpLWQxdV9Yb2gycFA5MU5tTk4weXFNWTB2Mzg?oc=5",
+   "date": "Sun, 22 Nov 2026 04:11:54 GMT",
+   "vu_le": "2026-11-23T00:40:35.554463+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Indian Stock Market News, Equity Market and Sensex Today in India - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMihANBVV95cUxOQnhmNjAxWE9YLXl0MU1aTmxEMHpCNzB6b1ljeTMxMlVUeEt3S0hJcjRNU2UyTDNXamhqeTFkeDdiVkROc1Q1RkVPVjduV2xweHFEX0JLbzZ5eE82U1VWVWZJS2VvbzJwbk93MS1XRGNIbkhQV3ZMd2U1R0pVZ24yRXZFMXZpekVEOXJXM3p0a0FPYWtWZTg1clh5ckwyZXlBcnFMQ1Q4a0ZEQ1QwZEVzYWNaT2FZeGVfaUZZbVc4X3cyWjN4R1FvTzdZV0xHRTZHVEoycEFpVzVMQS1Del9peEhoV2xUZU5TSk9NZGtaVlpneU9XOE9VSWJoSXZscHZsVHZJQlhfSDRuTDNGTmhaaE5PRXJuUGZEM3VJT2dTV28zUU12YVBTclQxQ0Q5NEVXeENwTGtGenhhdXpqWUhLLXhYYVZ3TnpqSVpGeGtYRTRHTGhka1ZwdkhKa1hnNU1zdXNtSmR6VUpVYVpZT0w5Q215RTd4Ym1faEhRdE9sbzFXcHpp?oc=5",
+   "date": "Mon, 23 Nov 2026 00:30:00 GMT",
+   "vu_le": "2026-11-23T00:40:35.554463+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Sensex surges 20% in dollar terms as foreign money chases India - The Economic Times",
+   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMjhiZ1ByUnF2cXllcnlIWmFfV0F1alVqWnNyOHJHRGxHczJpWUlkQU1EY29HWmtJblhTYUJlT1B0T0I0Z09XU29URVAtUWt1d2VuZDhMY01iU2RpT2gwNlNLSzNRbkxWc0NtMVJkMmlMOVdJMV81d3JoUktuS1FxY0V4TWNabDFodjUzbVRIdTgydHVrWkR6bDd4R29SUjJhOTZ5SzlibFl3RU5xcnJ0ckxLTVVObXBwZmlKaFo4aVFRbjFRYThqM0Q2VnluSU1zdHfSAdcBQVVfeXFMTjRJWVZTTW5lcUU5MC1RRVdSWUNFQ2FPQ3FxVzh5bWQtMnFTZFNyRWpEd0ZZTHctblBTRzYzX0FCS0pXX0prZXpOWXY5dkxJTG1YaUFNb3BOV3lQM2FyaXJ3Tm5wSF9QaGVmTjVHWDdaNjN5QXZ0UjhnOHRzZ0dlbmFsQmp0MWQyc0dyVmREbmVTLTNfNlRmdWxwV3dYak5hREk1OHBxS0FCckF1SmtRM1FRd19ybmtIYVQtMW9ZVGxIb2g4UG9iTVhBNkhGLXlVWko4TEhwZ2c?oc=5",
+   "date": "Mon, 23 Nov 2026 00:31:08 GMT",
+   "vu_le": "2026-11-23T00:40:35.554463+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "ETH price on Nov 23, 2026 at 5pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1NPbVV2M3JQMHVXVVNsT004ckE2N3AzRXJtNS11NHFBcmhPdGlBX0M2b2hFdkl4bmxxSjV2Qkd2QmVBNE9WS2hOTGF4S3Z4Qnk3MzZ0RF9rcmVrZlJCOW5LMlRDdGdGSlZqY1daZ0VlZEw0UWNuc2N2LW1laUQ5bnl1NUp2cTJHZkFnNHhySVlIUm9RdVphNk10eG9YZFduaWNQd2VtWnc4MHB2QUE?oc=5",
+   "date": "Sun, 22 Nov 2026 21:13:02 GMT",
+   "vu_le": "2026-11-23T00:40:35.554463+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "3 Altcoins Defy the Market Crash as Bitcoin Hits a Two-Year Low - BeInCrypto",
+   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51clVpVVhYeWtKcmFqZzRkZUxqMXZVeTJ0d2d5cXBqSUNWRnVMblpmelpDMG9UWFk2WDNnNGRVVlA0Zm1rU0wzWUJFUWY4czJGZWgxdVltT3ZkRFdxSGRSUFVleHlvbzNqb2w2Y1BPOWQ?oc=5",
+   "date": "Sun, 22 Nov 2026 18:50:38 GMT",
+   "vu_le": "2026-11-23T00:40:35.554463+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "Les temples délaissés de Rawalpindi, écho d'un passé oecuménique du Pakistan - Bourse Direct",
@@ -6496,62 +6552,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUURFajdpYXlIM0JMamJXWjVmeXcxdUY3NEN6ZWpHdEhJcll1YlVCZkxMRnk1Z29BR1pzZmRrMm1YYm1ZR2k4bWZrQ1JNcWRVS0E1NTFNOUZZRmEwQXdndFRqWU9VTHRlaFQtaGZtRDFDREgwdE4tYmZwRTRUX0VKeXRUdUZ6N1NBbFB0ODhDamlwQjdnTW1QMUhhQTJ4dmp6UEswZHlCampDV0M3dkN3bU4tMkYtVDlmMmNqWEpFcHVSWkpfWGJ5eXBfZGVfMW1PakM3TE1NU2MzQ3Fi?oc=5",
    "date": "Sat, 21 Nov 2026 12:17:39 GMT",
    "vu_le": "2026-11-22T11:00:34.989141+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Cathie Wood Just Bought $154 Million of Anthropic in Its First 2 Days of Trading - TIKR.com",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUGd1aE8wcHk2c21uWDV2LU01TDJEa0FSSmsyMEV6d1pVXzNnOWMyZEQxVzlNZHpzWXcxb1IwLU9kZEFHTkVvbWZCYjdvZGlzcWVwZEVJOUhwMEs2dUVZSlk3TWtVZVRtMWUyak9vU3hfc3AyY3BzdDNHeUU5dHpoRHliSWE2QXpZRFRRMENyOUZZZ0N6X3g5aHpaQ3BFLURIcmR5Wmc3V1h5T05IZHc?oc=5",
-   "date": "Sat, 21 Nov 2026 22:10:35 GMT",
-   "vu_le": "2026-11-22T11:00:34.989141+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Trois événements qui pourraient influencer le cours de Bitcoin pendant la semaine de Thanksgiving - BeInCrypto",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaGtIUzhtYUo1aTN5U2ZqN21TN1lKTWI3OWNJUThOdExfLUVidHB3V05QSU1VOFFZNU9QbVY2RElWMUdmN2NnVkZkU2pDUnRJT19wRWxtZVRraXNfbXl0OEh4bVB1U0RlQTZyN3M1WHIzdzQzQnVRek5XRGdIODl6ZFdwUm1yWWpm?oc=5",
-   "date": "Sun, 22 Nov 2026 10:49:57 GMT",
-   "vu_le": "2026-11-22T11:00:34.989141+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Airbnb looks beyond traditional holiday hubs to deepen India presence, bets on homestays - Moneycontrol.com",
-   "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYi1aNF9sY0h1a0hVZzJaYldrdFp4UksyOUd1R21mV2RXQndiSVBETm84LXZ3NG0yWkNhRV85QzFLVDAzNzRjdXlmSVF6WU5QZXdFdjZZdy1ZVC0zZ21mWDJFcEI3R1B3NklRamFnNlY3bE5GcldndEhzUlVhNWtJYTdPT2JkUE1SWlhRdFBOUTlxZWpFVHpnUEY4V0QwSElSQVRsbERqaEpONXBIdC0teFkyRldBZi13R0FWckU5UlJLcHFTNmdfbnRtaUJUSk5wMnNtMEZEZ3BVdTRSX2VBZk9IdGQtaVpWQjFTbUh2QdIB7wFBVV95cUxNYi1aNF9sY0h1a0hVZzJaYldrdFp4UksyOUd1R21mV2RXQndiSVBETm84LXZ3NG0yWkNhRV85QzFLVDAzNzRjdXlmSVF6WU5QZXdFdjZZdy1ZVC0zZ21mWDJFcEI3R1B3NklRamFnNlY3bE5GcldndEhzUlVhNWtJYTdPT2JkUE1SWlhRdFBOUTlxZWpFVHpnUEY4V0QwSElSQVRsbERqaEpONXBIdC0teFkyRldBZi13R0FWckU5UlJLcHFTNmdfbnRtaUJUSk5wMnNtMEZEZ3BVdTRSX2VBZk9IdGQtaVpWQjFTbUh2QQ?oc=5",
-   "date": "Sun, 22 Nov 2026 09:16:13 GMT",
-   "vu_le": "2026-11-22T11:00:34.989141+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Blackstone Inc. (BX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GRy1LYmI1NFNmbVNvUU9ncTJ4VFRHdzFDMDNGNmptX0o2dzNlYk44dTFSYzJ1SGFGVGxETFdITzlpeVVQclFHVl9uRmg5RVU?oc=5",
-   "date": "Sun, 22 Nov 2026 09:26:26 GMT",
-   "vu_le": "2026-11-22T11:00:34.989141+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "NSE becomes world’s fifth-largest listed exchange by market cap, overtakes Nasdaq and HKEX - DD News",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXhmQjI2bVZ5eWhqUDZfemd6c0NXRWdSQ1VVT001NllsRWlkU3p1SG1IVjdaVUlqbEN1YWNHNEh3ZnItLWFHVlFKbVE0MFRhaXVoUThtREZiOFd3dEo3Z0VkVElaZDVnZ1BMOEZ2dnJKMGgwWENKQVAzX0phYllXVWJUUlF1Z29tWVhFLXVxSXY5Y3JzeERreG5Zdk1SbXZZa2R6UGxmV2drQ1FiR2FDaUJtT2Q?oc=5",
-   "date": "Sun, 22 Nov 2026 09:22:31 GMT",
-   "vu_le": "2026-11-22T11:00:34.989141+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "AMD Shares Plunge 20% in Two Days as China Firmware Supply Allegations Hit Home; Nvidia Read-Across Selling Adds Pressure - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xTldiNlF6M2NHM3VHblZtTnBvVTJVdjZFbFBKV2E4Z0dyeGZ0TkRROFhDN1ZpLWQzWkR1Z3BKNllFRmdqWE1PQUk4elYtUE94RVhDRG54bDdpQTR0RFNJV2o4a0tENnh0eDMwY2JOdEdWNEhFNnc?oc=5",
-   "date": "Sun, 22 Nov 2026 04:35:00 GMT",
-   "vu_le": "2026-11-22T10:50:36.391503+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Wong: HK can turn global cooperation vision into action - chinadailyhk",
-   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jSmtkMl9pNXFLYm5GSTA5R0JxQXhpYTQydzFNZUJnYV9PaHBWc0tpYjNad0tXSldWWm1TQWU0LXQzQlVlM250OEplSldORXlHeDBHSW1NUWE?oc=5",
-   "date": "Sun, 22 Nov 2026 03:13:56 GMT",
-   "vu_le": "2026-11-22T10:50:36.391503+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Hong Kong can help connect global bay areas, Paul Chan says - South China Morning Post",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ09hallYbzBOaVFYQlNhenZwMzVhSTMzZzZVaWNzcEJuMkFkQ2xSVDlxTjVCdTM4MmJFUm91cXY4aEZLdVJnQ2tTdlQ0MG1fcl9abDRHQXF4SkFDVGlSVFNXZExDNWFWVEQzTUxsellRN0V1Q0N4V0tfLV90bFNMQ21Tel9RXzFqZXlCUks0Qm0yZmxfZV9OTk9YaG1VYlhqN18wM29NU2dkRUsyS21EODZLMF9yY20tdEhXMzZUZFVGd1ZJZ05F0gHHAUFVX3lxTE9DT2FqWVhvME5pUVhCU2F6dnAzNWFJMzNnNlVpY3NwQm4yQWRDbFJUOXFONUJ1MzgyYkVSb3VxdjhoRkt1UmdDa1N2VDQwbV9yX1psNEdBcXhKQUNUaVJUU1dkTEM1YVZURDNNTGx6WVE3RXVDQ3hXS18tX3RsU0xDbVN6X1FfMWpleUJSSzRCbTJmbF9lX05OT1hobVViWGo3XzAzb01TZ2RFSzJLbUQ4NkswX3JjbS10SFczNlRkVUZ3VklnTkU?oc=5",
-   "date": "Sun, 22 Nov 2026 08:23:54 GMT",
-   "vu_le": "2026-11-22T10:50:36.391503+00:00"
   }
  ],
  "erreurs": []
