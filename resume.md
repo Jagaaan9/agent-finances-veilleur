@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22219.66 HKD, jour -0.73 %, mois -3.51 %
 - SSE Composite Index (SSE:000001) : 3548.3694 , jour 0.27 %, mois -2.08 %
 - VOLATILITY S&P 500 (TVC:VIX) : 26.37 USD, jour -0.9 %, mois 37.49 %
-- Gold (TVC:GOLD) : 3559.495 USD, jour 0.09 %, mois -10.85 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09629 USD, jour -0.02 %, mois -2.3 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54688.4 EUR, jour -2.57 %, mois -24.21 %
+- Gold (TVC:GOLD) : 3565.942 USD, jour 0.27 %, mois -10.69 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.0962399999999999 USD, jour -0.02 %, mois -2.3 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54714.31 EUR, jour -2.52 %, mois -24.17 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.928 , jour -0.28 %, mois -0.42 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -24,7 +24,7 @@ POSITIONS ET INDICES :
 - Prelude Therapeutics, Inc. (NASDAQ:PRLD, secteur Health Technology) jour 28.57 %, mois 25.35 %, prix 4.5 USD, capi 426594593.5714286, PER None, volume x5.49 la normale
 - Veraxa Biotech AG (NASDAQ:VRXA, secteur Health Technology) jour 27.78 %, mois 32.69 %, prix 1.38 USD, capi 203871280.61111107, PER 6.4, volume x3.72 la normale
 - Enigmatig Limited Class A (AMEX:EGG, secteur Commercial Services) jour 26.52 %, mois 71.84 %, prix 8.97 USD, capi 251206652.85613543, PER None, volume x1.67 la normale
-- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 22.81 %, mois -20.98 %, prix 1.13 USD, capi 326084290.09695, PER None, volume x0.75 la normale
+- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 22.81 %, mois -20.98 %, prix 1.13 USD, capi 326084290.09695, PER None, volume x0.78 la normale
 - Phathom Pharmaceuticals, Inc. (NASDAQ:PHAT, secteur Health Technology) jour 22.36 %, mois -13.69 %, prix 5.8 USD, capi 471490832.15189874, PER None, volume x2.08 la normale
 - Yarrow Bioscience, Inc. (NASDAQ:YARW, secteur Health Technology) jour 22.26 %, mois -20.74 %, prix 15.82 USD, capi 241016811.19474497, PER None, volume x1.16 la normale
 
@@ -33,11 +33,11 @@ POSITIONS ET INDICES :
 - Stewards, Inc. (NASDAQ:SWRD, secteur Non-Energy Minerals) jour -29.63 %, mois -54.22 %, prix 1.14 USD, capi 250592895.77777776, PER None, volume x1.02 la normale
 - Kraken Robotics Inc (OTC:KRKNF, secteur Electronic Technology) jour -23.39 %, mois -43.2 %, prix 1.67 USD, capi 620258252.6430868, PER None, volume x4.82 la normale
 - VNET Group, Inc. Sponsored ADR (NASDAQ:VNET, secteur Technology Services) jour -22.44 %, mois -48.96 %, prix 1.97 USD, capi 736495308, PER None, volume x2.42 la normale
-- Ambarella, Inc. (NASDAQ:AMBA, secteur Electronic Technology) jour -19.96 %, mois -29.31 %, prix 44.47 USD, capi 1962949079.8111947, PER None, volume x6.36 la normale
+- Ambarella, Inc. (NASDAQ:AMBA, secteur Electronic Technology) jour -19.96 %, mois -29.31 %, prix 44.47 USD, capi 1962949079.8111947, PER None, volume x6.41 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109518.457516, PER 5.1, volume x99.36 la normale
 - EverCommerce, Inc. (NASDAQ:EVCM, secteur Technology Services) jour -18.81 %, mois -42.03 %, prix 5.31 USD, capi 932617440.4266055, PER 31.7, volume x3.64 la normale
 - Shoe Station Group, Inc. (NASDAQ:SHOE, secteur Retail Trade) jour -18.39 %, mois -17.58 %, prix 11.58 USD, capi 314788568.0295983, PER 13.1, volume x7.02 la normale
-- Dakota Gold Corp (AMEX:DC, secteur Non-Energy Minerals) jour -18.08 %, mois -31.55 %, prix 3.58 USD, capi 480428056.00457656, PER None, volume x2.82 la normale
+- Dakota Gold Corp (AMEX:DC, secteur Non-Energy Minerals) jour -18.08 %, mois -31.55 %, prix 3.58 USD, capi 480428056.00457656, PER None, volume x2.83 la normale
 - Dycom Industries, Inc. (NYSE:DY, secteur Industrial Services) jour -18.02 %, mois -21.37 %, prix 179.01 USD, capi 5399112851.834317, PER 16.3, volume x3.23 la normale
 
 ÉCRAN États-Unis : volumes anormaux :
@@ -162,8 +162,8 @@ POSITIONS ET INDICES :
 - Zhejiang Tongxing Technology Co., Ltd. Class A (SZSE:301252, secteur Producer Manufacturing) jour 20.0 %, mois 51.99 %, prix 42.48 CNY, capi 2860220695, PER 66.1, volume x0.89 la normale
 - Shenzhen Ampron Technology Co., Ltd. Class A (SZSE:301413, secteur Commercial Services) jour 20.0 %, mois 44.44 %, prix 89.71 CNY, capi 10271430314, PER 420.6, volume x1.51 la normale
 - Cre8 Direct (Ningbo) Co. Ltd. Class A (SZSE:300703, secteur Process Industries) jour 19.98 %, mois 21.36 %, prix 14.83 CNY, capi 2187825554, PER None, volume x1.81 la normale
-- HangZhou Radical Energy Saving Technology Co., Ltd. Class A (SZSE:300652, secteur Producer Manufacturing) jour 19.98 %, mois 18.85 %, prix 29.06 CNY, capi 3230719737, PER 48.6, volume x1.38 la normale
 - Beijing Longruan Technologies Inc. Class A (SSE:688078, secteur Technology Services) jour 19.98 %, mois 6.64 %, prix 29.06 CNY, capi 1765468355, PER None, volume x1.25 la normale
+- HangZhou Radical Energy Saving Technology Co., Ltd. Class A (SZSE:300652, secteur Producer Manufacturing) jour 19.98 %, mois 18.85 %, prix 29.06 CNY, capi 3230719737, PER 48.6, volume x1.38 la normale
 - Ningbo Henghe Precision Industry Co., Ltd. Class A (SZSE:300539, secteur Producer Manufacturing) jour 19.98 %, mois 41.12 %, prix 22.58 CNY, capi 5016041082, PER 127.1, volume x1.83 la normale
 - Wuhan Tianyu Information Industry Co., Ltd. Class A (SZSE:300205, secteur Electronic Technology) jour 19.93 %, mois -22.15 %, prix 3.55 CNY, capi 1272965776, PER None, volume x3.04 la normale
 
@@ -312,6 +312,10 @@ POSITIONS ET INDICES :
 - SPIE SA (EURONEXT:SPIE, secteur Commercial Services) jour -1.51 %, mois 8.79 %, prix 44.3 EUR, capi 7775044396, PER 25.0, volume x0.75 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Intelligence artificielle] Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap - Bloomberg.com
+- [Rachats et fusions] Private Equity Buyouts Poland: LBO Guide for 2026 - Global Advisory Experts
+- [Résultats d'entreprises] Earnings call transcript: Ambarella Q3 2027 profit beats, but stock plunges - Investing.com Canada
+- [Pays émergents] Danantara Investment: IHSG falls to 4,000, profit drops to IDR400 bn - IDNFinancials
 - [Marchés mondiaux] Stock Market Today, Nov. 24: AMD Plunges 9% as 337 Million-Share Resale Filing Adds to AI Sell-Off - Yahoo Finance
 - [Résultats d'entreprises] Doug's Daily Diary — Tuesday, November 24, 2026 - RealMoney Pro
 - [Résultats d'entreprises] Dell Technologies Q3 2027: A 44% EPS Beat Backed by a $132 Billion AI Backlog - 24/7 Wall St.
@@ -458,9 +462,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Résultats d'entreprises] Dell Earnings Tonight: What Investors Are Watching After HPE's Margin Warning - Around Prague
 - [Résultats d'entreprises] Third-Quarter Revenue Beat Fails to Reach EPS at Information Services Group (NASDAQ:III) - kalkine.com
 - [Anthropic] Why Is Anthropic Stock Falling Despite a Record IPO? - Benzinga
-- [Anthropic (FR)] Anthropic passe sous son prix d’introduction en Bourse, dans un net retournement des valeurs technologiques - Zonebourse Suisse
-- [Banques centrales et taux] L’or recule malgré un dollar américain plus faible, les anticipations de hausse des taux de la Fed prenant le dessus - www.tmgm.com
-- [Crypto] Before the bell: Bitcoin can’t catch a break - Yahoo Finance
-- [Crypto] Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors? - Decrypt
-
-Sources indisponibles ce passage : 1 (exemple : actu Banques centrales et taux: HTTP Error 429: Too Many Requests)
