@@ -7,13 +7,13 @@ POSITIONS ET INDICES :
 - NASDAQ Composite Index (NASDAQ:IXIC) : 24089.5577 , jour 6.51 %, mois -6.97 %
 - CAC 40 Index (EURONEXT:PX1) : 8044.84 , jour 1.48 %, mois 2.98 %
 - STOXX 50 (TVC:SX5E) : 6074.48 EUR, jour 2.23 %, mois -0.33 %
-- Japan 225 Index (TVC:NI225) : 58691.26 JPY, jour 3.99 %, mois -6.34 %
+- Japan 225 Index (TVC:NI225) : 58595.83 JPY, jour 3.83 %, mois -6.5 %
 - Hang Seng Index (TVC:HSI) : 22295.95 HKD, jour -0.39 %, mois -3.18 %
 - SSE Composite Index (SSE:000001) : 3555.4915 , jour 0.47 %, mois -1.88 %
 - VOLATILITY S&P 500 (TVC:VIX) : 26.61 USD, jour -25.88 %, mois 38.74 %
-- Gold (TVC:GOLD) : 3628.855 USD, jour -0.15 %, mois -9.86 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.0908 USD, jour 0.05 %, mois -2.73 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55532.9 EUR, jour -1.06 %, mois -23.04 %
+- Gold (TVC:GOLD) : 3635.27 USD, jour 0.03 %, mois -9.7 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09094 USD, jour 0.07 %, mois -2.72 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55381.95 EUR, jour -1.33 %, mois -23.25 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.916 , jour -0.53 %, mois -0.67 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -195,40 +195,40 @@ POSITIONS ET INDICES :
 - MCLON Jewellery Co., Ltd. Class A (SZSE:300945, secteur Retail Trade) jour 3.98 %, mois 0 %, prix 10.2 CNY, capi 2214505179, PER 27.9, volume x2.92 la normale
 
 ÉCRAN Japon : plus fortes hausses :
-- CRAVIA Inc. (TSE:6573, secteur Commercial Services) jour 47.06 %, mois 19.05 %, prix 25 JPY, capi 1337646385, PER None, volume x8.32 la normale
-- Monstarlab Inc. (TSE:5255, secteur Technology Services) jour 40.91 %, mois -13.89 %, prix 62 JPY, capi 2844926697, PER None, volume x13.17 la normale
+- CRAVIA Inc. (TSE:6573, secteur Commercial Services) jour 52.94 %, mois 23.81 %, prix 26 JPY, capi 1337646385, PER None, volume x8.34 la normale
+- Monstarlab Inc. (TSE:5255, secteur Technology Services) jour 45.45 %, mois -11.11 %, prix 64 JPY, capi 2844926697, PER None, volume x13.43 la normale
 - VLC SECURITY CO. LTD. (NAG:2467, secteur Commercial Services) jour 34.25 %, mois -27.68 %, prix 196 JPY, capi 2023676769, PER None, volume x0.67 la normale
 - HODL 1,inc. (TSE:2345, secteur Technology Services) jour 30.61 %, mois 66.23 %, prix 128 JPY, capi 1820878872, PER None, volume x3.82 la normale
-- Intrance Co., Ltd. (TSE:3237, secteur Finance) jour 25 %, mois -9.72 %, prix 65 JPY, capi 2417603867, PER None, volume x3.0 la normale
-- MediciNova, Inc. (TSE:4875, secteur Health Technology) jour 21.95 %, mois 13.64 %, prix 250 JPY, capi 10675170192.460634, PER None, volume x5.53 la normale
+- MediciNova, Inc. (TSE:4875, secteur Health Technology) jour 23.9 %, mois 15.45 %, prix 254 JPY, capi 10675170192.460634, PER None, volume x5.67 la normale
+- Intrance Co., Ltd. (TSE:3237, secteur Finance) jour 23.08 %, mois -11.11 %, prix 64 JPY, capi 2417603867, PER None, volume x3.02 la normale
 - VALUENEX Japan Inc. (TSE:4422, secteur Technology Services) jour 19.38 %, mois 43.26 %, prix 616 JPY, capi 4471243320, PER 42.2, volume x9.87 la normale
-- Axel Mark Inc. (TSE:3624, secteur Commercial Services) jour 16.22 %, mois 451.28 %, prix 215 JPY, capi 12082936707, PER None, volume x0.97 la normale
-- Murata Manufacturing Co., Ltd. (TSE:6981, secteur Electronic Technology) jour 14.89 %, mois -8.97 %, prix 5400 JPY, capi 8668548730469, PER 34.2, volume x0.95 la normale
-- Kokusai Electric Corporation (TSE:6525, secteur Producer Manufacturing) jour 14.29 %, mois -11.13 %, prix 5597 JPY, capi 1163280945221, PER 32.4, volume x0.33 la normale
+- Kaihan Co., Ltd. (TSE:3133, secteur Consumer Services) jour 19.05 %, mois -13.79 %, prix 25 JPY, capi 1461721413, PER None, volume x2.53 la normale
+- Axel Mark Inc. (TSE:3624, secteur Commercial Services) jour 18.92 %, mois 464.1 %, prix 220 JPY, capi 12082936707, PER None, volume x1.0 la normale
+- D.Western Therapeutics Institute, Inc. (TSE:4576, secteur Health Technology) jour 15.56 %, mois -17.46 %, prix 52 JPY, capi 2640807552, PER None, volume x1.42 la normale
 
 ÉCRAN Japon : plus fortes baisses :
-- PLAID Inc. (TSE:4165, secteur Technology Services) jour -17.46 %, mois -63.53 %, prix 279 JPY, capi 13958939438, PER 25.5, volume x1.72 la normale
-- Rebase, Inc. (TSE:5138, secteur Technology Services) jour -16.69 %, mois 17.62 %, prix 494 JPY, capi 2915163051, PER 50.1, volume x7.16 la normale
-- Veritas In Silico Inc. (TSE:130A, secteur Health Technology) jour -12.46 %, mois -17.72 %, prix 260 JPY, capi 1926672844, PER None, volume x0.56 la normale
+- PLAID Inc. (TSE:4165, secteur Technology Services) jour -18.05 %, mois -63.79 %, prix 277 JPY, capi 13958939438, PER 25.3, volume x1.76 la normale
+- Rebase, Inc. (TSE:5138, secteur Technology Services) jour -16.69 %, mois 17.62 %, prix 494 JPY, capi 2915163051, PER 50.1, volume x7.21 la normale
+- Veritas In Silico Inc. (TSE:130A, secteur Health Technology) jour -14.81 %, mois -19.94 %, prix 253 JPY, capi 1926672844, PER None, volume x0.63 la normale
 - IBIDEN CO., LTD. (TSE:4062, secteur Electronic Technology) jour -11.18 %, mois -51.21 %, prix 4672 JPY, capi 2644985046875, PER 34.6, volume x1.09 la normale
-- Eole, Inc. (TSE:2334, secteur Commercial Services) jour -11.09 %, mois -11.27 %, prix 433 JPY, capi 20982004425, PER 158.9, volume x0.86 la normale
-- Terilogy Holdings Corporation (TSE:5133, secteur Electronic Technology) jour -10.39 %, mois -31.3 %, prix 371 JPY, capi 7081979919, PER 201.7, volume x1.07 la normale
-- monoAI technology Co.,Ltd. (TSE:5240, secteur Technology Services) jour -9.77 %, mois -17.24 %, prix 120 JPY, capi 1634128343, PER None, volume x0.67 la normale
-- CanBas Co., Ltd. (TSE:4575, secteur Health Technology) jour -9.48 %, mois -0.56 %, prix 716 JPY, capi 16813235402.999998, PER None, volume x3.19 la normale
-- I-ne CO., LTD. (TSE:4933, secteur Consumer Non-Durables) jour -9.16 %, mois -4.27 %, prix 2240 JPY, capi 43891590317, PER 20.7, volume x25.05 la normale
-- Wedge Holdings CO., LTD. (TSE:2388, secteur Finance) jour -8.33 %, mois 0 %, prix 11 JPY, capi 509460938, PER None, volume x0.26 la normale
+- Terilogy Holdings Corporation (TSE:5133, secteur Electronic Technology) jour -10.39 %, mois -31.3 %, prix 371 JPY, capi 7081979919, PER 201.7, volume x1.08 la normale
+- CanBas Co., Ltd. (TSE:4575, secteur Health Technology) jour -10.11 %, mois -1.25 %, prix 711 JPY, capi 16813235402.999998, PER None, volume x3.27 la normale
+- Eole, Inc. (TSE:2334, secteur Commercial Services) jour -9.86 %, mois -10.04 %, prix 439 JPY, capi 20982004425, PER 161.1, volume x0.92 la normale
+- I-ne CO., LTD. (TSE:4933, secteur Consumer Non-Durables) jour -9.16 %, mois -4.27 %, prix 2240 JPY, capi 43891590317, PER 20.7, volume x25.12 la normale
+- monoAI technology Co.,Ltd. (TSE:5240, secteur Technology Services) jour -9.02 %, mois -16.55 %, prix 121 JPY, capi 1634128343, PER None, volume x0.68 la normale
+- KOMPEITO Inc. (TSE:618A, secteur Transportation) jour -8.55 %, mois -26.13 %, prix 1422 JPY, capi 15421246138, PER None, volume x1.44 la normale
 
 ÉCRAN Japon : volumes anormaux :
-- I-ne CO., LTD. (TSE:4933, secteur Consumer Non-Durables) jour -9.16 %, mois -4.27 %, prix 2240 JPY, capi 43891590317, PER 20.7, volume x25.05 la normale
-- Monstarlab Inc. (TSE:5255, secteur Technology Services) jour 40.91 %, mois -13.89 %, prix 62 JPY, capi 2844926697, PER None, volume x13.17 la normale
+- I-ne CO., LTD. (TSE:4933, secteur Consumer Non-Durables) jour -9.16 %, mois -4.27 %, prix 2240 JPY, capi 43891590317, PER 20.7, volume x25.12 la normale
+- Monstarlab Inc. (TSE:5255, secteur Technology Services) jour 45.45 %, mois -11.11 %, prix 64 JPY, capi 2844926697, PER None, volume x13.4 la normale
 - VALUENEX Japan Inc. (TSE:4422, secteur Technology Services) jour 19.38 %, mois 43.26 %, prix 616 JPY, capi 4471243320, PER 42.2, volume x9.87 la normale
-- Mitachi Co., Ltd. (TSE:3321, secteur Distribution Services) jour 13.93 %, mois 5.31 %, prix 1685 JPY, capi 11793399276, PER 6.4, volume x9.31 la normale
-- Tein, Inc. (TSE:7217, secteur Producer Manufacturing) jour 2.45 %, mois -8.93 %, prix 418 JPY, capi 3918759270, PER 9.1, volume x8.65 la normale
-- CRAVIA Inc. (TSE:6573, secteur Commercial Services) jour 47.06 %, mois 19.05 %, prix 25 JPY, capi 1337646385, PER None, volume x8.32 la normale
-- Rebase, Inc. (TSE:5138, secteur Technology Services) jour -16.69 %, mois 17.62 %, prix 494 JPY, capi 2915163051, PER 50.1, volume x7.16 la normale
-- Bleach, Inc. (TSE:9162, secteur Commercial Services) jour -0.5 %, mois -9.55 %, prix 199 JPY, capi 5147360229, PER None, volume x5.91 la normale
-- Heartseed, Inc. (TSE:219A, secteur Health Technology) jour 2.32 %, mois 5.37 %, prix 2650 JPY, capi 59387144680, PER None, volume x5.64 la normale
-- MediciNova, Inc. (TSE:4875, secteur Health Technology) jour 21.95 %, mois 13.64 %, prix 250 JPY, capi 10675170192.460634, PER None, volume x5.53 la normale
+- Mitachi Co., Ltd. (TSE:3321, secteur Distribution Services) jour 13.79 %, mois 5.19 %, prix 1683 JPY, capi 11793399276, PER 6.4, volume x9.4 la normale
+- Tein, Inc. (TSE:7217, secteur Producer Manufacturing) jour 0.74 %, mois -10.46 %, prix 411 JPY, capi 3918759270, PER 9.0, volume x8.67 la normale
+- CRAVIA Inc. (TSE:6573, secteur Commercial Services) jour 52.94 %, mois 23.81 %, prix 26 JPY, capi 1337646385, PER None, volume x8.34 la normale
+- Rebase, Inc. (TSE:5138, secteur Technology Services) jour -16.69 %, mois 17.62 %, prix 494 JPY, capi 2915163051, PER 50.1, volume x7.21 la normale
+- Heartseed, Inc. (TSE:219A, secteur Health Technology) jour 3.36 %, mois 6.44 %, prix 2677 JPY, capi 59387144680, PER None, volume x6.13 la normale
+- Bleach, Inc. (TSE:9162, secteur Commercial Services) jour 0 %, mois -9.09 %, prix 200 JPY, capi 5147360229, PER None, volume x5.91 la normale
+- MediciNova, Inc. (TSE:4875, secteur Health Technology) jour 23.9 %, mois 15.45 %, prix 254 JPY, capi 10675170192.460634, PER None, volume x5.67 la normale
 
 ÉCRAN Inde : plus fortes hausses :
 - HCL Infosystems Limited (BSE:HCL_INSYS, secteur Technology Services) jour 20.0 %, mois 17.16 %, prix 11.4 INR, capi 3127494049, PER None, volume x47.72 la normale
@@ -315,6 +315,13 @@ POSITIONS ET INDICES :
 - Elis SA (EURONEXT:ELIS, secteur Commercial Services) jour 1.54 %, mois 8.89 %, prix 23.76 EUR, capi 5595557401, PER 15.8, volume x1.02 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia’s CEO - Audacy
+- [Bourse de Paris et Europe] AIRBUS Cours Action AIR, Cotation Bourse Euronext Paris - Boursorama
+- [Chine et Asie] Hong Kong stocks surge as Jensen Huang’s surprising comeback revives AI trade - South China Morning Post
+- [Chine et Asie] Chinese Stocks Crashed to a 16-Month Low After New Warning from Trump - BeInCrypto
+- [Chine et Asie] Asian Stocks Tumble As AI Bubble Fears Weigh on Technology Shares - تسنیم
+- [Intelligence artificielle] Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed - The New York Times
+- [Introductions en bourse] Gianni Infantino’s World Cup sell-off scheme would have run for 96 years - The Times
 - [Marchés mondiaux] Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia’s CEO - The Seattle Times
 - [Chine et Asie] Asian stocks rally as Huang's return to Nvidia revives the AI trade - Reuters
 - [Chine et Asie] Hong Kong Stocks Midday Review | The three major indices edged lower, with the tech index down 0.99%; internet and gold stocks broadly declined, with Xiaomi and Shandong Gold falling more than 4%; most optical communications and PCB concept stocks - 富途牛牛
@@ -448,10 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] Anthropic stock falls as Monday's tech rally takes off - Yahoo Finance
 - [Banques centrales et taux] John Williams, de la Fed, affirme que la banque centrale s’efforce de réduire l’inflation - Zonebourse
 - [Banques centrales et taux] Les Etats-Unis risquent d'entrer en récession si la Fed relève ses taux, selon Bill Ackman - Zonebourse
-- [Intelligence artificielle] Nvidia vs. TSMC: With Jensen Huang Back, Which AI Stock Is the Better Buy for 2027? - The Motley Fool
-- [Crypto] XRP price at Nov 23, 2026 at 6pm EST Crypto Prediction Market - Robinhood
-- [Crypto] HYPE price on Nov 23, 2026 at 4pm EST Crypto Prediction Market - Robinhood
-- [Marchés mondiaux] Asian Stocks to Rally as Huang’s Return Revives AI: Markets Wrap - Bloomberg.com
-- [Bourse de Paris et Europe] CAC 40: La Bourse de Paris rebondit nettement grâce au come-back de Jensen Huang - ABC Bourse
-- [Chine et Asie] Why Did the Hang Seng Hold Near Flat Amid a Divided Asia, and Is iShares China Large-Cap ETF (NYSEARCA:FXI) Affected? - Kalkine
-- [Intelligence artificielle] Huang comeback, Trump data center push recharge US AI stocks - Asi
+- [Intelligence arti
