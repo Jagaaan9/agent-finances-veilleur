@@ -2,19 +2,19 @@ PASSAGE. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'ana
 
 POSITIONS ET INDICES :
 - Anthropic, PBC Class A (NASDAQ:ANT) : 87.64 USD, jour -1.43 %, mois -21.4 %
-- iShares Core MSCI World UCITS ETF (EURONEXT:IWDA) : 126.62 EUR, jour -0.11 %, mois -2.48 %
+- iShares Core MSCI World UCITS ETF (EURONEXT:IWDA) : 126.54 EUR, jour -0.17 %, mois -2.54 %
 - S&P 500 (SP:SPX) : 7237.17 , jour 4.73 %, mois -5.24 %
 - NASDAQ Composite Index (NASDAQ:IXIC) : 24089.5577 , jour 6.51 %, mois -6.97 %
-- CAC 40 Index (EURONEXT:PX1) : 8064.88 , jour 0.25 %, mois 3.23 %
-- STOXX 50 (TVC:SX5E) : 6072.11 EUR, jour -0.04 %, mois -0.37 %
+- CAC 40 Index (EURONEXT:PX1) : 8065.07 , jour 0.25 %, mois 3.23 %
+- STOXX 50 (TVC:SX5E) : 6051.3 EUR, jour -0.38 %, mois -0.71 %
 - Japan 225 Index (TVC:NI225) : 58644.56 JPY, jour 3.91 %, mois -6.42 %
 - Hang Seng Index (TVC:HSI) : 22219.66 HKD, jour -0.73 %, mois -3.51 %
 - SSE Composite Index (SSE:000001) : 3548.3694 , jour 0.27 %, mois -2.08 %
-- VOLATILITY S&P 500 (TVC:VIX) : 26.29 USD, jour -1.2 %, mois 37.07 %
-- Gold (TVC:GOLD) : 3619.791 USD, jour -0.4 %, mois -10.08 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09085 USD, jour 0.06 %, mois -2.73 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55290.52 EUR, jour -1.5 %, mois -23.4 %
-- United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.934 , jour -0.16 %, mois -0.3 %
+- VOLATILITY S&P 500 (TVC:VIX) : 26.75 USD, jour 0.53 %, mois 39.47 %
+- Gold (TVC:GOLD) : 3612.13 USD, jour -0.61 %, mois -10.27 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09103 USD, jour 0.07 %, mois -2.71 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55051.28 EUR, jour -1.92 %, mois -23.7 %
+- United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.928 , jour -0.28 %, mois -0.42 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - Oatly Group AB Sponsored ADR (NASDAQ:OTLY, secteur Consumer Non-Durables) jour 109.08 %, mois 20.33 %, prix 14.5 USD, capi 221313713, PER None, volume x132.2 la normale
@@ -53,84 +53,93 @@ POSITIONS ET INDICES :
 - Sitios Latinoamerica SAB de CV (OTC:SLCVF, secteur Industrial Services) jour 1.6 %, mois -15.44 %, prix 0.3298 USD, capi 1569199681.0554023, PER 35.8, volume x37.18 la normale
 
 ÉCRAN France : plus fortes hausses :
-- Sanofi SA (EURONEXT:SAN, secteur Health Technology) jour 3.28 %, mois 17.93 %, prix 88.06 EUR, capi 101863517750, PER 26.5, volume x0.23 la normale
-- Clariane SE (EURONEXT:CLARI, secteur Health Services) jour 1.9 %, mois 4.53 %, prix 3.326 EUR, capi 1166102328, PER 94.0, volume x1.25 la normale
-- Stellantis N.V. (EURONEXT:STLAP, secteur Consumer Durables) jour 0.05 %, mois -13.72 %, prix 3.22 EUR, capi 11782947248, PER None, volume x0.02 la normale
-- ENGIE S.A. (EURONEXT:ENGI, secteur Utilities) jour -0.16 %, mois 5.17 %, prix 24.43 EUR, capi 61642854112, PER 15.4, volume x0.03 la normale
+- Clariane SE (EURONEXT:CLARI, secteur Health Services) jour 35.9 %, mois 42.05 %, prix 4.52 EUR, capi 1166102328, PER 127.7, volume x7.05 la normale
+- Sanofi SA (EURONEXT:SAN, secteur Health Technology) jour 5.03 %, mois 19.93 %, prix 89.55 EUR, capi 101863517750, PER 26.9, volume x0.28 la normale
+- Valerio Therapeutics (EURONEXT:ALVIO, secteur Health Technology) jour 3.1 %, mois -17.92 %, prix 0.316 EUR, capi 208300816, PER None, volume x0.33 la normale
+- Vallourec SA (EURONEXT:VK, secteur Non-Energy Minerals) jour 2.06 %, mois -16.35 %, prix 15.115 EUR, capi 4022446488, PER 11.1, volume x0.13 la normale
+- Air France-KLM SA (EURONEXT:AF, secteur Transportation) jour 1.01 %, mois 46.72 %, prix 14.965 EUR, capi 3776499257, PER 3.1, volume x0.08 la normale
+- ENGIE S.A. (EURONEXT:ENGI, secteur Utilities) jour -0.37 %, mois 4.95 %, prix 24.38 EUR, capi 61642854112, PER 15.4, volume x0.05 la normale
+- TotalEnergies SE (EURONEXT:TTE, secteur Energy Minerals) jour -0.57 %, mois -5.23 %, prix 77.05 EUR, capi 174534765164, PER 8.9, volume x0.03 la normale
+- Alstom SA (EURONEXT:ALO, secteur Producer Manufacturing) jour -0.87 %, mois -47.03 %, prix 8.47 EUR, capi 3876751264, PER None, volume x0.04 la normale
+- Stellantis N.V. (EURONEXT:STLAP, secteur Consumer Durables) jour -0.99 %, mois -14.62 %, prix 3.1865 EUR, capi 11782947248, PER None, volume x0.04 la normale
 
 ÉCRAN France : plus fortes baisses :
-- ENGIE S.A. (EURONEXT:ENGI, secteur Utilities) jour -0.16 %, mois 5.17 %, prix 24.43 EUR, capi 61642854112, PER 15.4, volume x0.03 la normale
-- Stellantis N.V. (EURONEXT:STLAP, secteur Consumer Durables) jour 0.05 %, mois -13.72 %, prix 3.22 EUR, capi 11782947248, PER None, volume x0.02 la normale
-- Clariane SE (EURONEXT:CLARI, secteur Health Services) jour 1.9 %, mois 4.53 %, prix 3.326 EUR, capi 1166102328, PER 94.0, volume x1.25 la normale
-- Sanofi SA (EURONEXT:SAN, secteur Health Technology) jour 3.28 %, mois 17.93 %, prix 88.06 EUR, capi 101863517750, PER 26.5, volume x0.23 la normale
+- Stellantis N.V. (EURONEXT:STLAP, secteur Consumer Durables) jour -0.99 %, mois -14.62 %, prix 3.1865 EUR, capi 11782947248, PER None, volume x0.04 la normale
+- Alstom SA (EURONEXT:ALO, secteur Producer Manufacturing) jour -0.87 %, mois -47.03 %, prix 8.47 EUR, capi 3876751264, PER None, volume x0.04 la normale
+- TotalEnergies SE (EURONEXT:TTE, secteur Energy Minerals) jour -0.57 %, mois -5.23 %, prix 77.05 EUR, capi 174534765164, PER 8.9, volume x0.03 la normale
+- ENGIE S.A. (EURONEXT:ENGI, secteur Utilities) jour -0.37 %, mois 4.95 %, prix 24.38 EUR, capi 61642854112, PER 15.4, volume x0.05 la normale
+- Air France-KLM SA (EURONEXT:AF, secteur Transportation) jour 1.01 %, mois 46.72 %, prix 14.965 EUR, capi 3776499257, PER 3.1, volume x0.08 la normale
+- Vallourec SA (EURONEXT:VK, secteur Non-Energy Minerals) jour 2.06 %, mois -16.35 %, prix 15.115 EUR, capi 4022446488, PER 11.1, volume x0.13 la normale
+- Valerio Therapeutics (EURONEXT:ALVIO, secteur Health Technology) jour 3.1 %, mois -17.92 %, prix 0.316 EUR, capi 208300816, PER None, volume x0.33 la normale
+- Sanofi SA (EURONEXT:SAN, secteur Health Technology) jour 5.03 %, mois 19.93 %, prix 89.55 EUR, capi 101863517750, PER 26.9, volume x0.28 la normale
+- Clariane SE (EURONEXT:CLARI, secteur Health Services) jour 35.9 %, mois 42.05 %, prix 4.52 EUR, capi 1166102328, PER 127.7, volume x7.05 la normale
 
 ÉCRAN France : volumes anormaux :
+- Clariane SE (EURONEXT:CLARI, secteur Health Services) jour 35.9 %, mois 42.05 %, prix 4.52 EUR, capi 1166102328, PER 127.7, volume x7.05 la normale
 
 ÉCRAN Allemagne : plus fortes hausses :
-- Sandisk Corporation (XETR:BW9, secteur Electronic Technology) jour 14.97 %, mois -39.3 %, prix 84.5 EUR, capi 82753870577.44179, PER 6.1, volume x2.11 la normale
 - AMC Entertainment Holdings, Inc. Class A (TRADEGATE:AH91, secteur Consumer Services) jour 11.97 %, mois -0.38 %, prix 2.62 EUR, capi 2104620083.8547497, PER None, volume x1.66 la normale
 - FIT Hon Teng Limited (LS:A2DT6V, secteur Electronic Technology) jour 10.89 %, mois -33.09 %, prix 0.275 EUR, capi 1796643756.6834621, PER 13.8, volume x12.3 la normale
 - Avacta Group PLC (LS:A2ADP0, secteur Commercial Services) jour 9.09 %, mois -18.18 %, prix 0.72 EUR, capi 343360155.05146885, PER None, volume x6.58 la normale
-- NEL ASA (GETTEX:D7G, secteur Producer Manufacturing) jour 6.93 %, mois -14.97 %, prix 0.1636 EUR, capi 271992846.14264476, PER None, volume x0.25 la normale
+- NEL ASA (GETTEX:D7G, secteur Producer Manufacturing) jour 4.44 %, mois -16.94 %, prix 0.1598 EUR, capi 271992846.14264476, PER None, volume x0.29 la normale
 - Lloyds Banking Group plc (TRADEGATE:LLD, secteur Finance) jour 4.3 %, mois -4.0 %, prix 1.1525 EUR, capi 64452702725.30542, PER 9.9, volume x4.06 la normale
-- Anthropic, PBC Class A (XETR:1ANT, secteur Technology Services) jour 2.13 %, mois -20.99 %, prix 81.38 EUR, capi 1078330284843.7587, PER None, volume xNone la normale
-- K+S AG (XETR:SDF, secteur Process Industries) jour 1.94 %, mois -2.74 %, prix 12.08 EUR, capi 2228004001, PER 2.3, volume x0.07 la normale
-- Plug Power Inc. (TRADEGATE:PLUN, secteur Electronic Technology) jour 1.58 %, mois -25.4 %, prix 0.9259 EUR, capi 1227564627.7913358, PER None, volume x0.08 la normale
-- Air France-KLM SA (TRADEGATE:AFR0, secteur Transportation) jour 1.53 %, mois 44.95 %, prix 14.93 EUR, capi 3776499257, PER 3.1, volume x4.15 la normale
+- Heidelberger Druckmaschinen AG (XETR:HDD, secteur Producer Manufacturing) jour 2.56 %, mois -23.84 %, prix 1 EUR, capi 291402034, PER 43.5, volume x0.17 la normale
+- Air France-KLM SA (TRADEGATE:AFR0, secteur Transportation) jour 1.84 %, mois 45.39 %, prix 14.975 EUR, capi 3776499257, PER 3.1, volume x4.16 la normale
+- Plug Power Inc. (TRADEGATE:PLUN, secteur Electronic Technology) jour 1.58 %, mois -25.4 %, prix 0.9259 EUR, capi 1227564627.7913358, PER None, volume x0.09 la normale
+- Deutsche Lufthansa AG (XETR:LHA, secteur Transportation) jour 1.03 %, mois 27.46 %, prix 9.004 EUR, capi 10450908902, PER 11.3, volume x0.14 la normale
+- Deutsche Lufthansa AG (TRADEGATE:LHA, secteur Transportation) jour 0.6 %, mois 27.3 %, prix 9 EUR, capi 10450908902, PER 11.3, volume x0.3 la normale
 
 ÉCRAN Allemagne : plus fortes baisses :
+- AIXTRON SE (XETR:AIXA, secteur Producer Manufacturing) jour -7.71 %, mois 1.62 %, prix 29.57 EUR, capi 3312095358, PER 41.4, volume x0.22 la normale
 - NagaCorp Ltd. (LS:A0LB2X, secteur Consumer Services) jour -4.51 %, mois -7.17 %, prix 0.233 EUR, capi 1026752931.2483991, PER 3.9, volume x5.82 la normale
-- Vulcan Energy Resources Ltd. (LS:A2PV3A, secteur Non-Energy Minerals) jour -4.39 %, mois -6.19 %, prix 0.621 EUR, capi 298032261.0164682, PER None, volume x8.32 la normale
-- Springer Nature AG & Co. KGaA (XETR:SPG, secteur Consumer Services) jour -3.14 %, mois 4.1 %, prix 21.6 EUR, capi 4465055631, PER 13.1, volume x1.61 la normale
-- E.ON SE (XETR:EOAN, secteur Utilities) jour -1.01 %, mois 0.68 %, prix 18.55 EUR, capi 48629380958, PER 11.0, volume x0.05 la normale
-- NVIDIA Corporation (TRADEGATE:NVD, secteur Electronic Technology) jour -0.73 %, mois -20.76 %, prix 150.08 EUR, capi 2775530716692.9673, PER 18.0, volume x0.09 la normale
-- Infineon Technologies AG (XETR:IFX, secteur Electronic Technology) jour -0.42 %, mois -4.77 %, prix 48.215 EUR, capi 59134500400, PER 42.4, volume x0.03 la normale
-- Deutsche Bank Aktiengesellschaft (XETR:DBK, secteur Finance) jour 0.08 %, mois 8.33 %, prix 30.55 EUR, capi 53089345241, PER 9.1, volume x0.02 la normale
-- Siemens Energy AG (XETR:ENR, secteur Producer Manufacturing) jour 0.16 %, mois 2.71 %, prix 126.66 EUR, capi 99485469148, PER 28.9, volume x0.05 la normale
-- Deutsche Telekom AG (XETR:DTE, secteur Communications) jour 0.27 %, mois 2.06 %, prix 26.32 EUR, capi 125973957390, PER 14.1, volume x0.02 la normale
-- Lloyds Banking Group plc (XETR:LLD, secteur Finance) jour 0.52 %, mois -4.58 %, prix 1.1565 EUR, capi 64452702725.30542, PER 9.9, volume x0.43 la normale
+- Springer Nature AG & Co. KGaA (XETR:SPG, secteur Consumer Services) jour -2.24 %, mois 5.06 %, prix 21.8 EUR, capi 4465055631, PER 13.2, volume x1.85 la normale
+- Bayer AG (XETR:BAYN, secteur Health Technology) jour -1.59 %, mois 17.99 %, prix 52.14 EUR, capi 52422149096, PER None, volume x0.06 la normale
+- NVIDIA Corporation (TRADEGATE:NVD, secteur Electronic Technology) jour -1.11 %, mois -21.07 %, prix 149.5 EUR, capi 2775530716692.9673, PER 17.9, volume x0.1 la normale
+- Infineon Technologies AG (XETR:IFX, secteur Electronic Technology) jour -0.98 %, mois -5.3 %, prix 47.945 EUR, capi 59134500400, PER 42.1, volume x0.04 la normale
+- E.ON SE (XETR:EOAN, secteur Utilities) jour -0.75 %, mois 0.95 %, prix 18.6 EUR, capi 48629380958, PER 11.1, volume x0.06 la normale
+- SAP SE (XETR:SAP, secteur Technology Services) jour -0.43 %, mois -13.12 %, prix 185.54 EUR, capi 214457221214, PER 26.3, volume x0.05 la normale
+- Siemens Energy AG (XETR:ENR, secteur Producer Manufacturing) jour -0.11 %, mois 2.43 %, prix 126.32 EUR, capi 99485469148, PER 28.8, volume x0.06 la normale
+- Deutsche Bank Aktiengesellschaft (XETR:DBK, secteur Finance) jour -0.07 %, mois 8.17 %, prix 30.505 EUR, capi 53089345241, PER 9.1, volume x0.03 la normale
 
 ÉCRAN Allemagne : volumes anormaux :
 - FIT Hon Teng Limited (LS:A2DT6V, secteur Electronic Technology) jour 10.89 %, mois -33.09 %, prix 0.275 EUR, capi 1796643756.6834621, PER 13.8, volume x12.3 la normale
-- Vulcan Energy Resources Ltd. (LS:A2PV3A, secteur Non-Energy Minerals) jour -4.39 %, mois -6.19 %, prix 0.621 EUR, capi 298032261.0164682, PER None, volume x8.32 la normale
 - Avacta Group PLC (LS:A2ADP0, secteur Commercial Services) jour 9.09 %, mois -18.18 %, prix 0.72 EUR, capi 343360155.05146885, PER None, volume x6.58 la normale
 - NagaCorp Ltd. (LS:A0LB2X, secteur Consumer Services) jour -4.51 %, mois -7.17 %, prix 0.233 EUR, capi 1026752931.2483991, PER 3.9, volume x5.82 la normale
-- Air France-KLM SA (TRADEGATE:AFR0, secteur Transportation) jour 1.53 %, mois 44.95 %, prix 14.93 EUR, capi 3776499257, PER 3.1, volume x4.15 la normale
+- Air France-KLM SA (TRADEGATE:AFR0, secteur Transportation) jour 1.84 %, mois 45.39 %, prix 14.975 EUR, capi 3776499257, PER 3.1, volume x4.16 la normale
 - Lloyds Banking Group plc (TRADEGATE:LLD, secteur Finance) jour 4.3 %, mois -4.0 %, prix 1.1525 EUR, capi 64452702725.30542, PER 9.9, volume x4.06 la normale
-- Sandisk Corporation (XETR:BW9, secteur Electronic Technology) jour 14.97 %, mois -39.3 %, prix 84.5 EUR, capi 82753870577.44179, PER 6.1, volume x2.11 la normale
 
 ÉCRAN Hong Kong / Chine : plus fortes hausses :
-- Public Financial Holdings Limited (HKEX:626, secteur Finance) jour 76.6 %, mois 11.66 %, prix 2.49 HKD, capi 2585595975, PER 26.7, volume x10.86 la normale
+- Public Financial Holdings Limited (HKEX:626, secteur Finance) jour 76.6 %, mois 11.66 %, prix 2.49 HKD, capi 2585595975, PER 26.7, volume x10.87 la normale
 - International Business Digital Technology Limited (HKEX:1782, secteur Technology Services) jour 63.27 %, mois 34.62 %, prix 2.8 HKD, capi 1388000011, PER None, volume x12.39 la normale
-- JTF International Holdings Ltd. (HKEX:9689, secteur Distribution Services) jour 61.18 %, mois 82.67 %, prix 1.37 HKD, capi 970920005, PER 34.3, volume x6.06 la normale
-- BrainAurora Medical Technology Limited (HKEX:6681, secteur Health Technology) jour 40.41 %, mois 116.93 %, prix 2.05 HKD, capi 1894797720, PER None, volume x3.18 la normale
+- JTF International Holdings Ltd. (HKEX:9689, secteur Distribution Services) jour 60.0 %, mois 81.33 %, prix 1.36 HKD, capi 970920005, PER 34.1, volume x6.1 la normale
+- BrainAurora Medical Technology Limited (HKEX:6681, secteur Health Technology) jour 38.7 %, mois 114.29 %, prix 2.025 HKD, capi 1894797720, PER None, volume x3.21 la normale
 - Great Wall Terroir Holdings Limited (HKEX:524, secteur Communications) jour 31.88 %, mois 29.54 %, prix 1.82 HKD, capi 324881557, PER None, volume x6.82 la normale
-- TS Wonders Holding Limited (HKEX:1767, secteur Consumer Non-Durables) jour 27.27 %, mois 30.67 %, prix 0.49 HKD, capi 389999986, PER 19.6, volume x58.38 la normale
+- TS Wonders Holding Limited (HKEX:1767, secteur Consumer Non-Durables) jour 27.27 %, mois 30.67 %, prix 0.49 HKD, capi 389999986, PER 19.6, volume x58.4 la normale
 - Hanfort Development Holdings Limited (HKEX:361, secteur Consumer Durables) jour 20.0 %, mois 7.69 %, prix 0.042 HKD, capi 210644991, PER None, volume x2.96 la normale
 - Broncus Holding Corp. (HKEX:2216, secteur Health Technology) jour 19.59 %, mois -2.52 %, prix 0.58 HKD, capi 253793783, PER None, volume x1.49 la normale
-- AuGroup (SHENZHEN) Cross-Border Business Co., Ltd. Class H (HKEX:2519, secteur Retail Trade) jour 18.84 %, mois 5.13 %, prix 4.1 HKD, capi 1444514011, PER 16.0, volume x17.76 la normale
-- 160 Health International Ltd. (HKEX:2656, secteur Distribution Services) jour 17.46 %, mois 25.0 %, prix 2.725 HKD, capi 807334413, PER None, volume x2.03 la normale
+- 160 Health International Ltd. (HKEX:2656, secteur Distribution Services) jour 17.24 %, mois 24.77 %, prix 2.72 HKD, capi 807334413, PER None, volume x2.06 la normale
+- AuGroup (SHENZHEN) Cross-Border Business Co., Ltd. Class H (HKEX:2519, secteur Retail Trade) jour 15.94 %, mois 2.56 %, prix 4 HKD, capi 1444514011, PER 15.6, volume x17.76 la normale
 
 ÉCRAN Hong Kong / Chine : plus fortes baisses :
 - Labixiaoxin Snacks Group Ltd. (HKEX:1262, secteur Consumer Non-Durables) jour -41.47 %, mois -35.6 %, prix 2.505 HKD, capi 1023992467, PER None, volume x15.52 la normale
 - Hevol Services Group Co. Limited (HKEX:6093, secteur Finance) jour -20.0 %, mois -46.88 %, prix 0.34 HKD, capi 238000007, PER None, volume x1.75 la normale
+- EYANG Holdings (Group) Co., Limited (HKEX:117, secteur Electronic Technology) jour -16.19 %, mois -64.59 %, prix 0.88 HKD, capi 789434957, PER 3.7, volume x3.27 la normale
 - Hao Tian International Construction Investment Group Limited (HKEX:1341, secteur Finance) jour -15.79 %, mois 146.15 %, prix 0.032 HKD, capi 321765922, PER 320, volume x0.6 la normale
-- EYANG Holdings (Group) Co., Limited (HKEX:117, secteur Electronic Technology) jour -15.71 %, mois -64.39 %, prix 0.885 HKD, capi 789434957, PER 3.7, volume x3.23 la normale
-- Modern Chinese Medicine Group Co. Ltd. (HKEX:1643, secteur Health Technology) jour -13.92 %, mois 7.94 %, prix 0.34 HKD, capi 270000000, PER None, volume x2.51 la normale
-- PT Merdeka Gold Resources Tbk Shs Spon Hong Kong Depositary Receipt Repr 1/10th of Sh Reg S (HKEX:6228, secteur Non-Energy Minerals) jour -13.09 %, mois -31.52 %, prix 19.38 HKD, capi 28206050091.821476, PER None, volume x0.76 la normale
-- Top Education Group Ltd. (HKEX:1752, secteur Consumer Services) jour -12.58 %, mois 30.69 %, prix 0.132 HKD, capi 344305074, PER 15.2, volume x0.87 la normale
-- Bairong AI Inc. Class B (HKEX:6608, secteur Technology Services) jour -11.57 %, mois -40.94 %, prix 3.44 HKD, capi 2057856824, PER None, volume x1.55 la normale
-- Shanghai REFIRE Group Ltd. Class H (HKEX:2570, secteur Utilities) jour -11.34 %, mois -13.48 %, prix 4.3 HKD, capi 265316545.00000003, PER None, volume x6.87 la normale
-- China Golden Classic Group Ltd. (HKEX:8281, secteur Consumer Non-Durables) jour -11.27 %, mois -4.31 %, prix 0.244 HKD, capi 275000006, PER 19.4, volume x1.54 la normale
+- LVGEM (China) Real Estate Investment Co. Ltd. (HKEX:95, secteur Finance) jour -13.67 %, mois -33.33 %, prix 0.12 HKD, capi 911789625, PER None, volume x0.55 la normale
+- PT Merdeka Gold Resources Tbk Shs Spon Hong Kong Depositary Receipt Repr 1/10th of Sh Reg S (HKEX:6228, secteur Non-Energy Minerals) jour -13.27 %, mois -31.66 %, prix 19.34 HKD, capi 28206050091.821476, PER None, volume x0.76 la normale
+- Hong Kong Gold Industry Group Limited (HKEX:2623, secteur Non-Energy Minerals) jour -12.75 %, mois -40.44 %, prix 1.745 HKD, capi 1124691108, PER None, volume x1.93 la normale
+- Top Education Group Ltd. (HKEX:1752, secteur Consumer Services) jour -12.58 %, mois 30.69 %, prix 0.132 HKD, capi 344305074, PER 15.2, volume x0.89 la normale
+- Bairong AI Inc. Class B (HKEX:6608, secteur Technology Services) jour -11.83 %, mois -41.12 %, prix 3.43 HKD, capi 2057856824, PER None, volume x1.57 la normale
+- Modern Chinese Medicine Group Co. Ltd. (HKEX:1643, secteur Health Technology) jour -11.39 %, mois 11.11 %, prix 0.35 HKD, capi 270000000, PER None, volume x2.65 la normale
 
 ÉCRAN Hong Kong / Chine : volumes anormaux :
 - Shun Ho Property Investments Ltd (HKEX:219, secteur Consumer Services) jour 5.88 %, mois 12.5 %, prix 0.81 HKD, capi 391384153, PER None, volume x389.3 la normale
-- TS Wonders Holding Limited (HKEX:1767, secteur Consumer Non-Durables) jour 27.27 %, mois 30.67 %, prix 0.49 HKD, capi 389999986, PER 19.6, volume x58.38 la normale
+- TS Wonders Holding Limited (HKEX:1767, secteur Consumer Non-Durables) jour 27.27 %, mois 30.67 %, prix 0.49 HKD, capi 389999986, PER 19.6, volume x58.4 la normale
 - WEIli Holdings Limited (HKEX:2372, secteur Process Industries) jour -3.18 %, mois 26.67 %, prix 0.76 HKD, capi 640000010, PER None, volume x41.69 la normale
-- Dongjiang Environmental Co. Ltd. Class H (HKEX:895, secteur Industrial Services) jour -0.35 %, mois -1.74 %, prix 1.415 HKD, capi 3354387215, PER None, volume x32.96 la normale
+- Dongjiang Environmental Co. Ltd. Class H (HKEX:895, secteur Industrial Services) jour -1.41 %, mois -2.78 %, prix 1.4 HKD, capi 3354387215, PER None, volume x32.99 la normale
 - Infinity Logistics and Transport Ventures Limited (HKEX:1442, secteur Transportation) jour -6.67 %, mois -8.46 %, prix 0.238 HKD, capi 491232011, PER 33.1, volume x31.62 la normale
-- Lemo Services Co., Ltd. Class H (HKEX:2539, secteur Producer Manufacturing) jour 2.25 %, mois 3.64 %, prix 9.1 HKD, capi 505555971, PER None, volume x27.56 la normale
-- Cathay Pacific Airways Limited (HKEX:293, secteur Transportation) jour -2.44 %, mois 16.25 %, prix 15.17 HKD, capi 95473707336, PER 7.3, volume x24.54 la normale
+- Lemo Services Co., Ltd. Class H (HKEX:2539, secteur Producer Manufacturing) jour 2.02 %, mois 3.42 %, prix 9.08 HKD, capi 505555971, PER None, volume x27.56 la normale
+- Cathay Pacific Airways Limited (HKEX:293, secteur Transportation) jour -2.06 %, mois 16.7 %, prix 15.23 HKD, capi 95473707336, PER 7.4, volume x24.88 la normale
 - TATA Health International Holdings Ltd. (HKEX:1255, secteur Retail Trade) jour 12.5 %, mois -1.37 %, prix 1.8 HKD, capi 437120991, PER None, volume x21.76 la normale
 - Digital Domain Holdings Limited (HKEX:547, secteur Consumer Services) jour 8.33 %, mois 7.73 %, prix 0.195 HKD, capi 1292638267, PER None, volume x19.86 la normale
 - Best Linking Group Holdings Limited (HKEX:9882, secteur Producer Manufacturing) jour 5.7 %, mois -7.22 %, prix 0.835 HKD, capi 667999983, PER None, volume x18.17 la normale
@@ -257,21 +266,21 @@ POSITIONS ET INDICES :
 
 ÉCRAN Royaume-Uni : meilleures performances sur 1 mois :
 - Inovio Pharmaceuticals, Inc. (LSE:0A43, secteur Health Technology) jour 8.09 %, mois 118.2 %, prix 1.87 USD, capi 252981501.911115, PER None, volume x0.74 la normale
-- B&M European Value Retail PLC (LSE:BME, secteur Retail Trade) jour -2.15 %, mois 26.33 %, prix 346.4 GBX, capi 3460322177, PER 17.9, volume x0.02 la normale
-- Bayer AG (LSIN:0P6S, secteur Health Technology) jour -2.21 %, mois 18.42 %, prix 52.14 EUR, capi 43848611455.64739, PER None, volume x0.21 la normale
+- Clariane SE (LSIN:0OPS, secteur Health Services) jour 39.15 %, mois 44.89 %, prix 4.606 EUR, capi 975388624.460256, PER 130.1, volume x1.25 la normale
+- B&M European Value Retail PLC (LSE:BME, secteur Retail Trade) jour -2.09 %, mois 26.4 %, prix 346.6 GBX, capi 3460322177, PER 17.9, volume x0.02 la normale
+- Dometic Group AB (LSIN:0RCO, secteur Consumer Durables) jour 4.55 %, mois 18.25 %, prix 23.42 SEK, capi 517456650.595059, PER None, volume x0.65 la normale
+- Bayer AG (LSIN:0P6S, secteur Health Technology) jour -2.51 %, mois 18.06 %, prix 51.98 EUR, capi 43848611455.64739, PER None, volume x0.24 la normale
 - Fugro NV (LSE:0LNT, secteur Industrial Services) jour -0.89 %, mois 14.74 %, prix 8.33 EUR, capi 698372216.057244, PER None, volume x4.46 la normale
 - Chemical Works of Gedeon Richter Plc (LSIN:0QFP, secteur Health Technology) jour 5.84 %, mois 14.17 %, prix 13780 HUF, capi 5477480374.558402, PER 10.3, volume x3.82 la normale
-- International Consolidated Airlines Group SA (LSE:IAG, secteur Transportation) jour 0.7 %, mois 12.99 %, prix 458.4 GBX, capi 18982261737, PER 8.2, volume x0.04 la normale
-- ConvaTec Group Plc (LSE:CTEC, secteur Health Technology) jour 0.67 %, mois 10.62 %, prix 270.8 GBX, capi 5073740417, PER 58.7, volume x0.04 la normale
-- Balfour Beatty plc (LSE:BBY, secteur Industrial Services) jour 5.23 %, mois 10.57 %, prix 915 GBX, capi 3928750004, PER 17.5, volume x0.16 la normale
-- Rentokil Initial plc (LSE:RTO, secteur Commercial Services) jour 0.97 %, mois 10.21 %, prix 374.7 GBX, capi 9228091732, PER 26.7, volume x0.04 la normale
-- Straumann Holding AG (LSIN:0QMV, secteur Health Technology) jour -0.47 %, mois 10.05 %, prix 106.25 CHF, capi 15515593719.815823, PER 45.9, volume x14.31 la normale
+- Babcock International Group PLC (LSE:BAB, secteur Producer Manufacturing) jour 2.02 %, mois 13.09 %, prix 1063 GBX, capi 4917767930, PER 26.5, volume x0.05 la normale
+- International Consolidated Airlines Group SA (LSE:IAG, secteur Transportation) jour 0.2 %, mois 12.42 %, prix 456.1 GBX, capi 18982261737, PER 8.2, volume x0.05 la normale
+- ConvaTec Group Plc (LSE:CTEC, secteur Health Technology) jour 0.74 %, mois 10.7 %, prix 271 GBX, capi 5073740417, PER 58.8, volume x0.04 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 6.34 %, mois -12.16 %, prix 282.1 USD, capi 3440526751874.9883, PER 14.7, volume x1.24 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 5.88 %, mois -12.03 %, prix 279.53 USD, capi 3425841218064.651, PER 14.6, volume x1.37 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 4.15 %, mois -10.43 %, prix 41.38 USD, capi 3235509897217, PER 2.2, volume x0.3 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 4.64 %, mois -10.98 %, prix 41.51 USD, capi 3235509897217, PER 2.2, volume x0.39 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 4.15 %, mois -10.43 %, prix 41.38 USD, capi 3235509897217, PER 2.2, volume x0.3 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 5.2 %, mois -2.46 %, prix 48.77 USD, capi 1433642301357, PER 1.7, volume x0.79 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.92 %, mois -4.91 %, prix 316.66 USD, capi 840925338691.3389, PER 13.3, volume x1.31 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 19.04 %, mois -17.93 %, prix 707.7 USD, capi 800708224371.5156, PER 9.5, volume x1.49 la normale
@@ -280,12 +289,19 @@ POSITIONS ET INDICES :
 - Bank of America Corp (NYSE:BAC, secteur Finance) jour 2.25 %, mois -5.11 %, prix 48.14 USD, capi 332176066972.5315, PER 11.5, volume x1.11 la normale
 
 ÉCRAN France : meilleures performances sur 1 mois :
-- Sanofi SA (EURONEXT:SAN, secteur Health Technology) jour 3.28 %, mois 17.93 %, prix 88.06 EUR, capi 101863517750, PER 26.5, volume x0.23 la normale
-- ENGIE S.A. (EURONEXT:ENGI, secteur Utilities) jour -0.16 %, mois 5.17 %, prix 24.43 EUR, capi 61642854112, PER 15.4, volume x0.03 la normale
-- Clariane SE (EURONEXT:CLARI, secteur Health Services) jour 1.9 %, mois 4.53 %, prix 3.326 EUR, capi 1166102328, PER 94.0, volume x1.25 la normale
-- Stellantis N.V. (EURONEXT:STLAP, secteur Consumer Durables) jour 0.05 %, mois -13.72 %, prix 3.22 EUR, capi 11782947248, PER None, volume x0.02 la normale
+- Air France-KLM SA (EURONEXT:AF, secteur Transportation) jour 1.01 %, mois 46.72 %, prix 14.965 EUR, capi 3776499257, PER 3.1, volume x0.08 la normale
+- Clariane SE (EURONEXT:CLARI, secteur Health Services) jour 35.9 %, mois 42.05 %, prix 4.52 EUR, capi 1166102328, PER 127.7, volume x7.05 la normale
+- Sanofi SA (EURONEXT:SAN, secteur Health Technology) jour 5.03 %, mois 19.93 %, prix 89.55 EUR, capi 101863517750, PER 26.9, volume x0.28 la normale
+- ENGIE S.A. (EURONEXT:ENGI, secteur Utilities) jour -0.37 %, mois 4.95 %, prix 24.38 EUR, capi 61642854112, PER 15.4, volume x0.05 la normale
+- TotalEnergies SE (EURONEXT:TTE, secteur Energy Minerals) jour -0.57 %, mois -5.23 %, prix 77.05 EUR, capi 174534765164, PER 8.9, volume x0.03 la normale
+- Stellantis N.V. (EURONEXT:STLAP, secteur Consumer Durables) jour -0.99 %, mois -14.62 %, prix 3.1865 EUR, capi 11782947248, PER None, volume x0.04 la normale
+- Vallourec SA (EURONEXT:VK, secteur Non-Energy Minerals) jour 2.06 %, mois -16.35 %, prix 15.115 EUR, capi 4022446488, PER 11.1, volume x0.13 la normale
+- Valerio Therapeutics (EURONEXT:ALVIO, secteur Health Technology) jour 3.1 %, mois -17.92 %, prix 0.316 EUR, capi 208300816, PER None, volume x0.33 la normale
+- Alstom SA (EURONEXT:ALO, secteur Producer Manufacturing) jour -0.87 %, mois -47.03 %, prix 8.47 EUR, capi 3876751264, PER None, volume x0.04 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] China stocks lag global AI rally as Nvidia's Huang returns - NST Online
+- [Chine et Asie] Stellantis partner flashes warning for Chinese EVs - Breakingviews
 - [Marchés mondiaux] Asian stocks mostly rise after Wall Street's rebound as Jensen Huang returns as Nvidia’s CEO - Chron
 - [Bourse de Paris et Europe] L'Europe attendue en hausse, soutenue par l'appétit pour le risque - ABC Bourse
 - [Banques centrales et taux] Le dollar en hausse alors que le regain d'euphorie autour de l'IA alimente les anticipations de hausse des tau - Boursorama
@@ -434,5 +450,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] XRP price at Nov 23, 2026 at 11pm EST Crypto Prediction Market - Robinhood
 - [Crypto] Bitcoin And Ethereum Get A Bigger Role In US Derivatives Markets: Here’s What The CFTC Changed - TradingView
 - [Anthropic] She Flips $100,000 of Anthropic IPO Shares at the $111.50 Open for a $34,300 Gain. The Quick Sale Could Bar Her From Future IPOs and Makes $22,700 More of Her Social Security Taxable - 24/7 Wall St.
-- [Intelligence artificielle] Asia chipmaking stocks soar tracking Nvidia rally; S.Korea, Taiwan lead - Yahoo Finance
-- [Petites valeurs en croissance] WAM Capital (ASX:WAM): The Payout Settings That Define Its Income - Kalkine Media
