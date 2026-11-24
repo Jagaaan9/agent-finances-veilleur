@@ -12,8 +12,8 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3548.3694 , jour 0.27 %, mois -2.08 %
 - VOLATILITY S&P 500 (TVC:VIX) : 26.37 USD, jour -0.9 %, mois 37.49 %
 - Gold (TVC:GOLD) : 3556.23 USD, jour -2.15 %, mois -10.93 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09634 USD, jour -0.01 %, mois -2.29 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54677.21 EUR, jour -2.59 %, mois -24.22 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09651 USD, jour 0.0 %, mois -2.28 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54717.54 EUR, jour -2.52 %, mois -24.17 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.928 , jour -0.28 %, mois -0.42 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -22,18 +22,18 @@ POSITIONS ET INDICES :
 - Alta Equipment Group, Inc. (NYSE:ALTG, secteur Distribution Services) jour 33.19 %, mois -0.97 %, prix 6.14 USD, capi 201596055.77440345, PER None, volume x5.71 la normale
 - Chaince Digital Holdings Inc. (NASDAQ:CD, secteur Technology Services) jour 30.38 %, mois -26.32 %, prix 5.88 USD, capi 646822373.9866962, PER None, volume x0.98 la normale
 - Prelude Therapeutics, Inc. (NASDAQ:PRLD, secteur Health Technology) jour 28.57 %, mois 25.35 %, prix 4.5 USD, capi 426594593.5714286, PER None, volume x5.49 la normale
-- Veraxa Biotech AG (NASDAQ:VRXA, secteur Health Technology) jour 27.78 %, mois 32.69 %, prix 1.38 USD, capi 203871280.61111107, PER 6.4, volume x3.66 la normale
+- Veraxa Biotech AG (NASDAQ:VRXA, secteur Health Technology) jour 27.78 %, mois 32.69 %, prix 1.38 USD, capi 203871280.61111107, PER 6.4, volume x3.67 la normale
 - Enigmatig Limited Class A (AMEX:EGG, secteur Commercial Services) jour 26.52 %, mois 71.84 %, prix 8.97 USD, capi 251206652.85613543, PER None, volume x1.67 la normale
-- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 22.81 %, mois -20.98 %, prix 1.13 USD, capi 326084290.09695, PER None, volume x0.58 la normale
+- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 22.81 %, mois -20.98 %, prix 1.13 USD, capi 326084290.09695, PER None, volume x0.66 la normale
 - Phathom Pharmaceuticals, Inc. (NASDAQ:PHAT, secteur Health Technology) jour 22.36 %, mois -13.69 %, prix 5.8 USD, capi 471490832.15189874, PER None, volume x2.08 la normale
 - Yarrow Bioscience, Inc. (NASDAQ:YARW, secteur Health Technology) jour 22.26 %, mois -20.74 %, prix 15.82 USD, capi 241016811.19474497, PER None, volume x1.16 la normale
 
 ÉCRAN États-Unis : plus fortes baisses :
 - China Rare Earth Holdings Limited (OTC:CREQF, secteur Non-Energy Minerals) jour -99.4 %, mois -40.0 %, prix 0.0003 USD, capi 248989076.17941, PER None, volume x11.65 la normale
-- Stewards, Inc. (NASDAQ:SWRD, secteur Non-Energy Minerals) jour -29.63 %, mois -54.22 %, prix 1.14 USD, capi 250592895.77777776, PER None, volume x1.01 la normale
+- Stewards, Inc. (NASDAQ:SWRD, secteur Non-Energy Minerals) jour -29.63 %, mois -54.22 %, prix 1.14 USD, capi 250592895.77777776, PER None, volume x1.02 la normale
 - Kraken Robotics Inc (OTC:KRKNF, secteur Electronic Technology) jour -23.39 %, mois -43.2 %, prix 1.67 USD, capi 620258252.6430868, PER None, volume x4.23 la normale
 - VNET Group, Inc. Sponsored ADR (NASDAQ:VNET, secteur Technology Services) jour -22.44 %, mois -48.96 %, prix 1.97 USD, capi 736495308, PER None, volume x2.42 la normale
-- Ambarella, Inc. (NASDAQ:AMBA, secteur Electronic Technology) jour -19.96 %, mois -29.31 %, prix 44.47 USD, capi 1962949079.8111947, PER None, volume x5.83 la normale
+- Ambarella, Inc. (NASDAQ:AMBA, secteur Electronic Technology) jour -19.96 %, mois -29.31 %, prix 44.47 USD, capi 1962949079.8111947, PER None, volume x5.97 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109518.457516, PER 5.1, volume x99.36 la normale
 - EverCommerce, Inc. (NASDAQ:EVCM, secteur Technology Services) jour -18.81 %, mois -42.03 %, prix 5.31 USD, capi 932617440.4266055, PER 31.7, volume x3.64 la normale
 - Shoe Station Group, Inc. (NASDAQ:SHOE, secteur Retail Trade) jour -18.39 %, mois -17.58 %, prix 11.58 USD, capi 314788568.0295983, PER 13.1, volume x7.02 la normale
@@ -162,8 +162,8 @@ POSITIONS ET INDICES :
 - Zhejiang Tongxing Technology Co., Ltd. Class A (SZSE:301252, secteur Producer Manufacturing) jour 20.0 %, mois 51.99 %, prix 42.48 CNY, capi 2860220695, PER 66.1, volume x0.89 la normale
 - Shenzhen Ampron Technology Co., Ltd. Class A (SZSE:301413, secteur Commercial Services) jour 20.0 %, mois 44.44 %, prix 89.71 CNY, capi 10271430314, PER 420.6, volume x1.51 la normale
 - Cre8 Direct (Ningbo) Co. Ltd. Class A (SZSE:300703, secteur Process Industries) jour 19.98 %, mois 21.36 %, prix 14.83 CNY, capi 2187825554, PER None, volume x1.81 la normale
-- HangZhou Radical Energy Saving Technology Co., Ltd. Class A (SZSE:300652, secteur Producer Manufacturing) jour 19.98 %, mois 18.85 %, prix 29.06 CNY, capi 3230719737, PER 48.6, volume x1.38 la normale
 - Beijing Longruan Technologies Inc. Class A (SSE:688078, secteur Technology Services) jour 19.98 %, mois 6.64 %, prix 29.06 CNY, capi 1765468355, PER None, volume x1.25 la normale
+- HangZhou Radical Energy Saving Technology Co., Ltd. Class A (SZSE:300652, secteur Producer Manufacturing) jour 19.98 %, mois 18.85 %, prix 29.06 CNY, capi 3230719737, PER 48.6, volume x1.38 la normale
 - Ningbo Henghe Precision Industry Co., Ltd. Class A (SZSE:300539, secteur Producer Manufacturing) jour 19.98 %, mois 41.12 %, prix 22.58 CNY, capi 5016041082, PER 127.1, volume x1.83 la normale
 - Wuhan Tianyu Information Industry Co., Ltd. Class A (SZSE:300205, secteur Electronic Technology) jour 19.93 %, mois -22.15 %, prix 3.55 CNY, capi 1272965776, PER None, volume x3.04 la normale
 
@@ -266,7 +266,7 @@ POSITIONS ET INDICES :
 ÉCRAN États-Unis : meilleures performances sur 1 mois :
 - Bgin Blockchain Ltd. Class A (NASDAQ:BGIN, secteur Technology Services) jour -2.44 %, mois 186.74 %, prix 5.19 USD, capi 587175552.2086467, PER None, volume x0.33 la normale
 - Ultralife Corporation (NASDAQ:ULBI, secteur Producer Manufacturing) jour 0 %, mois 152.1 %, prix 15.58 USD, capi 259688200, PER None, volume x1.68 la normale
-- Aterian Inc (NASDAQ:ATER, secteur Retail Trade) jour 19.51 %, mois 133.33 %, prix 1.47 USD, capi 384967156.6829269, PER None, volume x1.57 la normale
+- Aterian Inc (NASDAQ:ATER, secteur Retail Trade) jour 19.51 %, mois 133.33 %, prix 1.47 USD, capi 384967156.6829269, PER None, volume x1.58 la normale
 - Inovio Pharmaceuticals, Inc. (NASDAQ:INO, secteur Health Technology) jour -3.87 %, mois 104.59 %, prix 1.74 USD, capi 325913969.46961325, PER None, volume x0.99 la normale
 - Replimune Group, Inc. (NASDAQ:REPL, secteur Health Technology) jour 6.11 %, mois 86.58 %, prix 22.24 USD, capi 2108360969.21374, PER None, volume x1.16 la normale
 - Insmed Incorporated (NASDAQ:INSM, secteur Health Technology) jour 14.13 %, mois 80.78 %, prix 170.15 USD, capi 37327558839.31484, PER None, volume x19.44 la normale
@@ -294,7 +294,7 @@ POSITIONS ET INDICES :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -1.08 %, mois -13.11 %, prix 279.05 USD, capi 3396777368334.7896, PER 14.6, volume x0.91 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -0.88 %, mois -3.32 %, prix 48.34 USD, capi 1527609591443, PER 1.6, volume x0.4 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 0.14 %, mois -4.77 %, prix 317.1 USD, capi 842093819967.9348, PER 13.3, volume x1.05 la normale
-- Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour -11.01 %, mois -26.96 %, prix 629.79 USD, capi 712559040612.7507, PER 8.5, volume x1.09 la normale
+- Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour -11.01 %, mois -26.96 %, prix 629.79 USD, capi 712559040612.7507, PER 8.5, volume x1.1 la normale
 - SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour -9.9 %, mois -18.03 %, prix 111.98 USD, capi 566947904349.9755, PER 6.2, volume x0.97 la normale
 - Tencent Holdings Ltd Unsponsored ADR (OTC:TCEHY, secteur Technology Services) jour -1.38 %, mois -11.68 %, prix 43.63 USD, capi 395081463070.4831, PER 11.7, volume x1.02 la normale
 - Oracle Corporation Depositary Shs Repr 1/2,000th Int 6.50% Mand Con Pfd Shs Ser -D- (NYSE:ORCL/PD, secteur Technology Services) jour -2.53 %, mois -8.76 %, prix 36.26 USD, capi 343738318950, PER 5.7, volume x0.82 la normale
@@ -312,6 +312,18 @@ POSITIONS ET INDICES :
 - SPIE SA (EURONEXT:SPIE, secteur Commercial Services) jour -1.51 %, mois 8.79 %, prix 44.3 EUR, capi 7775044396, PER 25.0, volume x0.75 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Banques centrales et taux] Pouvoir d'achat : ces Etats européens à court de marges de manoeuvre pour venir à la rescousse des ménages - Les Echos
+- [Banques centrales et taux] Les cours de l’or reculent de 2 % sur fond de paris sur une Fed restrictive, l’inflation américaine au centre de l’attention - Zonebourse Suisse
+- [Banques centrales et taux] FOREX-Le dollar recule alors que l'élan du secteur de l'IA, porté par Nvidia, s'essouffle - Boursorama
+- [Banques centrales et taux] L’essor de l’intelligence artificielle plane sur la Fed de Warsh alors que les inquiétudes inflationnistes grandissent - Zonebourse Suisse
+- [Défense, énergie, matières premières] The Top 3 Stocks Driving Q4’s Massive Rotation - Morningstar
+- [Défense, énergie, matières premières] UK's FTSE 100 slips as miners, bank stocks weigh - Reuters
+- [Défense, énergie, matières premières] RTX (RTX) Stock Looks Fully Priced Despite Its 161% Five Year Run - Yahoo Finance
+- [Défense, énergie, matières premières] What Are Wall Street Analysts' Target Price for General Dynamics Stock? - Yahoo Finance
+- [Défense, énergie, matières premières] 3 British Dividend Stocks To Own In November 2026 - Yahoo Finance
+- [Défense, énergie, matières premières] Here's Why Lockheed Martin Stock Popped Higher (Hint: An Analyst Upgrade Helped) - The Motley Fool
+- [Crypto] Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion - The Motley Fool
+- [Crypto] Tom Lee Says Ethereum Is as Scarce as Bitcoin: Do the Supply Numbers Agree? - 24/7 Wall St.
 - [Anthropic] Why Anthropic Stock Fell Again - Yahoo Finance
 - [Marchés mondiaux] Stock Market Today, Nov. 24: Tech Sell-Off Drags Nasdaq as Dow Gains on Value Rotation - Yahoo Finance
 - [Intelligence artificielle] Why Asia’s AI rally faces a tougher road even after Jensen Huang’s comeback - South China Morning Post
@@ -450,15 +462,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] Anthropic's IPO Raised $81 Billion. Here’s Which Artificial Intelligence (AI) Stocks Will Benefit From Where the Money Goes. - The Motley Fool
 - [Anthropic (FR)] Wedbush voit une opportunité après la baisse d'Anthropic post-IPO - TradingView
 - [Bourse de Paris et Europe] Les Bourses européennes ouvrent en ordre dispersé - Bourse Direct
-- [Intelligence artificielle] Jensen Huang’s Nvidia return: Who are the big winners and losers? - Al Jazeera
-- [Défense, énergie, matières premières] Saab AB (publ) (SAAB-B.ST) stock price, news, quote and history - Yahoo Finance Australia
-- [Défense, énergie, matières premières] Global X Defense Tech ETF (SHLD) Stock Price, News, Quote & History - Yahoo! Finance Canada
-- [Marchés mondiaux] 4 Value Stocks to Buy Now as Nvidia Ignites a Major Wall Street Rally - Yahoo Finance UK
-- [Intelligence artificielle] Nvidia, Chip Stocks Fall As Data Center Spending Fears Return - Investor's Business Daily
-- [Introductions en bourse] Anthropic Breaks Below $83 IPO Price in Premarket Trading - Yahoo Finance
-- [Rachats et fusions] Your Customer Just Got Acquired. What Happens to Your Contract? - The National Law Review
-- [Pays émergents] 47 Best Hotel Stocks To Watch In India For November 2026 - Samco
-- [Défense, énergie, matières premières] Here's Why Lockheed Martin Stock Popped Higher (Hint: An Analyst Upgrade Helped) - Yahoo Finance
-- [Rachats et fusions] VIOT: Viomi to acquire Brondell in all-cash merger, names new CFO - Quantisnow
-- [Résultats d'entreprises] Dollar Tree Inc (DLTR) (Q3 2026) Earnings Call Highlights: Comps Beat Guidance as Traffic ... - Yahoo Finance
-- [Résultats d'entreprises] Dick’s Sporting Goods shares soar as strong profit beat prompts guidance upgrade - Investing.com Canada

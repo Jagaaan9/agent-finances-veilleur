@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-24T22:30:37.818556+00:00",
+ "mis_a_jour": "2026-11-24T22:40:35.608847+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -8,7 +8,7 @@
    "devise": "USD",
    "jour_pct": -6.54,
    "mois_pct": -26.54,
-   "volume": 311702050,
+   "volume": 311793707,
    "volume_relatif": null,
    "capitalisation": 1082754793722.7883,
    "per": null,
@@ -52,7 +52,7 @@
    "devise": "",
    "jour_pct": -1.48,
    "mois_pct": -8.34,
-   "volume": 8104732639,
+   "volume": 8122656303,
    "volume_relatif": 0.93,
    "capitalisation": null,
    "per": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09634,
+   "prix": 1.09651,
    "devise": "USD",
-   "jour_pct": -0.01,
-   "mois_pct": -2.29,
-   "volume": 291,
+   "jour_pct": 0.0,
+   "mois_pct": -2.28,
+   "volume": 511,
    "volume_relatif": 0.0,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54677.21,
+   "prix": 54717.54,
    "devise": "EUR",
-   "jour_pct": -2.59,
-   "mois_pct": -24.22,
-   "volume": 203.57265958,
+   "jour_pct": -2.52,
+   "mois_pct": -24.17,
+   "volume": 203.62504039,
    "volume_relatif": 0.82,
    "capitalisation": null,
    "per": null,
@@ -209,7 +209,7 @@
     "devise": "USD",
     "jour_pct": 90.8,
     "mois_pct": 16.15,
-    "volume": 35649719,
+    "volume": 35671379,
     "volume_relatif": 2.99,
     "capitalisation": 201325914,
     "per": null,
@@ -223,7 +223,7 @@
     "devise": "USD",
     "jour_pct": 40.64,
     "mois_pct": 19.35,
-    "volume": 6977194,
+    "volume": 6977995,
     "volume_relatif": 8.49,
     "capitalisation": 457809553.93559617,
     "per": 5.4,
@@ -237,7 +237,7 @@
     "devise": "USD",
     "jour_pct": 33.19,
     "mois_pct": -0.97,
-    "volume": 2417196,
+    "volume": 2418264,
     "volume_relatif": 5.71,
     "capitalisation": 201596055.77440345,
     "per": null,
@@ -279,8 +279,8 @@
     "devise": "USD",
     "jour_pct": 27.78,
     "mois_pct": 32.69,
-    "volume": 470167,
-    "volume_relatif": 3.66,
+    "volume": 471187,
+    "volume_relatif": 3.67,
     "capitalisation": 203871280.61111107,
     "per": 6.4,
     "bourse": "NASDAQ",
@@ -307,8 +307,8 @@
     "devise": "USD",
     "jour_pct": 22.81,
     "mois_pct": -20.98,
-    "volume": 10413002,
-    "volume_relatif": 0.58,
+    "volume": 11790513,
+    "volume_relatif": 0.66,
     "capitalisation": 326084290.09695,
     "per": null,
     "bourse": "NASDAQ",
@@ -365,8 +365,8 @@
     "devise": "USD",
     "jour_pct": -29.63,
     "mois_pct": -54.22,
-    "volume": 287728,
-    "volume_relatif": 1.01,
+    "volume": 290658,
+    "volume_relatif": 1.02,
     "capitalisation": 250592895.77777776,
     "per": null,
     "bourse": "NASDAQ",
@@ -393,7 +393,7 @@
     "devise": "USD",
     "jour_pct": -22.44,
     "mois_pct": -48.96,
-    "volume": 19124929,
+    "volume": 19125730,
     "volume_relatif": 2.42,
     "capitalisation": 736495308,
     "per": null,
@@ -407,8 +407,8 @@
     "devise": "USD",
     "jour_pct": -19.96,
     "mois_pct": -29.31,
-    "volume": 7568320,
-    "volume_relatif": 5.83,
+    "volume": 7739761,
+    "volume_relatif": 5.97,
     "capitalisation": 1962949079.8111947,
     "per": null,
     "bourse": "NASDAQ",
@@ -449,7 +449,7 @@
     "devise": "USD",
     "jour_pct": -18.39,
     "mois_pct": -17.58,
-    "volume": 4371923,
+    "volume": 4371924,
     "volume_relatif": 7.02,
     "capitalisation": 314788568.0295983,
     "per": 13.1,
@@ -463,7 +463,7 @@
     "devise": "USD",
     "jour_pct": -18.08,
     "mois_pct": -31.55,
-    "volume": 4006740,
+    "volume": 4006890,
     "volume_relatif": 2.82,
     "capitalisation": 480428056.00457656,
     "per": null,
@@ -477,7 +477,7 @@
     "devise": "USD",
     "jour_pct": -18.02,
     "mois_pct": -21.37,
-    "volume": 1715730,
+    "volume": 1715782,
     "volume_relatif": 3.23,
     "capitalisation": 5399112851.834317,
     "per": 16.3,
@@ -1921,20 +1921,6 @@
     "secteur": "Process Industries"
    },
    {
-    "symbole": "SZSE:300652",
-    "nom": "HangZhou Radical Energy Saving Technology Co., Ltd. Class A",
-    "prix": 29.06,
-    "devise": "CNY",
-    "jour_pct": 19.98,
-    "mois_pct": 18.85,
-    "volume": 6807373,
-    "volume_relatif": 1.38,
-    "capitalisation": 3230719737,
-    "per": 48.6,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SSE:688078",
     "nom": "Beijing Longruan Technologies Inc. Class A",
     "prix": 29.06,
@@ -1947,6 +1933,20 @@
     "per": null,
     "bourse": "SSE",
     "secteur": "Technology Services"
+   },
+   {
+    "symbole": "SZSE:300652",
+    "nom": "HangZhou Radical Energy Saving Technology Co., Ltd. Class A",
+    "prix": 29.06,
+    "devise": "CNY",
+    "jour_pct": 19.98,
+    "mois_pct": 18.85,
+    "volume": 6807373,
+    "volume_relatif": 1.38,
+    "capitalisation": 3230719737,
+    "per": 48.6,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:300539",
@@ -3149,8 +3149,8 @@
     "devise": "USD",
     "jour_pct": 19.51,
     "mois_pct": 133.33,
-    "volume": 327678,
-    "volume_relatif": 1.57,
+    "volume": 328415,
+    "volume_relatif": 1.58,
     "capitalisation": 384967156.6829269,
     "per": null,
     "bourse": "NASDAQ",
@@ -3163,7 +3163,7 @@
     "devise": "USD",
     "jour_pct": -3.87,
     "mois_pct": 104.59,
-    "volume": 9868940,
+    "volume": 9871081,
     "volume_relatif": 0.99,
     "capitalisation": 325913969.46961325,
     "per": null,
@@ -3191,7 +3191,7 @@
     "devise": "USD",
     "jour_pct": 14.13,
     "mois_pct": 80.78,
-    "volume": 78939205,
+    "volume": 78939256,
     "volume_relatif": 19.44,
     "capitalisation": 37327558839.31484,
     "per": null,
@@ -3405,7 +3405,7 @@
     "devise": "USD",
     "jour_pct": -0.34,
     "mois_pct": -10.74,
-    "volume": 601146,
+    "volume": 601158,
     "volume_relatif": 0.49,
     "capitalisation": 3433903944122,
     "per": 2.2,
@@ -3419,7 +3419,7 @@
     "devise": "USD",
     "jour_pct": -0.31,
     "mois_pct": -11.26,
-    "volume": 755953,
+    "volume": 755954,
     "volume_relatif": 0.55,
     "capitalisation": 3433903944122,
     "per": 2.2,
@@ -3433,7 +3433,7 @@
     "devise": "USD",
     "jour_pct": -1.06,
     "mois_pct": -12.96,
-    "volume": 23418098,
+    "volume": 23426452,
     "volume_relatif": 0.99,
     "capitalisation": 3397664482757.7104,
     "per": 14.4,
@@ -3447,7 +3447,7 @@
     "devise": "USD",
     "jour_pct": -1.08,
     "mois_pct": -13.11,
-    "volume": 33475591,
+    "volume": 33483552,
     "volume_relatif": 0.91,
     "capitalisation": 3396777368334.7896,
     "per": 14.6,
@@ -3461,7 +3461,7 @@
     "devise": "USD",
     "jour_pct": -0.88,
     "mois_pct": -3.32,
-    "volume": 1643545,
+    "volume": 1643548,
     "volume_relatif": 0.4,
     "capitalisation": 1527609591443,
     "per": 1.6,
@@ -3475,7 +3475,7 @@
     "devise": "USD",
     "jour_pct": 0.14,
     "mois_pct": -4.77,
-    "volume": 7143251,
+    "volume": 7143970,
     "volume_relatif": 1.05,
     "capitalisation": 842093819967.9348,
     "per": 13.3,
@@ -3489,8 +3489,8 @@
     "devise": "USD",
     "jour_pct": -11.01,
     "mois_pct": -26.96,
-    "volume": 38698376,
-    "volume_relatif": 1.09,
+    "volume": 38735302,
+    "volume_relatif": 1.1,
     "capitalisation": 712559040612.7507,
     "per": 8.5,
     "bourse": "NASDAQ",
@@ -3503,7 +3503,7 @@
     "devise": "USD",
     "jour_pct": -9.9,
     "mois_pct": -18.03,
-    "volume": 21321372,
+    "volume": 21331140,
     "volume_relatif": 0.97,
     "capitalisation": 566947904349.9755,
     "per": 6.2,
@@ -3683,6 +3683,90 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Pouvoir d'achat : ces Etats européens à court de marges de manoeuvre pour venir à la rescousse des ménages - Les Echos",
+   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPejRmaENyc2I2Nk5TaThmdFQ4VHdUeUkyb2VWU1R5YVV6N19od3VtNW1rSFhCN3Zwc1ZLcV9sbnlOazctRWNFSEd0cG5JcVMybEl0dVFIbmNjenNpYWZIdjBaaDBUcEdxSlYxQ3l3QXJjQUU4OEhyenhoaFFlR0pIdU44NVJqTnNJejN4V1dFTV9uY0VScVoxdHVvaUpuamtBLXI2RkJSNkhPdnlRMVZNczZsbHV2eE1QTW9zX2RROHdaSG9tR1RwNHdmZHlxMTAydE5jYl8zUm5QcDI3cVRNc0ZB?oc=5",
+   "date": "Tue, 24 Nov 2026 06:30:31 GMT",
+   "vu_le": "2026-11-24T22:40:35.608847+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les cours de l’or reculent de 2 % sur fond de paris sur une Fed restrictive, l’inflation américaine au centre de l’attention - Zonebourse Suisse",
+   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdHozbEw4S1ZuTUNNWi10bzlYV2h0VDFyV3ZfaVFVUTRVX1FDeEw3NXE3ZmlmcjllbkQyRFEtRTVOOFRaeVpDNlZ6Q0VkMzFiZ1p3UVdtamdPZW9fWkJCNmJUYXBMNFNUR1pEOVBNd0Mwc0ZGV050cUE0SXVZQmFjMlZnbEdPUVJTbWtZYVNjZ3htd2hmbVFXOHVTZUg2cGdGdXUwOGpydDRqMGNnX3p0cGszWHZtakZPaUFOenRZOE9nMy1vU3pPejFyMmJWOERBS0d0RTA3dHhGVUpNbG4tTWVSdlhOOUVIZXFROQ?oc=5",
+   "date": "Tue, 24 Nov 2026 15:04:34 GMT",
+   "vu_le": "2026-11-24T22:40:35.608847+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "FOREX-Le dollar recule alors que l'élan du secteur de l'IA, porté par Nvidia, s'essouffle - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxONTdJUE4yaEEwdzY3ZnFjOGg2bXEyY1hzWmo1d3MxM2hteDFvVmpyUjNFRkZVN2N0SzBJRGNmdFpXZ2x6RTJjYk5OUE9zNlE1T1prdGJxZVVZbHd2RE9GU3NDSWcxeUVUdG5CeTBNSXFua1dqX3ktOGlObGNQdl9wWTg4VXVSWG83Wm45b2FxTnR6eUZoRHVQVy1yYkQ4bHdKeHlPLU12R0JWRERYN0Z5d08xX2ZfbkdvNTROMGhERXo0RjRibXFJOGw2c3lwd1ppTENwaXQtVGRab1lYLWZxTURKblQzV1NFazkya0EzXzhiTGRSQ0JBTjJhNmFQZ9IB_gFBVV95cUxONTdJUE4yaEEwdzY3ZnFjOGg2bXEyY1hzWmo1d3MxM2hteDFvVmpyUjNFRkZVN2N0SzBJRGNmdFpXZ2x6RTJjYk5OUE9zNlE1T1prdGJxZVVZbHd2RE9GU3NDSWcxeUVUdG5CeTBNSXFua1dqX3ktOGlObGNQdl9wWTg4VXVSWG83Wm45b2FxTnR6eUZoRHVQVy1yYkQ4bHdKeHlPLU12R0JWRERYN0Z5d08xX2ZfbkdvNTROMGhERXo0RjRibXFJOGw2c3lwd1ppTENwaXQtVGRab1lYLWZxTURKblQzV1NFazkya0EzXzhiTGRSQ0JBTjJhNmFQZw?oc=5",
+   "date": "Tue, 24 Nov 2026 15:02:28 GMT",
+   "vu_le": "2026-11-24T22:40:35.608847+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "L’essor de l’intelligence artificielle plane sur la Fed de Warsh alors que les inquiétudes inflationnistes grandissent - Zonebourse Suisse",
+   "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOek4xaXJiMXN6d2N5MldXNmlObDQwRVBOMk5IRU5fX010MWg0MS1VdTBRUF9IbWxkUXNvOHBadW1PS1JNc010NjAwMXM2M1F1SjlkWTg3VWMzNy1vclVjUWxUQlZNbFhXLWtreHZfZTdKSDNEMEV0azRWM2lPenlROUdmbzhsX0d6STU2cVN1TkM3MVQtY19iczJNTFExcW1hWElFYkRFSVhxc3JIb2lTNWJwN2ZsZW5wTEV4YVdTVGhlLXBBTC1QcDQ0SW96bDhfbnh5anRMaUpvNHI1VUVxelNkQTlmV0pzS093?oc=5",
+   "date": "Tue, 24 Nov 2026 11:02:31 GMT",
+   "vu_le": "2026-11-24T22:40:35.608847+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "The Top 3 Stocks Driving Q4’s Massive Rotation - Morningstar",
+   "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONXpDUUV5OERydTRpVDZmSWp6X3k5MmdfcmZiMXZoZ3ZOQ1loYjFYbHR2WmJiMVhkVS15WkNxOURkd1V6dXdMeTJ1dC02cDlBR1N5Z0x6VzdIcW92T21vS256OVRObU5lbzEyaWsyRVR3b3VtX3FuMEFHVDQ4X2JkUm12aw?oc=5",
+   "date": "Tue, 24 Nov 2026 19:49:40 GMT",
+   "vu_le": "2026-11-24T22:40:35.608847+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "UK's FTSE 100 slips as miners, bank stocks weigh - Reuters",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSlVDUmRqS0pZQW9lX21HUU02M2tLUmFtSHBQeHp1RHBKc25VMTBWTHhadlNIZHgwOXYxcWhVNkJ3dlc1ZkItQ25Wa0tYR2VXWkF2Z3d2N3l6N2ZKcGdMYkNNUExDUG1oMVlDb0REa2xxRFdsX3hJS0JFdENpd1gxMS1RRHNqaGsxMVA2YTNmOFhJcnlR?oc=5",
+   "date": "Tue, 24 Nov 2026 17:21:28 GMT",
+   "vu_le": "2026-11-24T22:40:35.608847+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "RTX (RTX) Stock Looks Fully Priced Despite Its 161% Five Year Run - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUWtrSnBTeldOMGVxcjZtWVRpM1NtNkYtOGpHdVlxZlZYSFJORTBnS2FLeUs1OEZCNm1aZVdsbXplZDdqTXFPQkc3UFZaUndQYWltZkgwX1pMQTJ0dTBjSi1vOHBucmNfY2M2SmY5UVdBVHdEdVBORm9nVHN6c0dzNXpuUkx6M0dlRlJWVVJ3Y0NpSmxv?oc=5",
+   "date": "Tue, 24 Nov 2026 17:12:57 GMT",
+   "vu_le": "2026-11-24T22:40:35.608847+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "What Are Wall Street Analysts' Target Price for General Dynamics Stock? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPekFyWnFuTU81dFNCQlZSclI2WUM0QTR0RXozNFkwTUFpOUU0TkVIOXliTV9QQmdaSWwtOTBVakZzY0VWQ21UZTZDbnduMWxiOXljTGdpM3dkZjVURXpIaHpqbUpqLWlKX0Vza25uYnJnOGsybXAzWmNRSENEQl8wRlA1bjhGR0JGb2pUOUg4TkVSbXczYml5X0xMbHJSMm8?oc=5",
+   "date": "Tue, 24 Nov 2026 12:10:57 GMT",
+   "vu_le": "2026-11-24T22:40:35.608847+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "3 British Dividend Stocks To Own In November 2026 - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2tFdHVYem1qZWsyak03VkRVTFpYd3BsNHZRSjFBVWJ3SDd2Ymd2MlBqMVpTTFFoTmVadXM0bHhqVTZ3cl9zMXNqYTNub2MzcGFoQ2V6SUdFRFd4ZXdrZzcxNWo1aXNwaUZ4dFZ1akdHQVJGbG9DeTNZX1JjZE9LUktOcDBXb3J6c3NIaHR6ZlFNNThnWVJNejJ3?oc=5",
+   "date": "Tue, 24 Nov 2026 11:14:51 GMT",
+   "vu_le": "2026-11-24T22:40:35.608847+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Here's Why Lockheed Martin Stock Popped Higher (Hint: An Analyst Upgrade Helped) - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVnZnanpLS2sweDVSSVcxdEpFdXZpRUQ4YTVUWURvSWdZUUF6OEFRdFdfcVVQZG1xSmJvMThKR2JBX3RwR0tPVzgxUlF6dzFNLWhxcXlYV1ZXVE92VGVZZDBtdk9NVnU4V3dFaEoxcHV4b19ldUhnbXo3OUdqV2VHa0RSUTBfRUxyVHNFX2xuRlRaNGF2eDBYMzFnaDZkdUNNMjNRNmNfRFh0NE5kVW5sWEtyelR5NHVlUW1oMg?oc=5",
+   "date": "Tue, 24 Nov 2026 16:44:27 GMT",
+   "vu_le": "2026-11-24T22:40:35.608847+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLTNtZEtTS2JrekFZdEt1TTVjWEJIMG5zOUVRdUpVYTFfblo4MkhMNlRxbzRINzVXU3doTi0yNkM5amZKQnpva3VObXBNdFVsWGR0T3lYNy02ZjlVWk41VEE5Wnh0MU5qeHh5MzlZVFJUUWg4cmNXcHFZVXE5dGtoR0VHRTlGTGtKWFNVVFB4OFdNdlA0TTVhc2JGTTBma2RXR0JlMEhLOS1pcFlOQldpcmVlRkNWLXF2Rmx1UDA0LVdLY19pdjhSTHNrX0U1bHNLTjhwQ2FiU05KZ2tVVXRUUVJhY3lGazEyTU01bXNOclg4d2s?oc=5",
+   "date": "Tue, 24 Nov 2026 22:26:40 GMT",
+   "vu_le": "2026-11-24T22:40:35.608847+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Tom Lee Says Ethereum Is as Scarce as Bitcoin: Do the Supply Numbers Agree? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSEpESWN4SE44cmRfQ0YzbFJQdFhtYW5IdzlLc2xSbGpVTkN3MXVHRDlTYW9xNVl1WWZLc09BNkdwUGZxT3FicW9Yb0p4RmZZbnVNTE5ObGx3OGFJMW41M3h4emJ4SnFrS0hyN0x5N3FsdnVCWmozMmo5bmNUekhoNjhQNEZnUzRhaXpURkFrYlNBZ1Y5aDlKaTg2eGxsTlFVOUZhcmpDR0ljNkRQV1NqYVI5YjR5enFQc1NqbEs2MWJIU2o4WUtqTXE4Vi0?oc=5",
+   "date": "Tue, 24 Nov 2026 22:13:00 GMT",
+   "vu_le": "2026-11-24T22:40:35.608847+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Why Anthropic Stock Fell Again - Yahoo Finance",
@@ -6398,90 +6482,6 @@
    "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41a3lhV0JJV3FvNjV3ZFpPU0VzSEJlSzdFVzdXbkFWZHdEQ094TjJUd0czZjIwSG8yS3JuNW1aalB4Z3hEeDV6a2VBQTQ4aldYNmhNZHNSdFluRDlFSzBqT25OREx2dGVWZmw5V2dXY1pzVGhWb0NsM2Q4d2ZyNnM?oc=5",
    "date": "Tue, 24 Nov 2026 12:13:31 GMT",
    "vu_le": "2026-11-24T12:30:37.350851+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock futures muted after Nvidia-led Wall Street rally - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMk5Vc1J6bG5mN1RrWDNONWEwZjNlYk1VLWxSLW9seUVZNVBrVXJrTGVOVEdKYXN6QVF3Wkd2WU9TVk5MMXRWbnRaeUNoTHhLYnVFRExsM3lTNmM2Tk5BUE14aEdEWWpTZXY1YjFGWXFjbVR1UGhDQS1jOGhiZlNyT0JLZFlnRDZNX0ZPSy1PYjZRZFdVVzhhVWV2ZFF3V0NnOFItRy1UaldPTUpPMThSeHhNdE5tcU15?oc=5",
-   "date": "Tue, 24 Nov 2026 09:11:15 GMT",
-   "vu_le": "2026-11-24T12:30:37.350851+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "PRÉCIEUX-L'or recule alors que tous les regards sont tournés vers les chiffres de l'inflation aux États-Unis - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQZkk2Q0N0Ni12bjF3M25QVUNUdE1MWjk1QTduWFFGWm5FZTRHVVBpMXl6eXVKMmFVdV9uV3N2M2tKZ0lLSWZ5N21pTVdRdWNaMWhfRXQ3WmtWWU40UlNYR2daTTBzTEZ0cldnZ1FOLUt0R0p2VTczUTc0ODdiR1hlekZaeHNEWEY1QW1DN3BHQVNzeFY4Qms2Q2c2UjlhajdzdWxWU3RneUZQbXZyeUhiTEgzcFc5QTE0ZjVzLXp3R0Y2R2I5OWUyRTVDd3FhZ2xPVTdodGVYX3JDQXdoS1BNajFYSHhTbjJCSldQalp6RGtnQnVxSW1SazlJMVBoS1BIOW9KWFgtR2t5X0RkN281SXZZaUF2aWxQVVHSAZoCQVVfeXFMUGZJNkNDdDYtdm4xdzNuUFVDVHRNTFo5NUE3blhRRlpuRWU0R1VQaTF5enl1SjJhVXVfbldzdjNrSmdJS0lmeTdtaU1XUXVjWjFoX0V0N1prVllONFJTWEdnWk0wc0xGdHJXZ2dRTi1LdEdKdlU3M1E3NDg3YkdYZXpGWnhzRFhGNUFtQzdwR0FTc3hWOEJrNkNnNlI5YWo3c3VsVlN0Z3lGUG12cnlIYkxIM3BXOUExNGY1cy16d0dGNkdiOTllMkU1Q3dxYWdsT1U3aHRlWF9yQ0F3aEtQTWoxWEh4U24yQkpXUGpaekRrZ0J1cUltUms5STFQaEtQSDlvSlhYLUdreV9EZDdvNUl2WWlBdmlsUFVR?oc=5",
-   "date": "Tue, 24 Nov 2026 11:14:39 GMT",
-   "vu_le": "2026-11-24T12:30:37.350851+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "L'inflation européenne dépasse 4 %, la BCE prépare une nouvelle hausse des taux - IDNFinancials",
-   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONWpENTBUSWRFLWtId0xoaFpBeGZ6MGdKbTJXN01pbHlydkhNbjVkZDRub29XbWNjVV8wZUU3MEJ3QzFCS1huS250NjM3c3Q2dFRSbkNSak80OHM3VGVtSVo0TlVaV2w4SEJ3akFFTGoxdjA3ZHU3M1hQamFUbkFmZ3NtcXJ5Smozd2FtZXNpblVnSHA0TF9kMVFyU0labHZQaWkySE9mbDJFSEpGTTJBdDBEeVd3bHdZZVBVMVJsUDNweDFjcUJ4REVVZkNMUmM?oc=5",
-   "date": "Tue, 24 Nov 2026 10:40:00 GMT",
-   "vu_le": "2026-11-24T12:30:37.350851+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Dick’s Sporting Goods shares soar as strong profit beat prompts guidance upgrade By Investing.com - Investing.com India",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVTdiMWdzSkRZbC0tZEtjc3doNzQ4OXlNNHZ3NmdxVXpTTlVHeWhMRXVVS01OZkhMbzlHSUllMG5MMjcxU3VQRzRGTmdQallaX1lHd1JUWDljS2ZGRGxZTzR6cHY1d2JtT0E2RjQxWjU1cWNXdjBoTGhTQWVHSTZWNDVscTN2SGwzTVhTbE1sVXoxR2JXY3pFbjlPcUtIcGZELWFLS3lBWEpqcVd0M2k0bktUX3Y4RmhJYnpZRFI5ZERwNkhy?oc=5",
-   "date": "Tue, 24 Nov 2026 12:21:37 GMT",
-   "vu_le": "2026-11-24T12:30:37.350851+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Can Nationwide Crypto Lending Fuel Coinbase's Next Growth Phase? - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelR5MEpMS240SHlVOG5JbzhBV0hMa3B5MzVkOGh1QTdzblFmVEtCY0lUSDJwX0lENUtId0Z5QlJmcTFvRUtOYzU3STFfT2F1dUJOWm04UmFwckhLWjZBMTV1bEtaMk4yQzg5WDc3bUJRc240eURnNXhqLVk2dXgwQlN3UUZEUHc1YmNaNE9Qd3FkNHg2VEdJZVFiS2UxVVlVcG5ESklvTzlNYVlmOUsxNVVIRTlRN3ZCcTRV?oc=5",
-   "date": "Mon, 23 Nov 2026 16:28:00 GMT",
-   "vu_le": "2026-11-24T12:30:37.350851+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Toobit Spotlights AI Tools for Crypto Traders - markets.businessinsider.com",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dTWlRnSjBCRDRXU0M0Qkhzb1RNb251UXV2N1lkczdZNHNjdHdwNjBWN09NVTJubWI5ZHFqVjlBZW5NVWZsQW5lNDEzRE1LZUp0UTlIWkNRdTJWVGhnRzdidXZybW04Zk4ybEhoZGpQVDVyZHlnalAzaGxTQXcydUtSVjZCT1VONTlTeHl5emRkRXlIQ3d5TERiNHZzMmNsT1hrbnRxNA?oc=5",
-   "date": "Tue, 24 Nov 2026 11:52:55 GMT",
-   "vu_le": "2026-11-24T12:30:37.350851+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Trezor Wallet Loss: $600K Claim Under Investigation - Bitcoin Foundation",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTG9OdWwzNElZSUUzWjhmT3A4WWdmYURHN3VwNlMzaXI5ZFVYYm9ZQ1ZmLUtHUUtnb1lETmU5LU9vRWkwbnhOXzRMaFZPRmh3ZVhmaHdNTVN1ZnFEd1pkQW1NT0FyMlNHSjY5NFl0bWE0VURsd2NOT0JvSUdVV2pDNGo3bm5JeU45WXQ4aFdabWRfY1JOT3NhQldyZkg5eUFGenRFcmx3WGlFT2xoR3dwSk1ZVQ?oc=5",
-   "date": "Tue, 24 Nov 2026 11:57:48 GMT",
-   "vu_le": "2026-11-24T12:30:37.350851+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin (BTC) price falls below $60,000 as it hands back Monday's NVDA-driven rally - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDZKMnRyenBWTmFWME9TeEpoY1F0eVUyN09xYURKei1zNkpMWUNDWHBLSFdCLWd6RVlGXzQwUUZ6anAyM1d3aFhYUVFMTlBIZ3JrRVgyaHZBeFFTd2RDMlpOOWdVbkMxcllRSk54cXo3YnhwTjFKV2VfR0RzMDJSRUdPaWFINW5jdmlEYTJuWmZra0lSV3J3Vjl2dWVLaHFIektmYUpBa3k0akVIZ2tKcA?oc=5",
-   "date": "Tue, 24 Nov 2026 11:31:56 GMT",
-   "vu_le": "2026-11-24T12:30:37.350851+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Which \"Magnificent Seven\" Stocks Win From Anthropic’s IPO? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSlowNS1hMkdua0JPcnFHWmJlWGZTbWVvUHY4SDB1aTFkRmxmdFdUaVVjcFJXb3duamhONzRoMDhsbkgxNGFSX1JfQUNCbkRjdk5HeVBHcXZ3cTJDbl9aNUVGWjRyRGtqX2oyRlIxTzlDRWV6RGtEUlhnbmhKWjNSQlZEWHNoS3I2ak1fY2VTOWNGZ1ZRREE2UGNkcnljbmdhaDZFLThB?oc=5",
-   "date": "Tue, 24 Nov 2026 11:50:02 GMT",
-   "vu_le": "2026-11-24T12:20:36.079211+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic passe sous la barre des 83 dollars, son prix d'introduction en bourse, alors que l'élan haussier de - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPdVVvMXZGWDJSVHM2ZXpNNzZJQUFoaWhCcFpyTlk1V3hBZHhYM1BSbGhFcFFFSXNQZ2JiYXBNZjJqa1NlVXJ0YlZXakQyRWdoMkpCRFJfbi16elBFQ2IxczRScnc1WkpmR3pNTE91WC1iRnFPVlItVFdtcVc4SzVKeTZkWjY0M0F6bmVYclJUSEx1VVJra2J5UFk0VGhaZUQ5eHZMODJ4Y0x3c29VMnQyb1FURUc5b1Vkdk82VjJwRHZGZFBNcnh3WGY2elBPb1k4aXJRMGgyNk5GZWhTeHZMQ0hNVnZVUjM4Wlo5OWRwc2g0YVZZSVVOWnlIWWY2ejRQcXdQeTA3LVU5cVJKV1RfMWtIYzZ6OVlGNWZBQWYxYnJLT0JJY05qSjR6cDYxX0RvRTNUWm0xaENiX0VZYlVqRk52WFHSAcQCQVVfeXFMT3VVbzF2RlgyUlRzNmV6TTc2SUFBaGloQnBack5ZNVd4QWR4WDNQUmxoRXBRRUlzUGdiYmFwTWYyamtTZVVydGJWV2pEMkVnaDJKQkRSX24tenpQRUNiMXM0UnJ3NVpKZkd6TUxPdVgtYkZxT1ZSLVRXbXFXOEs1Snk2ZFo2NDNBem5lWHJSVEhMdVVSa2tieVBZNFRoWmVEOXh2TDgyeGNMd3NvVTJ0Mm9RVEVHOW9VZHZPNlYycER2RmRQTXJ4d1hmNnpQT29ZOGlyUTBoMjZORmVoU3h2TENITVZ2VVIzOFpaOTlkcHNoNGFWWUlVTlp5SFlmNno0UHF3UHkwNy1VOXFSSldUXzFrSGM2ejlZRjVmQUFmMWJyS09CSWNOako0enA2MV9Eb0UzVFptMWhDYl9FWWJVakZOdlhR?oc=5",
-   "date": "Tue, 24 Nov 2026 11:13:40 GMT",
-   "vu_le": "2026-11-24T12:20:36.079211+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "The Morning Risk Report: China’s AI Firms Are Hooked on Nvidia Chips. Now Comes the Withdrawal. - WSJ",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMHEyLWU1cHVQOEsyMWdfSkhfaV90MldNcl9JVjdtTmdRVXp2dU1xeUN3MF8yeVlnV21Ga01fbGJDWEVTNjR3YUdQcXpoWlBCOThDNjRGNktGaFB4S3BvRXZjcjl1Qkl2OEl4NDlYWWdTSUN3Vm1wOEJPU0dWSlRDN0JWME1vWXE0UXpZUHphcEYzYUNzS2FkY2l3aTNZVEFoLWxIcndrNERMTGN5ckU3NXkzMVRMOEEwMTlaNW90Uk5EZTViWDg4MERnR01zcTNKVk8tSmlBcmpKdlFo?oc=5",
-   "date": "Tue, 24 Nov 2026 10:41:21 GMT",
-   "vu_le": "2026-11-24T12:20:36.079211+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing - The New York Times",
-   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdzdWMk9TWnMyWklvX2M4R1N2cGFPREFaOExDMmhRUFRYSTVodmhkVm5YS0xaTk1iemlRV0ZNSXllMVYwMWY2akVaNUdPal9FTXIwM1R0ZEF3bTVHMVJ4SFhMMlIzRGtQRmJQNEdyMnltN0JCT191R3BkalBFSTdsckN3?oc=5",
-   "date": "Tue, 24 Nov 2026 11:55:30 GMT",
-   "vu_le": "2026-11-24T12:20:36.079211+00:00"
   }
  ],
  "erreurs": []
