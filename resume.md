@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22219.66 HKD, jour -0.73 %, mois -3.51 %
 - SSE Composite Index (SSE:000001) : 3548.3694 , jour 0.27 %, mois -2.08 %
 - VOLATILITY S&P 500 (TVC:VIX) : 26.37 USD, jour -0.9 %, mois 37.49 %
-- Gold (TVC:GOLD) : 3558.864 USD, jour 0.07 %, mois -10.86 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09653 USD, jour 0.0 %, mois -2.27 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54621.59 EUR, jour -2.69 %, mois -24.3 %
+- Gold (TVC:GOLD) : 3557.692 USD, jour 0.04 %, mois -10.89 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09606 USD, jour -0.04 %, mois -2.32 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54721.43 EUR, jour -2.51 %, mois -24.16 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.928 , jour -0.28 %, mois -0.42 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -24,7 +24,7 @@ POSITIONS ET INDICES :
 - Prelude Therapeutics, Inc. (NASDAQ:PRLD, secteur Health Technology) jour 28.57 %, mois 25.35 %, prix 4.5 USD, capi 426594593.5714286, PER None, volume x5.49 la normale
 - Veraxa Biotech AG (NASDAQ:VRXA, secteur Health Technology) jour 27.78 %, mois 32.69 %, prix 1.38 USD, capi 203871280.61111107, PER 6.4, volume x3.72 la normale
 - Enigmatig Limited Class A (AMEX:EGG, secteur Commercial Services) jour 26.52 %, mois 71.84 %, prix 8.97 USD, capi 251206652.85613543, PER None, volume x1.67 la normale
-- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 22.81 %, mois -20.98 %, prix 1.13 USD, capi 326084290.09695, PER None, volume x0.72 la normale
+- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 22.81 %, mois -20.98 %, prix 1.13 USD, capi 326084290.09695, PER None, volume x0.74 la normale
 - Phathom Pharmaceuticals, Inc. (NASDAQ:PHAT, secteur Health Technology) jour 22.36 %, mois -13.69 %, prix 5.8 USD, capi 471490832.15189874, PER None, volume x2.08 la normale
 - Yarrow Bioscience, Inc. (NASDAQ:YARW, secteur Health Technology) jour 22.26 %, mois -20.74 %, prix 15.82 USD, capi 241016811.19474497, PER None, volume x1.16 la normale
 
@@ -33,7 +33,7 @@ POSITIONS ET INDICES :
 - Stewards, Inc. (NASDAQ:SWRD, secteur Non-Energy Minerals) jour -29.63 %, mois -54.22 %, prix 1.14 USD, capi 250592895.77777776, PER None, volume x1.02 la normale
 - Kraken Robotics Inc (OTC:KRKNF, secteur Electronic Technology) jour -23.39 %, mois -43.2 %, prix 1.67 USD, capi 620258252.6430868, PER None, volume x4.82 la normale
 - VNET Group, Inc. Sponsored ADR (NASDAQ:VNET, secteur Technology Services) jour -22.44 %, mois -48.96 %, prix 1.97 USD, capi 736495308, PER None, volume x2.42 la normale
-- Ambarella, Inc. (NASDAQ:AMBA, secteur Electronic Technology) jour -19.96 %, mois -29.31 %, prix 44.47 USD, capi 1962949079.8111947, PER None, volume x6.22 la normale
+- Ambarella, Inc. (NASDAQ:AMBA, secteur Electronic Technology) jour -19.96 %, mois -29.31 %, prix 44.47 USD, capi 1962949079.8111947, PER None, volume x6.3 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109518.457516, PER 5.1, volume x99.36 la normale
 - EverCommerce, Inc. (NASDAQ:EVCM, secteur Technology Services) jour -18.81 %, mois -42.03 %, prix 5.31 USD, capi 932617440.4266055, PER 31.7, volume x3.64 la normale
 - Shoe Station Group, Inc. (NASDAQ:SHOE, secteur Retail Trade) jour -18.39 %, mois -17.58 %, prix 11.58 USD, capi 314788568.0295983, PER 13.1, volume x7.02 la normale
@@ -312,6 +312,13 @@ POSITIONS ET INDICES :
 - SPIE SA (EURONEXT:SPIE, secteur Commercial Services) jour -1.51 %, mois 8.79 %, prix 44.3 EUR, capi 7775044396, PER 25.0, volume x0.75 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] L’action Anthropic passe sous son prix d’introduction en Bourse - The Media Leader
+- [Rachats et fusions] Intermex sues Western Union to enforce $16-per-share merger deal - StreetInsider
+- [Rachats et fusions] OpenTable Announces Proposed Acquisition of Australian Restaurant Technology Company me&u - Quantisnow
+- [Rachats et fusions] PAG: Penske Automotive proposes take-private merger with PC and Mitsui - Quantisnow
+- [Rachats et fusions] Pursuit Signs Agreement to Acquire Sky Adventures, Advancing Growth Plans in Costa Rica - Quantisnow
+- [Rachats et fusions] Moderna Jumps as Sanofi's $41 Billion Insmed Deal Sparks Biotech Rotation - BigGo Finance
+- [Résultats d'entreprises] Dell Technologies (NYSE:DELL) Issues FY 2027 Earnings Guidance - MarketBeat
 - [Marchés mondiaux] U.S. Stocks Mixed as Huang Relief Rally Fades - WSJ
 - [Intelligence artificielle] Micron vs. Sandisk: Which AI Memory Stock Is the Better Buy? - Yahoo Finance
 - [Crypto] $9M Crypto Coin Scheme Among Chicago Cases Highlighted by Feds in DOJ Fraud Crackdown - WTTW News
@@ -455,10 +462,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] Why Does Anthropic Stock Keep Dropping? - The Motley Fool
 - [Banques centrales et taux] Thermostat de la BCE et baromètre de l’OAT : les 2 cadrans de la maison euro… - Pierrepapier.fr
 - [Marchés mondiaux] Stock Market Midday, Nov. 24: Nvidia Drops 9% as Wall Street's Historic AI Rally Loses Momentum - Yahoo Finance
-- [Intelligence artificielle] Salesforce Shares Rebound as Investors Rotate Out of AI Chip Names - BigGo Finance
-- [Pays émergents] Emerging-market capital flows set to stay weak in 2027 says Fitch - Property Wheel
-- [Défense, énergie, matières premières] Lockheed Martin stock rises on strong defense o... - Pluang
-- [Crypto] XRP price at Nov 24, 2026 at 12pm EST Crypto Prediction Market - Robinhood
-- [Anthropic (FR)] Anthropic passe sous le prix de son IPO lors de sa quatrième séance sur le Nasdaq - Boursorama
-- [Bourse de Paris et Europe] L'Europe finit dans le rouge, le rebond lié à Nvidia décline - Zonebourse
-- [Intelligence artificielle] How a video game chip company became a big chunk of the economy - Penn Today
