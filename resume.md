@@ -1,4 +1,4 @@
-PASSAGE. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
+PASSAGE DU SOIR (après la clôture américaine) avec bilan du jour. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
 
 POSITIONS ET INDICES :
 - Anthropic, PBC Class A (NASDAQ:ANT) : 81.905 USD, jour -6.54 %, mois -26.54 %
@@ -11,10 +11,10 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22219.66 HKD, jour -0.73 %, mois -3.51 %
 - SSE Composite Index (SSE:000001) : 3548.3694 , jour 0.27 %, mois -2.08 %
 - VOLATILITY S&P 500 (TVC:VIX) : 26.37 USD, jour -0.9 %, mois 37.49 %
-- Gold (TVC:GOLD) : 3553.92 USD, jour -2.21 %, mois -11.72 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09656 USD, jour 0.58 %, mois -2.27 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54591.89 EUR, jour -2.74 %, mois -24.34 %
-- United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.928 , jour -0.28 %, mois -0.42 %
+- Gold (TVC:GOLD) : 3556.23 USD, jour -2.15 %, mois -10.93 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.0964099999999999 USD, jour -0.01 %, mois -2.29 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54570.81 EUR, jour -2.78 %, mois -24.37 %
+- United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.932 , jour -0.2 %, mois -0.34 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - LiveWire Group, Inc. (NYSE:LVWR, secteur Consumer Durables) jour 90.8 %, mois 16.15 %, prix 1.87 USD, capi 201325914, PER None, volume x2.98 la normale
@@ -24,7 +24,7 @@ POSITIONS ET INDICES :
 - Prelude Therapeutics, Inc. (NASDAQ:PRLD, secteur Health Technology) jour 28.57 %, mois 25.35 %, prix 4.5 USD, capi 426594593.5714286, PER None, volume x5.49 la normale
 - Veraxa Biotech AG (NASDAQ:VRXA, secteur Health Technology) jour 27.78 %, mois 32.69 %, prix 1.38 USD, capi 203871280.61111107, PER 6.4, volume x3.66 la normale
 - Enigmatig Limited Class A (AMEX:EGG, secteur Commercial Services) jour 26.52 %, mois 71.84 %, prix 8.97 USD, capi 251206652.85613543, PER None, volume x1.67 la normale
-- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 22.81 %, mois -20.98 %, prix 1.13 USD, capi 326084290.09695, PER None, volume x0.23 la normale
+- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 22.81 %, mois -20.98 %, prix 1.13 USD, capi 326084290.09695, PER None, volume x0.41 la normale
 - Phathom Pharmaceuticals, Inc. (NASDAQ:PHAT, secteur Health Technology) jour 22.36 %, mois -13.69 %, prix 5.8 USD, capi 471490832.15189874, PER None, volume x2.08 la normale
 - Yarrow Bioscience, Inc. (NASDAQ:YARW, secteur Health Technology) jour 22.26 %, mois -20.74 %, prix 15.82 USD, capi 241016811.19474497, PER None, volume x1.16 la normale
 
@@ -33,7 +33,7 @@ POSITIONS ET INDICES :
 - Stewards, Inc. (NASDAQ:SWRD, secteur Non-Energy Minerals) jour -29.63 %, mois -54.22 %, prix 1.14 USD, capi 250592895.77777776, PER None, volume x1.01 la normale
 - Kraken Robotics Inc (OTC:KRKNF, secteur Electronic Technology) jour -23.39 %, mois -43.2 %, prix 1.67 USD, capi 620258252.6430868, PER None, volume x4.23 la normale
 - VNET Group, Inc. Sponsored ADR (NASDAQ:VNET, secteur Technology Services) jour -22.44 %, mois -48.96 %, prix 1.97 USD, capi 736495308, PER None, volume x2.42 la normale
-- Ambarella, Inc. (NASDAQ:AMBA, secteur Electronic Technology) jour -19.96 %, mois -29.31 %, prix 44.47 USD, capi 1962949079.8111947, PER None, volume x3.57 la normale
+- Ambarella, Inc. (NASDAQ:AMBA, secteur Electronic Technology) jour -19.96 %, mois -29.31 %, prix 44.47 USD, capi 1962949079.8111947, PER None, volume x4.43 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109518.457516, PER 5.1, volume x99.36 la normale
 - EverCommerce, Inc. (NASDAQ:EVCM, secteur Technology Services) jour -18.81 %, mois -42.03 %, prix 5.31 USD, capi 932617440.4266055, PER 31.7, volume x3.64 la normale
 - Shoe Station Group, Inc. (NASDAQ:SHOE, secteur Retail Trade) jour -18.39 %, mois -17.58 %, prix 11.58 USD, capi 314788568.0295983, PER 13.1, volume x7.02 la normale
@@ -45,12 +45,12 @@ POSITIONS ET INDICES :
 - OSL Group Limited (OTC:BCTCF, secteur Finance) jour 4.96 %, mois -0.08 %, prix 1.249 USD, capi 1126995976.5892053, PER None, volume x386.57 la normale
 - GlobalData Plc (OTC:GLDAF, secteur Commercial Services) jour -6.39 %, mois -6.39 %, prix 0.7535 USD, capi 493353831.3282051, PER 12.0, volume x317.65 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109518.457516, PER 5.1, volume x99.36 la normale
-- Puig Brands, S.A. Unsponsored ADR Class B (OTC:PUGBY, secteur Consumer Non-Durables) jour 0.49 %, mois 1.76 %, prix 10.9185 USD, capi 12340940561.32872, PER 18.1, volume x57.77 la normale
 - Sitios Latinoamerica SAB de CV (OTC:SLCVF, secteur Industrial Services) jour 1.6 %, mois -15.44 %, prix 0.3298 USD, capi 1569199654.2495744, PER 35.8, volume x37.18 la normale
 - Nordea Bank Abp (OTC:NBNKF, secteur Finance) jour -0.84 %, mois 5.82 %, prix 17.81 USD, capi 60420424442.05744, PER 11.5, volume x33.6 la normale
 - Wynn Macau Ltd. Unsponsored ADR (OTC:WYNMY, secteur Consumer Services) jour -2.17 %, mois -20.1 %, prix 4.97 USD, capi 2723252681.11197, PER 7.4, volume x28.03 la normale
 - Dream Industrial Real Estate Investment Trust (OTC:DREUF, secteur Finance) jour 0.74 %, mois -4.31 %, prix 8.88 USD, capi 2488641891.762871, PER 19.6, volume x25.33 la normale
 - Intesa Sanpaolo S.p.A. (OTC:IITSF, secteur Finance) jour -2.56 %, mois -6.28 %, prix 6.2115 USD, capi 107498629934.46146, PER 9.7, volume x23.71 la normale
+- Egetis Therapeutics AB (OTC:PDPHF, secteur Health Technology) jour -0.26 %, mois 13.99 %, prix 1.12 USD, capi 520761461.3429084, PER None, volume x22.53 la normale
 
 ÉCRAN France : plus fortes hausses :
 - Clariane SE (EURONEXT:CLARI, secteur Health Services) jour 35.3 %, mois 41.42 %, prix 4.5 EUR, capi 1188252569, PER 127.1, volume x84.64 la normale
@@ -288,8 +288,8 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -1.6 %, mois 24.2 %, prix 8.781 EUR, capi 8960878758.48864, PER 11.0, volume x0.51 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -0.34 %, mois -10.74 %, prix 41.24 USD, capi 3433903944122, PER 2.2, volume x0.49 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -0.31 %, mois -11.26 %, prix 41.38 USD, capi 3433903944122, PER 2.2, volume x0.55 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -0.34 %, mois -10.74 %, prix 41.24 USD, capi 3433903944122, PER 2.2, volume x0.49 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -1.06 %, mois -12.96 %, prix 276.58 USD, capi 3397664482757.7104, PER 14.4, volume x0.99 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -1.08 %, mois -13.11 %, prix 279.05 USD, capi 3396777368334.7896, PER 14.6, volume x0.91 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -0.88 %, mois -3.32 %, prix 48.34 USD, capi 1527609591443, PER 1.6, volume x0.4 la normale
@@ -312,6 +312,7 @@ POSITIONS ET INDICES :
 - SPIE SA (EURONEXT:SPIE, secteur Commercial Services) jour -1.51 %, mois 8.79 %, prix 44.3 EUR, capi 7775044396, PER 25.0, volume x0.75 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Rachats et fusions] Luxembourg - Mergers & Acquisitions Laws and Regulations 2026 - ICLG
 - [Anthropic] Anthropic IPO: Here's What a $5,000 Investment Could Look Like in 5 Years - The Motley Fool
 - [Anthropic] Anthropic Stock Slips Below $83 IPO Price — Analysts See 50%+ Upside - Yahoo Finance
 - [Crypto] Bitcoin Analysis: BTC Slips Below 60k as Demand Continues to Fade - FOREX.com
@@ -461,4 +462,5 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] Anthropic plonge sous son prix d'introduction ! - Boursier.com
 - [Bourse de Paris et Europe] CAC 40 : Retour au calme pour la Bourse de Paris, l'effet Nvidia s'est dissipé - Zonebourse Suisse
 - [Bourse de Paris et Europe] Echanges notables du jour: Clariane -Cac 40 - ABC Bourse
-- [Crypto] Bitcoin, ethereum gain ground under new CFTC rules - Yahoo Finance
+
+Sources indisponibles ce passage : 1 (exemple : actu Introductions en bourse: HTTP Error 429: Too Many Requests)
