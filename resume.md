@@ -11,15 +11,15 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 21966.02 HKD, jour -1.14 %, mois -5.14 %
 - SSE Composite Index (SSE:000001) : 3476.4697 , jour -2.03 %, mois -5.3 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3572.75 USD, jour -0.47 %, mois -11.08 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09758 USD, jour 0.01 %, mois -1.77 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54696.64 EUR, jour 0.28 %, mois -23.37 %
+- Gold (TVC:GOLD) : 3576.88 USD, jour -0.35 %, mois -10.97 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09762 USD, jour 0.01 %, mois -1.77 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54859.23 EUR, jour 0.58 %, mois -23.14 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - Currenc Group Inc. (NASDAQ:CURR, secteur Finance) jour 30.85 %, mois 10.31 %, prix 2.46 USD, capi 276213432.1276596, PER None, volume x1.57 la normale
-- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 30.09 %, mois 20.49 %, prix 1.47 USD, capi 322012961.15617996, PER None, volume x0.93 la normale
-- Oatly Group AB Sponsored ADR (NASDAQ:OTLY, secteur Consumer Non-Durables) jour 26.12 %, mois 33.44 %, prix 16.08 USD, capi 406885345, PER None, volume x0.75 la normale
+- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 30.09 %, mois 20.49 %, prix 1.47 USD, capi 322012961.15617996, PER None, volume x0.94 la normale
+- Oatly Group AB Sponsored ADR (NASDAQ:OTLY, secteur Consumer Non-Durables) jour 26.12 %, mois 33.44 %, prix 16.08 USD, capi 406885345, PER None, volume x0.76 la normale
 - Agility Robotics, Inc. (NASDAQ:AGLT, secteur Producer Manufacturing) jour 20.41 %, mois -36.68 %, prix 6.49 USD, capi 1571163245.102041, PER None, volume x1.26 la normale
 - Founders Metals, Inc. (OTC:FDMIF, secteur Non-Energy Minerals) jour 20.01 %, mois -7.68 %, prix 4.75 USD, capi 683658749.425795, PER None, volume x2.08 la normale
 - ASP Isotopes, Inc. (NASDAQ:ASPI, secteur Industrial Services) jour 19.27 %, mois -37.8 %, prix 1.3 USD, capi 202584780.8256881, PER None, volume x1.16 la normale
@@ -295,7 +295,7 @@ POSITIONS ET INDICES :
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3397176304047, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3397176304047, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3328392634574.648, PER 14.1, volume x1.13 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3324740543398.086, PER 14.3, volume x1.1 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3324740543398.086, PER 14.3, volume x1.11 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1507722117174, PER 1.7, volume x0.54 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -0.11 %, mois -5.17 %, prix 316.74 USD, capi 841137806956.708, PER 13.3, volume x1.08 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour -4.53 %, mois -32.43 %, prix 601.25 USD, capi 680268185952.3433, PER 8.1, volume x1.44 la normale
@@ -316,6 +316,10 @@ POSITIONS ET INDICES :
 - Bureau Veritas SA (EURONEXT:BVI, secteur Commercial Services) jour 6.6 %, mois 9.28 %, prix 31.8 EUR, capi 13230797511, PER 28.2, volume x3.4 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Stocks mixed as Wall Street erases sharp decline: Nvidia down 6% - 95.5 WSB
+- [Rachats et fusions] How Is British American Tobacco (LSE:BATS) Backing Organigram's Bid For Aurora Cannabis? - Kalkine Media
+- [Résultats d'entreprises] Nutanix stock drops 9% on weak FY guidance and CEO exit - Investing.com
+- [Crypto] HYPE price on Nov 25, 2026 at 7pm EST Crypto Prediction Market - Robinhood
 - [Rachats et fusions] Tempus to acquire Personalis with $600 million cash election in merger agreement - Investing.com
 - [Résultats d'entreprises] Why Did GlobalData (LSE:DATA) Sink On A Profit Warning? - Kalkine Media
 - [Petites valeurs en croissance] Valiant Organics Ltd is Rated Hold by MarketsMOJO - MarketsMojo
@@ -453,7 +457,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Franklin Templeton Adds Hyperliquid's HYPE to Its Crypto Index ETF - Yahoo Finance
 - [Anthropic] Anthropic is caught up in the AI sell-off. Mike Khouw has an options strategy to weather the storm - CNBC
 - [Marchés mondiaux] Stocks slide as inflation, Nvidia losses fuel Wall Street sell-off - upi
-- [Marchés mondiaux] AI rout drags Wall Street lower, S&P 500 slumps 3% - WTOP News
-- [Bourse de Paris et Europe] Trump ressort le bazooka tarifaire, les marchés baissent la tête - Bourse Direct
-- [Banques centrales et taux] PCE US +3,8% en octobre : hausse des taux Fed en décembre jugée actée - TradingView
-- [Résultats d'entreprises] Dell Has Fallen 30% Since Trump's Portfolio Sold, But Earnings Tell Anothe
