@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 21966.02 HKD, jour -1.14 %, mois -5.14 %
 - SSE Composite Index (SSE:000001) : 3476.4697 , jour -2.03 %, mois -5.3 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3571.68 USD, jour -0.5 %, mois -11.1 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09762 USD, jour 0.01 %, mois -1.77 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54766.83 EUR, jour 0.41 %, mois -23.27 %
+- Gold (TVC:GOLD) : 3575 USD, jour -0.4 %, mois -11.02 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.0972 USD, jour -0.03 %, mois -1.81 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54939.02 EUR, jour 0.72 %, mois -23.03 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -292,8 +292,8 @@ POSITIONS ET INDICES :
 - Wizz Air Holdings Plc (LSE:WIZZ, secteur Transportation) jour 0.79 %, mois 20.9 %, prix 1151 GBX, capi 1182383342, PER None, volume x0.94 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3397176304047, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3397176304047, PER 2.1, volume x0.87 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3397176304047, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3328392634574.648, PER 14.1, volume x1.13 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3324740543398.086, PER 14.3, volume x1.11 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1507722117174, PER 1.7, volume x0.54 la normale
@@ -316,6 +316,11 @@ POSITIONS ET INDICES :
 - Bureau Veritas SA (EURONEXT:BVI, secteur Commercial Services) jour 6.6 %, mois 9.28 %, prix 31.8 EUR, capi 13230797511, PER 28.2, volume x3.4 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic Stock Is Down 33% From Its All-Time High. Here's What a $5,000 Investment Could Be Worth in 1 Year. - The Globe and Mail
+- [Marchés mondiaux] U.S. Stocks Extend Plunge as AI Boom Turns to Bust - WSJ
+- [Marchés mondiaux] Stock Market Today, Nov. 25: Dow Erases 1,100-Point Loss as Wall Street Stages Dramatic Late-Day Comeback - Yahoo Finance
+- [Bourse de Paris et Europe] Marché : Wall Street prend une nouvelle fois l'eau à cause des craintes sur l'IA et le Nasdaq chute de 4%, le CAC 40, lui, résiste grâce encore à Sanofi - BFM Bourse
+- [Bourse de Paris et Europe] CAC 40 : La Bourse de Paris retombe sous les 8.000 points, les technologiques sous pression - Zonebourse
 - [Intelligence artificielle] S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch - Reuters
 - [Rachats et fusions] CrowdStrike: Ticking The Top With Zscaler Deal (NASDAQ:CRWD) - Seeking Alpha
 - [Résultats d'entreprises] Smucker's Earnings Beat Comes With an Asterisk-But the Dip May Be Worth Buying - NewsBreak: Local News & Alerts
@@ -449,10 +454,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Banques centrales et taux] La croissance économique américaine dépasse les prévisions, la Fed est confrontée à des pressions sur les taux d'intérêt. - Vietnam.vn
 - [Intelligence artificielle] Watch Can US Chip Controls Slow China’s AI Progress? - Bloomberg
 - [Petites valeurs en croissance] Is Protector Forsikring (OB:PROT) Still Undervalued After A 5 Year Surge? - Yahoo Finance
-- [Crypto] XRP price at Nov 25, 2026 at 1pm EST Crypto Prediction Market - Robinhood
-- [Crypto] Bitcoin Is on Track for Its Second-Worst Q4 Ever, and One Signal Points to 2027 - BeInCrypto
-- [Marchés mondiaux] The $2 trillion chip rally is getting wiped out — here's what history says comes next - Yahoo Finance
-- [Marchés mondiaux] Tech stocks suffer sell-off on AI angst, US inflation - Yahoo Finance
-- [Banques centrales et taux] L'inflation sous-jacente a dépassé les prévisions en octobre, renforçant les attentes d'une hausse des taux par la Fed. - Quartz en Français
-- [Crypto] Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028 - Bitcoin Magazine
-- [Anthropic] Anthropic IPO, Nvidia drama expose class struggle at heart of AI bo
+- [Crypto] XRP price at Nov 25, 2026 at 1pm EST Crypto Prediction 
