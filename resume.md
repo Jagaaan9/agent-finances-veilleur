@@ -1,4 +1,4 @@
-PASSAGE. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
+PASSAGE DU SOIR (après la clôture américaine) avec bilan du jour. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
 
 POSITIONS ET INDICES :
 - Anthropic, PBC Class A (NASDAQ:ANT) : 82.79 USD, jour 1.08 %, mois -25.75 %
@@ -11,10 +11,10 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 21966.02 HKD, jour -1.14 %, mois -5.14 %
 - SSE Composite Index (SSE:000001) : 3476.4697 , jour -2.03 %, mois -5.3 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3580.95 USD, jour 0.7 %, mois -10.31 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09753 USD, jour 0.09 %, mois -1.78 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54876.32 EUR, jour 0.61 %, mois -23.11 %
-- United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
+- Gold (TVC:GOLD) : 3589.46 USD, jour 0.93 %, mois -10.66 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09726 USD, jour -0.02 %, mois -1.8 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54820.16 EUR, jour 0.51 %, mois -23.19 %
+- United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.858 , jour -1.42 %, mois -2.65 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - Currenc Group Inc. (NASDAQ:CURR, secteur Finance) jour 30.85 %, mois 10.31 %, prix 2.46 USD, capi 276213432.1276596, PER None, volume x1.57 la normale
@@ -295,7 +295,7 @@ POSITIONS ET INDICES :
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3397176304047, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3397176304047, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3328392634574.648, PER 14.1, volume x1.1 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3324740543398.086, PER 14.3, volume x1.09 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3324740543398.086, PER 14.3, volume x1.1 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1507722117174, PER 1.7, volume x0.54 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -0.11 %, mois -5.17 %, prix 316.74 USD, capi 841137806956.708, PER 13.3, volume x1.0 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour -4.53 %, mois -32.43 %, prix 601.25 USD, capi 680268185952.3433, PER 8.1, volume x1.43 la normale
@@ -316,6 +316,14 @@ POSITIONS ET INDICES :
 - Bureau Veritas SA (EURONEXT:BVI, secteur Commercial Services) jour 6.6 %, mois 9.28 %, prix 31.8 EUR, capi 13230797511, PER 28.2, volume x3.4 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] AI rout drags Wall Street lower, S&P 500 slumps 2.7% - WJTV
+- [Bourse de Paris et Europe] L'Europe respire mieux et attend le test de l'inflation américaine... - Fortuneo
+- [Banques centrales et taux] Fed: la hausse des prix pousse les consommateurs US à être plus sélectifs - allnews.ch
+- [Rachats et fusions] Tempus AI Secures $385M Term Loan Facility to Fund Personalis Deal - Unite.AI
+- [Petites valeurs en croissance] Australia’s Beaten-Down Small Caps Look Primed for 2027 Comeback - Bloomberg
+- [Petites valeurs en croissance] Evercore (EVR) Stock May Be 32% Undervalued On Capital Returns - Yahoo Finance
+- [Pays émergents] How to diversify away from Asia’s ‘three-stock story’ - Interactive Investor
+- [Crypto] How crypto ETF custody differs from holding your own private keys - 21Shares
 - [Anthropic] Anthropic’s Stock Sparks Rare Divide Inside One Wall Street Firm - Bloomberg
 - [Marchés mondiaux] Wall Street rebounds as AI stock sell-off eases - thebusinessjournal.com
 - [Marchés mondiaux] Gut-Wrenching Volatility Grips Wall Street as AI Doubts Creep In - Bloomberg
@@ -449,12 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] Total Energy Services (TSX:TOT): Is This Energy Stock Still Undervalued? - Kalkine Media
 - [Pays émergents] Managing volatility in emerging markets - UBS
 - [Défense, énergie, matières premières] Defensive stocks lift FTSE 100 as US inflation data, tariffs loom - Zawya
-- [Crypto] Bitcoin price stuck below $60,000 as Galaxy takes back bottom call, crypto bulls lose faith - CoinDesk
-- [Crypto] Crypto.com’s Prediction Market Spinoff Feels Liquidity Crunch - Sportico.com
-- [Marchés mondiaux] Why this stock-market selloff is probably going to get worse before it gets better - MarketWatch
-- [Marchés mondiaux] Stock Market Today: Huangover Is Causing Headache for Tech Stocks - 24/7 Wall St.
-- [Bourse de Paris et Europe] L'Europe finit dans le rouge, entraînée par les pertes de Wall Street - Zonebourse
-- [Intelligence artificielle] Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC - CNBC
-- [Petites valeurs en croissance] Trigano (ENXTPA:TRI) Stock Could Be 9% Undervalued On Cash Flow - Yahoo Finance
-- [Petites valeurs en croissance] Robert Half Stock Surges 54% in a Year: Key Factors Behind the Rally - Yahoo Finance
-- [Pays émergents
+- [Crypto] Bitcoin price stuck b
