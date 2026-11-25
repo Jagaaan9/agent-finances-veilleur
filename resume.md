@@ -12,8 +12,8 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3476.4697 , jour -2.03 %, mois -5.3 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
 - Gold (TVC:GOLD) : 3589.46 USD, jour 0.93 %, mois -10.66 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09737 USD, jour -0.01 %, mois -1.79 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54689.57 EUR, jour 0.27 %, mois -23.38 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09747 USD, jour -0.0 %, mois -1.78 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54796.56 EUR, jour 0.46 %, mois -23.23 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -201,8 +201,8 @@ POSITIONS ET INDICES :
 - Wacom Co., Ltd. (TSE:6727, secteur Electronic Technology) jour 19.61 %, mois 6.27 %, prix 915 JPY, capi 101926771545, PER 12.4, volume x0.64 la normale
 - LAND Co., Ltd. (TSE:8918, secteur Finance) jour 14.29 %, mois -20 %, prix 8 JPY, capi 10765180542, PER 10.5, volume x0.79 la normale
 - Medrx Co., Ltd. (TSE:4586, secteur Health Technology) jour 14.14 %, mois 130.61 %, prix 113 JPY, capi 7340563133, PER None, volume x3.27 la normale
-- AltPlus Holdings Inc. (TSE:3672, secteur Technology Services) jour 11.76 %, mois -9.52 %, prix 19 JPY, capi 1675078072, PER None, volume x0.66 la normale
 - JELLY BEANS GROUP Co.,Ltd. (TSE:3070, secteur Consumer Non-Durables) jour 11.76 %, mois -2.56 %, prix 38 JPY, capi 2824944702, PER None, volume x7.35 la normale
+- AltPlus Holdings Inc. (TSE:3672, secteur Technology Services) jour 11.76 %, mois -9.52 %, prix 19 JPY, capi 1675078072, PER None, volume x0.66 la normale
 - BPLATS,Inc. (TSE:4381, secteur Technology Services) jour 11.64 %, mois -25.57 %, prix 163 JPY, capi 718952075, PER None, volume x2.86 la normale
 - Nxera Pharma Co., Ltd. (TSE:4565, secteur Health Technology) jour 11.35 %, mois 38.48 %, prix 1864 JPY, capi 155037761856, PER None, volume x2.19 la normale
 - VLC SECURITY CO. LTD. (NAG:2467, secteur Commercial Services) jour 10.71 %, mois -22.78 %, prix 217 JPY, capi 2716716759, PER None, volume x2.33 la normale
@@ -292,8 +292,8 @@ POSITIONS ET INDICES :
 - Wizz Air Holdings Plc (LSE:WIZZ, secteur Transportation) jour 0.79 %, mois 20.9 %, prix 1151 GBX, capi 1182383342, PER None, volume x0.94 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3397176304047, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3397176304047, PER 2.1, volume x0.87 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3397176304047, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3328392634574.648, PER 14.1, volume x1.1 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3324740543398.086, PER 14.3, volume x1.1 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1507722117174, PER 1.7, volume x0.54 la normale
@@ -316,6 +316,12 @@ POSITIONS ET INDICES :
 - Bureau Veritas SA (EURONEXT:BVI, secteur Commercial Services) jour 6.6 %, mois 9.28 %, prix 31.8 EUR, capi 13230797511, PER 28.2, volume x3.4 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Anthropic rebondit après une chute de 10 %, les marchés opérant une reprise spectaculaire | Clôture - Zonebourse Suisse
+- [Banques centrales et taux] Aux Etats-Unis, croissance et inflation flambent de concert - Bourse Direct
+- [Banques centrales et taux] Une enquête de la Fed fait état d'une croissance économique soutenue et d'une inflation tenace ces dernières s - Boursorama
+- [Banques centrales et taux] USA-L'inflation PCE accélère comme prévu en octobre - Boursorama
+- [Rachats et fusions] Tempus to acquire Personalis with $600 million cash election in merger agreement - Investing.com Canada
+- [Rachats et fusions] A bank with $2.4B in assets would merge into a UMB Financial (UMBF) unit in a cash-and-stock deal. - Stock Titan
 - [Anthropic] Anthropic Stock Is Down 33% From Its All-Time High. Here's What a $5,000 Investment Could Be Worth in 1 Year. - The Motley Fool
 - [Intelligence artificielle] Explainer-How China got access to Nvidia's AI chips despite rules to stop them - Centre Daily Times
 - [Rachats et fusions] UMB Financial (UMBF): UMB to acquire El Dorado in bank merger, $20.25M fee if deal fails - Quantisnow
@@ -450,10 +456,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Bourse de Paris et Europe] La Bourse de Paris termine en baisse, entraînée par le décrochage de Wall Street - Boursorama
 - [Banques centrales et taux] Bitcoin briefly slips below $58K as hot PCE inflation fuels Fed rate hike bets - tmgm.com
 - [Rachats et fusions] Tesla and SpaceX directors negotiate $3.5 trillion merger terms - Cryptopolitan
-- [Petites valeurs en croissance] Workday’s AI Sales Tripled and Workday Stock Still Fell 7% - Yahoo Finance
-- [Crypto] Bitcoin Falls Toward $57,000 as Hotter Inflation and Tariff Worries Sink Stocks - Yahoo Finance
-- [Anthropic (FR)] La chute d'Anthropic remet en question les prévisions optimistes de Wall Street concernant les futurs bénéfice - Boursorama
-- [Chine et Asie] Asia data centres sound out US clients to replace China demand - The Business Times
-- [Intelligence artificielle] AI stocks slide on fears over infrastructure buildout costs - WKZO
-- [Résultats d'entreprises] Brokers split on Hikma as RBC downgrades while Citi and Panmure Liberum stay at 'buy' - Yahoo Finance UK
-- [Anthropic] Anthropic teeters at $1 trillion market cap. Why it may s
+- [Pet
