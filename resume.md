@@ -1,4 +1,4 @@
-PASSAGE DU SOIR (après la clôture américaine) avec bilan du jour. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
+PASSAGE. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
 
 POSITIONS ET INDICES :
 - Anthropic, PBC Class A (NASDAQ:ANT) : 82.79 USD, jour 1.08 %, mois -25.75 %
@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 21966.02 HKD, jour -1.14 %, mois -5.14 %
 - SSE Composite Index (SSE:000001) : 3476.4697 , jour -2.03 %, mois -5.3 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3589.46 USD, jour 0.93 %, mois -10.66 %
+- Gold (TVC:GOLD) : 3591.22 USD, jour 0.05 %, mois -10.62 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09754 USD, jour 0.0 %, mois -1.78 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54792.95 EUR, jour 0.46 %, mois -23.23 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54699.47 EUR, jour 0.29 %, mois -23.36 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -316,6 +316,8 @@ POSITIONS ET INDICES :
 - Bureau Veritas SA (EURONEXT:BVI, secteur Commercial Services) jour 6.6 %, mois 9.28 %, prix 31.8 EUR, capi 13230797511, PER 28.2, volume x3.4 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Prediction: AMD Stock Could Rally 58% as Analysts Maintain Strong Buy Rating - Yahoo Finance
+- [Résultats d'entreprises] Dell Raises FY2027 Revenue Outlook as AI Server Demand Drives Record Q3 - TradingKey
 - [Intelligence artificielle] US chip curbs close pathways for Chinese AI - Asia Times
 - [Rachats et fusions] Tempus to acquire Personalis with $600 million cash election in merger agreement By Investing.com - Investing.com India
 - [Pays émergents] GLOBAL MARKETS-World Stocks Tumble as Trump Tariffs Rattle Markets, AI Rally Fades - KONTAN
@@ -454,5 +456,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Résultats d'entreprises] Dell Has Fallen 30% Since Trump's Portfolio Sold, But Earnings Tell Another Story - MarketBeat
 - [Petites valeurs en croissance] We told you first: This small-cap health pick soared 41%+ yesterday on Q3 earnings - Investing.com Australia
 - [Petites valeurs en croissance] Aquarius Surgical Technologies Inc. (CN:ASTI) Surges as Healthcare Development Prospects Draw Attention - kalkine.ca
-- [Crypto] New measures reveal how vulnerable crypto assets are when others are in distress - EurekAlert!
-- [Anthropic] How to buy Anthropic at a discount with less risk - CNB
+- [Cr
