@@ -11,16 +11,16 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 21966.02 HKD, jour -1.14 %, mois -5.14 %
 - SSE Composite Index (SSE:000001) : 3476.4697 , jour -2.03 %, mois -5.3 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3576.88 USD, jour -0.35 %, mois -10.97 %
+- Gold (TVC:GOLD) : 3571.68 USD, jour -0.5 %, mois -11.1 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09762 USD, jour 0.01 %, mois -1.77 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54859.23 EUR, jour 0.58 %, mois -23.14 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54766.83 EUR, jour 0.41 %, mois -23.27 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - Currenc Group Inc. (NASDAQ:CURR, secteur Finance) jour 30.85 %, mois 10.31 %, prix 2.46 USD, capi 276213432.1276596, PER None, volume x1.57 la normale
 - SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 30.09 %, mois 20.49 %, prix 1.47 USD, capi 322012961.15617996, PER None, volume x0.94 la normale
 - Oatly Group AB Sponsored ADR (NASDAQ:OTLY, secteur Consumer Non-Durables) jour 26.12 %, mois 33.44 %, prix 16.08 USD, capi 406885345, PER None, volume x0.76 la normale
-- Agility Robotics, Inc. (NASDAQ:AGLT, secteur Producer Manufacturing) jour 20.41 %, mois -36.68 %, prix 6.49 USD, capi 1571163245.102041, PER None, volume x1.26 la normale
+- Agility Robotics, Inc. (NASDAQ:AGLT, secteur Producer Manufacturing) jour 20.41 %, mois -36.68 %, prix 6.49 USD, capi 1571163245.102041, PER None, volume x1.27 la normale
 - Founders Metals, Inc. (OTC:FDMIF, secteur Non-Energy Minerals) jour 20.01 %, mois -7.68 %, prix 4.75 USD, capi 683658749.425795, PER None, volume x2.08 la normale
 - ASP Isotopes, Inc. (NASDAQ:ASPI, secteur Industrial Services) jour 19.27 %, mois -37.8 %, prix 1.3 USD, capi 202584780.8256881, PER None, volume x1.16 la normale
 - TMC the metals company Inc. (NASDAQ:TMC, secteur Non-Energy Minerals) jour 18.29 %, mois -20.49 %, prix 1.94 USD, capi 856105569.1463414, PER None, volume x1.44 la normale
@@ -38,7 +38,7 @@ POSITIONS ET INDICES :
 - Lifezone Metals Limited (NYSE:LZM, secteur Non-Energy Minerals) jour -18.3 %, mois -5.78 %, prix 3.26 USD, capi 294739498.05012524, PER None, volume x1.43 la normale
 - CGN Mining Co. Ltd. (OTC:CGNMF, secteur Non-Energy Minerals) jour -18.15 %, mois -20.0 %, prix 0.2 USD, capi 1520136507.0056498, PER 27.1, volume x8.96 la normale
 - Sylvania Platinum Ltd. (OTC:SAPLF, secteur Non-Energy Minerals) jour -17.76 %, mois -31.9 %, prix 0.824 USD, capi 212432441.2862745, PER 3.3, volume x9.1 la normale
-- Nutanix, Inc. Class A (NASDAQ:NTNX, secteur Technology Services) jour -15.19 %, mois -35.16 %, prix 46.3 USD, capi 12627504103.289978, PER 8.5, volume x5.13 la normale
+- Nutanix, Inc. Class A (NASDAQ:NTNX, secteur Technology Services) jour -15.19 %, mois -35.16 %, prix 46.3 USD, capi 12627504103.289978, PER 8.5, volume x5.14 la normale
 
 ÉCRAN États-Unis : volumes anormaux :
 - ENEOS Holdings, Inc. (OTC:JXHGF, secteur Energy Minerals) jour 5.48 %, mois -12.34 %, prix 7.32 USD, capi 19469602324.220352, PER 4.4, volume x386.67 la normale
@@ -201,8 +201,8 @@ POSITIONS ET INDICES :
 - Wacom Co., Ltd. (TSE:6727, secteur Electronic Technology) jour 19.61 %, mois 6.27 %, prix 915 JPY, capi 101926771545, PER 12.4, volume x0.64 la normale
 - LAND Co., Ltd. (TSE:8918, secteur Finance) jour 14.29 %, mois -20 %, prix 8 JPY, capi 10765180542, PER 10.5, volume x0.79 la normale
 - Medrx Co., Ltd. (TSE:4586, secteur Health Technology) jour 14.14 %, mois 130.61 %, prix 113 JPY, capi 7340563133, PER None, volume x3.27 la normale
-- JELLY BEANS GROUP Co.,Ltd. (TSE:3070, secteur Consumer Non-Durables) jour 11.76 %, mois -2.56 %, prix 38 JPY, capi 2824944702, PER None, volume x7.35 la normale
 - AltPlus Holdings Inc. (TSE:3672, secteur Technology Services) jour 11.76 %, mois -9.52 %, prix 19 JPY, capi 1675078072, PER None, volume x0.66 la normale
+- JELLY BEANS GROUP Co.,Ltd. (TSE:3070, secteur Consumer Non-Durables) jour 11.76 %, mois -2.56 %, prix 38 JPY, capi 2824944702, PER None, volume x7.35 la normale
 - BPLATS,Inc. (TSE:4381, secteur Technology Services) jour 11.64 %, mois -25.57 %, prix 163 JPY, capi 718952075, PER None, volume x2.86 la normale
 - Nxera Pharma Co., Ltd. (TSE:4565, secteur Health Technology) jour 11.35 %, mois 38.48 %, prix 1864 JPY, capi 155037761856, PER None, volume x2.19 la normale
 - VLC SECURITY CO. LTD. (NAG:2467, secteur Commercial Services) jour 10.71 %, mois -22.78 %, prix 217 JPY, capi 2716716759, PER None, volume x2.33 la normale
@@ -292,14 +292,14 @@ POSITIONS ET INDICES :
 - Wizz Air Holdings Plc (LSE:WIZZ, secteur Transportation) jour 0.79 %, mois 20.9 %, prix 1151 GBX, capi 1182383342, PER None, volume x0.94 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3397176304047, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3397176304047, PER 2.1, volume x1.24 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3397176304047, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3328392634574.648, PER 14.1, volume x1.13 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3324740543398.086, PER 14.3, volume x1.11 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1507722117174, PER 1.7, volume x0.54 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -0.11 %, mois -5.17 %, prix 316.74 USD, capi 841137806956.708, PER 13.3, volume x1.08 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour -4.53 %, mois -32.43 %, prix 601.25 USD, capi 680268185952.3433, PER 8.1, volume x1.44 la normale
-- SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour -0.75 %, mois -20.95 %, prix 111.14 USD, capi 605909375849.1213, PER 6.2, volume x1.05 la normale
+- SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour -0.75 %, mois -20.95 %, prix 111.14 USD, capi 605909375849.1213, PER 6.2, volume x1.06 la normale
 - Tencent Holdings Ltd Unsponsored ADR (OTC:TCEHY, secteur Technology Services) jour -0.16 %, mois -11.01 %, prix 43.56 USD, capi 392386643453.78094, PER 11.7, volume x1.5 la normale
 - China Construction Bank Corporation Class H (OTC:CICHF, secteur Finance) jour -3.01 %, mois 5.31 %, prix 1.29 USD, capi 349128904045.15906, PER 6.5, volume x41.97 la normale
 
@@ -316,6 +316,11 @@ POSITIONS ET INDICES :
 - Bureau Veritas SA (EURONEXT:BVI, secteur Commercial Services) jour 6.6 %, mois 9.28 %, prix 31.8 EUR, capi 13230797511, PER 28.2, volume x3.4 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Intelligence artificielle] S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch - Reuters
+- [Rachats et fusions] CrowdStrike: Ticking The Top With Zscaler Deal (NASDAQ:CRWD) - Seeking Alpha
+- [Résultats d'entreprises] Smucker's Earnings Beat Comes With an Asterisk-But the Dip May Be Worth Buying - NewsBreak: Local News & Alerts
+- [Petites valeurs en croissance] Stock Market Today, Nov. 25: SpaceX Gets Historic FCC Approval for 1 Million Satellites. Is This Its Next Growth Engine? - Yahoo Finance
+- [Pays émergents] AI's debt binge is becoming a bond market problem, South Africa's central bank warns - investingLive
 - [Marchés mondiaux] Stocks mixed as Wall Street erases sharp decline: Nvidia down 6% - 95.5 WSB
 - [Rachats et fusions] How Is British American Tobacco (LSE:BATS) Backing Organigram's Bid For Aurora Cannabis? - Kalkine Media
 - [Résultats d'entreprises] Nutanix stock drops 9% on weak FY guidance and CEO exit - Investing.com
@@ -450,10 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Marchés mondiaux] Tech stocks suffer sell-off on AI angst, US inflation - Yahoo Finance
 - [Banques centrales et taux] L'inflation sous-jacente a dépassé les prévisions en octobre, renforçant les attentes d'une hausse des taux par la Fed. - Quartz en Français
 - [Crypto] Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028 - Bitcoin Magazine
-- [Anthropic] Anthropic IPO, Nvidia drama expose class struggle at heart of AI boom - People's World
-- [Bourse de Paris et Europe] Le CAC 40 recule en clôture, plombé par les semi-conducteurs et l'électrique - Idéal Investisseur
-- [Pays émergents] DVYE: Strong Yield And Discount To Broader Emerging Markets - Seeking Alpha
-- [Crypto] French Senate blocks new crypto tax and wallet list critics called a kidnapping risk - CoinDesk
-- [Crypto] Franklin Templeton Adds Hyperliquid's HYPE to Its Crypto Index ETF - Yahoo Finance
-- [Anthropic] Anthropic is caught up in the AI sell-off. Mike Khouw has an options strategy to weather the storm - CNBC
-- [Marchés mondiaux] Stocks slide as inflation, Nvidia losses fuel Wall Street sell-off - upi
+- [Anthropic] Anthropic IPO, Nvidia drama expose class struggle at heart of AI bo
