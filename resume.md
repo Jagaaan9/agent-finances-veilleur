@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 21966.02 HKD, jour -1.14 %, mois -5.14 %
 - SSE Composite Index (SSE:000001) : 3476.4697 , jour -2.03 %, mois -5.3 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3575 USD, jour -0.4 %, mois -11.02 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.0972 USD, jour -0.03 %, mois -1.81 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54939.02 EUR, jour 0.72 %, mois -23.03 %
+- Gold (TVC:GOLD) : 3578.58 USD, jour -0.3 %, mois -10.93 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09717 USD, jour -0.03 %, mois -1.81 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54940.1 EUR, jour 0.73 %, mois -23.03 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -48,7 +48,7 @@ POSITIONS ET INDICES :
 - Standard Bank Group Limited (OTC:SBGOF, secteur Finance) jour -2.45 %, mois -11.01 %, prix 16.45 USD, capi 26634746027.717472, PER 8.6, volume x186.93 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109614.3217664, PER 5.1, volume x99.36 la normale
 - Weichai Power Co., Ltd. Class H (OTC:WEICF, secteur Producer Manufacturing) jour -2.8 %, mois -13.28 %, prix 2.71 USD, capi 24136375770.682457, PER 12.7, volume x76.66 la normale
-- Shoprite Holdings Limited Sponsored ADR (OTC:SRGHY, secteur Retail Trade) jour 3.4 %, mois -2.35 %, prix 20.35 USD, capi 10704502103.023201, PER 23.4, volume x56.8 la normale
+- Shoprite Holdings Limited Sponsored ADR (OTC:SRGHY, secteur Retail Trade) jour 3.4 %, mois -2.35 %, prix 20.35 USD, capi 10704502103.023201, PER 23.4, volume x56.79 la normale
 - TRG Latin America Acquisitions Corp. Class A (NASDAQ:TRGS, secteur Finance) jour 0 %, mois 0.5 %, prix 10.01 USD, capi 260410159, PER None, volume x49.15 la normale
 - Fortescue Ltd (OTC:FSUMF, secteur Non-Energy Minerals) jour -2.17 %, mois -15.09 %, prix 9 USD, capi 27695740607.894737, PER 9.4, volume x45.39 la normale
 
@@ -316,6 +316,10 @@ POSITIONS ET INDICES :
 - Bureau Veritas SA (EURONEXT:BVI, secteur Commercial Services) jour 6.6 %, mois 9.28 %, prix 31.8 EUR, capi 13230797511, PER 28.2, volume x3.4 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Stocks mixed as Wall Street erases sharp decline: Nvidia down 6% - Everett Post
+- [Intelligence artificielle] The Nvidia Scandal Set Off a Chip Crackdown in Congress. Which Stocks Are Most at Risk? - Yahoo Finance
+- [Résultats d'entreprises] Autodesk Q3 FY27 slides: beats estimates, raises guidance but shares slip - Investing.com Canada
+- [Crypto] Crypto’s Big Problem? ‘We Built Too Much Infrastructure,’ Says VanEck Manager - Benzinga
 - [Anthropic] Anthropic Stock Is Down 33% From Its All-Time High. Here's What a $5,000 Investment Could Be Worth in 1 Year. - The Globe and Mail
 - [Marchés mondiaux] U.S. Stocks Extend Plunge as AI Boom Turns to Bust - WSJ
 - [Marchés mondiaux] Stock Market Today, Nov. 25: Dow Erases 1,100-Point Loss as Wall Street Stages Dramatic Late-Day Comeback - Yahoo Finance
@@ -450,8 +454,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Rachats et fusions] After $32 billion Google deal, Wiz founders face multibillion-dollar tax demand in Israel - Ynetnews
 - [Petites valeurs en croissance] Boston Scientific (BSX) Stock Could Be 38% Undervalued After Cybersecurity Fallout - Yahoo Finance
 - [Anthropic (FR)] La chute des actions du secteur de l'IA s'accentue, Anthropic atteignant 74 dollars - Boursorama
-- [Anthropic (FR)] Bitcoin chute à 58 000 $, Ethereum et XRP reculent de 4 % alors qu’ANT perd son plancher de prix d’introduction en bourse - Yahoo Finance France
-- [Banques centrales et taux] La croissance économique américaine dépasse les prévisions, la Fed est confrontée à des pressions sur les taux d'intérêt. - Vietnam.vn
-- [Intelligence artificielle] Watch Can US Chip Controls Slow China’s AI Progress? - Bloomberg
-- [Petites valeurs en croissance] Is Protector Forsikring (OB:PROT) Still Undervalued After A 5 Year Surge? - Yahoo Finance
-- [Crypto] XRP price at Nov 25, 2026 at 1pm EST Crypto Prediction 
+- [Anthropic (FR)] Bitcoin chute à 58 000 $, Ethereum et XRP reculent de 4 % alors qu’ANT perd son plancher de prix d’introduction en bourse - Yahoo F
