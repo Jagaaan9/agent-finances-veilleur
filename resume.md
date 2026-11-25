@@ -7,14 +7,14 @@ POSITIONS ET INDICES :
 - NASDAQ Composite Index (NASDAQ:IXIC) : 23733.5353 , jour -1.48 %, mois -8.34 %
 - CAC 40 Index (EURONEXT:PX1) : 8040.49 , jour -0.05 %, mois 2.92 %
 - STOXX 50 (TVC:SX5E) : 6003.77 EUR, jour -1.16 %, mois -1.49 %
-- Japan 225 Index (TVC:NI225) : 58383.49 JPY, jour -0.45 %, mois -6.51 %
+- Japan 225 Index (TVC:NI225) : 57510.58 JPY, jour -1.93 %, mois -7.91 %
 - Hang Seng Index (TVC:HSI) : 22219.66 HKD, jour -0.73 %, mois -3.51 %
 - SSE Composite Index (SSE:000001) : 3548.3694 , jour 0.27 %, mois -2.08 %
 - VOLATILITY S&P 500 (TVC:VIX) : 26.37 USD, jour -0.9 %, mois 37.49 %
-- Gold (TVC:GOLD) : 3548.32 USD, jour -0.22 %, mois -11.13 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09622 USD, jour -0.03 %, mois -2.3 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54543.91 EUR, jour -2.83 %, mois -23.58 %
-- United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.928 , jour -0.28 %, mois -0.42 %
+- Gold (TVC:GOLD) : 3552.75 USD, jour -0.1 %, mois -11.02 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.0964 USD, jour -0.01 %, mois -2.29 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54357 EUR, jour -0.34 %, mois -23.84 %
+- United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.924 , jour -0.08 %, mois -1.32 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - LiveWire Group, Inc. (NYSE:LVWR, secteur Consumer Durables) jour 90.8 %, mois 16.15 %, prix 1.87 USD, capi 201325914, PER None, volume x3.01 la normale
@@ -24,7 +24,7 @@ POSITIONS ET INDICES :
 - Prelude Therapeutics, Inc. (NASDAQ:PRLD, secteur Health Technology) jour 28.57 %, mois 25.35 %, prix 4.5 USD, capi 426594593.5714286, PER None, volume x5.49 la normale
 - Veraxa Biotech AG (NASDAQ:VRXA, secteur Health Technology) jour 27.78 %, mois 32.69 %, prix 1.38 USD, capi 203871280.61111107, PER 6.4, volume x3.72 la normale
 - Enigmatig Limited Class A (AMEX:EGG, secteur Commercial Services) jour 26.52 %, mois 71.84 %, prix 8.97 USD, capi 251206652.85613543, PER None, volume x1.67 la normale
-- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 22.81 %, mois -20.98 %, prix 1.13 USD, capi 326084290.09695, PER None, volume x0.81 la normale
+- SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 22.81 %, mois -20.98 %, prix 1.13 USD, capi 326084290.09695, PER None, volume x0.82 la normale
 - Phathom Pharmaceuticals, Inc. (NASDAQ:PHAT, secteur Health Technology) jour 22.36 %, mois -13.69 %, prix 5.8 USD, capi 471490832.15189874, PER None, volume x2.08 la normale
 - Yarrow Bioscience, Inc. (NASDAQ:YARW, secteur Health Technology) jour 22.26 %, mois -20.74 %, prix 15.82 USD, capi 241016811.19474497, PER None, volume x1.16 la normale
 
@@ -33,7 +33,7 @@ POSITIONS ET INDICES :
 - Stewards, Inc. (NASDAQ:SWRD, secteur Non-Energy Minerals) jour -29.63 %, mois -54.22 %, prix 1.14 USD, capi 250592895.77777776, PER None, volume x1.02 la normale
 - Kraken Robotics Inc (OTC:KRKNF, secteur Electronic Technology) jour -23.39 %, mois -43.2 %, prix 1.67 USD, capi 620258252.6430868, PER None, volume x4.82 la normale
 - VNET Group, Inc. Sponsored ADR (NASDAQ:VNET, secteur Technology Services) jour -22.44 %, mois -48.96 %, prix 1.97 USD, capi 736495308, PER None, volume x2.42 la normale
-- Ambarella, Inc. (NASDAQ:AMBA, secteur Electronic Technology) jour -19.96 %, mois -29.31 %, prix 44.47 USD, capi 1962949079.8111947, PER None, volume x6.56 la normale
+- Ambarella, Inc. (NASDAQ:AMBA, secteur Electronic Technology) jour -19.96 %, mois -29.31 %, prix 44.47 USD, capi 1962949079.8111947, PER None, volume x6.6 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109518.457516, PER 5.1, volume x99.36 la normale
 - EverCommerce, Inc. (NASDAQ:EVCM, secteur Technology Services) jour -18.81 %, mois -42.03 %, prix 5.31 USD, capi 932617440.4266055, PER 31.7, volume x3.64 la normale
 - Shoe Station Group, Inc. (NASDAQ:SHOE, secteur Retail Trade) jour -18.39 %, mois -17.58 %, prix 11.58 USD, capi 314788568.0295983, PER 13.1, volume x7.02 la normale
@@ -162,8 +162,8 @@ POSITIONS ET INDICES :
 - Zhejiang Tongxing Technology Co., Ltd. Class A (SZSE:301252, secteur Producer Manufacturing) jour 20.0 %, mois 51.99 %, prix 42.48 CNY, capi 2860220695, PER 66.1, volume x0.89 la normale
 - Shenzhen Ampron Technology Co., Ltd. Class A (SZSE:301413, secteur Commercial Services) jour 20.0 %, mois 44.44 %, prix 89.71 CNY, capi 10271430314, PER 420.6, volume x1.51 la normale
 - Cre8 Direct (Ningbo) Co. Ltd. Class A (SZSE:300703, secteur Process Industries) jour 19.98 %, mois 21.36 %, prix 14.83 CNY, capi 2187825554, PER None, volume x1.81 la normale
-- Beijing Longruan Technologies Inc. Class A (SSE:688078, secteur Technology Services) jour 19.98 %, mois 6.64 %, prix 29.06 CNY, capi 1765468355, PER None, volume x1.25 la normale
 - HangZhou Radical Energy Saving Technology Co., Ltd. Class A (SZSE:300652, secteur Producer Manufacturing) jour 19.98 %, mois 18.85 %, prix 29.06 CNY, capi 3230719737, PER 48.6, volume x1.38 la normale
+- Beijing Longruan Technologies Inc. Class A (SSE:688078, secteur Technology Services) jour 19.98 %, mois 6.64 %, prix 29.06 CNY, capi 1765468355, PER None, volume x1.25 la normale
 - Ningbo Henghe Precision Industry Co., Ltd. Class A (SZSE:300539, secteur Producer Manufacturing) jour 19.98 %, mois 41.12 %, prix 22.58 CNY, capi 5016041082, PER 127.1, volume x1.83 la normale
 - Wuhan Tianyu Information Industry Co., Ltd. Class A (SZSE:300205, secteur Electronic Technology) jour 19.93 %, mois -22.15 %, prix 3.55 CNY, capi 1272965776, PER None, volume x3.04 la normale
 
@@ -288,8 +288,8 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -1.6 %, mois 24.2 %, prix 8.781 EUR, capi 8960878758.48864, PER 11.0, volume x0.51 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -0.34 %, mois -10.74 %, prix 41.24 USD, capi 3433903944122, PER 2.2, volume x0.49 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -0.31 %, mois -11.26 %, prix 41.38 USD, capi 3433903944122, PER 2.2, volume x0.55 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -0.34 %, mois -10.74 %, prix 41.24 USD, capi 3433903944122, PER 2.2, volume x0.49 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -1.06 %, mois -12.96 %, prix 276.58 USD, capi 3397664482757.7104, PER 14.4, volume x1.02 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -1.08 %, mois -13.11 %, prix 279.05 USD, capi 3396777368334.7896, PER 14.6, volume x0.92 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour -0.88 %, mois -3.32 %, prix 48.34 USD, capi 1527609591443, PER 1.6, volume x0.4 la normale
@@ -312,6 +312,11 @@ POSITIONS ET INDICES :
 - SPIE SA (EURONEXT:SPIE, secteur Commercial Services) jour -1.51 %, mois 8.79 %, prix 44.3 EUR, capi 7775044396, PER 25.0, volume x0.75 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] 600 Anthropic employees worth over $100M post-IPO: report - KRON4
+- [Intelligence artificielle] The AI chip business has an Nvidia problem - WP Intelligence
+- [Intelligence artificielle] This AI Chip Stock Just Crashed 38% on a Memory Shortage Warning. Its Filings Flagged the Risk Months Ago - The Motley Fool
+- [Petites valeurs en croissance] 3 Absurdly Cheap Stocks You Can Buy for Less Than $100 Right Now - Yahoo Finance
+- [Crypto] What Would It Take for XRP to Reach $100? - Yahoo Finance
 - [Rachats et fusions] StarHub to merge with M1 by 1st half of 2027; acquire Circles Life S'pore - Mothership
 - [Petites valeurs en croissance] Banyan Gold Corp. (TSXV:BYN) Stock Surges 10%: Yukon Gold Exploration and Mineral Resource Expansion Strengthen Growth Prospects - kalkine.ca
 - [Crypto] Bitcoin price today, BTC to USD live price, marketcap and chart - CoinMarketCap
@@ -457,8 +462,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] Anthropic Stock Is Now Trading. Should You Buy It Today? - The Motley Fool
 - [Anthropic] Anthropic shares fall below IPO price, a worrying sign for AI startups - Yahoo Finance
 - [Marchés mondiaux] Stock Market Today: Stock Market News And Analysis - Investor's Business Daily
-- [Marchés mondiaux] Anthropic Drops Below IPO Prices, Nvidia Sinks 7% After Record Rally: Stock Market Today - Benzinga
-- [Bourse de Paris et Europe] L'Europe finit dans le rouge, le rebond lié à Nvidia décline - Boursorama
-- [Intelligence artificielle] Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Floated - Bloomberg.com
-- [Introductions en bourse] Anthropic stock sinks below IPO price days after record NASDAQ debut - Zee Business
-- [Résultats d'entreprises] Super Micro Just Fell 32% in a Month: Is SMCI an Unbeatable Bargain or a Toxic Stock? - 24/7 Wall St.
