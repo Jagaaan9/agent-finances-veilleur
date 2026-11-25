@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 21966.02 HKD, jour -1.14 %, mois -5.14 %
 - SSE Composite Index (SSE:000001) : 3476.4697 , jour -2.03 %, mois -5.3 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3591.22 USD, jour 0.05 %, mois -10.62 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09754 USD, jour 0.0 %, mois -1.78 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54699.47 EUR, jour 0.29 %, mois -23.36 %
+- Gold (TVC:GOLD) : 3572.75 USD, jour -0.47 %, mois -11.08 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09758 USD, jour 0.01 %, mois -1.77 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54696.64 EUR, jour 0.28 %, mois -23.37 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -201,8 +201,8 @@ POSITIONS ET INDICES :
 - Wacom Co., Ltd. (TSE:6727, secteur Electronic Technology) jour 19.61 %, mois 6.27 %, prix 915 JPY, capi 101926771545, PER 12.4, volume x0.64 la normale
 - LAND Co., Ltd. (TSE:8918, secteur Finance) jour 14.29 %, mois -20 %, prix 8 JPY, capi 10765180542, PER 10.5, volume x0.79 la normale
 - Medrx Co., Ltd. (TSE:4586, secteur Health Technology) jour 14.14 %, mois 130.61 %, prix 113 JPY, capi 7340563133, PER None, volume x3.27 la normale
-- AltPlus Holdings Inc. (TSE:3672, secteur Technology Services) jour 11.76 %, mois -9.52 %, prix 19 JPY, capi 1675078072, PER None, volume x0.66 la normale
 - JELLY BEANS GROUP Co.,Ltd. (TSE:3070, secteur Consumer Non-Durables) jour 11.76 %, mois -2.56 %, prix 38 JPY, capi 2824944702, PER None, volume x7.35 la normale
+- AltPlus Holdings Inc. (TSE:3672, secteur Technology Services) jour 11.76 %, mois -9.52 %, prix 19 JPY, capi 1675078072, PER None, volume x0.66 la normale
 - BPLATS,Inc. (TSE:4381, secteur Technology Services) jour 11.64 %, mois -25.57 %, prix 163 JPY, capi 718952075, PER None, volume x2.86 la normale
 - Nxera Pharma Co., Ltd. (TSE:4565, secteur Health Technology) jour 11.35 %, mois 38.48 %, prix 1864 JPY, capi 155037761856, PER None, volume x2.19 la normale
 - VLC SECURITY CO. LTD. (NAG:2467, secteur Commercial Services) jour 10.71 %, mois -22.78 %, prix 217 JPY, capi 2716716759, PER None, volume x2.33 la normale
@@ -316,6 +316,9 @@ POSITIONS ET INDICES :
 - Bureau Veritas SA (EURONEXT:BVI, secteur Commercial Services) jour 6.6 %, mois 9.28 %, prix 31.8 EUR, capi 13230797511, PER 28.2, volume x3.4 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Rachats et fusions] Tempus to acquire Personalis with $600 million cash election in merger agreement - Investing.com
+- [Résultats d'entreprises] Why Did GlobalData (LSE:DATA) Sink On A Profit Warning? - Kalkine Media
+- [Petites valeurs en croissance] Valiant Organics Ltd is Rated Hold by MarketsMOJO - MarketsMojo
 - [Marchés mondiaux] Prediction: AMD Stock Could Rally 58% as Analysts Maintain Strong Buy Rating - Yahoo Finance
 - [Résultats d'entreprises] Dell Raises FY2027 Revenue Outlook as AI Server Demand Drives Record Q3 - TradingKey
 - [Intelligence artificielle] US chip curbs close pathways for Chinese AI - Asia Times
@@ -453,7 +456,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Marchés mondiaux] AI rout drags Wall Street lower, S&P 500 slumps 3% - WTOP News
 - [Bourse de Paris et Europe] Trump ressort le bazooka tarifaire, les marchés baissent la tête - Bourse Direct
 - [Banques centrales et taux] PCE US +3,8% en octobre : hausse des taux Fed en décembre jugée actée - TradingView
-- [Résultats d'entreprises] Dell Has Fallen 30% Since Trump's Portfolio Sold, But Earnings Tell Another Story - MarketBeat
-- [Petites valeurs en croissance] We told you first: This small-cap health pick soared 41%+ yesterday on Q3 earnings - Investing.com Australia
-- [Petites valeurs en croissance] Aquarius Surgical Technologies Inc. (CN:ASTI) Surges as Healthcare Development Prospects Draw Attention - kalkine.ca
-- [Cr
+- [Résultats d'entreprises] Dell Has Fallen 30% Since Trump's Portfolio Sold, But Earnings Tell Anothe
