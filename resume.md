@@ -12,8 +12,8 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3476.4697 , jour -2.03 %, mois -5.3 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
 - Gold (TVC:GOLD) : 3589.46 USD, jour 0.93 %, mois -10.66 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09735 USD, jour -0.01 %, mois -1.79 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54755.44 EUR, jour 0.39 %, mois -23.28 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09737 USD, jour -0.01 %, mois -1.79 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54689.57 EUR, jour 0.27 %, mois -23.38 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -21,7 +21,7 @@ POSITIONS ET INDICES :
 - SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour 30.09 %, mois 20.49 %, prix 1.47 USD, capi 322012961.15617996, PER None, volume x0.93 la normale
 - Oatly Group AB Sponsored ADR (NASDAQ:OTLY, secteur Consumer Non-Durables) jour 26.12 %, mois 33.44 %, prix 16.08 USD, capi 406885345, PER None, volume x0.75 la normale
 - Agility Robotics, Inc. (NASDAQ:AGLT, secteur Producer Manufacturing) jour 20.41 %, mois -36.68 %, prix 6.49 USD, capi 1571163245.102041, PER None, volume x1.26 la normale
-- Founders Metals, Inc. (OTC:FDMIF, secteur Non-Energy Minerals) jour 20.01 %, mois -7.68 %, prix 4.75 USD, capi 683658749.425795, PER None, volume x1.99 la normale
+- Founders Metals, Inc. (OTC:FDMIF, secteur Non-Energy Minerals) jour 20.01 %, mois -7.68 %, prix 4.75 USD, capi 683658749.425795, PER None, volume x2.08 la normale
 - ASP Isotopes, Inc. (NASDAQ:ASPI, secteur Industrial Services) jour 19.27 %, mois -37.8 %, prix 1.3 USD, capi 202584780.8256881, PER None, volume x1.16 la normale
 - TMC the metals company Inc. (NASDAQ:TMC, secteur Non-Energy Minerals) jour 18.29 %, mois -20.49 %, prix 1.94 USD, capi 856105569.1463414, PER None, volume x1.43 la normale
 - Sinda Limited (NYSE:SIND, secteur Non-Energy Minerals) jour 17.96 %, mois -15.4 %, prix 10.05 USD, capi 1595848566.2323945, PER None, volume x0.45 la normale
@@ -316,6 +316,15 @@ POSITIONS ET INDICES :
 - Bureau Veritas SA (EURONEXT:BVI, secteur Commercial Services) jour 6.6 %, mois 9.28 %, prix 31.8 EUR, capi 13230797511, PER 28.2, volume x3.4 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic Stock Is Down 33% From Its All-Time High. Here's What a $5,000 Investment Could Be Worth in 1 Year. - The Motley Fool
+- [Intelligence artificielle] Explainer-How China got access to Nvidia's AI chips despite rules to stop them - Centre Daily Times
+- [Rachats et fusions] UMB Financial (UMBF): UMB to acquire El Dorado in bank merger, $20.25M fee if deal fails - Quantisnow
+- [Résultats d'entreprises] Earnings call transcript: Ambarella Q3 2027 profit beats, but stock plunges By Investing.com - Investing.com India
+- [Résultats d'entreprises] What Noah (NOAH) Said on Its Q3 Earnings Call - TradingView
+- [Résultats d'entreprises] Jim Cramer Sees More Upside in These Retail Stocks as XRT ETF Leaves Tech Behind - TradingView
+- [Crypto] Crypto Market Today, Nov. 25: Bitcoin, Ethereum, and Solana as Short Liquidations Fuel Fragile Rebound - The Motley Fool
+- [Crypto] How Much of Your Portfolio Should Be in Bitcoin After a 50% Drop? - Yahoo Finance
+- [Crypto] How Much of Your Portfolio Should Be in Bitcoin After a 50% Drop? - 24/7 Wall St.
 - [Marchés mondiaux] Wall Street Futures Point to Sharp Losses as Technology Stocks Face Renewed Selling Pressure: Dow Jones, S&P, Nasdaq - Yahoo Finance
 - [Chine et Asie] AI rout continues as market exuberance fades over improbable return of Nvidia’s Huang - myMotherLode.com
 - [Intelligence artificielle] Explainer-How China got access to Nvidia's AI chips despite rules to stop them - Hilton Head Island Packet
@@ -447,14 +456,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Chine et Asie] Asia data centres sound out US clients to replace China demand - The Business Times
 - [Intelligence artificielle] AI stocks slide on fears over infrastructure buildout costs - WKZO
 - [Résultats d'entreprises] Brokers split on Hikma as RBC downgrades while Citi and Panmure Liberum stay at 'buy' - Yahoo Finance UK
-- [Anthropic] Anthropic teeters at $1 trillion market cap. Why it may stabilize from here - CNBC
-- [Marchés mondiaux] Stocks tumble as AI sell-off deepens, Fed's preferred inflation gauge rises - Yahoo Finance
-- [Marchés mondiaux] Stock Market Midday, Nov. 25: Nasdaq Plunges 4% as AI Sell-Off Deepens and Inflation Remains Stubborn - The Globe and Mail
-- [Bourse de Paris et Europe] CAC 40 : jusqu’où peut-il baisser et faut-il investir maintenant ? - Cafédelabourse
-- [Bourse de Paris et Europe] CAC 40: La Bourse de Paris monte avant l'inflation américaine, Rémy Cointreau en tête - ABC Bourse
-- [Intelligence artificielle] This Is When AI’s Circular Deals Bite Back - Bloomberg.com
-- [Rachats et fusions] Key facts: Telus Weighs Bid, Health Deal, Sales; Targets CAD 900M FCF - TradingView
-- [Résultats d'entreprises] HP shares jump as earnings beat offsets cautious fiscal 2027 outlook - Proactive financial news
-- [Petites valeurs en croissance] Can Automatic Data Processing (ADP) Stay Cheap After 50% Gains? - Yahoo Finance
-- [Anthropic (FR)] Wall Street : le Nasdaq chute de 4,2 %, les tarifs inquiètent - Le Revenu
-- [Bourse de Par
+- [Anthropic] Anthropic teeters at $1 trillion market cap. Why it may s
