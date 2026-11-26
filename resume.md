@@ -12,8 +12,8 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
 - Gold (TVC:GOLD) : 3566.392 USD, jour -0.64 %, mois -11.23 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09679 USD, jour -0.01 %, mois -1.41 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55186.69 EUR, jour 0.24 %, mois -22.92 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09673 USD, jour -0.02 %, mois -1.41 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55197.64 EUR, jour 0.26 %, mois -22.9 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -167,8 +167,8 @@ POSITIONS ET INDICES :
 
 ÉCRAN Chine continentale : plus fortes baisses :
 - Shenzhen Sunwin Intelligent Co., Ltd. Class A (SZSE:300044, secteur Technology Services) jour -20.09 %, mois -31.87 %, prix 3.42 CNY, capi 3421775011, PER None, volume x3.98 la normale
-- Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A (SZSE:300469, secteur Technology Services) jour -20 %, mois -42.29 %, prix 28.28 CNY, capi 8287818003, PER None, volume x2.05 la normale
 - Jiangsu Daybright Intelligent Electric Co. Ltd. Class A (SZSE:300670, secteur Producer Manufacturing) jour -20 %, mois -41.56 %, prix 3.6 CNY, capi 1426142120, PER None, volume x1.74 la normale
+- Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A (SZSE:300469, secteur Technology Services) jour -20 %, mois -42.29 %, prix 28.28 CNY, capi 8287818003, PER None, volume x2.05 la normale
 - Anhui Chaoyue Environmental Technology Co., Ltd. Class A (SZSE:301049, secteur Industrial Services) jour -17.33 %, mois -10.65 %, prix 16.27 CNY, capi 1854905643, PER None, volume x1.39 la normale
 - Piesat Information Technology Co., Ltd. Class A (SSE:688066, secteur Technology Services) jour -15.7 %, mois -49.2 %, prix 3.49 CNY, capi 1270373640, PER None, volume x1.76 la normale
 - Heren Health Co., Ltd. Class A (SZSE:300550, secteur Technology Services) jour -13.24 %, mois -8.91 %, prix 11.66 CNY, capi 3505429402, PER None, volume x2.19 la normale
@@ -310,6 +310,9 @@ POSITIONS ET INDICES :
 - Beneteau SA (EURONEXT:BEN, secteur Consumer Durables) jour 3.84 %, mois 11.74 %, prix 5.14 EUR, capi 403167537, PER None, volume x1.03 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Intelligence artificielle] Kazakhstan boosts AI cooperation with Russia, which is hungry for advanced US chips - Reuters
+- [Rachats et fusions] Altria Weighs Takeover Bid for Imperial Brands - Peradaban.id
+- [Pays émergents] Free float of JPMorgan ActiveBuilders Emerging Markets Equity ETF Shs Unsponsored Brazilian Depositary Receipt Repr 0.1666667 Sh – BMFBOVESPA:JEMA39 - TradingView
 - [Anthropic (FR)] Selon le Nikkei, la société japonaise JERA entame des négociations avec Anthropic et Meta en vue de la constru - Boursorama
 - [Anthropic (FR)] JERA entame des discussions avec Anthropic et Meta pour construire des centres de données, rapporte Nikkei - Zonebourse Suisse
 - [Marchés mondiaux] Wall Street recovers most early losses as pullback in AI stocks eases - cbs19news.com
@@ -452,8 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Galaxy Research Warns Bitcoin Could Fall to $28,200 if June Low Breaks - Yahoo Finance
 - [Crypto] Bitcoin (BTC) supply dormant for at least a year rises to 68.5% - CoinDesk
 - [Crypto] Billionaire Investor Paul Tudor Jones Just Doubled Down on Bitcoin. What Does He Know That the Market Doesn't? - Yahoo Finance
-- [Anthropic (FR)] La France attend le verdict de S&P, Wall Street ne fera pas d'heures supplémentaires ce vendredi - Investir Les Echos
-- [Intelligence artificielle] Nvidia Pauses Advanced Chip Orders in Southeast Asia - Investing News Network
-- [Intelligence artificielle] FormFactor And 2 Other AI Chip Stocks To Watch - Yahoo Finance
-- [Petites valeurs en croissance] Is eBay (EBAY) Undervalued Following Strong Q3 2026 Revenue Growth? - Yahoo Finance
--
+- [Anthropic (FR)] La France attend le verdict de S&P, Wall Street 
