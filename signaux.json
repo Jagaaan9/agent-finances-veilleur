@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T23:10:36.710393+00:00",
+ "mis_a_jour": "2026-11-26T23:20:35.896927+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3564.81,
+   "prix": 3565.49,
    "devise": "USD",
-   "jour_pct": -0.69,
-   "mois_pct": -12.2,
+   "jour_pct": -0.67,
+   "mois_pct": -12.19,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09698,
+   "prix": 1.0970199999999999,
    "devise": "USD",
    "jour_pct": 0.01,
    "mois_pct": -1.39,
-   "volume": 1899,
+   "volume": 2042,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55054.22,
+   "prix": 55014.61,
    "devise": "EUR",
-   "jour_pct": 0.0,
-   "mois_pct": -23.1,
-   "volume": 110.61781835,
+   "jour_pct": -0.07,
+   "mois_pct": -23.14,
+   "volume": 110.71064851,
    "volume_relatif": 0.49,
    "capitalisation": null,
    "per": null,
@@ -1965,20 +1965,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "SZSE:300670",
-    "nom": "Jiangsu Daybright Intelligent Electric Co. Ltd. Class A",
-    "prix": 3.6,
-    "devise": "CNY",
-    "jour_pct": -20,
-    "mois_pct": -41.56,
-    "volume": 22759200,
-    "volume_relatif": 1.74,
-    "capitalisation": 1426142120,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:300469",
     "nom": "Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A",
     "prix": 28.28,
@@ -1991,6 +1977,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Technology Services"
+   },
+   {
+    "symbole": "SZSE:300670",
+    "nom": "Jiangsu Daybright Intelligent Electric Co. Ltd. Class A",
+    "prix": 3.6,
+    "devise": "CNY",
+    "jour_pct": -20,
+    "mois_pct": -41.56,
+    "volume": 22759200,
+    "volume_relatif": 1.74,
+    "capitalisation": 1426142120,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301049",
@@ -3385,20 +3385,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
-    "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
-    "capitalisation": 3326384161591,
-    "per": 14.3,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.63,
@@ -3409,6 +3395,20 @@
     "volume_relatif": 1.24,
     "capitalisation": 3326384161591,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
+    "devise": "USD",
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
+    "capitalisation": 3326384161591,
+    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Opinion | Roller-coaster fortnight for tech raises urgent questions about AI - South China Morning Post",
+   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdlY3RDlDb0hxUExoZjY0M1NGbE1pcWtjRDNQTVBNYmJWNkk0VjlYRXdZVzZRNzFpV3dTYS1IN0dBbGFkS2laZUJqNE9ZamMyUFVHMVdXeGFIVDc1bl94ZzJwYW0tMGh5UDNfaG51WGJpc0EwbV9pS2h1aGFxWUNPVjdoTmlud2gtaTQzdk5ucWxLa0diV0tCMzJKaGpsTHJSWk1fU1ZhYUxpTXdBYXlYQWtJUHZ6aFo1UU4zLUNzNGVBRVBsNnV4SEpZcmtZYzQ?oc=5",
+   "date": "Thu, 26 Nov 2026 21:30:06 GMT",
+   "vu_le": "2026-11-26T23:20:35.896927+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Prysmian secures notice to proceed on $997m Greek cable projects - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcHp5LVBiNFZmU29faVlHRHhFaXlpbkRVZXkxc2ppcVAtMlRBU0I4bFoxYkVHZHFpd205M0FXX2oyNnZoMkpsS0djTmlHR1NEX1R1bXd3SFlJVzFJN0hMZEFwQWcxZGVsZVNEX19vY0thUDE0RmJEZlBZT01MSDZZanhSNUhvb0w5ekE?oc=5",
+   "date": "Thu, 26 Nov 2026 10:05:32 GMT",
+   "vu_le": "2026-11-26T23:20:35.896927+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Sunrise Beverages joins forces with Northern Monk - The Morning Advertiser",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONDltUE91MFlpRExJbzdkekNMdGF4S2wta29ZWkZobndJQm5UVEhWa0dXTXFZZmVPLVZHRFdLVDg4WTBVeUpWUkRhT1BCa3J4NE50X0xKMTZ2V0lLT0xMdWEyZ3BFcUM1aWZuUjRJX0hwTml5TzU0TDkxOTVRQnR5Z0tDdnpNQzkwcDR3SHNxblg0ODlnb3JyNEZpUk0?oc=5",
+   "date": "Thu, 26 Nov 2026 10:00:17 GMT",
+   "vu_le": "2026-11-26T23:20:35.896927+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Is Lockheed Martin (NYSE:LMT) Building Momentum In Global Defense? - Kalkine Media",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ09xb2JQNmdkd05iUjlkVjdQeE5lMGY0ejlIeWtnU0N0OHdWbWxZT3FEbnUzRnEyWWJ2X21lNGtVWTd3Z0w1RFpGSk1nZGFySlR1d3JhOFByakZqNkU4MGFkWGhWbzBvcDJuUFRRZmdXNmVwdjZiajg5bjBQUUk5dU4wdDEwbGIweE9NRWJhVF84Z2hrN3BzdmNfMTJsYzhSUFBxYlJCZ2owZw?oc=5",
+   "date": "Thu, 26 Nov 2026 16:07:00 GMT",
+   "vu_le": "2026-11-26T23:20:35.896927+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Which Crypto Under 50 Cents Has the Best Path to $1? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2JPcGNRN3A3VE15Y1JwV0hiUURPek40TG9aWnF4R0VOdnNmTWYwMEVmeUdxbUJPcUIzSFg5ZjNjQlBZYUpHbEVPdldDc3NlcVdLV0JRMkc0RkhGTTNwVHZiUG9odW9rY0NuSjliUmtza2U1UV9VMElPUU91OFRYdXJWTmVydHVZRDFxWHlMelhiRUtqMHlfUjB2d1dsZklhS1pZQU1WUUE5d0NlM2c?oc=5",
+   "date": "Thu, 26 Nov 2026 23:12:00 GMT",
+   "vu_le": "2026-11-26T23:20:35.896927+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Anthropic, acteur clé de l'intelligence artificielle entre innovations logicielles et enjeux économiques - La Revue Tech",
@@ -6419,41 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUNBU0FwcHNfRU1SWDREcmVUY0pMUnhUZEVLZFRLOGVnaTUwOUd3VnZGeTF2eXlVM1lXZGxyTkNjTVNEVDc4eHBKNEVYaUNKNjgxLWRieVIyR0JHT19NYm1LbmhzS2o4OG1BR1hZZTRzeXBjYTB5dm8tNmRTTW1NZV9mQXZyMHR1ZWhpYTZpNzBya2EwVmMxeTBISVdpRUk?oc=5",
    "date": "Thu, 26 Nov 2026 08:10:51 GMT",
    "vu_le": "2026-11-26T10:40:35.939555+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Trump Tried to Cripple Huawei. Now It Is Central to China’s A.I. Push. - The New York Times",
-   "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TcDdtZ0tkZWZ4OE1nUFM2TDY0bVJFTGkwTzJVaEgyNVRqd2x1RExGWTZQem9jcWFpbEx6bDI0UGJhZjdtalR5alVFVXZlOGhiY0luVDg0OTRvbkplSXgyX2dKMjRQUFowMndaZEp3bTNIOHJHYzlUSFRn?oc=5",
-   "date": "Thu, 26 Nov 2026 10:01:56 GMT",
-   "vu_le": "2026-11-26T10:30:37.116540+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Telecom M&A: Here Are the Latest Deal Trends Worldwide - Bain & Company",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc3Rlbl9FZlhWbGVlXzlWdy1STk5CdGtFVllFOGZUQXdtSl80OEpJWG1seFc4QzA1YTNFYkpMbG9iOElERzJKblpZd0xOTVZpc2NXU2RmV1h0Q3FicDI1WUIzbHBidGdPWEUzSjdmODBaSDRKNjVhQmNMSGJLUklQSTVFcUowck13Y1VmcVFmMHFYMnFrb2IyWF9QR2FKYzNDZGc?oc=5",
-   "date": "Thu, 26 Nov 2026 09:39:14 GMT",
-   "vu_le": "2026-11-26T10:30:37.116540+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Inflection Point VII holders approve Elroy Air cargo-drone merger - MLQ.ai",
-   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYXY1VDBVbE9HZFUzOTRJTi1qbmhqaDIyUTVLWkJ2U3FoYXVwNFdWWWhvVUZvVUdmNWNyT1p2MFNBRGxfenFCVmR4dWgyMGxjOWxtaDFXV3F3YmJOTWMwYS1QbVk3ZGxGNGxzcEdZbXhrdHJmZWhFeUl6R1dWYkdWeF9VSE1FVTU0UWI5WTdYdw?oc=5",
-   "date": "Wed, 25 Nov 2026 23:48:33 GMT",
-   "vu_le": "2026-11-26T10:30:37.116540+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Smallcap Stock Surges as Board Announces Record Date for 1:5 Stock Split - FlipItMoney",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeEdNRHJJUV9pQS1BamtDQjlwa291MkwyMnVvb3FyYzU5U2JPc2Y1Z1U1ZXhNODR0NHlGbnA3ZHZxdE5NR3ZGN054ZDNoamhfNVVpOWt3bG5odkFQMjJzeVVCM1VBY04yM2ZzNUlweTRvUWd0cmxxRkVPR1ZQaS1VVkJaNEthdHFfdmtGeTBlbnRVOGhrMXRGYTViLU1XcDA?oc=5",
-   "date": "Thu, 26 Nov 2026 07:59:56 GMT",
-   "vu_le": "2026-11-26T10:30:37.116540+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "3 Indian Consumption Revival Stocks to Watch Amid Demand Revival - Equitymaster",
-   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95SzZITUZYeDdKLXpWb25LZ3NBcUpBdHRiNWR1SkE1ZkpUWWlhQ2xfNTRfQnRfU0hpZVFnT25JNUNWZVJrZXdKRS1RdDRtazlMTzJpb3FqSnlVRzhIYndfa3N6WkVqeEd2TjBIOWhnZWU?oc=5",
-   "date": "Thu, 26 Nov 2026 09:24:23 GMT",
-   "vu_le": "2026-11-26T10:30:37.116540+00:00"
   }
  ],
  "erreurs": []
