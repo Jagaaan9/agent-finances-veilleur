@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T22:40:36.591491+00:00",
+ "mis_a_jour": "2026-11-26T22:50:35.716307+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09707,
+   "prix": 1.09714,
    "devise": "USD",
-   "jour_pct": 0.01,
+   "jour_pct": 0.02,
    "mois_pct": -1.38,
-   "volume": 1133,
+   "volume": 1336,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55120.9,
+   "prix": 55211.84,
    "devise": "EUR",
-   "jour_pct": 0.12,
-   "mois_pct": -23.01,
-   "volume": 109.64578459,
+   "jour_pct": 0.29,
+   "mois_pct": -22.88,
+   "volume": 109.78659025,
    "volume_relatif": 0.49,
    "capitalisation": null,
    "per": null,
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
-    "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
-    "capitalisation": 3326384161591,
-    "per": 14.3,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.66,
@@ -3395,6 +3381,20 @@
     "volume_relatif": 0.87,
     "capitalisation": 3326384161591,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
+    "devise": "USD",
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
+    "capitalisation": 3326384161591,
+    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic Had the Biggest IPO Ever. Now It Just Looks Greedy - Inc.com",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaTVIbmYtZHdRbGNrSzBFQ0FRbGNIcnR0dWRfaGdiOTVmWlFfQ0EteXdud3EtZHNVNFBYaXhGb1NZaDFjcFlGTF8wS1RJV00waVJZM3JLQlJqeDlockdVUlJQVVB3emR3VXdXOWhCWHBkOUxUcldaT3RlckJyLXJRRVJPUmJOMl94UWVIZDNfMEZVSHR3cXZLbW9XMC0wdXd0?oc=5",
+   "date": "Thu, 26 Nov 2026 03:20:47 GMT",
+   "vu_le": "2026-11-26T22:50:35.716307+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls - Bloomberg",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb2FodVVwb3pGT0lXWmRnTUprN0ZBQVZyX1VXcGJOY2w1QzRaR2NLZ0ZIdFFKT3FhYkZHTkRJYVczbXRjYW1EVHgtc2JfS3dvem1NTkZTalBNMVlONTB2akJCSVNwRFdJZzNIMnQzbmdLeEUtSjRuUGpJYWFSZ2xPN1dtWnMzbkxHR1RzZFlhZ0x3LVZIQy1VVmx5TkVEc3Vzb1JSVDdiZHY2enppM0JIelp3?oc=5",
+   "date": "Thu, 26 Nov 2026 22:30:13 GMT",
+   "vu_le": "2026-11-26T22:50:35.716307+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Vaar Energi Buys ConocoPhillips Norway Assets in $4.43B Deal - News and Statistics - IndexBox",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3FCam9QbndfcGd0ZTl3WExMTS1YOElWby1sTXk0ZzlnUmhBb1BPMjc0OGhCSWZQeUZ0cjZ5X0VUbHg4UVRXUHc0cHFHQnpKQTJsczNqX2xLaXNlblJLVnhxV1l2dWZhaXMxOU5SY1YtRk83U0x3VU1TRGNrc1hCMzl3bExSWlhUdUFSRHJTUkltZ2cxQ3V5dXc1M0hDbGwxVXFaYQ?oc=5",
+   "date": "Thu, 26 Nov 2026 21:40:54 GMT",
+   "vu_le": "2026-11-26T22:50:35.716307+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Credo Technology Has Had a Wild Ride to a 25% Decline Year-to-Date: Two Wall Street Teams Target 190% Returns Moving Forward - 24/7 Wall St.",
@@ -6433,27 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWWcyVnZCT084UENvVkZIX190SExyNkl1NGxPeVNzUDh5eHFVM2VBYXM1VkFwak5IR3lqcEQ1aF9oQ09QWEJ4cGFOMlRxdmZ1am5ScHJQb2hrNlROTjFNUEF6SjF6NTFsZ2FQaUp2QXc1dGllWUhIQnNaelR0Qk9WNXlTaVhhYkZNeDk0cjh3b3ZvdE5RVnVwdGdJQV9iUlNxdFFNY3drMGFsN2dSQ3h0SFg2dXNQWDRyN3p0b1paM3Nfd2FXdndIXzZ6M1hsTlFpbm5vQ09Wekt2b2ZVbVpWUU1B?oc=5",
    "date": "Thu, 26 Nov 2026 09:55:30 GMT",
    "vu_le": "2026-11-26T10:10:36.405274+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Galaxy Digital withdrew its forecast that Bitcoin’s bear market is over: analysts say a drop to $28,200 is possible - Incrypted",
-   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQejVYVGlIT1BkdlJmeTEwQW1OV3ZsZDFKcFpHRXVlbGg4bHNIdUl2TFdZZUY5MFlKYksxTU5pbmNvQ1JJaGNCQjluYnJUX2xwY0tkdDlNQjF2eWwtVllFcVRXcmtXYTlzVFUtSFlOcFV1Z0dzVS1JLWt4NzZ5MmpGNjIyOU1aRFpiSzFmcWFlWWhkaGRhVFBPNFdtNG42X2dhWDgzV08tY2E1ZnYwRi1ocUlBZFp5RS1PT1NFT0ZpQVN4TThnMEROdl9GNjhRRmE2bHk2V3puOTh0dw?oc=5",
-   "date": "Thu, 26 Nov 2026 09:24:41 GMT",
-   "vu_le": "2026-11-26T10:10:36.405274+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028 - The Block",
-   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYjhCa2g5aU1GN255UHVKY0hmTGxlcW1paVdwbUwxczNBOU5sbHpDWlhnU0czSVdnZWtfaVZKeEpsTENLNzV2RjFTbVE3azFhVXBnc2twN2pNMm84b2dhSHVoS0x4eHJVQWpBc2ZUN3NZR1IxSmUtMDF3RVlYUm5OTzdkdUFGbHZjdDNGM18yV0NjTUdGSUtkaFJtTDZhZDdZdUZyWW5sNGpwd0ZqWmkyeFNtVERQX1ZXLXU3N1V0ZFJ6US0taFpLVEZn?oc=5",
-   "date": "Thu, 26 Nov 2026 09:40:00 GMT",
-   "vu_le": "2026-11-26T10:10:36.405274+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Bourses européennes : le CAC 40 et le DAX ouvrent en nette hausse - Le Revenu",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYy16Y0ZEMVM1XzZnWE0tWUdvaG00SmVYM29ldTB1S3ZTVnpXWnVKOEstTm5CVVF4Qi1vTHp2TzlCMEJXOWlCMWFyZzRqQV84OHFVQUt2U1ZKbEdlTEpDNHlmYy1SMmhUT3NvUGIycDQyYkVGZkRhUjlfbEMzR2stNGMxYTRmblpvRkowY1pGZlJMX3V0WjRfdmFIenBmdXhwMzNXZEhnUjlPRWZuWWx0ZkRfXzhmTE13c2Zwamh4RUNYQm5UVTd5X2ticGxHR3pPLW5uTjUtcl9RSjAwMUZZ?oc=5",
-   "date": "Thu, 26 Nov 2026 09:46:00 GMT",
-   "vu_le": "2026-11-26T10:00:44.880353+00:00"
   }
  ],
  "erreurs": []
