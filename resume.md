@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22226.89 HKD, jour 1.19 %, mois -4.44 %
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3565.49 USD, jour -0.67 %, mois -12.19 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.0970199999999999 USD, jour 0.01 %, mois -1.39 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55014.61 EUR, jour -0.07 %, mois -23.14 %
+- Gold (TVC:GOLD) : 3566.932 USD, jour -0.63 %, mois -12.15 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09701 USD, jour 0.01 %, mois -1.39 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55046.57 EUR, jour -0.01 %, mois -23.11 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -167,8 +167,8 @@ POSITIONS ET INDICES :
 
 ÉCRAN Chine continentale : plus fortes baisses :
 - Shenzhen Sunwin Intelligent Co., Ltd. Class A (SZSE:300044, secteur Technology Services) jour -20.09 %, mois -31.87 %, prix 3.42 CNY, capi 3421775011, PER None, volume x3.98 la normale
-- Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A (SZSE:300469, secteur Technology Services) jour -20 %, mois -42.29 %, prix 28.28 CNY, capi 8287818003, PER None, volume x2.05 la normale
 - Jiangsu Daybright Intelligent Electric Co. Ltd. Class A (SZSE:300670, secteur Producer Manufacturing) jour -20 %, mois -41.56 %, prix 3.6 CNY, capi 1426142120, PER None, volume x1.74 la normale
+- Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A (SZSE:300469, secteur Technology Services) jour -20 %, mois -42.29 %, prix 28.28 CNY, capi 8287818003, PER None, volume x2.05 la normale
 - Anhui Chaoyue Environmental Technology Co., Ltd. Class A (SZSE:301049, secteur Industrial Services) jour -17.33 %, mois -10.65 %, prix 16.27 CNY, capi 1854905643, PER None, volume x1.39 la normale
 - Piesat Information Technology Co., Ltd. Class A (SSE:688066, secteur Technology Services) jour -15.7 %, mois -49.2 %, prix 3.49 CNY, capi 1270373640, PER None, volume x1.76 la normale
 - Heren Health Co., Ltd. Class A (SZSE:300550, secteur Technology Services) jour -13.24 %, mois -8.91 %, prix 11.66 CNY, capi 3505429402, PER None, volume x2.19 la normale
@@ -286,9 +286,9 @@ POSITIONS ET INDICES :
 - Aroundtown SA (LSIN:0RUH, secteur Finance) jour 6.25 %, mois 20.24 %, prix 1.7585 EUR, capi 1522102628.632228, PER 7.3, volume x1.18 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3326384161590.9995, PER 14.1, volume x1.14 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1559025893850, PER 1.7, volume x0.54 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -0.11 %, mois -5.17 %, prix 316.74 USD, capi 841137764833, PER 13.3, volume x1.08 la normale
@@ -310,6 +310,9 @@ POSITIONS ET INDICES :
 - Beneteau SA (EURONEXT:BEN, secteur Consumer Durables) jour 3.84 %, mois 11.74 %, prix 5.14 EUR, capi 403167537, PER None, volume x1.03 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Banques centrales et taux] Les données de confiance font suite à un compte rendu de la BCE qui a laissé l’euro inchangé - www.tmgm.com
+- [Défense, énergie, matières premières] 3 Dividend Stocks That Could Benefit From the Black Friday Shopping Rush - 24/7 Wall St.
+- [Crypto] HYPE price on Nov 26, 2026 at 3pm EST Crypto Prediction Market - Robinhood
 - [Chine et Asie] Opinion | Roller-coaster fortnight for tech raises urgent questions about AI - South China Morning Post
 - [Rachats et fusions] Prysmian secures notice to proceed on $997m Greek cable projects - Yahoo Finance
 - [Rachats et fusions] Sunrise Beverages joins forces with Northern Monk - The Morning Advertiser
@@ -452,7 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] Le fonds de Leopold Aschenbrenner aurait perdu 65% au troisième trimestre - Boursorama
 - [Bourse de Paris et Europe] La Bourse de Paris en forte hausse jeudi... - Fortuneo
 - [Bourse de Paris et Europe] ARCELORMITTAL Cours Action MT, Cotation Bourse Euronext Amsterdam - Boursorama
-- [Résultats d'entreprises] Seagate Technology Got Hammered By Multiple Compression, Falling 40% in 3 Months: This Renowned Wall Street Desk Targets 185% Gains Following Earnings - 24/7 Wall St.
-- [Petites valeurs en croissance] Lumentum Surges 55% in a Year: Should You Buy, Sell, or Hold the Stock? - Yahoo Finance
-- [Petites valeurs en croissance] Lodha Developers Ltd Surges 5.06% to Day's High of Rs 125... - MarketsMojo
-- [A
+- [Résultats d'entreprises] Seagate Technology Got Hammered By Multiple Compression, F

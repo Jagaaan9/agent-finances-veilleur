@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T23:20:35.896927+00:00",
+ "mis_a_jour": "2026-11-26T23:30:36.419475+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3565.49,
+   "prix": 3566.932,
    "devise": "USD",
-   "jour_pct": -0.67,
-   "mois_pct": -12.19,
+   "jour_pct": -0.63,
+   "mois_pct": -12.15,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.0970199999999999,
+   "prix": 1.09701,
    "devise": "USD",
    "jour_pct": 0.01,
    "mois_pct": -1.39,
-   "volume": 2042,
+   "volume": 2169,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55014.61,
+   "prix": 55046.57,
    "devise": "EUR",
-   "jour_pct": -0.07,
-   "mois_pct": -23.14,
-   "volume": 110.71064851,
+   "jour_pct": -0.01,
+   "mois_pct": -23.11,
+   "volume": 110.75335292,
    "volume_relatif": 0.49,
    "capitalisation": null,
    "per": null,
@@ -1965,20 +1965,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "SZSE:300469",
-    "nom": "Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A",
-    "prix": 28.28,
-    "devise": "CNY",
-    "jour_pct": -20,
-    "mois_pct": -42.29,
-    "volume": 13526905,
-    "volume_relatif": 2.05,
-    "capitalisation": 8287818003,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "SZSE:300670",
     "nom": "Jiangsu Daybright Intelligent Electric Co. Ltd. Class A",
     "prix": 3.6,
@@ -1991,6 +1977,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:300469",
+    "nom": "Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A",
+    "prix": 28.28,
+    "devise": "CNY",
+    "jour_pct": -20,
+    "mois_pct": -42.29,
+    "volume": 13526905,
+    "volume_relatif": 2.05,
+    "capitalisation": 8287818003,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Technology Services"
    },
    {
     "symbole": "SZSE:301049",
@@ -3371,6 +3371,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
+    "devise": "USD",
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
+    "capitalisation": 3326384161591,
+    "per": 14.3,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.66,
@@ -3395,20 +3409,6 @@
     "volume_relatif": 1.24,
     "capitalisation": 3326384161591,
     "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
-    "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
-    "capitalisation": 3326384161591,
-    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les données de confiance font suite à un compte rendu de la BCE qui a laissé l’euro inchangé - www.tmgm.com",
+   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSzVfZ2d1Q1h5ZVp5X0tBYmhMSnZfOFktLUQ5VmpGT0lvUHJORkp1RVhJc2pRaE1qRzJQUXN4UEE2YkRxNWJoZHU4eklQaDBOV044RTBGVUNQal9IY29Od0tzLUNRUW5QV1FWcEQza0cwOGJkb3dWVHNBQXZEb3RHYktyV2RKc05KSF9CMWVPOFdoWEVpTE05dEhZak1nOWFTc0dtX1RYMGdaNHlXZl9vQ1BWQVByR0Uyc05tVnltMFFQRGpHRUE?oc=5",
+   "date": "Thu, 26 Nov 2026 21:12:33 GMT",
+   "vu_le": "2026-11-26T23:30:36.419475+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "3 Dividend Stocks That Could Benefit From the Black Friday Shopping Rush - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVmRqb2J1SmxDbnhKRDRqMHVSYWRBZHZFWnhxWmczWmR3R3RocVYwdHFRX2d6dUtQYnlkR0E2ZXlmVnZFR2tGNmpsejNtZmdpeTlkZi11Yk5BbUhLVGRUSjdrbWRvWURfb3JNcno5NW85WUh2S1ZGaVd0T21TRWw4YVhyS2lpTVBjeUxXeXgzZWRlY0wwcVBGcERnOVEwdlJUcV9WT1hGMGdkUnNzeTQwUEVfaUxYS2M?oc=5",
+   "date": "Thu, 26 Nov 2026 21:07:00 GMT",
+   "vu_le": "2026-11-26T23:30:36.419475+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "HYPE price on Nov 26, 2026 at 3pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZU5GdVlDdC1YcUN4UGNVbUlsaGdrVFJrcHVpTlFZdVBnVEFUemcxZFdFTmQ3NGdPakFkMWRJOUo1em9jakhleWNrSGE0bGloc0lVQ0tucVktT2IzRWdTTDIxUU5vUjBHTFdNM0ZDcFVSRmd5clJjS0FyTDdudWdlM0NQa0Uzb2V6ZEpDaGNBenBFMjcyRnlzdWRzWjR2X0U4MHo3RTNuTFFaWkFlT0dZ?oc=5",
+   "date": "Thu, 26 Nov 2026 19:08:40 GMT",
+   "vu_le": "2026-11-26T23:30:36.419475+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "Opinion | Roller-coaster fortnight for tech raises urgent questions about AI - South China Morning Post",
@@ -6432,27 +6453,6 @@
    "titre": "Anthropic’s Chip Choices Could Change the Nvidia Story. Here’s How. - The Globe and Mail",
    "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORGtFdm5Jc0FobmZyVy1jQ1RTc21HMWlWNGRiQUV2eG9lWFl4T3pNMHIxSFpRRmNDajBZekgweFVGU25IUURzSUJDN1JpNk01Xy1fRmVoMi1OQWM4QmxCTUNOemRRU0tZcVRZbE1lQUxUSi0yTHpIdGRpVk13NDVnWGRtN1FUdzFWMWdUVGRlRktKcUJUMnNuYlJ3amxXSUhIWmxVTkhpWW9JZ05RekJwWUlOVFR5bjYwTmVxR0lVMktWRWp3NS1ldFVoci1jcGZRemF0MWRVOXlkRW9xLWY5cA?oc=5",
    "date": "Thu, 26 Nov 2026 09:19:34 GMT",
-   "vu_le": "2026-11-26T10:40:35.939555+00:00"
-  },
-  {
-   "sujet": "Introductions en bourse",
-   "titre": "NSE becomes world's third largest listed exchange operator as shares scale fresh peak - - IndiaIPO",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVFRWDBFVDBUY3JoOThES3NQeXR5eGpLMHZ1dldIYnUxMkwtSUNFQUlHVVlRV1JZdlRJazQxTndPNjB6SDl2ZmkzWXh4YklmRmhnMzBEeDZWN0lsZXNFOTJRRkhWX0lqNTh0TzhsVmt1YzhpN3pqZ0NOTWJFTnFWR3hMVFhINHdXcDlURXhTeTR0UTV1dGNrTHJaS0R5aWhPNGFhbmVjR2pFakxqWlcxVlpkcEpfYllRY29jMg?oc=5",
-   "date": "Thu, 26 Nov 2026 10:33:33 GMT",
-   "vu_le": "2026-11-26T10:40:35.939555+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Learn Why The Bull Case For Agilysys (AGYS) Could Change Following Raised Guidance - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT1FWRVZ4c3lQdGFvMjNydzgweHpLMS1ERTZHVW5TTTlXdkN6eEdVbng5RDExZGZVQUJURlVCcTVRN0tRNjJFRERGUmU5OGxZbjg5R1k4c2VRcUV6eEY0LXo3Sk5nRzFoa3MwX0xDdWwzVUYzWGkxUnpqZFo5ZVc2c1k3WmM4aWd5X3RFVGRPbk9Tb0tFZE5ONw?oc=5",
-   "date": "Thu, 26 Nov 2026 08:08:41 GMT",
-   "vu_le": "2026-11-26T10:40:35.939555+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Copa Holdings And 2 Other Undervalued Stocks To Watch - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUNBU0FwcHNfRU1SWDREcmVUY0pMUnhUZEVLZFRLOGVnaTUwOUd3VnZGeTF2eXlVM1lXZGxyTkNjTVNEVDc4eHBKNEVYaUNKNjgxLWRieVIyR0JHT19NYm1LbmhzS2o4OG1BR1hZZTRzeXBjYTB5dm8tNmRTTW1NZV9mQXZyMHR1ZWhpYTZpNzBya2EwVmMxeTBISVdpRUk?oc=5",
-   "date": "Thu, 26 Nov 2026 08:10:51 GMT",
    "vu_le": "2026-11-26T10:40:35.939555+00:00"
   }
  ],
