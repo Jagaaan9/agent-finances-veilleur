@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T19:50:35.974695+00:00",
+ "mis_a_jour": "2026-11-26T20:00:36.942820+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09705,
+   "prix": 1.09717,
    "devise": "USD",
-   "jour_pct": -0.04,
-   "mois_pct": -1.82,
-   "volume": 118555,
+   "jour_pct": -0.03,
+   "mois_pct": -1.81,
+   "volume": 118878,
    "volume_relatif": 0.6,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55310.51,
+   "prix": 55291.25,
    "devise": "EUR",
-   "jour_pct": 0.47,
-   "mois_pct": -22.74,
-   "volume": 79.3185362,
+   "jour_pct": 0.43,
+   "mois_pct": -22.77,
+   "volume": 79.46932918,
    "volume_relatif": 0.35,
    "capitalisation": null,
    "per": null,
@@ -1001,12 +1001,12 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 39.71,
+    "prix": 39.76,
     "devise": "EUR",
-    "jour_pct": 11.11,
-    "mois_pct": 15.71,
-    "volume": 227754,
-    "volume_relatif": 28.81,
+    "jour_pct": 11.25,
+    "mois_pct": 15.85,
+    "volume": 229844,
+    "volume_relatif": 29.08,
     "capitalisation": 27042136113.301346,
     "per": 14.1,
     "bourse": "TRADEGATE",
@@ -1161,8 +1161,8 @@
     "devise": "EUR",
     "jour_pct": -4.6,
     "mois_pct": -10.31,
-    "volume": 387825,
-    "volume_relatif": 2.48,
+    "volume": 398342,
+    "volume_relatif": 2.55,
     "capitalisation": 36932545750,
     "per": 11.0,
     "bourse": "TRADEGATE",
@@ -1185,11 +1185,11 @@
    {
     "symbole": "GETTEX:BY6",
     "nom": "BYD Company Limited Class H",
-    "prix": 6.745,
+    "prix": 6.746,
     "devise": "EUR",
-    "jour_pct": -3.89,
-    "mois_pct": -15.94,
-    "volume": 107797,
+    "jour_pct": -3.88,
+    "mois_pct": -15.93,
+    "volume": 107906,
     "volume_relatif": 1.04,
     "capitalisation": 73345636860.1456,
     "per": 15.2,
@@ -1217,7 +1217,7 @@
     "devise": "EUR",
     "jour_pct": -2.55,
     "mois_pct": -10.0,
-    "volume": 4839940,
+    "volume": 4840263,
     "volume_relatif": 2.17,
     "capitalisation": 36932545750,
     "per": 11.0,
@@ -1225,30 +1225,30 @@
     "secteur": "Finance"
    },
    {
-    "symbole": "TRADEGATE:EVT",
-    "nom": "Evotec SE",
-    "prix": 2.536,
+    "symbole": "TRADEGATE:VUL",
+    "nom": "Vulcan Energy Resources Ltd.",
+    "prix": 0.573,
     "devise": "EUR",
-    "jour_pct": -2.54,
-    "mois_pct": -10.33,
-    "volume": 335167,
-    "volume_relatif": 1.07,
-    "capitalisation": 452677781,
+    "jour_pct": -2.47,
+    "mois_pct": -23.75,
+    "volume": 362102,
+    "volume_relatif": 0.84,
+    "capitalisation": 281820741.35834974,
     "per": null,
     "bourse": "TRADEGATE",
-    "secteur": "Commercial Services"
+    "secteur": "Non-Energy Minerals"
    }
   ],
   "Allemagne : volumes anormaux": [
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 39.71,
+    "prix": 39.76,
     "devise": "EUR",
-    "jour_pct": 11.11,
-    "mois_pct": 15.71,
-    "volume": 227754,
-    "volume_relatif": 28.81,
+    "jour_pct": 11.25,
+    "mois_pct": 15.85,
+    "volume": 229844,
+    "volume_relatif": 29.08,
     "capitalisation": 27042136113.301346,
     "per": 14.1,
     "bourse": "TRADEGATE",
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.63,
-    "devise": "USD",
-    "jour_pct": -1.48,
-    "mois_pct": -12.27,
-    "volume": 1550645,
-    "volume_relatif": 1.24,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.66,
@@ -3409,6 +3395,20 @@
     "volume_relatif": 1.11,
     "capitalisation": 3326384161591,
     "per": 14.3,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.63,
+    "devise": "USD",
+    "jour_pct": -1.48,
+    "mois_pct": -12.27,
+    "volume": 1550645,
+    "volume_relatif": 1.24,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic Stock Is Now Trading as ANT. Should You Buy Today or Wait? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT2Y3Q21iQmpWbjd1T1hIQjYyaXgySjhyYk5aOU1KWjMzMXpJTmhUYlRLSjNHZGZETVM4V1Z5bGFvZi11a09RUDZGVDFaaHlSZVBnaHBTVzdNTHhZaVlKcy1pY25hcC0xUTNVcGFJRU1XRWZFTEpQNVF3amFGZVkxVExoZ3Fsdkx1bkZ4ZENUbmNEU1FKX184M2V5MG8?oc=5",
+   "date": "Thu, 26 Nov 2026 19:50:02 GMT",
+   "vu_le": "2026-11-26T20:00:36.942820+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "Should You Buy Anthropic Stock After Its IPO? Here’s What History Says About Record-Breaking Debuts. - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQMTREelhKS0IzWUNvc3pEMFVZOWNVbGpSQkp5V3JPQ01vcDlSZWxvSDE0ZUxQcWZuMk45cnc3X0FGbnVETGk3b1YwTXV4SVdvMlFqMVB2dF8wU1c3d0pjVllkNTZoR01CMnItZnNjM2hNWXBHN3BTUnI2X3NNdjBWOU5Oc0RkOXUtUm9BMGV4VU5kczR6c0xlQWlfU29kNE9JNjBUdTlScVZFeUZydFpsa05KQU1jOUVaREpwSTNhRWxoRDB3NVhRQTg4LUt4bUtYU01wcWRYQVJ5Wm1acGlwdENjRVhKa0oyT2ZwM09zTTlYTlp0OGNZdUw2UDlIUFk0aXpZVngxbzgwOWQ2ZDVvRGtn?oc=5",
+   "date": "Thu, 26 Nov 2026 11:31:55 GMT",
+   "vu_le": "2026-11-26T20:00:36.942820+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "L’émission obligataire potentielle d’Anthropic pourrait, selon des informations, être classée comme spéculative — voici quand les parieurs crypto pensent qu’elle pourrait faire faillite - Yahoo Finance France",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRTdMR29jVlNWZmJJQk9McGoyMlo0SEZhcXNwaFU1b01MSEVNRjk0RUF4S1FrX1hlaHJxMXcteU1fcXFnZFZvU0gtaDIyMDZxOXpEdjRSOENiUWxZcGN0VC13M0tfTFhrUGFsOVpDb0FBR3BlRWNrN09vTWVZaldvOVltYXNyZ29hMHl0YU00MUlxckRkQUpIcXJ4M0Q?oc=5",
+   "date": "Thu, 26 Nov 2026 07:20:08 GMT",
+   "vu_le": "2026-11-26T20:00:36.942820+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Altria weighs Imperial Brands bid. The shares aren't waiting. - Digg",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRVldDdnIzbmt3RFlhUFBBbGlsWTdVRk82M2dfcDJXZFhTcGYyYWhQTnZ3VE1Gdi1sbDFEeHAxMU0za0tUbUlFcVMydnRnNmx1eVE?oc=5",
+   "date": "Thu, 26 Nov 2026 13:08:04 GMT",
+   "vu_le": "2026-11-26T20:00:36.942820+00:00"
+  },
   {
    "sujet": "Résultats d'entreprises",
    "titre": "Tullow Oil Output Set to Beat Guidance, Shares Rise 5.8% - AskTraders.com",
@@ -6425,34 +6453,6 @@
    "titre": "CAC 40 : La Bourse de Paris attendue en nette hausse à l'ouverture, la pression vendeuse sur la tech s'atténue - Zonebourse Suisse",
    "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVG1Mb19idURkeU16ZWpUQWZZN3hVTE1FbmwtSkRVaDF6bVU1OEx4alAwMDkzdUpnVlhjTUVLbFViWURIRDB2SWtTazN3d21KemZzaFNpQzE0cHpnOVJuRUN0OExkUnRlZVQzcm9WSWsxVVlBb09KZ1ptaUtydGVVS3p5SnJlZ0UwaFZMaU04a2NqZW1vOGw1c2VqN0xiMzMzMDJlM09oZi1WSldubDljUVhTN2FKT3h5Nmg0WWZ4NE9PNG1sY3RyX0ZHdTl2d0ZMZHpWQWxiZENBWjBtcWYxYlVOVXp5STNQbTBjMVln?oc=5",
    "date": "Thu, 26 Nov 2026 07:46:39 GMT",
-   "vu_le": "2026-11-26T07:50:35.728324+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Le Nikkei finit en hausse de 0,86% - Investir Les Echos",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUExhMlZvWU9TaDZ6WTREYk1tb2dzVno3SEZDN1ZNRWl2RG40RG01NElWVkMwQi0tcHBLZ056LVJrTEZYbk9NZENOQm9HQl9taThYcUEzX2duMndyQ1QxY1BJWGVwVE9oMHR6Rkcxck95SXdzNkhDUnNtNjItME91OEJpMTFvQlRhVV9ZaWNQUzhIZVlqZTh4dDdORTRXbmszT0wwME9n?oc=5",
-   "date": "Thu, 26 Nov 2026 06:35:37 GMT",
-   "vu_le": "2026-11-26T07:50:35.728324+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "US chip curbs, distillation crackdown threaten Chinese AI model development, sources say - marketscreener.com",
-   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVWJaaGQtaS15RmxpZHU4VFRpemhEaDNIYnI5YXRSY2ZJUXlDX29OZEtqeFRFUHIzbnVndE1POWVQRUFhM1FtZ2o5bmNhWUsxbTZwbUNkRVVROTVtb1plcjAzYkc5Z2tpVDVsUm9fb2xSRFJ2MDJnSmpVM0tzcFhXTlFSOEhnaUVqR19aeHZmdmxWSlJUWllYOWRiLXZyV3NHb1lwODNSSk1Fc0FRS0ZRdG9mX3QzVWEwc3FjREZRSXprTUlLY1NocEFTVHZzWmRzMFM1cmRR?oc=5",
-   "date": "Thu, 26 Nov 2026 07:22:16 GMT",
-   "vu_le": "2026-11-26T07:50:35.728324+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "UniCredit secures final Polish approval for Commerzbank takeover bid - AOL.co.uk",
-   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0FNT3Y5RWxORlF6UVRRVlJub3NZQVRZVWZxZGdVLXBwcTZnMTRvRWIyUmZqa1JpdTVPRThsVFhxZW9QWGhlSEVFd2tMb1dEaDdVZ3I2TkRIZEtGc0FRcnRCRHNncWlWVWdNYkJJS1VLMjc0cHppTUVsZURJSENrdzlZR09FdEdSVjdSc1Vn?oc=5",
-   "date": "Thu, 26 Nov 2026 07:37:00 GMT",
-   "vu_le": "2026-11-26T07:50:35.728324+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Halfords raises FY profit outlook to up to £65 mln as hot summer lifts H1 earnings - Investing.com Australia",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT05uOVNCQ2RxMGhXeUdXRHd4azl5WU8yY2lJRUtoWjFocWhOTk95RHFlQmNpQVNtQnEwSm4ycDhpZmhtUDYtN3pfOUptRHBqZnVZeW5jeEFuOFY2MFJFU3diaGg0SmJ1bW1HV2dKZXhxVERacUUtZ3ZzT1c4OHg3VU9yQ2M5ck5LUTBmLUhmWnE3OUV4cUluQ2hoX0swaEtRZDVGRDA0UW83M3pBMEZoUTBIWTl4M29zUE93amk5TXg3YTFoeWhz?oc=5",
-   "date": "Thu, 26 Nov 2026 07:34:32 GMT",
    "vu_le": "2026-11-26T07:50:35.728324+00:00"
   }
  ],
