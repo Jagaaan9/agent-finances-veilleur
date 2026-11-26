@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T19:20:35.785024+00:00",
+ "mis_a_jour": "2026-11-26T19:30:35.084588+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,7 +146,7 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3566.534,
+   "prix": 3566.392,
    "devise": "USD",
    "jour_pct": -0.64,
    "mois_pct": -11.23,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09696,
+   "prix": 1.09692,
    "devise": "USD",
    "jour_pct": -0.05,
    "mois_pct": -1.83,
-   "volume": 118197,
+   "volume": 118340,
    "volume_relatif": 0.6,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55188.74,
+   "prix": 55227.14,
    "devise": "EUR",
-   "jour_pct": 0.25,
-   "mois_pct": -22.91,
-   "volume": 78.1156957,
+   "jour_pct": 0.32,
+   "mois_pct": -22.86,
+   "volume": 78.56644137,
    "volume_relatif": 0.35,
    "capitalisation": null,
    "per": null,
@@ -1001,12 +1001,12 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 39.91,
+    "prix": 39.9,
     "devise": "EUR",
-    "jour_pct": 11.67,
-    "mois_pct": 16.29,
-    "volume": 222003,
-    "volume_relatif": 28.08,
+    "jour_pct": 11.64,
+    "mois_pct": 16.26,
+    "volume": 224119,
+    "volume_relatif": 28.35,
     "capitalisation": 27042136113.301346,
     "per": 14.1,
     "bourse": "TRADEGATE",
@@ -1147,7 +1147,7 @@
     "devise": "EUR",
     "jour_pct": -7.17,
     "mois_pct": -22.23,
-    "volume": 121267,
+    "volume": 121317,
     "volume_relatif": 3.49,
     "capitalisation": 270747728,
     "per": 22.1,
@@ -1157,12 +1157,12 @@
    {
     "symbole": "TRADEGATE:CBK",
     "nom": "Commerzbank AG",
-    "prix": 33.02,
+    "prix": 33.12,
     "devise": "EUR",
-    "jour_pct": -5.17,
-    "mois_pct": -10.85,
-    "volume": 371105,
-    "volume_relatif": 2.37,
+    "jour_pct": -4.88,
+    "mois_pct": -10.58,
+    "volume": 383680,
+    "volume_relatif": 2.45,
     "capitalisation": 36932545750,
     "per": 10.9,
     "bourse": "TRADEGATE",
@@ -1189,8 +1189,8 @@
     "devise": "EUR",
     "jour_pct": -3.96,
     "mois_pct": -16.0,
-    "volume": 107108,
-    "volume_relatif": 1.03,
+    "volume": 107608,
+    "volume_relatif": 1.04,
     "capitalisation": 73345636860.1456,
     "per": 15.2,
     "bourse": "GETTEX",
@@ -1257,12 +1257,12 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 39.91,
+    "prix": 39.9,
     "devise": "EUR",
-    "jour_pct": 11.67,
-    "mois_pct": 16.29,
-    "volume": 222003,
-    "volume_relatif": 28.08,
+    "jour_pct": 11.64,
+    "mois_pct": 16.26,
+    "volume": 224119,
+    "volume_relatif": 28.35,
     "capitalisation": 27042136113.301346,
     "per": 14.1,
     "bourse": "TRADEGATE",
@@ -1965,20 +1965,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "SZSE:300469",
-    "nom": "Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A",
-    "prix": 28.28,
-    "devise": "CNY",
-    "jour_pct": -20,
-    "mois_pct": -42.29,
-    "volume": 13526905,
-    "volume_relatif": 2.05,
-    "capitalisation": 8287818003,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "SZSE:300670",
     "nom": "Jiangsu Daybright Intelligent Electric Co. Ltd. Class A",
     "prix": 3.6,
@@ -1991,6 +1977,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:300469",
+    "nom": "Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A",
+    "prix": 28.28,
+    "devise": "CNY",
+    "jour_pct": -20,
+    "mois_pct": -42.29,
+    "volume": 13526905,
+    "volume_relatif": 2.05,
+    "capitalisation": 8287818003,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Technology Services"
    },
    {
     "symbole": "SZSE:301049",
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "I'd Buy Anthropic Stock Early — but Only If I Liked the Answers to These 3 Questions - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQzRmWmJnREs3SkdRWmF0U1dOaHdhd2hrUXdLeEZzWlc5RHQ3NWwzcnhOeG5hOEtfaUFxTkQ2TWNEWU1zZnY5Vm9HVHhHeWkzQ1E3UGNPRHg4YVRTUW9FUmtQTWc2M1doczJRaE0xVl9fcFlnZU1pZEVZRHlEQjI0enIxUUNwNFl1RjBTdUtCVE9aRk53UkJtZGpFc0ZkR3JoaDN3S0Q2ZlY4OTU1ekY2d0xZMmJwcU1PY21F?oc=5",
+   "date": "Thu, 26 Nov 2026 19:17:02 GMT",
+   "vu_le": "2026-11-26T19:30:35.084588+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Les entreprises technologiques sont à l'avant-garde de la vague mondiale des introductions en bourse. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSXBWSEdvTGlKYWdyNlRXMXdmRUZTY0RkbnpCV29yTnNSb1FJOGU2Z3dYX0UxQ0VEV3BlOGNSY0ppNnFXNFpuTDdZdUNWRWE4YjhETnBaX0VrVjVWdDZyak8xcXc3emhQR0w0RFlyQjdBNXVYLWpkSDViSlVZQV81d0Jhck4?oc=5",
+   "date": "Thu, 26 Nov 2026 07:44:32 GMT",
+   "vu_le": "2026-11-26T19:30:35.084588+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Le cours de l’or marque le pas près de 3 570 $, les anticipations de hausse des taux de la Fed freinant les acheteurs - www.tmgm.com",
+   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWjVNZy1wNFFuUVU4YnU1QXBMX0lvMzhLR0hUTV9JQ19rWnZrRjFMSFNhbGFtcHdiSUhMV2ZNTjZRekhTTlN2Vi1aS1U5NlpVQldpaGc3Y0FIQ2dZRlg1MnctTkVxa0VWVWxLTGJ0V3c5VVhqbHBJXzM5TmtqTWRLMjNOZExRakRJc0FSRWdGS21MSHRhUllpUi1IVnVxcFZsX0Vtb0ZmUm5lYnRMSVU2d0hCZFRxSnI0QjVUc19hTWlDbnFPZGVCVg?oc=5",
+   "date": "Thu, 26 Nov 2026 19:23:13 GMT",
+   "vu_le": "2026-11-26T19:30:35.084588+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Defence stocks: ₹3.7 lk cr order pipeline, 20% capex boost–3 stocks Motilal Oswal prefers - The Financial Express",
+   "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRzFKN1pZZDhscE5KR04yS2V5TGxxTnY3WnNtUGNaajFxdTI3QTM2bnVBSXFDTG1TcUhQd2lVenhGNjU3UVUtckxCZFNmallBQkc5SFhZcFNXbEFCQkZNWVlTdElsVW4tb21CNkpoS0hhOThySGxQdjJYSmtYU1Z0T1RNVl9ZcmU4b2F0YWFYT2ZyeE8yUnFZb2dObnhhYV90VDQ2czgwMVdGZTBBWGdreUdVWnNUTDF2WHYtaUlZZkk2Z1RfLXRlTHEwcW9ia3NKRWsteEZiOGtZUTJjdHluWXhOZmtmeWsybUxIeWdaWdIB9gFBVV95cUxQUmlSU1MzVkhnMnZyQmFOWFB4dUhCbmhRQjI4YlJzT0JtTFpuUUFRaG1ZVXFVTkdGRW10V0dTSDVxQ0JRRGpLVElpVGVadVIyQnRMaHFFMV9jb0pmc0Y5ekV3RTZkbFIyMnA3ZVFvNkpHWXg2Vl94dTFCREhmR0hSbkd0dlpuT21wMGRIcjU1VzZuQndBTk00Y3JOaXZLc25pYlJ2ZDI4NlRyQm5kMW1jVU16bGRFM08tV19qaktwczNIZzFkNkVMd01nVlZ4MEp6N1dmRjdmTW1zMGk3THpjM2tLZzNnN1REUkt0eHpGdnFLcnNkbUE?oc=5",
+   "date": "Thu, 26 Nov 2026 08:17:45 GMT",
+   "vu_le": "2026-11-26T19:30:35.084588+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "HAL, BEL, Mazagon, GRSE, Cochin Shipyard, Azad, Apollo Micro: Defence stocks to buy; check targets - Business Today",
+   "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZmszNFFHOWFCdWZ1WEVpRXlHeklKb29xOHBLa09iZFdoVEpxSUlXU0Z4RDVucGw4S3ZabVZ2US1lUjdZMThoX2VHc1hBVy05WW5KTUZlRWg1OWhxMUY1blFZaW5obWpUbkRvYndEbllXVWlDeHNybTRnX1hWaWZZNjRhb05XclVjSXMyYm81TTBhUXBnTkRlcmJtVTJSQmFLTGQwdjRVbHdqZ3NVRFZWRC0xVVI0djRTUjVNMk1xbjQ3U1NEY2V1RjdtenNsMFY5WDBIb3VZSk9aV0RBYkVOVE4zWW1MVnBCVEwxUFFtcXNScDJnWmRyNGlJb9IBgAJBVV95cUxPdGRVekhCZGJjVkM4QTVuVy1OVGI3M1BHdU9wMDBrSHk2NlVOSnRkc2wxS3hfVDlUc3pFOW1iaHR3TFZjV2xSU2o0NGgtNnFzc3FsYml3ZUcwWE5xbW5icDVPc2lRZHFjSFZ0NVdnbkFYT2lZMXBKdnR1NXozTkQ3NmtzVjZTd0FaX0hkRllRT3dVN0pyeVVnd09GRHR0TmNmaFBDQmVEakkyNjVKWWNTRXNvbEtSSzdLb0xYb0hoTWNjczBTcFBOclVQa3Z1Wk9KbmJ4clp3RDlVM2dkS0N1V1lLSEpsaXRXNkhGNDZheTNRejVYNkEyTmNFd3k4QzRp?oc=5",
+   "date": "Thu, 26 Nov 2026 09:08:05 GMT",
+   "vu_le": "2026-11-26T19:30:35.084588+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Les nouveaux millionnaires d’Anthropic enflamment le marché immobilier déjà en surchauffe de San Francisco - l'Opinion",
@@ -6418,41 +6453,6 @@
    "titre": "Asian stocks rally as Taiwan, South Korea rebound; Nvidia risks linger - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZTg1RXZycGhUQmkwZHktZldudjV3eWZIblQxRWZJZWlsQlFyYktSS18wZXg4WmQySnhwU25YNmNnNXJxS0p6NkJVbkpmeFY0bjVyV0ZGUXJRNWtubWhxYmdGd1VrdXNQV0twYzV5b1d6XzhBTnRtOGliT09hWnhUMWlHTGRiN1pwb1g1WW00OW9jckFFOHdTWFNDaTl2cjdSQmV6QUdR?oc=5",
    "date": "Thu, 26 Nov 2026 05:31:00 GMT",
-   "vu_le": "2026-11-26T07:30:35.593066+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Chinese AI trade pulls back after Wall Street volatility, Anthropic’s rocky IPO - South China Morning Post",
-   "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVDZwaFk0NnQ4THdWSTlDUmZTVlpSMXB0T1JDZmdWa0pfQnRTY3RnMklqalFLa0wyS01hLTFFZ1ZTTmUyVU9ReEd1RktKOEpVNE1YSnRDVXBueGJ4cU1xcU9QT2VUWkZHY3k0LXpGY2FtakFwMnZ5eGw5TU9TMnlJS2NwVjZ5WU9JbTlSQ3JrNV81bmpKZmY5QmE1SHdvR2tpUV9waEVlX3p3R19Va2N5bzFRaE4wMkg4SGZJLVU0a0NyU2lXMHh1VGZlU05Jd0dHbnlxbWtfYklrOTk0N21BVVFFZWNIU3NURWRxYVM3d2hIN2N4YUs4X1c2V3pIWGtGb0NBdTNLWQ?oc=5",
-   "date": "Thu, 26 Nov 2026 06:00:07 GMT",
-   "vu_le": "2026-11-26T07:30:35.593066+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Asian stocks enjoy another bounce as tech holds court - The Straits Times",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOUlDOUM5UmdoNFN5VlJjUHNrM1RRMHZaOElkQkR5cDVMY2lqWU53eVZyZjlIOS04TkI4SDJiTGY1RFFNR0FKczF0dzNPdG82c2lXTU1LUlJWbHdqLUR6RFV3d2w3X2VjM1NOaTc4TVpCVGhtdzJOUWU4X3NyU0xGQjVETzVwSDJjT0xQOVJJTF91dVZOdWc?oc=5",
-   "date": "Thu, 26 Nov 2026 05:20:00 GMT",
-   "vu_le": "2026-11-26T07:30:35.593066+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "McKesson (MCK) Earnings Beat Keeps Fair Value In Focus - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzU1bnRib3liX2lHXy1jc01jQ0czZ2w1RWJ4cmN0MWNwM1RtOFhrMlBoUDhfOHFOS0ZKVUF0Y2VFaGF4aWphdEt0YlF4OGJLcDJUQ1dDMTNZZlVrdkIwdGdYMHFuc3lBYUVZNTBuYTNfeG1sa2hTZ0kxUF94WjhOV2lGbWk1aDEzR0s4MGRLbUN0Yk1rVnpKNUZVRzdJa3ZQUk9QNWczUWpVamxtdDFsenZ4bTlpWk93MGfSAb8BQVVfeXFMUGVicUxJOXBzaWVjY2E1WS1GN3FSSFlyOVg1VDBFeFVTOVpIdElwZThMSXlublRvLW9iZjQzbkdZOXFzRC02UFFOalk4eXk5S0FGWTZ2aDhuTW11b3ZNRDNFb3J4WFBRSFY3eEFHRDRFT2NZM3pDMWpSUkVLLVNhU2k1MGFsUlVjRFBrSnZtRmR4SnRHeS01eWpBOWZUWmN0dXZKdDhURVZvMWtOZTVTbDVaZkQ1cE9VQU5hYU0tUzg?oc=5",
-   "date": "Thu, 26 Nov 2026 07:10:25 GMT",
-   "vu_le": "2026-11-26T07:30:35.593066+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "LG Electronics India falls 3% as parent launches ₹2,320-cr stake sale - Business Standard",
-   "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmtDN0wtaHlZTkNSLTRHeERLUU5CSTU4RG13Smc0SVdydGp5bjVob013NHFCS0RLaTJhbklDWE9mUHlfVU9TblJHMlpHRFQtMXpHWXVBRV8xR3FDMGx4cnRvbXRUVjY0X0ZoRUxNM1dlSDd2R2N6REJuVmFEcG0tSEhZc1l4Tkw3Qm1Rc21WR3RicFVqNWF1Mi10UklPcndxX2ViVjZXTGJQaFdjLWgxaXVQVWxrcUpjX3NBSEtHNTctemc0cU4yb0xNMGY3MWPSAdQBQVVfeXFMTmFtU0p1WW5CVUJlemVxVDROSkdhaEdET1hUR0s3TUxvYjd1WmgzMG1LbGhwYVBnal9yRlJ2V0pQQTZCS1RXa014QXNqN2YxcnBUcjdDNVZXc1Jxelc5WDlDbF9NbGVGTXlmdE9qdzkyckN3LWwzb1otV2V4OVRoVURETkl0ajFPdzZwMmpjazhabmY4QlBOdURnLVV5NTRJY2d1cUU3ZHVqYXd6ZzZHZmR3dFhZUWVpdGUtRWdoZzBHN3RuMW1UTzJwWHl4RFgtSUp5RkM?oc=5",
-   "date": "Thu, 26 Nov 2026 03:58:00 GMT",
-   "vu_le": "2026-11-26T07:30:35.593066+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Ukraine Crypto Regulation and Tax Bill Passes With 271 Votes - Bitcoin Foundation",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUFZSemFTUXpNdEhQS29NdDAzWEIwZ1o5d0c5MDFmRG9QYWRUWVo1SXVWU1F1MHAxNnZnSXNqMFlRc1RqSW9HcDluUGZELWxLV082b3RQY2RaUlhXcFo1SURtd3ZmNTV1X1BlamZWTGhVa0FGWG9iZWh6MHpUelAyanNsSkVtVmlGOWYzSDNkWDZWVERCdDlmb2FNaE1wQzRBNzh6RDFPOXM?oc=5",
-   "date": "Thu, 26 Nov 2026 07:13:41 GMT",
    "vu_le": "2026-11-26T07:30:35.593066+00:00"
   }
  ],
