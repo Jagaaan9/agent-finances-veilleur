@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T18:40:36.365510+00:00",
+ "mis_a_jour": "2026-11-26T18:50:41.062614+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3568.78,
+   "prix": 3568.674,
    "devise": "USD",
    "jour_pct": -0.58,
-   "mois_pct": -11.17,
+   "mois_pct": -11.18,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09691,
+   "prix": 1.0970199999999999,
    "devise": "USD",
-   "jour_pct": -0.05,
-   "mois_pct": -1.83,
-   "volume": 117589,
+   "jour_pct": -0.04,
+   "mois_pct": -1.82,
+   "volume": 117759,
    "volume_relatif": 0.59,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55191.96,
+   "prix": 55170.97,
    "devise": "EUR",
-   "jour_pct": 0.25,
-   "mois_pct": -22.91,
-   "volume": 77.68545491,
+   "jour_pct": 0.21,
+   "mois_pct": -22.94,
+   "volume": 77.74974379,
    "volume_relatif": 0.35,
    "capitalisation": null,
    "per": null,
@@ -1001,14 +1001,14 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 40.25,
+    "prix": 40.14,
     "devise": "EUR",
-    "jour_pct": 12.62,
-    "mois_pct": 17.28,
-    "volume": 212348,
-    "volume_relatif": 26.86,
+    "jour_pct": 12.31,
+    "mois_pct": 16.96,
+    "volume": 215980,
+    "volume_relatif": 27.32,
     "capitalisation": 27042136113.301346,
-    "per": 14.3,
+    "per": 14.2,
     "bourse": "TRADEGATE",
     "secteur": "Consumer Non-Durables"
    },
@@ -1119,7 +1119,7 @@
     "devise": "EUR",
     "jour_pct": -8.07,
     "mois_pct": -26.34,
-    "volume": 113498,
+    "volume": 113548,
     "volume_relatif": 6.4,
     "capitalisation": 1067197467.6652814,
     "per": 5.2,
@@ -1155,6 +1155,20 @@
     "secteur": "Utilities"
    },
    {
+    "symbole": "TRADEGATE:CBK",
+    "nom": "Commerzbank AG",
+    "prix": 33.18,
+    "devise": "EUR",
+    "jour_pct": -4.71,
+    "mois_pct": -10.42,
+    "volume": 358808,
+    "volume_relatif": 2.29,
+    "capitalisation": 36932545750,
+    "per": 11.0,
+    "bourse": "TRADEGATE",
+    "secteur": "Finance"
+   },
+   {
     "symbole": "LS:A0LB2X",
     "nom": "NagaCorp Ltd.",
     "prix": 0.233,
@@ -1169,46 +1183,18 @@
     "secteur": "Consumer Services"
    },
    {
-    "symbole": "TRADEGATE:CBK",
-    "nom": "Commerzbank AG",
-    "prix": 33.26,
-    "devise": "EUR",
-    "jour_pct": -4.48,
-    "mois_pct": -10.21,
-    "volume": 358203,
-    "volume_relatif": 2.29,
-    "capitalisation": 36932545750,
-    "per": 11.0,
-    "bourse": "TRADEGATE",
-    "secteur": "Finance"
-   },
-   {
     "symbole": "GETTEX:BY6",
     "nom": "BYD Company Limited Class H",
     "prix": 6.73,
     "devise": "EUR",
     "jour_pct": -4.1,
     "mois_pct": -16.13,
-    "volume": 102495,
+    "volume": 102570,
     "volume_relatif": 0.99,
     "capitalisation": 73345636860.1456,
     "per": 15.2,
     "bourse": "GETTEX",
     "secteur": "Producer Manufacturing"
-   },
-   {
-    "symbole": "TRADEGATE:EVT",
-    "nom": "Evotec SE",
-    "prix": 2.5,
-    "devise": "EUR",
-    "jour_pct": -3.92,
-    "mois_pct": -11.6,
-    "volume": 327642,
-    "volume_relatif": 1.04,
-    "capitalisation": 452677781,
-    "per": null,
-    "bourse": "TRADEGATE",
-    "secteur": "Commercial Services"
    },
    {
     "symbole": "TRADEGATE:E3B",
@@ -1227,16 +1213,30 @@
    {
     "symbole": "SWB:PLUN",
     "nom": "Plug Power Inc.",
-    "prix": 0.9351,
+    "prix": 0.9352,
     "devise": "EUR",
-    "jour_pct": -3.0,
-    "mois_pct": -23.37,
+    "jour_pct": -2.99,
+    "mois_pct": -23.36,
     "volume": 129734,
     "volume_relatif": 1.62,
     "capitalisation": 1357719611.2204726,
     "per": null,
     "bourse": "SWB",
     "secteur": "Electronic Technology"
+   },
+   {
+    "symbole": "XETR:CBK",
+    "nom": "Commerzbank AG",
+    "prix": 33.3,
+    "devise": "EUR",
+    "jour_pct": -2.55,
+    "mois_pct": -10.0,
+    "volume": 4830324,
+    "volume_relatif": 2.16,
+    "capitalisation": 36932545750,
+    "per": 11.0,
+    "bourse": "XETR",
+    "secteur": "Finance"
    }
   ],
   "Allemagne : volumes anormaux": [
@@ -1257,14 +1257,14 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 40.25,
+    "prix": 40.14,
     "devise": "EUR",
-    "jour_pct": 12.62,
-    "mois_pct": 17.28,
-    "volume": 212348,
-    "volume_relatif": 26.86,
+    "jour_pct": 12.31,
+    "mois_pct": 16.96,
+    "volume": 215980,
+    "volume_relatif": 27.32,
     "capitalisation": 27042136113.301346,
-    "per": 14.3,
+    "per": 14.2,
     "bourse": "TRADEGATE",
     "secteur": "Consumer Non-Durables"
    },
@@ -1313,10 +1313,10 @@
    {
     "symbole": "SWB:8JO1",
     "nom": "Volvo Car AB Class B",
-    "prix": 0.9154,
+    "prix": 0.915,
     "devise": "EUR",
-    "jour_pct": 2.23,
-    "mois_pct": -7.14,
+    "jour_pct": 2.19,
+    "mois_pct": -7.18,
     "volume": 206000,
     "volume_relatif": 8.37,
     "capitalisation": 2602955258.5184274,
@@ -1359,7 +1359,7 @@
     "devise": "EUR",
     "jour_pct": -8.07,
     "mois_pct": -26.34,
-    "volume": 113498,
+    "volume": 113548,
     "volume_relatif": 6.4,
     "capitalisation": 1067197467.6652814,
     "per": 5.2,
@@ -1965,20 +1965,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "SZSE:300469",
-    "nom": "Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A",
-    "prix": 28.28,
-    "devise": "CNY",
-    "jour_pct": -20,
-    "mois_pct": -42.29,
-    "volume": 13526905,
-    "volume_relatif": 2.05,
-    "capitalisation": 8287818003,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "SZSE:300670",
     "nom": "Jiangsu Daybright Intelligent Electric Co. Ltd. Class A",
     "prix": 3.6,
@@ -1991,6 +1977,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:300469",
+    "nom": "Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A",
+    "prix": 28.28,
+    "devise": "CNY",
+    "jour_pct": -20,
+    "mois_pct": -42.29,
+    "volume": 13526905,
+    "volume_relatif": 2.05,
+    "capitalisation": 8287818003,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Technology Services"
    },
    {
     "symbole": "SZSE:301049",
@@ -3385,20 +3385,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.66,
-    "devise": "USD",
-    "jour_pct": -1.74,
-    "mois_pct": -12.43,
-    "volume": 1206763,
-    "volume_relatif": 0.87,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 273.1,
@@ -3409,6 +3395,20 @@
     "volume_relatif": 1.11,
     "capitalisation": 3326384161591,
     "per": 14.3,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.66,
+    "devise": "USD",
+    "jour_pct": -1.74,
+    "mois_pct": -12.43,
+    "volume": 1206763,
+    "volume_relatif": 0.87,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3463,7 +3463,7 @@
     "mois_pct": -32.43,
     "volume": 52986611,
     "volume_relatif": 1.45,
-    "capitalisation": 681065350342,
+    "capitalisation": 770161763611.0001,
     "per": 8.1,
     "bourse": "NASDAQ",
     "secteur": "Electronic Technology"
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Graphique interactif du cours des capital-actions Anthropic, PBC (ANT) - Yahoo Finance France",
+   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGV3Q3TDVFSUlfR2NmSHhwcGkyUE8yT2Z6RHB1dmtnZGJhVWZWTGs5VG1XN1NCdm5CT3BGSkJDWDdMR3I3dVpEM0p5c05lUGx2UDUwRkhIeVU?oc=5",
+   "date": "Thu, 26 Nov 2026 16:25:38 GMT",
+   "vu_le": "2026-11-26T18:50:41.062614+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Intermarché va faire entrer l'IA d'Anthropic dans ses magasins d'ici quelques semaines - Clubic.com",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQzlxckpCZHpBWVlNbUlIbk5nS0tNbl9Hbkk2RmFFNXYtaXV4SDFtSkNNbDBsY280ejVIT0REX083YjNOOUtCdS1PWER2WGxhQWpSSU9aX0ZzeF9aR2hYemF6VGUwLU5rOHFndUtkWG1oRDNBMDh4ZUFfdXRObk1SVEJyam1yZDZuR2V3VWNMbFJQOFZYSlY4UVJSallQN3F3ZGNtLWZKVTZMdHFTQlJVYmgxZGFyTzc2NTAwQmZabC1UUzVrTGNteEptdw?oc=5",
+   "date": "Wed, 25 Nov 2026 19:44:00 GMT",
+   "vu_le": "2026-11-26T18:50:41.062614+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Commentary: Surprise! The PSC approves the acquisition of NorthWestern Energy - Daily Montanan",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN2lhQ1RkcnpvbG93U09FOUw5Qjh3V3dfZTBRdFpOczE5YWVGRDNrdlhjUmY3VjlDal9hVXV4UXpScGtibTJlN2VLN1dna3pUUGw3UU1UcVVtQU5OVlZVVV9iQ2JDWXFIT3pVOFJzYWVEY3h5TnhKTUZ5TlFLU0txaUFxSWtnajhvOG9XMm9sb0xLY3UxSUlRa1NMd0RFR3M5TTFlQw?oc=5",
+   "date": "Wed, 25 Nov 2026 23:19:40 GMT",
+   "vu_le": "2026-11-26T18:50:41.062614+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Cathie Wood Just Bought $88 Million of Anthropic Stock - TradingView",
@@ -6432,27 +6453,6 @@
    "titre": "CARREFOUR Cours Action CA, Cotation Bourse Euronext Paris - Boursorama",
    "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtZU5uaUhjMk1BUEU2R21SZlNmWVV0QV9MZ0hYZWNaR0VaOGNrWkxpMmNXYWtTYlB2OVlMSTMzZUk1UTV6QkpERFRrVnphQ3Bk?oc=5",
    "date": "Thu, 26 Nov 2026 04:57:42 GMT",
-   "vu_le": "2026-11-26T07:10:35.657496+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China, Hong Kong stocks rebound as investors shrug off Trump tariff proposal - The Economic Times",
-   "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMjBNQkRUd3dOcDU1dGsyUnRSbzdSV0YxRzVmM3FkRlkyaW5aLVRsR2dwVDhYdDMyb214ZTFYY25uZ21oczZobWt3eTVpOE5yRHM2WTZqd2gybEQ2dXVfQ1Nla1FEWEdENHRROFhLQ3dXaTNqNXdrakFndVg2UEtkcWNnckFNNERQMVZVZWhYTk9iQjFkNkNjT2lKekZ2eHJ6VHZqNmlIU1dldURQd2JhTGROYktmR29xTVpjS0RuY19YUm1LdnNCTmlqNERMN3c1WUlwTUtQYlZzVC0xVFA3azZWT1c5ZmvSAewBQVVfeXFMTUVhMGpvcWRUNlJnd0V3RUVJNmdrSHFGMkNKeGkzYUdjUXJOazhCdGNkSUFKREVpTGt6Y0RHSjk3dVd0MThCbC1qLUtvVVNydkNTaDFlMktYMU5ScGdhNG5IRE9zNk5BOTNDc2F3alpvUHc5cXE1M0pSdWJ2VlcyUS1pbERjMVRuWVpZV3N1SGdrbEhpRzdOOE5NbHJ5UENJb2xFV2piSTlKdXNxcWcxcENuTGlUeUZwS2d4UlhraExhVVkteFNKeFA4blFqX2RGMFU0dVZZWVV4R25sc0xGYXNGM2RmZlBNRTJ4VDU?oc=5",
-   "date": "Thu, 26 Nov 2026 04:51:15 GMT",
-   "vu_le": "2026-11-26T07:10:35.657496+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Asian stocks enjoy another bounce as tech holds court - Kuwait Times",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ2NiTGdleEM3c1VMQVJ1OTM3VGhER0lzOFpFNzZPTUUwY1k1TFJjbC1Tc1NrV1VNT2l5bEtXSzFwYmJMZXdlb1BhWFVURnpPdFpmQVp3a1lxUFN3NHRKb1dac2xwZzJrS2hwWURGYm5VVlRtTW81RWNkeGs1b2wzTDhSUzlUYm0ycGc4RjQ2alBHeml3Uk1UbHdoeE00TVhSMzYzS0dlRdIBpwFBVV95cUxOZ2NiTGdleEM3c1VMQVJ1OTM3VGhER0lzOFpFNzZPTUUwY1k1TFJjbC1Tc1NrV1VNT2l5bEtXSzFwYmJMZXdlb1BhWFVURnpPdFpmQVp3a1lxUFN3NHRKb1dac2xwZzJrS2hwWURGYm5VVlRtTW81RWNkeGs1b2wzTDhSUzlUYm0ycGc4RjQ2alBHeml3Uk1UbHdoeE00TVhSMzYzS0dlRQ?oc=5",
-   "date": "Thu, 26 Nov 2026 04:20:00 GMT",
-   "vu_le": "2026-11-26T07:10:35.657496+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China and HK stocks tumble; Shanghai posts biggest one-day drop in 3 months - Business Recorder",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wNWhGbGtpc3pIalVJMjhvb3FieGo0SDg2enVJSzEwSFVUbXhnWjNteVpvVF9WMEcxUm14WlgyY2I1V25rVHo3S3hWR21hQjB20gFWQVVfeXFMTXNfQXBtaVFna19Ma2pFVmJMTGw5RWxlZUxmU0V0YkROZnRSU1Z3ZUYzUFNvbk1rQ1hwQ1Z1RTd6Ynd6eTBDamRWTUJhOGk3dEJ1VWZaR1E?oc=5",
-   "date": "Thu, 26 Nov 2026 00:16:21 GMT",
    "vu_le": "2026-11-26T07:10:35.657496+00:00"
   }
  ],
