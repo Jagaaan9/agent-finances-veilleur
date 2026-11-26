@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T17:30:36.566949+00:00",
+ "mis_a_jour": "2026-11-26T17:40:35.993990+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3568.25,
+   "prix": 3566.798,
    "devise": "USD",
-   "jour_pct": -0.59,
-   "mois_pct": -11.19,
+   "jour_pct": -0.63,
+   "mois_pct": -11.22,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09708,
+   "prix": 1.09696,
    "devise": "USD",
-   "jour_pct": -0.04,
-   "mois_pct": -1.82,
-   "volume": 115313,
+   "jour_pct": -0.05,
+   "mois_pct": -1.83,
+   "volume": 115696,
    "volume_relatif": 0.58,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55124.02,
+   "prix": 55058.91,
    "devise": "EUR",
-   "jour_pct": 0.13,
-   "mois_pct": -23.0,
-   "volume": 75.623643,
+   "jour_pct": 0.01,
+   "mois_pct": -23.1,
+   "volume": 75.76080849,
    "volume_relatif": 0.34,
    "capitalisation": null,
    "per": null,
@@ -705,7 +705,7 @@
     "devise": "EUR",
     "jour_pct": 6.57,
     "mois_pct": 19.67,
-    "volume": 252788,
+    "volume": 252789,
     "volume_relatif": 1.73,
     "capitalisation": 1768869854,
     "per": null,
@@ -819,7 +819,7 @@
     "devise": "EUR",
     "jour_pct": -0.2,
     "mois_pct": -0.8,
-    "volume": 452720,
+    "volume": 453045,
     "volume_relatif": 0.74,
     "capitalisation": 80106797882,
     "per": 32.3,
@@ -985,32 +985,32 @@
     "secteur": "Consumer Non-Durables"
    },
    {
-    "symbole": "TRADEGATE:ITB",
-    "nom": "Imperial Brands PLC",
-    "prix": 40.69,
-    "devise": "EUR",
-    "jour_pct": 13.85,
-    "mois_pct": 18.56,
-    "volume": 184917,
-    "volume_relatif": 23.39,
-    "capitalisation": 27042136113.301346,
-    "per": 14.4,
-    "bourse": "TRADEGATE",
-    "secteur": "Consumer Non-Durables"
-   },
-   {
     "symbole": "GETTEX:REB",
     "nom": "Arafura Rare Earths Limited",
     "prix": 0.085,
     "devise": "EUR",
     "jour_pct": 13.33,
     "mois_pct": -7.61,
-    "volume": 223600,
-    "volume_relatif": 2.42,
+    "volume": 233582,
+    "volume_relatif": 2.53,
     "capitalisation": 458529836.19089025,
     "per": null,
     "bourse": "GETTEX",
     "secteur": "Non-Energy Minerals"
+   },
+   {
+    "symbole": "TRADEGATE:ITB",
+    "nom": "Imperial Brands PLC",
+    "prix": 40.49,
+    "devise": "EUR",
+    "jour_pct": 13.29,
+    "mois_pct": 17.98,
+    "volume": 187995,
+    "volume_relatif": 23.78,
+    "capitalisation": 27042136113.301346,
+    "per": 14.3,
+    "bourse": "TRADEGATE",
+    "secteur": "Consumer Non-Durables"
    },
    {
     "symbole": "LS:A2DT6V",
@@ -1157,12 +1157,12 @@
    {
     "symbole": "TRADEGATE:CBK",
     "nom": "Commerzbank AG",
-    "prix": 33.16,
+    "prix": 33.23,
     "devise": "EUR",
-    "jour_pct": -4.77,
-    "mois_pct": -10.48,
-    "volume": 351127,
-    "volume_relatif": 2.24,
+    "jour_pct": -4.57,
+    "mois_pct": -10.29,
+    "volume": 352187,
+    "volume_relatif": 2.25,
     "capitalisation": 36932545750,
     "per": 11.0,
     "bourse": "TRADEGATE",
@@ -1189,12 +1189,26 @@
     "devise": "EUR",
     "jour_pct": -4.12,
     "mois_pct": -16.14,
-    "volume": 101386,
+    "volume": 101536,
     "volume_relatif": 0.98,
     "capitalisation": 73345636860.1456,
     "per": 15.2,
     "bourse": "GETTEX",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "TRADEGATE:E3B",
+    "nom": "Eutelsat Communications SA",
+    "prix": 1.5355,
+    "devise": "EUR",
+    "jour_pct": -3.76,
+    "mois_pct": -20.65,
+    "volume": 227319,
+    "volume_relatif": 1.56,
+    "capitalisation": 1841698216,
+    "per": null,
+    "bourse": "TRADEGATE",
+    "secteur": "Communications"
    },
    {
     "symbole": "TRADEGATE:EVT",
@@ -1209,20 +1223,6 @@
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Commercial Services"
-   },
-   {
-    "symbole": "TRADEGATE:E3B",
-    "nom": "Eutelsat Communications SA",
-    "prix": 1.5445,
-    "devise": "EUR",
-    "jour_pct": -3.2,
-    "mois_pct": -20.18,
-    "volume": 227313,
-    "volume_relatif": 1.56,
-    "capitalisation": 1841698216,
-    "per": null,
-    "bourse": "TRADEGATE",
-    "secteur": "Communications"
    },
    {
     "symbole": "SWB:PLUN",
@@ -1257,14 +1257,14 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 40.69,
+    "prix": 40.49,
     "devise": "EUR",
-    "jour_pct": 13.85,
-    "mois_pct": 18.56,
-    "volume": 184917,
-    "volume_relatif": 23.39,
+    "jour_pct": 13.29,
+    "mois_pct": 17.98,
+    "volume": 187995,
+    "volume_relatif": 23.78,
     "capitalisation": 27042136113.301346,
-    "per": 14.4,
+    "per": 14.3,
     "bourse": "TRADEGATE",
     "secteur": "Consumer Non-Durables"
    },
@@ -1313,10 +1313,10 @@
    {
     "symbole": "SWB:8JO1",
     "nom": "Volvo Car AB Class B",
-    "prix": 0.9164,
+    "prix": 0.916,
     "devise": "EUR",
-    "jour_pct": 2.35,
-    "mois_pct": -7.04,
+    "jour_pct": 2.3,
+    "mois_pct": -7.08,
     "volume": 206000,
     "volume_relatif": 8.37,
     "capitalisation": 2602955258.5184274,
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
-    "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
-    "capitalisation": 3326384161591,
-    "per": 14.3,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.66,
@@ -3409,6 +3395,20 @@
     "volume_relatif": 1.24,
     "capitalisation": 3326384161591,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
+    "devise": "USD",
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
+    "capitalisation": 3326384161591,
+    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3575,7 +3575,7 @@
     "devise": "EUR",
     "jour_pct": 6.57,
     "mois_pct": 19.67,
-    "volume": 252788,
+    "volume": 252789,
     "volume_relatif": 1.73,
     "capitalisation": 1768869854,
     "per": null,
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Acheter ou vendre à découvert Anthropic ? Les analystes d'une même firme divisés - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VRXdiMmpKd1RUTkMzVWVGUU9aT2xNTUU5UEw5NE9QUG5VTXRPd3g0VnBSSElLemxlVTZ6cWRXbmtKZkJaTGVhT0F4NlVGQ3NLLVJaUDQ3UEJCQWg1YVVxWGt6cUxodw?oc=5",
+   "date": "Thu, 26 Nov 2026 14:17:27 GMT",
+   "vu_le": "2026-11-26T17:40:35.993990+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Does ArcBest (ARCB) Have the Potential to Rally 29.21% as Wall Street Analysts Expect? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMVJSeVVJTUtOY2stMjdsOXVWeU40MGhPRlc4bEk2N2p6cGhYVjVIV19Sb21Xb21MUUNoU1Nmc3ZVdDhENnVSU0ZRUkNaRWZLR3l1NUt3MmlNcDdlWTlYT3JmbXV0NlBlbDZUbWlKdHBRWWFhSnRNVC1HWXBjYjh0WEpncW5BRFRaaDc2dkI2dWJHTTdJWGFCbi1RVUFoM3VYWXZ4ZnpGSmlCMWo2?oc=5",
+   "date": "Thu, 26 Nov 2026 13:55:02 GMT",
+   "vu_le": "2026-11-26T17:40:35.993990+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds - CoinDesk",
+   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2QwSXFSZGlHc3pTNEpvdlhfRkRjeVMyTlVUbWZab05Gc3h5bXVUeVpZU2pEMGZwTkY4SWF0M19IUFVveV9JXzlXVkdYQ1MxZ3NJYjRpOGFNNjJ1RnpVRnNmS3hKeUQ3bngwTW40eTc4cDMwNjB2UzdJWUhZOXEzMmN0ZFlvTFZCVEdkVEUxbXp4Zy1POFV5QUc5Um9HVVU0VTRFV1NZb21FdW9YdDFESHFpcHJtckR4RURMS0ZR?oc=5",
+   "date": "Thu, 26 Nov 2026 17:30:00 GMT",
+   "vu_le": "2026-11-26T17:40:35.993990+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "US-based but Chinese-owned firms buy Nvidia’s most advanced AI chips: Report - Anadolu Ajansı",
@@ -6432,27 +6453,6 @@
    "titre": "5 Best Strong Buy Growth Stocks to Buy for 2027 - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWJLNFVqV2R4UGdTTGpsVmhnUVBiNUdFOHM4azZ0NU9NaEkxSEtnRnNrX0MxNVpyYjh0T2xIRjYwU0JyVGhYNzQ1T05FYy1wZkpIQVQwWExZODRKN09ZNHdPRFlTZXhDc3BqX05kLTJnR24tSWpzamhOU2M2M3d6ZkN6aGRKQThSWXV5TGZaaXlmNEE?oc=5",
    "date": "Thu, 26 Nov 2026 00:46:00 GMT",
-   "vu_le": "2026-11-26T06:20:36.832960+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "HP stock popped after earnings beat: why it has pared gains in premarket? - Invezz",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUJqMzN4MHoxRjRJLUpDYU9hak12ZkQzRnVJREZlc05lWWhvTUJ0YTZFYm1HODA3MndFbm92WXdhMUNBQjhSVTh2TXJ3OW1lNEhEcUNIN1BNQjZnVkg0UzVoZ09qOFdyZTQwM0xGQzhpd0swMjl5eDlVS1lTbUhDbVJxaWpocm45NEdRUnd3Um82c1VPTU1HNUxoYm4xWnQwck02MFVRVTJkcF8yUi00LV9tMA?oc=5",
-   "date": "Wed, 25 Nov 2026 12:25:19 GMT",
-   "vu_le": "2026-11-26T06:20:36.832960+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Fidelity Low-Priced Stock Fund Q3 2026 Commentary (FLPSX) - Seeking Alpha",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdF95bmVOZlM2b1MwYkgwQzBJMXptaUtTN2FxdHB0MDlhZlN6N3ZHLTdPRkJDZEJGVHZ3YXVnck5qNDhRVFNGVkd1RHp5aTVoZTRGOEtTZ2YzVnNMbGJSM3djc2lkY0lfS0N3dkRkak9pVU5LbzFlQktrM3RNVU1XTjQtM2RtYlpXLVlxbEFtNktJRWEtcjM4ajJKV3k5WjhRM3lpS29xdVBQZDg4bGc?oc=5",
-   "date": "Thu, 26 Nov 2026 06:00:00 GMT",
-   "vu_le": "2026-11-26T06:20:36.832960+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Gen Z Is Bitcoin’s Ticket to $1.6 Million? Bitwise’s Matt Hougan Is ‘Extraordinarily Confident’ - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlBkWnp4WXFLVGdKRmtCLWg5MXBuUi0xNzlRUW1acTJ3NmZRczJNblNFcFVsZ1M0RDZSSXNrLXJJT2JnazdzdVZoQ2FxX3k0Ui1rZ2l2d25ValFWTy1veEhrdVdxTGJqcFlGTEhpYW90WmZiU0dmNlh2TnlEYXkzOGR3Ul84aGJjNkUwMlR0MF91TWptV1ZMR0w5OENlTG0xeGhPckV1R3Blb3RyRUpuSFpMbUxFZw?oc=5",
-   "date": "Thu, 26 Nov 2026 06:03:18 GMT",
    "vu_le": "2026-11-26T06:20:36.832960+00:00"
   }
  ],
