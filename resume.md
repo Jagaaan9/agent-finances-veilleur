@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22226.89 HKD, jour 1.19 %, mois -4.44 %
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3571.045 USD, jour -0.51 %, mois -11.12 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.097 USD, jour -0.04 %, mois -1.82 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55102.47 EUR, jour 0.09 %, mois -23.04 %
+- Gold (TVC:GOLD) : 3571.092 USD, jour -0.51 %, mois -11.12 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09693 USD, jour -0.05 %, mois -1.83 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55189.89 EUR, jour 0.25 %, mois -22.91 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -84,7 +84,7 @@ POSITIONS ET INDICES :
 ÉCRAN Allemagne : plus fortes hausses :
 - Sivers Semiconductors AB (XETR:2DG, secteur Electronic Technology) jour 17.83 %, mois -40.27 %, prix 1.13 EUR, capi 308758810.9311206, PER None, volume x0.73 la normale
 - Imperial Brands PLC (XETR:ITB, secteur Consumer Non-Durables) jour 15.61 %, mois 20.5 %, prix 41.32 EUR, capi 27042136113.301346, PER 14.6, volume x15.05 la normale
-- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 14.33 %, mois 19.06 %, prix 40.86 EUR, capi 27042136113.301346, PER 14.5, volume x22.16 la normale
+- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 14.27 %, mois 19.0 %, prix 40.84 EUR, capi 27042136113.301346, PER 14.5, volume x22.8 la normale
 - Arafura Rare Earths Limited (GETTEX:REB, secteur Non-Energy Minerals) jour 13.33 %, mois -7.61 %, prix 0.085 EUR, capi 458529836.19089025, PER None, volume x2.42 la normale
 - FIT Hon Teng Limited (LS:A2DT6V, secteur Electronic Technology) jour 10.89 %, mois -33.09 %, prix 0.275 EUR, capi 1682176511.214968, PER 13.8, volume x12.3 la normale
 - ITM Power PLC (XETR:IJ8, secteur Producer Manufacturing) jour 9.83 %, mois -22.3 %, prix 0.7595 EUR, capi 477579110.8653215, PER None, volume x1.92 la normale
@@ -95,26 +95,26 @@ POSITIONS ET INDICES :
 
 ÉCRAN Allemagne : plus fortes baisses :
 - Air China Limited Class H (LS:A0M4WT, secteur Transportation) jour -17.74 %, mois -6.77 %, prix 0.372 EUR, capi 13274372499.077784, PER None, volume x10.49 la normale
-- MPC Container Ships ASA (TRADEGATE:MP2, secteur Transportation) jour -8.07 %, mois -26.34 %, prix 2.039 EUR, capi 1067197467.6652814, PER 5.2, volume x6.05 la normale
+- MPC Container Ships ASA (TRADEGATE:MP2, secteur Transportation) jour -8.07 %, mois -26.34 %, prix 2.039 EUR, capi 1067197467.6652814, PER 5.2, volume x6.06 la normale
 - MPC Container Ships ASA (SWB:MP2, secteur Transportation) jour -7.77 %, mois -24.75 %, prix 2.031 EUR, capi 1067197467.6652814, PER 5.2, volume x28.58 la normale
 - EnergieKontor AG (XETR:EKT, secteur Utilities) jour -7.17 %, mois -22.23 %, prix 18.12 EUR, capi 270747728, PER 22.1, volume x3.47 la normale
-- Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -4.62 %, mois -10.34 %, prix 33.21 EUR, capi 36932545750, PER 11.0, volume x2.2 la normale
 - NagaCorp Ltd. (LS:A0LB2X, secteur Consumer Services) jour -4.51 %, mois -7.17 %, prix 0.233 EUR, capi 984263844.9951699, PER 3.9, volume x5.82 la normale
-- Evotec SE (TRADEGATE:EVT, secteur Commercial Services) jour -3.92 %, mois -11.6 %, prix 2.5 EUR, capi 452677781, PER None, volume x1.02 la normale
-- Plug Power Inc. (SWB:PLUN, secteur Electronic Technology) jour -3.09 %, mois -23.44 %, prix 0.9342 EUR, capi 1357719611.2204726, PER None, volume x1.59 la normale
+- Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -4.31 %, mois -10.04 %, prix 33.32 EUR, capi 36932545750, PER 11.0, volume x2.23 la normale
+- BYD Company Limited Class H (GETTEX:BY6, secteur Producer Manufacturing) jour -4.05 %, mois -16.08 %, prix 6.734 EUR, capi 73345636860.1456, PER 15.2, volume x0.97 la normale
+- Eutelsat Communications SA (TRADEGATE:E3B, secteur Communications) jour -3.32 %, mois -20.28 %, prix 1.5425 EUR, capi 1841698216, PER None, volume x1.56 la normale
+- Plug Power Inc. (SWB:PLUN, secteur Electronic Technology) jour -3.06 %, mois -23.41 %, prix 0.9345 EUR, capi 1357719611.2204726, PER None, volume x1.62 la normale
 - Commerzbank AG (XETR:CBK, secteur Finance) jour -2.55 %, mois -10.0 %, prix 33.3 EUR, capi 36932545750, PER 11.0, volume x2.16 la normale
-- Plug Power Inc. (TRADEGATE:PLUN, secteur Electronic Technology) jour -2.23 %, mois -22.92 %, prix 0.9481 EUR, capi 1357719611.2204726, PER None, volume x0.24 la normale
 
 ÉCRAN Allemagne : volumes anormaux :
 - MPC Container Ships ASA (SWB:MP2, secteur Transportation) jour -7.77 %, mois -24.75 %, prix 2.031 EUR, capi 1067197467.6652814, PER 5.2, volume x28.58 la normale
-- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 14.33 %, mois 19.06 %, prix 40.86 EUR, capi 27042136113.301346, PER 14.5, volume x22.16 la normale
+- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 14.27 %, mois 19.0 %, prix 40.84 EUR, capi 27042136113.301346, PER 14.5, volume x22.8 la normale
 - Imperial Brands PLC (XETR:ITB, secteur Consumer Non-Durables) jour 15.61 %, mois 20.5 %, prix 41.32 EUR, capi 27042136113.301346, PER 14.6, volume x15.05 la normale
 - FIT Hon Teng Limited (LS:A2DT6V, secteur Electronic Technology) jour 10.89 %, mois -33.09 %, prix 0.275 EUR, capi 1682176511.214968, PER 13.8, volume x12.3 la normale
 - Air China Limited Class H (LS:A0M4WT, secteur Transportation) jour -17.74 %, mois -6.77 %, prix 0.372 EUR, capi 13274372499.077784, PER None, volume x10.49 la normale
-- Volvo Car AB Class B (SWB:8JO1, secteur Consumer Durables) jour 2.17 %, mois -7.2 %, prix 0.9148 EUR, capi 2602955258.5184274, PER None, volume x8.37 la normale
+- Volvo Car AB Class B (SWB:8JO1, secteur Consumer Durables) jour 2.43 %, mois -6.96 %, prix 0.9172 EUR, capi 2602955258.5184274, PER None, volume x8.37 la normale
 - Nagarro SE (XETR:NA9A, secteur Technology Services) jour 0 %, mois -1.25 %, prix 79 EUR, capi 1019569215, PER 23.9, volume x8.11 la normale
 - Avacta Group PLC (LS:A2ADP0, secteur Commercial Services) jour 9.09 %, mois -18.18 %, prix 0.72 EUR, capi 329260554.90075463, PER None, volume x6.58 la normale
-- MPC Container Ships ASA (TRADEGATE:MP2, secteur Transportation) jour -8.07 %, mois -26.34 %, prix 2.039 EUR, capi 1067197467.6652814, PER 5.2, volume x6.05 la normale
+- MPC Container Ships ASA (TRADEGATE:MP2, secteur Transportation) jour -8.07 %, mois -26.34 %, prix 2.039 EUR, capi 1067197467.6652814, PER 5.2, volume x6.06 la normale
 - NagaCorp Ltd. (LS:A0LB2X, secteur Consumer Services) jour -4.51 %, mois -7.17 %, prix 0.233 EUR, capi 984263844.9951699, PER 3.9, volume x5.82 la normale
 
 ÉCRAN Hong Kong / Chine : plus fortes hausses :
@@ -281,14 +281,14 @@ POSITIONS ET INDICES :
 - Sanofi SA Sponsored ADR (LSE:0A2V, secteur Health Technology) jour 7.68 %, mois 29.77 %, prix 54.2314 USD, capi 98527772206.94228, PER 27.9, volume x2.93 la normale
 - B&M European Value Retail PLC (LSE:BME, secteur Retail Trade) jour 2.21 %, mois 25.41 %, prix 351.4 GBX, capi 3458310268, PER 18.1, volume x0.6 la normale
 - Kenmare Resources Plc (LSE:KMR, secteur Non-Energy Minerals) jour -0.54 %, mois 23.78 %, prix 278.5 GBX, capi 247613652, PER None, volume x0.71 la normale
-- PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.37 %, mois 23.55 %, prix 8.08 EUR, capi 583288727.066152, PER None, volume x0.3 la normale
+- PATRIZIA SE (LSIN:0FJC, secteur Finance) jour -0.37 %, mois 23.55 %, prix 8.08 EUR, capi 583288727.066152, PER None, volume x1.47 la normale
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour 0.52 %, mois 22.62 %, prix 8.743 EUR, capi 8745195158.286776, PER 10.9, volume x0.34 la normale
 - Aroundtown SA (LSIN:0RUH, secteur Finance) jour 6.25 %, mois 20.24 %, prix 1.7585 EUR, capi 1522102628.632228, PER 7.3, volume x1.18 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3326384161590.9995, PER 14.1, volume x1.14 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1559025893850, PER 1.7, volume x0.54 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -0.11 %, mois -5.17 %, prix 316.74 USD, capi 841137764833, PER 13.3, volume x1.08 la normale
@@ -310,6 +310,7 @@ POSITIONS ET INDICES :
 - Beneteau SA (EURONEXT:BEN, secteur Consumer Durables) jour 3.84 %, mois 11.74 %, prix 5.14 EUR, capi 403167537, PER None, volume x1.03 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Pays émergents] India shares higher at close of trade; Nifty 50 up 0.25% By Investing.com - Investing.com India
 - [Bourse de Paris et Europe] CAC 40: La Bourse de Paris finit dans le vert, la tech a repris des couleurs pour Thanksgiving - ABC Bourse
 - [Rachats et fusions] Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands - The Globe and Mail
 - [Petites valeurs en croissance] 5 FMCG Stocks with Improving Profit Margins - Equitymaster
@@ -457,5 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Marchés mondiaux] Wall Street claws back an AI selloff before the Thanksgiving break - Wealth Professional
 - [Bourse de Paris et Europe] Mi-séance Paris : entièrement dans le vert, le CAC 40 reprend près de 2%... - Fortuneo
 - [Banques centrales et taux] Le dollar souffle pour Thanksgiving... - Fortuneo
-- [Banques centrales et taux] La hausse des prix pousse les consommateurs américains à être plus sélectifs selon la Fed - Le Figaro
-- [Chine et Asie
+- [Banque
