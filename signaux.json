@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T18:50:41.062614+00:00",
+ "mis_a_jour": "2026-11-26T19:00:35.854759+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3568.674,
+   "prix": 3568.1,
    "devise": "USD",
-   "jour_pct": -0.58,
-   "mois_pct": -11.18,
+   "jour_pct": -0.6,
+   "mois_pct": -11.19,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.0970199999999999,
+   "prix": 1.09704,
    "devise": "USD",
    "jour_pct": -0.04,
    "mois_pct": -1.82,
-   "volume": 117759,
+   "volume": 117893,
    "volume_relatif": 0.59,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55170.97,
+   "prix": 55094.31,
    "devise": "EUR",
-   "jour_pct": 0.21,
-   "mois_pct": -22.94,
-   "volume": 77.74974379,
+   "jour_pct": 0.08,
+   "mois_pct": -23.05,
+   "volume": 77.87304708,
    "volume_relatif": 0.35,
    "capitalisation": null,
    "per": null,
@@ -1001,12 +1001,12 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 40.14,
+    "prix": 40.05,
     "devise": "EUR",
-    "jour_pct": 12.31,
-    "mois_pct": 16.96,
-    "volume": 215980,
-    "volume_relatif": 27.32,
+    "jour_pct": 12.06,
+    "mois_pct": 16.7,
+    "volume": 217763,
+    "volume_relatif": 27.55,
     "capitalisation": 27042136113.301346,
     "per": 14.2,
     "bourse": "TRADEGATE",
@@ -1161,7 +1161,7 @@
     "devise": "EUR",
     "jour_pct": -4.71,
     "mois_pct": -10.42,
-    "volume": 358808,
+    "volume": 359038,
     "volume_relatif": 2.29,
     "capitalisation": 36932545750,
     "per": 11.0,
@@ -1189,7 +1189,7 @@
     "devise": "EUR",
     "jour_pct": -4.1,
     "mois_pct": -16.13,
-    "volume": 102570,
+    "volume": 102651,
     "volume_relatif": 0.99,
     "capitalisation": 73345636860.1456,
     "per": 15.2,
@@ -1199,12 +1199,12 @@
    {
     "symbole": "TRADEGATE:E3B",
     "nom": "Eutelsat Communications SA",
-    "prix": 1.5425,
+    "prix": 1.5345,
     "devise": "EUR",
-    "jour_pct": -3.32,
-    "mois_pct": -20.28,
-    "volume": 227929,
-    "volume_relatif": 1.57,
+    "jour_pct": -3.82,
+    "mois_pct": -20.7,
+    "volume": 228929,
+    "volume_relatif": 1.58,
     "capitalisation": 1841698216,
     "per": null,
     "bourse": "TRADEGATE",
@@ -1231,7 +1231,7 @@
     "devise": "EUR",
     "jour_pct": -2.55,
     "mois_pct": -10.0,
-    "volume": 4830324,
+    "volume": 4830624,
     "volume_relatif": 2.16,
     "capitalisation": 36932545750,
     "per": 11.0,
@@ -1257,12 +1257,12 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 40.14,
+    "prix": 40.05,
     "devise": "EUR",
-    "jour_pct": 12.31,
-    "mois_pct": 16.96,
-    "volume": 215980,
-    "volume_relatif": 27.32,
+    "jour_pct": 12.06,
+    "mois_pct": 16.7,
+    "volume": 217763,
+    "volume_relatif": 27.55,
     "capitalisation": 27042136113.301346,
     "per": 14.2,
     "bourse": "TRADEGATE",
@@ -3385,20 +3385,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
-    "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
-    "capitalisation": 3326384161591,
-    "per": 14.3,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.66,
@@ -3409,6 +3395,20 @@
     "volume_relatif": 0.87,
     "capitalisation": 3326384161591,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
+    "devise": "USD",
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
+    "capitalisation": 3326384161591,
+    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic Stock Is Down 33% From Its All-Time High. Here's What a $5,000 Investment Could Be Worth in 1 Year. - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOHhtcG5INFh3RklnQmROZ3FHZDlndF8zd0JjOFh2WVF3RVk4SFdmT0VQLVc1NG1ZbmdTUUx2LXhMYkxnN0RXZDdDb1drRU9ZbE15N0Q2d3JmMVp5UlBVWDFMMFdoNzdGaXAwQzgxdG5ocV83YW53WUFNdGlmbTZodG1vRzJMWS1tblh6SkN5Ukt1djlIR0FZSw?oc=5",
+   "date": "Wed, 25 Nov 2026 22:35:02 GMT",
+   "vu_le": "2026-11-26T19:00:35.854759+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "US-based but Chinese-owned firms buy Nvidia’s most advanced AI chips: Report - Anadolu Ajansı",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeXdqNUZSZEJ3S1RsWVY2Y2swbnJOU0xDZkQ4YXVENXFvSnVFTHEwYWRnUkRiNExUVUZqLVpFY2VycUZNWFNjb3ZKcHVtNlBNTjEwVkxMcGVvZl9LMHJ2TTRPQWNQNGYtYi16YW1QYUhObXlra3dwVXpCQm1wb25FdHgzWmFRTm5uQWlMQmpjcGtHUGNON1F2OVo5WjNYSVZEbVBkVUdaMzhOTUlXaldxdE5DNA?oc=5",
+   "date": "Thu, 26 Nov 2026 17:23:25 GMT",
+   "vu_le": "2026-11-26T19:00:35.854759+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "MSCI (MSCI) Reaffirms Indonesia Plan As Undervalued Narrative Stays In Focus - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDI5MkRQb2pIWU1WckQwamRUNXFKZFViNWFFQ3JiY21vTkZSTWN1NWFsX2dQQzlSOU1ZLVVsQ0U4aW0yb0Y1Ukx4a1VzTjlXOW1wdFduYl9JVWcxVXhvbGUzSFBOVVQzeGZFZWVYRWhDcGtxbGQwLUlvU1NodjkxU3JnNV9Wbjd1UERYbzE1YVZJZVgySXdCTVhVSHR5N0hy?oc=5",
+   "date": "Thu, 26 Nov 2026 18:12:53 GMT",
+   "vu_le": "2026-11-26T19:00:35.854759+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "InCred targets $1 bn for maiden emerging market credit fund - The Financial Express",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUG1vNTk0ZjY4UTBpVWpIOHRtQm1oRmpyYkVGX2doMzVNOTJfVkN5alh1RDVjVFB5TUo2azZxa1hVRGYyRDVYaTY5ZVFaQXY0OEtQZTRYQnRDa1pqdnZuNV96NVN3UUdqY0ZGekhIaDZMRnVVV0V3ZzlnMGo5RThMUThZS1R1dTJVWUR4ZUl5emlhVDdhZXlOX0lNNlliNGZDLW9jamF4SDBZTG9BU2x2RVFmcEHSAbsBQVVfeXFMT2RyS3RuNm9wWGNTMGVhTUl6RVBSVUdhZF9fM3BveDVKdGdiZ3czWlhnOWNRX1B5Y3VrLVE4NmdONUE1S1JsT3EwVmpwUFVxTFU3VE1hUjV6SlcxdHQ3cnZ1X1R6TTEzNVo2dlA3NElLN1R0YldnVDVWazVkQjJmTXlvaDYtNEUyZEJJQmVoMjRjNGl0UnRTb2xER3ZycEVSa1FEcU5UbVgwUzFpRWk0bTVHSWdELWVNRU13NA?oc=5",
+   "date": "Thu, 26 Nov 2026 18:46:32 GMT",
+   "vu_le": "2026-11-26T19:00:35.854759+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Graphique interactif du cours des capital-actions Anthropic, PBC (ANT) - Yahoo Finance France",
@@ -6426,34 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeXY3RkFGZ0hodVRDRDJMSFIzM3FRbV9YZXhESDRsUFhqaUF1VzJHczUzSFpOMW1sUzd3eWQ1WlV3bWFXX21CRUM4cElHS2lBSlFCcDR0U3ZsQTRqSGY0Qnd1R1hPcGtZZC1UOXFZLTAwOVBibEs4NlJOeFNlODRYU0JxN3ZrNkd5d2xJZzZ4SDR6QU0yT2V2WDRxYnl0LUd0bTBhRVJYaHluZ2tVUUtpanZn?oc=5",
    "date": "Thu, 26 Nov 2026 07:18:08 GMT",
    "vu_le": "2026-11-26T07:20:37.199585+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 26, 2026 at 1am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZnJfSXgyYUhpR1NoYndPY0EwcGpsQnByMDJKbjgzNENMTmUyMS1MdDJzMG53WG1PMFh1T05RblJhMjYwODJLX0ExOVRvQkxMU3A2ZDNIVGVSbnIwOEZubW15b19RTzd2d24yWTZNNUFVdUc5dldNVW9PUVRmV1U4X0tjMFlOU19OVFh1bVBIdlB6VksyWGRSdEs3U3cwZ0NZaGx4bk5GVzVfY0ZIU3c?oc=5",
-   "date": "Thu, 26 Nov 2026 05:07:09 GMT",
-   "vu_le": "2026-11-26T07:20:37.199585+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "ZEC news: Zcash developers want users to move $300 million out of an older privacy system - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONlNMSmZDeUprb2hVS2lDd21yMlY1NDRJcUlvVTJxaFl3MVlOMGdSMHB1YWFXVmxBSjlyOFJ5d1prNXBFeUJadnRDdkZ4WU9jazdYdXE2em5TYk95Z1dnNXJHeW5ub1pVTEZCM240MDU2YUVpblg3djBWYjJXdkUwbWFHWGM3b19yS3FhM18zVk1JbnN4US1peUtELS11Z1Z3emsxa05TS01vTW9vRG92dXFyZXN1SGtQVDVrcXVzWQ?oc=5",
-   "date": "Thu, 26 Nov 2026 07:09:25 GMT",
-   "vu_le": "2026-11-26T07:20:37.199585+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "CFTC Hands Crypto a Balance-Sheet Victory, but Bitcoin Doesn't Care - www.blockhead.co",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDlIMC1DOHFFM1laLXJsTjNJRGNPOGtjaXZUWmlGcGY1dVRFdXgycld0eGo4c0dWM1FJU084WGZUb1RhNk5LMndnODdYVERCcDBLNHNKVHBqRGo1M0V3VXlBT2w0UGctaDRDemNGT2IwTnZlR2ZVdnR3SFI0cWozZzB6bzNCdDZMWmhyQ1l0bGFfdHRrRWpTeU1Vel9XR0RtYnJXbA?oc=5",
-   "date": "Thu, 26 Nov 2026 07:15:27 GMT",
-   "vu_le": "2026-11-26T07:20:37.199585+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "CARREFOUR Cours Action CA, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtZU5uaUhjMk1BUEU2R21SZlNmWVV0QV9MZ0hYZWNaR0VaOGNrWkxpMmNXYWtTYlB2OVlMSTMzZUk1UTV6QkpERFRrVnphQ3Bk?oc=5",
-   "date": "Thu, 26 Nov 2026 04:57:42 GMT",
-   "vu_le": "2026-11-26T07:10:35.657496+00:00"
   }
  ],
  "erreurs": []
