@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T23:40:35.751266+00:00",
+ "mis_a_jour": "2026-11-26T23:50:35.197909+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,9 +146,9 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3567.12,
+   "prix": 3566.822,
    "devise": "USD",
-   "jour_pct": -0.62,
+   "jour_pct": -0.63,
    "mois_pct": -12.15,
    "volume": 0,
    "volume_relatif": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09711,
+   "prix": 1.09691,
    "devise": "USD",
-   "jour_pct": 0.02,
-   "mois_pct": -1.38,
-   "volume": 2403,
+   "jour_pct": -0.0,
+   "mois_pct": -1.4,
+   "volume": 2620,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55022.17,
+   "prix": 55064.79,
    "devise": "EUR",
-   "jour_pct": -0.06,
-   "mois_pct": -23.15,
-   "volume": 110.87950529,
+   "jour_pct": 0.02,
+   "mois_pct": -23.09,
+   "volume": 110.89855824,
    "volume_relatif": 0.49,
    "capitalisation": null,
    "per": null,
@@ -1965,20 +1965,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "SZSE:300670",
-    "nom": "Jiangsu Daybright Intelligent Electric Co. Ltd. Class A",
-    "prix": 3.6,
-    "devise": "CNY",
-    "jour_pct": -20,
-    "mois_pct": -41.56,
-    "volume": 22759200,
-    "volume_relatif": 1.74,
-    "capitalisation": 1426142120,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:300469",
     "nom": "Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A",
     "prix": 28.28,
@@ -1991,6 +1977,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Technology Services"
+   },
+   {
+    "symbole": "SZSE:300670",
+    "nom": "Jiangsu Daybright Intelligent Electric Co. Ltd. Class A",
+    "prix": 3.6,
+    "devise": "CNY",
+    "jour_pct": -20,
+    "mois_pct": -41.56,
+    "volume": 22759200,
+    "volume_relatif": 1.74,
+    "capitalisation": 1426142120,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301049",
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.63,
-    "devise": "USD",
-    "jour_pct": -1.48,
-    "mois_pct": -12.27,
-    "volume": 1550645,
-    "volume_relatif": 1.24,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.66,
@@ -3393,6 +3379,20 @@
     "mois_pct": -12.43,
     "volume": 1206763,
     "volume_relatif": 0.87,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.63,
+    "devise": "USD",
+    "jour_pct": -1.48,
+    "mois_pct": -12.27,
+    "volume": 1550645,
+    "volume_relatif": 1.24,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Global stocks rise and tech shares rebound as US closes for Thanksgiving - WTOP News",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3dfYk0wZllwNm8wTGk1UmtWd0k2Z1ZUeHhFTncwTkg0ZXlnMFpxMWFrLW1OcXY1YkdCdnRZUUJ2Y0hHSEFFalN6bWV6OG40YjU5cUNpM3A0TGJsbGpZblg2YV9pRXJ1MS1GUnkwZ0tqYklRUnVVR3hMR01hUFRmRmxub0dybGNmdjctNmRtNE9xNTVUWjZ0RHA5Y1p3bjdoMHpBYVR0NGhZZw?oc=5",
+   "date": "Thu, 26 Nov 2026 12:21:15 GMT",
+   "vu_le": "2026-11-26T23:50:35.197909+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "What to know about the proposed Telus takeover and possible telecom consolidation - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVhnUlg1Y1JxWlpOUHJxVHlFZmhyVVR5YW1xcXpYb3psb29Kc3g0SXRjMWt5Z1NrUFNyWkJmaVY4ZDlxQVpRbkZ1ekptV1RiMFp3dTNZT1lyRUhIcHNJcFRqeU5QODBsRnl6VGdCYzhpZ1B5WE5aNExURFRSTkhKclBqZlRyaHZJX3BDZXI4Q3ZJZENORmFQbUI5ZmlYZEVtbkJNVXVaN2lCM1NsaFpKSTZwemM3cjBi?oc=5",
+   "date": "Thu, 26 Nov 2026 17:31:59 GMT",
+   "vu_le": "2026-11-26T23:50:35.197909+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Nebius (NBIS) Stock Could Be Undervalued As AI Sector Optimism Returns - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGVvdTRWb0JfbW1NaHlOTDc4WU03YkNNeVFhbzY2NFRKX3lvUF9TN0FxeGdtYkVqaWN1U1RLNE5NWXN5NGFxdDZ0dEJhTmtLajc2UmtCY0tCZmF0S1R5NncyRVFsTVdJempxSk8tOUt2c2lJNWgtUEVqNU10UEh3ZFZwcFRBbXJZU0x2WDVNbmlndWE3VVNJaVJ0a204SXlheXc?oc=5",
+   "date": "Thu, 26 Nov 2026 20:08:49 GMT",
+   "vu_le": "2026-11-26T23:50:35.197909+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "RenaissanceRe (RNR) Stock May Be Undervalued Despite Its 130% Run - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ0pKRXkxMHJackdUZ3d6LTZRVW1RMnE4cnZaQzFKUzNYZTVFTDhvOVY2aUdNdThtRjR5THJ2SHRFODVIWUsyRFh0MWc2Z01zNUEwVnhpY1dqMHhBVnRmTHhDalQzSUVOdzhGTE9oUi1DMmlUdjVkdjE3czN5YUxxOFRabW9ETkZfd1djSFVWOWNJR29BYUpHM2JWUzl5Q0JuMThjcjM1Yw?oc=5",
+   "date": "Thu, 26 Nov 2026 13:12:24 GMT",
+   "vu_le": "2026-11-26T23:50:35.197909+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Selon le Nikkei, la société japonaise JERA entame des négociations avec Anthropic et Meta en vue de la constru - Boursorama",
@@ -6425,34 +6453,6 @@
    "titre": "CAC 40: La Bourse de Paris progresse nettement, soutenue par le compartiment technologique - ABC Bourse",
    "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNXdXM1hnYzB5VnJUb0Z3RG1qMFNXTk9kQVV3Y3BMRE5nbm1HTlRQOWNBM2FwcmpjYnI3cXY3WENYZHlWa296ZkNzU2kybzFfcW1oYnlRelFoVjQzU0RPSE82NEwxU25GMmYwNHhUQ0Q0Wk1aMklRVUVLcEZMSXJGd0ZSRVloU296czZGSHQ3U2NIa2tZNmFueXo1UWhfU0FGTWZaNi03djFzTXMwdzY1RVc5eXFkMWZXWlVV?oc=5",
    "date": "Thu, 26 Nov 2026 08:13:14 GMT",
-   "vu_le": "2026-11-26T10:50:38.565973+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress - The New York Times",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdm5vVlNYSU1RdnJub1pDc2hpOHhGZWNRWDBubnlHTURaQ3FHSEdXcjFyVkdkLTJyeWJWWHNzU3F0ckdTcHBqcUhtR2tyd3ZXSDVVWHlEVUctRThyLUFmS1FtWnpUYTlKWF9LOGRhR2VobFVVQy0xY0szVEpheHBhZm9kVHhvTjNW?oc=5",
-   "date": "Thu, 26 Nov 2026 10:03:47 GMT",
-   "vu_le": "2026-11-26T10:50:38.565973+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "3 Indian Consumption Revival Stocks to Watch Amid Demand Revival - Equitymaster",
-   "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3dnE3OUhndm43Uk51WFNDYnVRZm5XMWFOUWsweGpHOWpfejVjSi1nUlFEWHY3cmdYdVNSbERhRDZMUWt0RVNUWVJZRnpBU1ZpbDNFdFZVMkluQ1JxTjlfSjFlWEtzaEs0R24xTHFKdw?oc=5",
-   "date": "Thu, 26 Nov 2026 09:24:23 GMT",
-   "vu_le": "2026-11-26T10:50:38.565973+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "How Trump's proposed tariffs for India compare with rival nations - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5",
-   "date": "Thu, 26 Nov 2026 09:33:45 GMT",
-   "vu_le": "2026-11-26T10:50:38.565973+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Top 3 Crypto Stocks To Watch In November 2026 - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmQ1cU4yYndtQVJuZ1BkM1htT3ZWblRpVm9MbVF3dExBVnE0NlZ1cVNkSnVLOHc3dUVGQ2ZTQ1lmREFfN3BJUHpwU3dJRVptdTk1S2lrdGdIUkRDWmJnbHV2TUdUblFrejd2dDZVeDFZLWNmS2pxQXpiLXJBenowQ0FqQkFYcFBNbGZNcXN6X2Y3Tmdu?oc=5",
-   "date": "Thu, 26 Nov 2026 10:11:04 GMT",
    "vu_le": "2026-11-26T10:50:38.565973+00:00"
   }
  ],

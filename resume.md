@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22226.89 HKD, jour 1.19 %, mois -4.44 %
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3567.12 USD, jour -0.62 %, mois -12.15 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09711 USD, jour 0.02 %, mois -1.38 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55022.17 EUR, jour -0.06 %, mois -23.15 %
+- Gold (TVC:GOLD) : 3566.822 USD, jour -0.63 %, mois -12.15 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09691 USD, jour -0.0 %, mois -1.4 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55064.79 EUR, jour 0.02 %, mois -23.09 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -167,8 +167,8 @@ POSITIONS ET INDICES :
 
 ÉCRAN Chine continentale : plus fortes baisses :
 - Shenzhen Sunwin Intelligent Co., Ltd. Class A (SZSE:300044, secteur Technology Services) jour -20.09 %, mois -31.87 %, prix 3.42 CNY, capi 3421775011, PER None, volume x3.98 la normale
-- Jiangsu Daybright Intelligent Electric Co. Ltd. Class A (SZSE:300670, secteur Producer Manufacturing) jour -20 %, mois -41.56 %, prix 3.6 CNY, capi 1426142120, PER None, volume x1.74 la normale
 - Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A (SZSE:300469, secteur Technology Services) jour -20 %, mois -42.29 %, prix 28.28 CNY, capi 8287818003, PER None, volume x2.05 la normale
+- Jiangsu Daybright Intelligent Electric Co. Ltd. Class A (SZSE:300670, secteur Producer Manufacturing) jour -20 %, mois -41.56 %, prix 3.6 CNY, capi 1426142120, PER None, volume x1.74 la normale
 - Anhui Chaoyue Environmental Technology Co., Ltd. Class A (SZSE:301049, secteur Industrial Services) jour -17.33 %, mois -10.65 %, prix 16.27 CNY, capi 1854905643, PER None, volume x1.39 la normale
 - Piesat Information Technology Co., Ltd. Class A (SSE:688066, secteur Technology Services) jour -15.7 %, mois -49.2 %, prix 3.49 CNY, capi 1270373640, PER None, volume x1.76 la normale
 - Heren Health Co., Ltd. Class A (SZSE:300550, secteur Technology Services) jour -13.24 %, mois -8.91 %, prix 11.66 CNY, capi 3505429402, PER None, volume x2.19 la normale
@@ -286,8 +286,8 @@ POSITIONS ET INDICES :
 - Aroundtown SA (LSIN:0RUH, secteur Finance) jour 6.25 %, mois 20.24 %, prix 1.7585 EUR, capi 1522102628.632228, PER 7.3, volume x1.18 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3326384161590.9995, PER 14.1, volume x1.14 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1559025893850, PER 1.7, volume x0.54 la normale
@@ -310,6 +310,10 @@ POSITIONS ET INDICES :
 - Beneteau SA (EURONEXT:BEN, secteur Consumer Durables) jour 3.84 %, mois 11.74 %, prix 5.14 EUR, capi 403167537, PER None, volume x1.03 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] Global stocks rise and tech shares rebound as US closes for Thanksgiving - WTOP News
+- [Rachats et fusions] What to know about the proposed Telus takeover and possible telecom consolidation - The Globe and Mail
+- [Petites valeurs en croissance] Nebius (NBIS) Stock Could Be Undervalued As AI Sector Optimism Returns - Yahoo Finance
+- [Petites valeurs en croissance] RenaissanceRe (RNR) Stock May Be Undervalued Despite Its 130% Run - Yahoo Finance
 - [Anthropic (FR)] Selon le Nikkei, la société japonaise JERA entame des négociations avec Anthropic et Meta en vue de la constru - Boursorama
 - [Marchés mondiaux] Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing - CNBC
 - [Petites valeurs en croissance] Planet Based Foods Global Inc. (CN:PBF) Surges as Investors Assess Strategic Opportunities - kalkine.ca
@@ -451,8 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Chine et Asie] European stocks rally as tech jitters ease - France 24
 - [Intelligence artificielle] AI Trade Doubts: 2 Investors Question Nvidia Growth - shattered.io
 - [Intelligence artificielle] 3 AI Semiconductor Stocks Retail Investors Are Watching For Data Center Growth - Yahoo Finance
-- [Défense, énergie, matières premières] Invest in the Fighter Jets, Submarines and Stealth Bombers for Passive Income: $90,000 Across These 3 Defense Contractors Pays More Than $1,700 a Year - 24/7 Wall St.
-- [Anthropic] Anthropic Falls Below IPO Price. The Threat Wasn’t Nvidia, It Came From Inside - BeInCrypto
-- [Anthropic (FR)] Les entrées en Bourse de la Tech américaine annoncent-elles le sommet du cycle ? - La Revue politique et Parlementaire
-- [Résultats d'entreprises] What Ross Stores Shares Full Year Guidance Raise Means For Shareholders - Yahoo Finance
-- 
+- [Défense, énergie, matières premières] Invest in the Fighter Jets, Submarines and Stealth Bombers for P
