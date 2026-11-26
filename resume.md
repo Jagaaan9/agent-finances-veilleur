@@ -12,8 +12,8 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
 - Gold (TVC:GOLD) : 3566.392 USD, jour -0.64 %, mois -11.23 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09692 USD, jour -0.05 %, mois -1.83 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55227.14 EUR, jour 0.32 %, mois -22.86 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09701 USD, jour -0.04 %, mois -1.82 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55262.75 EUR, jour 0.38 %, mois -22.81 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -85,7 +85,7 @@ POSITIONS ET INDICES :
 - Sivers Semiconductors AB (XETR:2DG, secteur Electronic Technology) jour 17.83 %, mois -40.27 %, prix 1.13 EUR, capi 308758810.9311206, PER None, volume x0.73 la normale
 - Imperial Brands PLC (XETR:ITB, secteur Consumer Non-Durables) jour 15.61 %, mois 20.5 %, prix 41.32 EUR, capi 27042136113.301346, PER 14.6, volume x15.05 la normale
 - Arafura Rare Earths Limited (GETTEX:REB, secteur Non-Energy Minerals) jour 14.67 %, mois -6.52 %, prix 0.086 EUR, capi 458529836.19089025, PER None, volume x2.53 la normale
-- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 11.64 %, mois 16.26 %, prix 39.9 EUR, capi 27042136113.301346, PER 14.1, volume x28.35 la normale
+- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 11.5 %, mois 16.11 %, prix 39.85 EUR, capi 27042136113.301346, PER 14.1, volume x28.46 la normale
 - FIT Hon Teng Limited (LS:A2DT6V, secteur Electronic Technology) jour 10.89 %, mois -33.09 %, prix 0.275 EUR, capi 1682176511.214968, PER 13.8, volume x12.3 la normale
 - ITM Power PLC (XETR:IJ8, secteur Producer Manufacturing) jour 9.83 %, mois -22.3 %, prix 0.7595 EUR, capi 477579110.8653215, PER None, volume x1.92 la normale
 - Avacta Group PLC (LS:A2ADP0, secteur Commercial Services) jour 9.09 %, mois -18.18 %, prix 0.72 EUR, capi 329260554.90075463, PER None, volume x6.58 la normale
@@ -98,20 +98,20 @@ POSITIONS ET INDICES :
 - MPC Container Ships ASA (TRADEGATE:MP2, secteur Transportation) jour -8.07 %, mois -26.34 %, prix 2.039 EUR, capi 1067197467.6652814, PER 5.2, volume x6.47 la normale
 - MPC Container Ships ASA (SWB:MP2, secteur Transportation) jour -7.77 %, mois -24.75 %, prix 2.031 EUR, capi 1067197467.6652814, PER 5.2, volume x28.58 la normale
 - EnergieKontor AG (XETR:EKT, secteur Utilities) jour -7.17 %, mois -22.23 %, prix 18.12 EUR, capi 270747728, PER 22.1, volume x3.49 la normale
-- Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -4.88 %, mois -10.58 %, prix 33.12 EUR, capi 36932545750, PER 10.9, volume x2.45 la normale
+- Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -4.6 %, mois -10.31 %, prix 33.22 EUR, capi 36932545750, PER 11.0, volume x2.47 la normale
 - NagaCorp Ltd. (LS:A0LB2X, secteur Consumer Services) jour -4.51 %, mois -7.17 %, prix 0.233 EUR, capi 984263844.9951699, PER 3.9, volume x5.82 la normale
-- BYD Company Limited Class H (GETTEX:BY6, secteur Producer Manufacturing) jour -3.96 %, mois -16.0 %, prix 6.74 EUR, capi 73345636860.1456, PER 15.2, volume x1.04 la normale
+- BYD Company Limited Class H (GETTEX:BY6, secteur Producer Manufacturing) jour -3.89 %, mois -15.94 %, prix 6.745 EUR, capi 73345636860.1456, PER 15.2, volume x1.04 la normale
 - Evotec SE (TRADEGATE:EVT, secteur Commercial Services) jour -3.38 %, mois -11.1 %, prix 2.514 EUR, capi 452677781, PER None, volume x1.05 la normale
-- Plug Power Inc. (SWB:PLUN, secteur Electronic Technology) jour -2.99 %, mois -23.36 %, prix 0.9352 EUR, capi 1357719611.2204726, PER None, volume x1.62 la normale
+- Plug Power Inc. (SWB:PLUN, secteur Electronic Technology) jour -3.0 %, mois -23.37 %, prix 0.9351 EUR, capi 1357719611.2204726, PER None, volume x1.62 la normale
 - Eutelsat Communications SA (TRADEGATE:E3B, secteur Communications) jour -2.7 %, mois -19.77 %, prix 1.5525 EUR, capi 1841698216, PER None, volume x1.61 la normale
 
 ÉCRAN Allemagne : volumes anormaux :
 - MPC Container Ships ASA (SWB:MP2, secteur Transportation) jour -7.77 %, mois -24.75 %, prix 2.031 EUR, capi 1067197467.6652814, PER 5.2, volume x28.58 la normale
-- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 11.64 %, mois 16.26 %, prix 39.9 EUR, capi 27042136113.301346, PER 14.1, volume x28.35 la normale
+- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 11.5 %, mois 16.11 %, prix 39.85 EUR, capi 27042136113.301346, PER 14.1, volume x28.46 la normale
 - Imperial Brands PLC (XETR:ITB, secteur Consumer Non-Durables) jour 15.61 %, mois 20.5 %, prix 41.32 EUR, capi 27042136113.301346, PER 14.6, volume x15.05 la normale
 - FIT Hon Teng Limited (LS:A2DT6V, secteur Electronic Technology) jour 10.89 %, mois -33.09 %, prix 0.275 EUR, capi 1682176511.214968, PER 13.8, volume x12.3 la normale
 - Air China Limited Class H (LS:A0M4WT, secteur Transportation) jour -17.74 %, mois -6.77 %, prix 0.372 EUR, capi 13274372499.077784, PER None, volume x10.49 la normale
-- Volvo Car AB Class B (SWB:8JO1, secteur Consumer Durables) jour 2.19 %, mois -7.18 %, prix 0.915 EUR, capi 2602955258.5184274, PER None, volume x8.37 la normale
+- Volvo Car AB Class B (SWB:8JO1, secteur Consumer Durables) jour 2.23 %, mois -7.14 %, prix 0.9154 EUR, capi 2602955258.5184274, PER None, volume x8.37 la normale
 - Nagarro SE (XETR:NA9A, secteur Technology Services) jour 0 %, mois -1.25 %, prix 79 EUR, capi 1019569215, PER 23.9, volume x8.11 la normale
 - Avacta Group PLC (LS:A2ADP0, secteur Commercial Services) jour 9.09 %, mois -18.18 %, prix 0.72 EUR, capi 329260554.90075463, PER None, volume x6.58 la normale
 - MPC Container Ships ASA (TRADEGATE:MP2, secteur Transportation) jour -8.07 %, mois -26.34 %, prix 2.039 EUR, capi 1067197467.6652814, PER 5.2, volume x6.47 la normale
@@ -286,9 +286,9 @@ POSITIONS ET INDICES :
 - Aroundtown SA (LSIN:0RUH, secteur Finance) jour 6.25 %, mois 20.24 %, prix 1.7585 EUR, capi 1522102628.632228, PER 7.3, volume x1.18 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3326384161590.9995, PER 14.1, volume x1.14 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1559025893850, PER 1.7, volume x0.54 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -0.11 %, mois -5.17 %, prix 316.74 USD, capi 841137764833, PER 13.3, volume x1.08 la normale
@@ -310,6 +310,11 @@ POSITIONS ET INDICES :
 - Beneteau SA (EURONEXT:BEN, secteur Consumer Durables) jour 3.84 %, mois 11.74 %, prix 5.14 EUR, capi 403167537, PER None, volume x1.03 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic Stock Is Now Trading as ANT. Should You Buy Today or Wait? - The Motley Fool
+- [Bourse de Paris et Europe] La Bourse de Paris en forte hausse jeudi - Boursorama
+- [Bourse de Paris et Europe] L'Europe finit dans le vert, séance calme en l'absence de Wall Street - Boursorama
+- [Rachats et fusions] Zscaler Q1 2027 Results, CrowdStrike $43.9B Takeover Deal - Value The Markets
+- [Défense, énergie, matières premières] BEL, HAL SOIL: Three defence stocks to buy post Q2 results; what MOFSL says - Business Today
 - [Anthropic] I'd Buy Anthropic Stock Early — but Only If I Liked the Answers to These 3 Questions - The Motley Fool
 - [Anthropic (FR)] Les entreprises technologiques sont à l'avant-garde de la vague mondiale des introductions en bourse. - Vietnam.vn
 - [Banques centrales et taux] Le cours de l’or marque le pas près de 3 570 $, les anticipations de hausse des taux de la Fed freinant les acheteurs - www.tmgm.com
@@ -452,9 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Chine et Asie] ASX 200 Today: Australian Shares Rise 0.43% on Mining Gains - JournalArta
 - [Chine et Asie] Asian Markets Rebound as Technology Stocks Recover - SuaraGarut.ID
 - [Pays émergents] Where to Invest in Emerging Market Stocks Beyond the AI Boom - Morningstar
-- [Pays émergents] Nifty Eyes Best November Returns Since 1993, While Asian Peers Enter Bear Markets - Outlook Business
-- [Pays émergents] Sun Pharma FY26 revenue up 12% to ₹582,201 mn; EBITDA margin hits 30.3% - scanx.trade
-- [Crypto] Why Is Bitcoin Dropping So Much? 5 Reasons Behind Its Worst Month Since 2022 - 24/7 Wall St.
-- [Crypto] Why Is Bitcoin Dropping So Much? 5 Reasons Behind Its Worst Month Since 2022 - Yahoo Finance
-- [Crypto] Spain gives anti-laundering unit power to freeze crypto accounts without a judge - CoinDesk
-- [Banques centrales et taux] Les dirig
+- [Pays émergents] Nifty Eyes Best Novemb
