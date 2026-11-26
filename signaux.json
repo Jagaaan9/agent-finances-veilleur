@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T17:50:37.293038+00:00",
+ "mis_a_jour": "2026-11-26T18:00:36.951833+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3567.39,
+   "prix": 3566.88,
    "devise": "USD",
-   "jour_pct": -0.61,
-   "mois_pct": -11.21,
+   "jour_pct": -0.63,
+   "mois_pct": -11.22,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,12 +160,12 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09704,
+   "prix": 1.0971,
    "devise": "USD",
    "jour_pct": -0.04,
    "mois_pct": -1.82,
-   "volume": 116051,
-   "volume_relatif": 0.58,
+   "volume": 116426,
+   "volume_relatif": 0.59,
    "capitalisation": null,
    "per": null,
    "bourse": "FX",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55080.32,
+   "prix": 55126.98,
    "devise": "EUR",
-   "jour_pct": 0.05,
-   "mois_pct": -23.07,
-   "volume": 76.56159463,
+   "jour_pct": 0.13,
+   "mois_pct": -23.0,
+   "volume": 77.1508924,
    "volume_relatif": 0.34,
    "capitalisation": null,
    "per": null,
@@ -987,11 +987,11 @@
    {
     "symbole": "GETTEX:REB",
     "nom": "Arafura Rare Earths Limited",
-    "prix": 0.085,
+    "prix": 0.0866,
     "devise": "EUR",
-    "jour_pct": 13.33,
-    "mois_pct": -7.61,
-    "volume": 233582,
+    "jour_pct": 15.47,
+    "mois_pct": -5.87,
+    "volume": 233782,
     "volume_relatif": 2.53,
     "capitalisation": 458529836.19089025,
     "per": null,
@@ -1001,14 +1001,14 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 40.13,
+    "prix": 39.85,
     "devise": "EUR",
-    "jour_pct": 12.28,
-    "mois_pct": 16.93,
-    "volume": 194939,
-    "volume_relatif": 24.66,
+    "jour_pct": 11.5,
+    "mois_pct": 16.11,
+    "volume": 205078,
+    "volume_relatif": 25.94,
     "capitalisation": 27042136113.301346,
-    "per": 14.2,
+    "per": 14.1,
     "bourse": "TRADEGATE",
     "secteur": "Consumer Non-Durables"
    },
@@ -1119,8 +1119,8 @@
     "devise": "EUR",
     "jour_pct": -8.07,
     "mois_pct": -26.34,
-    "volume": 107963,
-    "volume_relatif": 6.09,
+    "volume": 113498,
+    "volume_relatif": 6.4,
     "capitalisation": 1067197467.6652814,
     "per": 5.2,
     "bourse": "TRADEGATE",
@@ -1155,20 +1155,6 @@
     "secteur": "Utilities"
    },
    {
-    "symbole": "TRADEGATE:CBK",
-    "nom": "Commerzbank AG",
-    "prix": 33.22,
-    "devise": "EUR",
-    "jour_pct": -4.6,
-    "mois_pct": -10.31,
-    "volume": 355262,
-    "volume_relatif": 2.27,
-    "capitalisation": 36932545750,
-    "per": 11.0,
-    "bourse": "TRADEGATE",
-    "secteur": "Finance"
-   },
-   {
     "symbole": "LS:A0LB2X",
     "nom": "NagaCorp Ltd.",
     "prix": 0.233,
@@ -1183,46 +1169,32 @@
     "secteur": "Consumer Services"
    },
    {
+    "symbole": "TRADEGATE:CBK",
+    "nom": "Commerzbank AG",
+    "prix": 33.27,
+    "devise": "EUR",
+    "jour_pct": -4.45,
+    "mois_pct": -10.18,
+    "volume": 355669,
+    "volume_relatif": 2.27,
+    "capitalisation": 36932545750,
+    "per": 11.0,
+    "bourse": "TRADEGATE",
+    "secteur": "Finance"
+   },
+   {
     "symbole": "GETTEX:BY6",
     "nom": "BYD Company Limited Class H",
-    "prix": 6.71,
+    "prix": 6.731,
     "devise": "EUR",
-    "jour_pct": -4.39,
-    "mois_pct": -16.38,
-    "volume": 101536,
+    "jour_pct": -4.09,
+    "mois_pct": -16.11,
+    "volume": 101840,
     "volume_relatif": 0.98,
     "capitalisation": 73345636860.1456,
-    "per": 15.1,
+    "per": 15.2,
     "bourse": "GETTEX",
     "secteur": "Producer Manufacturing"
-   },
-   {
-    "symbole": "TRADEGATE:PLUN",
-    "nom": "Plug Power Inc.",
-    "prix": 0.9331,
-    "devise": "EUR",
-    "jour_pct": -3.77,
-    "mois_pct": -24.14,
-    "volume": 348721,
-    "volume_relatif": 0.24,
-    "capitalisation": 1357719611.2204726,
-    "per": null,
-    "bourse": "TRADEGATE",
-    "secteur": "Electronic Technology"
-   },
-   {
-    "symbole": "TRADEGATE:E3B",
-    "nom": "Eutelsat Communications SA",
-    "prix": 1.5355,
-    "devise": "EUR",
-    "jour_pct": -3.76,
-    "mois_pct": -20.65,
-    "volume": 227319,
-    "volume_relatif": 1.56,
-    "capitalisation": 1841698216,
-    "per": null,
-    "bourse": "TRADEGATE",
-    "secteur": "Communications"
    },
    {
     "symbole": "TRADEGATE:EVT",
@@ -1237,6 +1209,34 @@
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Commercial Services"
+   },
+   {
+    "symbole": "TRADEGATE:E3B",
+    "nom": "Eutelsat Communications SA",
+    "prix": 1.5425,
+    "devise": "EUR",
+    "jour_pct": -3.32,
+    "mois_pct": -20.28,
+    "volume": 227929,
+    "volume_relatif": 1.57,
+    "capitalisation": 1841698216,
+    "per": null,
+    "bourse": "TRADEGATE",
+    "secteur": "Communications"
+   },
+   {
+    "symbole": "SWB:PLUN",
+    "nom": "Plug Power Inc.",
+    "prix": 0.9347,
+    "devise": "EUR",
+    "jour_pct": -3.04,
+    "mois_pct": -23.4,
+    "volume": 129734,
+    "volume_relatif": 1.62,
+    "capitalisation": 1357719611.2204726,
+    "per": null,
+    "bourse": "SWB",
+    "secteur": "Electronic Technology"
    }
   ],
   "Allemagne : volumes anormaux": [
@@ -1257,14 +1257,14 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 40.13,
+    "prix": 39.85,
     "devise": "EUR",
-    "jour_pct": 12.28,
-    "mois_pct": 16.93,
-    "volume": 196550,
-    "volume_relatif": 24.86,
+    "jour_pct": 11.5,
+    "mois_pct": 16.11,
+    "volume": 205078,
+    "volume_relatif": 25.94,
     "capitalisation": 27042136113.301346,
-    "per": 14.2,
+    "per": 14.1,
     "bourse": "TRADEGATE",
     "secteur": "Consumer Non-Durables"
    },
@@ -1359,8 +1359,8 @@
     "devise": "EUR",
     "jour_pct": -8.07,
     "mois_pct": -26.34,
-    "volume": 107963,
-    "volume_relatif": 6.09,
+    "volume": 113498,
+    "volume_relatif": 6.4,
     "capitalisation": 1067197467.6652814,
     "per": 5.2,
     "bourse": "TRADEGATE",
@@ -3371,16 +3371,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.63,
     "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
+    "jour_pct": -1.48,
+    "mois_pct": -12.27,
+    "volume": 1550645,
+    "volume_relatif": 1.24,
     "capitalisation": 3326384161591,
-    "per": 14.3,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3399,16 +3399,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.63,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
     "devise": "USD",
-    "jour_pct": -1.48,
-    "mois_pct": -12.27,
-    "volume": 1550645,
-    "volume_relatif": 1.24,
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
     "capitalisation": 3326384161591,
-    "per": 2.1,
+    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic Falls Below IPO Price. The Threat Wasn’t Nvidia, It Came From Inside - BeInCrypto",
+   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHcEtQdkM1S0VHU2FOQnBpcVNzWm53c0RTNFpjUkdMLTlXcHpwbnE5bDRtYm5GM0tMaUxSTG10WjlCWkMzRV9XMFd6TG9OVGdJVmdrTlFYTnVrb1E2SWt2c1plQ1JLdXlYM25jcUZiU3NRc0E?oc=5",
+   "date": "Thu, 26 Nov 2026 02:15:00 GMT",
+   "vu_le": "2026-11-26T18:00:36.951833+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Les entrées en Bourse de la Tech américaine annoncent-elles le sommet du cycle ? - La Revue politique et Parlementaire",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORHZaWWZucWdPdGlBNHVTa2JGcVBCZnNRV1BNX1VXWEllU0hlVHRfcF9mN1JMQzNFcVZoUkdkb1RkbTNTOGZSX1JlRlFpWWJOM0Y0ZW9KNnlUM0R2RlJZakQteWphMXlpQ05JV3poeDZnX1FEMzBxZnF4RjlKZlBuTEEyOG13TXh5aUJvbGtQMTBMbUJZaFc2WmRsVTVETC00VVB4NG5YdjVxb0J5dXc?oc=5",
+   "date": "Thu, 26 Nov 2026 09:00:04 GMT",
+   "vu_le": "2026-11-26T18:00:36.951833+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "What Ross Stores Shares Full Year Guidance Raise Means For Shareholders - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU0JjVWdmSDVzNnFIU214UDUxUlFLdll1cElMWU5EVGw0a0hUcFVnQU9ZRW14NmMwdmxCZ3haRVVKZndlQ0dKa1hYWUR2RjRseXF5c1RmeUxkTV9Fc3drVGpYbWY2TzdrREhMYVRRdlFVdk5Ta3NpeDh1LUU1YjliWDZBanV1OHU3bE1rMVliMm5IOUtVV1F2SGJTM2stQQ?oc=5",
+   "date": "Thu, 26 Nov 2026 17:11:47 GMT",
+   "vu_le": "2026-11-26T18:00:36.951833+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin forecast: BTC/USD steadies as risk appetite returns for now - FOREX.com",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc0RwMUhQWmxTbXhiV25BOER3Q3JMdGVpTDdjNmVfZEV6YWRHS094UjVSRGdmSUcxOFVrQzlxSDZ6cHhqR08xaUk5VEZKWE5xbTlTTjhzZUkzbmdadlc1UlBDMzRIcFdJa0hzOWJPU2xZbUNtSTYzOGhXUFZGcWlTaU5NVEZPREh5THNJcHN0SUU5Tm9nWTRGOHBuY0VDanJqYV9QSE9SeVl0dnM5Vk5XRk5aNnNVRUJhQzdxVl9jTQ?oc=5",
+   "date": "Thu, 26 Nov 2026 16:52:50 GMT",
+   "vu_le": "2026-11-26T18:00:36.951833+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading - Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42Z0hBc0J0emd5cEI1NUhmLUhSaWpGeXE3dUVGZmp3Z3VwNWRRZkRzZ2ZBR2swMUpJYjk2b1IzTFdvUmJXRDI1SEphbGhsQnliWmRydFo2MHQ2Y1pfOTNibmtBR2RuMFZoNG40amw4MXJHdGtnWjR6QkJNVzJlQQ?oc=5",
+   "date": "Thu, 26 Nov 2026 16:28:23 GMT",
+   "vu_le": "2026-11-26T18:00:36.951833+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Le fonds de Leopold Aschenbrenner aurait perdu 65% au troisième trimestre - Boursorama",
@@ -6418,41 +6453,6 @@
    "titre": "2 Ways Anthropic's IPO Pays Off for Alphabet Investors - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdXlVSTZCOUtpQ3E0VWRhanIzWG1Xa0lwc1BPODhCeXh2MG5VTk1HQlBJbGgwMmZrYmFFUTM4T0pNaXlWa1dBSlVFeXVyc3dZYUxfQnZqWUh2ZGFZa1dlaldBcDZqUVQ4NDRKTEJsSllHSWcwbGRpUUxaYXJBMUtSZ3NKOEJLVGNpZUtkWXBGV1RMQzFN?oc=5",
    "date": "Thu, 26 Nov 2026 05:20:00 GMT",
-   "vu_le": "2026-11-26T06:30:35.580440+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic IPO raises stakes for China-US AI competition - Law.asia",
-   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zeUhsWXhqbTVDdTFGZjIwWG5ORVVNa3AySlRUdzk0VnJIamJiT0ZYUXFXNFp4dkpseS0wd0Q2am9IYkVkQ25OZUtZSU1CTGFkVjA3Y1RsSmtHVmV0Z0pETEUza2pOS3VuSlo3VENKZkM?oc=5",
-   "date": "Thu, 26 Nov 2026 06:20:20 GMT",
-   "vu_le": "2026-11-26T06:30:35.580440+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Is Nvidia Stock a Buy After Dell's Record AI Backlog? - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3hDamlaQlMzcEMxSkF2UjNoc2w2YTNhcFhOc0VRa21iYUpjTEoyeVNMc01xNzdzc0U4bTdDYlByYmF0UlJDX3N0a3RMWThCTWNkRUQ0REhfYkNLVkk1Nkg5QU1TZlZET3luWndSYmZORzVIWUY5bFFqbk95NFY0cURQRjZ1SXk0bFk3RGpFUUxzb2EtdkFQdFJZRQ?oc=5",
-   "date": "Thu, 26 Nov 2026 02:47:00 GMT",
-   "vu_le": "2026-11-26T06:30:35.580440+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia halts server shipments to four Southeast Asian countries, FT reports - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1ZtZ1FmQ3d0Nk9xZzFmaDNtd3ZURjZ1cm1sWkptUktqcm1aOUc3eWpIYjVpUGoxWGxWd2FjRTZiTzBGRGtaTTA3ZUFsTEJLNk5BV3VfV2VKNHJVbk1mTDJqYkZkdEFPQ09jdzVHRzBHazlKVko5bVp4WDZMSUpUaEpyZk5ZUUUxbm42MjBIRWJCaGZzVXRkNklKN2dfdDRES3RwazQ1UU55Q3Bf?oc=5",
-   "date": "Thu, 26 Nov 2026 05:09:00 GMT",
-   "vu_le": "2026-11-26T06:30:35.580440+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia Sells Top AI Chips to Chinese-Owned US Firms: CBS - The Defiant",
-   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRGM2RkdFODdwenFJQzFSVGIyWG1SQ2FYTVo3QWREMXU0SGJoOHpVUllQNFNHaWRBa2t0Q2RqZEd4eUVJdncxS2J2WTM1UnFvMGlKemR0cEVwT1Jzcy1WVmhDWHJMcTFOY2hHejRoZHNPbmZZVk55X3BLQjFGa1oyTTVCYW5SVUkxV1dKR2NuaHVHa1k?oc=5",
-   "date": "Thu, 26 Nov 2026 06:22:10 GMT",
-   "vu_le": "2026-11-26T06:30:35.580440+00:00"
-  },
-  {
-   "sujet": "Introductions en bourse",
-   "titre": "Dangote refinery shares debut on NGX December 1 - Head Topics",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa3FubjNlSU5GdmlKbVA1RnZOUFctdFNqNm5UcE1uM0huMWdQUWE4YTI5YzVFMTM0eHJOU21wbWxsX0xxdEhuMXJWbXdtVGdxYkVTMEQ2ZmxVdi03V2F2akkwU20tRUlRTTA3d05VX1NYb1lhV3VMX016ajhMcFEwMC1tbkc0MlVVWkVyUTZ1OG4?oc=5",
-   "date": "Thu, 26 Nov 2026 02:01:00 GMT",
    "vu_le": "2026-11-26T06:30:35.580440+00:00"
   }
  ],
