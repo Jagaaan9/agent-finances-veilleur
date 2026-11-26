@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T20:20:36.808549+00:00",
+ "mis_a_jour": "2026-11-26T20:30:39.727100+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.0971,
+   "prix": 1.09712,
    "devise": "USD",
-   "jour_pct": -0.04,
-   "mois_pct": -1.82,
-   "volume": 119116,
+   "jour_pct": -0.03,
+   "mois_pct": -1.81,
+   "volume": 119231,
    "volume_relatif": 0.6,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55297.68,
+   "prix": 55261.02,
    "devise": "EUR",
-   "jour_pct": 0.44,
-   "mois_pct": -22.76,
-   "volume": 79.66638413,
+   "jour_pct": 0.38,
+   "mois_pct": -22.81,
+   "volume": 79.67003226,
    "volume_relatif": 0.35,
    "capitalisation": null,
    "per": null,
@@ -1001,14 +1001,14 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 40,
+    "prix": 39.85,
     "devise": "EUR",
-    "jour_pct": 11.92,
-    "mois_pct": 16.55,
-    "volume": 234823,
-    "volume_relatif": 29.7,
+    "jour_pct": 11.5,
+    "mois_pct": 16.11,
+    "volume": 235215,
+    "volume_relatif": 29.75,
     "capitalisation": 27042136113.301346,
-    "per": 14.2,
+    "per": 14.1,
     "bourse": "TRADEGATE",
     "secteur": "Consumer Non-Durables"
    },
@@ -1115,12 +1115,12 @@
    {
     "symbole": "TRADEGATE:BYW6",
     "nom": "BayWa AG",
-    "prix": 1.68,
+    "prix": 1.728,
     "devise": "EUR",
-    "jour_pct": -12.04,
-    "mois_pct": -26.15,
-    "volume": 129836,
-    "volume_relatif": 3.64,
+    "jour_pct": -9.53,
+    "mois_pct": -24.04,
+    "volume": 135486,
+    "volume_relatif": 3.8,
     "capitalisation": 608355974,
     "per": null,
     "bourse": "TRADEGATE",
@@ -1175,7 +1175,7 @@
     "devise": "EUR",
     "jour_pct": -4.74,
     "mois_pct": -10.45,
-    "volume": 401913,
+    "volume": 402435,
     "volume_relatif": 2.57,
     "capitalisation": 36932545750,
     "per": 11.0,
@@ -1243,14 +1243,14 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 40,
+    "prix": 39.85,
     "devise": "EUR",
-    "jour_pct": 11.92,
-    "mois_pct": 16.55,
-    "volume": 234823,
-    "volume_relatif": 29.7,
+    "jour_pct": 11.5,
+    "mois_pct": 16.11,
+    "volume": 235215,
+    "volume_relatif": 29.75,
     "capitalisation": 27042136113.301346,
-    "per": 14.2,
+    "per": 14.1,
     "bourse": "TRADEGATE",
     "secteur": "Consumer Non-Durables"
    },
@@ -3371,14 +3371,14 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
+    "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.63,
+    "prix": 40.66,
     "devise": "USD",
-    "jour_pct": -1.48,
-    "mois_pct": -12.27,
-    "volume": 1550645,
-    "volume_relatif": 1.24,
+    "jour_pct": -1.74,
+    "mois_pct": -12.43,
+    "volume": 1206763,
+    "volume_relatif": 0.87,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3399,14 +3399,14 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
+    "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.66,
+    "prix": 40.63,
     "devise": "USD",
-    "jour_pct": -1.74,
-    "mois_pct": -12.43,
-    "volume": 1206763,
-    "volume_relatif": 0.87,
+    "jour_pct": -1.48,
+    "mois_pct": -12.27,
+    "volume": 1550645,
+    "volume_relatif": 1.24,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Bourses : l'Europe rebondit en l'absence de Wall Street - MoneyVox",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFM4elVsakkzczVYWEVYTldOZFhQcGtvNy02WlYzVFVnUzNsZWU4cjFibTNWeDZ6dmJCUXEzdTVkWXJfLXZqYUQ0OVBIQm1iVVV4V3kyOXBla1Q4MjNoZUMtRzZNZzFGZTN1d2xQRlc2N0VOMm9sWUFaWElfZHV0amlITmFiS1BsR2dCTXZod25PZmFxbmYwQ1dxWERoems?oc=5",
+   "date": "Thu, 26 Nov 2026 09:02:50 GMT",
+   "vu_le": "2026-11-26T20:30:39.727100+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Western Union stock faces Intermex lawsuit after deal termination - ad-hoc-news.de",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWGktWlo1eDI4WFF6TXVkVTdPd3NWMGs0dTlfOGpURU5ORkdGbGhncGpLTjJwNnBya05iMGJZRVQ4QmRMYVlsQXNSY1BtZzB6UE1oY1lPdlI4bUFtWW45T1A2NUdzMjc3bjlyU0lzWF9BYzVEaXpwdDlyNnJWZGNCUlRCVlQwcGd3RDNUdWkxQ1h0bmdMYjA2NTFlZjc1Z0FmYlRJLVpQVGgzY2RQZWo0MFVhMVhQQ1hTeEU0ZjRZZi01WWlsWmVv?oc=5",
+   "date": "Thu, 26 Nov 2026 12:33:39 GMT",
+   "vu_le": "2026-11-26T20:30:39.727100+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Inventronics Limited (TSXV:IVX) Surges as Market Momentum Builds - kalkine.ca",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWXR1VjA1LXBjVVBoOE9WMUNNbW16dWNJekY1enB2dnFaMkZmQ2FpblFFbThnMDhLQklYNmZZakpYZWFwdnJrS3gxV3NfNHh3MWtsQ2pSa1pNT1FEQnU0TjNiMXVqUVZ1VUZyejk3UjdFNXQybUpoWXZTTGNZalM0WUV3X1kwMW8xbTFhbFNDTlJzM2VkQjRWYndiLVdxQQ?oc=5",
+   "date": "Thu, 26 Nov 2026 13:36:00 GMT",
+   "vu_le": "2026-11-26T20:30:39.727100+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Ashish Kacholia Gains Rs 71,71,57,402 In A Single Day As Multibagger Shaily Engineering Plastics Surges 16.69 Per Cent; FII And DII Stakes Rise - Dalal Street Investment Journal",
+   "lien": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUUJyaVRZcjM3MlJUOUt1X3Jpb2V6OEl0a0xHX201U282RjRCZDQ4cEJVV0ZKZTlwY0VQZm15M0h0MnBjQ1I5azNOSGFOT1VFdzVFT2ZTVWlOdjF3T3J4bmZ3NnI4VFpHbEJaMDFiVURGNGxweXNqd0lVbm43dzI1RV9WYV9PVVdxTWlZQVpJVmRLQWJUaFYzMlFJVTdJM0xSR19CWFVxUWN4aU5lSHczQzF5bnZyYTJFdWU2MEd3MGZXOVlQSjNLTm9HUlQ1NkNnbXl6YVE5Zy1wcllSYWxiZHpnRTBTTWU1MExuZENwYkY0akwzdVNVOEh6NjNqR1ZaOHBOTEprdnRsN1RnRjhEeG9lLXlyUQ?oc=5",
+   "date": "Thu, 26 Nov 2026 12:01:16 GMT",
+   "vu_le": "2026-11-26T20:30:39.727100+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Brazil’s Embraer criticizes new US tariffs, warns of air travel inflation By Reuters - Investing.com",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzg0dmRPZ0ZfQ19fNnNocXp2b3IwYmpMQTlLMEhLWmNIM1lGdzYtY0RDOWRxLWxZZXNRWllRdEFTX0cxMUgxSkh0U3FHbUNmTC1VS3RNZEpSV3NfUG4zNG1RVHpQUllIQ1dvcUpFN2E0elZjU0kxZm9NYlFrVVk0MEtxUnNNX1YyQkxFZHhEQnF3cDBKSmR0RUhPa2x4Nkx3ZE5SSndWZFBSam13NjI3VmY5UDNCM2lfRjlZ?oc=5",
+   "date": "Thu, 26 Nov 2026 19:57:32 GMT",
+   "vu_le": "2026-11-26T20:30:39.727100+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery - Decrypt",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWRUVGRzeGNIMXlEUUlvUTIwd01GSE41eXdfN3pPUFJ4Ym9fVWxYZHpyeC1kYlpZbkpBY3RsVkhHdEViWFFLVGtrYnVKN0t4dW1sR0l0N2M1bW53SkdVUFcyTHJZMEhJZFBzWWdlTVVSaHFvTXhkUmV0OVVSdWE0VFNOWFZJaWhzeDVuSEZBV1hiaHJyejlhRg?oc=5",
+   "date": "Thu, 26 Nov 2026 18:18:26 GMT",
+   "vu_le": "2026-11-26T20:30:39.727100+00:00"
+  },
   {
    "sujet": "Introductions en bourse",
    "titre": "Dangote Refinery shares to list on NGX December 1 after SEC approval - Nairametrics",
@@ -6412,48 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUjFBVmhXbk5uR3RQUThPQVpuT0tSemx0U29uNTdrTjR2bDhsd2ZvT3ZHZzlPMEFrdzUza1VEMUttWE5DcGMzcC1pVlhxYWU5UjhRdEMtdW9tVTVTYWhnNVhZREJWMVV1WHAwWVM3MkEyUm1oNE1GR0xYNlBidkZHU3RVRWZVeHFVVkVNTVN1ZnBoM01tbUFLRnVoT0JQUHVCalYtdURCNUhDVm8?oc=5",
    "date": "Thu, 26 Nov 2026 06:15:00 GMT",
    "vu_le": "2026-11-26T08:10:35.452002+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Hero MotoCorp expands Harley-Davidson partnership with new dealerships - scanx.trade",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRGRUZ2ZPbjJsZGpqZndQS3JpNmN5MjNxcjVTajVkbGpCUDJmekpHSGNkRG5CbEFIdGQ0bUhJVXh1OEx4WlFIWi1sWGduRzBuSXpES1ZRS3RDb19ZWTdHa0p0aFZYTC1HYmpXazdJNjFqNkNKZF9zaWUzTE1aTFNVeVVNejRwM3J2ZTFkUHJSX19tQkk1alZXNVVkSnZqTnBIN1hTM0N2cmwxRjBsbnZIQ2VoQlZFR3M?oc=5",
-   "date": "Thu, 26 Nov 2026 06:42:10 GMT",
-   "vu_le": "2026-11-26T08:10:35.452002+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYTFWR2dVdjlEZ05yMGV2dWdjZTVhTGNNRERhY1ZNOEdFbTFrVDZYZGtUZ3g5eTZpWm82amtwSTRXSGdOUVlJeEVfR3RURldaTElpck1FdzdvR2puazdGYXQyWjRSWEZKdGtITXh2TnFtVkl1TXEyY0RiejJPalpkcmljSGtJelJ0c0wzNEN0dEMxaGdENUp5M0l6QmlNRjVLUHRnV0xEN3dpSG1tMTNPcDRpcWhlUGw4N015VUhoOHR2enVLRjk3X3NJWjdub2lVOW1vUHU1N2VYMVplTTZz?oc=5",
-   "date": "Thu, 26 Nov 2026 08:01:33 GMT",
-   "vu_le": "2026-11-26T08:10:35.452002+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Pablo Hernández de Cos, futur président de la BCE : qui est-il ? Et que va-t-il changer ? - RTBF",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjVKVlBUbzNTSlU2MmhybWhvNTQwcDdTdExrdnU1aGRzSm5BZXFHNFV2OEg4LWxKS01TZE85Q09CbXFMZDh5OGpneS10Wkgydlh5QzA0NGY1UGItZDRtcGJFWTdxRFVIMWp1NUhDVWJDR29LUUREUnlvR2dBOTA4dTNwYVlkeHZGT1hsa1pfa2txcUpOYUxfVHlLaGQtaDQyNWpMcDg4b05KaFhhd0RNVUxNSTNKaG5tcHY0?oc=5",
-   "date": "Thu, 26 Nov 2026 07:51:43 GMT",
-   "vu_le": "2026-11-26T08:00:36.177014+00:00"
-  },
-  {
-   "sujet": "Introductions en bourse",
-   "titre": "Nigeria Regulator Clears Dangote Refinery IPO Allotment Ahead of Listing - https://streamlinefeed.co.ke/",
-   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVDJEQVpra3hWSUtINm5xN1JOMnZ6MWplLS1iYlRNYm1tcnZfajlWV256aHNaRlhaN0VHMjFpVzV3QkRZa1BMQnRGekViYWsweWU5ZVRhcXZydmlIQXVSb0szVnAwTG4ybWJEVHhGc1M1RFhHb0FDSUtkY1lVZm53NENxT3J1VkhteFk2b0xJdkpKakl2M2tpZEYxRjFHamJGRXdFS1dQclZWUQ?oc=5",
-   "date": "Wed, 25 Nov 2026 10:31:00 GMT",
-   "vu_le": "2026-11-26T08:00:36.177014+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Fidelity Low-Priced Stock Fund Q3 2026 Commentary (FLPSX) - Seeking Alpha",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSnRtQkphT1ZKdS1pZFpnY0loTDk0d0NvakxHZ0lQU2pReHJTMTUyX19NVXY0NmJ4Z0dnZ1JxTzk4Q2Nha0dhNm4wUHk0Zk0teGlGbHYtUjlpaGYxZFE0YmViVVBCb05RWHNFYktKeUpxcW0zZ3FLQkpWS1VFYUlMc0QyZUVqTVF0TVZaa0hlRHN6LVE4?oc=5",
-   "date": "Thu, 26 Nov 2026 06:00:00 GMT",
-   "vu_le": "2026-11-26T08:00:36.177014+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Superhouse Ltd Upgraded to Hold as Technicals Improve and Financials Show Positive Momentum - MarketsMojo",
-   "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU0FGV0hqS0Y0Tjg3U0N4NWpzdnJoRmtQQVFFMklmMzlSNzJQNEtuaHg2Zmk3WXFtUGwyejhEajhSM1lZTm1DQzZ0MktBU0VIN3ZHNmpCNnBzaEpDc0syXzRQMDhqd1FVUDNNUUd1cXlRRldTSHlaSmdKVXVxcThmcFdCLTNvRDJnanZyS1VzU2pWUkZjY3dmSG5jUmdReE1IM180dkZ0bTdzN2F3dUpTU241X3E4azUxOWhTYXpZVVdnRGpVZTlfNjFkcjVPQzZRTTNqVmRSWE41V1BmbE1WMTh0WGwxdXZa?oc=5",
-   "date": "Wed, 25 Nov 2026 21:36:41 GMT",
-   "vu_le": "2026-11-26T08:00:36.177014+00:00"
   }
  ],
  "erreurs": []
