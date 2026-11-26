@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T21:20:35.745845+00:00",
+ "mis_a_jour": "2026-11-26T21:30:36.920787+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09698,
+   "prix": 1.09693,
    "devise": "USD",
    "jour_pct": -0.05,
-   "mois_pct": -1.39,
-   "volume": 120461,
+   "mois_pct": -1.4,
+   "volume": 120563,
    "volume_relatif": 0.61,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55429.42,
+   "prix": 55475.28,
    "devise": "EUR",
-   "jour_pct": 0.68,
-   "mois_pct": -22.58,
-   "volume": 80.3080942,
+   "jour_pct": 0.77,
+   "mois_pct": -22.51,
+   "volume": 80.32123908,
    "volume_relatif": 0.36,
    "capitalisation": null,
    "per": null,
@@ -1203,7 +1203,7 @@
     "devise": "EUR",
     "jour_pct": -3.08,
     "mois_pct": -15.23,
-    "volume": 109557,
+    "volume": 109639,
     "volume_relatif": 1.06,
     "capitalisation": 73345636860.1456,
     "per": 15.3,
@@ -3371,6 +3371,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
+    "devise": "USD",
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
+    "capitalisation": 3326384161591,
+    "per": 14.3,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.63,
@@ -3395,20 +3409,6 @@
     "volume_relatif": 0.87,
     "capitalisation": 3326384161591,
     "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
-    "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
-    "capitalisation": 3326384161591,
-    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Musk Pursues Tesla-SpaceX Merger Targeting Dec. 31 Agreement - www.tokenpost.com",
+   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OaldWaHhIR2Q2YkRjTXpSMkFqMEQ4WHpoMFZzZ2FiR1NiRE1RbmFWNk5nc2tfMGtSMklqbzBHR0UyVVR0dDh4YU5NQlJpQVc0X2VOWkdVV1A?oc=5",
+   "date": "Thu, 26 Nov 2026 08:25:15 GMT",
+   "vu_le": "2026-11-26T21:30:36.920787+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "3 Defensive Dividend Stocks Retail Investors Are Watching As Rate Worries Return - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcW5vaDBFNmVHbXNRZzMyaFdCWGN4ZjB5LWpub0RsbjNlaG9KRnVyRkJjaHVsWlFsUFRaMm9VZlNFcFhFZ3Ixa0ltNjhuUlFHLXNxT25BTHRKODlqME9OOFEzeFRFMU44ZkF0TGFVd09LVkFob05NVHZhQ1NzcGlNNGtzUUN6V0dOc0tVeW1fUVUwV0xpYkZIWU04eVQ5YlBY?oc=5",
+   "date": "Thu, 26 Nov 2026 13:09:41 GMT",
+   "vu_le": "2026-11-26T21:30:36.920787+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 26, 2026 at 12pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTEJrOEdIV1A3SldwRlVoZklveU4yRjFzWk9xS3dIVjR4bmdDT1Ixc2JaTkFvbGktUFFLVGxNN2dnTERhV0tnLVNiTVVjc29iMFl0R1FHSHl4Rng0UVd2RHlzMGhFY2pHUGQ0bXhjdVlyY29yU2NHUkNFZzRxVEpmRzU5VzRncTJRLWh1b3lOMzJIQThpVWlqY2R2bVFtbENuSHdMcDNYa0NFQm56eHUw?oc=5",
+   "date": "Thu, 26 Nov 2026 16:14:08 GMT",
+   "vu_le": "2026-11-26T21:30:36.920787+00:00"
+  },
   {
    "sujet": "Crypto",
    "titre": "Is Bitcoin a Good Investment for Building Wealth After a 50% Drop? - Yahoo Finance",
@@ -6433,28 +6454,9 @@
    "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTzFackFnbjJpN2J1d3lkOFBSWkdQM0pyc2pNLWFlUEtrTDBjQUFpU1BTSy1NVDJLOUp4N3FnVUhabUlXalpIcFgzS0NXaUh6Rl9FSUlUUndQT0tkTzVOVDBuRzR0ZmFtVFZSQzgzQWdmQnpCbHVTenN0SHRXa2MwclZEX1ZsMFpCcmpDdzhnSWZMcFF6QUJudg?oc=5",
    "date": "Thu, 26 Nov 2026 08:50:00 GMT",
    "vu_le": "2026-11-26T09:00:37.055334+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "ZEC news: Zcash developers want users to move $300 million out of an older privacy system - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSjkyZDhDcl9ZMVBBVWgyUjBINXZhS3N2MEhXRWU4WVRjZ3ZING1oMUtIbW55blpIeFliTC15V1lXNnBWczZVMHpzTnBYalIxWXBGcTRpRVVkSG1EbGNja3BvaUU2NU9vcGRqVlN6T295REFLU2JMaUdYZDNUQnFFNzF6YmFfZEdfbW42cjcxbC1tTkdhc05EMmMzN3QxRkVJREFIaE5wcWdlZm9EbE5yVldoNUJkS1IxT1lwcWpyUTRta0k?oc=5",
-   "date": "Thu, 26 Nov 2026 07:09:25 GMT",
-   "vu_le": "2026-11-26T09:00:37.055334+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Le Cac 40 veut aussi sa part du gâteau et gagne plus de 1,5% pendant que Wall Street célèbre Thanksgiving - Investir Les Echos",
-   "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObFhhRWlCdlg2NF8xMmNxTXIyUkJCVEtDb0pvLUYyOExNS0Ezb0x0N3Ewc1J4U0hjVlo1S3VwRHpFMFZaandSZVVGa2VTelQ5eE9xaUdrNVZtMmdrUFFWdmJUMV9mZTF6S0pFR29BYklxYmVtWWstVVQxcXJ5Zlh4NEtyUkVMQW53ZVVGTTRxeHZQa2NJbzNiVndhOTdVeUplTTVkN0NVNjZSTjYwVXY2UUJtVjJla1dHRGhuU3luUUl0WUtSdWtrSXNTSjVURnZOSjNwaGp4dUI4bS1YNzNHWmRSdnVQcUUwWHY0TTRpaFBydUZ1RTFaLWFIVXlCMmI5U1UtQw?oc=5",
-   "date": "Thu, 26 Nov 2026 08:13:38 GMT",
-   "vu_le": "2026-11-26T08:50:36.565923+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "CAC40 : Paris rebondit de 1,64 %, 2CRSi s'envole - Le Revenu",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONEZOc3NQZXFFRVd3aHdHcWwyekhBelE0enZPVUk0RGx4OGk4b09mSkVHN3Z6R0ptT0liS29xM1JRVXNZbThpRldpYzJ0OUVZSDlrYXJ5M3hjNnVUazJKanEtX1Y1N1pxYVZJT2dGQ2pvSnk3QmZ6c2dieUxvR3VBNWlNYzdZclh1eU1DY1JXTGtXRzNoem9zWHN3VnJhb1lnbVdoRy1pbDR0VXo0MFE?oc=5",
-   "date": "Thu, 26 Nov 2026 08:44:00 GMT",
-   "vu_le": "2026-11-26T08:50:36.565923+00:00"
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "actu Intelligence artificielle: HTTP Error 429: Too Many Requests"
+ ]
 }
