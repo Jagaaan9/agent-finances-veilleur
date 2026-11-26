@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T21:50:36.159011+00:00",
+ "mis_a_jour": "2026-11-26T22:00:35.558902+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,12 +160,12 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09695,
+   "prix": 1.09686,
    "devise": "USD",
-   "jour_pct": -0.05,
-   "mois_pct": -1.39,
-   "volume": 120770,
-   "volume_relatif": 0.61,
+   "jour_pct": -0.01,
+   "mois_pct": -1.4,
+   "volume": 0,
+   "volume_relatif": null,
    "capitalisation": null,
    "per": null,
    "bourse": "FX",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55484.69,
+   "prix": 55377.72,
    "devise": "EUR",
-   "jour_pct": 0.78,
-   "mois_pct": -22.5,
-   "volume": 80.49982336,
+   "jour_pct": 0.59,
+   "mois_pct": -22.65,
+   "volume": 80.57338624,
    "volume_relatif": 0.36,
    "capitalisation": null,
    "per": null,
@@ -1203,7 +1203,7 @@
     "devise": "EUR",
     "jour_pct": -3.08,
     "mois_pct": -15.23,
-    "volume": 109738,
+    "volume": 109756,
     "volume_relatif": 1.06,
     "capitalisation": 73345636860.1456,
     "per": 15.3,
@@ -3371,6 +3371,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
+    "devise": "USD",
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
+    "capitalisation": 3326384161591,
+    "per": 14.3,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.66,
@@ -3395,20 +3409,6 @@
     "volume_relatif": 1.24,
     "capitalisation": 3326384161591,
     "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
-    "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
-    "capitalisation": 3326384161591,
-    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Dubai Islamic Bank (DIB) to acquire Emirates Islamic in $8.5 bn deal - Beinsure",
+   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKNkRoYk9FUDcxMVpjTHgxb3RySXpOaHJZVDItbVNMQnFtSWpBRUMyRzYzMXJVdTJyVHJFemUxTExFaml5X3dyaXE1bm5NX0JmdHBPNkdUUWVqRThqTDIwMXo5TjhXTkFtOE5XNjZuXzFhTHhCdzZNZTIyYUVndw?oc=5",
+   "date": "Thu, 26 Nov 2026 12:09:03 GMT",
+   "vu_le": "2026-11-26T22:00:35.558902+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Arista Networks (ANET) Could Be 4% Undervalued On Etherlink R4 And AI Growth - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRl81ZWVsZlpzaEJ1bUVNVlF6cWpkZmFVOWdxQ0Y3WTFFcG9USGpqNWd1Y0ZfZkhPT1EwUG5kaGxRNXRSdWk0Q1l6aGtSUGlEQVZoWWxOMmRFTHNNMTVKbzFlY2x5ck1VNFcwdll6WXg0ZFJwQVhkeEVvaTEwbHJlVG91bUd3WkhSVTFEZzZmVE1MU0hsTW9nQw?oc=5",
+   "date": "Thu, 26 Nov 2026 21:10:55 GMT",
+   "vu_le": "2026-11-26T22:00:35.558902+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Defence stocks are doing well but getting sold off: here’s why - Switzer.com.au",
+   "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNUWlPa09idG9XRVgwU3RJYnpJOGFwLS1jUEtDWTAya2YxY1ZXSGZscXIxNlVuVUpKTFZEVzZsUGxoSVl3VmtDZ2NKQUV3M2dxbkNGNmZWaU54Rkxva2RiX2pFX0ZTTEUtdldFbDA1RQ?oc=5",
+   "date": "Thu, 26 Nov 2026 21:53:04 GMT",
+   "vu_le": "2026-11-26T22:00:35.558902+00:00"
+  },
   {
    "sujet": "Rachats et fusions",
    "titre": "Altria Considers Bid for Imperial Brands With Japan Tobacco - Demokratis.co.id",
@@ -6433,27 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ1o0cWlJWTVUSmxuNUY2WWlaYXZiSUdWS21WNVN1NVhWSDNEQUxDRnMzMThiY0JEVEFEODVlU29VVFNCM0xCRFYxMy1paFRKd0t2MjZvWVhMc3NJZW9uSzFIaEV4Zy1xSy1obW5rdHR5OXhhQlhZR0ZtUE50UklscEU5LVFPQXdHRi1tejRwLVNYcWNZX0YzaUwwOHZCQ3V1Q3FydA?oc=5",
    "date": "Thu, 26 Nov 2026 09:15:57 GMT",
    "vu_le": "2026-11-26T09:40:38.005387+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "CAC 40 : la Bourse retrouve des couleurs après le rebond de Wall Street - Capital.fr",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcHNZUnUydFJPZWNvMU5kVU0tbG9WWEx5c0syQnhFeHBzeWVSWFZwcnNBczBjWlMwQzBoa09PZTZneTU3bV8xc1NWYjN5NWVleGFLNXB6VlRjQmE2Njc1SGVyT1h2b1BDQV9wWVFMU3NXdkJpSmF0Z0dWRUVOLVhmaDdITFR3cThBN2FGRGNtdTBwOWcwRWJ3MVN5cmhpdlFCelN0UTUtaERURVk0dko0ODdmX0lRbEg0WjJyNw?oc=5",
-   "date": "Thu, 26 Nov 2026 09:19:04 GMT",
-   "vu_le": "2026-11-26T09:30:35.745433+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Hong Kong Stocks Rebound on Thursday as Tech Shares Recover; GenScript Biotech Rises 3% - marketscreener.com",
-   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYnNMZl9RUkEteTVkTnY4WGVMWUNKWkJLMnNRb0RvN2tfSHB4NS1JVUpET1RjVUVadGJ1cWJma3FCRzJhLWpIRUtSLUNOYmcyVUp5Sk9XYXRnODRWcVlNdXpySUF3dHZ1cnNwV1kwRi01aDh0eVJmQWlwR29HTlhaMFZWcFJGWFpXSjg3NjB1SGxPZXZGTTZmRnVGbXdYdHJoQ3N5QnFpaXJTOVVfTFgyRno0dDFuLVdEUEVWLTNJUEdodFF4WWFFMEJLN2I4WkdzcU5sQw?oc=5",
-   "date": "Thu, 26 Nov 2026 08:49:16 GMT",
-   "vu_le": "2026-11-26T09:30:35.745433+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Hong Kong Stock Exchange: Hang Seng Falls to 21,9666,01 Amid US Tariff and Geopolitical Tensions - BBN Times",
-   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0pzdzJYOEU3V2xVcU9RempRTWk1Q0pJeUh2Ulp4QXdfMmgwTWtmdVpnREtOY1pZaXhoWWVwelJHM3ZMekE0NVhjN3VJVGpWUnJLYUpiWHRhYk12eU9idkdUQ0R3TExCN2ZYNHNJcVdrRG5EYWNMdng5bkRYdzN6akVEMV9GQlNXczdKN3JjbkdCOFpNSldfc2NSVlBhcE5DcDl1MlkwLUM0LTMxOXpRdGgtaF9tTzlQVGE3ZDhOU1FaSlNlLTdGN013?oc=5",
-   "date": "Wed, 25 Nov 2026 17:33:03 GMT",
-   "vu_le": "2026-11-26T09:30:35.745433+00:00"
   }
  ],
  "erreurs": []
