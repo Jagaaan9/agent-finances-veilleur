@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T21:30:36.920787+00:00",
+ "mis_a_jour": "2026-11-26T21:40:36.919325+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09693,
+   "prix": 1.09691,
    "devise": "USD",
    "jour_pct": -0.05,
    "mois_pct": -1.4,
-   "volume": 120563,
+   "volume": 120625,
    "volume_relatif": 0.61,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55475.28,
+   "prix": 55464.21,
    "devise": "EUR",
-   "jour_pct": 0.77,
-   "mois_pct": -22.51,
-   "volume": 80.32123908,
+   "jour_pct": 0.75,
+   "mois_pct": -22.53,
+   "volume": 80.46264579,
    "volume_relatif": 0.36,
    "capitalisation": null,
    "per": null,
@@ -1203,7 +1203,7 @@
     "devise": "EUR",
     "jour_pct": -3.08,
     "mois_pct": -15.23,
-    "volume": 109639,
+    "volume": 109734,
     "volume_relatif": 1.06,
     "capitalisation": 73345636860.1456,
     "per": 15.3,
@@ -1965,20 +1965,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "SZSE:300469",
-    "nom": "Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A",
-    "prix": 28.28,
-    "devise": "CNY",
-    "jour_pct": -20,
-    "mois_pct": -42.29,
-    "volume": 13526905,
-    "volume_relatif": 2.05,
-    "capitalisation": 8287818003,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "SZSE:300670",
     "nom": "Jiangsu Daybright Intelligent Electric Co. Ltd. Class A",
     "prix": 3.6,
@@ -1991,6 +1977,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:300469",
+    "nom": "Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A",
+    "prix": 28.28,
+    "devise": "CNY",
+    "jour_pct": -20,
+    "mois_pct": -42.29,
+    "volume": 13526905,
+    "volume_relatif": 2.05,
+    "capitalisation": 8287818003,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Technology Services"
    },
    {
     "symbole": "SZSE:301049",
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
-    "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
-    "capitalisation": 3326384161591,
-    "per": 14.3,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.63,
@@ -3409,6 +3395,20 @@
     "volume_relatif": 0.87,
     "capitalisation": 3326384161591,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
+    "devise": "USD",
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
+    "capitalisation": 3326384161591,
+    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,69 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "L'Europe rebondit, Thanksgiving met en sourdine les craintes sur l'IA - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUGlOZVM3cjRudGRzVUJQeXo2R25sekdZZzVPT25VZllMaVpxVHZudklheWZJV2E0YzBJNTBRRzBaTUJEbEx1MDVWZXp3aWU3YTMyMkk2LVZ2S1ZnLVJFc0FoN1E5OW1iSFR5eDZIWWtDWHpkQ3BzOFo0YVFpVGdmMXltdVZpWE1CSVhCNTBtRldFdm02VW9KcjlqdkpOYWpRUGxVa2VoQnRqZTFRRVN6LVdLNy1jR0dsZjFFQWJHclUtOHVrcHNJY3J6U24wemFfNlRNMEVfaU5WazA3STJISGNkcFTSAeQBQVVfeXFMUFBpTmVTN3I0bnRkc1VCUHl6NkdubHpHWWc1T09uVWZZTGlacVR2bnZJYXlmSVdhNGMwSTUwUUcwWk1CRGxMdTA1VmV6d2llN2EzMjJJNi1WdktWZy1SRXNBaDdROTltYkhUeXg2SFlrQ1h6ZENwczhaNGFRaVRnZjF5bXVWaVhNQklYQjUwbUZXRXZtNlVvSnI5anZKTmFqUVBsVWtlaEJ0amUxUUVTei1XSzctY0dHbGYxRUFiR3JVLTh1a3BzSWNyelNuMHphXzZUTTBFX2lOVmswN0kySEhjZHBU?oc=5",
+   "date": "Thu, 26 Nov 2026 12:15:28 GMT",
+   "vu_le": "2026-11-26T21:40:36.919325+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Opinion | Roller-coaster fortnight for tech raises urgent questions about AI - South China Morning Post",
+   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbVowQVk5ZW1qUDYxUS1WWmg2eFdaRkt2VnZrTWJUQkRJazBRU3l4WkhxWmZkMW5haThfdjVTdUc4Z0d1VE12Qk1WNXlwRVVtblFxUm5SVXVXRHFRbjF1a3RnWGJRdlQwOFNfd2xkQzhBQU1fd0RWcGxubDlTMDhpUkhFa1NDNzVwbHUwOU53QzMxam00S3FHbV80dkk3bDZ1bTBQWDRGV2ZPY093ZTZnSWI5S1NzNU1oSzhvY2J30gG-AUFVX3lxTE1Tb0JnS1BCYVNNSk1DbTJwQ255M2NoNE1heEEyX245UUZFMlQzLTladVFRbmJmMTlkTXBJa2xObk45LUJVNE9zcjZzNV8wR05jcVgwOV9NbW80cnktWEdyTV9BejhMUGxOdHNmV1dOVzdCMGJpRDRnajBkb2tWTmU4LTNMZnRVMmQ3X1E3dGJnYjcweXl2ZzVVM0t3TjY1SUJYcTItR0NNZFlFRjVLbW9zTG5tODY5T3ZiUDlGMGc?oc=5",
+   "date": "Thu, 26 Nov 2026 21:30:06 GMT",
+   "vu_le": "2026-11-26T21:40:36.919325+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Sanofi to Acquire Insmed for $175 Per Share in $41.0 Billion Cash Deal - Minichart",
+   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZVNGV3F1UWxSRVluR1hIT3piZHdYMm10R3pLeVBGbjJtYkhQekhoeXhxTmNhM0NzY3hqaVJsODJKWVZEQ21iM1I1MVZxSWsweTFaY3phUjdTc29KQkk5aURyaDBxVEMtVkJTMGJOYkQ0Sks0bTgySmdlVXNuZTZaUGY2Tjk1NV82blZEMy1vbnduWGptSjM1ZUJCZnBmdEZ2bjZDQl9RbzZELTdwcXd6OUp0SmxWWlYxX0lGZ25CdXlZQ2tqWTZQQnBkTXlJUlg0T25GQ2FVUEJfVi1zQU94ZmhXcGQ?oc=5",
+   "date": "Thu, 26 Nov 2026 15:34:00 GMT",
+   "vu_le": "2026-11-26T21:40:36.919325+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "US Marlboro maker Altria explores Imperial cash bid, possible carve-up - WHTC",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYTNvdmY4MmhaNnhvZS1xM1AwZDdGdm1oNHYzVm1qVUNfY1JCR1p4ZWFDRUxGZTVMYWtTT1JPMUFTWXVKSkZ5MjVwSlhHRHhOU1NPRThkRHN0MGkwaDZLY2ZwZ242NlhHZ1pDaGtNdWVvY2syWlZWS2Z2MXVKTGNRMXlZRlFTejdKZExpT3VnNEpNM2daV0E?oc=5",
+   "date": "Thu, 26 Nov 2026 18:56:13 GMT",
+   "vu_le": "2026-11-26T21:40:36.919325+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Legal And General Group (LSE:LGEN) Stock Could Be 45% Undervalued After Its Run - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHZpdm1ndU5oaldObGp6ekNleGlVYmdaUTVDVzctaDN5UklDX3ZaSVRGeG5ndlA4emxKUFR6UE51b1ktcnZMT0psU0JmM3J1T1dhN1djWVBpd0hXMmxLemtMRUViRTcxTWtsWFVjYlcxTlpjRjJqalB5T0tyUEx3QS1GUVcycnRpbzR5RXktQUtNdnZoMGhCUQ?oc=5",
+   "date": "Thu, 26 Nov 2026 21:09:08 GMT",
+   "vu_le": "2026-11-26T21:40:36.919325+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "JPMorgan ActiveBuilders Emerging Markets Equity ETF Shs Unsponsored Brazilian Depositary Receipt Repr 0.1666667 Sh Financial Statements – BMFBOVESPA:JEMA39 - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uc1YzQVhGOUJlZDB2bDJMQ21WeDBJakk4WXBnOTg2cDBuM2V0bmU5MDRvVDNHQk9kYU9HV1g5a0JKVDdmSmRSRUtUQS1JRVVDZWhkVklscG4ydFlOd3liUUtTR252UzlkR2VIRGVSVGczZzVPTF9TVU5EczZxd2c?oc=5",
+   "date": "Thu, 26 Nov 2026 19:55:47 GMT",
+   "vu_le": "2026-11-26T21:40:36.919325+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Basic earnings per share (basic EPS) of JPMorgan ActiveBuilders Emerging Markets Equity ETF Shs Unsponsored Brazilian Depositary Receipt Repr 0.1666667 Sh – BMFBOVESPA:JEMA39 - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1BFRFhyNzlaa05iNEJNdHRSUjRYMll5OUp4NzV3bjlUMWFJN18wMWI0cGpyRWt5eW9vLTB6bVJJQmNOWjlRUDc2R1NMSDdDZUFCYjJ0MXFTRFVsUzJ6SWtUMTBabHVBR2dUaHlHRktrTm5FN3pzVFg0RjUxcGFlcW5qQWlwOEtZd0JWbXJETzFHV1dvcjYtUTR4OVBGTVVQOHNJa2hTUDhiXzA?oc=5",
+   "date": "Thu, 26 Nov 2026 20:42:25 GMT",
+   "vu_le": "2026-11-26T21:40:36.919325+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "HYPE price on Nov 26, 2026 at 2pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkdiNFpNMEZxendaNlN2MGkyVy1lc3pCZ3NhTmRINnZpZWtueG1HTU1TRjMxNFJwNWhsWU92NWtQT2E5bm5GNzJrM3hSeURHVHpGclV2bjRIcXBHVnRlT3JRX2lFNGhPaUE2dklRcS1ydGxJRjdWbkZsWjRqZzBHRW05NTJ0akZIVmtjQnVpM251WjBXblQ5c1pmdm5PQ0t2b2NNU21rNi0tNnJUV3Bv?oc=5",
+   "date": "Thu, 26 Nov 2026 18:10:23 GMT",
+   "vu_le": "2026-11-26T21:40:36.919325+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 26, 2026 at 2pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2hUVnBmUE1Xb2luOGJYNGNMcjJNZWt1THJsY1ROWjZ3YlFGc3NuYUJqT01MTXFOWno4MFQ3R0RZVXJPWVI1X0Z6eHg2a2ZsWEZpNnlHV2x3TlpXXzhrWDZpVV9XS1I3N1ZTdWtZd3N4ckM0X2VfcjE5MjJQR1NZdS16NVJlMGtnSTZFbkU3MHhKbk54ajZaZWQwT3JzT05SRGlpZ0NmTW5Nc2Y4S0E?oc=5",
+   "date": "Thu, 26 Nov 2026 18:10:22 GMT",
+   "vu_le": "2026-11-26T21:40:36.919325+00:00"
+  },
   {
    "sujet": "Rachats et fusions",
    "titre": "Musk Pursues Tesla-SpaceX Merger Targeting Dec. 31 Agreement - www.tokenpost.com",
@@ -6391,72 +6454,7 @@
    "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFR4bjJLczRydHVCVUpyZUh0VzNnSzBHbW5VWkRIS0wxMTU0NU82d2I4RGdoaDd6UTA5bWQ2UGxLaWU0cXJQZGRhcnR1akdUTnIyREZhbWZUSFh6Y0hsdWhuMzg4UExEdTM3YUhUd2xKLTVIT3lKazRFRWdhajAxWm1kYVBfQllPNVd3bTVlR0g0M1lHT25NZXFVZkFWS2N2OHAtWFFzRkgxMkFNT3lLXw?oc=5",
    "date": "Thu, 26 Nov 2026 08:30:17 GMT",
    "vu_le": "2026-11-26T09:20:36.099808+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Paris rattrape le sursaut américain - Zonebourse",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkFORVRFZ2p3VjQwY3FvcnFacnZYcWhNelRVc3pZMHdUV0RXeERmaXZ1ajNhN0R4OGZrUnh0MmpJYWY5dkx3VUdXeDduZ2hlOV9NZF9lUnlORjIzS2JhWGNlX3VfZzROM1Zsal9RY1VoVlo3ZFo5YVlENFpGVTFpZkZkUHNJNW5sT2daV0Q4elZBVUFXTDZJcHZSR2w?oc=5",
-   "date": "Thu, 26 Nov 2026 09:02:56 GMT",
-   "vu_le": "2026-11-26T09:20:36.099808+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Duke Energy (DUK) Following Rate Approval Has Its Valuation Back In Focus - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGNQRnpqdmVMc1lYNzZGUE96dmlGRzJNRDAtelJNdER2cmIzZ0tZYXRXblpEdGxrOUY1M3A5R3VNaEpHVVJ4WmJOSG9ETUhBSG0xR3dsLXNiQnNZX1ZPM0trTkcyRXF5ZlpEQlFLZ3RLX281NWpaeGtETWtTR3JOTURuT2NhcFRCX1ZFLVlnSTZ3bEdkODFySE90Zw?oc=5",
-   "date": "Thu, 26 Nov 2026 08:12:43 GMT",
-   "vu_le": "2026-11-26T09:20:36.099808+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Stock Fell Below Its IPO Price. Is It a Buy, or Is More Downside Just Ahead? - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkRfR3VuSVA2UDlDQk9EVmtZbkFtTElDVFhqeENoQ1pVWktOUjNJdW1oNkJsYnkyaENzYzRpSWJzc19uMGdZVTllMmFJUTNoLTF4THJGalZuZldkQXk5N25NSWdyMWx1TU0tZk1JaFVyeEJWRVhYTW5RTmhReEdMM3FyalF6RF96b1RnUmx0TW5Ndm1sdTZ1YXE1TUhYOVdhSGlDbWVXNTB2dk9fZnJUeXpGbk9OUXlpMXZEM1VFdmxjOU1m?oc=5",
-   "date": "Thu, 26 Nov 2026 09:02:02 GMT",
-   "vu_le": "2026-11-26T09:10:35.755990+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "L’or recule, les craintes d’une hausse des taux de la Fed se profilant - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNemhxY0R0cXBxWGFZRllkckJ2TzU0by1VcU9hTi14cHo2a19OX1Z1YmVmQUJSbEc4T2RXYWk0RXhfWGlmM1c0RmZCLWRXT3J4TlBidmRBWHhKR2kyY3poQ2YydUtwN1pTNk5PbkFNM0lXMTVqYkZvSFRPbDlpVVBUcElSUlJITXBCR1BaLUhZS3o5bmlHWWRiZmdBQzFJeXRxeHNvaktaZ1lBQ0ljZjNlaTZfMWR2Q1JsRDlpWHZybHZBclpEYWpQR3lFUQ?oc=5",
-   "date": "Thu, 26 Nov 2026 08:57:21 GMT",
-   "vu_le": "2026-11-26T09:10:35.755990+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "L'Europe ouvre dans le vert, Thanksgiving fait oublier les craintes sur la \"tech\" - Investir Les Echos",
-   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMkR6bmgyUGhlMlRxd0MtY2dzb3N6Zkd2MDVaRmFLNG1ZY1ZNRk5pa09oOUZHcm9xMWMtYVZLcDFfVjhtdHc2Wk92U1lpeG93VzdpSm5ZdUJQRU1mMXRtbE9QY0dIUjZYSGlSeWNlSVozdnFGSmt0MzRSMU9uS3lFS2FZVzItalZmVHozMWtGdGJXalR3SGZDeXAyWlllYktMRmxBanVSc3owTlFmRHBfemdRcHlDdlNUTDNfQi1XZzJybE5UTmFUcG92Z1NadnNWNW1yMjA2dlcxMkRIMFhCTkgxWjE?oc=5",
-   "date": "Thu, 26 Nov 2026 08:43:20 GMT",
-   "vu_le": "2026-11-26T09:00:37.055334+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Rupiah Sinks to Record Low of Rp 18,400 Amid MSCI Concerns - Jakarta Globe",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0FPQW55TjIyYXhpV1h6aUJXbS02c0NCTXZnbzR1b3V3TVgzX000YU1iQUpobFNVeFMtYmpFUnNWR21OaWRPVlRjbE1CTWdnd2RrbXVPTUZaLW9OMXJNT3RvQXNiYVNlUFpLRFVOaHlZd3VxS0JCRmREM0R6RWU4b2ZZQk9GWkx6OVAwWlc1MmlyU3lz?oc=5",
-   "date": "Thu, 26 Nov 2026 08:36:00 GMT",
-   "vu_le": "2026-11-26T09:00:37.055334+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "BTC Price Prediction: $7B Options Expiry Draws Hedges - Bitcoin Foundation",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM25Pd21vVmN2TlJkU0pHQlBGc1NlQXJxWnU0RjBrdWwxcmZfLVVkZzZjeE80NGVwN3J4bTgzei15WFNwa0Y0Y3o4OWQwMUdpSjFqU0I3VFJfZ3Y3NHY4RHZlRGhKWjRPZ1NoVjdWeTAtbWxoOFRVQVJLY1huSnRJalNzcGNmR3h2UFJ2VTRsWFNjVVgwMTd5QTljTkJ5bkk4dWdfTm1KREw?oc=5",
-   "date": "Thu, 26 Nov 2026 08:59:00 GMT",
-   "vu_le": "2026-11-26T09:00:37.055334+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "US Inflation October 2026 Hits 3.8% Before Fed Meeting - Bitcoin Foundation",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTDJaTzByRTh6YjllQW00YUpoZVd0U3J2WTdGRDNxcE9pbWowUVgweWFaRW4zQ09wd09PTm9lc3NZajQybkllNmlCdVE5QnMyUnJUV0RCWUpRd21rNEZHVXlMMTJBSG82ZVUtZWVMRXRXTGpyc1Q2dGRQRE1HRlVyQWhBbjVLX1hJWVZpWmJQY1I5bG8wNURGVW5kNkpwMnRLMG0yM0p3?oc=5",
-   "date": "Thu, 26 Nov 2026 08:59:01 GMT",
-   "vu_le": "2026-11-26T09:00:37.055334+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Spot bitcoin ETFs on track for worst month on record as bear market drags on - The Block",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTzFackFnbjJpN2J1d3lkOFBSWkdQM0pyc2pNLWFlUEtrTDBjQUFpU1BTSy1NVDJLOUp4N3FnVUhabUlXalpIcFgzS0NXaUh6Rl9FSUlUUndQT0tkTzVOVDBuRzR0ZmFtVFZSQzgzQWdmQnpCbHVTenN0SHRXa2MwclZEX1ZsMFpCcmpDdzhnSWZMcFF6QUJudg?oc=5",
-   "date": "Thu, 26 Nov 2026 08:50:00 GMT",
-   "vu_le": "2026-11-26T09:00:37.055334+00:00"
   }
  ],
- "erreurs": [
-  "actu Intelligence artificielle: HTTP Error 429: Too Many Requests"
- ]
+ "erreurs": []
 }
