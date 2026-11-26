@@ -7,13 +7,13 @@ POSITIONS ET INDICES :
 - NASDAQ Composite Index (NASDAQ:IXIC) : 23585.8023 , jour -0.62 %, mois -9.38 %
 - CAC 40 Index (EURONEXT:PX1) : 7980.57 , jour -0.75 %, mois 2.1 %
 - STOXX 50 (TVC:SX5E) : 5894.46 EUR, jour -1.82 %, mois -2.76 %
-- Japan 225 Index (TVC:NI225) : 57868.73 JPY, jour 1.5 %, mois -7.51 %
-- Hang Seng Index (TVC:HSI) : 22398.79 HKD, jour 1.97 %, mois -3.7 %
+- Japan 225 Index (TVC:NI225) : 57940.56 JPY, jour 1.63 %, mois -7.4 %
+- Hang Seng Index (TVC:HSI) : 22400.04 HKD, jour 1.98 %, mois -3.7 %
 - SSE Composite Index (SSE:000001) : 3475.4569 , jour -0.03 %, mois -6.03 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3594.06 USD, jour 0.13 %, mois -10.54 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09595 USD, jour -0.14 %, mois -1.92 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55504.21 EUR, jour 0.82 %, mois -22.47 %
+- Gold (TVC:GOLD) : 3593.16 USD, jour 0.1 %, mois -10.57 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.0959699999999999 USD, jour -0.14 %, mois -1.92 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55558.89 EUR, jour 0.92 %, mois -22.4 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -196,76 +196,76 @@ POSITIONS ET INDICES :
 - Lushang Freda Pharmaceutical Co., Ltd. Class A (SSE:600223, secteur Finance) jour 1.64 %, mois 0.36 %, prix 5.58 CNY, capi 5072677708, PER 36.1, volume x5.07 la normale
 
 ÉCRAN Japon : plus fortes hausses :
-- Kitahama Capital Partners Co., Ltd. (TSE:2134, secteur Finance) jour 30 %, mois -18.75 %, prix 13 JPY, capi 6236289001, PER None, volume x1.54 la normale
-- Tsubota Laboratory Incorporated (TSE:4890, secteur Commercial Services) jour 28.57 %, mois -21.43 %, prix 198 JPY, capi 4388885723, PER None, volume x23.28 la normale
-- JELLY BEANS GROUP Co.,Ltd. (TSE:3070, secteur Consumer Non-Durables) jour 23.68 %, mois 20.51 %, prix 47 JPY, capi 2824944702, PER None, volume x3.19 la normale
-- G-NEXT, Inc. (TSE:4179, secteur Technology Services) jour 23.18 %, mois -8.14 %, prix 271 JPY, capi 1320599543, PER None, volume x5.18 la normale
+- Kitahama Capital Partners Co., Ltd. (TSE:2134, secteur Finance) jour 30 %, mois -18.75 %, prix 13 JPY, capi 6236289001, PER None, volume x1.55 la normale
+- Tsubota Laboratory Incorporated (TSE:4890, secteur Commercial Services) jour 27.92 %, mois -21.83 %, prix 197 JPY, capi 4388885723, PER None, volume x23.64 la normale
+- JELLY BEANS GROUP Co.,Ltd. (TSE:3070, secteur Consumer Non-Durables) jour 23.68 %, mois 20.51 %, prix 47 JPY, capi 2824944702, PER None, volume x3.46 la normale
 - BCC Co.,Ltd. (TSE:7376, secteur Commercial Services) jour 22.86 %, mois -24.16 %, prix 430 JPY, capi 1517314230, PER None, volume x2.28 la normale
-- Toshin Holdings Co., Ltd. (TSE:9444, secteur Distribution Services) jour 21.15 %, mois -47.93 %, prix 126 JPY, capi 737166083, PER None, volume x32.4 la normale
-- AnGes. Inc. (TSE:4563, secteur Health Technology) jour 20.83 %, mois 0 %, prix 29 JPY, capi 10307622528, PER None, volume x8.99 la normale
-- Medrx Co., Ltd. (TSE:4586, secteur Health Technology) jour 16.81 %, mois 164 %, prix 132 JPY, capi 7340563133, PER None, volume x1.81 la normale
-- Monstarlab Inc. (TSE:5255, secteur Technology Services) jour 16.33 %, mois -20.83 %, prix 57 JPY, capi 3879445496, PER None, volume x4.25 la normale
-- Meiko Electronics Co., Ltd. (TSE:6787, secteur Electronic Technology) jour 15.89 %, mois -10.34 %, prix 8970 JPY, capi 458631114807, PER 21.6, volume x0.54 la normale
+- Toshin Holdings Co., Ltd. (TSE:9444, secteur Distribution Services) jour 21.15 %, mois -47.93 %, prix 126 JPY, capi 737166083, PER None, volume x32.51 la normale
+- Medrx Co., Ltd. (TSE:4586, secteur Health Technology) jour 18.58 %, mois 168 %, prix 134 JPY, capi 7340563133, PER None, volume x1.84 la normale
+- G-NEXT, Inc. (TSE:4179, secteur Technology Services) jour 16.82 %, mois -12.88 %, prix 257 JPY, capi 1320599543, PER None, volume x5.98 la normale
+- AnGes. Inc. (TSE:4563, secteur Health Technology) jour 16.67 %, mois -3.45 %, prix 28 JPY, capi 10307622528, PER None, volume x9.0 la normale
+- KODAMA CHEMICAL INDUSTRY CO., LTD. (TSE:4222, secteur Producer Manufacturing) jour 15.78 %, mois -3.21 %, prix 543 JPY, capi 7521834981, PER 4.7, volume x0.79 la normale
+- Meiko Electronics Co., Ltd. (TSE:6787, secteur Electronic Technology) jour 15.76 %, mois -10.44 %, prix 8960 JPY, capi 458631114807, PER 21.5, volume x0.55 la normale
 
 ÉCRAN Japon : plus fortes baisses :
-- Wedge Holdings CO., LTD. (TSE:2388, secteur Finance) jour -25 %, mois 36.36 %, prix 15 JPY, capi 509460938, PER None, volume x0.63 la normale
-- Axel Mark Inc. (TSE:3624, secteur Commercial Services) jour -24.47 %, mois 273.68 %, prix 142 JPY, capi 13781079163, PER None, volume x0.43 la normale
+- Wedge Holdings CO., LTD. (TSE:2388, secteur Finance) jour -30 %, mois 27.27 %, prix 14 JPY, capi 509460938, PER None, volume x0.63 la normale
+- Axel Mark Inc. (TSE:3624, secteur Commercial Services) jour -22.87 %, mois 281.58 %, prix 145 JPY, capi 13781079163, PER None, volume x0.45 la normale
 - CRAVIA Inc. (TSE:6573, secteur Commercial Services) jour -13.04 %, mois -9.09 %, prix 20 JPY, capi 1967127037, PER None, volume x0.67 la normale
-- Showcase, Inc. (Japan) (TSE:3909, secteur Technology Services) jour -9.08 %, mois -48.7 %, prix 551 JPY, capi 6518783569, PER 6.5, volume x0.42 la normale
-- Gyet Co.Ltd. (TSE:7603, secteur Retail Trade) jour -8.7 %, mois -22.22 %, prix 21 JPY, capi 2023796974, PER None, volume x0.21 la normale
+- AltPlus Holdings Inc. (TSE:3672, secteur Technology Services) jour -10.53 %, mois -19.05 %, prix 17 JPY, capi 1675078072, PER None, volume x0.16 la normale
+- Showcase, Inc. (Japan) (TSE:3909, secteur Technology Services) jour -8.75 %, mois -48.51 %, prix 553 JPY, capi 6518783569, PER 6.5, volume x0.43 la normale
 - REVOLUTION CO., LTD. (TSE:8894, secteur Consumer Durables) jour -7.69 %, mois -20 %, prix 12 JPY, capi 2149106537, PER None, volume x0.73 la normale
 - Intrance Co., Ltd. (TSE:3237, secteur Finance) jour -6.56 %, mois -18.57 %, prix 57 JPY, capi 3440436272, PER None, volume x0.32 la normale
-- HiJoJo Partners Inc. (TSE:657A, secteur Finance) jour -5.64 %, mois -28.82 %, prix 368 JPY, capi 22022297562, PER None, volume xNone la normale
-- Birdman Inc. (TSE:7063, secteur Commercial Services) jour -5.56 %, mois -15 %, prix 34 JPY, capi 1291845383, PER None, volume x1.79 la normale
-- AltPlus Holdings Inc. (TSE:3672, secteur Technology Services) jour -5.26 %, mois -14.29 %, prix 18 JPY, capi 1675078072, PER None, volume x0.16 la normale
+- HiJoJo Partners Inc. (TSE:657A, secteur Finance) jour -6.41 %, mois -29.4 %, prix 365 JPY, capi 22022297562, PER None, volume xNone la normale
+- Birdman Inc. (TSE:7063, secteur Commercial Services) jour -5.56 %, mois -15 %, prix 34 JPY, capi 1291845383, PER None, volume x1.86 la normale
+- AGORA Hospitality Group Co., Ltd. (TSE:9704, secteur Consumer Services) jour -5 %, mois -17.39 %, prix 19 JPY, capi 5078887939, PER None, volume x0.28 la normale
 
 ÉCRAN Japon : volumes anormaux :
-- Toshin Holdings Co., Ltd. (TSE:9444, secteur Distribution Services) jour 21.15 %, mois -47.93 %, prix 126 JPY, capi 737166083, PER None, volume x32.4 la normale
-- Tsubota Laboratory Incorporated (TSE:4890, secteur Commercial Services) jour 28.57 %, mois -21.43 %, prix 198 JPY, capi 4388885723, PER None, volume x23.28 la normale
-- MEDIA DO Co., Ltd. (TSE:3678, secteur Consumer Services) jour 14.72 %, mois 8.21 %, prix 1411 JPY, capi 18411029859, PER 21.4, volume x14.62 la normale
-- Wacom Co., Ltd. (TSE:6727, secteur Electronic Technology) jour 10.6 %, mois 16.86 %, prix 1012 JPY, capi 101926771545, PER 13.8, volume x10.99 la normale
-- AnGes. Inc. (TSE:4563, secteur Health Technology) jour 20.83 %, mois 0 %, prix 29 JPY, capi 10307622528, PER None, volume x8.99 la normale
-- First-corporation Inc. (TSE:1430, secteur Consumer Durables) jour -1.57 %, mois -3.09 %, prix 1065 JPY, capi 12791607353, PER 6.8, volume x8.45 la normale
-- VALUENEX Japan Inc. (TSE:4422, secteur Technology Services) jour 2.51 %, mois 70.7 %, prix 734 JPY, capi 5337763344, PER 50.3, volume x7.59 la normale
-- Ureru Net Advertising Group Co.Ltd. (TSE:9235, secteur Commercial Services) jour 11.24 %, mois -27.53 %, prix 287 JPY, capi 2253077923, PER None, volume x6.1 la normale
-- Taka-Q Co., Ltd. (TSE:8166, secteur Retail Trade) jour 1.59 %, mois -13.51 %, prix 64 JPY, capi 2666561279, PER 8.4, volume x5.89 la normale
-- G-NEXT, Inc. (TSE:4179, secteur Technology Services) jour 23.18 %, mois -8.14 %, prix 271 JPY, capi 1320599543, PER None, volume x5.18 la normale
+- Toshin Holdings Co., Ltd. (TSE:9444, secteur Distribution Services) jour 21.15 %, mois -47.93 %, prix 126 JPY, capi 737166083, PER None, volume x32.51 la normale
+- Tsubota Laboratory Incorporated (TSE:4890, secteur Commercial Services) jour 27.92 %, mois -21.83 %, prix 197 JPY, capi 4388885723, PER None, volume x23.64 la normale
+- MEDIA DO Co., Ltd. (TSE:3678, secteur Consumer Services) jour 14.72 %, mois 8.21 %, prix 1411 JPY, capi 18411029859, PER 21.4, volume x14.69 la normale
+- Wacom Co., Ltd. (TSE:6727, secteur Electronic Technology) jour 10.6 %, mois 16.86 %, prix 1012 JPY, capi 101926771545, PER 13.8, volume x11.28 la normale
+- AnGes. Inc. (TSE:4563, secteur Health Technology) jour 16.67 %, mois -3.45 %, prix 28 JPY, capi 10307622528, PER None, volume x9.0 la normale
+- First-corporation Inc. (TSE:1430, secteur Consumer Durables) jour -1.76 %, mois -3.28 %, prix 1063 JPY, capi 12791607353, PER 6.8, volume x8.47 la normale
+- VALUENEX Japan Inc. (TSE:4422, secteur Technology Services) jour 2.37 %, mois 70.47 %, prix 733 JPY, capi 5337763344, PER 50.3, volume x7.63 la normale
+- Ureru Net Advertising Group Co.Ltd. (TSE:9235, secteur Commercial Services) jour 10.85 %, mois -27.78 %, prix 286 JPY, capi 2253077923, PER None, volume x6.15 la normale
+- G-NEXT, Inc. (TSE:4179, secteur Technology Services) jour 16.82 %, mois -12.88 %, prix 257 JPY, capi 1320599543, PER None, volume x5.98 la normale
+- Taka-Q Co., Ltd. (TSE:8166, secteur Retail Trade) jour 3.17 %, mois -12.16 %, prix 65 JPY, capi 2666561279, PER 8.5, volume x5.89 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Kesar Petroproducts Ltd. (BSE:KESARPE, secteur Process Industries) jour 20.0 %, mois 9.9 %, prix 14.88 INR, capi 999600613, PER None, volume x1.13 la normale
-- RMC Switchgears Ltd. (NSE:RMC, secteur Producer Manufacturing) jour 14.06 %, mois 16.38 %, prix 223.94 INR, capi 1743892221, PER 18.9, volume x10.29 la normale
-- Dhampur Sugar Mills Limited (BSE:DHAMPURSUG, secteur Process Industries) jour 13.56 %, mois 7.66 %, prix 180.5 INR, capi 10279396164, PER 12.8, volume x11.92 la normale
-- Dhampur Sugar Mills Limited (NSE:DHAMPURSUG, secteur Process Industries) jour 13.41 %, mois 7.28 %, prix 180.32 INR, capi 10279396164, PER 12.8, volume x22.09 la normale
-- Shree Renuka Sugars Limited (NSE:RENUKA, secteur Process Industries) jour 10.45 %, mois 2.93 %, prix 18.61 INR, capi 37099576924, PER None, volume x11.8 la normale
-- Shree Renuka Sugars Limited (BSE:RENUKA, secteur Process Industries) jour 10.03 %, mois 2.71 %, prix 18.54 INR, capi 37099576924, PER None, volume x3.82 la normale
-- Uttam Sugar Mills Limited (NSE:UTTAMSUGAR, secteur Process Industries) jour 10.0 %, mois 20.89 %, prix 380.75 INR, capi 13308298332, PER 16.1, volume x5.84 la normale
-- Thomas Scott (India) Limited (NSE:THOMASCOTT, secteur Consumer Non-Durables) jour 9.77 %, mois 11.76 %, prix 318 INR, capi 3876647820, PER 20.6, volume x2.95 la normale
-- Singer India Limited (NSE:SINGERIND, secteur Consumer Durables) jour 8.86 %, mois 3.71 %, prix 90.77 INR, capi 5043481408, PER 26.6, volume x1.21 la normale
-- Bajaj Hindusthan Sugar Limited (NSE:BAJAJHIND, secteur Process Industries) jour 7.65 %, mois -1.89 %, prix 17.17 INR, capi 39368839961, PER 17.0, volume x1.8 la normale
+- Kesar Petroproducts Ltd. (BSE:KESARPE, secteur Process Industries) jour 20.0 %, mois 9.9 %, prix 14.88 INR, capi 999600613, PER None, volume x1.17 la normale
+- RMC Switchgears Ltd. (NSE:RMC, secteur Producer Manufacturing) jour 15.43 %, mois 17.78 %, prix 226.63 INR, capi 1743892221, PER 19.1, volume x10.76 la normale
+- Dhampur Sugar Mills Limited (BSE:DHAMPURSUG, secteur Process Industries) jour 13.4 %, mois 7.52 %, prix 180.25 INR, capi 10279396164, PER 12.8, volume x12.9 la normale
+- Dhampur Sugar Mills Limited (NSE:DHAMPURSUG, secteur Process Industries) jour 13.21 %, mois 7.09 %, prix 180.01 INR, capi 10279396164, PER 12.8, volume x26.33 la normale
+- Merritronix Ltd. (BSE:MRTX, secteur Electronic Technology) jour 13.16 %, mois -0.26 %, prix 398 INR, capi 6369732312.2, PER None, volume x0.92 la normale
+- Shree Renuka Sugars Limited (NSE:RENUKA, secteur Process Industries) jour 11.28 %, mois 3.71 %, prix 18.75 INR, capi 37099576924, PER None, volume x13.33 la normale
+- Shree Renuka Sugars Limited (BSE:RENUKA, secteur Process Industries) jour 11.16 %, mois 3.77 %, prix 18.73 INR, capi 37099576924, PER None, volume x4.5 la normale
+- Thomas Scott (India) Limited (NSE:THOMASCOTT, secteur Consumer Non-Durables) jour 10.46 %, mois 12.46 %, prix 320 INR, capi 3876647820, PER 20.7, volume x3.75 la normale
+- Yaashvi Jewellers Ltd. (BSE:YAASHVI, secteur Consumer Durables) jour 10.0 %, mois 64.01 %, prix 134.9 INR, capi 1800919855, PER None, volume x0.93 la normale
+- Uttam Sugar Mills Limited (NSE:UTTAMSUGAR, secteur Process Industries) jour 9.78 %, mois 20.65 %, prix 380 INR, capi 13308298332, PER 16.0, volume x6.28 la normale
 
 ÉCRAN Inde : plus fortes baisses :
-- Thomas Cook (India) Limited (BSE:THOMASCOOK, secteur Consumer Services) jour -9.99 %, mois 53.51 %, prix 135.09 INR, capi 60773166167, PER 30.9, volume x0.85 la normale
-- Thomas Cook (India) Limited (NSE:THOMASCOOK, secteur Consumer Services) jour -9.82 %, mois 50.4 %, prix 134.91 INR, capi 60773166167, PER 30.9, volume x0.54 la normale
-- SG Finserve Limited (BSE:SGFIN, secteur Finance) jour -6.97 %, mois -8.41 %, prix 586.2 INR, capi 51898897747, PER 20.1, volume x2.31 la normale
-- Manba Finance Limited (NSE:MANBA, secteur Finance) jour -6.75 %, mois -11.64 %, prix 125.66 INR, capi 6832559814, PER 12.3, volume x2.37 la normale
-- SG Finserve Limited (NSE:SGFIN, secteur Finance) jour -6.58 %, mois -7.72 %, prix 588.75 INR, capi 51898897747, PER 20.2, volume x2.65 la normale
-- TCI Express Ltd. (NSE:TCIEXP, secteur Transportation) jour -6.29 %, mois -15.7 %, prix 399.6 INR, capi 18635808633, PER 19.2, volume x4.46 la normale
-- Chaman Lal Setia Exports Limited (NSE:CLSEL, secteur Process Industries) jour -5.94 %, mois 2.3 %, prix 262.9 INR, capi 14224013071, PER 8.0, volume x0.88 la normale
-- Signatureglobal (India) Limited (NSE:SIGNATURE, secteur Finance) jour -5.56 %, mois 14.24 %, prix 800 INR, capi 121109569930, PER 9.7, volume x0.31 la normale
-- Sakuma Exports Limited (NSE:SAKUMA, secteur Distribution Services) jour -5.32 %, mois 28.06 %, prix 1.78 INR, capi 2618090228, PER 22.6, volume x0.37 la normale
-- Sanwaria Consumer Ltd (NSE:SANWARIA, secteur Process Industries) jour -5.26 %, mois -21.74 %, prix 0.18 INR, capi 360688965, PER None, volume x0.36 la normale
+- Thomas Cook (India) Limited (NSE:THOMASCOOK, secteur Consumer Services) jour -10.0 %, mois 50.1 %, prix 134.64 INR, capi 60773166167, PER 30.8, volume x0.57 la normale
+- Thomas Cook (India) Limited (BSE:THOMASCOOK, secteur Consumer Services) jour -9.99 %, mois 53.51 %, prix 135.09 INR, capi 60773166167, PER 30.9, volume x0.86 la normale
+- Manba Finance Limited (NSE:MANBA, secteur Finance) jour -7.23 %, mois -12.09 %, prix 125.01 INR, capi 6832559814, PER 12.3, volume x2.49 la normale
+- TCI Express Ltd. (NSE:TCIEXP, secteur Transportation) jour -6.88 %, mois -16.23 %, prix 397.05 INR, capi 18635808633, PER 19.1, volume x4.58 la normale
+- Chaman Lal Setia Exports Limited (NSE:CLSEL, secteur Process Industries) jour -6.24 %, mois 1.96 %, prix 262.05 INR, capi 14224013071, PER 8.0, volume x0.89 la normale
+- SG Finserve Limited (NSE:SGFIN, secteur Finance) jour -5.76 %, mois -6.91 %, prix 593.9 INR, capi 51898897747, PER 20.4, volume x2.98 la normale
+- SG Finserve Limited (BSE:SGFIN, secteur Finance) jour -5.71 %, mois -7.16 %, prix 594.15 INR, capi 51898897747, PER 20.4, volume x2.42 la normale
+- SpiceJet Limited (BSE:SPICEJET, secteur Transportation) jour -5.0 %, mois 8.43 %, prix 8.36 INR, capi 14131681602, PER None, volume x0.1 la normale
+- Utssav CZ Gold Jewels Limited (NSE:UTSSAV, secteur Consumer Durables) jour -5.0 %, mois -42.31 %, prix 553.9 INR, capi 15341272600, PER 19.9, volume x3.36 la normale
+- Morepen Laboratories Limited (NSE:MOREPENLAB, secteur Health Technology) jour -5.0 %, mois -32.52 %, prix 87.05 INR, capi 48302117227, PER 25.3, volume x0.89 la normale
 
 ÉCRAN Inde : volumes anormaux :
 - SJ Corporation Limited (BSE:SJCORP, secteur Consumer Durables) jour 1.0 %, mois 6.07 %, prix 202.6 INR, capi 8783723172, PER 477.6, volume x84.47 la normale
-- GMR Airports Ltd (BSE:GMRAIRPORT, secteur Transportation) jour 0.39 %, mois 15.92 %, prix 102.9 INR, capi 1093069813812, PER 256.4, volume x47.33 la normale
-- Dhampur Sugar Mills Limited (NSE:DHAMPURSUG, secteur Process Industries) jour 13.41 %, mois 7.28 %, prix 180.32 INR, capi 10279396164, PER 12.8, volume x22.09 la normale
-- LG Electronics India Limited (NSE:LGEINDIA, secteur Consumer Durables) jour -2.63 %, mois 9.16 %, prix 1770.6 INR, capi 1206891298790, PER 62.4, volume x17.52 la normale
-- Metropolis Healthcare Ltd. (BSE:METROPOLIS, secteur Health Services) jour 1.25 %, mois 6.17 %, prix 574.3 INR, capi 116801890915, PER 53.3, volume x14.33 la normale
-- Dhampur Sugar Mills Limited (BSE:DHAMPURSUG, secteur Process Industries) jour 13.56 %, mois 7.66 %, prix 180.5 INR, capi 10279396164, PER 12.8, volume x11.92 la normale
-- Shree Renuka Sugars Limited (NSE:RENUKA, secteur Process Industries) jour 10.45 %, mois 2.93 %, prix 18.61 INR, capi 37099576924, PER None, volume x11.8 la normale
-- RMC Switchgears Ltd. (NSE:RMC, secteur Producer Manufacturing) jour 14.06 %, mois 16.38 %, prix 223.94 INR, capi 1743892221, PER 18.9, volume x10.29 la normale
-- Bansal Wire Industries Limited (BSE:BANSALWIRE, secteur Non-Energy Minerals) jour -0.8 %, mois -2.13 %, prix 55.49 INR, capi 43005916968, PER 27.7, volume x9.88 la normale
-- B.R.Goyal Infrastructure Limited (BSE:BRGIL, secteur Industrial Services) jour -1.44 %, mois 0.89 %, prix 198 INR, capi 4824502401, PER 9.4, volume x8.56 la normale
+- GMR Airports Ltd (BSE:GMRAIRPORT, secteur Transportation) jour 0.34 %, mois 15.86 %, prix 102.85 INR, capi 1093069813812, PER 256.2, volume x47.35 la normale
+- Dhampur Sugar Mills Limited (NSE:DHAMPURSUG, secteur Process Industries) jour 13.21 %, mois 7.09 %, prix 180.01 INR, capi 10279396164, PER 12.8, volume x26.33 la normale
+- LG Electronics India Limited (NSE:LGEINDIA, secteur Consumer Durables) jour -2.93 %, mois 8.83 %, prix 1765.2 INR, capi 1206891298790, PER 62.3, volume x17.63 la normale
+- Metropolis Healthcare Ltd. (BSE:METROPOLIS, secteur Health Services) jour 0.82 %, mois 5.72 %, prix 571.85 INR, capi 116801890915, PER 53.1, volume x14.34 la normale
+- Shree Renuka Sugars Limited (NSE:RENUKA, secteur Process Industries) jour 11.28 %, mois 3.71 %, prix 18.75 INR, capi 37099576924, PER None, volume x13.33 la normale
+- Dhampur Sugar Mills Limited (BSE:DHAMPURSUG, secteur Process Industries) jour 13.4 %, mois 7.52 %, prix 180.25 INR, capi 10279396164, PER 12.8, volume x12.9 la normale
+- Lohia Corp Limited (BSE:LCL, secteur Producer Manufacturing) jour -0.4 %, mois -17.09 %, prix 447.75 INR, capi 48958210000, PER None, volume x12.62 la normale
+- RMC Switchgears Ltd. (NSE:RMC, secteur Producer Manufacturing) jour 15.43 %, mois 17.78 %, prix 226.63 INR, capi 1743892221, PER 19.1, volume x10.76 la normale
+- Bansal Wire Industries Limited (BSE:BANSALWIRE, secteur Non-Energy Minerals) jour -0.54 %, mois -1.87 %, prix 55.64 INR, capi 43005916968, PER 27.8, volume x9.91 la normale
 
 ÉCRAN États-Unis : meilleures performances sur 1 mois :
 - Bgin Blockchain Ltd. Class A (NASDAQ:BGIN, secteur Technology Services) jour 1.35 %, mois 197.18 %, prix 5.26 USD, capi 595095055.953757, PER None, volume x0.31 la normale
@@ -316,6 +316,13 @@ POSITIONS ET INDICES :
 - Bureau Veritas SA (EURONEXT:BVI, secteur Commercial Services) jour 6.6 %, mois 9.28 %, prix 31.8 EUR, capi 13230797511, PER 28.2, volume x3.4 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] Yann Arthus-Bertrand offers free family portraits at Paris exhibition - China Labour Bulletin
+- [Chine et Asie] Asia markets climb as tech shares recover - Investify
+- [Intelligence artificielle] Huawei Teases Next-Gen AI Memory Chip to Take On Samsung, Hynix - Bloomberg.com
+- [Pays émergents] Taiwan and South Korea lead emerging Asian stocks higher; Indonesian rupiah hits new low - The Edge Malaysia
+- [Pays émergents] NSE, BSE stock ratings: HSBC initiates coverage; sees strong growth prospects for BSE, limited upside for... - Moneycontrol.com
+- [Pays émergents] Carry Trade Faces Strain as AI Stocks Falter - Wisevoter
+- [Crypto] HYPE price on Nov 25, 2026 at 9pm EST Crypto Prediction Market - Robinhood
 - [Banques centrales et taux] Gold extends losses as hot US inflation cements Fed hike bets - TradingView
 - [Anthropic] Anthropic's IPO Rout Ends OpenAI's Free Pop, Says This Analyst - Anthropic (NASDAQ:ANT) - Benzinga
 - [Chine et Asie] Asia Data Centers Sound Out US Clients to Replace China Demand - Bloomberg
@@ -452,10 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Rachats et fusions] Tempus to acquire Personalis with $600 million cash election in merger agreement By Investing.com - Investing.com India
 - [Pays émergents] GLOBAL MARKETS-World Stocks Tumble as Trump Tariffs Rattle Markets, AI Rally Fades - KONTAN
 - [Crypto] Crypto Market Today, November 25, 2026: Bitcoin Below $60,000 as Ethereum, XRP and Solana Slide - Eurasia Business News
-- [Anthropic (FR)] Anthropic rebondit après une chute de 10 %, les marchés opérant une reprise spectaculaire | Clôture - Zonebourse Suisse
-- [Banques centrales et taux] Aux Etats-Unis, croissance et inflation flambent de concert - Bourse Direct
-- [Banques centrales et taux] Une enquête de la Fed fait état d'une croissance économique soutenue et d'une inflation tenace ces dernières s - Boursorama
-- [Banques centrales et taux] USA-L'inflation PCE accélère comme prévu en octobre - Boursorama
-- [Rachats et fusions] Tempus to acquire Personalis with $600 million cash election in merger agreement - Investing.com Canada
-- [Rachats et fusions] A bank with $2.4B in assets would merge into a UMB Financial (UMBF) unit in a cash-and-stock deal. - Stock Titan
-- [Anthropic] Anthropic Stock Is Down 33% From
+- [Anthropic (FR)
