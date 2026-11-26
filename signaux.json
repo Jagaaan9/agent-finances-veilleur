@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T22:10:41.327121+00:00",
+ "mis_a_jour": "2026-11-26T22:20:36.176243+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09681,
+   "prix": 1.09679,
    "devise": "USD",
    "jour_pct": -0.01,
    "mois_pct": -1.41,
-   "volume": 43,
+   "volume": 68,
    "volume_relatif": 0.0,
    "capitalisation": null,
    "per": null,
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55215.71,
+   "prix": 55186.69,
    "devise": "EUR",
-   "jour_pct": 0.3,
-   "mois_pct": -22.88,
-   "volume": 82.68803049,
-   "volume_relatif": 0.37,
+   "jour_pct": 0.24,
+   "mois_pct": -22.92,
+   "volume": 109.36435366,
+   "volume_relatif": 0.49,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3371,6 +3371,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.66,
+    "devise": "USD",
+    "jour_pct": -1.74,
+    "mois_pct": -12.43,
+    "volume": 1206763,
+    "volume_relatif": 0.87,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 273.1,
@@ -3393,20 +3407,6 @@
     "mois_pct": -12.27,
     "volume": 1550645,
     "volume_relatif": 1.24,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.66,
-    "devise": "USD",
-    "jour_pct": -1.74,
-    "mois_pct": -12.43,
-    "volume": 1206763,
-    "volume_relatif": 0.87,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Selon le Nikkei, la société japonaise JERA entame des négociations avec Anthropic et Meta en vue de la constru - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQalNuMzl3Rk9IMzRNMUdJVlo0RGh6eDlGQko0RkZEVU9XNHBKLXJfRVUydzdMY0F2cUtaU1FYc0ctN1JPaXI3bGpzaXhvOFVTaHlzVjU1ODhoaXpIZ3o4cHl3ZmF2cmc3azNicWhGR3N6M25pbGRkNDBtUl9wSElmZEdKQXZpLW9neXJnWnRRcnZHRUtXODEyRWt2VGR4bmU2bndabkV0d252OUp2aXppVFJUSDZtVWd1aVkzVTdSbXAyV3JmTjVOQWxSWXZzQVBUNGlTZHA3NjQ1UGcwSG52YmlXRTNabnBnVFNWN2FBRERoQmZiMUpFN3lKdUdrcHB3NjhPMnE3dVozdy1VZmR5RExsWW1nVGNpUDZSUEY0VDY0SE1La09OSjRjVGlENm1yWVpOTi1kNkNEUdIBvwJBVV95cUxNRzhpTnI1WEtuMXRBWlRCbVFoQWlUYTVCWE95OUNsSVl6R0ZFT3VESzRKRi1HMHU2bTZ2Vy1mYUFVZmFKcjNvdHVOLS1CR3kxdGlZUFlPbkE2VEI4c25ENmtJNTYyd3RVdmY4c2Z1Y1lIbUdteWp4S3FQSXoxcU15N2Q5QjhjWW9yU2o0YVRwRlRiZlZuUF9rYjdySHdRRFhGVXlSMDBDZFBsRTI5QzFoRWdnZW53N21wX1ZnMklrM1J1dkMtVXNNbC1EYkJLYTAwSTRGdnBSd1czUVZIS3VYY0RWS3hiZjZrLUVpMmhXSmxoX3lWcktQdkF3NGZtVHQ5S0NGSzFfbTg2SkVrNkVMQ3NkUDQ1Vkd3QWFIb0E1SzRKNjExdVZCRjFUb0tjNFY1RWlOWHFiQXk3LWFtdUg0?oc=5",
+   "date": "Thu, 26 Nov 2026 22:10:30 GMT",
+   "vu_le": "2026-11-26T22:20:36.176243+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "JERA entame des discussions avec Anthropic et Meta pour construire des centres de données, rapporte Nikkei - Zonebourse Suisse",
+   "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTnJ1THU5TllZZmlUdTdoZWgzR29XajFSSGpvM1c2aEQ0ak1pRGdBQWlSclFiVi01WWpNOUtibzFDb3J6R0JxdDVxdExrNzUyY3hzQWx5elZmc0JkRHJucXBwOHFVOEVGYm5jR1RNQVBTSzdQQ0l0UGw4eVVHNzVpQ05fSndlekxzX2JnSktUVEgxV1h0RktlbEtUa3hpcGZCbzhVNzB4NGR2S2xfaUczWWk5dTNYbDhYNTF6T2FzdFZpQzZzLVpMazVORlZmMW9pUXV6QzJiUGs5ekJFcWt1dkJJdU1iWllBeDZET2djQQ?oc=5",
+   "date": "Thu, 26 Nov 2026 22:11:21 GMT",
+   "vu_le": "2026-11-26T22:20:36.176243+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street recovers most early losses as pullback in AI stocks eases - cbs19news.com",
+   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMTViR3R2X013djJTVGxLQUJ6cm5KN1h1TjNqZ1hIM2lpNmxDOFRROTFTRjY3QVdfWXhIX2RiRzN6X2FYTE5HeFhBVVlwdGhZN2tCNHJBMUZHTVB1TXpDalQ3OTJlNC1XbWdnaGthcFE1WHBqb1gwS0pCNVpjSkNtRE1DY2VwOGt1T3lQWHhQQVptM0V4VTVWTDlFRWZUbUhHNlNnaEVCZ0xaV1dDN0FIRlJFeHZWVVVFX25FMzNBc3g1bEhnTVlTNkFWUVk1MXowSEhBcmxCZDE4NHB6UUtweXhLZkg?oc=5",
+   "date": "Wed, 25 Nov 2026 23:05:00 GMT",
+   "vu_le": "2026-11-26T22:20:36.176243+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Hong Kong Stock Exchange: Hang Seng Snaps Seven-Day Losing Streak, Rises 1.19% to 22,226.88 on AI Rebound - BBN Times",
+   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXl3RlJpbEpOQ1BacTd5Sm1rUjVaa3BFdTM1WmZ6dU5VUEdpNGQ5TEZjV1gyVnd1V0l5LVVXVGVUMV9hQzh4WTY4T0t5VUJWMzZnSWhoZ2FPdHRnNFlXQVJoV3U2akFFNjdRRGY5RkI0TXBxZk5DTmxJOGpmUkdlRHFHa0ZadUVmNE5udWVtQXE4SWN3N08zdEIzZ2dWcXcxWV9venEtSDJQYVBwRHVDVG50RUZ1RjRXUUJnV1l2R0t1RzBjdnpQX2pHYUhBcW5VUjlJ?oc=5",
+   "date": "Thu, 26 Nov 2026 22:11:54 GMT",
+   "vu_le": "2026-11-26T22:20:36.176243+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "SSE Composite Flat at 3,476.88 as Banks Hit Records and US Tariff Threat Caps China's Rebound - BBN Times",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOREo5Y20zQkdVVlU5YUhDOUt2RHFrT1k3aXdwTndHS25EVEY1NUtZcm9Ib1JoZFg4OUhKeUNvaFU1Y0s1LVdDU3FmSG5GUXA4TnpRSy1UanJYUEp1NHFOenBXOFdMTmtSQlBYcFR5dWF6d19KTlUwUjJLdWFDQ19IaVZKRWZ1VzFzWlVWWFF6b3dWY2pPQmhYXzVzTHJuSTc5NjV6X2lwZzNTS2VwM1h4ZWc5TU11QjZWZjBuYm9aS25sZHpEbGVz?oc=5",
+   "date": "Thu, 26 Nov 2026 22:06:54 GMT",
+   "vu_le": "2026-11-26T22:20:36.176243+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Five questions over Nvidia's China chip trail that Huang's return has not settled - investingLive",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVFdDc01rM2JOeVpDV21TeTZHYU40RERyTHhjYVNuU1RHZWdUN1I1c3lRcWRiV1ltSWNNOERmSE91b1NuN3gzdlhyWWZYQ29PLWRTeW9GbExwZVo1VUtRWUV2d19Vd3lQQnM5VW9UdUg3LW5PVm1ORDI3RTkwSlVkejZ4YThNOFZsSUJPSnd1clBRSU50UGY2dURTdFpiWTV1bnExY2FQT1VMTGFhMklvM2s1MFVRZw?oc=5",
+   "date": "Thu, 26 Nov 2026 21:56:26 GMT",
+   "vu_le": "2026-11-26T22:20:36.176243+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Did Earnings Beat Just Shift Equinix (EQIX) Investment Narrative? - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNTAxRlZaM2Vyc2lZSlpFNHZBSEV0V3VJeng4YXNBRmRqMkJKaUwtUVRVV1prMHpXLUVMNC03Ulg0Zmc5cHF0RkxPUEtYYXV2NUo0YUE5OHZDQ1dIamNDWVBOdlVtdWtiMW9xYmozcldGcURnV2cwbGxPRldTaXFjTGVBamJrS0NkSmRGb21zeDBvRDhya1JVREJ3bnFCcGhlR1JudDBjOU9QX1dxMXBiWlNrYVVZbnV1YVZYQzFiOEV3TTJZS1BuNw?oc=5",
+   "date": "Thu, 26 Nov 2026 22:10:29 GMT",
+   "vu_le": "2026-11-26T22:20:36.176243+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Dogecoin price on Nov 26, 2026 at 2pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX1VMRFhEejlrSmwyY05CaXFkQ2hyc3VWTk1KVmpvc1FVdVVoSE9vZXRaOGhtWmE4cmlqTjl5Q0ZQWmpNdnhlM0hhV3ZXeWhpN1ZYUVhzUGdRRzdteVk5TTloMG5NT2FNZi1OeWpZcERybGp0X3RHanpSaExQc0R0R2taS0JnWlZhMFlLNUxVTnlLQ09FSEU3MkE1cjFvRTFON2x6MVZ0cEdvd25yUVY3Qi1xNXI?oc=5",
+   "date": "Thu, 26 Nov 2026 18:10:22 GMT",
+   "vu_le": "2026-11-26T22:20:36.176243+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "SSE Composite Flat at 3,476.88 as Banks Hit Records and US Tariff Threat Caps China's Rebound - BBN Times",
@@ -6398,62 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1QwZ0FUU2x1ckxnSFVrN0RIUmN0cTlaN1BWS3JTX0ZQVVVHWHU0bmZkcXVMdWtqSDJheklsTnFvel9fZTRDcU04OHRCSkktYVltMUtOQ2NqdzhVVmZSSEFSMVdiSUllUGdnNXV6MllPdEdnYlhjNW5fMTlMVXBGQVVFT3hLdV9lOEVJWk9YNkVxY0dsLVVQWTcxZ2VrNmU2Z2lDemJFYTlEY2g5NTdEeEZodWw2OXlFZ2kzMA?oc=5",
    "date": "Thu, 26 Nov 2026 09:38:32 GMT",
    "vu_le": "2026-11-26T09:50:35.670102+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Explainer: Why are Indian rice prices rising despite record stocks? - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUnVRejZuaktCS2E0RmxXX3JjTDdJQkRhS196SXlxcEFaUHpEMmp4cVlLWi1BckhuRmVfRE1jTUxfclpid3BsMWxqUi1hQ3gyb3JXbTNHeThzV1dyc1RDaHBMS2I1UGk3a3lHZk45WWlGNU5qU0tSOVFUSkJfTmJZVUYzejl0Ymx4V2R5S3NRNGNzUlh2OC1wdGFqMU9RUkVyTzVqcV93?oc=5",
-   "date": "Thu, 26 Nov 2026 09:35:44 GMT",
-   "vu_le": "2026-11-26T09:50:35.670102+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Dow Jones Shows Relative Resilience as Investors Rotate Toward Defensive and Value Stocks - kalkine.co.uk",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV25ycS1sbGJGMWpPZHc4TXFuZHlROGRlYnh6dTVrbmxyYlU2ZkpGd0RQNHNFLUxyWGplN1FDZ3ZVTmh0TmN1NFRpV2xVSEd2dzNlTHowZlNiS0dVX0ZRQTlzSE5yZmt6REVxaWN0ajRjWEU1bEplV3hQQkxESjBsbzFxRFg0emhyUFp0YnBtN0VFMkQwMmpqWmJrY1NWaGQwQVg5N0lROERKWWNGU3JwSWpGLXUzaGEybzVFWDhVS1paT3JnZTJoUQ?oc=5",
-   "date": "Thu, 26 Nov 2026 07:29:00 GMT",
-   "vu_le": "2026-11-26T09:50:35.670102+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Wells Fargo Is Now the Largest Institutional Holder of Spot Bitcoin ETFs. If Banks Are Buying Bitcoin, Should You? - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeHh4ZmUxSVNFZUZKMktQWm1BNEtMYzNSTnRuaHBPQ3hieS1YUWQtYWVBZFZsMk1pUG80MkgwYXpLaFlTMWRJSENCTmg5ekprcHI0aHN0NGFwMEdJTFAwcklCN0t2UkxHcE9RMzYySkdWNjJzQV9MRzhOV1BYMHo5aWpxc2lhOXVoOWJGMmxsR3lnRmhIS0Y5LTgzYTlPU0FfVlZpS2dFNENBNjZaekZoaXNha3dibE9RWEFiSTdpaUdTZXRkV2hFNXlDSk01N2FFanRTOWhiakYwQmFoTzNPV2tNTDJXLWVYeVE?oc=5",
-   "date": "Thu, 26 Nov 2026 09:30:02 GMT",
-   "vu_le": "2026-11-26T09:50:35.670102+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Fed survey shows continued economic growth, sticky inflation in recent weeks - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWDJqeHk2NnFfLTNhanpuTEJLWXNXQXlZWS1FNXM2UDM0MVZpd2EwR3B3dlFLV3c1OHlYdEdpZ0oyYWZMTXFMTUpaS0hpbkx2NW1MeUo1SnhvVk9CdzktQVYyVld0QWpuZUFQdjlmLTdCSTZ2SWRnSnoxam9Dc2tmX2ZRWkFvUXY3UWVYU2c2NVFac1NTNWd3MFEtRFNMVXMyeHBVR2ROdkUtQlB0Xy1oUG4xVTYxZFIwVmU3TmxEbndXRllOMjdUdEJhcGVaeU1QYXhtM29MaVFwNjdo?oc=5",
-   "date": "Wed, 25 Nov 2026 20:38:29 GMT",
-   "vu_le": "2026-11-26T09:40:38.005387+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Asian Stocks Rebound as Technology Shares Recover - cwibc.co.id",
-   "lien": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZUjBjZVFwMlViQ25XRnJWN1d6bFNmdVJfbUJ2NjlvTkE4a1RQUUVLX09QSnZQY3EwZnNHU1NLaXRDUWxVaS1HTHQ1SmJhaVNSUjlkbGNDanZmR2Za?oc=5",
-   "date": "Thu, 26 Nov 2026 06:37:07 GMT",
-   "vu_le": "2026-11-26T09:40:38.005387+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "What Gaotu Techedu (GOTU) Said on Its Q3 Earnings Call - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVJBQjh2eURpYzh3VHU5LTdnd1YxTXozY2xneWNjSFVGd1loVGZId3R4UlRKVXFkRmJqS1FZanJSa204cENEVHB2ek96ZnJEVlFhQWFRakVSenZnZW5XN0xPVjJqUllyc0JVQ0RhWjNuaWJfMDdzZ1Y2d0N2ZzYwVHVzOXlwNlJKRC1iX1huWGxIa09CMHVmWUJMN1VYNHNiRGw4RklzVGVYRTlhNDI1d1hkQQ?oc=5",
-   "date": "Wed, 25 Nov 2026 15:14:37 GMT",
-   "vu_le": "2026-11-26T09:40:38.005387+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "US Tariffs on India: 7 Stocks in Focus as Proposed 25% Rate Could Fall to 17% - NiftyTrader",
-   "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNThtMVlJUzlHNmdTRmpPalpJZjh0N3A3dUVQWWZ3dlBTWVFnUXZrdnFaRV83eFpFcFVQa25DWlhZenBZZ3NXX1BpNm4wajVYQnI3cEh6YlhyRlhlelZPUXJyRXM5THY3UmpLVjVESEJCX1MtckJzRXJWNnl6RlltQnZaOA?oc=5",
-   "date": "Thu, 26 Nov 2026 08:06:51 GMT",
-   "vu_le": "2026-11-26T09:40:38.005387+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "L3Harris Technologies Stock Outlook: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHpoekNrcGJTVjRqMmNTRk9ob2xMZl9fald0ZlhzZ0sxczNLbDdpSmhka0xsVDNXWDdCRTJKa19QaEJKMkQ2RFROczZTbjduSDVYYzVKSzdMX3YwM0ZRRE94TmdkRGhDYWlyYjNfTXVUSWRpbG1nX09qS21vRFhqWTdDN3lDb2hicVk5OFFVSmZYN0dZLXdFVzVSbW5OUGFMUXB4bkZ6N1Q?oc=5",
-   "date": "Wed, 25 Nov 2026 14:11:48 GMT",
-   "vu_le": "2026-11-26T09:40:38.005387+00:00"
   }
  ],
  "erreurs": []

@@ -12,8 +12,8 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
 - Gold (TVC:GOLD) : 3566.392 USD, jour -0.64 %, mois -11.23 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09681 USD, jour -0.01 %, mois -1.41 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55215.71 EUR, jour 0.3 %, mois -22.88 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09679 USD, jour -0.01 %, mois -1.41 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55186.69 EUR, jour 0.24 %, mois -22.92 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -286,9 +286,9 @@ POSITIONS ET INDICES :
 - Aroundtown SA (LSIN:0RUH, secteur Finance) jour 6.25 %, mois 20.24 %, prix 1.7585 EUR, capi 1522102628.632228, PER 7.3, volume x1.18 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3326384161590.9995, PER 14.1, volume x1.14 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1559025893850, PER 1.7, volume x0.54 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -0.11 %, mois -5.17 %, prix 316.74 USD, capi 841137764833, PER 13.3, volume x1.08 la normale
@@ -310,6 +310,14 @@ POSITIONS ET INDICES :
 - Beneteau SA (EURONEXT:BEN, secteur Consumer Durables) jour 3.84 %, mois 11.74 %, prix 5.14 EUR, capi 403167537, PER None, volume x1.03 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Selon le Nikkei, la société japonaise JERA entame des négociations avec Anthropic et Meta en vue de la constru - Boursorama
+- [Anthropic (FR)] JERA entame des discussions avec Anthropic et Meta pour construire des centres de données, rapporte Nikkei - Zonebourse Suisse
+- [Marchés mondiaux] Wall Street recovers most early losses as pullback in AI stocks eases - cbs19news.com
+- [Chine et Asie] Hong Kong Stock Exchange: Hang Seng Snaps Seven-Day Losing Streak, Rises 1.19% to 22,226.88 on AI Rebound - BBN Times
+- [Chine et Asie] SSE Composite Flat at 3,476.88 as Banks Hit Records and US Tariff Threat Caps China's Rebound - BBN Times
+- [Intelligence artificielle] Five questions over Nvidia's China chip trail that Huang's return has not settled - investingLive
+- [Résultats d'entreprises] Did Earnings Beat Just Shift Equinix (EQIX) Investment Narrative? - Simply Wall St
+- [Crypto] Dogecoin price on Nov 26, 2026 at 2pm EST Crypto Prediction Market - Robinhood
 - [Chine et Asie] SSE Composite Flat at 3,476.88 as Banks Hit Records and US Tariff Threat Caps China's Rebound - BBN Times
 - [Rachats et fusions] Marlboro maker Altria explores takeover of UK's Imperial Brands - CNBC
 - [Rachats et fusions] Dubai Islamic Bank (DIB) to acquire Emirates Islamic in $8.5 bn deal - Beinsure
@@ -448,11 +456,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Intelligence artificielle] Nvidia Pauses Advanced Chip Orders in Southeast Asia - Investing News Network
 - [Intelligence artificielle] FormFactor And 2 Other AI Chip Stocks To Watch - Yahoo Finance
 - [Petites valeurs en croissance] Is eBay (EBAY) Undervalued Following Strong Q3 2026 Revenue Growth? - Yahoo Finance
-- [Banques centrales et taux] L’euro progresse légèrement, le compte rendu de la BCE révélant une volonté de poursuivre le resserrement monétaire - www.tmgm.com
-- [Banques centrales et taux] Réserve fédérale : des hausses de taux graduelles intégrées dans les cours – Commerzbank - www.tmgm.com
-- [Rachats et fusions] US Marlboro maker Altria explores Imperial Brands takeover in Big Tobacco mega deal - Reuters
-- [Pays émergents] Top 30 Stocks For New Investors In India November 2026 - Samco
-- [Pays émergents] FPI buying lifts markets, but India's external outlook remains uncertain - Business Standard
-- [Défense, énergie, matières premières] RTX vs. HEI: Which Defense Stock Has Greater Upside Potential? - TradingView
-- [Défense, énergie, matières premières] UK stocks rise on banks, industrials' strength; Babcock leads FTSE 100 - Reuters
-- [Anthropic] Ed Zitron says the AI trade peaked at Anthropic's IPO — and Bitcoin's slide to $55,000 is riding the same unwind - BigGo Financ
+-
