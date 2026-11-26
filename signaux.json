@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T21:00:36.230154+00:00",
+ "mis_a_jour": "2026-11-26T21:10:34.798521+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,12 +160,12 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09693,
+   "prix": 1.09692,
    "devise": "USD",
    "jour_pct": -0.05,
    "mois_pct": -1.4,
-   "volume": 119925,
-   "volume_relatif": 0.6,
+   "volume": 120239,
+   "volume_relatif": 0.61,
    "capitalisation": null,
    "per": null,
    "bourse": "FX",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55338.17,
+   "prix": 55382.82,
    "devise": "EUR",
-   "jour_pct": 0.52,
-   "mois_pct": -22.71,
-   "volume": 80.10111588,
+   "jour_pct": 0.6,
+   "mois_pct": -22.64,
+   "volume": 80.11659723,
    "volume_relatif": 0.36,
    "capitalisation": null,
    "per": null,
@@ -999,6 +999,20 @@
     "secteur": "Non-Energy Minerals"
    },
    {
+    "symbole": "TRADEGATE:ITB",
+    "nom": "Imperial Brands PLC",
+    "prix": 39.75,
+    "devise": "EUR",
+    "jour_pct": 11.22,
+    "mois_pct": 15.82,
+    "volume": 244619,
+    "volume_relatif": 30.94,
+    "capitalisation": 27042136113.301346,
+    "per": 14.1,
+    "bourse": "TRADEGATE",
+    "secteur": "Consumer Non-Durables"
+   },
+   {
     "symbole": "LS:A2DT6V",
     "nom": "FIT Hon Teng Limited",
     "prix": 0.275,
@@ -1011,20 +1025,6 @@
     "per": 13.8,
     "bourse": "LS",
     "secteur": "Electronic Technology"
-   },
-   {
-    "symbole": "TRADEGATE:ITB",
-    "nom": "Imperial Brands PLC",
-    "prix": 39.6,
-    "devise": "EUR",
-    "jour_pct": 10.8,
-    "mois_pct": 15.38,
-    "volume": 241565,
-    "volume_relatif": 30.56,
-    "capitalisation": 27042136113.301346,
-    "per": 14.0,
-    "bourse": "TRADEGATE",
-    "secteur": "Consumer Non-Durables"
    },
    {
     "symbole": "XETR:IJ8",
@@ -1055,6 +1055,20 @@
     "secteur": "Commercial Services"
    },
    {
+    "symbole": "TRADEGATE:AT1",
+    "nom": "Aroundtown SA",
+    "prix": 1.819,
+    "devise": "EUR",
+    "jour_pct": 8.92,
+    "mois_pct": 25.1,
+    "volume": 401111,
+    "volume_relatif": 3.01,
+    "capitalisation": 1818982381,
+    "per": 7.5,
+    "bourse": "TRADEGATE",
+    "secteur": "Finance"
+   },
+   {
     "symbole": "XETR:PLUN",
     "nom": "Plug Power Inc.",
     "prix": 0.9491,
@@ -1081,20 +1095,6 @@
     "per": null,
     "bourse": "XETR",
     "secteur": "Consumer Durables"
-   },
-   {
-    "symbole": "TRADEGATE:IJU",
-    "nom": "Intrum AB",
-    "prix": 0.1605,
-    "devise": "EUR",
-    "jour_pct": 7.65,
-    "mois_pct": 6.72,
-    "volume": 236695,
-    "volume_relatif": 1.26,
-    "capitalisation": 464242842.8715551,
-    "per": null,
-    "bourse": "TRADEGATE",
-    "secteur": "Commercial Services"
    }
   ],
   "Allemagne : plus fortes baisses": [
@@ -1115,12 +1115,12 @@
    {
     "symbole": "TRADEGATE:BYW6",
     "nom": "BayWa AG",
-    "prix": 1.728,
+    "prix": 1.702,
     "devise": "EUR",
-    "jour_pct": -9.53,
-    "mois_pct": -24.04,
-    "volume": 135486,
-    "volume_relatif": 3.8,
+    "jour_pct": -10.89,
+    "mois_pct": -25.19,
+    "volume": 135786,
+    "volume_relatif": 3.81,
     "capitalisation": 608355974,
     "per": null,
     "bourse": "TRADEGATE",
@@ -1143,14 +1143,14 @@
    {
     "symbole": "SWB:MP2",
     "nom": "MPC Container Ships ASA",
-    "prix": 2.031,
+    "prix": 2.028,
     "devise": "EUR",
-    "jour_pct": -7.77,
-    "mois_pct": -24.75,
+    "jour_pct": -7.9,
+    "mois_pct": -24.86,
     "volume": 105440,
     "volume_relatif": 28.58,
     "capitalisation": 1067197467.6652814,
-    "per": 5.2,
+    "per": 5.1,
     "bourse": "SWB",
     "secteur": "Transportation"
    },
@@ -1175,8 +1175,8 @@
     "devise": "EUR",
     "jour_pct": -4.85,
     "mois_pct": -10.56,
-    "volume": 406956,
-    "volume_relatif": 2.6,
+    "volume": 407560,
+    "volume_relatif": 2.61,
     "capitalisation": 36932545750,
     "per": 11.0,
     "bourse": "TRADEGATE",
@@ -1243,28 +1243,28 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 39.6,
+    "prix": 39.75,
     "devise": "EUR",
-    "jour_pct": 10.8,
-    "mois_pct": 15.38,
-    "volume": 241565,
-    "volume_relatif": 30.56,
+    "jour_pct": 11.22,
+    "mois_pct": 15.82,
+    "volume": 244619,
+    "volume_relatif": 30.94,
     "capitalisation": 27042136113.301346,
-    "per": 14.0,
+    "per": 14.1,
     "bourse": "TRADEGATE",
     "secteur": "Consumer Non-Durables"
    },
    {
     "symbole": "SWB:MP2",
     "nom": "MPC Container Ships ASA",
-    "prix": 2.031,
+    "prix": 2.028,
     "devise": "EUR",
-    "jour_pct": -7.77,
-    "mois_pct": -24.75,
+    "jour_pct": -7.9,
+    "mois_pct": -24.86,
     "volume": 105440,
     "volume_relatif": 28.58,
     "capitalisation": 1067197467.6652814,
-    "per": 5.2,
+    "per": 5.1,
     "bourse": "SWB",
     "secteur": "Transportation"
    },
@@ -1313,10 +1313,10 @@
    {
     "symbole": "SWB:8JO1",
     "nom": "Volvo Car AB Class B",
-    "prix": 0.9158,
+    "prix": 0.916,
     "devise": "EUR",
-    "jour_pct": 2.28,
-    "mois_pct": -7.1,
+    "jour_pct": 2.3,
+    "mois_pct": -7.08,
     "volume": 206000,
     "volume_relatif": 8.37,
     "capitalisation": 2602955258.5184274,
@@ -3371,16 +3371,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.66,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
     "devise": "USD",
-    "jour_pct": -1.74,
-    "mois_pct": -12.43,
-    "volume": 1206763,
-    "volume_relatif": 0.87,
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
     "capitalisation": 3326384161591,
-    "per": 2.1,
+    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3399,16 +3399,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.66,
     "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
+    "jour_pct": -1.74,
+    "mois_pct": -12.43,
+    "volume": 1206763,
+    "volume_relatif": 0.87,
     "capitalisation": 3326384161591,
-    "per": 14.3,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Les Américains sont à table et l'Europe se régale - Zonebourse",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaUtqUGpac0tSNWlGZkwxd0g5OTEyS1RMOXJ5RGE1SlpvTkdBc2loWDFfWUhCUGVTWGJJNkJWR2RWeWdsU0hZcmFNSFQxTlRkN1YyWnplLXZTNkNZcDBrSy1fWlh6TmxHUTl1Zk5sblBvRERZTlEtcGFJa1BMM0FodWxzdzRLLXpzSVllc3ZWMG1vNVJYUU91LXJSUnN1eWZxbDJrYkhncG5UVWYzVl9N?oc=5",
+   "date": "Thu, 26 Nov 2026 11:06:18 GMT",
+   "vu_le": "2026-11-26T21:10:34.798521+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "California companies owned by Chinese firms are scooping up Nvidia’s most advanced AI chips: report - New York Post",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1NqSGpiN2IzRzMtNnFlTHg0QVg1Nkw2UjRvUVlGY29oMnV0enQ1ZndsNElEa2ExT2lfSWVhMlpBMjlvb3FxQTFRU0NHTVRiem9IYTJkazNSY3FIRGwtb1VhVVlzSTJZbmxpOFhVZXhwUXBxT0pCaGRuckFyTEhJdXVNd3laczhTWS1XeXk2VWpiRVhIaTJCLVI0cmFuc3YtQW85T0lJRDM5TFlXOTZERGEwY3ktUQ?oc=5",
+   "date": "Thu, 26 Nov 2026 20:41:00 GMT",
+   "vu_le": "2026-11-26T21:10:34.798521+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Is Johnson Controls International (JCI) Undervalued As Data Center Growth And Backlog Support Its Story? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMW1wX0FtajhlNmE5d2pkTTVEeW94clpqX08xWnFzcExKbVotV1RueldQUjl4b09hcFNFNkg0R2FJZVdyZGE4cUQ4eEtySktNWW9DN2VtZ2NhSDZaTndYM3Vac2dNR0NmeU5sS3g1NXkyLWJhZV95T1A1UC1kOUtKOFFBdG9KQmtZWDdqZmljLUMxQTRFMVFWVmUtUHk4QjBKcWFjWUtHdGZ1ZTRpZXBTcg?oc=5",
+   "date": "Thu, 26 Nov 2026 20:13:32 GMT",
+   "vu_le": "2026-11-26T21:10:34.798521+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin forecast: BTC/USD steadies as risk appetite returns for now - StoneX",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVU5SWs5TlJmbzVqUzFxMEEwTkVjcmREX21INnJBMUlzRFFHRm0tdGpaTkRJNFhxUmJ1dEFrbU9mclJ6aXo1c0k0dlV2N1h2RjZCeUZJOGFnbndMMmZxZzJCTGZJODM0clVrSUxVUWxQRkVHXzB6QUJqcVdNTUF0d29LTDBqWmY2WHVwb3NtcnpXT1pvcjJNR25hQ3kxTkQ0enVINmk1MFhnMlhYY0Y3emxHRnQ?oc=5",
+   "date": "Thu, 26 Nov 2026 17:05:38 GMT",
+   "vu_le": "2026-11-26T21:10:34.798521+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 26, 2026 at 11am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUUNLVUZxcnl0d194VlRtcEYzTk5JWkk0RVFnendlbURfejFqWXdKN2JuMnZjR1dYa0R1Y25vb1BLR2lza0U3MlBJRjNZLTlDOU9ONEhLc2dkR3dUdVlqcmtPOVpuYkg0RGVUQXpsUWV3MWNDZHpJRl9Ya1VyejE3TkpvUDJXMXBEWTMzbDFJRkVpZUNpUEFCUUJEQUdHXzNiZ19GZDEtVnlMbHpqd01R?oc=5",
+   "date": "Thu, 26 Nov 2026 15:13:51 GMT",
+   "vu_le": "2026-11-26T21:10:34.798521+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "La Fed semble signaler une hausse prochaine des taux d’intérêt - Finance et Investissement",
@@ -6419,41 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0JmX01IcHlQWWozMFRCZUh1ZVJpbUc2c2pjdm9qdVhXWVRpWnctV2p0c19RZnJkRFJPaUZadGtMWWxldzZob3hNQjZMVHpBSlphLXJmdUdxQUlCUFpWcW9ETTJ0aVJLaWNZUEZraEh5RkN4UTZLTnBlLUV6QVBvOTNjd0U5cmZPcVlYY1ZKQ19sSlJrN2czNnNveDFVYllYR05QTg?oc=5",
    "date": "Wed, 25 Nov 2026 18:12:26 GMT",
    "vu_le": "2026-11-26T08:50:36.565923+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Indian IT stocks see $10 billion FPI outflow since October 2024 - Multibagg AI",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNjFRSGt6elA0Y1VLd19WSTQyb1B3RVdIWlFuMzNXMmFIM2J1aHBwQnFOeXNiczhmSVFtMDRLSW5XQWx5N3ZYYWItNHVpb3h2blRyazNpRC1CRFRQT1pnQlVKNEpDVHNTN01peDJTLXRWWTdoMDRNTVlSUUlqWE1WLXZRZlJXbW96WUMydFdNS0g2Z0VxQ0ZVenBKU2NBTjFTZkZsUg?oc=5",
-   "date": "Thu, 26 Nov 2026 08:00:44 GMT",
-   "vu_le": "2026-11-26T08:50:36.565923+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Greaves Cotton shares hit fresh 52-week high: Here’s why the stock rallied 7% on Thursday - Upstox",
-   "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbW4wbDlGMHE2aldHc1FYUVduelZiN0dyaFFIdUdtendLcWlhWUxPczk1bjhsSlpFOFNiNHRVOUFjNHNqbGtCd3MyQ0J0NU52a3pqeVI3dGJHTkhoTVdEUE9feUpGRzVPLTM4aG9rbmZwQW1mRGZTcFNsVGtTME9XWnl0SWxRV2RiX25qZ1I0a0JPLWRfYXNfLXNyVW9OY1FZenBiT0RvbWVCUVV0d25rS1lTa09SaVhiWncxemg2cTh4eGNZeEV3alc4V0x4OTBna2FMWTdfQ3ZGTzlWVHFhdmxDZzVNaDdS?oc=5",
-   "date": "Thu, 26 Nov 2026 08:18:19 GMT",
-   "vu_le": "2026-11-26T08:50:36.565923+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Korea’s smaller crypto exchanges face capital crunch under newly proposed rules - KED Global",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ydXE1UDduczJJUnBFUXozY3lPNW1JeGRDalBEN1NwNFdYcm9Yd1RVbUVDQ2VFV2hRdnJTOVkzd3otb0swTFFJaXJScTNoVWRRZ2hSdHB5RkV4QUlsLVBCb2MzT3cyOXluUEprU2lXR3IwU3lkdWc?oc=5",
-   "date": "Thu, 26 Nov 2026 08:38:00 GMT",
-   "vu_le": "2026-11-26T08:50:36.565923+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Asian shares rebound led by AI stocks after Wall Street pares sharp losses - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZjY2bU9xUTlxWnlVaW1mUVk2NlM5cEI4LVFmSEV0bkYyWkRnT3pvcEpLUTFXSWNxWHkyTV9MQkRiQ2NMMTctelVkWml0UjFqVS1GTm1NcDJYWnJha01xSzVxdm85RHNJNndTdmhyd3lKY3laYUNXTHI1ZDlNOVZHS3N3?oc=5",
-   "date": "Thu, 26 Nov 2026 08:25:19 GMT",
-   "vu_le": "2026-11-26T08:40:35.980981+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Les Bourses européennes en nette hausse, portées par les valeurs technologiques - ABC Bourse",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNndtczVKdnE1S2lwTno4TDUzMHVudmF6ODNscjZhVFk4TlBpRmtZQU0wRFo3X1FmNHluX2hFN0Fzc1VqVkpnVFZSb1MwTTFYZ2U1OE1MV29DZ1FLdVdfRGtnOVNmMmZtTmtMaFpaeXpDbld0dy11UDRGWVY4aGcxdUtScGc5WnBqaWVqZjc4dVhWWmxlV0NkdzFkN0pHenlqZTFRaTJSZWlBTFFZYjhXRmg1c3NTVWszQ2M0?oc=5",
-   "date": "Thu, 26 Nov 2026 08:30:23 GMT",
-   "vu_le": "2026-11-26T08:40:35.980981+00:00"
   }
  ],
  "erreurs": []
