@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22226.89 HKD, jour 1.19 %, mois -4.44 %
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3565.99 USD, jour -0.65 %, mois -12.17 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09714 USD, jour 0.02 %, mois -1.38 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55035 EUR, jour -0.03 %, mois -23.13 %
+- Gold (TVC:GOLD) : 3564.81 USD, jour -0.69 %, mois -12.2 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09698 USD, jour 0.01 %, mois -1.39 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55054.22 EUR, jour 0.0 %, mois -23.1 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -286,9 +286,9 @@ POSITIONS ET INDICES :
 - Aroundtown SA (LSIN:0RUH, secteur Finance) jour 6.25 %, mois 20.24 %, prix 1.7585 EUR, capi 1522102628.632228, PER 7.3, volume x1.18 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3326384161590.9995, PER 14.1, volume x1.14 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1559025893850, PER 1.7, volume x0.54 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -0.11 %, mois -5.17 %, prix 316.74 USD, capi 841137764833, PER 13.3, volume x1.08 la normale
@@ -310,6 +310,11 @@ POSITIONS ET INDICES :
 - Beneteau SA (EURONEXT:BEN, secteur Consumer Durables) jour 3.84 %, mois 11.74 %, prix 5.14 EUR, capi 403167537, PER None, volume x1.03 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Anthropic, acteur clé de l'intelligence artificielle entre innovations logicielles et enjeux économiques - La Revue Tech
+- [Bourse de Paris et Europe] HERMES INTL Cours Action RMS, Cotation Bourse Euronext Paris - Boursorama
+- [Chine et Asie] Banks see upside for Chinese stocks in 2027 - China Daily
+- [Intelligence artificielle] Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet - BBC
+- [Pays émergents] JPMorgan ActiveBuilders Emerging Markets Equity ETF Shs Unsponsored Brazilian Depositary Receipt Repr 0.1666667 Sh Balance Sheet – BMFBOVESPA:JEMA39 - TradingView
 - [Anthropic (FR)] Selon le Nikkei, la société japonaise JERA entame des négociations avec Anthropic et Meta en vue de la constru - Boursorama
 - [Bourse de Paris et Europe] La Bourse de Paris en forte hausse jeudi - Bourse Direct
 - [Intelligence artificielle] Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It. - The Motley Fool
@@ -449,10 +454,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Marchés mondiaux] Does ArcBest (ARCB) Have the Potential to Rally 29.21% as Wall Street Analysts Expect? - Yahoo Finance
 - [Crypto] A tiny payment can expose the IP address behind a bitcoin wallet, developer finds - CoinDesk
 - [Intelligence artificielle] US-based but Chinese-owned firms buy Nvidia’s most advanced AI chips: Report - Anadolu Ajansı
-- [Pays émergents] FPI buying lifts markets, but India's external outlook remains uncertain - Business Standard
-- [Défense, énergie, matières premières] Why BAE Systems Could Be One To Own Through ETFs - Simply Wall St
-- [Défense, énergie, matières premières] UK stocks fall as banks, miners track Wall Street selloff - AOL.com
-- [Crypto] BTC News Today: US Bitcoin Strategic Reserve Bill Moves Closer as BTC Reclaims $60K - Yahoo Finance
-- [Anthropic (FR)] ZD Tech : Anthropic bat le record de Space X en Bourse avec 1 500 milliards de valorisation - lefilia.fr
-- [Bourse de Paris et Europe] L'Europe retrouve l'appétit pour l'IA en l'absence des investisseurs américains - ABC Bourse
-- [Résul
+- [Pays émergents] FPI buying lifts markets, but India's external outlook remains

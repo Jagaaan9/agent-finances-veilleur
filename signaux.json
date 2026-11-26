@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T23:00:36.598390+00:00",
+ "mis_a_jour": "2026-11-26T23:10:36.710393+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3565.99,
+   "prix": 3564.81,
    "devise": "USD",
-   "jour_pct": -0.65,
-   "mois_pct": -12.17,
+   "jour_pct": -0.69,
+   "mois_pct": -12.2,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09714,
+   "prix": 1.09698,
    "devise": "USD",
-   "jour_pct": 0.02,
-   "mois_pct": -1.38,
-   "volume": 1567,
+   "jour_pct": 0.01,
+   "mois_pct": -1.39,
+   "volume": 1899,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55035,
+   "prix": 55054.22,
    "devise": "EUR",
-   "jour_pct": -0.03,
-   "mois_pct": -23.13,
-   "volume": 110.29974825,
+   "jour_pct": 0.0,
+   "mois_pct": -23.1,
+   "volume": 110.61781835,
    "volume_relatif": 0.49,
    "capitalisation": null,
    "per": null,
@@ -3371,6 +3371,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.66,
+    "devise": "USD",
+    "jour_pct": -1.74,
+    "mois_pct": -12.43,
+    "volume": 1206763,
+    "volume_relatif": 0.87,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 273.1,
@@ -3393,20 +3407,6 @@
     "mois_pct": -12.27,
     "volume": 1550645,
     "volume_relatif": 1.24,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.66,
-    "devise": "USD",
-    "jour_pct": -1.74,
-    "mois_pct": -12.43,
-    "volume": 1206763,
-    "volume_relatif": 0.87,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic, acteur clé de l'intelligence artificielle entre innovations logicielles et enjeux économiques - La Revue Tech",
+   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaFM3eWd4Y3Z6SXhGSHIyU1I0LW5BV1ZTOHU0UmJ1a0Rza1ctUFNzQXpEZnNSZnl1QnZaZUVZMGhHLWJkUVc4TmdBTlNpRFROMjZQdlBNMGZtb0ViZ28tNFFKWHJRbHh4Tzd0THN1ME1YSWx1dHJnWVpmbmFlU0dnSG5Cb1ZBalNtekxxVFRycC1mVGRLNF9BeG1iWmMyYy03b3M1YkZEcFBmMGpUWVVTN01Xb3E2RzZVdXdZS3lNX1lZUHBmU0E?oc=5",
+   "date": "Thu, 26 Nov 2026 05:49:00 GMT",
+   "vu_le": "2026-11-26T23:10:36.710393+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "HERMES INTL Cours Action RMS, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IUk5rZ0h4RXBVdzUxNU9kME9md3hMa1MtV3lJbXVpOXlBazZnRWxRY2wxck10cjhEWUMxMnl1VloxYlpjbklCcUZhWlA3RVA1eEE?oc=5",
+   "date": "Thu, 26 Nov 2026 19:02:40 GMT",
+   "vu_le": "2026-11-26T23:10:36.710393+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Banks see upside for Chinese stocks in 2027 - China Daily",
+   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53b21rNUUtNGhZd1NFbVJFeWNHLWlnbVhRZGw1RzlVZFFZVWpRUU9nX1pONFQ0UHFhd2c0alFTVlNEVkdBaGxaR3NFYVpjemJYbURIUWhWcXRXWGxvQTdHYmJyVTNvdDRucGt3QW05a2lyNkhvdVUzNWItM1dIZw?oc=5",
+   "date": "Thu, 26 Nov 2026 23:01:12 GMT",
+   "vu_le": "2026-11-26T23:10:36.710393+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Jensen Huang: How the Nvidia scandal exposed the risks of Asia's big AI bet - BBC",
+   "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51TDBpUzhfN1drWDJYSTJWWE02Z0REZmJ0emFrUE1ldXU5X0JQVTlqOVNHUTdZV2g2RS10SmliRnJWNnNZeTcyYnlFQ0cwbnNkVVNvR0Jqdk9jQTQ?oc=5",
+   "date": "Thu, 26 Nov 2026 23:08:12 GMT",
+   "vu_le": "2026-11-26T23:10:36.710393+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "JPMorgan ActiveBuilders Emerging Markets Equity ETF Shs Unsponsored Brazilian Depositary Receipt Repr 0.1666667 Sh Balance Sheet – BMFBOVESPA:JEMA39 - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUHRsZkxaRDhORkg0ZXBCR1FOeGZZZElFT3laTzZ4dXJkZWRXV3NYMkJGMkk1T2gzaFBSSGJSRlNGdWVjZjFvY3U0T25YTHk0Y1c3QmRHeFZqcmRJUWhmMmFCck0yU1Y2V2x3YUN5SzJWYlR1ZG5yOHp1RllhbnlkQUxValVmdw?oc=5",
+   "date": "Thu, 26 Nov 2026 20:43:31 GMT",
+   "vu_le": "2026-11-26T23:10:36.710393+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Selon le Nikkei, la société japonaise JERA entame des négociations avec Anthropic et Meta en vue de la constru - Boursorama",
@@ -6419,44 +6454,7 @@
    "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95SzZITUZYeDdKLXpWb25LZ3NBcUpBdHRiNWR1SkE1ZkpUWWlhQ2xfNTRfQnRfU0hpZVFnT25JNUNWZVJrZXdKRS1RdDRtazlMTzJpb3FqSnlVRzhIYndfa3N6WkVqeEd2TjBIOWhnZWU?oc=5",
    "date": "Thu, 26 Nov 2026 09:24:23 GMT",
    "vu_le": "2026-11-26T10:30:37.116540+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Shopify (NasdaqGS:SHOP) Rebound Rekindles The Debate Over Its Fair Value - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbmdrQ2cwNWJUbW13YmQ4YTN1eDdEUk5GXzRQMmZOb2UtLUV2U0hxX2pQTkVmVWpJWnlTeERwU1BWWjduT1AwaDNycjVUQ2tTYXhTVTJuWVlMMjRkNWV5MTdFdGxsWlJRemlIeUdfVXd0VGV4eGprRVlELXVYS3FkaFNiei1pTEFFWlc2S0RhOVByaGlWR1labWxITDdrdWpuYkw4R1dlTQ?oc=5",
-   "date": "Thu, 26 Nov 2026 10:08:44 GMT",
-   "vu_le": "2026-11-26T10:30:37.116540+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Moneycontrol Pro Panorama | India must hold ground against new US tariff threat - Moneycontrol.com",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd2plcV9FT2dMVmJxdHNFSGhONWRjaHdYRTMwbEQyYkhsU2NFNmFoMXpMQXY3eDM0eUNNS1dxeGg2dUhiTHFZSzZtUXAwMGlzV1RwWkMtbkpjTEprS2tJajdZLWFQY1B0WTJYM1dxRXBSdWxxN1VSVnE1c0hGMjF5aU9GMEllMmZ4czVQcUNua1dVUUZPQjRKcDgzMU1NRS0xOU1qbmVmdDJHd2ktV0F5R0VXUUE0RFMxVlhFS0Fmd195ejBHNXBFcnNZYjRyMDl0Y1ZyVG1wcWJQalgxWi1v0gHfAUFVX3lxTFB3amVxX0VPZ0xWYnF0c0VIaE41ZGNod1hFMzBsRDJiSGxTY0U2YWgxekxBdjd4MzR5Q01LV3F4aDZ1SGJMcVlLNm1RcDAwaXNXVHBaQy1uSmNMSmtLa0lqN1ktYVBjUHRZMlgzV3FFcFJ1bHE3VVJWcTVzSEYyMXlpT0YwSWUyZnhzNVBxQ25rV1VRRk9CNEpwODMxTU1FLTE5TWpuZWZ0Mkd3aS1XQXlHRVdRQTREUzFWWEVLQWZ3X3l6MEc1cEVyc1liNHIwOXRjVnJUbXBxYlBqWDFaLW8?oc=5",
-   "date": "Thu, 26 Nov 2026 09:26:29 GMT",
-   "vu_le": "2026-11-26T10:30:37.116540+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Shipbuilding stocks halve as defense and nuclear shares falter, overshadowed by semiconductor rally - 머니투데이",
-   "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9yT0czLTZQcVJoLUg5dENJaWVoOHRoa0JqSGQ2VmNoSDIxNndOR29QTzZiV1dqd3FidzJQVGNOU21ZSV9ScHBoQVMzVXV2aWlETlEydzNUWk1PRHdOemFyb0M4ZDg4clJ2d3ZIblVSM1RFbTR4ZHdQaTlR?oc=5",
-   "date": "Thu, 26 Nov 2026 08:07:24 GMT",
-   "vu_le": "2026-11-26T10:30:37.116540+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "FTSE 100 Climbs 1.3% as Technology Recovery and Defence Stocks Outweigh Tariff Concerns - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PM1pnSHp0X2xTSjA0S3ZTMlpQNUNUMXZoWFFNOVVwak1sNHd6YU5iVENacGJ3Y0VibGY3ZS1IY0dKNEprdm9ub2t1SzU3bXlKVmVvYS1UR3R5NkpFWVkwYzdoNUVFUEtkNVQwbVlKTC1CRnd1NWlR?oc=5",
-   "date": "Thu, 26 Nov 2026 09:34:35 GMT",
-   "vu_le": "2026-11-26T10:30:37.116540+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Stock Fell Below Its IPO Price. Is It a Buy, or Is More Downside Just Ahead? - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPczZHSkxKRHQ4bDZVYXFFQ1RRR1p0U1Bta3pmU3RaQ0dsMkJSM1J0RC1oQVAxZF9YMjBDMjY3WFZVZFFqek96Q2xUYWNfb29tbXk2QkZSYllCdTRWSmFBbjFlc0xVVGpUY2xkM0JleXh6Zk1STWNjLVJxbGV2bUhERVIwblV5elJLaVRKQzV4U2hoS3I2Ul9yOFgzLS1vTmIxVGFzVTI2LWtvMFdhMmlqenIwN08xWkxXSDRJb2lwaUxEZS1aWEY5SUhXSEVJZDd3Z3FMWFc4dnlsbmozSXp0eFVhYmw5cDNLdzdBRHVvUWtBaDlGamtwcm5TWEc5dw?oc=5",
-   "date": "Thu, 26 Nov 2026 09:22:34 GMT",
-   "vu_le": "2026-11-26T10:20:35.600968+00:00"
   }
  ],
- "erreurs": [
-  "actu Pays émergents: HTTP Error 429: Too Many Requests"
- ]
+ "erreurs": []
 }
