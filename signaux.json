@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T18:10:42.033278+00:00",
+ "mis_a_jour": "2026-11-26T18:20:35.438155+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3567.725,
+   "prix": 3566.333,
    "devise": "USD",
-   "jour_pct": -0.61,
-   "mois_pct": -11.2,
+   "jour_pct": -0.64,
+   "mois_pct": -11.24,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09689,
+   "prix": 1.09695,
    "devise": "USD",
    "jour_pct": -0.05,
    "mois_pct": -1.83,
-   "volume": 116911,
+   "volume": 117186,
    "volume_relatif": 0.59,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55136.44,
+   "prix": 55138,
    "devise": "EUR",
    "jour_pct": 0.15,
    "mois_pct": -22.99,
-   "volume": 77.24737448,
+   "volume": 77.44217139,
    "volume_relatif": 0.34,
    "capitalisation": null,
    "per": null,
@@ -987,10 +987,10 @@
    {
     "symbole": "GETTEX:REB",
     "nom": "Arafura Rare Earths Limited",
-    "prix": 0.0866,
+    "prix": 0.086,
     "devise": "EUR",
-    "jour_pct": 15.47,
-    "mois_pct": -5.87,
+    "jour_pct": 14.67,
+    "mois_pct": -6.52,
     "volume": 233782,
     "volume_relatif": 2.53,
     "capitalisation": 458529836.19089025,
@@ -1005,8 +1005,8 @@
     "devise": "EUR",
     "jour_pct": 12.9,
     "mois_pct": 17.57,
-    "volume": 209821,
-    "volume_relatif": 26.54,
+    "volume": 210068,
+    "volume_relatif": 26.57,
     "capitalisation": 27042136113.301346,
     "per": 14.3,
     "bourse": "TRADEGATE",
@@ -1161,7 +1161,7 @@
     "devise": "EUR",
     "jour_pct": -4.77,
     "mois_pct": -10.48,
-    "volume": 356257,
+    "volume": 356918,
     "volume_relatif": 2.28,
     "capitalisation": 36932545750,
     "per": 11.0,
@@ -1185,30 +1185,16 @@
    {
     "symbole": "GETTEX:BY6",
     "nom": "BYD Company Limited Class H",
-    "prix": 6.73,
+    "prix": 6.716,
     "devise": "EUR",
-    "jour_pct": -4.1,
-    "mois_pct": -16.13,
+    "jour_pct": -4.3,
+    "mois_pct": -16.3,
     "volume": 102020,
     "volume_relatif": 0.99,
     "capitalisation": 73345636860.1456,
-    "per": 15.2,
+    "per": 15.1,
     "bourse": "GETTEX",
     "secteur": "Producer Manufacturing"
-   },
-   {
-    "symbole": "TRADEGATE:PLUN",
-    "nom": "Plug Power Inc.",
-    "prix": 0.9336,
-    "devise": "EUR",
-    "jour_pct": -3.72,
-    "mois_pct": -24.1,
-    "volume": 354478,
-    "volume_relatif": 0.25,
-    "capitalisation": 1357719611.2204726,
-    "per": null,
-    "bourse": "TRADEGATE",
-    "secteur": "Electronic Technology"
    },
    {
     "symbole": "TRADEGATE:EVT",
@@ -1237,6 +1223,20 @@
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SWB:PLUN",
+    "nom": "Plug Power Inc.",
+    "prix": 0.9351,
+    "devise": "EUR",
+    "jour_pct": -3.0,
+    "mois_pct": -23.37,
+    "volume": 129734,
+    "volume_relatif": 1.62,
+    "capitalisation": 1357719611.2204726,
+    "per": null,
+    "bourse": "SWB",
+    "secteur": "Electronic Technology"
    }
   ],
   "Allemagne : volumes anormaux": [
@@ -1261,8 +1261,8 @@
     "devise": "EUR",
     "jour_pct": 12.9,
     "mois_pct": 17.57,
-    "volume": 209821,
-    "volume_relatif": 26.54,
+    "volume": 210068,
+    "volume_relatif": 26.57,
     "capitalisation": 27042136113.301346,
     "per": 14.3,
     "bourse": "TRADEGATE",
@@ -3371,6 +3371,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.63,
+    "devise": "USD",
+    "jour_pct": -1.48,
+    "mois_pct": -12.27,
+    "volume": 1550645,
+    "volume_relatif": 1.24,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 273.1,
@@ -3393,20 +3407,6 @@
     "mois_pct": -12.43,
     "volume": 1206763,
     "volume_relatif": 0.87,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.63,
-    "devise": "USD",
-    "jour_pct": -1.48,
-    "mois_pct": -12.27,
-    "volume": 1550645,
-    "volume_relatif": 1.24,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Pablo Hernandez de Cos choisi pour succéder à Lagarde à la présidence de la BCE - Investir Les Echos",
+   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcGx3RE9lSkFnZTNuNi1NMzc1b0dvQnFycnFiU0R0Q3hwYldQRHpIN1RiYnZveWxTNmJiZnVtY2dsQTlPby1xY3NpSzJrY2o0RzJhVnFXNXk2RDdhTHlNa2lqNzJqMFREc0IzLUo4ZXBXWER1eHFCT2k4VTc1eVRvTHI5X3RKc1I5UHEzMGJaY0JmUzEtSGo3LUhLSUFpUGNGVTk4bkZqRHpFMVFhVUdXRVFNcGQtM1VrTlVsZUJFRHlNWWVYckxLcWlDellnS1JFbFhFUThxblVRdVNZTWc?oc=5",
+   "date": "Thu, 26 Nov 2026 14:26:35 GMT",
+   "vu_le": "2026-11-26T18:20:35.438155+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les cryptomonnaies en alerte, la Fed hawkish faisant planer le risque d’un « effondrement » en décembre - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uR2dTSE1pcFNHYzlnNzl5WWg2emFTenpqcGg0LXpUd25fd2ZVYXlnc0xCQnM5MGZKZXRQVnlGSGN0NnJVcXdpcDhpaTNQalFlbllqNzdad25iWUJRX1NJZmNkMDJqUDZnRFBpTkd5aw?oc=5",
+   "date": "Thu, 26 Nov 2026 17:39:53 GMT",
+   "vu_le": "2026-11-26T18:20:35.438155+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Accord au Conseil européen sur le nouveau trio qui prendra la tête de la BCE début 2027 - AEF info",
+   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUFndnI0alRNRVlKQnJQSmxpeC1YV1g0TmVVVnpxNi1IMHhvYmpLd0ptRE1ZUDc0LUNDWkUtTHlrSDVlQllVVzhmYWtJTFMwb01xY201S2xvd21sQ2JvWFRRVmpFSGlXYkRNWVE5NGZmV2s2UkNOUGllYno1MllPSDNNMm1KNG9UWWVDYkxjSzlFZFZqQ0dFeWdKT1JQX1cxTk03OWxTelFxNGpxY2dWSjMtNDJxMS14cmpBOUYtZWh2ZzA?oc=5",
+   "date": "Thu, 26 Nov 2026 16:51:00 GMT",
+   "vu_le": "2026-11-26T18:20:35.438155+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Two Californian Nvidia AI chip customers are really Chinese-owned — companies used as workaround for government export controls - Tom's Hardware",
+   "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMnZuLWtQbHUzczNDS29VTDBUcTltQjdzQ0ZpMFZhOWtfWV9DbTZvNWFGVTk0Z0NCYVNyU3NPY0tORGlzTjhBejh3N3dBbEpkSkdULUVWM1ktcU81N2ZhZ0MtWnRsNG9PLTdLT0hlcFQyV3I4US04NEp0d2NSRGpURlZZMGRYTmlaYXZzTlFfN1JYcDgzV1hkb1FDN3VnWDAxLUxOb3hVVVNaSi10V2tqbFN3dnlBOVZjLU0yTFVHRktZbFFxRy1Bbm9JcnBOam12R0NhX0M4RGlNTVV6cWhxMDNLRl9mRXVCYzhwYnRfS3JMdTI3a0NfXzBDTWtZYV9pMm1YWXRRTGs?oc=5",
+   "date": "Thu, 26 Nov 2026 18:00:00 GMT",
+   "vu_le": "2026-11-26T18:20:35.438155+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "HPQ Stock Price Forecast — HP Inc. (HPQ) ($31.15) $34 Upside Target on $16B Revenue Beat - TradingNEWS",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWlJ6VmVhdVpHajAyVmlYN1lzYmNuUXk0dWRpc1N3d0cxajdkOW5GMUR5b1NrN05xOE9RYzIzLXlzVWUxaEtOT3Brb2RGSC1ndGdGMXVKRDJLcE9Ta1VMbTQ4aUlNSGFxS0c0X01xU0l3RTNJMVl1MldwSHlJR0c4U2dmU01hQThsS1dNOGtZeXlZenUtZFJMcEJ6LWNEZzRUa2l0bzQtSU91aktvZkwtS19IRFNGdi1i?oc=5",
+   "date": "Thu, 26 Nov 2026 18:17:38 GMT",
+   "vu_le": "2026-11-26T18:20:35.438155+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "S&P500 Forecast: SPX falls as Anthropic drops post IPO - StoneX",
@@ -6419,41 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQ3ZvdGx0RHA4dHZtamNRakdHWG9pU1lWajIwMkFxeWh6UXhvbFFycktseThTN255UGdha2FRRTZoU0RURWxlejhYY3pPMHJGbmNFd19vTkx5N2QzU1dOWFdWb3pqbTV6dkxUNTJpVkNkV2FadURHTm9nNWx6OFgtTkVQTnFaR1ZWaWVsNk53N29XZFVyQVpEb3RrSF9UMFQ5cWJJOGRzZ0R1dTdSa0ZIZ3VoYTFVdTBMSUVacTdZbUNxb2lXYzh5NEdndlVtRTh1VVY3eWk3QmdSZ1VHUDdlRzBfWk9odTNPZGVvNG5YZzRUQzZCcWJLYnA0UGVmLXIzSXpoeFptQQ?oc=5",
    "date": "Thu, 26 Nov 2026 06:00:07 GMT",
    "vu_le": "2026-11-26T06:50:36.854269+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "EY: Hong Kong IPO proceeds set to hit 5-year high in 2026 - chinadailyhk",
-   "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ESGZwWjBKWFhlc0FuWVhqbzNPd3BtM3dOdkRQR001ZDlfV2NRbXFySkw2ZUF4a0pjSVoyWTNsb0ctR2xUNDNTbmpjMXpxRzNFM3ZYWmZR?oc=5",
-   "date": "Wed, 25 Nov 2026 09:29:00 GMT",
-   "vu_le": "2026-11-26T06:50:36.854269+00:00"
-  },
-  {
-   "sujet": "Introductions en bourse",
-   "titre": "Walmart-backed PhonePe restarts IPO process, eyes up to $15 billion valuation in market debut, source says - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbkVTQU5UZjA4Wnc3STdBc0xPZnhhdzE5VWxlbUJHTG5XWjFlRHRiZWFUcHdHeThRQTJZVkZqOXFMRWNJR0lQVnlLQkEtSllnQ1ZXVVl4ZmJhTkNxaGwwcGh6bHZIZjZDRmttX09iOU5nS3BKMDB6aWhybHNyc1BiVlRNQ1loSXBUSFB0Z1UwbXJtTW9WRW9wMVBJOU5PU3N0Ul9mT2dibTk4NXZnbVV5Ny1UZFZwdG5vc1BiZXVRemFXT0NFbmc?oc=5",
-   "date": "Wed, 25 Nov 2026 18:35:51 GMT",
-   "vu_le": "2026-11-26T06:50:36.854269+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "US tariffs already priced in; strong fundamentals, FII return to drive Nifty higher: Kotak Neo - www.indiagazette.com",
-   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcVZFUlhVbXltM0U0bEZxMk91ZTkwYS1tYmVFcHd4WEI1VVF4NGhUTUUwUVNaSWRoZHhxZGNjQi1GaWRDUkFFXzlQMDF0eDlxbGt1bmJObkxtVGU1QktoTEsxMUVsUWhTRVhNY2RJY0lFcEtuSTVYLTFFaEVGZnhvMkhud05SaXBsYTRZbjBQVHMzazVxZ3UzeEZKQThtcUpHOGpSdUd1Sk1MSTJLS0FRZE00TGxqWm1rbGo4WWpQNEdwcklCWFhBYTFFRC1jRFBE?oc=5",
-   "date": "Thu, 26 Nov 2026 02:02:00 GMT",
-   "vu_le": "2026-11-26T06:50:36.854269+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Dollar falls 1.53% to R$5.81 after hitting R$5.95, while Brazil’s stock market gains 1.58% and oil surges more than 3% globally - CPG Click Oil and Gas",
-   "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYlh6Yjh5S1ZNOFdueVV0c3FQOGpmdjdYOHhTS3A4aFJZcFREMmZMZlRCZEphZl85Y01ia0dJZGFBc2V5Wk94eVFHVmkzZXU5dnRsWC00U0hNakFsaUdha1YzTmRrcl9Qb0FndlpkaC1kdWRlYy1zTFdoRjRlSFJUMHlxc3BDRDkxQ05MU1BEYUlpTFRvaVdsSXJMbDBBMGVnS0huSXd0aHVBU0JZWGJRaU1ZUGlETUw3WXh0NG0xeG5uemFGeF9BR0Q5TUh6TldqVnk5d3F4Qk9hNFdEd1lQaGxxMU1sc2RTZTNiOXE2RW0?oc=5",
-   "date": "Thu, 26 Nov 2026 06:42:00 GMT",
-   "vu_le": "2026-11-26T06:50:36.854269+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "ZD Tech : Anthropic bat le record de Space X en Bourse avec 1 500 milliards de valorisation - ZDNET",
-   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMXp4ZkRxTWdQZ0JLUVN1VWlXQk5ncXR4MjRvVXl1Nmo3QWJJUGJyTXdsQ2I4S3JkUndRRlpwWEZLLW1ud3ZZTWVxOTlkX2FPcFkxQURjWWRHTzFhX3hEX2w2WEJUOWh2X0JlYlQ0ZTVXZ3EtY2RQRzlsVm93eWcwSTdESTBGZDdmcUg0X2FkVkVUWktsdmNMRjNOQl9nVThKQ0djeGE2UmlOMEVyaVJSemJLUnFHWkFUN0dyQXVDMm1KWW1rTXBLcFBNWEE?oc=5",
-   "date": "Thu, 26 Nov 2026 06:30:25 GMT",
-   "vu_le": "2026-11-26T06:40:35.863800+00:00"
   }
  ],
  "erreurs": []
