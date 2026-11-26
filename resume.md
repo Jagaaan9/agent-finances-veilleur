@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22226.89 HKD, jour 1.19 %, mois -4.44 %
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3568.1 USD, jour -0.6 %, mois -11.19 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09704 USD, jour -0.04 %, mois -1.82 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55094.31 EUR, jour 0.08 %, mois -23.05 %
+- Gold (TVC:GOLD) : 3566.99 USD, jour -0.63 %, mois -11.22 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09701 USD, jour -0.04 %, mois -1.82 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55113.32 EUR, jour 0.11 %, mois -23.02 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -85,7 +85,7 @@ POSITIONS ET INDICES :
 - Sivers Semiconductors AB (XETR:2DG, secteur Electronic Technology) jour 17.83 %, mois -40.27 %, prix 1.13 EUR, capi 308758810.9311206, PER None, volume x0.73 la normale
 - Imperial Brands PLC (XETR:ITB, secteur Consumer Non-Durables) jour 15.61 %, mois 20.5 %, prix 41.32 EUR, capi 27042136113.301346, PER 14.6, volume x15.05 la normale
 - Arafura Rare Earths Limited (GETTEX:REB, secteur Non-Energy Minerals) jour 14.67 %, mois -6.52 %, prix 0.086 EUR, capi 458529836.19089025, PER None, volume x2.53 la normale
-- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 12.06 %, mois 16.7 %, prix 40.05 EUR, capi 27042136113.301346, PER 14.2, volume x27.55 la normale
+- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 11.67 %, mois 16.29 %, prix 39.91 EUR, capi 27042136113.301346, PER 14.1, volume x28.0 la normale
 - FIT Hon Teng Limited (LS:A2DT6V, secteur Electronic Technology) jour 10.89 %, mois -33.09 %, prix 0.275 EUR, capi 1682176511.214968, PER 13.8, volume x12.3 la normale
 - ITM Power PLC (XETR:IJ8, secteur Producer Manufacturing) jour 9.83 %, mois -22.3 %, prix 0.7595 EUR, capi 477579110.8653215, PER None, volume x1.92 la normale
 - Avacta Group PLC (LS:A2ADP0, secteur Commercial Services) jour 9.09 %, mois -18.18 %, prix 0.72 EUR, capi 329260554.90075463, PER None, volume x6.58 la normale
@@ -95,26 +95,26 @@ POSITIONS ET INDICES :
 
 ÉCRAN Allemagne : plus fortes baisses :
 - Air China Limited Class H (LS:A0M4WT, secteur Transportation) jour -17.74 %, mois -6.77 %, prix 0.372 EUR, capi 13274372499.077784, PER None, volume x10.49 la normale
-- MPC Container Ships ASA (TRADEGATE:MP2, secteur Transportation) jour -8.07 %, mois -26.34 %, prix 2.039 EUR, capi 1067197467.6652814, PER 5.2, volume x6.4 la normale
+- MPC Container Ships ASA (TRADEGATE:MP2, secteur Transportation) jour -8.07 %, mois -26.34 %, prix 2.039 EUR, capi 1067197467.6652814, PER 5.2, volume x6.44 la normale
 - MPC Container Ships ASA (SWB:MP2, secteur Transportation) jour -7.77 %, mois -24.75 %, prix 2.031 EUR, capi 1067197467.6652814, PER 5.2, volume x28.58 la normale
 - EnergieKontor AG (XETR:EKT, secteur Utilities) jour -7.17 %, mois -22.23 %, prix 18.12 EUR, capi 270747728, PER 22.1, volume x3.49 la normale
-- Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -4.71 %, mois -10.42 %, prix 33.18 EUR, capi 36932545750, PER 11.0, volume x2.29 la normale
+- Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -4.68 %, mois -10.39 %, prix 33.19 EUR, capi 36932545750, PER 11.0, volume x2.3 la normale
 - NagaCorp Ltd. (LS:A0LB2X, secteur Consumer Services) jour -4.51 %, mois -7.17 %, prix 0.233 EUR, capi 984263844.9951699, PER 3.9, volume x5.82 la normale
-- BYD Company Limited Class H (GETTEX:BY6, secteur Producer Manufacturing) jour -4.1 %, mois -16.13 %, prix 6.73 EUR, capi 73345636860.1456, PER 15.2, volume x0.99 la normale
-- Eutelsat Communications SA (TRADEGATE:E3B, secteur Communications) jour -3.82 %, mois -20.7 %, prix 1.5345 EUR, capi 1841698216, PER None, volume x1.58 la normale
-- Plug Power Inc. (SWB:PLUN, secteur Electronic Technology) jour -2.99 %, mois -23.36 %, prix 0.9352 EUR, capi 1357719611.2204726, PER None, volume x1.62 la normale
+- BYD Company Limited Class H (GETTEX:BY6, secteur Producer Manufacturing) jour -4.05 %, mois -16.08 %, prix 6.734 EUR, capi 73345636860.1456, PER 15.2, volume x1.01 la normale
+- Plug Power Inc. (SWB:PLUN, secteur Electronic Technology) jour -3.0 %, mois -23.37 %, prix 0.9351 EUR, capi 1357719611.2204726, PER None, volume x1.62 la normale
+- Eutelsat Communications SA (TRADEGATE:E3B, secteur Communications) jour -2.7 %, mois -19.77 %, prix 1.5525 EUR, capi 1841698216, PER None, volume x1.61 la normale
 - Commerzbank AG (XETR:CBK, secteur Finance) jour -2.55 %, mois -10.0 %, prix 33.3 EUR, capi 36932545750, PER 11.0, volume x2.16 la normale
 
 ÉCRAN Allemagne : volumes anormaux :
 - MPC Container Ships ASA (SWB:MP2, secteur Transportation) jour -7.77 %, mois -24.75 %, prix 2.031 EUR, capi 1067197467.6652814, PER 5.2, volume x28.58 la normale
-- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 12.06 %, mois 16.7 %, prix 40.05 EUR, capi 27042136113.301346, PER 14.2, volume x27.55 la normale
+- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 11.67 %, mois 16.29 %, prix 39.91 EUR, capi 27042136113.301346, PER 14.1, volume x28.0 la normale
 - Imperial Brands PLC (XETR:ITB, secteur Consumer Non-Durables) jour 15.61 %, mois 20.5 %, prix 41.32 EUR, capi 27042136113.301346, PER 14.6, volume x15.05 la normale
 - FIT Hon Teng Limited (LS:A2DT6V, secteur Electronic Technology) jour 10.89 %, mois -33.09 %, prix 0.275 EUR, capi 1682176511.214968, PER 13.8, volume x12.3 la normale
 - Air China Limited Class H (LS:A0M4WT, secteur Transportation) jour -17.74 %, mois -6.77 %, prix 0.372 EUR, capi 13274372499.077784, PER None, volume x10.49 la normale
 - Volvo Car AB Class B (SWB:8JO1, secteur Consumer Durables) jour 2.19 %, mois -7.18 %, prix 0.915 EUR, capi 2602955258.5184274, PER None, volume x8.37 la normale
 - Nagarro SE (XETR:NA9A, secteur Technology Services) jour 0 %, mois -1.25 %, prix 79 EUR, capi 1019569215, PER 23.9, volume x8.11 la normale
 - Avacta Group PLC (LS:A2ADP0, secteur Commercial Services) jour 9.09 %, mois -18.18 %, prix 0.72 EUR, capi 329260554.90075463, PER None, volume x6.58 la normale
-- MPC Container Ships ASA (TRADEGATE:MP2, secteur Transportation) jour -8.07 %, mois -26.34 %, prix 2.039 EUR, capi 1067197467.6652814, PER 5.2, volume x6.4 la normale
+- MPC Container Ships ASA (TRADEGATE:MP2, secteur Transportation) jour -8.07 %, mois -26.34 %, prix 2.039 EUR, capi 1067197467.6652814, PER 5.2, volume x6.44 la normale
 - NagaCorp Ltd. (LS:A0LB2X, secteur Consumer Services) jour -4.51 %, mois -7.17 %, prix 0.233 EUR, capi 984263844.9951699, PER 3.9, volume x5.82 la normale
 
 ÉCRAN Hong Kong / Chine : plus fortes hausses :
@@ -286,9 +286,9 @@ POSITIONS ET INDICES :
 - Aroundtown SA (LSIN:0RUH, secteur Finance) jour 6.25 %, mois 20.24 %, prix 1.7585 EUR, capi 1522102628.632228, PER 7.3, volume x1.18 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3326384161590.9995, PER 14.1, volume x1.14 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1559025893850, PER 1.7, volume x0.54 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -0.11 %, mois -5.17 %, prix 316.74 USD, capi 841137764833, PER 13.3, volume x1.08 la normale
@@ -310,6 +310,10 @@ POSITIONS ET INDICES :
 - Beneteau SA (EURONEXT:BEN, secteur Consumer Durables) jour 3.84 %, mois 11.74 %, prix 5.14 EUR, capi 403167537, PER None, volume x1.03 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Bourse de Paris et Europe] La Bourse de Paris rattrape le sursaut américain - Bourse Direct
+- [Bourse de Paris et Europe] La Bourse de Paris en forte hausse jeudi - tv5monde
+- [Chine et Asie] Hong Kong Stocks Rebound but Southbound Funds Beat a Sharp Retreat, Net Selling of HK$21.3 Billion Hits 7-Month High - BigGo Finance
+- [Rachats et fusions] Altria weighs a cash bid for Imperial Brands as Japan Tobacco eyes a deal - Startup Fortune
 - [Anthropic] Anthropic Stock Is Down 33% From Its All-Time High. Here's What a $5,000 Investment Could Be Worth in 1 Year. - Yahoo Finance
 - [Intelligence artificielle] US-based but Chinese-owned firms buy Nvidia’s most advanced AI chips: Report - Anadolu Ajansı
 - [Pays émergents] MSCI (MSCI) Reaffirms Indonesia Plan As Undervalued Narrative Stays In Focus - Yahoo Finance
@@ -454,8 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] Metropolis Healthcare Ltd Surges 7.75% to Day's High of Rs 606.6 — Outperforms Sector by 6.8 Percentage Points - MarketsMojo
 - [Petites valeurs en croissance] Bondada Engineering Ltd Surges 13.41% to Day's High of Rs 260 — Outperforms Sector by 7.05 Percentage Points - MarketsMojo
 - [Pays émergents] Sensex Extends Winning Run; IT Stocks Lead Charge as FII Inflows, Global Tech Rotation Lift Market Sentiment - The Indian Awaaz
-- [Défense, énergie, matières premières] RTX Is Down More Than 10% From Its August High, but $1,000 From Five Years Ago Is Still Worth More Than $2,000 - 24/7 Wall St.
-- [Crypto] What Is VVV Crypto? Venice AI Privacy and Risks - Bitcoin Foundation
-- [Crypto] AI Factoring Rumors: What Scott Aaronson Said - Bitcoin Foundation
-- [Banques centrales et taux] Wall Street : les actions à surveiller en décembre 2026 - Le Revenu
-- [Banques centrales et taux] Nouvelle baisse de l'or, sous les 3.570$... - Fortuneo
+- [Défense, énergie, matières premières] RTX Is Down More Than
