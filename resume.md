@@ -12,8 +12,8 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
 - Gold (TVC:GOLD) : 3566.392 USD, jour -0.64 %, mois -11.23 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09701 USD, jour -0.04 %, mois -1.82 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55343.15 EUR, jour 0.53 %, mois -22.7 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09693 USD, jour -0.05 %, mois -1.4 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55338.17 EUR, jour 0.52 %, mois -22.71 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -85,8 +85,8 @@ POSITIONS ET INDICES :
 - Sivers Semiconductors AB (XETR:2DG, secteur Electronic Technology) jour 17.83 %, mois -40.27 %, prix 1.13 EUR, capi 308758810.9311206, PER None, volume x0.73 la normale
 - Imperial Brands PLC (XETR:ITB, secteur Consumer Non-Durables) jour 15.61 %, mois 20.5 %, prix 41.32 EUR, capi 27042136113.301346, PER 14.6, volume x15.05 la normale
 - Arafura Rare Earths Limited (GETTEX:REB, secteur Non-Energy Minerals) jour 13.33 %, mois -7.61 %, prix 0.085 EUR, capi 458529836.19089025, PER None, volume x2.53 la normale
-- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 11.25 %, mois 15.85 %, prix 39.76 EUR, capi 27042136113.301346, PER 14.1, volume x29.97 la normale
 - FIT Hon Teng Limited (LS:A2DT6V, secteur Electronic Technology) jour 10.89 %, mois -33.09 %, prix 0.275 EUR, capi 1682176511.214968, PER 13.8, volume x12.3 la normale
+- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 10.8 %, mois 15.38 %, prix 39.6 EUR, capi 27042136113.301346, PER 14.0, volume x30.56 la normale
 - ITM Power PLC (XETR:IJ8, secteur Producer Manufacturing) jour 9.83 %, mois -22.3 %, prix 0.7595 EUR, capi 477579110.8653215, PER None, volume x1.92 la normale
 - Avacta Group PLC (LS:A2ADP0, secteur Commercial Services) jour 9.09 %, mois -18.18 %, prix 0.72 EUR, capi 329260554.90075463, PER None, volume x6.58 la normale
 - Plug Power Inc. (XETR:PLUN, secteur Electronic Technology) jour 8.48 %, mois -22.93 %, prix 0.9491 EUR, capi 1357719611.2204726, PER None, volume x0.39 la normale
@@ -99,14 +99,14 @@ POSITIONS ET INDICES :
 - MPC Container Ships ASA (TRADEGATE:MP2, secteur Transportation) jour -8.07 %, mois -26.34 %, prix 2.039 EUR, capi 1067197467.6652814, PER 5.2, volume x6.47 la normale
 - MPC Container Ships ASA (SWB:MP2, secteur Transportation) jour -7.77 %, mois -24.75 %, prix 2.031 EUR, capi 1067197467.6652814, PER 5.2, volume x28.58 la normale
 - EnergieKontor AG (XETR:EKT, secteur Utilities) jour -7.17 %, mois -22.23 %, prix 18.12 EUR, capi 270747728, PER 22.1, volume x3.49 la normale
-- Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -4.51 %, mois -10.23 %, prix 33.25 EUR, capi 36932545750, PER 11.0, volume x2.6 la normale
+- Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -4.85 %, mois -10.56 %, prix 33.13 EUR, capi 36932545750, PER 11.0, volume x2.6 la normale
 - NagaCorp Ltd. (LS:A0LB2X, secteur Consumer Services) jour -4.51 %, mois -7.17 %, prix 0.233 EUR, capi 984263844.9951699, PER 3.9, volume x5.82 la normale
 - BYD Company Limited Class H (GETTEX:BY6, secteur Producer Manufacturing) jour -3.96 %, mois -16.0 %, prix 6.74 EUR, capi 73345636860.1456, PER 15.2, volume x1.06 la normale
-- Plug Power Inc. (TRADEGATE:PLUN, secteur Electronic Technology) jour -2.85 %, mois -23.41 %, prix 0.9421 EUR, capi 1357719611.2204726, PER None, volume x0.26 la normale
-- Commerzbank AG (XETR:CBK, secteur Finance) jour -2.55 %, mois -10.0 %, prix 33.3 EUR, capi 36932545750, PER 11.0, volume x2.17 la normale
+- Evotec SE (TRADEGATE:EVT, secteur Commercial Services) jour -3.61 %, mois -11.32 %, prix 2.508 EUR, capi 452677781, PER None, volume x1.08 la normale
+- Eutelsat Communications SA (TRADEGATE:E3B, secteur Communications) jour -2.88 %, mois -19.92 %, prix 1.5495 EUR, capi 1841698216, PER None, volume x1.63 la normale
 
 ÉCRAN Allemagne : volumes anormaux :
-- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 11.25 %, mois 15.85 %, prix 39.76 EUR, capi 27042136113.301346, PER 14.1, volume x29.97 la normale
+- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 10.8 %, mois 15.38 %, prix 39.6 EUR, capi 27042136113.301346, PER 14.0, volume x30.56 la normale
 - MPC Container Ships ASA (SWB:MP2, secteur Transportation) jour -7.77 %, mois -24.75 %, prix 2.031 EUR, capi 1067197467.6652814, PER 5.2, volume x28.58 la normale
 - Imperial Brands PLC (XETR:ITB, secteur Consumer Non-Durables) jour 15.61 %, mois 20.5 %, prix 41.32 EUR, capi 27042136113.301346, PER 14.6, volume x15.05 la normale
 - FIT Hon Teng Limited (LS:A2DT6V, secteur Electronic Technology) jour 10.89 %, mois -33.09 %, prix 0.275 EUR, capi 1682176511.214968, PER 13.8, volume x12.3 la normale
@@ -167,8 +167,8 @@ POSITIONS ET INDICES :
 
 ÉCRAN Chine continentale : plus fortes baisses :
 - Shenzhen Sunwin Intelligent Co., Ltd. Class A (SZSE:300044, secteur Technology Services) jour -20.09 %, mois -31.87 %, prix 3.42 CNY, capi 3421775011, PER None, volume x3.98 la normale
-- Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A (SZSE:300469, secteur Technology Services) jour -20 %, mois -42.29 %, prix 28.28 CNY, capi 8287818003, PER None, volume x2.05 la normale
 - Jiangsu Daybright Intelligent Electric Co. Ltd. Class A (SZSE:300670, secteur Producer Manufacturing) jour -20 %, mois -41.56 %, prix 3.6 CNY, capi 1426142120, PER None, volume x1.74 la normale
+- Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A (SZSE:300469, secteur Technology Services) jour -20 %, mois -42.29 %, prix 28.28 CNY, capi 8287818003, PER None, volume x2.05 la normale
 - Anhui Chaoyue Environmental Technology Co., Ltd. Class A (SZSE:301049, secteur Industrial Services) jour -17.33 %, mois -10.65 %, prix 16.27 CNY, capi 1854905643, PER None, volume x1.39 la normale
 - Piesat Information Technology Co., Ltd. Class A (SSE:688066, secteur Technology Services) jour -15.7 %, mois -49.2 %, prix 3.49 CNY, capi 1270373640, PER None, volume x1.76 la normale
 - Heren Health Co., Ltd. Class A (SZSE:300550, secteur Technology Services) jour -13.24 %, mois -8.91 %, prix 11.66 CNY, capi 3505429402, PER None, volume x2.19 la normale
@@ -310,6 +310,12 @@ POSITIONS ET INDICES :
 - Beneteau SA (EURONEXT:BEN, secteur Consumer Durables) jour 3.84 %, mois 11.74 %, prix 5.14 EUR, capi 403167537, PER None, volume x1.03 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Banques centrales et taux] La Fed semble signaler une hausse prochaine des taux d’intérêt - Finance et Investissement
+- [Banques centrales et taux] Les responsables de la BCE envisagent de nouvelles hausses des taux d'intérêt en raison de la détérioration des perspectives d'inflation - Business AM
+- [Intelligence artificielle] Nvidia hits pause on chip shipments to Southeast Asia - Yahoo Finance
+- [Rachats et fusions] Altria and Japan Tobacco Explore Imperial Brands Breakup - SuaraGarut.ID
+- [Rachats et fusions] Viomi (VIOT) Names New CFO and Signs All-Cash Deal to Acquire Brondell - Minichart
+- [Crypto] Is Bitcoin a Good Investment for Building Wealth After a 50% Drop? - 24/7 Wall St.
 - [Marchés mondiaux] Yahoo Finance - Stock Market Live, Quotes, Business & Finance News - Yahoo Finance
 - [Résultats d'entreprises] How Higher Guidance At Advantest (TSE:6857) Has Changed Its Investment Story - Yahoo Finance
 - [Banques centrales et taux] Pablo Hernández de Cos remplace Christine Lagarde à la BCE : qui est-il ? - Capital.fr
@@ -449,10 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] 3 Australian Quality Stocks To Own In November 2026 - Yahoo Finance
 - [Petites valeurs en croissance] Core Scientific (CORZ) Quit Bitcoin for AI. Was It Worth It? - Yahoo Finance
 - [Défense, énergie, matières premières] RTX vs. HEI: Which Defense Stock Has Greater Upside Potential? - Yahoo! Finance Canada
-- [Banques centrales et taux] À quoi s’attendre des données d’inflation de la zone euro pour le mois de novembre - Morningstar
-- [Intelligence artificielle] Micronics Japan And 2 More AI Chip Stocks To Watch - Yahoo Finance
-- [Intelligence artificielle] Nvidia Reportedly Freezes AI Chip Shipments to Southeast Asian Countries - Gizmodo
-- [Résultats d'entreprises] Western Digital Plummets 20% Over a Month: This Wall Street Team Now Predicts 230% Gains After Earnings Re-Rating - 24/7 Wall St.
-- [Anthropic (FR)] Le patron d'Anthropic Dario Amodei nie vouloir que l'humanité cède son libre arbitre à l'IA - Euronews.com
-- [Bourse de Paris et Europe] Bourses : l'Europe rebondit, Wall Street fermée - MoneyVox
-- [Intelligence artificielle] Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources
+- [Banques centrales et taux] À quoi s’attendre des données d’inflation de la zone euro pour le mois de novembr

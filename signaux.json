@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T20:50:35.626911+00:00",
+ "mis_a_jour": "2026-11-26T21:00:36.230154+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09701,
+   "prix": 1.09693,
    "devise": "USD",
-   "jour_pct": -0.04,
-   "mois_pct": -1.82,
-   "volume": 119524,
+   "jour_pct": -0.05,
+   "mois_pct": -1.4,
+   "volume": 119925,
    "volume_relatif": 0.6,
    "capitalisation": null,
    "per": null,
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55343.15,
+   "prix": 55338.17,
    "devise": "EUR",
-   "jour_pct": 0.53,
-   "mois_pct": -22.7,
-   "volume": 79.70521047,
-   "volume_relatif": 0.35,
+   "jour_pct": 0.52,
+   "mois_pct": -22.71,
+   "volume": 80.10111588,
+   "volume_relatif": 0.36,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -999,20 +999,6 @@
     "secteur": "Non-Energy Minerals"
    },
    {
-    "symbole": "TRADEGATE:ITB",
-    "nom": "Imperial Brands PLC",
-    "prix": 39.76,
-    "devise": "EUR",
-    "jour_pct": 11.25,
-    "mois_pct": 15.85,
-    "volume": 236915,
-    "volume_relatif": 29.97,
-    "capitalisation": 27042136113.301346,
-    "per": 14.1,
-    "bourse": "TRADEGATE",
-    "secteur": "Consumer Non-Durables"
-   },
-   {
     "symbole": "LS:A2DT6V",
     "nom": "FIT Hon Teng Limited",
     "prix": 0.275,
@@ -1025,6 +1011,20 @@
     "per": 13.8,
     "bourse": "LS",
     "secteur": "Electronic Technology"
+   },
+   {
+    "symbole": "TRADEGATE:ITB",
+    "nom": "Imperial Brands PLC",
+    "prix": 39.6,
+    "devise": "EUR",
+    "jour_pct": 10.8,
+    "mois_pct": 15.38,
+    "volume": 241565,
+    "volume_relatif": 30.56,
+    "capitalisation": 27042136113.301346,
+    "per": 14.0,
+    "bourse": "TRADEGATE",
+    "secteur": "Consumer Non-Durables"
    },
    {
     "symbole": "XETR:IJ8",
@@ -1171,11 +1171,11 @@
    {
     "symbole": "TRADEGATE:CBK",
     "nom": "Commerzbank AG",
-    "prix": 33.25,
+    "prix": 33.13,
     "devise": "EUR",
-    "jour_pct": -4.51,
-    "mois_pct": -10.23,
-    "volume": 406606,
+    "jour_pct": -4.85,
+    "mois_pct": -10.56,
+    "volume": 406956,
     "volume_relatif": 2.6,
     "capitalisation": 36932545750,
     "per": 11.0,
@@ -1211,46 +1211,46 @@
     "secteur": "Producer Manufacturing"
    },
    {
-    "symbole": "TRADEGATE:PLUN",
-    "nom": "Plug Power Inc.",
-    "prix": 0.9421,
+    "symbole": "TRADEGATE:EVT",
+    "nom": "Evotec SE",
+    "prix": 2.508,
     "devise": "EUR",
-    "jour_pct": -2.85,
-    "mois_pct": -23.41,
-    "volume": 372582,
-    "volume_relatif": 0.26,
-    "capitalisation": 1357719611.2204726,
+    "jour_pct": -3.61,
+    "mois_pct": -11.32,
+    "volume": 340199,
+    "volume_relatif": 1.08,
+    "capitalisation": 452677781,
     "per": null,
     "bourse": "TRADEGATE",
-    "secteur": "Electronic Technology"
+    "secteur": "Commercial Services"
    },
    {
-    "symbole": "XETR:CBK",
-    "nom": "Commerzbank AG",
-    "prix": 33.3,
+    "symbole": "TRADEGATE:E3B",
+    "nom": "Eutelsat Communications SA",
+    "prix": 1.5495,
     "devise": "EUR",
-    "jour_pct": -2.55,
-    "mois_pct": -10.0,
-    "volume": 4840907,
-    "volume_relatif": 2.17,
-    "capitalisation": 36932545750,
-    "per": 11.0,
-    "bourse": "XETR",
-    "secteur": "Finance"
+    "jour_pct": -2.88,
+    "mois_pct": -19.92,
+    "volume": 236511,
+    "volume_relatif": 1.63,
+    "capitalisation": 1841698216,
+    "per": null,
+    "bourse": "TRADEGATE",
+    "secteur": "Communications"
    }
   ],
   "Allemagne : volumes anormaux": [
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 39.76,
+    "prix": 39.6,
     "devise": "EUR",
-    "jour_pct": 11.25,
-    "mois_pct": 15.85,
-    "volume": 236915,
-    "volume_relatif": 29.97,
+    "jour_pct": 10.8,
+    "mois_pct": 15.38,
+    "volume": 241565,
+    "volume_relatif": 30.56,
     "capitalisation": 27042136113.301346,
-    "per": 14.1,
+    "per": 14.0,
     "bourse": "TRADEGATE",
     "secteur": "Consumer Non-Durables"
    },
@@ -1965,20 +1965,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "SZSE:300469",
-    "nom": "Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A",
-    "prix": 28.28,
-    "devise": "CNY",
-    "jour_pct": -20,
-    "mois_pct": -42.29,
-    "volume": 13526905,
-    "volume_relatif": 2.05,
-    "capitalisation": 8287818003,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "SZSE:300670",
     "nom": "Jiangsu Daybright Intelligent Electric Co. Ltd. Class A",
     "prix": 3.6,
@@ -1991,6 +1977,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "SZSE:300469",
+    "nom": "Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A",
+    "prix": 28.28,
+    "devise": "CNY",
+    "jour_pct": -20,
+    "mois_pct": -42.29,
+    "volume": 13526905,
+    "volume_relatif": 2.05,
+    "capitalisation": 8287818003,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Technology Services"
    },
    {
     "symbole": "SZSE:301049",
@@ -3655,6 +3655,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "La Fed semble signaler une hausse prochaine des taux d’intérêt - Finance et Investissement",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORFRGeEZnbmR4Smg4UWI3UFM0QWtZckNCVl94bFVwSVc5bEd3Wl85am0xbjFvX1UwakpOa2phUno2SENXdUQtU2FUSmo4NzlpQnNNSm5pNEo0dVFDX1VqSWxPS0RYdlBDTDlQWmVkRUs1dTJ2ejVleTJ0VDl2YmdFVnVKMkZOODl0ZzVrM01ReWpGeHJpNFRRSUdxZ0hBODRxNk1taTY2YURJQmhmQjlMVnpB?oc=5",
+   "date": "Thu, 26 Nov 2026 12:08:51 GMT",
+   "vu_le": "2026-11-26T21:00:36.230154+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les responsables de la BCE envisagent de nouvelles hausses des taux d'intérêt en raison de la détérioration des perspectives d'inflation - Business AM",
+   "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUUViNC1rM3ZMZlFjUjd0Vjc2NXM4ZU1oZWhlYWRpTGZTYW9NcVdzeTdhM1dLanFOaFBGYkJuTWVZNmwwT29KamY0NmNRZ0l4VGhQRnVya1lHU0VCYVdObGU3MGRUT1M2dVlnV1hoLVlDODZfSHB3U21ZSHlGcy0zWTF6azRubkpqRWhsb25fU002YUVmT200TUxCaTRhUmUtRkZEeHFzSGc3bXZOSDlKeVlwOEhFdGxzd1BieFllb0hDRFA2akRKbmo1SW1zWGVBbFN3R2FEdVJNLWlTazA0b3FQQkFRN3UxMUVPQ05GV25pZw?oc=5",
+   "date": "Thu, 26 Nov 2026 19:14:00 GMT",
+   "vu_le": "2026-11-26T21:00:36.230154+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia hits pause on chip shipments to Southeast Asia - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZnplaktWQjBPaDF6ajJQbW1QM3BGQWNBcXBCZzNtYXpNaFh6ZkxSanhMZ0JLQU9FU01Xb1BnRFFWMjNfN1R3SWtwVVV2OXJ2MlVfeUIzc2pWa3lnSk9fWE9nVjlfY2M3YlFmS21NdnNyTE9mbURLcEFfM0swVGNSLWp5WmpDdzlzWHNsSUYtbElsQlloX01Jbw?oc=5",
+   "date": "Thu, 26 Nov 2026 20:03:54 GMT",
+   "vu_le": "2026-11-26T21:00:36.230154+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Altria and Japan Tobacco Explore Imperial Brands Breakup - SuaraGarut.ID",
+   "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04SHZsYjQxSFpLTjR1MkEyY3A0ZGVUeV95NnpORWY4bm1FYUJLRXpmNEJscFhRQmZNUzNnNkJMOVUtcmt3eGhtdHZLYlMzUDN2MENlVTlfVURQaElIR3FrLWdzeVlycmtMeTl1T25pRQ?oc=5",
+   "date": "Thu, 26 Nov 2026 14:02:51 GMT",
+   "vu_le": "2026-11-26T21:00:36.230154+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Viomi (VIOT) Names New CFO and Signs All-Cash Deal to Acquire Brondell - Minichart",
+   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWXJmaDVlRk9tdS1OTGMwb1lhcFRvVlVtcERQbDZhMzNpT2d3YUZ4U1p6RVVYaFI2SFdWRnk4STBDSmU1ZzFFSnEyR0F6Y3FUMHJfemw5cWlad3ljQ09BdDhOdFktTHoxUTljNmFMY2s5a3FGSW5jRFBLbE9vbWtfU2VxbmVHWHJ2c2Zhb004cmg1aThaODk2aDVDV3BybUtpV0tWXzljdGR3WFNobHJfTXJmeDBjaUJyM0xHa1dqM191TUdDWTZLLWpqOTFMYlQxNnR2bG04OVM1SzJHMkVFeTVGXzU?oc=5",
+   "date": "Thu, 26 Nov 2026 14:55:00 GMT",
+   "vu_le": "2026-11-26T21:00:36.230154+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Is Bitcoin a Good Investment for Building Wealth After a 50% Drop? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc2NoNkp4elQyTmJfSVczalRqZVJhTzFHTWhlSTQ4Z01MS000cVgzNWctR2Ytc0dNN0FFeXJhd3VGQXRSSXltbnFDZTZVRk9WRXVqa016bW9fN2VtN056OVlqUDdJWG1md01ublJlT3Nod1JPTGtZaHBrYkQ1N0Y5VndJQXlyb0FDMXhlVHRWRzJJZnk5OWZfTzNsMm05cndVY0M5aFRMRjUwNFI2aFE3LW0zcWt4REZYbEJVZDltUzA?oc=5",
+   "date": "Thu, 26 Nov 2026 20:50:00 GMT",
+   "vu_le": "2026-11-26T21:00:36.230154+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News - Yahoo Finance",
@@ -6412,48 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNndtczVKdnE1S2lwTno4TDUzMHVudmF6ODNscjZhVFk4TlBpRmtZQU0wRFo3X1FmNHluX2hFN0Fzc1VqVkpnVFZSb1MwTTFYZ2U1OE1MV29DZ1FLdVdfRGtnOVNmMmZtTmtMaFpaeXpDbld0dy11UDRGWVY4aGcxdUtScGc5WnBqaWVqZjc4dVhWWmxlV0NkdzFkN0pHenlqZTFRaTJSZWlBTFFZYjhXRmg1c3NTVWszQ2M0?oc=5",
    "date": "Thu, 26 Nov 2026 08:30:23 GMT",
    "vu_le": "2026-11-26T08:40:35.980981+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia Reportedly Halts AI Server Shipments To Southeast Asia Ahead Of Jensen Huang's Congress Testimony - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQU5pMWdnMm5wTkRka3ViZzBVX0xIT245TFNzcGJBazNqRml5aVpuNkl0Mk1DcFFidjgtdnZuaGZGcEpFUURJa3MtN0V5MkZxXzU4NUVnM005anhxTmRrNWJ5VktRZXU3UlJ0RXEzX2RzaGhFVy1jN0VfTmJISWtLSktpd1F4M2pPU2NzWEsxNXdKQ0hGeW03ZnZJNUpMdw?oc=5",
-   "date": "Thu, 26 Nov 2026 08:11:47 GMT",
-   "vu_le": "2026-11-26T08:40:35.980981+00:00"
-  },
-  {
-   "sujet": "Introductions en bourse",
-   "titre": "Dangote refinery shares to debut on NGX December 1 - Punch Newspapers",
-   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YS0xEM0N3cTlVd0FFbW9BTWtZVnJtZW9lc0trVWV6VkxodEdOSHVVbEFRbnZlZjJUSUJqZDlJaG5vcEdIdjdYWGhXX0FmSXdyQjdKcTZ5NG50Q1hnX0tYRXJyb2FsLUUyZmM4elQwa2g2ZzhZRmxB?oc=5",
-   "date": "Thu, 26 Nov 2026 01:47:53 GMT",
-   "vu_le": "2026-11-26T08:40:35.980981+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Ethereum’s Slide Sends a $1.17 Million Warning to NEOS High-Income ETF - TipRanks",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQi1adEN6dmwyemp1VXIxS2RoM09WZnRwajY4dmhlcVB1MG1pYUhTN3BybzhTckNwZ2UtUWJMSEJVX1ZlQ28zOERhN3ItbXJod09INFM1MllVbEZQdVBUMEpwcmRGMjRDNVlvbENqQUt3dHZDSGpXUHpoaEJUb2ZhbW5jdHE5Q204dU83ZFFQTWY1QnNNSGhZMjdackdwYVktd0h2ZmZlRE1ZeUFWdTJiRWhwRkV3QQ?oc=5",
-   "date": "Wed, 25 Nov 2026 10:10:54 GMT",
-   "vu_le": "2026-11-26T08:40:35.980981+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "CAC 40 : La Bourse de Paris attendue en nette hausse à l'ouverture, la pression vendeuse sur la tech s'atténue - Zonebourse",
-   "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbEp2M2I3NUgxRUxBMU8yb0dXOVE2QkgxUE9zSFoxUkdKdlM3dV9MQWRkbW9PblM5c05EQ3hDZTJNN2c5WjJtQ1VkQ0g1T1VXamlkWndfRnRFcmFMTjkwVzljZ2dfT212dnJKMXZDN0VzWXRFbmdWMjlmSWxidnpKSnV6TWJIUlQ2YXhsWGlMYlZvcFFOazl6Rm1lalZ4VXBIaGFyVlRjUEktMFBwMkw3aGs2UXN1aWJCYWJZb3d1THdnSWtteXZCWmMxTlp3dW9IYllLbjJuWW1HNmRTSkZTd0JIWEwwdnRMN01xanNKVQ?oc=5",
-   "date": "Thu, 26 Nov 2026 07:46:39 GMT",
-   "vu_le": "2026-11-26T08:30:35.655033+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Hang Seng Closes Up 1.6% While Shanghai Barely Budges - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnQ4aHgxMk9senYyamZZbVZJY3NfcDdnVWRXMXphekVrYmYxMU00S1Q3UU00QzZhRlNyWWFWM2QyanFCTmZNa29uRWJXSDRZWU5udnZ0b19qRjc4SjRQQnJyWWVWSVNvNTdsanlHRzFURC1wTVZtSzgtRk12TjdpSzAtYmxCQ2dqMXB3a2hfNmFMemZZMDBCVExrZkUwVE00TURXOG9mMkZwcGs0ODdUSGR6ZUxqV2RoeE1GYl9JbktkbFFxcG5Mek13?oc=5",
-   "date": "Thu, 26 Nov 2026 08:14:51 GMT",
-   "vu_le": "2026-11-26T08:30:35.655033+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia stops shipping AI servers to 4 Southeast Asian countries- FT - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVZtX2ZuWFcxUVB0dkRVVlBMVkZNNkd0X2dPTFExMmF1YndMOE82TERFUDlENkZRcEVxQ2lmaTNxelllYm13dDdiWEtNMzhqVVRGYTN5VXlfOThLeUQ5bk1PMF81U0RCaVRtUGJhVEc2OFFUMWRRN2xxVERFb2s0aEJKRl9XY3JYQlBfVWtJOUk2aGJaTmNsMWFPYkM?oc=5",
-   "date": "Thu, 26 Nov 2026 06:29:00 GMT",
-   "vu_le": "2026-11-26T08:30:35.655033+00:00"
   }
  ],
  "erreurs": []
