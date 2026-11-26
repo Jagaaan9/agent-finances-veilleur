@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T22:00:35.558902+00:00",
+ "mis_a_jour": "2026-11-26T22:10:41.327121+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,12 +160,12 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09686,
+   "prix": 1.09681,
    "devise": "USD",
    "jour_pct": -0.01,
-   "mois_pct": -1.4,
-   "volume": 0,
-   "volume_relatif": null,
+   "mois_pct": -1.41,
+   "volume": 43,
+   "volume_relatif": 0.0,
    "capitalisation": null,
    "per": null,
    "bourse": "FX",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55377.72,
+   "prix": 55215.71,
    "devise": "EUR",
-   "jour_pct": 0.59,
-   "mois_pct": -22.65,
-   "volume": 80.57338624,
-   "volume_relatif": 0.36,
+   "jour_pct": 0.3,
+   "mois_pct": -22.88,
+   "volume": 82.68803049,
+   "volume_relatif": 0.37,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -2840,7 +2840,7 @@
     "volume": 127677,
     "volume_relatif": 7.11,
     "capitalisation": 1178946427,
-    "per": 18.4,
+    "per": 20.7,
     "bourse": "NSE",
     "secteur": "Producer Manufacturing"
    },
@@ -3385,20 +3385,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.66,
-    "devise": "USD",
-    "jour_pct": -1.74,
-    "mois_pct": -12.43,
-    "volume": 1206763,
-    "volume_relatif": 0.87,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.63,
@@ -3407,6 +3393,20 @@
     "mois_pct": -12.27,
     "volume": 1550645,
     "volume_relatif": 1.24,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.66,
+    "devise": "USD",
+    "jour_pct": -1.74,
+    "mois_pct": -12.43,
+    "volume": 1206763,
+    "volume_relatif": 0.87,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "SSE Composite Flat at 3,476.88 as Banks Hit Records and US Tariff Threat Caps China's Rebound - BBN Times",
+   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXhBZUZjUTN6WHN5eHZ5OFZLWWtyM1VNNkxFTklGMjNWdDExQkNOMThlYWtSRWxpZ1RHakF4dDZYYU5IWmpDUGx6YkdKUG5HdkFSaTBWZUwwOElvZkx1cGdMLUhsZEUzM1RRRE92NmIyRVJtSnk5dG13NU9ZRkVXMlVia1hDRHo4SFluWllDTnZ6RzMyYU0yREJjUzQteGdPN1dNUkFNN1phdzFyanNfbzFjT2hGeC0wSXlMc2dNWFBGejM3dVE?oc=5",
+   "date": "Thu, 26 Nov 2026 22:06:33 GMT",
+   "vu_le": "2026-11-26T22:10:41.327121+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Marlboro maker Altria explores takeover of UK's Imperial Brands - CNBC",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkVCSWVrOHdRalJFYkJUNTRwZEotYXpRMS03RU5kcDFxall5WE5OU0JlYjlMemtyUWxFLUdlNnBkQnl0RHpoY3VUWEN4cF9RTVFZS3FuU3FwRkJIa0F2UVFkX1d3Y3daOEdxVjdHUEtxZUU3dmxKanZkek10VkVRdjZnTkl4UmJGV3o1QkJsZHVCWkJ6VHY1aXFWajhMNV9u0gGmAUFVX3lxTFBFS1NqNWZKaGJDSTNCMzdJTGVWd1E2R0FkLXFVMDNsWjMySWR1dkRWcmd6Si14elRFdDJkSTE5QVlRUjRRa0I4a1ZEanRWOEhVdjZuSmgwcFZUZmtWblUwZGxlZ1FZaGNVT0htZE9aMU84WDNwN1ExenlFVTVybGl3c3pEa3A4SlZsMXgxSFZkcDkyTml4bkFRdGRVWGlSTTdaVlJqNWc?oc=5",
+   "date": "Thu, 26 Nov 2026 14:47:37 GMT",
+   "vu_le": "2026-11-26T22:10:41.327121+00:00"
+  },
   {
    "sujet": "Rachats et fusions",
    "titre": "Dubai Islamic Bank (DIB) to acquire Emirates Islamic in $8.5 bn deal - Beinsure",
@@ -6439,20 +6453,6 @@
    "titre": "L3Harris Technologies Stock Outlook: Is Wall Street Bullish or Bearish? - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHpoekNrcGJTVjRqMmNTRk9ob2xMZl9fald0ZlhzZ0sxczNLbDdpSmhka0xsVDNXWDdCRTJKa19QaEJKMkQ2RFROczZTbjduSDVYYzVKSzdMX3YwM0ZRRE94TmdkRGhDYWlyYjNfTXVUSWRpbG1nX09qS21vRFhqWTdDN3lDb2hicVk5OFFVSmZYN0dZLXdFVzVSbW5OUGFMUXB4bkZ6N1Q?oc=5",
    "date": "Wed, 25 Nov 2026 14:11:48 GMT",
-   "vu_le": "2026-11-26T09:40:38.005387+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Hensoldt AG (HAG.DE) stock price, news, quote and history - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wLXExMlV4cm91ZlQxWmNCSEl2Z1JuTkF4WXFwUEUxOGc0RGZsMFMzT2RMSHMyMDB2TkhtZUFrNlBZTVliVE5QMkNROVFGUXJZd01QcQ?oc=5",
-   "date": "Wed, 25 Nov 2026 10:51:04 GMT",
-   "vu_le": "2026-11-26T09:40:38.005387+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Index Reshuffle Puts Hyperliquid’s HYPE in Franklin’s EZPZ Crypto ETF on Dec. 1 - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ1o0cWlJWTVUSmxuNUY2WWlaYXZiSUdWS21WNVN1NVhWSDNEQUxDRnMzMThiY0JEVEFEODVlU29VVFNCM0xCRFYxMy1paFRKd0t2MjZvWVhMc3NJZW9uSzFIaEV4Zy1xSy1obW5rdHR5OXhhQlhZR0ZtUE50UklscEU5LVFPQXdHRi1tejRwLVNYcWNZX0YzaUwwOHZCQ3V1Q3FydA?oc=5",
-   "date": "Thu, 26 Nov 2026 09:15:57 GMT",
    "vu_le": "2026-11-26T09:40:38.005387+00:00"
   }
  ],

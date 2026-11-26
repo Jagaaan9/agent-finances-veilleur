@@ -12,8 +12,8 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
 - Gold (TVC:GOLD) : 3566.392 USD, jour -0.64 %, mois -11.23 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09686 USD, jour -0.01 %, mois -1.4 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55377.72 EUR, jour 0.59 %, mois -22.65 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09681 USD, jour -0.01 %, mois -1.41 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55215.71 EUR, jour 0.3 %, mois -22.88 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -240,7 +240,7 @@ POSITIONS ET INDICES :
 ÉCRAN Inde : plus fortes baisses :
 - Thomas Cook (India) Limited (NSE:THOMASCOOK, secteur Consumer Services) jour -10.0 %, mois 50.1 %, prix 134.64 INR, capi 70599415657, PER 30.8, volume x0.62 la normale
 - Thomas Cook (India) Limited (BSE:THOMASCOOK, secteur Consumer Services) jour -9.99 %, mois 53.51 %, prix 135.09 INR, capi 70599415657, PER 30.9, volume x0.93 la normale
-- Bonlon Industries Ltd (NSE:BONLON, secteur Producer Manufacturing) jour -8.39 %, mois 4.96 %, prix 32.64 INR, capi 1178946427, PER 18.4, volume x7.11 la normale
+- Bonlon Industries Ltd (NSE:BONLON, secteur Producer Manufacturing) jour -8.39 %, mois 4.96 %, prix 32.64 INR, capi 1178946427, PER 20.7, volume x7.11 la normale
 - Permanent Magnets Limited (NSE:PERMAGN, secteur Producer Manufacturing) jour -8.21 %, mois 13.61 %, prix 1216.8 INR, capi 11404988961, PER 59.6, volume x1.21 la normale
 - TCI Express Ltd. (NSE:TCIEXP, secteur Transportation) jour -6.98 %, mois -16.32 %, prix 396.65 INR, capi 16475246131, PER 19.1, volume x6.64 la normale
 - Parag Milk Foods Ltd. (NSE:PARAGMILK, secteur Consumer Non-Durables) jour -6.78 %, mois 28.75 %, prix 315.44 INR, capi 42484639874, PER 32.1, volume x1.15 la normale
@@ -287,8 +287,8 @@ POSITIONS ET INDICES :
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3326384161590.9995, PER 14.1, volume x1.14 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1559025893850, PER 1.7, volume x0.54 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -0.11 %, mois -5.17 %, prix 316.74 USD, capi 841137764833, PER 13.3, volume x1.08 la normale
@@ -310,6 +310,8 @@ POSITIONS ET INDICES :
 - Beneteau SA (EURONEXT:BEN, secteur Consumer Durables) jour 3.84 %, mois 11.74 %, prix 5.14 EUR, capi 403167537, PER None, volume x1.03 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] SSE Composite Flat at 3,476.88 as Banks Hit Records and US Tariff Threat Caps China's Rebound - BBN Times
+- [Rachats et fusions] Marlboro maker Altria explores takeover of UK's Imperial Brands - CNBC
 - [Rachats et fusions] Dubai Islamic Bank (DIB) to acquire Emirates Islamic in $8.5 bn deal - Beinsure
 - [Petites valeurs en croissance] Arista Networks (ANET) Could Be 4% Undervalued On Etherlink R4 And AI Growth - Yahoo Finance
 - [Défense, énergie, matières premières] Defence stocks are doing well but getting sold off: here’s why - Switzer.com.au
@@ -453,6 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Pays émergents] FPI buying lifts markets, but India's external outlook remains uncertain - Business Standard
 - [Défense, énergie, matières premières] RTX vs. HEI: Which Defense Stock Has Greater Upside Potential? - TradingView
 - [Défense, énergie, matières premières] UK stocks rise on banks, industrials' strength; Babcock leads FTSE 100 - Reuters
-- [Anthropic] Ed Zitron says the AI trade peaked at Anthropic's IPO — and Bitcoin's slide to $55,000 is riding the same unwind - BigGo Finance
-- [Marchés mondiaux] Wall Street Analysts Believe Super Group (SGHC) (SGHC) Could Rally 61.64%: Here's is How to Trade - Yahoo Finance
-- [Résultats d'entreprises] Burlington’s Holiday Quarter Has Little Cushion—a War
+- [Anthropic] Ed Zitron says the AI trade peaked at Anthropic's IPO — and Bitcoin's slide to $55,000 is riding the same unwind - BigGo Financ
