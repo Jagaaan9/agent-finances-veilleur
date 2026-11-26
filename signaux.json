@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T19:40:36.090992+00:00",
+ "mis_a_jour": "2026-11-26T19:50:35.974695+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09701,
+   "prix": 1.09705,
    "devise": "USD",
    "jour_pct": -0.04,
    "mois_pct": -1.82,
-   "volume": 118436,
+   "volume": 118555,
    "volume_relatif": 0.6,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55262.75,
+   "prix": 55310.51,
    "devise": "EUR",
-   "jour_pct": 0.38,
-   "mois_pct": -22.81,
-   "volume": 79.17928818,
+   "jour_pct": 0.47,
+   "mois_pct": -22.74,
+   "volume": 79.3185362,
    "volume_relatif": 0.35,
    "capitalisation": null,
    "per": null,
@@ -1001,12 +1001,12 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 39.85,
+    "prix": 39.71,
     "devise": "EUR",
-    "jour_pct": 11.5,
-    "mois_pct": 16.11,
-    "volume": 224968,
-    "volume_relatif": 28.46,
+    "jour_pct": 11.11,
+    "mois_pct": 15.71,
+    "volume": 227754,
+    "volume_relatif": 28.81,
     "capitalisation": 27042136113.301346,
     "per": 14.1,
     "bourse": "TRADEGATE",
@@ -1161,8 +1161,8 @@
     "devise": "EUR",
     "jour_pct": -4.6,
     "mois_pct": -10.31,
-    "volume": 386220,
-    "volume_relatif": 2.47,
+    "volume": 387825,
+    "volume_relatif": 2.48,
     "capitalisation": 36932545750,
     "per": 11.0,
     "bourse": "TRADEGATE",
@@ -1189,7 +1189,7 @@
     "devise": "EUR",
     "jour_pct": -3.89,
     "mois_pct": -15.94,
-    "volume": 107683,
+    "volume": 107797,
     "volume_relatif": 1.04,
     "capitalisation": 73345636860.1456,
     "per": 15.2,
@@ -1197,49 +1197,63 @@
     "secteur": "Producer Manufacturing"
    },
    {
+    "symbole": "TRADEGATE:AIXA",
+    "nom": "AIXTRON SE",
+    "prix": 25.91,
+    "devise": "EUR",
+    "jour_pct": -2.56,
+    "mois_pct": -12.76,
+    "volume": 137932,
+    "volume_relatif": 0.88,
+    "capitalisation": 2871908671,
+    "per": 36.3,
+    "bourse": "TRADEGATE",
+    "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "XETR:CBK",
+    "nom": "Commerzbank AG",
+    "prix": 33.3,
+    "devise": "EUR",
+    "jour_pct": -2.55,
+    "mois_pct": -10.0,
+    "volume": 4839940,
+    "volume_relatif": 2.17,
+    "capitalisation": 36932545750,
+    "per": 11.0,
+    "bourse": "XETR",
+    "secteur": "Finance"
+   },
+   {
     "symbole": "TRADEGATE:EVT",
     "nom": "Evotec SE",
-    "prix": 2.514,
+    "prix": 2.536,
     "devise": "EUR",
-    "jour_pct": -3.38,
-    "mois_pct": -11.1,
-    "volume": 331367,
-    "volume_relatif": 1.05,
+    "jour_pct": -2.54,
+    "mois_pct": -10.33,
+    "volume": 335167,
+    "volume_relatif": 1.07,
     "capitalisation": 452677781,
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Commercial Services"
-   },
-   {
-    "symbole": "SWB:PLUN",
-    "nom": "Plug Power Inc.",
-    "prix": 0.9351,
-    "devise": "EUR",
-    "jour_pct": -3.0,
-    "mois_pct": -23.37,
-    "volume": 129734,
-    "volume_relatif": 1.62,
-    "capitalisation": 1357719611.2204726,
-    "per": null,
-    "bourse": "SWB",
-    "secteur": "Electronic Technology"
-   },
-   {
-    "symbole": "TRADEGATE:E3B",
-    "nom": "Eutelsat Communications SA",
-    "prix": 1.5525,
-    "devise": "EUR",
-    "jour_pct": -2.7,
-    "mois_pct": -19.77,
-    "volume": 233929,
-    "volume_relatif": 1.61,
-    "capitalisation": 1841698216,
-    "per": null,
-    "bourse": "TRADEGATE",
-    "secteur": "Communications"
    }
   ],
   "Allemagne : volumes anormaux": [
+   {
+    "symbole": "TRADEGATE:ITB",
+    "nom": "Imperial Brands PLC",
+    "prix": 39.71,
+    "devise": "EUR",
+    "jour_pct": 11.11,
+    "mois_pct": 15.71,
+    "volume": 227754,
+    "volume_relatif": 28.81,
+    "capitalisation": 27042136113.301346,
+    "per": 14.1,
+    "bourse": "TRADEGATE",
+    "secteur": "Consumer Non-Durables"
+   },
    {
     "symbole": "SWB:MP2",
     "nom": "MPC Container Ships ASA",
@@ -1253,20 +1267,6 @@
     "per": 5.2,
     "bourse": "SWB",
     "secteur": "Transportation"
-   },
-   {
-    "symbole": "TRADEGATE:ITB",
-    "nom": "Imperial Brands PLC",
-    "prix": 39.85,
-    "devise": "EUR",
-    "jour_pct": 11.5,
-    "mois_pct": 16.11,
-    "volume": 224968,
-    "volume_relatif": 28.46,
-    "capitalisation": 27042136113.301346,
-    "per": 14.1,
-    "bourse": "TRADEGATE",
-    "secteur": "Consumer Non-Durables"
    },
    {
     "symbole": "XETR:ITB",
@@ -3371,6 +3371,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.63,
+    "devise": "USD",
+    "jour_pct": -1.48,
+    "mois_pct": -12.27,
+    "volume": 1550645,
+    "volume_relatif": 1.24,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.66,
@@ -3395,20 +3409,6 @@
     "volume_relatif": 1.11,
     "capitalisation": 3326384161591,
     "per": 14.3,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.63,
-    "devise": "USD",
-    "jour_pct": -1.48,
-    "mois_pct": -12.27,
-    "volume": 1550645,
-    "volume_relatif": 1.24,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Tullow Oil Output Set to Beat Guidance, Shares Rise 5.8% - AskTraders.com",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUUlyWV9kWmVuMVM0S1RlcFAyZTFBclVDT2pJdnRhZXhLT0FqTFU4YVVRcGNQNWtFV084WGpJY245d1lyRTRqQ0E0THM1bHp0YzJvUGdCV3FTbmw3UGY3QlcwemVCbWUxcnozQ08yNHV5YlAzbVkyTkI4NXd2RzR3WnhoQWZvaGxadlVncWZaNWp5ajZPQ2c?oc=5",
+   "date": "Thu, 26 Nov 2026 13:46:49 GMT",
+   "vu_le": "2026-11-26T19:50:35.974695+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin’s $60,000 recovery masks a growing threat that could push its price as low as $29,000 - CryptoSlate",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX1NDNFdwWWRvTF9FYTk1SzBzS0xMN3BPd0dneHVKOEQ5UDdKOEZoaWZPSWtEOVZxZTVwMHNDMTRzbDE2WF9HRXFQSDAyTnZ6T21GMk1xOTZ3RTBiR0Q3TW1NOGRwQnRlRDdiSHVQNEpzRnJBb0VRSFJOZnBRN3l1ZWUtTndtQWlhRUZIRlpVNTI1Mm1HTmo3Y1NnR1NRZlo1MXlldF9YckRlS1Rzank4T3NKTQ?oc=5",
+   "date": "Thu, 26 Nov 2026 19:30:23 GMT",
+   "vu_le": "2026-11-26T19:50:35.974695+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic Stock Is Now Trading as ANT. Should You Buy Today or Wait? - The Motley Fool",
@@ -6439,20 +6453,6 @@
    "titre": "Halfords raises FY profit outlook to up to £65 mln as hot summer lifts H1 earnings - Investing.com Australia",
    "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT05uOVNCQ2RxMGhXeUdXRHd4azl5WU8yY2lJRUtoWjFocWhOTk95RHFlQmNpQVNtQnEwSm4ycDhpZmhtUDYtN3pfOUptRHBqZnVZeW5jeEFuOFY2MFJFU3diaGg0SmJ1bW1HV2dKZXhxVERacUUtZ3ZzT1c4OHg3VU9yQ2M5ck5LUTBmLUhmWnE3OUV4cUluQ2hoX0swaEtRZDVGRDA0UW83M3pBMEZoUTBIWTl4M29zUE93amk5TXg3YTFoeWhz?oc=5",
    "date": "Thu, 26 Nov 2026 07:34:32 GMT",
-   "vu_le": "2026-11-26T07:50:35.728324+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Price Action: LG Electronics slips 2% as 2.05% equity changes hands; Siemens Energy jumps 5% after Q4... - Moneycontrol.com",
-   "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOOGxMNzRCSmRENHp1MUhhTTBuMExMRHNHZEM4TGVZa3RubDFnVDMtMWYzRm9GUVpReFd3b01UODNJd0VoS1g5VEU5VFNtcXFSUkRXbERqN0M3WEotaHF2R1ZRSlJQNTNmamxvUVNkZk1JcmtXb2xTUjBmUm45NUhab2dYUmZIZS1pY0RCMk1INVItei1zVUVQY1lEMV9EdUVfZU05T2JrNklFWHFpUmlvU2haNFk4R3phWWpVWjc3aWVUS3ZrSW81TkthSlpCaXNUS2dORXRwWnVhNkNhVjFQNWtRSkVSOU5EMzQweVd6d0JhUmlkcUlUVUZaMUp1NDdMa3RCNkxPY0dNWWfSAZACQVVfeXFMTVc4cFgyVnBrSG5JMTZ2VFRQYkUyNUJOVWJpUmtDTG1NWlhFbDNHN1hna05Pc2VxRnVCbFdVWExTUHJldnl5LWNwNW1qWGRBOFJ5ZHFhZ29NREdKREhld2swN2UyN1VBcGxkQl9IVDhWb0V2bzBjSHM4VTVpSURpMldjbVo0X2ZUWkplazNmQXlXR3RTT1JJU21aeTVDRzJmVnBFRVZncE1fLUdZQmstOHc2Xzc4R01WRW93eU5sS3hXTXFQNWx1NnJNbGJRcWNyMEhwX1NvQWpkVTJuV2d0a09RbFpJUWdaX0pFMFdmZmEtQU9sd0FReTV0R2g3ZklDR2otc3BJYkdpZk42RDVTVzM?oc=5",
-   "date": "Thu, 26 Nov 2026 05:17:15 GMT",
-   "vu_le": "2026-11-26T07:50:35.728324+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Cummins India Ltd. Surges 3.11% to Day's High of Rs 4189.05 — Outperforms Sector by 0.92 Percentage Points - MarketsMojo",
-   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQblJxdmREUGJ2ZnNRcTRFXzNhT3FTMGRqWkd3Qk00M2lTRUltRzZRWTFwUnNIV2dvUkMzYkJZMDRIVnZzLWVVa0ZObjFNeHJQZ3B2akV1NnRVQzJtZEs4YmIwZ1pUSERQVVN1TlY3eGpqYWVod3EzR1RvQzJOTVFBMjBSQjVXQUlTT0ZXbThGdVJDbjRiT1FQcnZ2dUtxVk1YVGtPRjFYeTJMTDNsU3ZteFIzOFlZQUZ6eWRRS2RmTVN6dw?oc=5",
-   "date": "Thu, 26 Nov 2026 06:43:20 GMT",
    "vu_le": "2026-11-26T07:50:35.728324+00:00"
   }
  ],
