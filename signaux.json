@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T21:10:34.798521+00:00",
+ "mis_a_jour": "2026-11-26T21:20:35.745845+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09692,
+   "prix": 1.09698,
    "devise": "USD",
    "jour_pct": -0.05,
-   "mois_pct": -1.4,
-   "volume": 120239,
+   "mois_pct": -1.39,
+   "volume": 120461,
    "volume_relatif": 0.61,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55382.82,
+   "prix": 55429.42,
    "devise": "EUR",
-   "jour_pct": 0.6,
-   "mois_pct": -22.64,
-   "volume": 80.11659723,
+   "jour_pct": 0.68,
+   "mois_pct": -22.58,
+   "volume": 80.3080942,
    "volume_relatif": 0.36,
    "capitalisation": null,
    "per": null,
@@ -1001,12 +1001,12 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 39.75,
+    "prix": 39.8,
     "devise": "EUR",
-    "jour_pct": 11.22,
-    "mois_pct": 15.82,
-    "volume": 244619,
-    "volume_relatif": 30.94,
+    "jour_pct": 11.36,
+    "mois_pct": 15.97,
+    "volume": 244719,
+    "volume_relatif": 30.96,
     "capitalisation": 27042136113.301346,
     "per": 14.1,
     "bourse": "TRADEGATE",
@@ -1055,20 +1055,6 @@
     "secteur": "Commercial Services"
    },
    {
-    "symbole": "TRADEGATE:AT1",
-    "nom": "Aroundtown SA",
-    "prix": 1.819,
-    "devise": "EUR",
-    "jour_pct": 8.92,
-    "mois_pct": 25.1,
-    "volume": 401111,
-    "volume_relatif": 3.01,
-    "capitalisation": 1818982381,
-    "per": 7.5,
-    "bourse": "TRADEGATE",
-    "secteur": "Finance"
-   },
-   {
     "symbole": "XETR:PLUN",
     "nom": "Plug Power Inc.",
     "prix": 0.9491,
@@ -1095,6 +1081,20 @@
     "per": null,
     "bourse": "XETR",
     "secteur": "Consumer Durables"
+   },
+   {
+    "symbole": "TRADEGATE:AT1",
+    "nom": "Aroundtown SA",
+    "prix": 1.795,
+    "devise": "EUR",
+    "jour_pct": 7.49,
+    "mois_pct": 23.45,
+    "volume": 401111,
+    "volume_relatif": 3.01,
+    "capitalisation": 1818982381,
+    "per": 7.4,
+    "bourse": "TRADEGATE",
+    "secteur": "Finance"
    }
   ],
   "Allemagne : plus fortes baisses": [
@@ -1115,10 +1115,10 @@
    {
     "symbole": "TRADEGATE:BYW6",
     "nom": "BayWa AG",
-    "prix": 1.702,
+    "prix": 1.714,
     "devise": "EUR",
-    "jour_pct": -10.89,
-    "mois_pct": -25.19,
+    "jour_pct": -10.26,
+    "mois_pct": -24.66,
     "volume": 135786,
     "volume_relatif": 3.81,
     "capitalisation": 608355974,
@@ -1129,10 +1129,10 @@
    {
     "symbole": "TRADEGATE:MP2",
     "nom": "MPC Container Ships ASA",
-    "prix": 2.039,
+    "prix": 2.034,
     "devise": "EUR",
-    "jour_pct": -8.07,
-    "mois_pct": -26.34,
+    "jour_pct": -8.3,
+    "mois_pct": -26.52,
     "volume": 114828,
     "volume_relatif": 6.47,
     "capitalisation": 1067197467.6652814,
@@ -1171,11 +1171,11 @@
    {
     "symbole": "TRADEGATE:CBK",
     "nom": "Commerzbank AG",
-    "prix": 33.13,
+    "prix": 33.19,
     "devise": "EUR",
-    "jour_pct": -4.85,
-    "mois_pct": -10.56,
-    "volume": 407560,
+    "jour_pct": -4.68,
+    "mois_pct": -10.39,
+    "volume": 407613,
     "volume_relatif": 2.61,
     "capitalisation": 36932545750,
     "per": 11.0,
@@ -1199,24 +1199,24 @@
    {
     "symbole": "GETTEX:BY6",
     "nom": "BYD Company Limited Class H",
-    "prix": 6.74,
+    "prix": 6.802,
     "devise": "EUR",
-    "jour_pct": -3.96,
-    "mois_pct": -16.0,
-    "volume": 109457,
+    "jour_pct": -3.08,
+    "mois_pct": -15.23,
+    "volume": 109557,
     "volume_relatif": 1.06,
     "capitalisation": 73345636860.1456,
-    "per": 15.2,
+    "per": 15.3,
     "bourse": "GETTEX",
     "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "TRADEGATE:EVT",
     "nom": "Evotec SE",
-    "prix": 2.508,
+    "prix": 2.53,
     "devise": "EUR",
-    "jour_pct": -3.61,
-    "mois_pct": -11.32,
+    "jour_pct": -2.77,
+    "mois_pct": -10.54,
     "volume": 340199,
     "volume_relatif": 1.08,
     "capitalisation": 452677781,
@@ -1227,10 +1227,10 @@
    {
     "symbole": "TRADEGATE:E3B",
     "nom": "Eutelsat Communications SA",
-    "prix": 1.5495,
+    "prix": 1.5545,
     "devise": "EUR",
-    "jour_pct": -2.88,
-    "mois_pct": -19.92,
+    "jour_pct": -2.57,
+    "mois_pct": -19.66,
     "volume": 236511,
     "volume_relatif": 1.63,
     "capitalisation": 1841698216,
@@ -1243,12 +1243,12 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 39.75,
+    "prix": 39.8,
     "devise": "EUR",
-    "jour_pct": 11.22,
-    "mois_pct": 15.82,
-    "volume": 244619,
-    "volume_relatif": 30.94,
+    "jour_pct": 11.36,
+    "mois_pct": 15.97,
+    "volume": 244719,
+    "volume_relatif": 30.96,
     "capitalisation": 27042136113.301346,
     "per": 14.1,
     "bourse": "TRADEGATE",
@@ -1355,10 +1355,10 @@
    {
     "symbole": "TRADEGATE:MP2",
     "nom": "MPC Container Ships ASA",
-    "prix": 2.039,
+    "prix": 2.034,
     "devise": "EUR",
-    "jour_pct": -8.07,
-    "mois_pct": -26.34,
+    "jour_pct": -8.3,
+    "mois_pct": -26.52,
     "volume": 114828,
     "volume_relatif": 6.47,
     "capitalisation": 1067197467.6652814,
@@ -1965,20 +1965,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "SZSE:300670",
-    "nom": "Jiangsu Daybright Intelligent Electric Co. Ltd. Class A",
-    "prix": 3.6,
-    "devise": "CNY",
-    "jour_pct": -20,
-    "mois_pct": -41.56,
-    "volume": 22759200,
-    "volume_relatif": 1.74,
-    "capitalisation": 1426142120,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:300469",
     "nom": "Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A",
     "prix": 28.28,
@@ -1991,6 +1977,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Technology Services"
+   },
+   {
+    "symbole": "SZSE:300670",
+    "nom": "Jiangsu Daybright Intelligent Electric Co. Ltd. Class A",
+    "prix": 3.6,
+    "devise": "CNY",
+    "jour_pct": -20,
+    "mois_pct": -41.56,
+    "volume": 22759200,
+    "volume_relatif": 1.74,
+    "capitalisation": 1426142120,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301049",
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
-    "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
-    "capitalisation": 3326384161591,
-    "per": 14.3,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.63,
@@ -3409,6 +3395,20 @@
     "volume_relatif": 0.87,
     "capitalisation": 3326384161591,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
+    "devise": "USD",
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
+    "capitalisation": 3326384161591,
+    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Crypto",
+   "titre": "Is Bitcoin a Good Investment for Building Wealth After a 50% Drop? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVS02MzR5VmR4MTVSazlId2JUZjRPMTFjSmxZWWZnb21uaUExTGwtYWpxRmZET250VWZWVy1fQVQzeHk2emV1bjFSX25aN3F2YXppekYtdlFWZTdMRVVvLXRjRXVoWWZFNTlsSzJ5dzFPRTZLVEcyV3RvTzdRdnBqSFR5X2dEbEVHNjUxMDBjNzNlREVjMVZpc2I5ZHFwMXJybUZDN1IyWQ?oc=5",
+   "date": "Thu, 26 Nov 2026 20:50:17 GMT",
+   "vu_le": "2026-11-26T21:20:35.745845+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Market Faces 3 Critical Risks Heading Into December 2026 - Cryptonews.net",
+   "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VNFNxY1M1RC1nMEs5RF9QRXpndWl3NWtsWDNSakdqQkJzc2FHZFlVV1VrTHhycm9tWVJzUnRhdUFTQ2FtTkVJSFRXNVJ4VWNUckFlenRxUTZXUW8?oc=5",
+   "date": "Thu, 26 Nov 2026 20:46:36 GMT",
+   "vu_le": "2026-11-26T21:20:35.745845+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "Les Américains sont à table et l'Europe se régale - Zonebourse",
@@ -6439,20 +6453,6 @@
    "titre": "CAC40 : Paris rebondit de 1,64 %, 2CRSi s'envole - Le Revenu",
    "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONEZOc3NQZXFFRVd3aHdHcWwyekhBelE0enZPVUk0RGx4OGk4b09mSkVHN3Z6R0ptT0liS29xM1JRVXNZbThpRldpYzJ0OUVZSDlrYXJ5M3hjNnVUazJKanEtX1Y1N1pxYVZJT2dGQ2pvSnk3QmZ6c2dieUxvR3VBNWlNYzdZclh1eU1DY1JXTGtXRzNoem9zWHN3VnJhb1lnbVdoRy1pbDR0VXo0MFE?oc=5",
    "date": "Thu, 26 Nov 2026 08:44:00 GMT",
-   "vu_le": "2026-11-26T08:50:36.565923+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Hong Kong shares close higher - The Standard (HK)",
-   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1B5YlhVSl8tSXlCQ1RYOWJNblhyMHhibXg1aWlfanlxOXJBQUE1SUdjdmh4cS14MC14YVZPb0JnblFaUndoYXBhTEI3VmhzZGt6Szh1RTM2aTZGV0wzQXpKcC1naDZVSXZaSWF4dmJtcWoxZ2xwNlFTbnFBRkxaanAxOS15T25CRnhn?oc=5",
-   "date": "Thu, 26 Nov 2026 08:38:22 GMT",
-   "vu_le": "2026-11-26T08:50:36.565923+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Deere & Company Q4 Earnings Call Highlights - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0JmX01IcHlQWWozMFRCZUh1ZVJpbUc2c2pjdm9qdVhXWVRpWnctV2p0c19RZnJkRFJPaUZadGtMWWxldzZob3hNQjZMVHpBSlphLXJmdUdxQUlCUFpWcW9ETTJ0aVJLaWNZUEZraEh5RkN4UTZLTnBlLUV6QVBvOTNjd0U5cmZPcVlYY1ZKQ19sSlJrN2czNnNveDFVYllYR05QTg?oc=5",
-   "date": "Wed, 25 Nov 2026 18:12:26 GMT",
    "vu_le": "2026-11-26T08:50:36.565923+00:00"
   }
  ],
