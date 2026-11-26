@@ -7,13 +7,13 @@ POSITIONS ET INDICES :
 - NASDAQ Composite Index (NASDAQ:IXIC) : 23585.8023 , jour -0.62 %, mois -9.38 %
 - CAC 40 Index (EURONEXT:PX1) : 7980.57 , jour -0.75 %, mois 2.1 %
 - STOXX 50 (TVC:SX5E) : 5894.46 EUR, jour -1.82 %, mois -2.76 %
-- Japan 225 Index (TVC:NI225) : 57429.54 JPY, jour 0.73 %, mois -8.21 %
+- Japan 225 Index (TVC:NI225) : 57678.08 JPY, jour 1.17 %, mois -7.82 %
 - Hang Seng Index (TVC:HSI) : 21966.02 HKD, jour -1.14 %, mois -5.14 %
 - SSE Composite Index (SSE:000001) : 3476.4697 , jour -2.03 %, mois -5.3 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3575.658 USD, jour -0.38 %, mois -11.0 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09699 USD, jour -0.05 %, mois -1.83 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55052.86 EUR, jour 0.93 %, mois -23.1 %
+- Gold (TVC:GOLD) : 3577.041 USD, jour -0.35 %, mois -10.97 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09741 USD, jour -0.01 %, mois -1.79 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55135.12 EUR, jour 0.15 %, mois -22.99 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -454,4 +454,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Bourse de Paris et Europe] La Bourse de Paris termine en baisse, entraînée par le décrochage de Wall Street - tv5monde
 - [Banques centrales et taux] Le dollar australien rebondit malgré les perspectives restrictives de la Fed et le faible appétit pour le risque - www.tmgm.com
 - [Rachats et fusions] After $32 billion Google deal, Wiz founders face multibillion-dollar tax demand in Israel - Ynetnews
-- [Petites valeurs en croissance] Boston Scientific (BSX) Stock Could Be 38% Undervalued After Cybersecurity Fallout - Yah
+- [Petites valeurs en croissance] Boston Scientific (BSX) Stock Could Be 38% Undervalued After Cybersecurity Fallout - Y
