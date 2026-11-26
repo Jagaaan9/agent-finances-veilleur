@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T17:20:35.992717+00:00",
+ "mis_a_jour": "2026-11-26T17:30:36.566949+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3569.455,
+   "prix": 3568.25,
    "devise": "USD",
-   "jour_pct": -0.56,
-   "mois_pct": -11.16,
+   "jour_pct": -0.59,
+   "mois_pct": -11.19,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.0970199999999999,
+   "prix": 1.09708,
    "devise": "USD",
    "jour_pct": -0.04,
    "mois_pct": -1.82,
-   "volume": 114957,
+   "volume": 115313,
    "volume_relatif": 0.58,
    "capitalisation": null,
    "per": null,
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55134.85,
+   "prix": 55124.02,
    "devise": "EUR",
-   "jour_pct": 0.15,
-   "mois_pct": -22.99,
-   "volume": 74.75092296,
-   "volume_relatif": 0.33,
+   "jour_pct": 0.13,
+   "mois_pct": -23.0,
+   "volume": 75.623643,
+   "volume_relatif": 0.34,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -991,8 +991,8 @@
     "devise": "EUR",
     "jour_pct": 13.85,
     "mois_pct": 18.56,
-    "volume": 183379,
-    "volume_relatif": 23.2,
+    "volume": 184917,
+    "volume_relatif": 23.39,
     "capitalisation": 27042136113.301346,
     "per": 14.4,
     "bourse": "TRADEGATE",
@@ -1085,11 +1085,11 @@
    {
     "symbole": "TRADEGATE:IJU",
     "nom": "Intrum AB",
-    "prix": 0.1599,
+    "prix": 0.1606,
     "devise": "EUR",
-    "jour_pct": 7.24,
-    "mois_pct": 6.32,
-    "volume": 233445,
+    "jour_pct": 7.71,
+    "mois_pct": 6.78,
+    "volume": 233483,
     "volume_relatif": 1.24,
     "capitalisation": 464242842.8715551,
     "per": null,
@@ -1119,8 +1119,8 @@
     "devise": "EUR",
     "jour_pct": -8.07,
     "mois_pct": -26.34,
-    "volume": 107663,
-    "volume_relatif": 6.07,
+    "volume": 107963,
+    "volume_relatif": 6.09,
     "capitalisation": 1067197467.6652814,
     "per": 5.2,
     "bourse": "TRADEGATE",
@@ -1147,12 +1147,26 @@
     "devise": "EUR",
     "jour_pct": -7.17,
     "mois_pct": -22.23,
-    "volume": 120626,
-    "volume_relatif": 3.47,
+    "volume": 121267,
+    "volume_relatif": 3.49,
     "capitalisation": 270747728,
     "per": 22.1,
     "bourse": "XETR",
     "secteur": "Utilities"
+   },
+   {
+    "symbole": "TRADEGATE:CBK",
+    "nom": "Commerzbank AG",
+    "prix": 33.16,
+    "devise": "EUR",
+    "jour_pct": -4.77,
+    "mois_pct": -10.48,
+    "volume": 351127,
+    "volume_relatif": 2.24,
+    "capitalisation": 36932545750,
+    "per": 11.0,
+    "bourse": "TRADEGATE",
+    "secteur": "Finance"
    },
    {
     "symbole": "LS:A0LB2X",
@@ -1169,46 +1183,18 @@
     "secteur": "Consumer Services"
    },
    {
-    "symbole": "TRADEGATE:CBK",
-    "nom": "Commerzbank AG",
-    "prix": 33.26,
-    "devise": "EUR",
-    "jour_pct": -4.48,
-    "mois_pct": -10.21,
-    "volume": 350627,
-    "volume_relatif": 2.24,
-    "capitalisation": 36932545750,
-    "per": 11.0,
-    "bourse": "TRADEGATE",
-    "secteur": "Finance"
-   },
-   {
     "symbole": "GETTEX:BY6",
     "nom": "BYD Company Limited Class H",
     "prix": 6.729,
     "devise": "EUR",
     "jour_pct": -4.12,
     "mois_pct": -16.14,
-    "volume": 101261,
+    "volume": 101386,
     "volume_relatif": 0.98,
     "capitalisation": 73345636860.1456,
     "per": 15.2,
     "bourse": "GETTEX",
     "secteur": "Producer Manufacturing"
-   },
-   {
-    "symbole": "TRADEGATE:PLUN",
-    "nom": "Plug Power Inc.",
-    "prix": 0.9331,
-    "devise": "EUR",
-    "jour_pct": -3.77,
-    "mois_pct": -24.14,
-    "volume": 347836,
-    "volume_relatif": 0.24,
-    "capitalisation": 1357719611.2204726,
-    "per": null,
-    "bourse": "TRADEGATE",
-    "secteur": "Electronic Technology"
    },
    {
     "symbole": "TRADEGATE:EVT",
@@ -1237,6 +1223,20 @@
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Communications"
+   },
+   {
+    "symbole": "SWB:PLUN",
+    "nom": "Plug Power Inc.",
+    "prix": 0.9347,
+    "devise": "EUR",
+    "jour_pct": -3.04,
+    "mois_pct": -23.4,
+    "volume": 129734,
+    "volume_relatif": 1.62,
+    "capitalisation": 1357719611.2204726,
+    "per": null,
+    "bourse": "SWB",
+    "secteur": "Electronic Technology"
    }
   ],
   "Allemagne : volumes anormaux": [
@@ -1261,8 +1261,8 @@
     "devise": "EUR",
     "jour_pct": 13.85,
     "mois_pct": 18.56,
-    "volume": 183379,
-    "volume_relatif": 23.2,
+    "volume": 184917,
+    "volume_relatif": 23.39,
     "capitalisation": 27042136113.301346,
     "per": 14.4,
     "bourse": "TRADEGATE",
@@ -1359,8 +1359,8 @@
     "devise": "EUR",
     "jour_pct": -8.07,
     "mois_pct": -26.34,
-    "volume": 107663,
-    "volume_relatif": 6.07,
+    "volume": 107963,
+    "volume_relatif": 6.09,
     "capitalisation": 1067197467.6652814,
     "per": 5.2,
     "bourse": "TRADEGATE",
@@ -3371,16 +3371,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.63,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
     "devise": "USD",
-    "jour_pct": -1.48,
-    "mois_pct": -12.27,
-    "volume": 1550645,
-    "volume_relatif": 1.24,
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
     "capitalisation": 3326384161591,
-    "per": 2.1,
+    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3399,16 +3399,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.63,
     "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
+    "jour_pct": -1.48,
+    "mois_pct": -12.27,
+    "volume": 1550645,
+    "volume_relatif": 1.24,
     "capitalisation": 3326384161591,
-    "per": 14.3,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "US-based but Chinese-owned firms buy Nvidia’s most advanced AI chips: Report - Anadolu Ajansı",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPck5lMm83LTBidWFpR3NvSURRTk45eWNXMmozWC1lMkhLRDN0S1hvX1NaOHl3dkZxNzA3NXpIQkJaNmZHSGZ4TVI1czkta3drLWVWUmh5QmVjRW5ybTRQbHJKa2ZyV2pqM0tDdXBzSEN5SGVtalc1UkRVcFJ3eTlOOUtnN0RCVUlkMldwT0ZxWjNlanFfRk9JQWtaTnprMGNNeVVaOG41MmFrRm9wdG1RckEyZXlVOVU0?oc=5",
+   "date": "Thu, 26 Nov 2026 17:23:25 GMT",
+   "vu_le": "2026-11-26T17:30:36.566949+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "FPI buying lifts markets, but India's external outlook remains uncertain - Business Standard",
+   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOanJfRGxBbDVQekp5MFJDazMyczRxdnpJblFkUWdnbTRBV2FfclV6RWp2SFhwZW4zYVlpdXNucUhBQU42aFd0QzFncVJhczQ4WGlkVmxNcHJxc1J2dXFRcW5ONUdPLXpmX1U3UWJoSV9TNVRPZ0VLWUk4eUdQZ0NTUjE2SHdtZ0lrOHkyUEItRmhIUlZpWkZjaUxzeWJ1dS0xWlFhTFp0RE82R3dWYVgwYkRPaGU2UDExUVpPRHRUejRoZ2FTVk15cGw0VHkyUFpQVjBZSWRxVkTSAd4BQVVfeXFMUDBreGUzR0R3MzJoNXZHelNDUDZlalNxb0ZZbl82M2NGVzQ1akhnOG5yWGxkenBUbVZPYzVuci12MW9SSGFBRWtNNi04QTZEQ0dEbFowTXZUeXlGU2lSNHBEZ0pVX0l5azQzRWthRGFHWjdncVFLT05TZU9HN1l4Z1Z4dVNHZDhmajBjQVFSTmlmRDYyWXhhbDUwZS1FYnFqbU9tYXVwUmVpc3k4QTRCWnlCeFlxcTR5TVFvNWFBUUV2dklhSk5FSDdzZnh5b0ZpUzBXcVYwbzllQ1A2dHNR?oc=5",
+   "date": "Thu, 26 Nov 2026 16:25:36 GMT",
+   "vu_le": "2026-11-26T17:30:36.566949+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Why BAE Systems Could Be One To Own Through ETFs - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVlMY0dYMmRyYlFZSzlFSjMyY2Q2N3JHTVpEeGIwWFJabmx6TV9yNDZ1SW5nTWlZUTBMeE5LLXU5aTVBZ3RYT2tCU1p4UGRYemFKQ0dURlBfeE5mWUdpdU50N2h2WEkyQUJDZHdTQ0VTNS1OTWUzcGt4ZVpxTUpreWQ1U3VKOEFPelAzTjhRQVdKbHp6NVdET1NCOGpoUdIBowFBVV95cUxObTFhSHZrRXhsckg4Vkt1OWZLZkJ1ODRlOFJudURmTTZOa0J4bC00ckV0LXpOeG9mYmVPZC1VU2FLV1phYjhQbktoenpOMGlJQ1dFSkdOaTRNTnVmXzNhTUU0RVFzVDVSRUlEOVVMVFlmLWJLX1lkVmVZVW5TaHdrQ2U3RHJLdk00ZVNTNU1STVFLREs3Y1hDYS1TbGJFcnphalVV?oc=5",
+   "date": "Thu, 26 Nov 2026 17:11:21 GMT",
+   "vu_le": "2026-11-26T17:30:36.566949+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "UK stocks fall as banks, miners track Wall Street selloff - AOL.com",
+   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uUHRJM3J2YTJYVXNNcHFMZW1FUmp4bFl2Z2dGbWxFYzFfU0dIdkxaMnJOelpPSE5lUTc1NVduN2MyeU5FNGZ0SnEwQ1FaMnI5VGtEbzA5TFlYX1JUa2NtQVQ4andmSW8zRk5SRVdVNEN6c2tuaTBwSUZnNU16bWM?oc=5",
+   "date": "Wed, 25 Nov 2026 17:46:26 GMT",
+   "vu_le": "2026-11-26T17:30:36.566949+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "BTC News Today: US Bitcoin Strategic Reserve Bill Moves Closer as BTC Reclaims $60K - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUnFMSE5TNzVCUEJtcTVJcDMzTXRJclM0TFlhWVFydWt6V25URThjQ1BUYWJpc2xqeGIweEZnOVoxOVI3aGhTSGR5MzFLd3JaMWdKM2lmM08wYTJ3TW1QV2dybVRkNG9GRUFSUmhDcno2WWpXT3JtN1h5VXNhWnh1NzdsUWlfZmhfNU01emdSd1RDc2Rf?oc=5",
+   "date": "Thu, 26 Nov 2026 16:09:25 GMT",
+   "vu_le": "2026-11-26T17:30:36.566949+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "ZD Tech : Anthropic bat le record de Space X en Bourse avec 1 500 milliards de valorisation - lefilia.fr",
@@ -6419,41 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlBkWnp4WXFLVGdKRmtCLWg5MXBuUi0xNzlRUW1acTJ3NmZRczJNblNFcFVsZ1M0RDZSSXNrLXJJT2JnazdzdVZoQ2FxX3k0Ui1rZ2l2d25ValFWTy1veEhrdVdxTGJqcFlGTEhpYW90WmZiU0dmNlh2TnlEYXkzOGR3Ul84aGJjNkUwMlR0MF91TWptV1ZMR0w5OENlTG0xeGhPckV1R3Blb3RyRUpuSFpMbUxFZw?oc=5",
    "date": "Thu, 26 Nov 2026 06:03:18 GMT",
    "vu_le": "2026-11-26T06:20:36.832960+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Action Anthropic : le titre recule de près de 7 % et ses répliques tokenisées suivent - Coin Academy",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0s4X085THFoNy1LVTdxWDQwSmR5Qkoxdkw4VGI0QmZVbGQ0b2l3N3VlLXZ4VmxRN0xGZjRHZHhVR2hWQ01FZ2c1VDV4NlBEWXZ0N0V4NkFyMENRMmVuYUNOd0lTUzFXa2U1SEVqZ2NpbmVVOGQzWXk3eDdPeFJDdWVFMUpGY2NKaGlKREhoS3hNQWFxX2ZrNERR?oc=5",
-   "date": "Wed, 25 Nov 2026 10:48:03 GMT",
-   "vu_le": "2026-11-26T06:10:36.922373+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Un physicien du MIT affirme que des employés d'Anthropic évoquent le renversement du gouvernement américain et la domination du monde, un avenir où l'IA échapperait au contrôle démocratique - Developpez.com",
-   "lien": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQOTBXLVlSZGNCWEMtR0RlMXRRMkItY1EydnlSZ253X3I1MFFmU3pOYVl5VHAxOFBRdm15aHVYZVNiSWlhRXBkcEhkU1BDWWlHNWVka2tLUEpPUHhtZDR6ak0ya0puZUJNWm1KX3YyWFhNR0hvdDRRUjJSdDN5UkZhZ2s1YVZKaVktTTBRcm9ubGlRc05QWTl6QXJnMFlnTzBaZFVTRmlnQlNiQlBYMUVTOEFObmxySmMwNzJBZGFiZzFGejJlUEstRkU4TGRwUTd5UlZWdHh5Z0daVXNhUFpWNXVOS1lzRlY3QUtOa2hWUExOalF5bTZJZU9XV29ENU8yVHVuT05PSEZsdmdHbHU2Q2VYbDVHREdUYXNUUVZEZW5uNHB6Q2NEMk01QzFpSld2b2FGUlp6VUNBTk4ycWNVeGNJNUhjVC1LZDhtSS1FRzNqcDQzNEhKNE9lQkxDMFVNWkRXUjFWTGRTYTV1QWdR0gHvAkFVX3lxTFA5MFctWVJkY0JYQy1HRGUxdFEyQi1jUTJ2eVJnbndfcjUwUWZTek5hWXlUcDE4UFF2bXlodVhlU2JJaWFFcGRwSGRTUENZaUc1ZWRra0tQSk9QeG1kNHpqTTJrSm5lQk1abUpfdjJYWE1HSG90NFFSMlJ0M3lSRmFnazVhVkppWS1NMFFyb25saVFzTlBZOXpBcmcwWWdPMFpkVVNGaWdCU2JCUFgxRVM4QU5ubHJKYzA3MkFkYWJnMUZ6MmVQSy1GRThMZHBRN3lSVlZ0eHlnR1pVc2FQWlY1dU5LWXNGVjdBS05raFZQTE5qUXltNkllT1dXb0Q1TzJUdW5PTk9IRmx2Z0dsdTZDZVhsNUdER1Rhc1RRVkRlbm40cHpDY0QyTTVDMWlKV3ZvYUZSWnpVQ0FOTjJxY1V4Y0k1SGNULUtkOG1JLUVHM2pwNDM0SEo0T2VCTEMwVU1aRFdSMVZMZFNhNXVBZ1E?oc=5",
-   "date": "Wed, 25 Nov 2026 14:58:32 GMT",
-   "vu_le": "2026-11-26T06:10:36.922373+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Chinese AI trade pulls back after Wall Street volatility, Anthropic’s rocky IPO - South China Morning Post",
-   "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPc3ZMenRpZWV4bGxDMzZUdW16YWJscTFCTTVHbUZqdURhRkhWemVTQ1dnMzFsVXlmZG9felIzdVAwMFFTVlVzMTRhR0tQTEJtQmRmV0pXRUNqLW0xS3Y3eURKT3VrR1dsOWE2Tm5PVmxZSTNmeFRDV3dOd1h5SEZLckxhRUVRZDd4N3ZrWE1YVC1OSm9FMUgyMGFlM0dmM2lkOEc2bkxuZHowa3dRakJwYm4zRVVlbmExbzJMNGZiTVZqQkZuU2RqNnNnS0RvOXotOUVicTlNVllHcEhsWjM4VTAwbHBjWEdQbmRFb2huWVpQampHM3dEOTBIelBaUGktMFp0Mg?oc=5",
-   "date": "Thu, 26 Nov 2026 06:00:07 GMT",
-   "vu_le": "2026-11-26T06:10:36.922373+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Reclaims $60,000: Michaël Van De Poppe Eyes ‘Great First Quarter Of 2027’, While Cathie Wood Trims Crypto Exposure - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZG4tUDAyMXdjeERFWFFkWnluLXhzWU5PWkxIbmVReklBSHFrZU9TRnhIeGdNODkzSVk3TnpJSG5rQURLdjg2THRyMVNocjFDcnRMeG45Q0JZc1RQTG9oOVMtVFo5bWhaeVpBTjYzMkZTdDRkd0lHWWlZMVlUaTJycXRYdF9TMlRMYWtOeEx5VnQ2bzA2SnZZcWZ3?oc=5",
-   "date": "Thu, 26 Nov 2026 04:36:00 GMT",
-   "vu_le": "2026-11-26T06:10:36.922373+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic chute en Bourse : un avertissement pour toute l’industrie de l’IA - lebigdata.fr",
-   "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RUGw2MHY1eDlYamNRVmE4U3E5MHlZZExMbGp4b3NISGJEWk11Wl9NSjdLQnFrdzd0eXA5S0JpYUhldXRudkxjVUszaF9TaW5FcWFvWlNqY3lzcVBKNTRmOGZSR2RDdEU?oc=5",
-   "date": "Wed, 25 Nov 2026 08:50:58 GMT",
-   "vu_le": "2026-11-26T06:00:35.046341+00:00"
   }
  ],
  "erreurs": []
