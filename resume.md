@@ -12,8 +12,8 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
 - Gold (TVC:GOLD) : 3566.392 USD, jour -0.64 %, mois -11.23 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09673 USD, jour -0.02 %, mois -1.41 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55197.64 EUR, jour 0.26 %, mois -22.9 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09707 USD, jour 0.01 %, mois -1.38 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55120.9 EUR, jour 0.12 %, mois -23.01 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -167,8 +167,8 @@ POSITIONS ET INDICES :
 
 ÉCRAN Chine continentale : plus fortes baisses :
 - Shenzhen Sunwin Intelligent Co., Ltd. Class A (SZSE:300044, secteur Technology Services) jour -20.09 %, mois -31.87 %, prix 3.42 CNY, capi 3421775011, PER None, volume x3.98 la normale
-- Jiangsu Daybright Intelligent Electric Co. Ltd. Class A (SZSE:300670, secteur Producer Manufacturing) jour -20 %, mois -41.56 %, prix 3.6 CNY, capi 1426142120, PER None, volume x1.74 la normale
 - Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A (SZSE:300469, secteur Technology Services) jour -20 %, mois -42.29 %, prix 28.28 CNY, capi 8287818003, PER None, volume x2.05 la normale
+- Jiangsu Daybright Intelligent Electric Co. Ltd. Class A (SZSE:300670, secteur Producer Manufacturing) jour -20 %, mois -41.56 %, prix 3.6 CNY, capi 1426142120, PER None, volume x1.74 la normale
 - Anhui Chaoyue Environmental Technology Co., Ltd. Class A (SZSE:301049, secteur Industrial Services) jour -17.33 %, mois -10.65 %, prix 16.27 CNY, capi 1854905643, PER None, volume x1.39 la normale
 - Piesat Information Technology Co., Ltd. Class A (SSE:688066, secteur Technology Services) jour -15.7 %, mois -49.2 %, prix 3.49 CNY, capi 1270373640, PER None, volume x1.76 la normale
 - Heren Health Co., Ltd. Class A (SZSE:300550, secteur Technology Services) jour -13.24 %, mois -8.91 %, prix 11.66 CNY, capi 3505429402, PER None, volume x2.19 la normale
@@ -286,8 +286,8 @@ POSITIONS ET INDICES :
 - Aroundtown SA (LSIN:0RUH, secteur Finance) jour 6.25 %, mois 20.24 %, prix 1.7585 EUR, capi 1522102628.632228, PER 7.3, volume x1.18 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3326384161590.9995, PER 14.1, volume x1.14 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1559025893850, PER 1.7, volume x0.54 la normale
@@ -310,6 +310,10 @@ POSITIONS ET INDICES :
 - Beneteau SA (EURONEXT:BEN, secteur Consumer Durables) jour 3.84 %, mois 11.74 %, prix 5.14 EUR, capi 403167537, PER None, volume x1.03 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Credo Technology Has Had a Wild Ride to a 25% Decline Year-to-Date: Two Wall Street Teams Target 190% Returns Moving Forward - 24/7 Wall St.
+- [Rachats et fusions] Lakeshore Acquisition III extends merger deadline after CPRO Korea payment - Investing.com
+- [Crypto] XRP, Cardano or Stellar: Which Could Double First in 2027? - 24/7 Wall St.
+- [Crypto] What Would It Take for XRP to Reach $1,000? - Yahoo Finance
 - [Intelligence artificielle] Kazakhstan boosts AI cooperation with Russia, which is hungry for advanced US chips - Reuters
 - [Rachats et fusions] Altria Weighs Takeover Bid for Imperial Brands - Peradaban.id
 - [Pays émergents] Free float of JPMorgan ActiveBuilders Emerging Markets Equity ETF Shs Unsponsored Brazilian Depositary Receipt Repr 0.1666667 Sh – BMFBOVESPA:JEMA39 - TradingView
@@ -451,8 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Pays émergents] India shares higher at close of trade; Nifty 50 up 0.25% By Investing.com - Investing.com India
 - [Bourse de Paris et Europe] CAC 40: La Bourse de Paris finit dans le vert, la tech a repris des couleurs pour Thanksgiving - ABC Bourse
 - [Rachats et fusions] Marlboro maker Altria weighs takeover bid for U.K.’s Imperial Brands - The Globe and Mail
-- [Petites valeurs en croissance] 5 FMCG Stocks with Improving Profit Margins - Equitymaster
-- [Crypto] Galaxy Research Warns Bitcoin Could Fall to $28,200 if June Low Breaks - Yahoo Finance
-- [Crypto] Bitcoin (BTC) supply dormant for at least a year rises to 68.5% - CoinDesk
-- [Crypto] Billionaire Investor Paul Tudor Jones Just Doubled Down on Bitcoin. What Does He Know That the Market Doesn't? - Yahoo Finance
-- [Anthropic (FR)] La France attend le verdict de S&P, Wall Street 
+- [Petites valeurs en croissance] 5 FMCG Stocks wi

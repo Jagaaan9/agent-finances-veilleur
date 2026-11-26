@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T22:30:35.244356+00:00",
+ "mis_a_jour": "2026-11-26T22:40:36.591491+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,12 +160,12 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09673,
+   "prix": 1.09707,
    "devise": "USD",
-   "jour_pct": -0.02,
-   "mois_pct": -1.41,
-   "volume": 259,
-   "volume_relatif": 0.0,
+   "jour_pct": 0.01,
+   "mois_pct": -1.38,
+   "volume": 1133,
+   "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
    "bourse": "FX",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55197.64,
+   "prix": 55120.9,
    "devise": "EUR",
-   "jour_pct": 0.26,
-   "mois_pct": -22.9,
-   "volume": 109.41752103,
+   "jour_pct": 0.12,
+   "mois_pct": -23.01,
+   "volume": 109.64578459,
    "volume_relatif": 0.49,
    "capitalisation": null,
    "per": null,
@@ -1965,20 +1965,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "SZSE:300670",
-    "nom": "Jiangsu Daybright Intelligent Electric Co. Ltd. Class A",
-    "prix": 3.6,
-    "devise": "CNY",
-    "jour_pct": -20,
-    "mois_pct": -41.56,
-    "volume": 22759200,
-    "volume_relatif": 1.74,
-    "capitalisation": 1426142120,
-    "per": null,
-    "bourse": "SZSE",
-    "secteur": "Producer Manufacturing"
-   },
-   {
     "symbole": "SZSE:300469",
     "nom": "Transportation Telecommunication and Information Development Inc. Ltd. Zhejiang Class A",
     "prix": 28.28,
@@ -1991,6 +1977,20 @@
     "per": null,
     "bourse": "SZSE",
     "secteur": "Technology Services"
+   },
+   {
+    "symbole": "SZSE:300670",
+    "nom": "Jiangsu Daybright Intelligent Electric Co. Ltd. Class A",
+    "prix": 3.6,
+    "devise": "CNY",
+    "jour_pct": -20,
+    "mois_pct": -41.56,
+    "volume": 22759200,
+    "volume_relatif": 1.74,
+    "capitalisation": 1426142120,
+    "per": null,
+    "bourse": "SZSE",
+    "secteur": "Producer Manufacturing"
    },
    {
     "symbole": "SZSE:301049",
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.66,
-    "devise": "USD",
-    "jour_pct": -1.74,
-    "mois_pct": -12.43,
-    "volume": 1206763,
-    "volume_relatif": 0.87,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 273.1,
@@ -3395,6 +3381,20 @@
     "volume_relatif": 1.11,
     "capitalisation": 3326384161591,
     "per": 14.3,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.66,
+    "devise": "USD",
+    "jour_pct": -1.74,
+    "mois_pct": -12.43,
+    "volume": 1206763,
+    "volume_relatif": 0.87,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Credo Technology Has Had a Wild Ride to a 25% Decline Year-to-Date: Two Wall Street Teams Target 190% Returns Moving Forward - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb1ZWaS1rVjNzZDFNY0lNbkNxVjlnN3l6OHV3NWNfZGdXbGJ5N2hzMUEzVjFvbkFKNk1hNFVwSklndk5LemdmbGRaWkJ5TjBQMTBoenJ0bzVhUldHMnJjSWZTN01YTFJQV3ZIZjhtRzlKLW9OeDJpTk5rNmlCUmpMbVFpYTBUMFRyeWtjZDJYSGtNdERydENlbjVCNHp6TElTU2pFREVpc1A3Znl5LUlqeFVvcWUzeS16RnR3RDNVZXVrXzdsaGt1MFl5VnBzdjQyNWFlaVRZdXcxak9uYlZnZG1YM2g4dG5lcVIyUkZOd2pQb0E3MndsUw?oc=5",
+   "date": "Thu, 26 Nov 2026 12:15:00 GMT",
+   "vu_le": "2026-11-26T22:40:36.591491+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Lakeshore Acquisition III extends merger deadline after CPRO Korea payment - Investing.com",
+   "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVVR4bjJpTU9Ea0gxeklTOHhnM1NoYXU5ZjF0NE9HVFN5TjdvUWh5dHo2MnNaRXVlVWR2ODdLRExpTHBTLWtpMHJxRmQ5Sjh2SkdqX1dGWmx0cmE0MEx5WmlQSVhIMGFrYlFETk1YWlVyQ0RKMlVQdzFfMWpNUkJIM1ROb1hLaHRFcVlyWGpZRjBWMXpaZ180TDZGWU5qVFc5SjdwZkFPemZWZ0JEamtiTEljT3h2Z2dLWGJJaUJrLXJDT1hrMTZzb3NR?oc=5",
+   "date": "Thu, 26 Nov 2026 00:05:37 GMT",
+   "vu_le": "2026-11-26T22:40:36.591491+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP, Cardano or Stellar: Which Could Double First in 2027? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1ZyN3JzOENfdHZTYUc3anNFYWZGZVZnVjlBRHZ3MmpKZkRrTV9ra21IbVVaS0V1V2VQN3pBYV9acDFVU0t3VUsyeWZpOVY5anQySDFrQy1zRXEzZF84dzJVcGJ4b1VNRk9waUZuSmpoamlmUnFtUmJUMXlDa2UtVkRkZDZjUFNTdkxkZTB6YmxOY3F4Q0t6ZjM2ekVBbHNvT3U1WnFQeVoybTBtTVQ2OUd1dkg?oc=5",
+   "date": "Thu, 26 Nov 2026 21:23:00 GMT",
+   "vu_le": "2026-11-26T22:40:36.591491+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "What Would It Take for XRP to Reach $1,000? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1oyTDNJUC1DT3B1TVg0RG9oU2R3VldnLW93a3EteWNwSmVZY0dHRHdDb09hOVk0YXpuUHFlNnVvakI0STVELTVfNmZqVnNWOEQtYWFNT2pwTGVuTzY3bVBXTG5Md3B2cDlSa3JycVhRY1M5TEZSSGFTVzg2c0J6anM4SjIyaWs?oc=5",
+   "date": "Thu, 26 Nov 2026 22:17:48 GMT",
+   "vu_le": "2026-11-26T22:40:36.591491+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "Kazakhstan boosts AI cooperation with Russia, which is hungry for advanced US chips - Reuters",
@@ -6425,34 +6453,6 @@
    "titre": "Bourses européennes : le CAC 40 et le DAX ouvrent en nette hausse - Le Revenu",
    "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYy16Y0ZEMVM1XzZnWE0tWUdvaG00SmVYM29ldTB1S3ZTVnpXWnVKOEstTm5CVVF4Qi1vTHp2TzlCMEJXOWlCMWFyZzRqQV84OHFVQUt2U1ZKbEdlTEpDNHlmYy1SMmhUT3NvUGIycDQyYkVGZkRhUjlfbEMzR2stNGMxYTRmblpvRkowY1pGZlJMX3V0WjRfdmFIenBmdXhwMzNXZEhnUjlPRWZuWWx0ZkRfXzhmTE13c2Zwamh4RUNYQm5UVTd5X2ticGxHR3pPLW5uTjUtcl9RSjAwMUZZ?oc=5",
    "date": "Thu, 26 Nov 2026 09:46:00 GMT",
-   "vu_le": "2026-11-26T10:00:44.880353+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "CAC 40 : la Bourse retrouve des couleurs après le rebond de Wall Street - Yahoo Finance France",
-   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOekdUaWpqbktaQng0aUVMWERVeDVfUkxyNlF3Y3NaVVpQN0duT09vSXB3U1pQOGlKVjVBNC1JaVVTOVBUTkNFLTZSMGFhYUswUE1Ndk1tcFlmS3JqVWYtamdmOXJ6dmJLZWZzVlBNcVlwRFJpTWROcEowZWJKQlE3Z1BZeDY4R0FiUlczdko3NA?oc=5",
-   "date": "Thu, 26 Nov 2026 09:19:04 GMT",
-   "vu_le": "2026-11-26T10:00:44.880353+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "L'Europe rebondit, les valeurs technologiques de nouveau recherchées - ABC Bourse",
-   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGMzTGlZT2dPTUowMkxjSmtRakYzX3VpdDlDWXBlbjM1Qk4za1A5amZVR0VmcEMtRm1YeG9DdnBYR2FYOC1LQWt3UTFBbHRUclNGSkJKdzlTSWRBX0pZUVpPQ2psWnhldnhPMVR0cUMycWdBMXZSRV9BSWZWV0FhTUZINEU2R2ZnOC1HMTEzY0EzMmhpWTdFWjBqYXZGV3EyMnVudGhhdWItY1ZW?oc=5",
-   "date": "Thu, 26 Nov 2026 09:54:12 GMT",
-   "vu_le": "2026-11-26T10:00:44.880353+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Rakus (TSE:3923) Stock May Be 22% Undervalued Despite Share Buyback Plan - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUG1ITWNqUGdJX3U4bGRZV2VPUGNaQlM3cVRBSHc2ODZncjdKVHpNNW1ia3RWUmxxN1NURk94QkRhOF9rWUtRem1Gd2lBWTE1YUtxbGdra05zc09ldEs5eU5pbXlsNEdheDBub3RzcXVOQVJncmFHbWQxV2xCSUVMVUI4UU1sMjJ0QUNKaEQ5OUM1UFk?oc=5",
-   "date": "Thu, 26 Nov 2026 09:16:25 GMT",
-   "vu_le": "2026-11-26T10:00:44.880353+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "T3 Defense Inc. (DFNS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WRUtFUG5hTGlkRGJWbkVYNWFIVjJiWlR4c0hwVWtRUE8tUUFxd0ZzV1h0UWNmVnFnUnl2TkljOEhmbFpiNFFWM2lyYVpQa1k1ZFE?oc=5",
-   "date": "Thu, 26 Nov 2026 08:46:47 GMT",
    "vu_le": "2026-11-26T10:00:44.880353+00:00"
   }
  ],
