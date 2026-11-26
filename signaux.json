@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T18:30:36.366933+00:00",
+ "mis_a_jour": "2026-11-26T18:40:36.365510+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3568.695,
+   "prix": 3568.78,
    "devise": "USD",
    "jour_pct": -0.58,
-   "mois_pct": -11.18,
+   "mois_pct": -11.17,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09703,
+   "prix": 1.09691,
    "devise": "USD",
-   "jour_pct": -0.04,
-   "mois_pct": -1.82,
-   "volume": 117405,
+   "jour_pct": -0.05,
+   "mois_pct": -1.83,
+   "volume": 117589,
    "volume_relatif": 0.59,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55289.71,
+   "prix": 55191.96,
    "devise": "EUR",
-   "jour_pct": 0.43,
-   "mois_pct": -22.77,
-   "volume": 77.59595799,
+   "jour_pct": 0.25,
+   "mois_pct": -22.91,
+   "volume": 77.68545491,
    "volume_relatif": 0.35,
    "capitalisation": null,
    "per": null,
@@ -1155,20 +1155,6 @@
     "secteur": "Utilities"
    },
    {
-    "symbole": "TRADEGATE:CBK",
-    "nom": "Commerzbank AG",
-    "prix": 33.18,
-    "devise": "EUR",
-    "jour_pct": -4.71,
-    "mois_pct": -10.42,
-    "volume": 357719,
-    "volume_relatif": 2.29,
-    "capitalisation": 36932545750,
-    "per": 11.0,
-    "bourse": "TRADEGATE",
-    "secteur": "Finance"
-   },
-   {
     "symbole": "LS:A0LB2X",
     "nom": "NagaCorp Ltd.",
     "prix": 0.233,
@@ -1183,16 +1169,30 @@
     "secteur": "Consumer Services"
    },
    {
+    "symbole": "TRADEGATE:CBK",
+    "nom": "Commerzbank AG",
+    "prix": 33.26,
+    "devise": "EUR",
+    "jour_pct": -4.48,
+    "mois_pct": -10.21,
+    "volume": 358203,
+    "volume_relatif": 2.29,
+    "capitalisation": 36932545750,
+    "per": 11.0,
+    "bourse": "TRADEGATE",
+    "secteur": "Finance"
+   },
+   {
     "symbole": "GETTEX:BY6",
     "nom": "BYD Company Limited Class H",
-    "prix": 6.716,
+    "prix": 6.73,
     "devise": "EUR",
-    "jour_pct": -4.3,
-    "mois_pct": -16.3,
-    "volume": 102020,
+    "jour_pct": -4.1,
+    "mois_pct": -16.13,
+    "volume": 102495,
     "volume_relatif": 0.99,
     "capitalisation": 73345636860.1456,
-    "per": 15.1,
+    "per": 15.2,
     "bourse": "GETTEX",
     "secteur": "Producer Manufacturing"
    },
@@ -1313,10 +1313,10 @@
    {
     "symbole": "SWB:8JO1",
     "nom": "Volvo Car AB Class B",
-    "prix": 0.915,
+    "prix": 0.9154,
     "devise": "EUR",
-    "jour_pct": 2.19,
-    "mois_pct": -7.18,
+    "jour_pct": 2.23,
+    "mois_pct": -7.14,
     "volume": 206000,
     "volume_relatif": 8.37,
     "capitalisation": 2602955258.5184274,
@@ -3371,6 +3371,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.63,
+    "devise": "USD",
+    "jour_pct": -1.48,
+    "mois_pct": -12.27,
+    "volume": 1550645,
+    "volume_relatif": 1.24,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.66,
@@ -3395,20 +3409,6 @@
     "volume_relatif": 1.11,
     "capitalisation": 3326384161591,
     "per": 14.3,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.63,
-    "devise": "USD",
-    "jour_pct": -1.48,
-    "mois_pct": -12.27,
-    "volume": 1550645,
-    "volume_relatif": 1.24,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Cathie Wood Just Bought $88 Million of Anthropic Stock - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTNqUnlxOTBxMlVDaWR6QlpaRTJSQkFqc20zQTRJY2VNdV9wQU5mT0VHYUNrdWZlRThCY2JUUVk0SHNkMHBvSW9KYWhhVWI1VXFlTUpjODFsTXdJMG5ORGZPbTc4Z2hpUTBoQS1pc3U4MkVaeF9pbkJhOWpEbGFmQ0RaNm53QnFFQXRTNkV0UHFUZEJ1cWxLYkNzc1dDNFNVaXEwYUVrTzk5cmFQbHNoSEUwZw?oc=5",
+   "date": "Thu, 26 Nov 2026 18:09:15 GMT",
+   "vu_le": "2026-11-26T18:40:36.365510+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "SoftBank sinks over 16% intraday as Anthropic’s IPO party leaves Asian tech cold - Digg",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qcUlacm9DbTBWNHhuVlVKWEdLNVJNNTEzYkhQMzAteEhNMExHaGM2SF8wUklEMVl6bXo3TDgzRUxKdklPd0JrR3hhWk1LLVNSUUE?oc=5",
+   "date": "Thu, 26 Nov 2026 05:51:55 GMT",
+   "vu_le": "2026-11-26T18:40:36.365510+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "NVIDIA Reportedly Halts AI Chip Shipments To Southeast Asia - Engadget",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0M2ckFncU1tMHdoOUZjN29SeDlkd2JXZkk2TkRWYUNoVmtHdlBLT3Z2Q3R3NnlkeVE0cnNhM250TmtSWFl1bXRBWEk5eGpxbzlUZmdGRUZKRktaakxTaHUtY2JMVnhCZnBPMGpoNloyR3RreDZCVC1FMkMyWXI2b1dQRGpGSF9pZUdaRkZ0UWgzczh1?oc=5",
+   "date": "Thu, 26 Nov 2026 18:09:18 GMT",
+   "vu_le": "2026-11-26T18:40:36.365510+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Nexteq Shares Drop a Fifth After Profit Warning on Delayed Orders - AskTraders.com",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaWVBSXFrLUxZNkdneXhtV0NILW42MFNtbFd3LWRVcDBBblVMbGd6WFJuZktIY0RsQm9YQXRDNlVBVnRjWHNzOEktTWVmVGdMbEpUSnJLbEE5RDBfaE1QY2JtU1NidWxkZmFQSWdxUjlmMnVxclhIUm5qZGcxaDg5enU3ZHBEMURkWkNCVDZycklzUXlTbU9qZFlGeV94d2tzYmlZVw?oc=5",
+   "date": "Thu, 26 Nov 2026 14:20:32 GMT",
+   "vu_le": "2026-11-26T18:40:36.365510+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "BMW Ventures Share Price Target 2027: Q2 Review - Univest",
+   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ndy1oclVWeHpIU2pENTdocVA0R0h6R005T0RQUVNqQzZ2U3JOZnFpZDY3NmZVVEhST3ZCcVVrdmR0Q2RZSTM1amMtb1lOOGNaZjFTcHdMNXI3azFzZGYxdFF3?oc=5",
+   "date": "Thu, 26 Nov 2026 05:07:00 GMT",
+   "vu_le": "2026-11-26T18:40:36.365510+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Better Defense Stock to Own in 2027: Lockheed Martin vs. L3Harris Technologies - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSXd0Wkhxc0Vic2JqMDM2N3U0SjV5cnc5aVJFd3ZUS2ZhY2FBbktNSEsyd1BYLUZVeWJxN0xfX3Y0YTVnR3QySUx4ODFPTDRWWVpVbjFlNXd3RE9ES3BadWpVOG0zcjlhQmdmMGhaekI2c18wXzN2UV93eFRjU0duQVd0dlZSS3VlblQxU09Tc2EtM1ZlTDNtcmZ1M1dPVzNPcjBHaks3Zmo1TkR2aFRVTzUyemhYOG1YSS1z?oc=5",
+   "date": "Thu, 26 Nov 2026 18:32:02 GMT",
+   "vu_le": "2026-11-26T18:40:36.365510+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Pablo Hernández De Cos Backed as Next ECB President - Bitcoin Foundation",
+   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaTNuaGg3c2cxVThkQ3BoZ1FGTjMxc2RLNG5mTG9KazEzWldVdFhBejlPQW4xQmZuczhBLVZ3Yl9yUmVNY2pYUE1hdi1nRTVIOXE1VUxWNlZWYllwZ0IybmJtaHFDTGpzSVQyQnY3aHB1ZTc0MW0tTkUtRlBBR2hkNUxXeC1rYldNZHZHa0JFbUh6a2d1d1k0bTBKOEVQTE1CeDk3OVBmUm9FbWktUFdRVVpfYnY1Wl9kRTNNc3Nn?oc=5",
+   "date": "Thu, 26 Nov 2026 18:38:54 GMT",
+   "vu_le": "2026-11-26T18:40:36.365510+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3lXN3V1ZDlVako3SUpucHB5ZUlCTWFYUmpxdG9kMTdmb2J3RUZnUGVDSWpuMGxfRGhibTJtclFNMmdfNVhyWFp1S2RBbWY0VjVPaVNnX3ZwbzcxbWxmVExPUHB5Rjk1ZU9nU3ppVEF4cFZnazRJV2hTRTZwbmRnZndXbXJsV2ROd041aXlZMXd5TlRTZDMxQUFB?oc=5",
+   "date": "Thu, 26 Nov 2026 18:15:29 GMT",
+   "vu_le": "2026-11-26T18:40:36.365510+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories - PBS",
@@ -6398,62 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wNWhGbGtpc3pIalVJMjhvb3FieGo0SDg2enVJSzEwSFVUbXhnWjNteVpvVF9WMEcxUm14WlgyY2I1V25rVHo3S3hWR21hQjB20gFWQVVfeXFMTXNfQXBtaVFna19Ma2pFVmJMTGw5RWxlZUxmU0V0YkROZnRSU1Z3ZUYzUFNvbk1rQ1hwQ1Z1RTd6Ynd6eTBDamRWTUJhOGk3dEJ1VWZaR1E?oc=5",
    "date": "Thu, 26 Nov 2026 00:16:21 GMT",
    "vu_le": "2026-11-26T07:10:35.657496+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "FTSE 100 Set to Surge as Asian Technology Stocks Rally and Gold Rebounds - Share Talk",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYWhBU1ZJWFhhMHg2RTloWGxwX2dMamZmQnhpR2VBR001NC1UZ3NWTjdzQ2lHMVRSWUx3TFRWNWhUQThrbHAxdXk0Y3dGdTlCanUyOE50NEUxNThON3piMUU2a3FxanVLZXJkMkRzZXhDaHhOOW01U2FwdEVJZW9YUENHdWFSTlhWaDVDaUZyWVhuTGRNV3JERGtYODJxX2c0bFE?oc=5",
-   "date": "Thu, 26 Nov 2026 07:07:21 GMT",
-   "vu_le": "2026-11-26T07:10:35.657496+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Asian Stocks Rebound as Technology Shares Recover - Peradaban.id",
-   "lien": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QUWlObzRBM0pZTDlocnNOUksyYmtFaWNKd3JNT2ladi1IdEllWE92UzRfbFFBMVBEVHViTV9vR0ZRejQwY2kwLXZkaDNhOUlSaTQ3V1BaMVJ5N3NibTVUTWF4WGdWdw?oc=5",
-   "date": "Thu, 26 Nov 2026 06:37:32 GMT",
-   "vu_le": "2026-11-26T07:10:35.657496+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "HCI Group (HCI) Stock May Be Undervalued On Current Earnings - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUTZBa0pxcEk0ME4wdVNGNmVsbFZ2QldsQ1p0SDlESWF1SXZxOU5DNEpKNzgtc0xNcnZ4aEx1UFNPRjVTWEFPQXpjM1VDRUFjVHNjY25WeXpIemhFR1dVM3V6b0NCWG5BSHNTXzZDRXlhS0xyTWJMbWR6bzRCWjFuQzh4YUtYby1hN2JSdzhKZGk0Zw?oc=5",
-   "date": "Thu, 26 Nov 2026 02:15:00 GMT",
-   "vu_le": "2026-11-26T07:10:35.657496+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Erases Nvidia-Driven Rally as Galaxy Retracts \"Bear Market Ended in June\" Call - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12NnVpOWxUcjFwSUFwV3VQVDliVmpBUUE3dnVYclQxWGJWMWRvQVlVdnE5RWVrZEdwd3VHRUtkVHRZRExnX1pLdHJJTEtPbnZ5b1pxNlhHMEQ4ZFFIVVBzVWl0WWNBbXNJSHBYc1hYelNZazhrTUE?oc=5",
-   "date": "Thu, 26 Nov 2026 06:45:00 GMT",
-   "vu_le": "2026-11-26T07:10:35.657496+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "UK plans strict rules for crypto DeFi sector - Financial Times",
-   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkZqdm02aEhpZDFEMlJkb3RvTTU3SjNoTmtzNTF3cjZQNTR0TzV6RDhFSlZEQVl3OHk1OU5pTEwzZk50MlV0YzlnS2Z0cVlTMjM3a0NiNEVzRWNMQ1A1WURQQkJ0WVRNQXcxZDlEdlFqUnJWc0RpQ2pDSVBGRjBmdGFodWM?oc=5",
-   "date": "Thu, 26 Nov 2026 05:02:28 GMT",
-   "vu_le": "2026-11-26T07:10:35.657496+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Rebounds From $57,000 to $61,000 as AI-Linked Stocks Bounce Back - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqU1R4TmVlRHRpYVpmQUJ5bU1xdkx1azM3ejBDQ3ZGRnkxMlVkZDJ6bUp0NDBKdUtzNDVId3RHSDduTVB2cGIweGU2VUh6QmtlWlpiOVZBcDRWQ1ZUQmJWTmsyUE1aUUVwY2xSZDlHSDZNR215X2c?oc=5",
-   "date": "Thu, 26 Nov 2026 06:42:09 GMT",
-   "vu_le": "2026-11-26T07:10:35.657496+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOG1SZ0NJWURGMzVNSTdMM2NWdW9mVFhNMUVQZTlMWVBQNFlaVFNLSEVSMnIwNXRYbVM0SnlOVTJkbWNXTmpTZEJnTW81aXlxMm9hU3JWX2NmR2lOQkRKQnBnNnJfQmFVVzJ2RUNIS3RtRjhxdHNKWEJVN3FlX3V2OFU0LUhib3pKcUZFSzhHbTIyVE45dmQtei03UmlKT19wbU1j?oc=5",
-   "date": "Thu, 26 Nov 2026 06:28:00 GMT",
-   "vu_le": "2026-11-26T07:00:37.429242+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Dubai deal to create world’s second-largest listed Islamic bank - Arabian Gulf Business Insight | AGBI",
-   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaENjN0I0N3ctQ3lXNklkYlJZbU1JOVF3TlZzQnJUc0M5SnZIQlloZEVTN3dkOFRuUnhFcVJtWE9SRExFWFhXeUpOSE0xbm81ZmxLZEJDV0FXXzlyMFkxUmprUnB0RTE5TmNpU1lVcGdfaTRWNEh0S0UxaDZoWHVVaUUxYkRFclVfalVVdXFiWmdhU3pQM0diV3hhLWZXdzVVMmlrOTJSaldad3FQ?oc=5",
-   "date": "Thu, 26 Nov 2026 06:21:26 GMT",
-   "vu_le": "2026-11-26T07:00:37.429242+00:00"
   }
  ],
  "erreurs": []

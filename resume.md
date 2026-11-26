@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22226.89 HKD, jour 1.19 %, mois -4.44 %
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3568.695 USD, jour -0.58 %, mois -11.18 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09703 USD, jour -0.04 %, mois -1.82 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55289.71 EUR, jour 0.43 %, mois -22.77 %
+- Gold (TVC:GOLD) : 3568.78 USD, jour -0.58 %, mois -11.17 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09691 USD, jour -0.05 %, mois -1.83 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55191.96 EUR, jour 0.25 %, mois -22.91 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -98,9 +98,9 @@ POSITIONS ET INDICES :
 - MPC Container Ships ASA (TRADEGATE:MP2, secteur Transportation) jour -8.07 %, mois -26.34 %, prix 2.039 EUR, capi 1067197467.6652814, PER 5.2, volume x6.4 la normale
 - MPC Container Ships ASA (SWB:MP2, secteur Transportation) jour -7.77 %, mois -24.75 %, prix 2.031 EUR, capi 1067197467.6652814, PER 5.2, volume x28.58 la normale
 - EnergieKontor AG (XETR:EKT, secteur Utilities) jour -7.17 %, mois -22.23 %, prix 18.12 EUR, capi 270747728, PER 22.1, volume x3.49 la normale
-- Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -4.71 %, mois -10.42 %, prix 33.18 EUR, capi 36932545750, PER 11.0, volume x2.29 la normale
 - NagaCorp Ltd. (LS:A0LB2X, secteur Consumer Services) jour -4.51 %, mois -7.17 %, prix 0.233 EUR, capi 984263844.9951699, PER 3.9, volume x5.82 la normale
-- BYD Company Limited Class H (GETTEX:BY6, secteur Producer Manufacturing) jour -4.3 %, mois -16.3 %, prix 6.716 EUR, capi 73345636860.1456, PER 15.1, volume x0.99 la normale
+- Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -4.48 %, mois -10.21 %, prix 33.26 EUR, capi 36932545750, PER 11.0, volume x2.29 la normale
+- BYD Company Limited Class H (GETTEX:BY6, secteur Producer Manufacturing) jour -4.1 %, mois -16.13 %, prix 6.73 EUR, capi 73345636860.1456, PER 15.2, volume x0.99 la normale
 - Evotec SE (TRADEGATE:EVT, secteur Commercial Services) jour -3.92 %, mois -11.6 %, prix 2.5 EUR, capi 452677781, PER None, volume x1.04 la normale
 - Eutelsat Communications SA (TRADEGATE:E3B, secteur Communications) jour -3.32 %, mois -20.28 %, prix 1.5425 EUR, capi 1841698216, PER None, volume x1.57 la normale
 - Plug Power Inc. (SWB:PLUN, secteur Electronic Technology) jour -3.0 %, mois -23.37 %, prix 0.9351 EUR, capi 1357719611.2204726, PER None, volume x1.62 la normale
@@ -111,7 +111,7 @@ POSITIONS ET INDICES :
 - Imperial Brands PLC (XETR:ITB, secteur Consumer Non-Durables) jour 15.61 %, mois 20.5 %, prix 41.32 EUR, capi 27042136113.301346, PER 14.6, volume x15.05 la normale
 - FIT Hon Teng Limited (LS:A2DT6V, secteur Electronic Technology) jour 10.89 %, mois -33.09 %, prix 0.275 EUR, capi 1682176511.214968, PER 13.8, volume x12.3 la normale
 - Air China Limited Class H (LS:A0M4WT, secteur Transportation) jour -17.74 %, mois -6.77 %, prix 0.372 EUR, capi 13274372499.077784, PER None, volume x10.49 la normale
-- Volvo Car AB Class B (SWB:8JO1, secteur Consumer Durables) jour 2.19 %, mois -7.18 %, prix 0.915 EUR, capi 2602955258.5184274, PER None, volume x8.37 la normale
+- Volvo Car AB Class B (SWB:8JO1, secteur Consumer Durables) jour 2.23 %, mois -7.14 %, prix 0.9154 EUR, capi 2602955258.5184274, PER None, volume x8.37 la normale
 - Nagarro SE (XETR:NA9A, secteur Technology Services) jour 0 %, mois -1.25 %, prix 79 EUR, capi 1019569215, PER 23.9, volume x8.11 la normale
 - Avacta Group PLC (LS:A2ADP0, secteur Commercial Services) jour 9.09 %, mois -18.18 %, prix 0.72 EUR, capi 329260554.90075463, PER None, volume x6.58 la normale
 - MPC Container Ships ASA (TRADEGATE:MP2, secteur Transportation) jour -8.07 %, mois -26.34 %, prix 2.039 EUR, capi 1067197467.6652814, PER 5.2, volume x6.4 la normale
@@ -286,9 +286,9 @@ POSITIONS ET INDICES :
 - Aroundtown SA (LSIN:0RUH, secteur Finance) jour 6.25 %, mois 20.24 %, prix 1.7585 EUR, capi 1522102628.632228, PER 7.3, volume x1.18 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3326384161590.9995, PER 14.1, volume x1.14 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1559025893850, PER 1.7, volume x0.54 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -0.11 %, mois -5.17 %, prix 316.74 USD, capi 841137764833, PER 13.3, volume x1.08 la normale
@@ -310,6 +310,14 @@ POSITIONS ET INDICES :
 - Beneteau SA (EURONEXT:BEN, secteur Consumer Durables) jour 3.84 %, mois 11.74 %, prix 5.14 EUR, capi 403167537, PER None, volume x1.03 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Cathie Wood Just Bought $88 Million of Anthropic Stock - TradingView
+- [Anthropic] SoftBank sinks over 16% intraday as Anthropic’s IPO party leaves Asian tech cold - Digg
+- [Intelligence artificielle] NVIDIA Reportedly Halts AI Chip Shipments To Southeast Asia - Engadget
+- [Résultats d'entreprises] Nexteq Shares Drop a Fifth After Profit Warning on Delayed Orders - AskTraders.com
+- [Petites valeurs en croissance] BMW Ventures Share Price Target 2027: Q2 Review - Univest
+- [Défense, énergie, matières premières] Better Defense Stock to Own in 2027: Lockheed Martin vs. L3Harris Technologies - The Motley Fool
+- [Crypto] Pablo Hernández De Cos Backed as Next ECB President - Bitcoin Foundation
+- [Crypto] Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery - Yahoo Finance
 - [Intelligence artificielle] Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories - PBS
 - [Banques centrales et taux] Pablo Hernandez de Cos choisi pour succéder à Lagarde à la présidence de la BCE - Investir Les Echos
 - [Banques centrales et taux] Les cryptomonnaies en alerte, la Fed hawkish faisant planer le risque d’un « effondrement » en décembre - TradingView
@@ -451,10 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Bourse de Paris et Europe] Le Cac 40 prend de l'avance sur le Black Friday, les investisseurs cherchent les bonnes affaires - Investir Les Echos
 - [Banques centrales et taux] Pablo Hernández de Cos sera le prochain président de la BCE - L'Echo
 - [Banques centrales et taux] Les bourses en direct | "La BCE était prête à relever ses taux en octobre" - L'Echo
-- [Petites valeurs en croissance] 1CM Inc. (CN:EPIC) Surges as Business Prospects Draw Renewed Interest - kalkine.ca
-- [Chine et Asie] Global stocks rise and tech shares rebound as U.S. closes for Thanksgiving - BNN Bloomberg
-- [Intelligence artificielle] New U.S. Chip Rule Is Now Hitting AI Data-Center Loans, Not Just Nvidia Chips - Yahoo Finance
-- [Rachats et fusions] Altria weighs a cash bid for Imperial Brands as Japan Tobacco eyes a deal - MLQ.ai
-- [Banques centrales et taux] Les minutes de la BCE révèlent qu’un "grand nombre" de membres auraient pu soutenir une hausse des taux en octobre - Investing.com France
-- [Chine et Asie] US stock futures rise. But is the AI market crisis over? - The Financial Express
-- [Intelligence artificielle] Heading Into FY27: How to Trade Broadcom’s ~$115B AI Target Against Nvidia’s Multiple Res
+- [Petites valeurs en croissance] 1
