@@ -11,9 +11,9 @@ POSITIONS ET INDICES :
 - Hang Seng Index (TVC:HSI) : 22226.89 HKD, jour 1.19 %, mois -4.44 %
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3566.932 USD, jour -0.63 %, mois -12.15 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09701 USD, jour 0.01 %, mois -1.39 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55046.57 EUR, jour -0.01 %, mois -23.11 %
+- Gold (TVC:GOLD) : 3567.12 USD, jour -0.62 %, mois -12.15 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09711 USD, jour 0.02 %, mois -1.38 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55022.17 EUR, jour -0.06 %, mois -23.15 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -286,9 +286,9 @@ POSITIONS ET INDICES :
 - Aroundtown SA (LSIN:0RUH, secteur Finance) jour 6.25 %, mois 20.24 %, prix 1.7585 EUR, capi 1522102628.632228, PER 7.3, volume x1.18 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3326384161590.9995, PER 14.1, volume x1.14 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1559025893850, PER 1.7, volume x0.54 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour -0.11 %, mois -5.17 %, prix 316.74 USD, capi 841137764833, PER 13.3, volume x1.08 la normale
@@ -310,6 +310,11 @@ POSITIONS ET INDICES :
 - Beneteau SA (EURONEXT:BEN, secteur Consumer Durables) jour 3.84 %, mois 11.74 %, prix 5.14 EUR, capi 403167537, PER None, volume x1.03 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Selon le Nikkei, la société japonaise JERA entame des négociations avec Anthropic et Meta en vue de la constru - Boursorama
+- [Marchés mondiaux] Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing - CNBC
+- [Petites valeurs en croissance] Planet Based Foods Global Inc. (CN:PBF) Surges as Investors Assess Strategic Opportunities - kalkine.ca
+- [Défense, énergie, matières premières] Thu: Construction, renewable energy stocks fuel TASE surge - Globes - Israel Business News
+- [Crypto] Bitcoin: Boom or Bust - CNBC
 - [Banques centrales et taux] Les données de confiance font suite à un compte rendu de la BCE qui a laissé l’euro inchangé - www.tmgm.com
 - [Défense, énergie, matières premières] 3 Dividend Stocks That Could Benefit From the Black Friday Shopping Rush - 24/7 Wall St.
 - [Crypto] HYPE price on Nov 26, 2026 at 3pm EST Crypto Prediction Market - Robinhood
@@ -450,9 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] Anthropic Falls Below IPO Price. The Threat Wasn’t Nvidia, It Came From Inside - BeInCrypto
 - [Anthropic (FR)] Les entrées en Bourse de la Tech américaine annoncent-elles le sommet du cycle ? - La Revue politique et Parlementaire
 - [Résultats d'entreprises] What Ross Stores Shares Full Year Guidance Raise Means For Shareholders - Yahoo Finance
-- [Crypto] Bitcoin forecast: BTC/USD steadies as risk appetite returns for now - FOREX.com
-- [Crypto] Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading - Yahoo Finance UK
-- [Anthropic (FR)] Le fonds de Leopold Aschenbrenner aurait perdu 65% au troisième trimestre - Boursorama
-- [Bourse de Paris et Europe] La Bourse de Paris en forte hausse jeudi... - Fortuneo
-- [Bourse de Paris et Europe] ARCELORMITTAL Cours Action MT, Cotation Bourse Euronext Amsterdam - Boursorama
-- [Résultats d'entreprises] Seagate Technology Got Hammered By Multiple Compression, F
+- 

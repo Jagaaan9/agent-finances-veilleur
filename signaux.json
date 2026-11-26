@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T23:30:36.419475+00:00",
+ "mis_a_jour": "2026-11-26T23:40:35.751266+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,9 +146,9 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3566.932,
+   "prix": 3567.12,
    "devise": "USD",
-   "jour_pct": -0.63,
+   "jour_pct": -0.62,
    "mois_pct": -12.15,
    "volume": 0,
    "volume_relatif": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09701,
+   "prix": 1.09711,
    "devise": "USD",
-   "jour_pct": 0.01,
-   "mois_pct": -1.39,
-   "volume": 2169,
+   "jour_pct": 0.02,
+   "mois_pct": -1.38,
+   "volume": 2403,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55046.57,
+   "prix": 55022.17,
    "devise": "EUR",
-   "jour_pct": -0.01,
-   "mois_pct": -23.11,
-   "volume": 110.75335292,
+   "jour_pct": -0.06,
+   "mois_pct": -23.15,
+   "volume": 110.87950529,
    "volume_relatif": 0.49,
    "capitalisation": null,
    "per": null,
@@ -3371,16 +3371,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.63,
     "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
+    "jour_pct": -1.48,
+    "mois_pct": -12.27,
+    "volume": 1550645,
+    "volume_relatif": 1.24,
     "capitalisation": 3326384161591,
-    "per": 14.3,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3399,16 +3399,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.63,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
     "devise": "USD",
-    "jour_pct": -1.48,
-    "mois_pct": -12.27,
-    "volume": 1550645,
-    "volume_relatif": 1.24,
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
     "capitalisation": 3326384161591,
-    "per": 2.1,
+    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Selon le Nikkei, la société japonaise JERA entame des négociations avec Anthropic et Meta en vue de la constru - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPVXFlcDVQZ2htVkNvbVltVWgteGVNa1JsRUUtdDdUb0RvNEQtRHNWX3dxX1JGbDBrVzlzVXowZ1NzTU5leXZyekl6R0wzMk12VDdtN1NoQ1hhNnM1eXltdi10VlNWdDVmazdBSVlRQ0JmMVEzRGZxQk80WGg2OF9CbzltWWlCT3M0OHVfY2ljR0VMN25COEtiYzFvRE5FOVNhRVhrOWlDX1hLMDVuUHdWSDlnQW8tdGhsbjAyTjJFOGF5dmlFSzRjcW5fbUJCbkVEUGhNWGE1MU9GeW05aEdEdlpkRHdFcXVDLVJOOHJCSXA4LU5iREE2azlmUDNrbEVtbGl0REYwcG9HeExXUTJ0QVJUZ3ZXS0hYeEdjZzI3Y255ZjN1Qm9ZTE1oTTFNUmRwRGlEbE5BaEdkVnJPdUpF0gG_AkFVX3lxTE9VcWVwNVBnaG1WQ29tWW1VaC14ZU1rUmxFRS10N1RvRG80RC1Ec1Zfd3FfUkZsMGtXOXNVejBnU3NNTmV5dnJ6SXpHTDMyTXZUN203U2hDWGE2czV5eW12LXRWU1Z0NWZrN0FJWVFDQmYxUTNEZnFCTzRYaDY4X0JvOW1ZaUJPczQ4dV9jaWNHRUw3bkI4S2JjMW9ETkU5U2FFWGs5aUNfWEswNW5Qd1ZIOWdBby10aGxuMDJOMkU4YXl2aUVLNGNxbl9tQkJuRURQaE1YYTUxT0Z5bTloR0R2WmREd0VxdUMtUk44ckJJcDgtTmJEQTZrOWZQM2tsRW1saXRERjBwb0d4TFdRMnRBUlRndldLSFh4R2NnMjdjbnlmM3VCb1lMTWhNMU1SZHBEaURsTkFoR2RWck91SkU?oc=5",
+   "date": "Thu, 26 Nov 2026 22:45:35 GMT",
+   "vu_le": "2026-11-26T23:40:35.751266+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing - CNBC",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZExOeERBTjlNMGl0ZEdEWERPTWpPTmt3MzNXN25oVkJWcVJhc29WeTM3Um9VS2N6TnFPcW5xbXRhVGo5eXFmUzNjN2MyYmw1dWp3dDc3NkF5cHZkOU1rTEVXM29XTnA1Y2xIdWN6ejNYdFRDQ2ZpaWowNzdnbXNzeEZnZ3JuOG9u0gGOAUFVX3lxTE4tcXlqbkUxaDUycnFOdEY4MnNRa2szanMwengyekNmTzI3Uk10aDhjQURfeXpBM240SS1JUDNyWG5vbGU5emwwNjdPbk80ZXdmX1dXX2tmUGxIdUtDR3d4RDRhbU85ZV9NMFh5Y3pLaWxlQnFLZzZ2dktCM2pRX3MxUi1Ib2VVRnBzY1BScXc?oc=5",
+   "date": "Thu, 26 Nov 2026 06:48:12 GMT",
+   "vu_le": "2026-11-26T23:40:35.751266+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Planet Based Foods Global Inc. (CN:PBF) Surges as Investors Assess Strategic Opportunities - kalkine.ca",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbm1EQlo0b3hPN04xU0dCUi03Wm5JbE5LRUIwSzJRaEtlQzU2Q25fZHB5YlNsUFhIWXlicDB5SFhNdUVNTEtoWE94UUNkRXdpYzgwdDFyMTB6SWZwT0cwWm1rTG5PWEE4X01aR05fYjNENFRQUERJeW81UXprbUhYNFQ4aEhZeWw3Mk9fVmE4Q2Z1WXA0Q1FfOEVvMzM0LVg0clEwdFQ5aEZidTNPY20xVjhza3dublUwR1lz?oc=5",
+   "date": "Thu, 26 Nov 2026 13:39:00 GMT",
+   "vu_le": "2026-11-26T23:40:35.751266+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Thu: Construction, renewable energy stocks fuel TASE surge - Globes - Israel Business News",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMnR0WTRyYzhzQmdHR25NZkhyMmp5SGQ5Xzg3bXFrV2dfV2ppOUlVOWh3MXYyZWRBb1NWVmlYWGt0amI4aURyci1KMHpwOVAzUXBzUkN1bDBiTXEzN2xvTjlGRHV2dzNHRGRUTXRLRHdQVGJXdUVaUWxsSGs3aHZuLW1ENXA1Wk9RbmhvQmJmN3FkNTQ5dENQUFZfNFVoX3ZWODRlbA?oc=5",
+   "date": "Thu, 26 Nov 2026 18:54:56 GMT",
+   "vu_le": "2026-11-26T23:40:35.751266+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin: Boom or Bust - CNBC",
+   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydGtxaEdsV2RRYUdSVlBGWWs4ZVlJdkxDNE5OenNrRnFsa3FZWmhvbUtZZUFBWURNRFVVckJyU2d2dEE2TUI2dzZTYVVpaVlnc2ZXeQ?oc=5",
+   "date": "Thu, 26 Nov 2026 17:20:53 GMT",
+   "vu_le": "2026-11-26T23:40:35.751266+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "Les données de confiance font suite à un compte rendu de la BCE qui a laissé l’euro inchangé - www.tmgm.com",
@@ -6419,41 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmQ1cU4yYndtQVJuZ1BkM1htT3ZWblRpVm9MbVF3dExBVnE0NlZ1cVNkSnVLOHc3dUVGQ2ZTQ1lmREFfN3BJUHpwU3dJRVptdTk1S2lrdGdIUkRDWmJnbHV2TUdUblFrejd2dDZVeDFZLWNmS2pxQXpiLXJBenowQ0FqQkFYcFBNbGZNcXN6X2Y3Tmdu?oc=5",
    "date": "Thu, 26 Nov 2026 10:11:04 GMT",
    "vu_le": "2026-11-26T10:50:38.565973+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Galaxy Withdraws Bitcoin Bottom Call, Warns BTC Could Fall to $28,200 - CCN.com",
-   "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObGdxUThUcWU4M0RELUJpLUFXamxVSVZ4NGtGQnVhTDVLOUFMOU5zNUVzdjN4aUY4LUhkWGhrY2pjem5UN2tjMVUwanlhemhId01aRXpuTUFTTlB1cm84Y0pjUllTRk5Ba0pGMlZYN0h3WHNZSFlZRmJ2UzdqLUhRNkFhdF9leXpBY2EzUXFB?oc=5",
-   "date": "Thu, 26 Nov 2026 10:34:14 GMT",
-   "vu_le": "2026-11-26T10:50:38.565973+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "NovaTech founders hit with $1.37 billion judgment over $650 million crypto fraud scheme - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbTlBY3I3SnQzc3hidzJyTWthOFhzZ3hqU0UzN1gtb29sNXA2dzF4VXMxUk1XYU5NSGpMRDB3QVJqeTZ5Qk5uVG1pejBPOVhIYW1xX0Vfbnh1ZDZmamo1TlB2MTRDR0h0MlY1bFJUTEstaEExZjZhRldEQjhPd0ZwLUFIaXhBSjVhR3NTWGZUZTA3cHhKY2NweWticzNyYUhFUzJVbVRTcm1EbjNBVldqS1M4bmotTkU2M0hOWUN6OGNJTjRLbklDbmlxN21xc1U4d0NuZXI5elpyLWRO?oc=5",
-   "date": "Thu, 26 Nov 2026 10:40:33 GMT",
-   "vu_le": "2026-11-26T10:50:38.565973+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "ANT Stock Gains Overnight: US Exchange-Traded Funds’ Anthropic Holdings Swell To Over $2B - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU3R4Ym5FNGlUZjRhSzFnLThmbzdIQnNWZWhMWHhSa1BGTFo0SVJWOEliOEpfbm1CSUd2U1NTUWxETFBpRTNkWFRWbmdlZ3FDNWk3LXd1UjJtb1I1QVpCVFV1MnpDQnpvMEJUakpIbUJIczhCdUdqYU5PUmtRcUZweW1hR0JCMVRnSlNqSjJpOUZ2Tmd4bDctb3dkc2p5eXlYOU5wckNIRmFtSHRob2thOC04SjhGWndxbC1GRmk4LXdsMVBwMV9nZXNlQzdHY20ySjFkSWZaeHI5U2R5R1l1VA?oc=5",
-   "date": "Thu, 26 Nov 2026 09:23:24 GMT",
-   "vu_le": "2026-11-26T10:40:35.939555+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Hong Kong Stock Broker Ratings Roundup: Li Auto Out of Favor, Tencent Price Target Cut to HK$488 - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5abFFzZTlpSWtJeUp2aXpzWE9oUDNrdS03Y2lndHRvQnFTVGlFQW1yeWhJNHNXc3Zsa3UwUnA1SkVxaGh2Xzl4bVlaUl9sRFM4N3VzcjJ2UVJnaEZoZktxb3pLT2FpcWo0enhrT2p6UlBBZHNNU1E?oc=5",
-   "date": "Thu, 26 Nov 2026 08:25:00 GMT",
-   "vu_le": "2026-11-26T10:40:35.939555+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Anthropic’s Chip Choices Could Change the Nvidia Story. Here’s How. - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORGtFdm5Jc0FobmZyVy1jQ1RTc21HMWlWNGRiQUV2eG9lWFl4T3pNMHIxSFpRRmNDajBZekgweFVGU25IUURzSUJDN1JpNk01Xy1fRmVoMi1OQWM4QmxCTUNOemRRU0tZcVRZbE1lQUxUSi0yTHpIdGRpVk13NDVnWGRtN1FUdzFWMWdUVGRlRktKcUJUMnNuYlJ3amxXSUhIWmxVTkhpWW9JZ05RekJwWUlOVFR5bjYwTmVxR0lVMktWRWp3NS1ldFVoci1jcGZRemF0MWRVOXlkRW9xLWY5cA?oc=5",
-   "date": "Thu, 26 Nov 2026 09:19:34 GMT",
-   "vu_le": "2026-11-26T10:40:35.939555+00:00"
   }
  ],
  "erreurs": []
