@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T20:40:35.916927+00:00",
+ "mis_a_jour": "2026-11-26T20:50:35.626911+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09704,
+   "prix": 1.09701,
    "devise": "USD",
    "jour_pct": -0.04,
    "mois_pct": -1.82,
-   "volume": 119422,
+   "volume": 119524,
    "volume_relatif": 0.6,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55319.79,
+   "prix": 55343.15,
    "devise": "EUR",
-   "jour_pct": 0.48,
-   "mois_pct": -22.73,
-   "volume": 79.6786259,
+   "jour_pct": 0.53,
+   "mois_pct": -22.7,
+   "volume": 79.70521047,
    "volume_relatif": 0.35,
    "capitalisation": null,
    "per": null,
@@ -1001,12 +1001,12 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 39.81,
+    "prix": 39.76,
     "devise": "EUR",
-    "jour_pct": 11.39,
-    "mois_pct": 16.0,
-    "volume": 235785,
-    "volume_relatif": 29.83,
+    "jour_pct": 11.25,
+    "mois_pct": 15.85,
+    "volume": 236915,
+    "volume_relatif": 29.97,
     "capitalisation": 27042136113.301346,
     "per": 14.1,
     "bourse": "TRADEGATE",
@@ -1171,12 +1171,12 @@
    {
     "symbole": "TRADEGATE:CBK",
     "nom": "Commerzbank AG",
-    "prix": 33.17,
+    "prix": 33.25,
     "devise": "EUR",
-    "jour_pct": -4.74,
-    "mois_pct": -10.45,
-    "volume": 402435,
-    "volume_relatif": 2.57,
+    "jour_pct": -4.51,
+    "mois_pct": -10.23,
+    "volume": 406606,
+    "volume_relatif": 2.6,
     "capitalisation": 36932545750,
     "per": 11.0,
     "bourse": "TRADEGATE",
@@ -1199,10 +1199,10 @@
    {
     "symbole": "GETTEX:BY6",
     "nom": "BYD Company Limited Class H",
-    "prix": 6.746,
+    "prix": 6.74,
     "devise": "EUR",
-    "jour_pct": -3.88,
-    "mois_pct": -15.93,
+    "jour_pct": -3.96,
+    "mois_pct": -16.0,
     "volume": 109457,
     "volume_relatif": 1.06,
     "capitalisation": 73345636860.1456,
@@ -1217,7 +1217,7 @@
     "devise": "EUR",
     "jour_pct": -2.85,
     "mois_pct": -23.41,
-    "volume": 371690,
+    "volume": 372582,
     "volume_relatif": 0.26,
     "capitalisation": 1357719611.2204726,
     "per": null,
@@ -1243,12 +1243,12 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 39.81,
+    "prix": 39.76,
     "devise": "EUR",
-    "jour_pct": 11.39,
-    "mois_pct": 16.0,
-    "volume": 235785,
-    "volume_relatif": 29.83,
+    "jour_pct": 11.25,
+    "mois_pct": 15.85,
+    "volume": 236915,
+    "volume_relatif": 29.97,
     "capitalisation": 27042136113.301346,
     "per": 14.1,
     "bourse": "TRADEGATE",
@@ -1313,10 +1313,10 @@
    {
     "symbole": "SWB:8JO1",
     "nom": "Volvo Car AB Class B",
-    "prix": 0.9154,
+    "prix": 0.9158,
     "devise": "EUR",
-    "jour_pct": 2.23,
-    "mois_pct": -7.14,
+    "jour_pct": 2.28,
+    "mois_pct": -7.1,
     "volume": 206000,
     "volume_relatif": 8.37,
     "capitalisation": 2602955258.5184274,
@@ -3385,20 +3385,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
-    "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
-    "capitalisation": 3326384161591,
-    "per": 14.3,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.63,
@@ -3409,6 +3395,20 @@
     "volume_relatif": 1.24,
     "capitalisation": 3326384161591,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
+    "devise": "USD",
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
+    "capitalisation": 3326384161591,
+    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBBTy1pM1poaEROWTVTNDVTYVdvTDZEWmM1VDhGdlUzWW1OUXNvQ3RmZTVZQ3BGVlhvbTlWNFNhUQ?oc=5",
+   "date": "Thu, 26 Nov 2026 11:57:48 GMT",
+   "vu_le": "2026-11-26T20:50:35.626911+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "How Higher Guidance At Advantest (TSE:6857) Has Changed Its Investment Story - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclNidmZzZHVCSm51MzM4N3ExUkU2LUtMLXFLdUFHYUM4MTRPSjRZQ3lGRnlIWHNiVTZRSFRlNlk5eUJvdmhsQVBKazVsYl9Jc0R3OVBEeHMzQVRKUlcyTTJpQlJsMGFna0lZSDNwSVRmcTJwM2NJNUdzZHlKbDliaFhadG4zMnNEZ25WYmtObV9COGo4T09RTlIxSzBQbWFV?oc=5",
+   "date": "Thu, 26 Nov 2026 18:16:18 GMT",
+   "vu_le": "2026-11-26T20:50:35.626911+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "Pablo Hernández de Cos remplace Christine Lagarde à la BCE : qui est-il ? - Capital.fr",
@@ -6439,20 +6453,6 @@
    "titre": "Nvidia stops shipping AI servers to 4 Southeast Asian countries- FT - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVZtX2ZuWFcxUVB0dkRVVlBMVkZNNkd0X2dPTFExMmF1YndMOE82TERFUDlENkZRcEVxQ2lmaTNxelllYm13dDdiWEtNMzhqVVRGYTN5VXlfOThLeUQ5bk1PMF81U0RCaVRtUGJhVEc2OFFUMWRRN2xxVERFb2s0aEJKRl9XY3JYQlBfVWtJOUk2aGJaTmNsMWFPYkM?oc=5",
    "date": "Thu, 26 Nov 2026 06:29:00 GMT",
-   "vu_le": "2026-11-26T08:30:35.655033+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Why Fluence Energy (FLNC) Shares Jumped After Its Latest Update - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTl91cnBablQ3ODdVaUk1TUtGckt6Q08xbk41X1oxSy12R0VCR2VuV3l3cFMwZjVPUWRUamFzYkdadlhodUxpQWo4YTFPS1lLd1JQS19pbzQxZWNkb3VUNjNHXzZoOEtsSTVJZHBfNVVRYUdoU2xzUVU5Q2dTMjJBSmd6VFUxbldQZGFfSzVJSmxZMFpwNFQ4U1pLVQ?oc=5",
-   "date": "Thu, 26 Nov 2026 07:12:00 GMT",
-   "vu_le": "2026-11-26T08:30:35.655033+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin climbs back above $60,000 on short covering after sharp sell-off - Anadolu Ajansı",
-   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTJJaG4zQ2lrZDlDdnVYTzhYa2NkZm5rczQ3WWl4QVFHQXRrNlhPNXdDeWlYWHJXTlhEdmY4dkZnVDBOTFQzaUM1UWlyOF93VXMwaHk0X0VVT3BUZGlkRENCUGZOMDRVWVFmbDVnUXdZYlF6Q0kxUklPU0VyTXcxZXp0VFN0UjE2d0hXdkI2T3NnVVFmeF9VUm9TTG1ZSkRyd2JjZEZXYWZEZ3Zv?oc=5",
-   "date": "Thu, 26 Nov 2026 07:19:46 GMT",
    "vu_le": "2026-11-26T08:30:35.655033+00:00"
   }
  ],
