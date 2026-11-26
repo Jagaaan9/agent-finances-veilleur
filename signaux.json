@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T17:40:35.993990+00:00",
+ "mis_a_jour": "2026-11-26T17:50:37.293038+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3566.798,
+   "prix": 3567.39,
    "devise": "USD",
-   "jour_pct": -0.63,
-   "mois_pct": -11.22,
+   "jour_pct": -0.61,
+   "mois_pct": -11.21,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09696,
+   "prix": 1.09704,
    "devise": "USD",
-   "jour_pct": -0.05,
-   "mois_pct": -1.83,
-   "volume": 115696,
+   "jour_pct": -0.04,
+   "mois_pct": -1.82,
+   "volume": 116051,
    "volume_relatif": 0.58,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55058.91,
+   "prix": 55080.32,
    "devise": "EUR",
-   "jour_pct": 0.01,
-   "mois_pct": -23.1,
-   "volume": 75.76080849,
+   "jour_pct": 0.05,
+   "mois_pct": -23.07,
+   "volume": 76.56159463,
    "volume_relatif": 0.34,
    "capitalisation": null,
    "per": null,
@@ -1001,14 +1001,14 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 40.49,
+    "prix": 40.13,
     "devise": "EUR",
-    "jour_pct": 13.29,
-    "mois_pct": 17.98,
-    "volume": 187995,
-    "volume_relatif": 23.78,
+    "jour_pct": 12.28,
+    "mois_pct": 16.93,
+    "volume": 194939,
+    "volume_relatif": 24.66,
     "capitalisation": 27042136113.301346,
-    "per": 14.3,
+    "per": 14.2,
     "bourse": "TRADEGATE",
     "secteur": "Consumer Non-Durables"
    },
@@ -1089,8 +1089,8 @@
     "devise": "EUR",
     "jour_pct": 7.71,
     "mois_pct": 6.78,
-    "volume": 233483,
-    "volume_relatif": 1.24,
+    "volume": 236545,
+    "volume_relatif": 1.25,
     "capitalisation": 464242842.8715551,
     "per": null,
     "bourse": "TRADEGATE",
@@ -1157,12 +1157,12 @@
    {
     "symbole": "TRADEGATE:CBK",
     "nom": "Commerzbank AG",
-    "prix": 33.23,
+    "prix": 33.22,
     "devise": "EUR",
-    "jour_pct": -4.57,
-    "mois_pct": -10.29,
-    "volume": 352187,
-    "volume_relatif": 2.25,
+    "jour_pct": -4.6,
+    "mois_pct": -10.31,
+    "volume": 355262,
+    "volume_relatif": 2.27,
     "capitalisation": 36932545750,
     "per": 11.0,
     "bourse": "TRADEGATE",
@@ -1185,16 +1185,30 @@
    {
     "symbole": "GETTEX:BY6",
     "nom": "BYD Company Limited Class H",
-    "prix": 6.729,
+    "prix": 6.71,
     "devise": "EUR",
-    "jour_pct": -4.12,
-    "mois_pct": -16.14,
+    "jour_pct": -4.39,
+    "mois_pct": -16.38,
     "volume": 101536,
     "volume_relatif": 0.98,
     "capitalisation": 73345636860.1456,
-    "per": 15.2,
+    "per": 15.1,
     "bourse": "GETTEX",
     "secteur": "Producer Manufacturing"
+   },
+   {
+    "symbole": "TRADEGATE:PLUN",
+    "nom": "Plug Power Inc.",
+    "prix": 0.9331,
+    "devise": "EUR",
+    "jour_pct": -3.77,
+    "mois_pct": -24.14,
+    "volume": 348721,
+    "volume_relatif": 0.24,
+    "capitalisation": 1357719611.2204726,
+    "per": null,
+    "bourse": "TRADEGATE",
+    "secteur": "Electronic Technology"
    },
    {
     "symbole": "TRADEGATE:E3B",
@@ -1223,20 +1237,6 @@
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Commercial Services"
-   },
-   {
-    "symbole": "SWB:PLUN",
-    "nom": "Plug Power Inc.",
-    "prix": 0.9347,
-    "devise": "EUR",
-    "jour_pct": -3.04,
-    "mois_pct": -23.4,
-    "volume": 129734,
-    "volume_relatif": 1.62,
-    "capitalisation": 1357719611.2204726,
-    "per": null,
-    "bourse": "SWB",
-    "secteur": "Electronic Technology"
    }
   ],
   "Allemagne : volumes anormaux": [
@@ -1257,14 +1257,14 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 40.49,
+    "prix": 40.13,
     "devise": "EUR",
-    "jour_pct": 13.29,
-    "mois_pct": 17.98,
-    "volume": 187995,
-    "volume_relatif": 23.78,
+    "jour_pct": 12.28,
+    "mois_pct": 16.93,
+    "volume": 196550,
+    "volume_relatif": 24.86,
     "capitalisation": 27042136113.301346,
-    "per": 14.3,
+    "per": 14.2,
     "bourse": "TRADEGATE",
     "secteur": "Consumer Non-Durables"
    },
@@ -3371,6 +3371,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
+    "devise": "USD",
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
+    "capitalisation": 3326384161591,
+    "per": 14.3,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.66,
@@ -3395,20 +3409,6 @@
     "volume_relatif": 1.24,
     "capitalisation": 3326384161591,
     "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
-    "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
-    "capitalisation": 3326384161591,
-    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Le fonds de Leopold Aschenbrenner aurait perdu 65% au troisième trimestre - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVS1YbEMybjZqa1RLZ1drN1FtWjN4U3VPSWp4Q09KSHlUOFhYcVp6bnNiSjdVX2tZVTlra1FnNTJSQzJocUU0eTlkMW00S1JCV0RfeGxGYjhyYVRvYzhtWW94REtFNHdfZmtoTnNwalFFenBJaTBNSVFmMlVuUUlGX0d1TmJrRG9jRlZoY0x1ZmR5WHUwOGxFY09CSUlSSXZOYmctNF92ekVwRTJScWJ0dVE1R2JmNk1oOG9sV3NvU3lRdUpWNnZnQzdwdnBnXzZyWk9rSzhiZjRaTU50ZkZVVUd1SFRDRWI2Q0HSAeoBQVVfeXFMUFUtWGxDMm42amtUS2dXazdRbVozeFN1T0lqeENPSkh5VDhYWHFaem5zYko3VV9rWVU5a2tRZzUyUkMyaHFFNHk5ZDFtNEtSQldEX3hsRmI4cmFUb2M4bVlveERLRTR3X2ZraE5zcGpRRXpwSWkwTUlRZjJVblFJRl9HdU5ia0RvY0ZWaGNMdWZkeVh1MDhsRWNPQklJUkl2TmJnLTRfdnpFcEUyUnFidHVRNUdiZjZNaDhvbFdzb1N5UXVKVjZ2Z0M3cHZwZ182clpPa0s4YmY0Wk1OdGZGVVVHdUhUQ0ViNkNB?oc=5",
+   "date": "Thu, 26 Nov 2026 07:30:00 GMT",
+   "vu_le": "2026-11-26T17:50:37.293038+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "La Bourse de Paris en forte hausse jeudi... - Fortuneo",
+   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc081SFAyUlBZaWlZY3NsdklhNTQ4TzFiZHpicmRsd09sdHNNVE1kVW40a0w3NDA0RXI2U3didjBzWnBqZm5DSTN0TGlIYnZXOTQzRWFEWEpMU2JWUk50elhqSWtxS3pLVEpHUktXUUw0czAwM2Y5T2xkZ3R1T1pRem11YXEySF9RWTVhNnJCa9IBlAFBVV95cUxQTHJ0djdYTzVvYktOa1YtQm53M2JSajZ1QjNjYUdEOGVaTjFFYzUxUGNXc3EzT080ajlCbkxpOUJ5WVQwSHFPcm5zY2FVaU1GUFM5dE5Wa2NEOHFDbS1HUUlqdXExQVBfSkk2M2NkZlhUQS1LSDBLQmEzZjV1MWdIUXJyUWhYM3hqYnhsNGpaMmpfT3kz?oc=5",
+   "date": "Thu, 26 Nov 2026 16:43:00 GMT",
+   "vu_le": "2026-11-26T17:50:37.293038+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "ARCELORMITTAL Cours Action MT, Cotation Bourse Euronext Amsterdam - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZR1doelFQQkEzcXg4QzhWY01xSHBkcnZOVmx6NTk1UFFYV3MyeUlkZHVOZ1FkajdfanMxYkI3VzlqenprU0ZlRGNrUWRuZER0?oc=5",
+   "date": "Thu, 26 Nov 2026 15:55:51 GMT",
+   "vu_le": "2026-11-26T17:50:37.293038+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Seagate Technology Got Hammered By Multiple Compression, Falling 40% in 3 Months: This Renowned Wall Street Desk Targets 185% Gains Following Earnings - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOTjlDNXk3cDlyaGN1NUJKN05GemFBWUhNd3pRNGdQTTNmakhiUHIyeFJpd0dRdS1ybkFZdW9NcVdQSDRPaWZrSTdyaXpNQ0RTY21uRWRkOVpFcUxfLTRrME9UclJRbURLY2NBN3l1Qllndll5aXpQOGNsV0MtTkJxdjMyTkt0b3hJTkl2bHpEYm5sNEppR19fNFVPR2ZXMnA3U21sMTd6WFBNVFFhWUtMLVhHaGlQZjE5LS1SYVRzNUdzSFdFMnVFU1BVSVpkTkdfcmhHclcyNFZGNVEyZWZDbklyWXBZb3YyNUdfUDI3R19vdWhMNHptVWN6aDRSblVEMnZuQWI1eG1pbWtnMHBOc2JWekl5d3B6UWc?oc=5",
+   "date": "Thu, 26 Nov 2026 17:45:00 GMT",
+   "vu_le": "2026-11-26T17:50:37.293038+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Lumentum Surges 55% in a Year: Should You Buy, Sell, or Hold the Stock? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONkticmhLVGJEYklQaHRyaktKWTNpQ2t0N1hWU2pPUWZvMXFjQ3FfQnM3YXJ6R2tENWVMMmFMWWd4WXZNXzBMT3pPYk5IUnBqWUNJMDJpME9HakJpblVmcWVNaEhrUHZKLWxoaE9GU3Z5bEQ4emhsM2JhWGw1LUdOWURzelRHcko1LWxvcXpsRTVkVGUzQTh3?oc=5",
+   "date": "Thu, 26 Nov 2026 16:20:00 GMT",
+   "vu_le": "2026-11-26T17:50:37.293038+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Lodha Developers Ltd Surges 5.06% to Day's High of Rs 125... - MarketsMojo",
+   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjVGR1RFUGdnbldPdVNyRXVUNHV2Y1B2TFlTbUdGYzNndGFQSloxci12aUR2QnByVlVpVlRyTlBWbE9DTGE2a1NYZk95czhLbFFQZUZ0SFlLajJSOFg3VExmclIwa0tQQ09OSWN5OXl2WTF3Rl8zT3YwbVFJaDVKWEE1bmRIUVU0V1ZnYXJKNTc4dV9abDFtcXZxekViNFFkMWxwdHdGY3doOERFVG9ILTdMZ3JxRkp4N2FxNDl2U3ozTWxyOFE?oc=5",
+   "date": "Thu, 26 Nov 2026 15:58:58 GMT",
+   "vu_le": "2026-11-26T17:50:37.293038+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Acheter ou vendre à découvert Anthropic ? Les analystes d'une même firme divisés - TradingView",
@@ -6412,48 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa3FubjNlSU5GdmlKbVA1RnZOUFctdFNqNm5UcE1uM0huMWdQUWE4YTI5YzVFMTM0eHJOU21wbWxsX0xxdEhuMXJWbXdtVGdxYkVTMEQ2ZmxVdi03V2F2akkwU20tRUlRTTA3d05VX1NYb1lhV3VMX016ajhMcFEwMC1tbkc0MlVVWkVyUTZ1OG4?oc=5",
    "date": "Thu, 26 Nov 2026 02:01:00 GMT",
    "vu_le": "2026-11-26T06:30:35.580440+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Best Buy Is Selling Fewer PCs at Higher Prices—Will Holiday Shoppers Keep Paying Up? - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcjRKeFlVb3B3eVBFNFhHNDdBTjVhQXJNbFVjNDJFdzN0VVN0LXZXRUVnRFJidkw2MW5GaC03SGh0anE0TmJBaXZnRWZwSG9KUGlPd0dTYW9wN1BoTnBkejlQUDFCaEZPeDAtZmhFeU9TUGlaOHJ6b05WdzVrLUt2VzZPYkdfUWFtcXNhajZWQUMwc2VpS0lWWFBVSW9ydjYwcUFtbmZfT2VpY19oUUpxX0dPcXBsbHh3cDdkY0FPRXczbWJIQWFPTThQaC1VWlUybExEZDItYjdQT0Rx?oc=5",
-   "date": "Wed, 25 Nov 2026 16:00:00 GMT",
-   "vu_le": "2026-11-26T06:30:35.580440+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSG9zZGdYOVJDVHhEd0RJTUNuY2N4U2d2QTBRVkZRY2ZjbjRKLVBkY21aa1UxcmhfNFdUYmlSVlBDWndGd1UzOHJROC1oeTBBSDkzeWtMRE9DMVBrS0JVLVh5WlZBZDFiRWZnR3ZBekNCNE9Vc2QxVEItNjNvdzYtNGE2TFZCVHBNU3VEX01TQ25fallCbDVrRklZdXRSUW91aUdhX1dUbEQ5Nk1HR21qOGF4TUJHUV9NbUI0MmJkXy1oR2s?oc=5",
-   "date": "Thu, 26 Nov 2026 06:19:09 GMT",
-   "vu_le": "2026-11-26T06:30:35.580440+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Asian shares rebound led by AI stocks after Wall Street pares sharp losses - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWk2SklJeTVSTFpFcnhfRmNtRldEazVza0dsa3RiN05aSWMxS0t3TWRCTEpOU3JCQU8zMmhiM3pPNmUyRno4R0dzSjFkTmZjQzNqTlNBSkZ1WUFVVHFsZnBXOTJkamxFejRuQVVLQzJWQUtwY3ZqZ2h6Skpnam5BWG5n?oc=5",
-   "date": "Thu, 26 Nov 2026 05:25:00 GMT",
-   "vu_le": "2026-11-26T06:20:36.832960+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Chinese AI trade pulls back after Wall Street volatility, Anthropic’s rocky IPO - South China Morning Post",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNlJkUE5hNktnNlozc1R4c0NWN0ExX3J4OTVBOEd1WEFVakJCSXd2YWtYNU02M2tEbFVka1d5YzkxYmhqbTNmRDI1N3BvbkpIX0Jxd0U2WWs5ck1jQnNRekZ4M2hjdUE0V05lWmM0Uy16XzYxaFRqQWw5UVE0N1V6ZHl5cUJmYmR0T01MNnJ1c2hYdHp5eU9WQ2pjbDUwblpMc2xTamYxVDZaWDRCN0QyUXIyeUFhS19xN3pjWkNnRHFLeWRNVzhGNTN4MDFUaGsySFVBRVpGSW16cEV1?oc=5",
-   "date": "Thu, 26 Nov 2026 06:00:07 GMT",
-   "vu_le": "2026-11-26T06:20:36.832960+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "CREDIT AGRICOLE SA Cours Action ACA, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmUVY0S0FENXN2M1hjRW9UT3VENmYxZkp1a01xRk45NHBkbTBiUnlHa3FIaUhHR01rYThBNzQ3YnZUeTh1d1lHVE5MclBIZ3FTSWc?oc=5",
-   "date": "Thu, 26 Nov 2026 04:48:24 GMT",
-   "vu_le": "2026-11-26T06:20:36.832960+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "5 Best Strong Buy Growth Stocks to Buy for 2027 - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWJLNFVqV2R4UGdTTGpsVmhnUVBiNUdFOHM4azZ0NU9NaEkxSEtnRnNrX0MxNVpyYjh0T2xIRjYwU0JyVGhYNzQ1T05FYy1wZkpIQVQwWExZODRKN09ZNHdPRFlTZXhDc3BqX05kLTJnR24tSWpzamhOU2M2M3d6ZkN6aGRKQThSWXV5TGZaaXlmNEE?oc=5",
-   "date": "Thu, 26 Nov 2026 00:46:00 GMT",
-   "vu_le": "2026-11-26T06:20:36.832960+00:00"
   }
  ],
  "erreurs": []
