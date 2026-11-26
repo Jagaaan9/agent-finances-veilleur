@@ -12,8 +12,8 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
 - Gold (TVC:GOLD) : 3566.392 USD, jour -0.64 %, mois -11.23 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09712 USD, jour -0.03 %, mois -1.81 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55261.02 EUR, jour 0.38 %, mois -22.81 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09704 USD, jour -0.04 %, mois -1.82 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55319.79 EUR, jour 0.48 %, mois -22.73 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -85,7 +85,7 @@ POSITIONS ET INDICES :
 - Sivers Semiconductors AB (XETR:2DG, secteur Electronic Technology) jour 17.83 %, mois -40.27 %, prix 1.13 EUR, capi 308758810.9311206, PER None, volume x0.73 la normale
 - Imperial Brands PLC (XETR:ITB, secteur Consumer Non-Durables) jour 15.61 %, mois 20.5 %, prix 41.32 EUR, capi 27042136113.301346, PER 14.6, volume x15.05 la normale
 - Arafura Rare Earths Limited (GETTEX:REB, secteur Non-Energy Minerals) jour 13.33 %, mois -7.61 %, prix 0.085 EUR, capi 458529836.19089025, PER None, volume x2.53 la normale
-- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 11.5 %, mois 16.11 %, prix 39.85 EUR, capi 27042136113.301346, PER 14.1, volume x29.75 la normale
+- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 11.39 %, mois 16.0 %, prix 39.81 EUR, capi 27042136113.301346, PER 14.1, volume x29.83 la normale
 - FIT Hon Teng Limited (LS:A2DT6V, secteur Electronic Technology) jour 10.89 %, mois -33.09 %, prix 0.275 EUR, capi 1682176511.214968, PER 13.8, volume x12.3 la normale
 - ITM Power PLC (XETR:IJ8, secteur Producer Manufacturing) jour 9.83 %, mois -22.3 %, prix 0.7595 EUR, capi 477579110.8653215, PER None, volume x1.92 la normale
 - Avacta Group PLC (LS:A2ADP0, secteur Commercial Services) jour 9.09 %, mois -18.18 %, prix 0.72 EUR, capi 329260554.90075463, PER None, volume x6.58 la normale
@@ -101,17 +101,17 @@ POSITIONS ET INDICES :
 - EnergieKontor AG (XETR:EKT, secteur Utilities) jour -7.17 %, mois -22.23 %, prix 18.12 EUR, capi 270747728, PER 22.1, volume x3.49 la normale
 - Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -4.74 %, mois -10.45 %, prix 33.17 EUR, capi 36932545750, PER 11.0, volume x2.57 la normale
 - NagaCorp Ltd. (LS:A0LB2X, secteur Consumer Services) jour -4.51 %, mois -7.17 %, prix 0.233 EUR, capi 984263844.9951699, PER 3.9, volume x5.82 la normale
-- BYD Company Limited Class H (GETTEX:BY6, secteur Producer Manufacturing) jour -3.88 %, mois -15.93 %, prix 6.746 EUR, capi 73345636860.1456, PER 15.2, volume x1.05 la normale
-- AIXTRON SE (TRADEGATE:AIXA, secteur Producer Manufacturing) jour -2.56 %, mois -12.76 %, prix 25.91 EUR, capi 2871908671, PER 36.3, volume x0.88 la normale
+- BYD Company Limited Class H (GETTEX:BY6, secteur Producer Manufacturing) jour -3.88 %, mois -15.93 %, prix 6.746 EUR, capi 73345636860.1456, PER 15.2, volume x1.06 la normale
+- Plug Power Inc. (TRADEGATE:PLUN, secteur Electronic Technology) jour -2.85 %, mois -23.41 %, prix 0.9421 EUR, capi 1357719611.2204726, PER None, volume x0.26 la normale
 - Commerzbank AG (XETR:CBK, secteur Finance) jour -2.55 %, mois -10.0 %, prix 33.3 EUR, capi 36932545750, PER 11.0, volume x2.17 la normale
 
 ÉCRAN Allemagne : volumes anormaux :
-- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 11.5 %, mois 16.11 %, prix 39.85 EUR, capi 27042136113.301346, PER 14.1, volume x29.75 la normale
+- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 11.39 %, mois 16.0 %, prix 39.81 EUR, capi 27042136113.301346, PER 14.1, volume x29.83 la normale
 - MPC Container Ships ASA (SWB:MP2, secteur Transportation) jour -7.77 %, mois -24.75 %, prix 2.031 EUR, capi 1067197467.6652814, PER 5.2, volume x28.58 la normale
 - Imperial Brands PLC (XETR:ITB, secteur Consumer Non-Durables) jour 15.61 %, mois 20.5 %, prix 41.32 EUR, capi 27042136113.301346, PER 14.6, volume x15.05 la normale
 - FIT Hon Teng Limited (LS:A2DT6V, secteur Electronic Technology) jour 10.89 %, mois -33.09 %, prix 0.275 EUR, capi 1682176511.214968, PER 13.8, volume x12.3 la normale
 - Air China Limited Class H (LS:A0M4WT, secteur Transportation) jour -17.74 %, mois -6.77 %, prix 0.372 EUR, capi 13274372499.077784, PER None, volume x10.49 la normale
-- Volvo Car AB Class B (SWB:8JO1, secteur Consumer Durables) jour 2.3 %, mois -7.08 %, prix 0.916 EUR, capi 2602955258.5184274, PER None, volume x8.37 la normale
+- Volvo Car AB Class B (SWB:8JO1, secteur Consumer Durables) jour 2.23 %, mois -7.14 %, prix 0.9154 EUR, capi 2602955258.5184274, PER None, volume x8.37 la normale
 - Nagarro SE (XETR:NA9A, secteur Technology Services) jour 0 %, mois -1.25 %, prix 79 EUR, capi 1019569215, PER 23.9, volume x8.11 la normale
 - Avacta Group PLC (LS:A2ADP0, secteur Commercial Services) jour 9.09 %, mois -18.18 %, prix 0.72 EUR, capi 329260554.90075463, PER None, volume x6.58 la normale
 - MPC Container Ships ASA (TRADEGATE:MP2, secteur Transportation) jour -8.07 %, mois -26.34 %, prix 2.039 EUR, capi 1067197467.6652814, PER 5.2, volume x6.47 la normale
@@ -310,6 +310,13 @@ POSITIONS ET INDICES :
 - Beneteau SA (EURONEXT:BEN, secteur Consumer Durables) jour 3.84 %, mois 11.74 %, prix 5.14 EUR, capi 403167537, PER None, volume x1.03 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Banques centrales et taux] Pablo Hernández de Cos remplace Christine Lagarde à la BCE : qui est-il ? - Capital.fr
+- [Petites valeurs en croissance] Travelers (TRV) Stock Could Be 45% Undervalued As Excess Returns Impress - Yahoo Finance
+- [Pays émergents] Indonesia Reclassification Review Might Change The Case For Investing In MSCI Stock - Yahoo Finance
+- [Pays émergents] JPMorgan ActiveBuilders Emerging Markets Equity ETF Shs Unsponsored Brazilian Depositary Receipt Repr 0.1666667 Sh Earnings and Revenue – BMFBOVESPA:JEMA39 - TradingView
+- [Pays émergents] JPMorgan ActiveBuilders Emerging Markets Equity ETF Shs Unsponsored Brazilian Depositary Receipt Repr 0.1666667 Sh Estimates – BMFBOVESPA:JEMA39 - TradingView
+- [Pays émergents] JPMorgan ActiveBuilders Emerging Markets Equity ETF Shs Unsponsored Brazilian Depositary Receipt Repr 0.1666667 Sh Statistics – BMFBOVESPA:JEMA39 - TradingView
+- [Crypto] 3 Altcoins to Watch While the Crypto Market Bleeds: Analyst - CryptoPotato
 - [Bourse de Paris et Europe] Bourses : l'Europe rebondit en l'absence de Wall Street - MoneyVox
 - [Rachats et fusions] Western Union stock faces Intermex lawsuit after deal termination - ad-hoc-news.de
 - [Petites valeurs en croissance] Inventronics Limited (TSXV:IVX) Surges as Market Momentum Builds - kalkine.ca
@@ -448,12 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Bourse de Paris et Europe] Bourses : l'Europe rebondit, Wall Street fermée - MoneyVox
 - [Intelligence artificielle] Nvidia chip buyers told to rule out Chinese renters to buy GPUs, sources say - CNBC
 - [Petites valeurs en croissance] Enterprise Products Partners (EPD) Stock May Be Undervalued Despite Distribution Growth - Yahoo Finance
-- [Pays émergents] Non-bank financial institutions and cross-border flows to emerging markets - ODI: Think change
-- [Pays émergents] India overtakes Vietnam to reclaim top spot among emerging markets in October - Livemint
-- [Crypto] XRP price at Nov 26, 2026 at 9am EST Crypto Prediction Market - Robinhood
-- [Anthropic] Anthropic stock slips below its IPO price as growth worries surface - Crypto Briefing
-- [Marchés mondiaux] Trump Blames the Midterm Election Results for the Stock Market Selloff - 24/7 Wall St.
-- [Marchés mondiaux] Trump Blames the Midterm Election Results for the Stock Market Selloff - Yahoo Finance
-- [Banques centrales et taux] A la tête de la BCE, un trio fraîchement nommé pour protéger l’Europe de l’inflation… et peut-être la France d’une attaque sur les marchés - Le Monde.fr
-- [Banques centrales et taux] Pablo Hernandez de Cos va être désigné pour succéder à Lagarde à la présidence de la BCE - Investir Les Echos
-- [Banques centrales et taux] Qui paiera le prix des choix de la BCE ? Son prochain président devra arbitrer entre inflation, crédit
+- [Pays émergents] Non-bank financial institutions and cross-border flow

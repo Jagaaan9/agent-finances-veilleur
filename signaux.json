@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-26T20:30:39.727100+00:00",
+ "mis_a_jour": "2026-11-26T20:40:35.916927+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.09712,
+   "prix": 1.09704,
    "devise": "USD",
-   "jour_pct": -0.03,
-   "mois_pct": -1.81,
-   "volume": 119231,
+   "jour_pct": -0.04,
+   "mois_pct": -1.82,
+   "volume": 119422,
    "volume_relatif": 0.6,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55261.02,
+   "prix": 55319.79,
    "devise": "EUR",
-   "jour_pct": 0.38,
-   "mois_pct": -22.81,
-   "volume": 79.67003226,
+   "jour_pct": 0.48,
+   "mois_pct": -22.73,
+   "volume": 79.6786259,
    "volume_relatif": 0.35,
    "capitalisation": null,
    "per": null,
@@ -1001,12 +1001,12 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 39.85,
+    "prix": 39.81,
     "devise": "EUR",
-    "jour_pct": 11.5,
-    "mois_pct": 16.11,
-    "volume": 235215,
-    "volume_relatif": 29.75,
+    "jour_pct": 11.39,
+    "mois_pct": 16.0,
+    "volume": 235785,
+    "volume_relatif": 29.83,
     "capitalisation": 27042136113.301346,
     "per": 14.1,
     "bourse": "TRADEGATE",
@@ -1203,26 +1203,26 @@
     "devise": "EUR",
     "jour_pct": -3.88,
     "mois_pct": -15.93,
-    "volume": 108457,
-    "volume_relatif": 1.05,
+    "volume": 109457,
+    "volume_relatif": 1.06,
     "capitalisation": 73345636860.1456,
     "per": 15.2,
     "bourse": "GETTEX",
     "secteur": "Producer Manufacturing"
    },
    {
-    "symbole": "TRADEGATE:AIXA",
-    "nom": "AIXTRON SE",
-    "prix": 25.91,
+    "symbole": "TRADEGATE:PLUN",
+    "nom": "Plug Power Inc.",
+    "prix": 0.9421,
     "devise": "EUR",
-    "jour_pct": -2.56,
-    "mois_pct": -12.76,
-    "volume": 137932,
-    "volume_relatif": 0.88,
-    "capitalisation": 2871908671,
-    "per": 36.3,
+    "jour_pct": -2.85,
+    "mois_pct": -23.41,
+    "volume": 371690,
+    "volume_relatif": 0.26,
+    "capitalisation": 1357719611.2204726,
+    "per": null,
     "bourse": "TRADEGATE",
-    "secteur": "Producer Manufacturing"
+    "secteur": "Electronic Technology"
    },
    {
     "symbole": "XETR:CBK",
@@ -1243,12 +1243,12 @@
    {
     "symbole": "TRADEGATE:ITB",
     "nom": "Imperial Brands PLC",
-    "prix": 39.85,
+    "prix": 39.81,
     "devise": "EUR",
-    "jour_pct": 11.5,
-    "mois_pct": 16.11,
-    "volume": 235215,
-    "volume_relatif": 29.75,
+    "jour_pct": 11.39,
+    "mois_pct": 16.0,
+    "volume": 235785,
+    "volume_relatif": 29.83,
     "capitalisation": 27042136113.301346,
     "per": 14.1,
     "bourse": "TRADEGATE",
@@ -1313,10 +1313,10 @@
    {
     "symbole": "SWB:8JO1",
     "nom": "Volvo Car AB Class B",
-    "prix": 0.916,
+    "prix": 0.9154,
     "devise": "EUR",
-    "jour_pct": 2.3,
-    "mois_pct": -7.08,
+    "jour_pct": 2.23,
+    "mois_pct": -7.14,
     "volume": 206000,
     "volume_relatif": 8.37,
     "capitalisation": 2602955258.5184274,
@@ -3655,6 +3655,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Pablo Hernández de Cos remplace Christine Lagarde à la BCE : qui est-il ? - Capital.fr",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPODI5T2pNODJRTTJTR2NIUWEtQ09YUXNrN3RSWUVraFRnTmRwMDF1MUw5N3dBZGE5MlQ0RkRadzNScFU5X0s2UU5PZGFrbHlIOUgwTUtVNXFtTUJQNS1RQjYwMTlDcUZRRlh1UFViRTd0b3lZRU9oaFZQbXA1SzJuaGQ2N1JmbmJxd2x4WkQtMVlGekU2eXRNVWZJRW4yajZLdmVWMEZ2YVRxbUxNVDh6Nl8yaVpRa3NhMmM4?oc=5",
+   "date": "Thu, 26 Nov 2026 19:09:44 GMT",
+   "vu_le": "2026-11-26T20:40:35.916927+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Travelers (TRV) Stock Could Be 45% Undervalued As Excess Returns Impress - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUUR2M3dadnhOci1IZUhnSldMOGtYWXRIX0VHLXdFeTVhU0FMaHN0TUQtcDEtZ2ZHOGxFcWN6aDU0eVEzWWhXT2xGZU9yU2h3QktWVUw5b3BQNHZCUDROSXhaYUtDeEFuOUtZcloxN0dXQXhYZjdaU0Z4VVFhMmVaLW9vaUN2aE9hRFB4a3RSVklnTFc5cW05Xw?oc=5",
+   "date": "Thu, 26 Nov 2026 20:10:26 GMT",
+   "vu_le": "2026-11-26T20:40:35.916927+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Indonesia Reclassification Review Might Change The Case For Investing In MSCI Stock - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVjBLOFB4U0NkbEFoY29NbkJGZ01FWUNIQ25vMUNCc1BiOURCSnVEUWJiUFdzaTJuLW9vX2JFaW9XNXV3b25CYXlXc0I1eGNteXJwNmpWLUZEQ3lBOUdFRTgtZTE0c0pTSEZCaEpoYlhZOFNXU1QtcDQxbkY4QkFjbkNOaUlsSFJoT0FkRlRSYURaV0xXMFN4MURtWFhBT0pTdGNHZWQ4eXgyMzUwTVl0dA?oc=5",
+   "date": "Thu, 26 Nov 2026 20:10:05 GMT",
+   "vu_le": "2026-11-26T20:40:35.916927+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "JPMorgan ActiveBuilders Emerging Markets Equity ETF Shs Unsponsored Brazilian Depositary Receipt Repr 0.1666667 Sh Earnings and Revenue – BMFBOVESPA:JEMA39 - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OWHBVZEdMMFJMSjBjRHhqRXhTZEx0R3ZSN3BnTXctb2xZRS0zMmd5Vm9MMTBfcDJqVUZwSTVPYkVLMUJObC1ldERsY3pxNVBEZUUxcTJOUTBqMG5JU0xyNjhCeDlLZ3pyTi1nTzQxRTRtdm9YZGxtZ0x6RzczaGs?oc=5",
+   "date": "Thu, 26 Nov 2026 17:28:57 GMT",
+   "vu_le": "2026-11-26T20:40:35.916927+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "JPMorgan ActiveBuilders Emerging Markets Equity ETF Shs Unsponsored Brazilian Depositary Receipt Repr 0.1666667 Sh Estimates – BMFBOVESPA:JEMA39 - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV0lGak1US1NJNWJSNUZaQzZJRHdjQjJIOW1oenhRV0M5T2dLODdrdUxRVTJaZ3JvYXJRd0ZDWlI4OXg1WVRaQ0hLQ0VEaEdSX3c5VU9RTEV3VFNsUkFQZUlPSGtCc0VVbVVNVlFYNU1GZVVaMFBkaU01X2stUEQtTQ?oc=5",
+   "date": "Thu, 26 Nov 2026 17:24:18 GMT",
+   "vu_le": "2026-11-26T20:40:35.916927+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "JPMorgan ActiveBuilders Emerging Markets Equity ETF Shs Unsponsored Brazilian Depositary Receipt Repr 0.1666667 Sh Statistics – BMFBOVESPA:JEMA39 - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWs4X1llaWlvTDZmQlNLM19zVnZEVlJKam5mai1XUWstWHE1TENUV1RzLV9xZ2QtUnBsTkNLNlJaUW90aTVRSk9YQWtHaTAxdjJsZVprN2taekxTVkJnaDBob2JsU09zMk05VUZla3JTR0oyZmJzbDBnbTFSejU2dmYyUUJ6dlZQVDUzNE1UamI?oc=5",
+   "date": "Thu, 26 Nov 2026 17:25:48 GMT",
+   "vu_le": "2026-11-26T20:40:35.916927+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "3 Altcoins to Watch While the Crypto Market Bleeds: Analyst - CryptoPotato",
+   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzVOLTk2ckE1U2xrQktQak1TRjUxYzZLTXhOc1B6Qi1qaU92LVE5eXY4VFFjZmRDTHdDOWg4TS1SZkVhT0FjWlZvZ250N1ZIeV9SN1drdnAyTHZlZ0t4N203VUdHZlF1TXNGRWZFSlF5Zzlia18zaFFhbkVzZ1haajJuTTMyVF9WY21mcg?oc=5",
+   "date": "Thu, 26 Nov 2026 19:22:00 GMT",
+   "vu_le": "2026-11-26T20:40:35.916927+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "Bourses : l'Europe rebondit en l'absence de Wall Street - MoneyVox",
@@ -6405,55 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTJJaG4zQ2lrZDlDdnVYTzhYa2NkZm5rczQ3WWl4QVFHQXRrNlhPNXdDeWlYWHJXTlhEdmY4dkZnVDBOTFQzaUM1UWlyOF93VXMwaHk0X0VVT3BUZGlkRENCUGZOMDRVWVFmbDVnUXdZYlF6Q0kxUklPU0VyTXcxZXp0VFN0UjE2d0hXdkI2T3NnVVFmeF9VUm9TTG1ZSkRyd2JjZEZXYWZEZ3Zv?oc=5",
    "date": "Thu, 26 Nov 2026 07:19:46 GMT",
    "vu_le": "2026-11-26T08:30:35.655033+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Chip stocks tumble as Nvidia-led AI rally unravels, tariff fears weigh - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaWE0THhRUTVUaXJsTTRxWDRaM1BmMW04ZElnZWxMNjhZUmxBQWtKM2oyQzZSbUJ2dmlucEVjbXVSbHRGVTlMTnlPc1hQdWNHTW1ZSUJRNm9iYVp4eW5OeUtkYTRGaW83SXBwZEJma05FdjBhWHl4OG1tSUU1YnVWczRheE0?oc=5",
-   "date": "Wed, 25 Nov 2026 16:49:00 GMT",
-   "vu_le": "2026-11-26T08:20:39.901514+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "HYPE price on Nov 26, 2026 at 1am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRHRQa241V21MWFRDYUJlTUpaTkNPdVBPSktyZFdzOTVLRXhKMnkzbjhhQk4tQzl3M3REY3FsUjFPci0tS3BFLW1zOHlfdkV2UjZlcC1rMU1GQkxGZ2IzVjBDVUdsQXRVXzVEZl9fLXpwLU5vTkpzN1J5WDRqNXFPV2hENTNZUEFzWDctNXRGeTEyWVZxenNLXzhNX3U3Mms3c3o0WXFCREczaU9PTWVV?oc=5",
-   "date": "Thu, 26 Nov 2026 05:02:56 GMT",
-   "vu_le": "2026-11-26T08:20:39.901514+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock Market Today (Nov 25, 2026): Wall Street Closes Mixed as QQQ ETF Falls 0.65% - Gotrade",
-   "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ITC0yaVU4RVZkb2k4RTVzR24yUld2LVNrc2t1ajlQUXpPUjh0Qmo5NVA0cncwc2NiSGx5OVhFRUNVWTZnZGZGX0VvQzMzLWFKRHo0RkppUnFWS1RMNEttS0I0ZjlGaGRSVGtSMHVBb0x1LXNRaTZPZXNTN1M?oc=5",
-   "date": "Thu, 26 Nov 2026 06:21:00 GMT",
-   "vu_le": "2026-11-26T08:10:35.452002+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China and HK stocks tumble; Shanghai posts biggest one-day drop in 3 months - Business Recorder",
-   "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zX0FwbWlRZ2tfTGtqRVZiTExsOUVsZWVMZlNFdGJETmZ0UlNWd2VGM1BTb25Na0NYcENWdUU3emJ3enkwQ2pkVk1CYThpN3RCdVVmWkdR0gFWQVVfeXFMTXNfQXBtaVFna19Ma2pFVmJMTGw5RWxlZUxmU0V0YkROZnRSU1Z3ZUYzUFNvbk1rQ1hwQ1Z1RTd6Ynd6eTBDamRWTUJhOGk3dEJ1VWZaR1E?oc=5",
-   "date": "Thu, 26 Nov 2026 00:16:21 GMT",
-   "vu_le": "2026-11-26T08:10:35.452002+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "‘Let’s Talk Turkey’ in AI. OpenAI, Nvidia, DC & RAMageddon. ARD #215 - AI: Reset to Zero",
-   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KTURvcTRxWUpMbFU3TWZGNjNJdWV6R25Hanl2QzdYYWg0Rl9qcHE0TDJKcXFrSDI1cEVGWC1kU3lKSmZjcG9nZzhKVko0ckFLbTNXOU9TczFWa2k4MEtMazlGdkRwR3NRM1ZacDRyLVUzVnRXYXdLa2VqSjFpdw?oc=5",
-   "date": "Thu, 26 Nov 2026 07:27:43 GMT",
-   "vu_le": "2026-11-26T08:10:35.452002+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5",
-   "date": "Thu, 26 Nov 2026 07:19:00 GMT",
-   "vu_le": "2026-11-26T08:10:35.452002+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "How Investors May Respond To Constellation Energy Stock After Earnings Estimate Upgrades - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUjFBVmhXbk5uR3RQUThPQVpuT0tSemx0U29uNTdrTjR2bDhsd2ZvT3ZHZzlPMEFrdzUza1VEMUttWE5DcGMzcC1pVlhxYWU5UjhRdEMtdW9tVTVTYWhnNVhZREJWMVV1WHAwWVM3MkEyUm1oNE1GR0xYNlBidkZHU3RVRWZVeHFVVkVNTVN1ZnBoM01tbUFLRnVoT0JQUHVCalYtdURCNUhDVm8?oc=5",
-   "date": "Thu, 26 Nov 2026 06:15:00 GMT",
-   "vu_le": "2026-11-26T08:10:35.452002+00:00"
   }
  ],
  "erreurs": []
