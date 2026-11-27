@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54655.86 EUR, jour -0.9 %, mois -24.67 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54656.31 EUR, jour -0.9 %, mois -24.67 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -226,8 +226,8 @@ POSITIONS ET INDICES :
 - IX Knowledge Incorporated (TSE:9753, secteur Commercial Services) jour 0.9 %, mois -5.09 %, prix 1342 JPY, capi 12613998051, PER 7.4, volume x8.8 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 834986797, PER 28.6, volume x17.7 la normale
+- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (BSE:GOYALALUM, secteur Distribution Services) jour 20 %, mois 26.49 %, prix 7.02 INR, capi 834986797, PER 29.1, volume x52.33 la normale
 - Waaree Renewable Technologies Ltd (NSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 23.4 %, prix 825.7 INR, capi 71797243279, PER 18.5, volume x233.67 la normale
 - Waaree Renewable Technologies Ltd (BSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 22.52 %, prix 825.4 INR, capi 71797243279, PER 18.5, volume x128.17 la normale
@@ -310,6 +310,12 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Un militant entame son troisième jour de grève de la faim devant Anthropic - Dataconomy
+- [Marchés mondiaux] Stock Market News - Bond Market - Currencies Markets - MarketWatch
+- [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
+- [Bourse de Paris et Europe] CAC 40 : Paris fait cavalier seul - Bourse Direct
+- [Crypto] Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - The Globe and Mail
+- [Crypto] Franklin Templeton Adds Hyperliquid’s HYPE to Crypto Index ETF EZPZ Starting December 1: 12 outlets compared - NewsCord
 - [Crypto] 3 Cryptos Under $1 to Buy and Hold for the Next 10 Years - 24/7 Wall St.
 - [Chine et Asie] [Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제
 - [Crypto] XRP price at Nov 27, 2026 at 7pm EST Crypto Prediction Market - Robinhood
@@ -454,9 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Marchés mondiaux] Stock Futures Rally: 5 Forces Behind the AI Rebound - www.stl.news
 - [Intelligence artificielle] Not AMD. This Is the 1 Company Nvidia Should Worry About Most. - Yahoo Finance
 - [Crypto] Binance lists Freedom Holding token as Turlov's crypto partnership deepens - Yahoo Finance
-- [Marchés mondiaux] US stock selloffs trigger a new kind of dollar bounce - Reuters
-- [Marchés mondiaux] Goldman Sachs Drops Stark Take on Year-End Stock Rally - TradingView
-- [Bourse de Paris et Europe] DANONE Cours Action BN, Cotation Bourse Euronext Paris - Boursorama
-- [Banques centrales et taux] L’indice du dollar américain marque le pas sous 104,00, les anticipations d’une Fed restrictive limitant le repli - www.tmgm.com
-- [Banques centrales et taux] Dollar américain : les anticipations de resserrement de la Fed limitent le repli sur fond de rebond des actions - ING - www.tmgm.com
-- [Bourse de Paris et Europe] Les Bourses européennes rebondissent légèrement pour le Black Friday... - Fortuneo

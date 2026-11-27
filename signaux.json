@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-27T23:20:36.476113+00:00",
+ "mis_a_jour": "2026-11-27T23:30:38.482445+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54655.86,
+   "prix": 54656.31,
    "devise": "EUR",
    "jour_pct": -0.9,
    "mois_pct": -24.67,
-   "volume": 158.33979999,
+   "volume": 158.42590683,
    "volume_relatif": 0.72,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 8779940033,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 8779940033,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Un militant entame son troisième jour de grève de la faim devant Anthropic - Dataconomy",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEZZdFJSWGgtaTZWdVE1aWU1R01ENVRXaHhSc2hsS3JPRjNXc2Q2b2VhT0Vob2wyUkVZVTJ0Y1A2bFp5aEEwb3FGckNOUENNN1pQZTNITFNqVEdRdGFVMGctZzZfTDhkTjJPWEprc1JWOGtRUUd1NmdRTVA5OFpCUE9vX0o2YUVoWmtES2Z2bjNiazRmaUtxeTZXRUcxSUFQYjZDU1ktb3lCTmJKYkM5Y3hn?oc=5",
+   "date": "Fri, 27 Nov 2026 17:04:12 GMT",
+   "vu_le": "2026-11-27T23:30:38.482445+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stock Market News - Bond Market - Currencies Markets - MarketWatch",
+   "lien": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WSk1SMEVJUWVGN1RIVTEtSThObVFxbkFHTE9ySmdyRUx4NjJMNWsta3lOaFBOVFF5eUEtN0lVaXc5QlFiTEdiQVZYSQ?oc=5",
+   "date": "Fri, 27 Nov 2026 22:03:22 GMT",
+   "vu_le": "2026-11-27T23:30:38.482445+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOWE5OUXpoOFdXdkhMSmM2SHNraGo3S1luZkhfRS10SWRJLXBOeWhLZlhrVU5WdHF4UXluZEtiMVRIRDlKQlhlMjJJVzNMMjQtMjJtdENYUkRHZW1MUktuWUkxNVRMSlZyXzIyMkJubHFXR09ielBVM0lpWXJ4MDhZc2FSTlMxQndkdVFLRkotX2NZZ1NjVnBnTFotek10Tl9hMk5mV09teXJuVU4zYW1RcFNvYnVOd1FNc1RMRHEtMFl4bzkySUMwOWNfbjgzbUFwejZjZl9QaFVaaHMwNDZBb2dFRDduOFRqOWYwLUJZQlZ1dFF5MHF4S1JsdWk5V0FZemJrenE4eGFwR1hRclE?oc=5",
+   "date": "Fri, 27 Nov 2026 23:25:37 GMT",
+   "vu_le": "2026-11-27T23:30:38.482445+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "CAC 40 : Paris fait cavalier seul - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdVZMZjVsQWN4N0pvNDBvX3BoWGEzRFpCckNRT2tRcjNPRWtEZl8tY0gzTm1hd080TnBRWFhkTHM2eHZ2ZnhwdGtoVXNrTjJiek5yM1ZuRTVmeENULWltU0xaY3kwcTh3SGdlanFEQXVFeDkweHpSQmZIdEtlbm9iWWdrdnByVEJTOGxVQlM3OHRISnprcjBMSUFucHJtMDF6WGZDRDhHc0FsWXJLSERRTXBMcjFDSGtYdXZlQXhwZ0RROUllWUVlaVYtc0RyVVF3Qk5F?oc=5",
+   "date": "Fri, 27 Nov 2026 07:30:00 GMT",
+   "vu_le": "2026-11-27T23:30:38.482445+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQcXM0bGxmemZEM1dUQV9FUWphTGpEZkstWlBEb3JkaDNlcENRNXM3QmZMM1FNNVhVMERKS0ZuT2pzZkNmdTlwNDlxTVBLNzlmZWF3elJwZHN3SEVxcHA1WEl0ME44bWRRYjBGcWM0X0VRRTVMSjF3cmRlU3FzeW91ZVRjLWphbWdsS3hJWjlISFhSLUt1Y2ZTZVVicVpyaXNZRTA4X1VRWTd2Yjk1WjVfWDRXQ0ZvUENLN2N2N3loUUpKX284QkJDVXNfeFNsNjBjTkZqTFU2dHJRWGVjVFZ1b1h3dVBkajNCTGdoV2liek13ck5ibkdBSkRLWkltMlVORkVXZWNnRkhJNkxWbFZmdzRPb3VmMGNTenozT0F5NHF4UWE4NmRGeXlFLTBZbG9lUkdqUl9haWNWTmVjQmc?oc=5",
+   "date": "Fri, 27 Nov 2026 22:33:36 GMT",
+   "vu_le": "2026-11-27T23:30:38.482445+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Franklin Templeton Adds Hyperliquid’s HYPE to Crypto Index ETF EZPZ Starting December 1: 12 outlets compared - NewsCord",
+   "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONUtmZEF6VkZkSVFSXzR2aTVOWEJ2Tkg5MXJiUG81MHFjODNXY2FLcGxhdjJvQW5qMWI2c3lGS1NvbkRXQ21nRXdvRU9ZX0RSZ0Q0SzNlU1R1bWlXTks5NjQwVnZHNDlOMlZNUnd3a2o0OVlHdHJuclhrcEVFQTkzc1EwMVIyeV9ka25tSVh6TWNsaTcwYjdoYkd2bzB4a0ZtYU02NzcxM2ZxMmZIblByWkFBUlc5VllESzlSSmRCdFdwbEdwdnZmTGlZVVRCdTUzeDhiQ3F4SVVUeFByOEpTd3pXaUJZOUVqNnc?oc=5",
+   "date": "Fri, 27 Nov 2026 23:24:32 GMT",
+   "vu_le": "2026-11-27T23:30:38.482445+00:00"
+  },
   {
    "sujet": "Crypto",
    "titre": "3 Cryptos Under $1 to Buy and Hold for the Next 10 Years - 24/7 Wall St.",
@@ -6412,48 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMTdiUnV3Zlh3THVmeU14Rk9LZGNlOXRLYnVvaEZqYmZxMWlzR0hJejBvRExxVEEtYVZwOXhwajAyV0lXSzBmc0JRYmlwUE41SUNQQktSRkFCLWItR3hZemR2ejMwQVg4cnZzcndVSnRYU2paWmlPeWxnRGc4M3N4LWlnOVBRcmF5T0lNT0pQWWxPLW5IdG9OWFlaZTNPNVd3aVFQM2tjZHVaZGRuOHJZcGhwRGk0YWVkZE9xTVJ4eWVYMl9rNHBzYjdqUE1JbHhTSDJrTHp0ejJpTmVaekt1S0FPM1ZEYWY1NU05OEVhek9udw?oc=5",
    "date": "Fri, 27 Nov 2026 07:16:38 GMT",
    "vu_le": "2026-11-27T12:00:41.973506+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Stock Falls 28% From Its High, Back Near IPO Price - Gotrade",
-   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXhJNTZHUlVrMGtRM3JDSWhxaUg3SDhnQ1NkZ3FBRUctRzUydGRBNURyU2NiRXRnbmZRUjZDY1NmVU1pbXI5czg2STRVbjZyT0EtMWl1cVhIWE5iNG1fSjBITF9zVGFLaEdtUUQxdTJkbmNreUxqZF94LTZkODVPMjM4MjZLWUpEREtr?oc=5",
-   "date": "Fri, 27 Nov 2026 11:02:00 GMT",
-   "vu_le": "2026-11-27T11:50:36.965832+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic Stocks Rise but Close Below $83 IPO Price for a Second Day - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUkRMLWtrUE1IMF9ObWl5cDZUVVZXSll0eEM3WHlzN2pZcXF4Zi1zMDZmdTNkanZRdDdkODVBSVBZZ2pYNEdOYkw1RlJyVUtfMHV0OTZqMGxUbnMteW81cC14ci11aTNsMXJzTG9UVTZ1a3MwNV85dFU1TXlZWDA0eVI1aENHdXlUMUh3dFpVV05nZldPMWo4aEZHWDUzYjhZS1dwUEdsM1pZMFFmRmJBX01uMEFqUFlqRjVLenpxLWh5RlJV?oc=5",
-   "date": "Thu, 26 Nov 2026 19:05:52 GMT",
-   "vu_le": "2026-11-27T11:50:36.965832+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Nvidia, Anthropic, OpenAI : l'IA est-elle devenue trop chère ? - BforBank",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ1oyNjBDMGRmbkZsZGFQZXUzQmlDbXhoWV9xdThibW9CWUFoc3N3U0EzVmNWcHRoWlczSHZSVkJzRUVXRVR5ZE15N24wNnZfSmV3OWRBbHBjZXphMkFJT0NrajMzU1o5WWtCLUY5WTU5OHN0UURiQ20xQlNBRjdRbkpyRTRkalF1U0s4R2xYM3lyWWJI?oc=5",
-   "date": "Fri, 27 Nov 2026 09:49:59 GMT",
-   "vu_le": "2026-11-27T11:50:36.965832+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Milan stock market extends rally on tech and banks, Fincantieri surges - marketscreener.com",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmNiTVAtMjEyYUd1eU9mN1Bmdlc5SGY5X19TTHpmWHdsWHdfRlRqdzhuZndYMzE1VkV5Y3V6U29tYzVJZDlLNnFBSm84cGpqeTNsZE1IUWdGSURsVGMtR1FBekluY3VleEh3TkN2UWhqZEt5a09Db1RNdGpmYjczWFNpX3lVYy0ycXNrTHYyODN2T05YcmZNRzVfTnBSUkNmN092dWZ1STNIejFOVndDa0w1dWlZek1RQVdrbVQ4aw?oc=5",
-   "date": "Fri, 27 Nov 2026 08:36:02 GMT",
-   "vu_le": "2026-11-27T11:50:36.965832+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "EUROFINS SCIENTIFIC Cours Action ERF, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5UE5kM1R4c1FFdWI2c1F3eENoZWhCbm4yeUhGdHp4VVhtREctSG8zU3cwTWNrMGZSdVRmSkdNT1FreHpPY0ZUWnBiWHR2US1wUGc?oc=5",
-   "date": "Fri, 27 Nov 2026 05:52:18 GMT",
-   "vu_le": "2026-11-27T11:50:36.965832+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "BOUYGUES Cours Action EN, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FRnRQY2lqUkxRT3htOEdjOEJvZDUzVk11MnVaWG4xQVU1aHczaFBQcXIyMFZyNF81T0YxYWtLSzZDVVZ2UC00bmVLOV9tUXlp?oc=5",
-   "date": "Fri, 27 Nov 2026 04:23:47 GMT",
-   "vu_le": "2026-11-27T11:50:36.965832+00:00"
   }
  ],
  "erreurs": []
