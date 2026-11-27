@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-27T23:40:35.367270+00:00",
+ "mis_a_jour": "2026-11-27T23:50:36.060230+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54648.38,
+   "prix": 54701.59,
    "devise": "EUR",
-   "jour_pct": -0.92,
-   "mois_pct": -24.69,
-   "volume": 158.44094083,
-   "volume_relatif": 0.72,
+   "jour_pct": -0.82,
+   "mois_pct": -24.61,
+   "volume": 158.61523275,
+   "volume_relatif": 0.73,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 8779940033,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 8779940033,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Les Bourses européennes rebondissent légèrement pour le Black Friday - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNYUl0cXRmdnhQUzhkeHVDQzNIV2VuZmJoZ1NuN2UyQUJ0U1BycHczWmVqZ0d6dDJFaDIzaHJ6bklrY1A5MjZVbXhCZTM1SmtPMnRsbEhYRUFpZm8tQXBaZnlsOGVWY0hRc1l0c1dITFJRQktXRGw0Mkk1UmJlbEh3UHRHSFVwX2sxTnlSVVExbWN1Qm0zVXUyVUNxUVM4dHd4eGgyNTZzSmJrSnNNM285LUl2RjE5X1FRRjFUM0JXOWtVRVdDSU9qc1dLSUFvNkhJb0hxblVZaFNaaHhBVDJQVEpaOFU0cjZrM0ZWVmU4U0JuMlYyREE0MDFpcmpQM0t5YXZibzRfRkxIcGJnN1lFZHRsQlNTVE1ad182bmE5Vml5aWhhNE1IbG42OTZ2cHZFRFE?oc=5",
+   "date": "Fri, 27 Nov 2026 11:21:00 GMT",
+   "vu_le": "2026-11-27T23:50:36.060230+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "POURSUITE DU REBOND EN EUROPE ?! - 100% Marchés - 27/11/2026 - M - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSFpXVHF4di0tMjBBdWUwLXdPMXFNOXVWT1VubVB3Q044djlEdzJJUXM2b3VwbXVvSmlGa3lKaFJjMEZ1cXdZenE4b042YXZ1ZXNzTUN1czhOVmFHdDl1cmpXcUtTVXMyaEl1dk9KQzNpRmZ3TEFPREVWajI3RmZDYWRMSkMxN2FCNkFVQVVxdGxvaUdTSlh0amdWTE54M2ktMnMxQXFFU1I4RExkb3RMMFBsNzhEWTYtNWhxY0l4cGhFc0tOM0Rua3hmbDlBUU9ZSEZjYV9Ob3ZEbVN6bVYwTFN5elFRcHJnem5iQXZRN0NDQzFSZ1pF?oc=5",
+   "date": "Fri, 27 Nov 2026 08:13:00 GMT",
+   "vu_le": "2026-11-27T23:50:36.060230+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Stock Market Today, Nov. 27: Chip Stocks Rebound Sharply on Broad AI Enthusiasm - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMHl1c1lMX1hGUDNqSkVNVzVrd2FteTZ3Y0t2VzNYTlpGT0F6d0NKV1hySDBTODltdEcxT0JrMVpQRHRITE9DQ3lFemhxUW1KREt1MjJCMHphQ0FpVUVQYndSMVRYRVo2RFNWVVJyclVzT2t4RnhaSHBJNGlSZVJ4MGdEbTRsUXR6MUhrelppM042c3pTbDlKbTF4SXp3Z0RSSGhEbmMxQVlRaXYtTV9uUk5wR216dWxFNFpmMGFFaWFzZFVCSXJSbHhoMDQ4RVFqSnBTQUs5MldjajNvQmQxRVo0SXNJcHV4U19La2x3cWNVQm11bFE?oc=5",
+   "date": "Fri, 27 Nov 2026 22:15:46 GMT",
+   "vu_le": "2026-11-27T23:50:36.060230+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "3 British Undervalued Stocks Trading Up To 50% Below Fair Value - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ29lSmU2MEg4NWQ2NElfRWdPajc3RG5NVjEtQUNwOTB4cVhIZVpBTXQwckJ6NTlzTHFRZ3VLRTY3di0yT2dGZ3FqSnU5V0tyZkc2ZWp5eWZnUXFBNEJncjh3QlpGaUo4a0tIa3U4bU0xQXE3cEs5d1ppSWRxXzlPdVZLb1pWcVU0RTNSc3F2X1lHN2JLZnpHYTZZeUNmLU1IbXNn?oc=5",
+   "date": "Fri, 27 Nov 2026 17:15:04 GMT",
+   "vu_le": "2026-11-27T23:50:36.060230+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "L'Europe finit dans le vert, se redresse après des jours agités - Boursorama",
@@ -6426,37 +6454,7 @@
    "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdGducm1Ed2V1Y0ZRN19JMlVuRk1JaEZ1MVVaY3J1Yy1yekFtTTRYWVJ4eEZ3a01KVVk0bXJwTGtyQ1Mzd2tROEJ5eUJ3Q0hiQ3EtRkFCQzQ5ckZLTDR6cmx2Y2NaQVBmNzhTVkhjMEhpRFVTaVVDZGVXRmtjaU9zZnhhcnE4WGxZUnk2N1JVSWhYTE5iQVRn?oc=5",
    "date": "Fri, 27 Nov 2026 00:44:26 GMT",
    "vu_le": "2026-11-27T12:10:35.722419+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Markets & Stocks - FinancialContent",
-   "lien": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQMUpLcGU1UDRGTFQ0TmxOZDdqX21RT2tFaDRZQUEyMVhkRlh4eXhpVEc4WFhXNmVGQ2prR3pYZmdGVUZiclRxRW0wMlgzYmJ4cVV3bDNkejl0SWstQzVpakRLYS11bG91cXI3amJTSFRJOHN3MFh4bnhLb1RMVV9ZV1VxQXhNQkVNOTYyZzNPeFJ3ejZmUFBvMUJLTThsc3dkajNNMHhBdUxuRDJKb05HX0phVlNvSWN1NjJPSjI1M0VsVFZlenJLTE5TWUphU2tnS0xXeDU1azBtNEhoeGxuU0JTOW9MODhLWjNvdU1qd2VpNlE3VU9DODdCRjdLb3dLdXZTOG5IenZUcDM0R0ZGZFV4SXUzYUxBbjVyMDduSEdHYndhNml5SXNuUXNBc24xb0FB?oc=5",
-   "date": "Fri, 27 Nov 2026 12:00:00 GMT",
-   "vu_le": "2026-11-27T12:10:35.722419+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Crypto Market Outlook, 27 November 2026: Bitcoin Holds $61K After a Record ETF Outflow Month - Howl.Link",
-   "lien": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1NREUtZy1JMjZ3MFA1VmwwVDhmN3dNVk94U0c0S3V5djUwQmlRanhsM2tKMmVYZ1pDSXBZ?oc=5",
-   "date": "Fri, 27 Nov 2026 12:03:57 GMT",
-   "vu_le": "2026-11-27T12:10:35.722419+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Et si la Bourse était devenue le véritable moteur de l’économie? - allnews.ch",
-   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRjBqUXdtQ1RURUJXbG4tS1pIN2JJSDItMnFlcjNqR2d4ZXdLaWZ0WWRia2JsOV9JYmFHd25wQ1AyS2xiM1dLcjZhRDhnazFCdkhGRWN2TDIwWVBpUXhkZHNfSWVUd3FUa2Q5eDJVSU0xV3l5Yi1rZFhURXc1dmprRXQtX21oQkF6cjJtV2hxRGVXUnAwcm9JZmR5ZFpHQ2N5U19UalBlb3ZtcUk?oc=5",
-   "date": "Fri, 27 Nov 2026 08:53:13 GMT",
-   "vu_le": "2026-11-27T12:00:41.973506+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Tech rally lifts stock futures to wrap up a volatile week of trading - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQklySnhpQmRLWC1HSm5RX0RtY2IxbWx5NkpVSm5aMTdhNU9kWV9lLXNmeUR5aTVqWmNZU1FtS2R0V1A3SjRjY21oVEZJbTZpWjMyRlZ0RktNYkp1RzdtS1doZzZOZWd2NmhJcmU1WVU0Z1hTeWxzVGJEM3V5YWc3bUh4cl93QmlaY2xJcTRITDVHa01yNmV5U1hfd1llelNWc1dMSkY2aXfSAa4BQVVfeXFMTjRpQ2Zaa2RQM0V4VmdqYUxMY2E5bTAtbW53RTNjaHRxYzFXNnBqREZfMmJ1dWc2Tld1SndTd3ZQcUc0Z0k0M3NKcXRiN1d1TXprVTI3VTBtUDBvUzh3SU5xUFI0TElDQzMyUEdiT2I0ZWNUa3B6WEZheHNhTmducFJiOHJKMEpuWThWZVlCTHBONWQ0RUlNc0NkbXJWaU1adWJDMnJkZW5DTmV1UVVB?oc=5",
-   "date": "Fri, 27 Nov 2026 11:55:41 GMT",
-   "vu_le": "2026-11-27T12:00:41.973506+00:00"
   }
  ],
- "erreurs": [
-  "actu Banques centrales et taux: HTTP Error 429: Too Many Requests"
- ]
+ "erreurs": []
 }
