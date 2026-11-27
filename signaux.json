@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-27T22:40:36.201875+00:00",
+ "mis_a_jour": "2026-11-27T22:50:35.844882+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54566.31,
+   "prix": 54651.09,
    "devise": "EUR",
-   "jour_pct": -1.07,
-   "mois_pct": -24.8,
-   "volume": 156.31761365,
-   "volume_relatif": 0.71,
+   "jour_pct": -0.91,
+   "mois_pct": -24.68,
+   "volume": 156.98314982,
+   "volume_relatif": 0.72,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -331,14 +331,14 @@
    {
     "symbole": "OTC:BOLSY",
     "nom": "B3 SA - Brasil, Bolsa, Balcao Unsponsored ADR",
-    "prix": 9.14,
+    "prix": 9.11,
     "devise": "USD",
-    "jour_pct": 19.63,
-    "mois_pct": 9.07,
-    "volume": 614008,
+    "jour_pct": 19.24,
+    "mois_pct": 8.71,
+    "volume": 612008,
     "volume_relatif": 1.16,
     "capitalisation": 13865439736.314001,
-    "per": 14.0,
+    "per": 13.9,
     "bourse": "OTC",
     "secteur": "Finance"
    }
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRHY2ZE9lLW12cUJlSXZvLU12QWFGcjBQQkdxYkFucGV5Ukx6ekExSVR0Wi1pWVhybjVnSWpCcFN2R0hTcFBMTFJGMnd3Ym51T0lZd0RjaWFYYnljZmI2blA4dFlvV1BfWG0yRl9KQ1g3N2luWHlmRWo2SkdtUEhneEptdVZodzhyVWlNcVRpdl82VVFxWWx1QUFmUGV6bDJXVTF2RlB6eE1fT2pZVElTQXFMSVRPampzWlVJWTlYMGFfcXNrX0VwemNCZ3J0WXVKenhwejZoOEYtZEZ0dFZPU09ZUzVaaXZGRENQOXZNcjVVTWNvOVdvSlJYRzk4Z21wMnhxMjRmN19aYTNz?oc=5",
+   "date": "Fri, 27 Nov 2026 22:41:15 GMT",
+   "vu_le": "2026-11-27T22:50:35.844882+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "AI and Chip Stocks Draw Bargain Hunters: Nasdaq Jumps 2.3%, Up 6.7% for the Week - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxZjUybkgtdG9FaGoyY0lKU29DRHQyUUh4N1VxR1RXcVpnVlViNFhrSjl0dnd0d1VzbnUzWWdWalpINWVqQmRHZ3FFdnNuRE9TVVFmLTN0SmJDZDU0SzlOQzdFT3Z1NGQ4ejR4OTFfeW1nOUxZSGc?oc=5",
+   "date": "Fri, 27 Nov 2026 22:05:00 GMT",
+   "vu_le": "2026-11-27T22:50:35.844882+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Earnings Beat Could Change The Case For CMC Markets Stock - Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXkzVnc1emwzUXdtMHA2eWVfc0I4TURyN29fWEpLUVg1aFlJenluUFdZckNyU0tZbDFtOHZPNXRDcG0yaGM0cFRTR3Fqc0pCSDlXZWFIczlmVmFXN2FuV0wzbDFQQTdFYnVBN1VWMS1scDVGNWY4U2xvUXk3Z1ctUHJzLUNFWGs?oc=5",
+   "date": "Fri, 27 Nov 2026 21:15:25 GMT",
+   "vu_le": "2026-11-27T22:50:35.844882+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Indonesia Arrests Three in Alleged PT Dian Swastatika Sentosa Stock-Manipulation Case - Briefs Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa0FweEF1bDVqOXJibXB5dzhKOVlCRk00X2NYbWVaaTM3bXhRbjd0VU5ueGJZZzUyVjVka1JrRklGM0d1X1N4X1JIWkwxdUY5VDVQeU5SRWRBcXhsb3RKMWNuZ1IydldFWjZLRTJuR1h2VWEzZFhaSFZUeTh4T0J5WFlwbGhGUk1hMEtmS1lGM2V2dw?oc=5",
+   "date": "Fri, 27 Nov 2026 11:19:48 GMT",
+   "vu_le": "2026-11-27T22:50:35.844882+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "Global stocks rise, key indices on track, while India bucks the trend - The New Indian Express",
@@ -6426,34 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHN3SDJoc1Vmanczci13a3V1VFhRZ3U3Zkc2d2g4N3BoSEczZFQwSGdpUG1vV3J5a3ptUEVSZXU0aWFIV05sTUZfVVQ3NVppUHYwYl9CdkJtWVlwa3NhTjBudEN2LXlkVUxtTEtFdGJmaEZwRTE4NUJRc3pCYjRha25nVnppNWxraklWWjR5S3JOaVI4dnA4SHBLVkRScll2SDZ3bVBfVGpITGdqRTJoZlpua1kydw?oc=5",
    "date": "Fri, 27 Nov 2026 11:33:09 GMT",
    "vu_le": "2026-11-27T11:40:35.695770+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic stock sparks rare divide at company - The Star",
-   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnVXU0NFbWtUWWFkQUYzUGI1V2tNXzlpOUlWOFVENGJsQ0lfREFzc2xSX2ExRTd6TG82SURHdnNmdmpzdmZrYnFYRVJ1SXdWYWZ5a0hDTnFQclJ4eEItdW9IdVpPLWg5YzV6Z05TRkxNOGN1WVpkSld2TE1zaGw5Nk1nYnQ5YzlTRnQwQ1h3TUV5QzlpU2FOeDBnNTlhM3V6UlVVN2pXNzF5QQ?oc=5",
-   "date": "Thu, 26 Nov 2026 23:44:27 GMT",
-   "vu_le": "2026-11-27T11:30:36.296669+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Les Bourses européennes rebondissent légèrement pour le Black Friday - Zonebourse",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNU0zZTZFbVNyYXJ3cmoxNGVOU05ZVkNMcFFXcmxFX3JOeE9IS0VWQmVSelVuRDc0X1Y2Qm9xYTczd2RMdE9ucmpjcGpXck90bUlrTVo2MHU3dkdXY0FnVm51NXFqS3pSeFFJbEdnNnJEdTczY0wyOEVLVVgxVnIxRHQxZExYeTdkbGpVM1JlRjNKNDNSNkRUTnBEekZlZm5HNnR6UFV1ZmtlUU1rYWs1UC01U0ZGLTBqeC1TRnpkMTZnc2VtM1o4ag?oc=5",
-   "date": "Fri, 27 Nov 2026 11:24:23 GMT",
-   "vu_le": "2026-11-27T11:30:36.296669+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "L'Europe ouvre dans le vert alors que s'achève la pause de Thanksgiving - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObXlNRmVNMkhRTEVKVnNNaHlaUnBZMkZPeGtUMDBXRzJwNzZiMFh6UDJINmVpMlJQZHgwSTlTQnBSRTR1YU9GNjFUaE5OWWxFQ25VQV9aZkVXcVZHcEpaQ2RSUm1kS1RKNVR5Y1dub2taWS1sN3FwTDhfdWMzU0xvUm5kcmZoQ19vSVNmR1J5UDlKWVpRMGdRLXliekQtTzgtNzFjWFM5ZEFSekx5LTl3Nk0zQ29PdHJ6QUE5Tk5WbFpZejFYdTRCX1JIQ1dRcnQxenpybjkzaHZkX1U1RkFUaXJMVGQzMWxP0gHoAUFVX3lxTE5teU1GZU0ySFFMRUpWc01oeVpScFkyRk94a1QwMFdHMnA3NmIwWHpQMkg2ZWkyUlBkeDBJOVNCcFJFNHVhT0Y2MVRoTk5ZbEVDblVBX1pmRVdxVkdwSlpDZFJSbWRLVEo1VHljV25va1pZLWw3cXBMOF91YzNTTG9SbmRyZmhDX29JU2ZHUnlQOUpZWlEwZ1EteWJ6RC1POC03MWNYUzlkQVJ6THktOXc2TTNDb090cnpBQTlOTlZsWll6MVh1NEJfUkhDV1FydDF6enJuOTNodmRfVTVGQVRpckxUZDMxbE8?oc=5",
-   "date": "Fri, 27 Nov 2026 08:49:32 GMT",
-   "vu_le": "2026-11-27T11:30:36.296669+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Asian stocks rally as China, South Korea signal market support - Malay Mail",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0dhTFZRdkk2UnhvWjAyRG5ZMXlRMFRhYnVJOGszbmlFbDBRNE9Xc3dHOGlFMmtFNVY0T3BOYkI2bXRGNW1BSnlTSmEtUEtwdkpVTmJoWFo5RlpCQXQxQzA5bm9BRVFSNk95S1dsajZxZ1JIaGZDakdaN29DaElHMnN3VzV0QWdUX190ak9LOEhzZjVOX1pwdm82MEFPMEY4aTFfOVVDNmc0TTk4WXhOWl90d0kyLUxKRFZNbdIBvAFBVV95cUxPc0dhTFZRdkk2UnhvWjAyRG5ZMXlRMFRhYnVJOGszbmlFbDBRNE9Xc3dHOGlFMmtFNVY0T3BOYkI2bXRGNW1BSnlTSmEtUEtwdkpVTmJoWFo5RlpCQXQxQzA5bm9BRVFSNk95S1dsajZxZ1JIaGZDakdaN29DaElHMnN3VzV0QWdUX190ak9LOEhzZjVOX1pwdm82MEFPMEY4aTFfOVVDNmc0TTk4WXhOWl90d0kyLUxKRFZNbQ?oc=5",
-   "date": "Fri, 27 Nov 2026 10:46:36 GMT",
-   "vu_le": "2026-11-27T11:30:36.296669+00:00"
   }
  ],
  "erreurs": []

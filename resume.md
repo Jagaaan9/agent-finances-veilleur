@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54566.31 EUR, jour -1.07 %, mois -24.8 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54651.09 EUR, jour -0.91 %, mois -24.68 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -26,7 +26,7 @@ POSITIONS ET INDICES :
 - Arqit Quantum Inc. (NASDAQ:ARQQ, secteur Technology Services) jour 24.12 %, mois -23.53 %, prix 13.765 USD, capi 239544183.70378724, PER None, volume x2.79 la normale
 - Cosan S.A. Sponsored ADR (OTC:CSANY, secteur Utilities) jour 23.5 %, mois 46.7 %, prix 2.89 USD, capi 2684552500.0810003, PER None, volume x6.52 la normale
 - T1 Energy Inc. (NYSE:TE, secteur Producer Manufacturing) jour 20.0 %, mois -47.41 %, prix 1.32 USD, capi 396794030.40000004, PER None, volume x0.42 la normale
-- B3 SA - Brasil, Bolsa, Balcao Unsponsored ADR (OTC:BOLSY, secteur Finance) jour 19.63 %, mois 9.07 %, prix 9.14 USD, capi 13865439736.314001, PER 14.0, volume x1.16 la normale
+- B3 SA - Brasil, Bolsa, Balcao Unsponsored ADR (OTC:BOLSY, secteur Finance) jour 19.24 %, mois 8.71 %, prix 9.11 USD, capi 13865439736.314001, PER 13.9, volume x1.16 la normale
 
 ÉCRAN États-Unis : plus fortes baisses :
 - China Rare Earth Holdings Limited (OTC:CREQF, secteur Non-Energy Minerals) jour -99.4 %, mois -40.0 %, prix 0.0003 USD, capi 249164874.53868002, PER None, volume x11.65 la normale
@@ -288,8 +288,8 @@ POSITIONS ET INDICES :
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3349039139769.5396, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3344306225492.11, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1559025893850, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655656154.782, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700462317.067, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,10 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
+- [Intelligence artificielle] AI and Chip Stocks Draw Bargain Hunters: Nasdaq Jumps 2.3%, Up 6.7% for the Week - BigGo Finance
+- [Résultats d'entreprises] Earnings Beat Could Change The Case For CMC Markets Stock - Yahoo Finance UK
+- [Pays émergents] Indonesia Arrests Three in Alleged PT Dian Swastatika Sentosa Stock-Manipulation Case - Briefs Finance
 - [Chine et Asie] Global stocks rise, key indices on track, while India bucks the trend - The New Indian Express
 - [Rachats et fusions] Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank - Quantisnow
 - [Crypto] XRP price at Dec 4, 2026 at 5pm EST Crypto Prediction Market - Robinhood
@@ -455,8 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Pays émergents] What's Going on with MercadoLibre Shares on Friday? - Benzinga
 - [Bourse de Paris et Europe] STELLANTIS Cours Action STLAP, Cotation Bourse Euronext Paris - Boursorama
 - [Bourse de Paris et Europe] L'Europe finit dans le vert, se redresse après des jours agités - Zonebourse
-- [Banques centrales et taux] Le rebond du dollar australien s’essouffle, les anticipations d’une Fed restrictive soutenant le dollar américain - www.tmgm.com
-- [Rachats et fusions] Intermex Sues Western Union to Enforce $16.00 Per Share Merger Agreement - FF News
-- [Petites valeurs en croissance] Why Did A Coherent (COHR) Director Triple Their Stake? - Simply Wall St
-- [Petites valeurs en croissance] Is Cipher Digital (CIFR) Undervalued After Its Texas Policy Scare? - Yahoo Finance
-- [Petites valeurs en croissance] Inter & Co (NASDAQ:INTR) Stock: Bank Ral
+- [Banques centrales et taux] Le rebond du dollar australien s’
