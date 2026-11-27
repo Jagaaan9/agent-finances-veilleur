@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-27T23:10:35.446141+00:00",
+ "mis_a_jour": "2026-11-27T23:20:36.476113+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54646.96,
+   "prix": 54655.86,
    "devise": "EUR",
-   "jour_pct": -0.92,
-   "mois_pct": -24.69,
-   "volume": 158.17873599,
+   "jour_pct": -0.9,
+   "mois_pct": -24.67,
+   "volume": 158.33979999,
    "volume_relatif": 0.72,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 834986797,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 834986797,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Crypto",
+   "titre": "3 Cryptos Under $1 to Buy and Hold for the Next 10 Years - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWTRTa2huanJndVpkN29RcVZsR3hWQ3hXR29hZnZRQ3pWMkRfdmI2RDA2NERJSEhsNXNUM2JNLWV6UFg5dktVR1lyeDdlbmNvRG14dmx1a0NGWENibVA3cl9CRUhJc1RmRUtsbmV6d3VNcjJXSzVQZGJ5WUwxX2I3dGxvMEZaR2JPU0ttaTZIQUpBUjFWbVVlXzA3VDZCTUJlN3gzemNkRXV3aE9keGg5SW1raC0?oc=5",
+   "date": "Fri, 27 Nov 2026 23:05:00 GMT",
+   "vu_le": "2026-11-27T23:20:36.476113+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "[Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제",
@@ -6446,13 +6453,6 @@
    "titre": "BOUYGUES Cours Action EN, Cotation Bourse Euronext Paris - Boursorama",
    "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FRnRQY2lqUkxRT3htOEdjOEJvZDUzVk11MnVaWG4xQVU1aHczaFBQcXIyMFZyNF81T0YxYWtLSzZDVVZ2UC00bmVLOV9tUXlp?oc=5",
    "date": "Fri, 27 Nov 2026 04:23:47 GMT",
-   "vu_le": "2026-11-27T11:50:36.965832+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China's chip stocks post record 17.6% one-day gain on state support pledge - MLQ.ai",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYTVkUkdrQ3VtWVN4cXBLU09QNmwtZzJmMnhVRnA2THZLMC1sTms1ZmZDRjBfZy1hUlNWSXZvdmRieXQ0ZS1seHJxWXc2UEhTVk5yZmY4NTJUMHA5QjVtWHJVR2FIX002aWJVYjk3cFliOGtSeXdzc1NEX1RicDZ2S2ktamxnUVRhWDYtUUNvclhGUXlZUzZN?oc=5",
-   "date": "Fri, 27 Nov 2026 11:44:49 GMT",
    "vu_le": "2026-11-27T11:50:36.965832+00:00"
   }
  ],
