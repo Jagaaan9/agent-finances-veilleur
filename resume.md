@@ -13,15 +13,15 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54577.59 EUR, jour -1.05 %, mois -24.78 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54549.39 EUR, jour -1.1 %, mois -24.82 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
-- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x93.47 la normale
+- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x93.58 la normale
 - ECARX Holdings, Inc. (NASDAQ:ECX, secteur Technology Services) jour 37.96 %, mois -2.77 %, prix 0.8069 USD, capi 287858465.4896563, PER None, volume x1.46 la normale
 - Deep Fission, Inc. (NASDAQ:FISN, secteur Producer Manufacturing) jour 34.28 %, mois 39.71 %, prix 3.8 USD, capi 223856442.40282682, PER None, volume x0.88 la normale
 - Northwest Biotherapeutics, Inc. (OTC:NWBO, secteur Health Technology) jour 34.05 %, mois 47.24 %, prix 0.2378 USD, capi 430886616.1330327, PER None, volume x1.8 la normale
-- SEALSQ Corp. (NASDAQ:LAES, secteur Electronic Technology) jour 28.04 %, mois -17.47 %, prix 1.37 USD, capi 316373801.67289716, PER None, volume x2.68 la normale
+- SEALSQ Corp. (NASDAQ:LAES, secteur Electronic Technology) jour 28.04 %, mois -17.47 %, prix 1.37 USD, capi 316373801.67289716, PER None, volume x2.7 la normale
 - Powerus Corporation (NASDAQ:PUSA, secteur Electronic Technology) jour 25.57 %, mois -28.39 %, prix 1.375 USD, capi 234903196.80365297, PER None, volume x1.11 la normale
 - Arqit Quantum Inc. (NASDAQ:ARQQ, secteur Technology Services) jour 24.12 %, mois -23.53 %, prix 13.765 USD, capi 239544183.70378724, PER None, volume x2.79 la normale
 - Cosan S.A. Sponsored ADR (OTC:CSANY, secteur Utilities) jour 23.5 %, mois 46.7 %, prix 2.89 USD, capi 2684552500.0810003, PER None, volume x6.52 la normale
@@ -33,7 +33,7 @@ POSITIONS ET INDICES :
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109547.498471, PER 5.1, volume x99.36 la normale
 - CGN Mining Co. Ltd. (OTC:CGNMF, secteur Non-Energy Minerals) jour -18.15 %, mois -20.0 %, prix 0.2 USD, capi 1520136532.3839011, PER 27.1, volume x8.96 la normale
 - SaverOne 2014 Ltd. ADR (NASDAQ:SVRE, secteur Technology Services) jour -16.33 %, mois 5.13 %, prix 1.23 USD, capi 324874770.62382996, PER None, volume x0.03 la normale
-- LiveWire Group, Inc. (NYSE:LVWR, secteur Consumer Durables) jour -16.08 %, mois -2.34 %, prix 1.67 USD, capi 343040797.5979899, PER None, volume x0.14 la normale
+- LiveWire Group, Inc. (NYSE:LVWR, secteur Consumer Durables) jour -16.08 %, mois -2.34 %, prix 1.67 USD, capi 343040797.5979899, PER None, volume x0.15 la normale
 - Oatly Group AB Sponsored ADR (NASDAQ:OTLY, secteur Consumer Non-Durables) jour -13.62 %, mois 41.59 %, prix 13.89 USD, capi 513154220, PER None, volume x0.26 la normale
 - Alvotech (NASDAQ:ALVO, secteur Health Technology) jour -12.35 %, mois -22.64 %, prix 3.69 USD, capi 1317699034.182898, PER None, volume x2.12 la normale
 - VNET Group, Inc. Sponsored ADR (NASDAQ:VNET, secteur Technology Services) jour -10.92 %, mois -51.71 %, prix 1.835 USD, capi 597315085, PER None, volume x0.75 la normale
@@ -46,7 +46,7 @@ POSITIONS ET INDICES :
 - COSCO SHIPPING Holdings Co., Ltd. Class H (OTC:CICOF, secteur Transportation) jour 0 %, mois 2.38 %, prix 2.15 USD, capi 38872892481.128174, PER 8.7, volume x197.93 la normale
 - Imdex Ltd (OTC:IMDXF, secteur Distribution Services) jour 2.92 %, mois 2.92 %, prix 2.29 USD, capi 1191447861.163522, PER 22.4, volume x107.38 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109547.498471, PER 5.1, volume x99.36 la normale
-- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x93.47 la normale
+- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x93.58 la normale
 - Ascletis Pharma, Inc. (OTC:ASCLF, secteur Health Technology) jour 16.75 %, mois -19.21 %, prix 0.5817 USD, capi 611310187.1515287, PER None, volume x58.1 la normale
 - Sitios Latinoamerica SAB de CV (OTC:SLCVF, secteur Industrial Services) jour 1.6 %, mois -15.44 %, prix 0.3298 USD, capi 1569199654.2495744, PER None, volume x37.18 la normale
 - Singapore Airlines Ltd. (OTC:SINGF, secteur Transportation) jour 3.96 %, mois 9.01 %, prix 5.51 USD, capi 17373957962.02482, PER 20.6, volume x28.71 la normale
@@ -288,8 +288,8 @@ POSITIONS ET INDICES :
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3349039139769.5396, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3344306225492.11, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1559025893850, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655656154.782, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700462317.067, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,9 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
+- [Marchés mondiaux] Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - The Motley Fool
+- [Intelligence artificielle] Wall Street ends higher as battered AI stocks gain in volatile week - Reuters
 - [Anthropic] Anthropic Stock Is Up 11% From Its IPO Price, and One Analyst Still Sees 63% Upside. Should You Buy? - Yahoo Finance
 - [Anthropic] Is Anthropic Stock a Buy Before Its Dec. 15 Share Unlock? - The Globe and Mail
 - [Bourse de Paris et Europe] Wall Street clôture en hausse une semaine particulièrement nerveuse - Bourse Direct
@@ -456,7 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Bourse de Paris et Europe] L'Europe finit dans le vert, se redresse après des jours agités - Zonebourse Suisse
 - [Bourse de Paris et Europe] Les Bourses européennes terminent dans le vert - Zonebourse Suisse
 - [Banques centrales et taux] La livre sterling progresse, le ton restrictif de la BoE contrebalançant les anticipations de hausse des taux de la Fed - www.tmgm.com
-- [Intelligence artificielle] Bankers in Asia Face an AI Financing Hangover - Bloomberg.com
-- [Résultats d'entreprises] Versigent (NYSE:VGNT) - Stock Analysis - Simply Wall St
-- [Pays émergents] Stock market in risk-on mode! Why HSBC is overweight on India - Business Today
-- [Crypto] Cryptocurrency is now legal: what comes next? - Ukrinform
+- [Intelligence artificielle] Bankers in Asia Face an AI F
