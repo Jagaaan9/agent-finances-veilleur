@@ -12,16 +12,16 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3606.4868 , jour 3.73 %, mois -1.92 %
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09337 USD, jour -0.32 %, mois -1.96 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54642.48 EUR, jour -0.93 %, mois -24.66 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.0931899999999999 USD, jour -0.34 %, mois -1.98 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54686.67 EUR, jour -0.85 %, mois -24.63 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
-- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x92.99 la normale
+- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x93.06 la normale
 - ECARX Holdings, Inc. (NASDAQ:ECX, secteur Technology Services) jour 37.96 %, mois -2.77 %, prix 0.8069 USD, capi 287858465.4896563, PER None, volume x1.46 la normale
 - Deep Fission, Inc. (NASDAQ:FISN, secteur Producer Manufacturing) jour 34.28 %, mois 39.71 %, prix 3.8 USD, capi 223856442.40282682, PER None, volume x0.88 la normale
 - Northwest Biotherapeutics, Inc. (OTC:NWBO, secteur Health Technology) jour 34.05 %, mois 47.24 %, prix 0.2378 USD, capi 430886616.1330327, PER None, volume x1.8 la normale
-- SEALSQ Corp. (NASDAQ:LAES, secteur Electronic Technology) jour 28.04 %, mois -17.47 %, prix 1.37 USD, capi 316373801.67289716, PER None, volume x2.57 la normale
+- SEALSQ Corp. (NASDAQ:LAES, secteur Electronic Technology) jour 28.04 %, mois -17.47 %, prix 1.37 USD, capi 316373801.67289716, PER None, volume x2.6 la normale
 - Powerus Corporation (NASDAQ:PUSA, secteur Electronic Technology) jour 25.57 %, mois -28.39 %, prix 1.375 USD, capi 234903196.80365297, PER None, volume x1.11 la normale
 - Arqit Quantum Inc. (NASDAQ:ARQQ, secteur Technology Services) jour 24.12 %, mois -23.53 %, prix 13.765 USD, capi 239544183.70378724, PER None, volume x2.78 la normale
 - Cosan S.A. Sponsored ADR (OTC:CSANY, secteur Utilities) jour 23.5 %, mois 46.7 %, prix 2.89 USD, capi 2684552500.0810003, PER None, volume x6.52 la normale
@@ -46,7 +46,7 @@ POSITIONS ET INDICES :
 - COSCO SHIPPING Holdings Co., Ltd. Class H (OTC:CICOF, secteur Transportation) jour 0 %, mois 2.38 %, prix 2.15 USD, capi 38872892481.128174, PER 8.7, volume x197.93 la normale
 - Imdex Ltd (OTC:IMDXF, secteur Distribution Services) jour 2.92 %, mois 2.92 %, prix 2.29 USD, capi 1191447861.163522, PER 22.4, volume x107.38 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109547.498471, PER 5.1, volume x99.36 la normale
-- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x92.99 la normale
+- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x93.06 la normale
 - Ascletis Pharma, Inc. (OTC:ASCLF, secteur Health Technology) jour 16.75 %, mois -19.21 %, prix 0.5817 USD, capi 611310187.1515287, PER None, volume x58.1 la normale
 - Sitios Latinoamerica SAB de CV (OTC:SLCVF, secteur Industrial Services) jour 1.6 %, mois -15.44 %, prix 0.3298 USD, capi 1569199654.2495744, PER None, volume x37.18 la normale
 - Singapore Airlines Ltd. (OTC:SINGF, secteur Transportation) jour 3.96 %, mois 9.01 %, prix 5.51 USD, capi 17373957962.02482, PER 20.6, volume x28.71 la normale
@@ -85,10 +85,10 @@ POSITIONS ET INDICES :
 - Sandisk Corporation (XETR:BW9, secteur Electronic Technology) jour 13.33 %, mois -48.59 %, prix 76.5 EUR, capi 76404561536.63785, PER 5.6, volume x1.39 la normale
 - Sandisk Corporation (TRADEGATE:BW9, secteur Electronic Technology) jour 13.04 %, mois -47.15 %, prix 78 EUR, capi 76404561536.63785, PER 5.7, volume x1.3 la normale
 - Plug Power Inc. (TRADEGATE:PLUN, secteur Electronic Technology) jour 11.58 %, mois -16.22 %, prix 1.06 EUR, capi 1358462427.50848, PER None, volume x0.88 la normale
-- Plug Power Inc. (GETTEX:PLUN, secteur Electronic Technology) jour 11.1 %, mois -15.54 %, prix 1.0666 EUR, capi 1358462427.50848, PER None, volume x0.69 la normale
 - Plug Power Inc. (XETR:PLUN, secteur Electronic Technology) jour 10.88 %, mois -17.78 %, prix 1.0524 EUR, capi 1358462427.50848, PER None, volume x1.14 la normale
 - Lenovo Group Limited (TRADEGATE:LHL, secteur Electronic Technology) jour 9.22 %, mois -21.14 %, prix 2.145 EUR, capi 25048288900.07692, PER None, volume x0.71 la normale
 - NEL ASA (GETTEX:D7G, secteur Producer Manufacturing) jour 8.95 %, mois -6.42 %, prix 0.1778 EUR, capi 304581336.91844475, PER None, volume x0.24 la normale
+- Plug Power Inc. (GETTEX:PLUN, secteur Electronic Technology) jour 8.94 %, mois -17.18 %, prix 1.0458 EUR, capi 1358462427.50848, PER None, volume x0.69 la normale
 - Anthropic, PBC Class A (TRADEGATE:1ANT, secteur Technology Services) jour 8.18 %, mois -18.89 %, prix 83.95 EUR, capi 1009067665063.6465, PER None, volume xNone la normale
 - Intrum AB (TRADEGATE:IJU, secteur Commercial Services) jour 8.15 %, mois 14.45 %, prix 0.1711 EUR, capi 502212665.8072546, PER None, volume x0.75 la normale
 - Almonty Industries Inc. (TRADEGATE:ALI1, secteur Non-Energy Minerals) jour 7.82 %, mois -22.97 %, prix 6.702 EUR, capi 1761761686.180107, PER 27.8, volume x0.83 la normale
@@ -226,8 +226,8 @@ POSITIONS ET INDICES :
 - IX Knowledge Incorporated (TSE:9753, secteur Commercial Services) jour 0.9 %, mois -5.09 %, prix 1342 JPY, capi 12613998051, PER 7.4, volume x8.8 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 834986797, PER 28.6, volume x17.7 la normale
+- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (BSE:GOYALALUM, secteur Distribution Services) jour 20 %, mois 26.49 %, prix 7.02 INR, capi 834986797, PER 29.1, volume x52.33 la normale
 - Waaree Renewable Technologies Ltd (NSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 23.4 %, prix 825.7 INR, capi 71797243279, PER 18.5, volume x233.67 la normale
 - Waaree Renewable Technologies Ltd (BSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 22.52 %, prix 825.4 INR, capi 71797243279, PER 18.5, volume x128.17 la normale
@@ -310,6 +310,11 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] L'analyste le plus optimiste sur Anthropic vise... 300 USD !... - Fortuneo
+- [Intelligence artificielle] SA Asks: What's the best-positioned chip stock right now? (AMD:NASDAQ) - Seeking Alpha
+- [Intelligence artificielle] Neocloud firms face tighter terms than Nvidia’s old 50% AI chip cutoff - Yahoo Finance
+- [Rachats et fusions] VEEE: SEC Form 425 filed by Twin Vee PowerCats Co. - Quantisnow
+- [Défense, énergie, matières premières] Canada Is Boosting Defence Spending – The TSX Stock Worth Buying Now - The Motley Fool Canada
 - [Anthropic (FR)] Bitcoin : Le cours chute sous les 59 000 dollars alors qu’Anthropic rebondit en Bourse - TradingView
 - [Marchés mondiaux] Brazilian markets rally after Lula taps Bradesco chairman for finance chief - Yahoo Finance
 - [Pays émergents] Emerging markets grew. Their investors didn't. Brazil is fixing that - IT Brief New Zealand
@@ -455,10 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] L'entrée en Bourse d'Anthropic rapporte 93,5 milliards de dollars bruts - Mediaterranee.com
 - [Anthropic (FR)] L’intérêt des vendeurs à découvert pour Anthropic grimpe avant l’expiration du lockup - Investing.com France
 - [Bourse de Paris et Europe] CAC 40 : La Bourse de Paris finit sur une note positive, le verdict de S&P sur la France est imminent - Zonebourse
-- [Banques centrales et taux] BCE : Pablo Hernández de Cos choisi pour succéder à Christine Lagarde - TIME France
-- [Banques centrales et taux] Arthur Hayes met en garde contre le marché crypto à l’approche du silence de la Fed - BeInCrypto
-- [Intelligence artificielle] AMD Stock Rises Over 2% as Chipmakers Rebound Despite AI Export, Security Scrutiny - Benzinga
-- [Pays émergents] Coca-Cola (KO) Hands 75% Of Its African Bottler To A Bigger Franchise Partner - Yahoo Finance
-- [Crypto] Russia's VTB Opens Bitcoin Trading After Crypto Test Rules - Bitcoin Magazine
-
-Sources indisponibles ce passage : 2 (exemple : actu Petites valeurs en croissance: HTTP Error 429: Too Many Requests)
