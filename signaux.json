@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-27T22:50:35.844882+00:00",
+ "mis_a_jour": "2026-11-27T23:00:35.269842+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54651.09,
+   "prix": 54566.01,
    "devise": "EUR",
-   "jour_pct": -0.91,
-   "mois_pct": -24.68,
-   "volume": 156.98314982,
+   "jour_pct": -1.07,
+   "mois_pct": -24.8,
+   "volume": 157.24945043,
    "volume_relatif": 0.72,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 834986797,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 834986797,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "[Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제",
+   "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93XzEtbjQtSTRCUjhNRFE1Ym5GZnRXR09nOXFfVVNpcEp1ZXEzb1B0Y1ZhQWVSREZfdUJjOXg4QXhSVHpLanp3VERHTkVsYm1ZZnlaUlo5bGwwdGN3Y3FKOHAyWlQ?oc=5",
+   "date": "Fri, 27 Nov 2026 22:50:00 GMT",
+   "vu_le": "2026-11-27T23:00:35.269842+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "enCore Energy Gets Nasdaq Bid-Price Warning, Amends Verdera Deal - kalkine.com",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMTNnclpXSFhqLVRqbG83SGdsUGRzZnpiTnloaGpnWDFMeUxfanJhZUVzbnRENWpPWDNHVEtjbjdfejFwSmdvV3lrempwSVpITTJHNVpQYWRqV1E1LW1BaDhoanJJZVhwdDJnMVBHTThwQWxYb0dwZ1lIUzNzajJSUXlPQTdFMFJITlpDa0ZYUmNJdnFHTU1mVm1kODdldUt4N1h2Rg?oc=5",
+   "date": "Fri, 27 Nov 2026 21:27:35 GMT",
+   "vu_le": "2026-11-27T23:00:35.269842+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin's Thanksgiving Rally Unravels as $7B Options Expiry Rocks Markets - Bitcoin News",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOUVhLUE0R1FhNXNwaVA2Ty15NEhzWXVFN0ktenh3cEFsZE9Zdk1NUkxGaFJXM3IwbzFweDlnbkRwX0hPVUxUN0syd0lTNXJyUFZTMnBIZVhDMjl5RDhsbFYtR3dQZTV4eTVsdmxFRmxuTE4yTGFyMXBpNXlUWjE1bFM5cXkwd1JPTElPZzJtbmQ1MHF4bjYtXzZBR1ZRU3FqMmdqeXJIRTQwZmw5VTl1X1V3?oc=5",
+   "date": "Fri, 27 Nov 2026 17:37:36 GMT",
+   "vu_le": "2026-11-27T23:00:35.269842+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail",
@@ -6433,27 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbzRyMXdoa2NPT0RyTnMwUDhnbUtHVXc0N05lZk1zLTQxZ19nRTZYZm43RUM4Ymt5d0hDSDZVNExIR3ZoVFZ1YjRtMXZBbHdtT3E1TEh3cWpyZmJTZW1jMkh3a3ZLUU1vc1B2X25GdURkZ1ltTW9BQVZMY0xpckZkbWM4VmpWQlJPaDM5V09oRnVIUndBZDJZR2lxbEhVMWJpelliUmx1WVUxRUh1dHV3alZQUkJvak1uQXlTal9JTQ?oc=5",
    "date": "Fri, 27 Nov 2026 11:45:47 GMT",
    "vu_le": "2026-11-27T11:50:36.965832+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Les contrats à terme sur le Nasdaq s'envolent alors que les investisseurs se ruent à nouveau sur les valeurs d - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPeElEV0p5cjYtbUdpMW5OemVGTC0tUkRoM1B6c0YzdnhfcGs3RHFnWmFqcU52RjJJUWNYSmNvckFsN3ZoeUtFQ1FmQ2s0am5id2FSTko2Z2xOOFQ5dF81WjRudS04TXhEYmxIWWloZmZGcEpsYllHZHNWMnJKWXFGNWhjSjhzQ0FzVmQwTXdLZWtHdU5Za292Y1kyQS1YUEZBU0ptUXk3czJGYzBjUEktSU16NzZrRW9WNkNOVjFZYmVoaDNFdkZfeFducDZOTTZ4SDYzWGFybk5hWFFXakxPVE9xcFVHUWdLSVhOalNjeDFNdnMtUV9wNnFSNGxyWk5IRXNGYVJGUzhOM25JUy1oaVd2Z3J0bmJSZVEwQ3Ewc0ZmangxNzhIZEpNakNGUVF4YU82b3FpOFB3LU1aSHlZUzJ4VUdpY2vSAccCQVVfeXFMT3hJRFdKeXI2LW1HaTFuTnplRkwtLVJEaDNQenNGM3Z4X3BrN0RxZ1phanFOdkYySVFjWEpjb3JBbDd2aHlLRUNRZkNrNGpuYndhUk5KNmdsTjhUOXRfNVo0bnUtOE14RGJsSFlpaGZmRnBKbGJZR2RzVjJySllxRjVoY0o4c0NBc1ZkME13S2VrR3VOWWtvdmNZMkEtWFBGQVNKbVF5N3MyRmMwY1BJLUlNejc2a0VvVjZDTlYxWWJlaGgzRXZGX3hXbnA2Tk02eEg2M1hhcm5OYVhRV2pMT1RPcXBVR1FnS0lYTmpTY3gxTXZzLVFfcDZxUjRsclpOSEVzRmFSRlM4TjNuSVMtaGlXdmdydG5iUmVRMENxMHNGZmp4MTc4SGRKTWpDRlFReGFPNm9xaThQdy1NWkh5WVMyeFVHaWNr?oc=5",
-   "date": "Fri, 27 Nov 2026 09:48:37 GMT",
-   "vu_le": "2026-11-27T11:40:35.695770+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Take Five : Un mois de décembre inoubliable - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSERiTl9SaWh2NUNMbkZnZGRnN3dqMmdWYU1lc05VbmpnbFFKLXJRSHdxcXhET2d5SE0wYnFnYm1iMEdNVVBHdk5YeVJCMmZLWm9Ldm9rYmhEWlprLW55aHRyb0lPTWMtYzJpbmMwT3FkekpoaVlXNWpCVXdvdUMzcEhnM1RENXJGVXI0X1oxRlluZzJOOC11cnNkQUs3b00xYlB0M2xic0RKem51dE9jSFp1Z05jT0hYYm5GS3hGd2TSAcABQVVfeXFMT0hEYk5fUmlodjVDTG5GZ2RkZzd3ajJnVmFNZXNOVW5qZ2xRSi1yUUh3cXF4RE9neUhNMGJxZ2JtYjBHTVVQR3ZOWHlSQjJmS1pvS3Zva2JoRFpaay1ueWh0cm9JT01jLWMyaW5jME9xZHpKaGlZVzVqQlV3b3VDM3BIZzNURDVyRlVyNF9aMUZZbmcyTjgtdXJzZEFLN29NMWJQdDNsYnNESnpudXRPY0hadWdOY09IWGJuRkt4Rndk?oc=5",
-   "date": "Fri, 27 Nov 2026 08:41:22 GMT",
-   "vu_le": "2026-11-27T11:40:35.695770+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Meituan swings to Q3 profit as revenue beats, adjusted profit misses - Investing.com",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHN3SDJoc1Vmanczci13a3V1VFhRZ3U3Zkc2d2g4N3BoSEczZFQwSGdpUG1vV3J5a3ptUEVSZXU0aWFIV05sTUZfVVQ3NVppUHYwYl9CdkJtWVlwa3NhTjBudEN2LXlkVUxtTEtFdGJmaEZwRTE4NUJRc3pCYjRha25nVnppNWxraklWWjR5S3JOaVI4dnA4SHBLVkRScll2SDZ3bVBfVGpITGdqRTJoZlpua1kydw?oc=5",
-   "date": "Fri, 27 Nov 2026 11:33:09 GMT",
-   "vu_le": "2026-11-27T11:40:35.695770+00:00"
   }
  ],
  "erreurs": []
