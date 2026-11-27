@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54566.01 EUR, jour -1.07 %, mois -24.8 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54646.96 EUR, jour -0.92 %, mois -24.69 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -226,8 +226,8 @@ POSITIONS ET INDICES :
 - IX Knowledge Incorporated (TSE:9753, secteur Commercial Services) jour 0.9 %, mois -5.09 %, prix 1342 JPY, capi 12613998051, PER 7.4, volume x8.8 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 834986797, PER 28.6, volume x17.7 la normale
+- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (BSE:GOYALALUM, secteur Distribution Services) jour 20 %, mois 26.49 %, prix 7.02 INR, capi 834986797, PER 29.1, volume x52.33 la normale
 - Waaree Renewable Technologies Ltd (NSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 23.4 %, prix 825.7 INR, capi 71797243279, PER 18.5, volume x233.67 la normale
 - Waaree Renewable Technologies Ltd (BSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 22.52 %, prix 825.4 INR, capi 71797243279, PER 18.5, volume x128.17 la normale
@@ -310,6 +310,9 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] [Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제
+- [Crypto] XRP price at Nov 27, 2026 at 7pm EST Crypto Prediction Market - Robinhood
+- [Crypto] SOL price on Nov 27, 2026 at 7pm EST Crypto Prediction Market - Robinhood
 - [Chine et Asie] [Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제
 - [Rachats et fusions] enCore Energy Gets Nasdaq Bid-Price Warning, Amends Verdera Deal - kalkine.com
 - [Crypto] Bitcoin's Thanksgiving Rally Unravels as $7B Options Expiry Rocks Markets - Bitcoin News
@@ -456,7 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Banques centrales et taux] L’indice du dollar américain marque le pas sous 104,00, les anticipations d’une Fed restrictive limitant le repli - www.tmgm.com
 - [Banques centrales et taux] Dollar américain : les anticipations de resserrement de la Fed limitent le repli sur fond de rebond des actions - ING - www.tmgm.com
 - [Bourse de Paris et Europe] Les Bourses européennes rebondissent légèrement pour le Black Friday... - Fortuneo
-- [Bourse de Paris et Europe] L'Europe ouvre dans le vert alors que s'achève la pause de Thanksgiving - Boursorama
-- [Résultats d'entreprises] Why Kenya Airways keeps losing billions despite growing revenue and govt support - People Daily
-- [Petites valeurs en croissance] 3 Ways To Own Alphabet In ETFs When Each Fund Holds It Differently - Yahoo Finance
-- [Pays émergents] What's Going on with MercadoLibre Shares on Friday
+- [Bourse de Paris et Europe] L'Europe ouvre dans le vert alors que s'achève la pause de Thanksgiving - Bourso

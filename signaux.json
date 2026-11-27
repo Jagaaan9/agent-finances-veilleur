@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-27T23:00:35.269842+00:00",
+ "mis_a_jour": "2026-11-27T23:10:35.446141+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54566.01,
+   "prix": 54646.96,
    "devise": "EUR",
-   "jour_pct": -1.07,
-   "mois_pct": -24.8,
-   "volume": 157.24945043,
+   "jour_pct": -0.92,
+   "mois_pct": -24.69,
+   "volume": 158.17873599,
    "volume_relatif": 0.72,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 8779940033,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 8779940033,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "[Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제",
+   "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0V09wMVV4cWRRZkQ0YmhEOFcxQTF1RTczM0FSWHczSWkxeDRwLXBqVklVRDFRNUNURzNYZ2lXNGdpR3dZQnY1THhULVBCZUxJUnJyQWFERHlIZ0pzMVJNbXNkeVFsUG5CbmxjbkJ0clc1UWpIUjhTM19hV1g?oc=5",
+   "date": "Fri, 27 Nov 2026 22:50:00 GMT",
+   "vu_le": "2026-11-27T23:10:35.446141+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 27, 2026 at 7pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd3kyb05VeVVzejNKUGVPVlZwb1J5TVJCZjVPOE5Rb0JvNEFoOGJVLWhjbjhJNTJZOHVFQ0RadnlyeW1udmVwTUhSN3ljTmgxVl9oSmRaeGM2Yy01LXp6N2RmeG9xcDRXaXh5MVdfN3ZMZVBnUHRNS1NlWTBYM1IwaFFHbjlwV2lKUVNvWlVaVkpjN0pGNFpJQl9lb293Umgxd3I0TUg2bUplUVM3eVE?oc=5",
+   "date": "Fri, 27 Nov 2026 23:03:04 GMT",
+   "vu_le": "2026-11-27T23:10:35.446141+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 27, 2026 at 7pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMTR2bDhtdkx4UEN2d21fMHRiWHNTbXZReUJZTm0yVDJwMXd0Rjc3bkhJeFF1ZkxibWFsNE91VGVKMkROd2JLeFd6NmxvSVhiNWZZMzJvcVpzV2Nnd3U2dUVmdzJvc1NMZDF1QmNBak10akdZMDBoanRuejlUOFJLR3dUN3dlc1BXeTJfR25YQ2d1YXlackVoU3ltbk81cjZ6MXJlT0RHdUhMNUJoYUE?oc=5",
+   "date": "Fri, 27 Nov 2026 23:03:05 GMT",
+   "vu_le": "2026-11-27T23:10:35.446141+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "[Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제",
@@ -6432,27 +6453,6 @@
    "titre": "China's chip stocks post record 17.6% one-day gain on state support pledge - MLQ.ai",
    "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYTVkUkdrQ3VtWVN4cXBLU09QNmwtZzJmMnhVRnA2THZLMC1sTms1ZmZDRjBfZy1hUlNWSXZvdmRieXQ0ZS1seHJxWXc2UEhTVk5yZmY4NTJUMHA5QjVtWHJVR2FIX002aWJVYjk3cFliOGtSeXdzc1NEX1RicDZ2S2ktamxnUVRhWDYtUUNvclhGUXlZUzZN?oc=5",
    "date": "Fri, 27 Nov 2026 11:44:49 GMT",
-   "vu_le": "2026-11-27T11:50:36.965832+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Symbotic (SYM) Turns Profitable As Fresh Guidance Raises The Question Of Value - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc25iOElKX1ZBZkN2bzVTbU9PcE5TWWFiTloxR011b25ZVlVYUFdOY3BMdjN4T0VYbjdZQVZScXFPQldqSXI4YlJOc2cycFJHaWhXaDRWRGNhcGpVVmczaHJuMjRxbDl6aFJfelZTQWxDRS0zSlZkTWtTS19Od1N5MGRjOVlLanJaNFFOS0l4VlNrbXllQ2hlTkV3VTJ5QUVPREx4MmYwcFU4VGdPLXAyckRFNVhwcl9OUktVTnZKRU1tRFFTcXVhNlFoMUtkQWhR0gHQAUFVX3lxTE5zbmI4SUpfVkFmQ3ZvNVNtT09wTlNZYWJOWjFHTXVvbllWVVhQV05jcEx2M3hPRVhuN1lBVlJxcU9CV2pJcjhiUk5zZzJwUkdpaFdoNFZEY2FwalVWZzNocm4yNHFsOXpoUl96VlNBbENFLTNKVmRNa1NLX053U3kwZGM5WUtqclo0UU5LSXhWU2tteWVDaGVORXdVMnlBRU9ETHgyZjBwVThUZ08tcDJyREU1WHByX05SS1VOdkpFTW1EUVNxdWE2UWgxS2RBaFE?oc=5",
-   "date": "Fri, 27 Nov 2026 10:09:55 GMT",
-   "vu_le": "2026-11-27T11:50:36.965832+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "B3 and six major banks unite to build real-pegged stablecoin for Brazil’s digital asset market - Crypto Briefing",
-   "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lZExDZkoxSGkzdDQyY0stbDFFLTQ3ZENkVkJ4dVhmSlBoVzVVX1dReFdEb0VGam4wOEY5ei16M0ZCZEpobnhWckJYOW5XX1RYQ0FoM3FsNXZkS2pOZVp1MGV3Wi1DbGp2OV8zcElR?oc=5",
-   "date": "Fri, 27 Nov 2026 11:43:30 GMT",
-   "vu_le": "2026-11-27T11:50:36.965832+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin on course to end seven-week losing streak while trailing stock rebound - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbzRyMXdoa2NPT0RyTnMwUDhnbUtHVXc0N05lZk1zLTQxZ19nRTZYZm43RUM4Ymt5d0hDSDZVNExIR3ZoVFZ1YjRtMXZBbHdtT3E1TEh3cWpyZmJTZW1jMkh3a3ZLUU1vc1B2X25GdURkZ1ltTW9BQVZMY0xpckZkbWM4VmpWQlJPaDM5V09oRnVIUndBZDJZR2lxbEhVMWJpelliUmx1WVUxRUh1dHV3alZQUkJvak1uQXlTal9JTQ?oc=5",
-   "date": "Fri, 27 Nov 2026 11:45:47 GMT",
    "vu_le": "2026-11-27T11:50:36.965832+00:00"
   }
  ],
