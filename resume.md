@@ -7,14 +7,14 @@ POSITIONS ET INDICES :
 - NASDAQ Composite Index (NASDAQ:IXIC) : 23585.8023 , jour -0.62 %, mois -9.38 %
 - CAC 40 Index (EURONEXT:PX1) : 8108.74 , jour 1.61 %, mois 3.74 %
 - STOXX 50 (TVC:SX5E) : 6014.75 EUR, jour 2.04 %, mois -1.54 %
-- Japan 225 Index (TVC:NI225) : 57669.79 JPY, jour 0.3 %, mois -9.52 %
+- Japan 225 Index (TVC:NI225) : 57747.69 JPY, jour 0.43 %, mois -9.4 %
 - Hang Seng Index (TVC:HSI) : 22226.89 HKD, jour 1.19 %, mois -4.44 %
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3567.95 USD, jour -0.6 %, mois -12.13 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.097 USD, jour 0.01 %, mois -1.39 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55154.42 EUR, jour 0.18 %, mois -23.99 %
-- United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.864 , jour -1.3 %, mois -2.53 %
+- Gold (TVC:GOLD) : 3569.385 USD, jour -0.56 %, mois -12.09 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09644 USD, jour -0.04 %, mois -1.44 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55132.22 EUR, jour -0.04 %, mois -24.02 %
+- United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.872 , jour 0.16 %, mois -2.5 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - Currenc Group Inc. (NASDAQ:CURR, secteur Finance) jour 30.85 %, mois 10.31 %, prix 2.46 USD, capi 276213437, PER None, volume x1.57 la normale
@@ -286,8 +286,8 @@ POSITIONS ET INDICES :
 - Aroundtown SA (LSIN:0RUH, secteur Finance) jour 6.25 %, mois 20.24 %, prix 1.7585 EUR, capi 1522102628.632228, PER 7.3, volume x1.18 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3326384161590.9995, PER 14.1, volume x1.14 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1559025893850, PER 1.7, volume x0.54 la normale
@@ -455,4 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] S&P500 Forecast: SPX falls as Anthropic drops post IPO - StoneX
 - [Anthropic] Is the Anthropic IPO to Blame for Bitcoin's Recent Downturn? The Answer Might Surprise You. - The Globe and Mail
 - [Bourse de Paris et Europe] Paris en forte hausse jeudi - Zonebourse
-- [Bourse de Paris et Europe] Le CAC 40 bondit de 1,7 % à l'ouverture : un seul titre résiste
+- [Bourse de Paris et Europe] Le CAC 40 bondit de 1,7 % à l'ouverture : un seul titre ré

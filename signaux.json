@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-27T00:00:39.744108+00:00",
+ "mis_a_jour": "2026-11-27T00:10:39.286500+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -90,10 +90,10 @@
   {
    "nom": "Japan 225 Index",
    "symbole": "TVC:NI225",
-   "prix": 57669.79,
+   "prix": 57747.69,
    "devise": "JPY",
-   "jour_pct": 0.3,
-   "mois_pct": -9.52,
+   "jour_pct": 0.43,
+   "mois_pct": -9.4,
    "volume": null,
    "volume_relatif": null,
    "capitalisation": null,
@@ -146,10 +146,10 @@
   {
    "nom": "Gold",
    "symbole": "TVC:GOLD",
-   "prix": 3567.95,
+   "prix": 3569.385,
    "devise": "USD",
-   "jour_pct": -0.6,
-   "mois_pct": -12.13,
+   "jour_pct": -0.56,
+   "mois_pct": -12.09,
    "volume": 0,
    "volume_relatif": null,
    "capitalisation": null,
@@ -160,11 +160,11 @@
   {
    "nom": "Euro vs. US Dollar",
    "symbole": "FX:EURUSD",
-   "prix": 1.097,
+   "prix": 1.09644,
    "devise": "USD",
-   "jour_pct": 0.01,
-   "mois_pct": -1.39,
-   "volume": 2936,
+   "jour_pct": -0.04,
+   "mois_pct": -1.44,
+   "volume": 3976,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 55154.42,
+   "prix": 55132.22,
    "devise": "EUR",
-   "jour_pct": 0.18,
-   "mois_pct": -23.99,
-   "volume": 111.11607367,
-   "volume_relatif": 0.49,
+   "jour_pct": -0.04,
+   "mois_pct": -24.02,
+   "volume": 0.00485891,
+   "volume_relatif": 0.0,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -188,10 +188,10 @@
   {
    "nom": "United States 10 Year Government Bonds Yield",
    "symbole": "TVC:US10Y",
-   "prix": 4.864,
+   "prix": 4.872,
    "devise": "",
-   "jour_pct": -1.3,
-   "mois_pct": -2.53,
+   "jour_pct": 0.16,
+   "mois_pct": -2.5,
    "volume": null,
    "volume_relatif": null,
    "capitalisation": null,
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 273.1,
-    "devise": "USD",
-    "jour_pct": -2.13,
-    "mois_pct": -14.89,
-    "volume": 41282875,
-    "volume_relatif": 1.11,
-    "capitalisation": 3326384161591,
-    "per": 14.3,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.66,
@@ -3395,6 +3381,20 @@
     "volume_relatif": 0.87,
     "capitalisation": 3326384161591,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 273.1,
+    "devise": "USD",
+    "jour_pct": -2.13,
+    "mois_pct": -14.89,
+    "volume": 41282875,
+    "volume_relatif": 1.11,
+    "capitalisation": 3326384161591,
+    "per": 14.3,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -6456,5 +6456,20 @@
    "vu_le": "2026-11-26T11:00:35.624295+00:00"
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "actu Anthropic: HTTP Error 503: Service Unavailable",
+  "actu Anthropic (FR): HTTP Error 503: Service Unavailable",
+  "actu Marchés mondiaux: HTTP Error 503: Service Unavailable",
+  "actu Bourse de Paris et Europe: HTTP Error 503: Service Unavailable",
+  "actu Banques centrales et taux: HTTP Error 503: Service Unavailable",
+  "actu Chine et Asie: HTTP Error 503: Service Unavailable",
+  "actu Intelligence artificielle: HTTP Error 503: Service Unavailable",
+  "actu Introductions en bourse: HTTP Error 503: Service Unavailable",
+  "actu Rachats et fusions: HTTP Error 503: Service Unavailable",
+  "actu Résultats d'entreprises: HTTP Error 503: Service Unavailable",
+  "actu Petites valeurs en croissance: HTTP Error 503: Service Unavailable",
+  "actu Pays émergents: HTTP Error 503: Service Unavailable",
+  "actu Défense, énergie, matières premières: HTTP Error 503: Service Unavailable",
+  "actu Crypto: HTTP Error 503: Service Unavailable"
+ ]
 }
