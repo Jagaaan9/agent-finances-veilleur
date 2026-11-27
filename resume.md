@@ -1,4 +1,4 @@
-PASSAGE. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
+PASSAGE DU SOIR (après la clôture américaine) avec bilan du jour. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
 
 POSITIONS ET INDICES :
 - Anthropic, PBC Class A (NASDAQ:ANT) : 91.88 USD, jour 10.98 %, mois -17.6 %
@@ -12,16 +12,16 @@ POSITIONS ET INDICES :
 - SSE Composite Index (SSE:000001) : 3606.4868 , jour 3.73 %, mois -1.92 %
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.0932 USD, jour -0.34 %, mois -1.98 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54649.1 EUR, jour -0.92 %, mois -24.68 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54608.53 EUR, jour -0.99 %, mois -24.74 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
-- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x93.18 la normale
+- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x93.3 la normale
 - ECARX Holdings, Inc. (NASDAQ:ECX, secteur Technology Services) jour 37.96 %, mois -2.77 %, prix 0.8069 USD, capi 287858465.4896563, PER None, volume x1.46 la normale
 - Deep Fission, Inc. (NASDAQ:FISN, secteur Producer Manufacturing) jour 34.28 %, mois 39.71 %, prix 3.8 USD, capi 223856442.40282682, PER None, volume x0.88 la normale
 - Northwest Biotherapeutics, Inc. (OTC:NWBO, secteur Health Technology) jour 34.05 %, mois 47.24 %, prix 0.2378 USD, capi 430886616.1330327, PER None, volume x1.8 la normale
-- SEALSQ Corp. (NASDAQ:LAES, secteur Electronic Technology) jour 28.04 %, mois -17.47 %, prix 1.37 USD, capi 316373801.67289716, PER None, volume x2.65 la normale
+- SEALSQ Corp. (NASDAQ:LAES, secteur Electronic Technology) jour 28.04 %, mois -17.47 %, prix 1.37 USD, capi 316373801.67289716, PER None, volume x2.67 la normale
 - Powerus Corporation (NASDAQ:PUSA, secteur Electronic Technology) jour 25.57 %, mois -28.39 %, prix 1.375 USD, capi 234903196.80365297, PER None, volume x1.11 la normale
 - Arqit Quantum Inc. (NASDAQ:ARQQ, secteur Technology Services) jour 24.12 %, mois -23.53 %, prix 13.765 USD, capi 239544183.70378724, PER None, volume x2.78 la normale
 - Cosan S.A. Sponsored ADR (OTC:CSANY, secteur Utilities) jour 23.5 %, mois 46.7 %, prix 2.89 USD, capi 2684552500.0810003, PER None, volume x6.52 la normale
@@ -46,7 +46,7 @@ POSITIONS ET INDICES :
 - COSCO SHIPPING Holdings Co., Ltd. Class H (OTC:CICOF, secteur Transportation) jour 0 %, mois 2.38 %, prix 2.15 USD, capi 38872892481.128174, PER 8.7, volume x197.93 la normale
 - Imdex Ltd (OTC:IMDXF, secteur Distribution Services) jour 2.92 %, mois 2.92 %, prix 2.29 USD, capi 1191447861.163522, PER 22.4, volume x107.38 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109547.498471, PER 5.1, volume x99.36 la normale
-- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x93.18 la normale
+- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x93.3 la normale
 - Ascletis Pharma, Inc. (OTC:ASCLF, secteur Health Technology) jour 16.75 %, mois -19.21 %, prix 0.5817 USD, capi 611310187.1515287, PER None, volume x58.1 la normale
 - Sitios Latinoamerica SAB de CV (OTC:SLCVF, secteur Industrial Services) jour 1.6 %, mois -15.44 %, prix 0.3298 USD, capi 1569199654.2495744, PER None, volume x37.18 la normale
 - Singapore Airlines Ltd. (OTC:SINGF, secteur Transportation) jour 3.96 %, mois 9.01 %, prix 5.51 USD, capi 17373957962.02482, PER 20.6, volume x28.71 la normale
@@ -85,8 +85,8 @@ POSITIONS ET INDICES :
 - Sandisk Corporation (XETR:BW9, secteur Electronic Technology) jour 13.33 %, mois -48.59 %, prix 76.5 EUR, capi 76404561536.63785, PER 5.6, volume x1.39 la normale
 - Sandisk Corporation (TRADEGATE:BW9, secteur Electronic Technology) jour 13.04 %, mois -47.15 %, prix 78 EUR, capi 76404561536.63785, PER 5.7, volume x1.3 la normale
 - Plug Power Inc. (TRADEGATE:PLUN, secteur Electronic Technology) jour 11.58 %, mois -16.22 %, prix 1.06 EUR, capi 1358462427.50848, PER None, volume x0.88 la normale
+- Plug Power Inc. (GETTEX:PLUN, secteur Electronic Technology) jour 11.1 %, mois -15.54 %, prix 1.0666 EUR, capi 1358462427.50848, PER None, volume x0.69 la normale
 - Plug Power Inc. (XETR:PLUN, secteur Electronic Technology) jour 10.88 %, mois -17.78 %, prix 1.0524 EUR, capi 1358462427.50848, PER None, volume x1.14 la normale
-- Plug Power Inc. (GETTEX:PLUN, secteur Electronic Technology) jour 9.38 %, mois -16.85 %, prix 1.05 EUR, capi 1358462427.50848, PER None, volume x0.69 la normale
 - Lenovo Group Limited (TRADEGATE:LHL, secteur Electronic Technology) jour 9.22 %, mois -21.14 %, prix 2.145 EUR, capi 25048288900.07692, PER None, volume x0.71 la normale
 - Anthropic, PBC Class A (TRADEGATE:1ANT, secteur Technology Services) jour 8.18 %, mois -18.89 %, prix 83.95 EUR, capi 1009067665063.6465, PER None, volume xNone la normale
 - Intrum AB (TRADEGATE:IJU, secteur Commercial Services) jour 8.15 %, mois 14.45 %, prix 0.1711 EUR, capi 502212665.8072546, PER None, volume x0.75 la normale
@@ -110,7 +110,7 @@ POSITIONS ET INDICES :
 - Aston Martin Lagonda Global Holdings Plc (FWB:A5SA, secteur Consumer Durables) jour 0.88 %, mois -20.16 %, prix 0.3684 EUR, capi 361069633.2462523, PER None, volume x6.73 la normale
 - NagaCorp Ltd. (LS:A0LB2X, secteur Consumer Services) jour -4.51 %, mois -7.17 %, prix 0.233 EUR, capi 998050026.3052849, PER 3.9, volume x5.82 la normale
 - Douglas AG (TRADEGATE:DOU, secteur Retail Trade) jour -0.71 %, mois -7.8 %, prix 6.97 EUR, capi 751692302, PER 23.7, volume x5.24 la normale
-- E.ON SE (GETTEX:EOAN, secteur Utilities) jour 0.64 %, mois 1.78 %, prix 18.85 EUR, capi 49282650428, PER 11.2, volume x4.5 la normale
+- E.ON SE (GETTEX:EOAN, secteur Utilities) jour 1.49 %, mois 2.65 %, prix 19.01 EUR, capi 49282650428, PER 11.3, volume x4.5 la normale
 - Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -3.34 %, mois -14.73 %, prix 32.08 EUR, capi 35992209869, PER 10.6, volume x4.45 la normale
 - Imperial Brands PLC (XETR:ITB, secteur Consumer Non-Durables) jour 0.75 %, mois 21.76 %, prix 41.63 EUR, capi 30627965999.446053, PER 14.7, volume x4.34 la normale
 - Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 4.75 %, mois 21.51 %, prix 41.69 EUR, capi 30627965999.446053, PER 14.8, volume x4.3 la normale
@@ -310,6 +310,10 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic IPO raises questions for San Francisco housing market - HousingWire
+- [Intelligence artificielle] Stock Market Today, Nov. 27: Chip Stocks Rebound Sharply on Broad AI Enthusiasm - The Motley Fool
+- [Rachats et fusions] CrowdStrike: The $44B Zscaler Merger Unlocks An Agentic AI Powerhouse (NASDAQ:CRWD) - Seeking Alpha
+- [Rachats et fusions] VA's $418 Million No-Bid Claims Deal to Signature Choice III | The Daily Letter - Howl.Link
 - [Anthropic] Should You Invest in Anthropic Stock Now or Wait? Here's What History Says. - The Globe and Mail
 - [Anthropic] Is Anthropic Stock a Buy Before Its Dec. 15 Share Unlock? - The Motley Fool
 - [Rachats et fusions] VA's $418 Million No-Bid Claims Deal to Signature Choice III | The Daily Letter - Howl.Link
@@ -456,7 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Banques centrales et taux] Cac 40 : un rebond prudent avant le verdict de S&P et la Fed - ABC Bourse
 - [Rachats et fusions] CPI | Altria Weighs Cash Bid for UK Tobacco Giant Imperial Brands - PYMNTS.com
 - [Résultats d'entreprises] Is Empresaria Group (LSE:EMR) Finally Turning the Corner After This Week's Earnings Beat and Disposal Review? - Kalkine Media
-- [Pays émergents] Lupin Announces U.S. FDA Approval and Launch of Sitagliptin Tablets, USP in the United States - TradingView
-- [Pays émergents] Ruchir Sharma Says 80% of Global Equity Flows Went to the US—and It Still Underperformed - BigGo Finance
-- [Défense, énergie, matières premières] Top Defense Stocks To Keep An Eye On - November 27th - MarketBeat
-- [Crypto] SOL price on Nov 27, 2026 at 1pm EST Crypto Prediction Market - Robinhood
