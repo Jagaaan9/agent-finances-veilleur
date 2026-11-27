@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-27T22:20:35.893649+00:00",
+ "mis_a_jour": "2026-11-27T22:22:54.863682+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54549.39,
+   "prix": 54563.2,
    "devise": "EUR",
-   "jour_pct": -1.1,
-   "mois_pct": -24.82,
-   "volume": 154.87496473,
+   "jour_pct": -1.07,
+   "mois_pct": -24.8,
+   "volume": 154.87979941,
    "volume_relatif": 0.71,
    "capitalisation": null,
    "per": null,
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "L'analyste le plus optimiste sur Anthropic vise... 300 USD !... - Fortuneo",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2F6MURSYjh1TVh2SXdPQ0dFMnpkT293VTlJeFJnOUVXM1BwaG01aWJYVFNWRFpBZlJmVFRMWHN4QkxLbWE2bDdaY0ZPU1l0LW1BbHllS0diMTNZTTJsbl9zMUY0bFU1Q2tXeVIxOEI4ZHlCMFpjaG1sV2NtWkMxQVhSdFpuZkxXbmthMHhrbkNkRU9laU12bzB1M01UdzE3YTFpTi1R0gGmAUFVX3lxTFA3YXoxRFJiOHVNWHZJd09DR0UyemRPb3dVOUl4Umc5RVczUHBobTVpYlhUU1ZEWkFmUmZUVExYc3hCTEttYTZsN1pjRk9TWXQtbUFseWVLR2IxM1lNMmxuX3MxRjRsVTVDa1d5UjE4QjhkeUIwWmNobWxXY21aQzFBWFJ0Wm5mTFdua2EweGtuQ2RFT2VpTXZvMHUzTVR3MTdhMWlOLVE?oc=5",
+   "date": "Fri, 27 Nov 2026 16:40:00 GMT",
+   "vu_le": "2026-11-27T22:22:54.863682+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail",
@@ -6446,13 +6453,6 @@
    "titre": "Bitcoin Price Taps $61K on Thanksgiving as Short Sellers Take a Beating - Cryptonews.net",
    "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmdVV0RXJZNDJJYXc1aTVEZzJuNjFqSm1aR1JzTHdzcVhmbWg5ZjRGWjJMakpST1pJZTc1anBVbFlUczI5ajBfS1pwWW9HTFF1TG52UmRyNE0?oc=5",
    "date": "Fri, 27 Nov 2026 11:07:19 GMT",
-   "vu_le": "2026-11-27T11:30:36.296669+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bluefin Steps Back From Perps, Says Sui Team Is Taking On More Derivatives Work - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbE1oQ2FzVUxYeUNjWjBHVDlKOGZqbVFGWXA1WkxjRWpIVHIxc3F3aEJJQ3RrNC15LTRJM0dLSDA5NEE1a1AtYlFEaGZsMk1oT0t2d08yc2RoWlBObVJrZnl4dmVZR2JwUGRTSUI1eHd4SlcySTMtdHRVQkdyVmNrVmFvNWtQY1JValcxZlV0MmN1VkxQMXctSmZR?oc=5",
-   "date": "Fri, 27 Nov 2026 10:45:44 GMT",
    "vu_le": "2026-11-27T11:30:36.296669+00:00"
   }
  ],
