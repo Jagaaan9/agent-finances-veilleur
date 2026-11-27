@@ -13,19 +13,19 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54608.53 EUR, jour -0.99 %, mois -24.74 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54577.59 EUR, jour -1.05 %, mois -24.78 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
-- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x93.3 la normale
+- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x93.47 la normale
 - ECARX Holdings, Inc. (NASDAQ:ECX, secteur Technology Services) jour 37.96 %, mois -2.77 %, prix 0.8069 USD, capi 287858465.4896563, PER None, volume x1.46 la normale
 - Deep Fission, Inc. (NASDAQ:FISN, secteur Producer Manufacturing) jour 34.28 %, mois 39.71 %, prix 3.8 USD, capi 223856442.40282682, PER None, volume x0.88 la normale
 - Northwest Biotherapeutics, Inc. (OTC:NWBO, secteur Health Technology) jour 34.05 %, mois 47.24 %, prix 0.2378 USD, capi 430886616.1330327, PER None, volume x1.8 la normale
-- SEALSQ Corp. (NASDAQ:LAES, secteur Electronic Technology) jour 28.04 %, mois -17.47 %, prix 1.37 USD, capi 316373801.67289716, PER None, volume x2.67 la normale
+- SEALSQ Corp. (NASDAQ:LAES, secteur Electronic Technology) jour 28.04 %, mois -17.47 %, prix 1.37 USD, capi 316373801.67289716, PER None, volume x2.68 la normale
 - Powerus Corporation (NASDAQ:PUSA, secteur Electronic Technology) jour 25.57 %, mois -28.39 %, prix 1.375 USD, capi 234903196.80365297, PER None, volume x1.11 la normale
-- Arqit Quantum Inc. (NASDAQ:ARQQ, secteur Technology Services) jour 24.12 %, mois -23.53 %, prix 13.765 USD, capi 239544183.70378724, PER None, volume x2.78 la normale
+- Arqit Quantum Inc. (NASDAQ:ARQQ, secteur Technology Services) jour 24.12 %, mois -23.53 %, prix 13.765 USD, capi 239544183.70378724, PER None, volume x2.79 la normale
 - Cosan S.A. Sponsored ADR (OTC:CSANY, secteur Utilities) jour 23.5 %, mois 46.7 %, prix 2.89 USD, capi 2684552500.0810003, PER None, volume x6.52 la normale
-- T1 Energy Inc. (NYSE:TE, secteur Producer Manufacturing) jour 20.0 %, mois -47.41 %, prix 1.32 USD, capi 396794030.40000004, PER None, volume x0.41 la normale
+- T1 Energy Inc. (NYSE:TE, secteur Producer Manufacturing) jour 20.0 %, mois -47.41 %, prix 1.32 USD, capi 396794030.40000004, PER None, volume x0.42 la normale
 - B3 SA - Brasil, Bolsa, Balcao Unsponsored ADR (OTC:BOLSY, secteur Finance) jour 19.63 %, mois 9.07 %, prix 9.14 USD, capi 13865439736.314001, PER 14.0, volume x1.16 la normale
 
 ÉCRAN États-Unis : plus fortes baisses :
@@ -46,7 +46,7 @@ POSITIONS ET INDICES :
 - COSCO SHIPPING Holdings Co., Ltd. Class H (OTC:CICOF, secteur Transportation) jour 0 %, mois 2.38 %, prix 2.15 USD, capi 38872892481.128174, PER 8.7, volume x197.93 la normale
 - Imdex Ltd (OTC:IMDXF, secteur Distribution Services) jour 2.92 %, mois 2.92 %, prix 2.29 USD, capi 1191447861.163522, PER 22.4, volume x107.38 la normale
 - West African Resources Ltd (OTC:WFRSF, secteur Non-Energy Minerals) jour -19.18 %, mois -3.64 %, prix 1.96 USD, capi 2244109547.498471, PER 5.1, volume x99.36 la normale
-- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x93.3 la normale
+- Antelope Enterprise Holdings Limited Class A (NASDAQ:AEHL, secteur Producer Manufacturing) jour 80.67 %, mois 69.51 %, prix 12.9 USD, capi 245291651.72268906, PER None, volume x93.47 la normale
 - Ascletis Pharma, Inc. (OTC:ASCLF, secteur Health Technology) jour 16.75 %, mois -19.21 %, prix 0.5817 USD, capi 611310187.1515287, PER None, volume x58.1 la normale
 - Sitios Latinoamerica SAB de CV (OTC:SLCVF, secteur Industrial Services) jour 1.6 %, mois -15.44 %, prix 0.3298 USD, capi 1569199654.2495744, PER None, volume x37.18 la normale
 - Singapore Airlines Ltd. (OTC:SINGF, secteur Transportation) jour 3.96 %, mois 9.01 %, prix 5.51 USD, capi 17373957962.02482, PER 20.6, volume x28.71 la normale
@@ -288,8 +288,8 @@ POSITIONS ET INDICES :
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3349039139769.5396, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3344306225492.11, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1559025893850, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655656154.782, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700462317.067, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,16 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic Stock Is Up 11% From Its IPO Price, and One Analyst Still Sees 63% Upside. Should You Buy? - Yahoo Finance
+- [Anthropic] Is Anthropic Stock a Buy Before Its Dec. 15 Share Unlock? - The Globe and Mail
+- [Bourse de Paris et Europe] Wall Street clôture en hausse une semaine particulièrement nerveuse - Bourse Direct
+- [Rachats et fusions] Uber secures 87.13% stake in Delivery Hero takeover offer - grafa.com
+- [Résultats d'entreprises] SemiLEDs Returns to Profit as FY2026 Revenue Falls 56% - grafa.com
+- [Petites valeurs en croissance] Alfa Laval (OM:ALFA) Stock May Be 25% Undervalued On Capital Markets Day Growth Plans - Yahoo Finance
+- [Petites valeurs en croissance] AppFolio Outlook: Scaling SaaS Ecosystem Drives Sustainable Profitability Growth - The Motley Fool
+- [Petites valeurs en croissance] Stocks To Buy And Watch: Top IPOs, Big And Small Caps, Growth Stocks - Investor's Business Daily
+- [Petites valeurs en croissance] Adyen (ENXTAM:ADYEN) Stock Could Be 34% Below Fair Value Despite Smart POS Launch - Yahoo Finance
+- [Crypto] HYPE price on Nov 27, 2026 at 6pm EST Crypto Prediction Market - Robinhood
 - [Anthropic] Anthropic IPO raises questions for San Francisco housing market - HousingWire
 - [Intelligence artificielle] Stock Market Today, Nov. 27: Chip Stocks Rebound Sharply on Broad AI Enthusiasm - The Motley Fool
 - [Rachats et fusions] CrowdStrike: The $44B Zscaler Merger Unlocks An Agentic AI Powerhouse (NASDAQ:CRWD) - Seeking Alpha
@@ -450,13 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Résultats d'entreprises] Versigent (NYSE:VGNT) - Stock Analysis - Simply Wall St
 - [Pays émergents] Stock market in risk-on mode! Why HSBC is overweight on India - Business Today
 - [Crypto] Cryptocurrency is now legal: what comes next? - Ukrinform
-- [Crypto] How Much Will 1 Bitcoin Be Worth in 2035? - 24/7 Wall St.
-- [Crypto] Gold Suffers Worst 60-Day Loss Since the 1980s. Bitcoin’s Collapse Exposes an Even Bigger Problem. - Yahoo Finance
-- [Anthropic] Bitcoin price drops below $59K as Anthropic joins tech stock rebound - TradingView
-- [Marchés mondiaux] Dow Gains 510 Points as Wall Street Rebounds - cwibc.co.id
-- [Bourse de Paris et Europe] L'Europe finit la semaine dans le vert, l'IA retrouve les faveurs des investisseurs - ABC Bourse
-- [Bourse de Paris et Europe] Wall Street vue sur un rebond après Thanksgiving, l'Europe poursuit son redressement - Boursorama
-- [Bourse de Paris et Europe] Wall Street vue sur un rebond après Thanksgiving, l'Europe poursuit son redressement - Boursorama
-- [Banques centrales et taux] Cac 40 : un rebond prudent avant le verdict de S&P et la Fed - ABC Bourse
-- [Rachats et fusions] CPI | Altria Weighs Cash Bid for UK Tobacco Giant Imperial Brands - PYMNTS.com
-- [Résultats d'entreprises] Is Empresaria Group (LSE:EMR) Finally Turning the Corner After This Week's Earnings Beat and Disposal Review? - Kalkine Media
