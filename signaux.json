@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-27T22:30:34.792053+00:00",
+ "mis_a_jour": "2026-11-27T22:40:36.201875+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54594.39,
+   "prix": 54566.31,
    "devise": "EUR",
-   "jour_pct": -1.02,
-   "mois_pct": -24.76,
-   "volume": 154.94171506,
+   "jour_pct": -1.07,
+   "mois_pct": -24.8,
+   "volume": 156.31761365,
    "volume_relatif": 0.71,
    "capitalisation": null,
    "per": null,
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Global stocks rise, key indices on track, while India bucks the trend - The New Indian Express",
+   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX0lIckRnUlN3OWxNSWtzZ3V0aHlOYzRxYmQ1bnNJckh0SlJpM2E0MkEwT2hMLV8wQUptQ001VnNwTmpsYW84TUxSd0VmUktxd0x4SHdwUC0tNkx4Q21ubFlrdDFmUkw4UEo2ZGpoMnJKTFpHMFZYaVNqS0hYbklzODR5WDhZZWdJUnQzbEpNVDFUckhDNV9BcnFCTE15N3QzVnA3S3pZY3IxS1ZWWmEtczZzRW54MVp5UE5MOXMwY1l2T2Njd2dBcdIB1gFBVV95cUxPTUNXWEJ4aXBNWVZodTBwM2VLU1doTm1uQ19CbTd1UENxQmhvaUY3bFFoZ1ZYVXZkQXJ1Y3dxcUtFR1JWa1h3QjlaTVZxX0JDMlJNTE5GZnlDUGhJUDJVYXZhdEFqRC1SOW9sak1mMFZXNXZqbGpMRVBVS3NzeURSN0R4b2V5MHd3YW1pdWRkOEwwV21YRVBILUFjQ0dmSDE4Vk9aVlllcHA5anRoUEthcEdiUkpMcU11d0JtWEJfTXhaOWY3RUJiQWdZZm9lNnBTS1FkUHlR?oc=5",
+   "date": "Fri, 27 Nov 2026 17:06:48 GMT",
+   "vu_le": "2026-11-27T22:40:36.201875+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank - Quantisnow",
+   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYmJ1bUR3V1B6SzRqT29SWmxfM1hKZW1QQkFJNm0wWjBTc25nTzB2OFVLYVlrMmQ4TktCRWtTOUtTd2ZqMm05dDFPdGN3cjczMy1RLXgxcWRad2dHVGNlcXU2OEEtMnc2dU91cEFTMXB6cldRTzB1ZElJSGE4Qmp0ckFrNGtoLWV5RUE2bkl2bUtrNExIanNRU0QxS2c2TlhXWDZudFFGMFlacTJFRFVsRA?oc=5",
+   "date": "Fri, 27 Nov 2026 22:36:16 GMT",
+   "vu_le": "2026-11-27T22:40:36.201875+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Dec 4, 2026 at 5pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa0laRFpzV2VlV193RGx4TjRpZXNKOTgyZ2MzbFFKNjB0R2Jxc3JYNFNlV3I5aU5mM2xONXQ2NE55ZlpCVTRzNXdqa0hxRkhyN05nNjB3S2ZFSGtSRU1peHBrTFhrcUFXNld3cVRSazFfVmhBbFJJSk9sR2NVLXI4MGE3MDVScnNPMXp5WHRta2p3X250Z3JsQ0hrQm9VTWFFa1hxMzBWaXk2ZFZj?oc=5",
+   "date": "Fri, 27 Nov 2026 21:04:41 GMT",
+   "vu_le": "2026-11-27T22:40:36.201875+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail",
@@ -6432,27 +6453,6 @@
    "titre": "Asian stocks rally as China, South Korea signal market support - Malay Mail",
    "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0dhTFZRdkk2UnhvWjAyRG5ZMXlRMFRhYnVJOGszbmlFbDBRNE9Xc3dHOGlFMmtFNVY0T3BOYkI2bXRGNW1BSnlTSmEtUEtwdkpVTmJoWFo5RlpCQXQxQzA5bm9BRVFSNk95S1dsajZxZ1JIaGZDakdaN29DaElHMnN3VzV0QWdUX190ak9LOEhzZjVOX1pwdm82MEFPMEY4aTFfOVVDNmc0TTk4WXhOWl90d0kyLUxKRFZNbdIBvAFBVV95cUxPc0dhTFZRdkk2UnhvWjAyRG5ZMXlRMFRhYnVJOGszbmlFbDBRNE9Xc3dHOGlFMmtFNVY0T3BOYkI2bXRGNW1BSnlTSmEtUEtwdkpVTmJoWFo5RlpCQXQxQzA5bm9BRVFSNk95S1dsajZxZ1JIaGZDakdaN29DaElHMnN3VzV0QWdUX190ak9LOEhzZjVOX1pwdm82MEFPMEY4aTFfOVVDNmc0TTk4WXhOWl90d0kyLUxKRFZNbQ?oc=5",
    "date": "Fri, 27 Nov 2026 10:46:36 GMT",
-   "vu_le": "2026-11-27T11:30:36.296669+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "【Fortune Information Systems FY2026 Q3 Earnings Call】Taiwan's Fortune Information Q3 EPS NT$0.27; First-Half EPS NT$0.88 Hits Record as GM Yang Cheng-Ning Targets Revenue and Profit Growth in 2027 - finance.biggo.com",
-   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mVUVRdVpBM3dTeUxBOTI4UklOTXJLM3Q4T1dFNW1xS3YwWm5HWXBQcFEtWGoyYXFrSDk2RXU4OEt0Mi1lVW9rcE84T2xCdzk4S0ZUSHc1UURDQnNwV3BnaXZ3?oc=5",
-   "date": "Fri, 27 Nov 2026 10:54:00 GMT",
-   "vu_le": "2026-11-27T11:30:36.296669+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Elia raises 2026 net income guidance across all divisions By Investing.com - Investing.com Nigeria",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnpmWVAtYnQzUlUtTktPZk9lWHlkT09KUlJnSkN6NFlwU21lLXg1Nk1YSlI4MEJOWDJIM2p1bUppYjRXZ2V3V1cwZHJmS3p3dFNrZTJiQVg5M1oxRndFOVg2RkdVSExKTDJCOGlfSE9jdFFzUjBLSjJwZTZDbllQZVN4TWNiV2x3YzE2eUJWQkp4WnNjc3lZN3FpQ2FVZVd3cWJyWWZsSVJSc0hxQjZndnRjUmZJZHg2TXc?oc=5",
-   "date": "Fri, 27 Nov 2026 09:56:53 GMT",
-   "vu_le": "2026-11-27T11:30:36.296669+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "AIM All-Share Small Cap Growth Stock: URU Metals keeps nickel exploration in focus as drilling moves from plans to evidence (LSE:URU) - kalkine.co.uk",
-   "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQk9mbHdRQlFaOTAta0VHSG9aMnVFczNfZFk5eDQ0LVo3VjdMVlFJVmNnMVNxQi1fSlZrU0xIaWRXaXZTVldmWWdENzR0em53ellkM1BfTTNZNXhKVldJUTJYZllFV1F2VHNoc2JDYnQ3OGNYd2NiQ2pGWGhsbDlrX0dqTGNMQzEyQ3dEM0NtRmNfaW9KVzhnbUZzUjdsTUR6QXo4cTBNRHAxUjNCbFN3aXNPR1Nja3ROUk1PNEs2TVNFb2ZjX3JiUU95TU5kek4yVEhyTWhFYmZlMTByQTZBcnRUb19OaV9QUHpVeGh1ZlFEeldwMEE?oc=5",
-   "date": "Fri, 27 Nov 2026 10:37:00 GMT",
    "vu_le": "2026-11-27T11:30:36.296669+00:00"
   }
  ],

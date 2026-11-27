@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54594.39 EUR, jour -1.02 %, mois -24.76 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54566.31 EUR, jour -1.07 %, mois -24.8 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -288,8 +288,8 @@ POSITIONS ET INDICES :
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3349039139769.5396, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3344306225492.11, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1559025893850, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655656154.782, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700462317.067, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,9 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] Global stocks rise, key indices on track, while India bucks the trend - The New Indian Express
+- [Rachats et fusions] Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank - Quantisnow
+- [Crypto] XRP price at Dec 4, 2026 at 5pm EST Crypto Prediction Market - Robinhood
 - [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
 - [Marchés mondiaux] Wall Street’s Great Escape: 3 Rescue Squads Fuel a Thanksgiving Rally - Investing.com
 - [Intelligence artificielle] Wall Street ends higher as battered AI stocks gain in volatile week - Reuters
@@ -456,7 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Rachats et fusions] Intermex Sues Western Union to Enforce $16.00 Per Share Merger Agreement - FF News
 - [Petites valeurs en croissance] Why Did A Coherent (COHR) Director Triple Their Stake? - Simply Wall St
 - [Petites valeurs en croissance] Is Cipher Digital (CIFR) Undervalued After Its Texas Policy Scare? - Yahoo Finance
-- [Petites valeurs en croissance] Inter & Co (NASDAQ:INTR) Stock: Bank Rally Lifts Shares Against a Tech Selloff - kalkine.com
-- [Crypto] Bitcoin Would Benefit 'Massively' if the Fed Does This Unexpected Move - Benzinga
-- [Crypto] How Much Will 1 Bitcoin Be Worth in 2035? - Yahoo Finance
-- [Crypto] Franklin Templeton just updated its crypto ETF. Here's what you should know. - 
+- [Petites valeurs en croissance] Inter & Co (NASDAQ:INTR) Stock: Bank Ral
