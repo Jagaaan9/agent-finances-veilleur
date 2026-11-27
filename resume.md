@@ -7,14 +7,14 @@ POSITIONS ET INDICES :
 - NASDAQ Composite Index (NASDAQ:IXIC) : 23585.8023 , jour -0.62 %, mois -9.38 %
 - CAC 40 Index (EURONEXT:PX1) : 8108.74 , jour 1.61 %, mois 3.74 %
 - STOXX 50 (TVC:SX5E) : 6014.75 EUR, jour 2.04 %, mois -1.54 %
-- Japan 225 Index (TVC:NI225) : 57509.94 JPY, jour 0.02 %, mois -9.77 %
+- Japan 225 Index (TVC:NI225) : 57548.65 JPY, jour 0.09 %, mois -9.71 %
 - Hang Seng Index (TVC:HSI) : 22226.89 HKD, jour 1.19 %, mois -4.44 %
 - SSE Composite Index (SSE:000001) : 3476.8816 , jour 0.01 %, mois -5.99 %
 - VOLATILITY S&P 500 (TVC:VIX) : 28.28 USD, jour 7.24 %, mois 43.85 %
-- Gold (TVC:GOLD) : 3566.26 USD, jour -0.65 %, mois -12.17 %
-- Euro vs. US Dollar (FX:EURUSD) : 1.09638 USD, jour -0.05 %, mois -1.44 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55125.25 EUR, jour -0.05 %, mois -24.03 %
-- United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.868 , jour 0.08 %, mois -2.58 %
+- Gold (TVC:GOLD) : 3566.594 USD, jour -0.64 %, mois -12.16 %
+- Euro vs. US Dollar (FX:EURUSD) : 1.09617 USD, jour -0.07 %, mois -1.46 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 55302.94 EUR, jour 0.27 %, mois -23.78 %
+- United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.872 , jour 0.16 %, mois -2.5 %
 
 ÉCRAN États-Unis : plus fortes hausses :
 - Currenc Group Inc. (NASDAQ:CURR, secteur Finance) jour 30.85 %, mois 10.31 %, prix 2.46 USD, capi 276213437, PER None, volume x1.57 la normale
@@ -190,37 +190,40 @@ POSITIONS ET INDICES :
 - Lushang Freda Pharmaceutical Co., Ltd. Class A (SSE:600223, secteur Finance) jour 0.55 %, mois -0.72 %, prix 5.52 CNY, capi 5580962071, PER 35.7, volume x6.5 la normale
 
 ÉCRAN Japon : plus fortes hausses :
-- BCC Co.,Ltd. (TSE:7376, secteur Commercial Services) jour 22.86 %, mois -24.16 %, prix 430 JPY, capi 1526034427, PER None, volume x2.33 la normale
-- FRUTA FRUTA, Inc. (TSE:2586, secteur Consumer Non-Durables) jour 19.44 %, mois -14 %, prix 43 JPY, capi 4064607238, PER None, volume x1.35 la normale
-- Monstarlab Inc. (TSE:5255, secteur Technology Services) jour 18.52 %, mois -12.33 %, prix 64 JPY, capi 3168213821, PER None, volume x0.58 la normale
-- AnGes. Inc. (TSE:4563, secteur Health Technology) jour 14.29 %, mois 10.34 %, prix 32 JPY, capi 9895317627, PER None, volume x0.81 la normale
-- PowerX, Inc. (TSE:485A, secteur Producer Manufacturing) jour 8.28 %, mois -5.78 %, prix 1727 JPY, capi 181423021660, PER None, volume x0.27 la normale
-- PKSHA Technology, Inc. (TSE:3993, secteur Technology Services) jour 7.7 %, mois -23.91 %, prix 2838 JPY, capi 79967054567, PER 26.6, volume x0.29 la normale
+- Top Culture Co., Ltd. (TSE:7640, secteur Retail Trade) jour 30.77 %, mois -3.95 %, prix 170 JPY, capi 2205872139, PER 3.8, volume x15.98 la normale
+- Monstarlab Inc. (TSE:5255, secteur Technology Services) jour 16.67 %, mois -13.7 %, prix 63 JPY, capi 3168213821, PER None, volume x0.7 la normale
+- PowerX, Inc. (TSE:485A, secteur Producer Manufacturing) jour 12.29 %, mois -2.29 %, prix 1791 JPY, capi 181423021660, PER None, volume x0.5 la normale
+- FRUTA FRUTA, Inc. (TSE:2586, secteur Consumer Non-Durables) jour 11.11 %, mois -20 %, prix 40 JPY, capi 4064607238, PER None, volume x2.78 la normale
+- AnGes. Inc. (TSE:4563, secteur Health Technology) jour 10.71 %, mois 6.9 %, prix 31 JPY, capi 9895317627, PER None, volume x1.77 la normale
+- Chordia Therapeutics Inc. (TSE:190A, secteur Health Technology) jour 9.3 %, mois -6 %, prix 47 JPY, capi 3456569397, PER None, volume x0.46 la normale
+- VIXTON corporation (TSE:3840, secteur Retail Trade) jour 8.16 %, mois 1.92 %, prix 53 JPY, capi 4134011840.9999995, PER None, volume x1.06 la normale
 - Solasia Pharma KK (TSE:4597, secteur Health Technology) jour 7.69 %, mois -3.45 %, prix 28 JPY, capi 7370307861, PER None, volume x0.63 la normale
-- Intrance Co., Ltd. (TSE:3237, secteur Finance) jour 7.27 %, mois -16.9 %, prix 59 JPY, capi 2836035305, PER None, volume x0.15 la normale
-- Mitsui ES Holdings Co., Ltd. (TSE:7003, secteur Producer Manufacturing) jour 5.97 %, mois -11.98 %, prix 3212 JPY, capi 297470122181, PER 8.5, volume x0.11 la normale
-- TESS Holdings Co., Ltd. (TSE:5074, secteur Utilities) jour 5.85 %, mois -28.03 %, prix 344 JPY, capi 22365690826, PER 15.8, volume x0.22 la normale
+- PhoenixBio Co., Ltd. (TSE:6190, secteur Commercial Services) jour 7.58 %, mois 21.99 %, prix 355 JPY, capi 1288296635, PER None, volume x0.38 la normale
+- Axel Mark Inc. (TSE:3624, secteur Commercial Services) jour 7.25 %, mois 300 %, prix 148 JPY, capi 12278876221, PER None, volume x0.22 la normale
 
 ÉCRAN Japon : plus fortes baisses :
-- Nachi-Fujikoshi Corp. (TSE:6474, secteur Producer Manufacturing) jour -80.06 %, mois -83.14 %, prix 924 JPY, capi 110002263308, PER 2.5, volume x0.96 la normale
-- Delta-Fly Pharma, Inc. (TSE:4598, secteur Health Technology) jour -11.4 %, mois 34.67 %, prix 101 JPY, capi 2032731533, PER None, volume x0.23 la normale
-- HODL 1,inc. (TSE:2345, secteur Technology Services) jour -11.21 %, mois 8.42 %, prix 103 JPY, capi 2062424028, PER None, volume x0.82 la normale
-- Aiming, Inc. (TSE:3911, secteur Technology Services) jour -9.41 %, mois -12.86 %, prix 183 JPY, capi 9107533379, PER 10.5, volume x0.42 la normale
-- VALUENEX Japan Inc. (TSE:4422, secteur Technology Services) jour -7.76 %, mois 57.67 %, prix 678 JPY, capi 6204283367, PER 46.5, volume x0.19 la normale
-- Wedge Holdings CO., LTD. (TSE:2388, secteur Finance) jour -6.67 %, mois 40 %, prix 14 JPY, capi 849101562, PER None, volume x0.02 la normale
-- S-Pool, Inc. (TSE:2471, secteur Commercial Services) jour -6.64 %, mois -11.72 %, prix 211 JPY, capi 18012831482, PER 13.3, volume x1.11 la normale
-- Japan Wool Textile Co., Ltd. (TSE:3201, secteur Process Industries) jour -4.83 %, mois -7.86 %, prix 1910 JPY, capi 123474622650, PER 12.0, volume x1.04 la normale
-- Datasection, Inc. (TSE:3905, secteur Technology Services) jour -4.55 %, mois -69.75 %, prix 714 JPY, capi 31769842415, PER 32.2, volume x0.09 la normale
-- MEDIA LINKS CO. LTD. (TSE:6659, secteur Electronic Technology) jour -3.23 %, mois -23.08 %, prix 30 JPY, capi 2359867172, PER None, volume x0.54 la normale
+- ROXX, Inc. (TSE:241A, secteur Technology Services) jour -16.72 %, mois -39.95 %, prix 254 JPY, capi 2265065791, PER 73.8, volume x22.85 la normale
+- property technologies, Inc. (TSE:5527, secteur Finance) jour -14.11 %, mois -15.04 %, prix 712 JPY, capi 10397909059, PER 7.9, volume x1.52 la normale
+- HODL 1,inc. (TSE:2345, secteur Technology Services) jour -13.79 %, mois 5.26 %, prix 100 JPY, capi 2062424028, PER None, volume x1.31 la normale
+- Vertex co.,Ltd (TSE:623A, secteur Finance) jour -11.42 %, mois -17.54 %, prix 442 JPY, capi 5977129655, PER None, volume x2.14 la normale
+- Delta-Fly Pharma, Inc. (TSE:4598, secteur Health Technology) jour -9.65 %, mois 37.33 %, prix 103 JPY, capi 2032731533, PER None, volume x0.32 la normale
+- Aiming, Inc. (TSE:3911, secteur Technology Services) jour -9.41 %, mois -12.86 %, prix 183 JPY, capi 9107533379, PER 10.5, volume x0.51 la normale
+- VALUENEX Japan Inc. (TSE:4422, secteur Technology Services) jour -9.12 %, mois 55.35 %, prix 668 JPY, capi 6204283367, PER 45.8, volume x0.32 la normale
+- FunPep Co., Ltd. (TSE:4881, secteur Health Technology) jour -8.16 %, mois 7.14 %, prix 45 JPY, capi 2280001431, PER None, volume x0.46 la normale
+- Wedge Holdings CO., LTD. (TSE:2388, secteur Finance) jour -6.67 %, mois 40 %, prix 14 JPY, capi 849101562, PER None, volume x0.06 la normale
+- SecuAvail, Inc. (TSE:3042, secteur Technology Services) jour -6.05 %, mois -60.75 %, prix 590 JPY, capi 4967450482, PER 126.5, volume x0.06 la normale
 
 ÉCRAN Japon : volumes anormaux :
-- property technologies, Inc. (TSE:5527, secteur Finance) jour -0.48 %, mois -3.04 %, prix 829 JPY, capi 10397909059, PER 9.2, volume x3.93 la normale
-- Bleach, Inc. (TSE:9162, secteur Commercial Services) jour 0.52 %, mois -13.45 %, prix 193 JPY, capi 4941465820, PER None, volume x2.85 la normale
-- Vertex co.,Ltd (TSE:623A, secteur Finance) jour -1.19 %, mois -4.59 %, prix 499 JPY, capi 5977129655, PER None, volume x2.82 la normale
-- HS Holdings Co.,Ltd. (TSE:8699, secteur Finance) jour 0.28 %, mois 0.75 %, prix 1077 JPY, capi 42458888500, PER 2.4, volume x2.63 la normale
-- MAEZAWA Holdings Co., Ltd. (TSE:575A, secteur Producer Manufacturing) jour 3.93 %, mois 2.7 %, prix 1904 JPY, capi 70079073669, PER 3.5, volume x2.37 la normale
-- BCC Co.,Ltd. (TSE:7376, secteur Commercial Services) jour 22.86 %, mois -24.16 %, prix 430 JPY, capi 1526034427, PER None, volume x2.33 la normale
-- Astena Holdings Co.,Ltd. (TSE:8095, secteur Health Technology) jour 1.12 %, mois 1.12 %, prix 542 JPY, capi 21710176804, PER 8.6, volume x2.13 la normale
+- ROXX, Inc. (TSE:241A, secteur Technology Services) jour -16.72 %, mois -39.95 %, prix 254 JPY, capi 2265065791, PER 73.8, volume x22.85 la normale
+- Top Culture Co., Ltd. (TSE:7640, secteur Retail Trade) jour 30.77 %, mois -3.95 %, prix 170 JPY, capi 2205872139, PER 3.8, volume x15.98 la normale
+- BCC Co.,Ltd. (TSE:7376, secteur Commercial Services) jour 3.02 %, mois -23.22 %, prix 443 JPY, capi 1526034427, PER None, volume x3.17 la normale
+- FRUTA FRUTA, Inc. (TSE:2586, secteur Consumer Non-Durables) jour 11.11 %, mois -20 %, prix 40 JPY, capi 4064607238, PER None, volume x2.78 la normale
+- DIGITAL HEARTS HOLDINGS Co., Ltd. (TSE:3676, secteur Technology Services) jour 0 %, mois -0.38 %, prix 1051 JPY, capi 22734021175, PER 19.3, volume x2.73 la normale
+- Japan Asia Investment Company, Limited (TSE:8518, secteur Finance) jour -4.42 %, mois -21.17 %, prix 108 JPY, capi 3174642597, PER None, volume x2.71 la normale
+- HS Holdings Co.,Ltd. (TSE:8699, secteur Finance) jour 0.93 %, mois 1.4 %, prix 1084 JPY, capi 42458888500, PER 2.4, volume x2.68 la normale
+- MAEZAWA Holdings Co., Ltd. (TSE:575A, secteur Producer Manufacturing) jour 3.93 %, mois 2.7 %, prix 1904 JPY, capi 70079073669, PER 3.5, volume x2.5 la normale
+- Astena Holdings Co.,Ltd. (TSE:8095, secteur Health Technology) jour 0.37 %, mois 0.37 %, prix 538 JPY, capi 21710176804, PER 8.5, volume x2.19 la normale
+- Vertex co.,Ltd (TSE:623A, secteur Finance) jour -11.42 %, mois -17.54 %, prix 442 JPY, capi 5977129655, PER None, volume x2.14 la normale
 
 ÉCRAN Inde : plus fortes hausses :
 - Kesar Petroproducts Ltd. (BSE:KESARPE, secteur Process Industries) jour 20.0 %, mois 9.9 %, prix 14.88 INR, capi 1198747296, PER None, volume x1.91 la normale
@@ -283,8 +286,8 @@ POSITIONS ET INDICES :
 - Aroundtown SA (LSIN:0RUH, secteur Finance) jour 6.25 %, mois 20.24 %, prix 1.7585 EUR, capi 1522102628.632228, PER 7.3, volume x1.18 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour -2.13 %, mois -14.89 %, prix 273.1 USD, capi 3326384161591, PER 14.3, volume x1.11 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour -1.48 %, mois -12.27 %, prix 40.63 USD, capi 3326384161591, PER 2.1, volume x1.24 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour -1.74 %, mois -12.43 %, prix 40.66 USD, capi 3326384161591, PER 2.1, volume x0.87 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour -2.02 %, mois -14.8 %, prix 270.98 USD, capi 3326384161590.9995, PER 14.1, volume x1.14 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.5 %, mois -0.9 %, prix 49.55 USD, capi 1559025893850, PER 1.7, volume x0.54 la normale
@@ -307,6 +310,10 @@ POSITIONS ET INDICES :
 - Beneteau SA (EURONEXT:BEN, secteur Consumer Durables) jour 3.84 %, mois 11.74 %, prix 5.14 EUR, capi 403167537, PER None, volume x1.03 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Black Friday Meets a Market Selloff—Will Consumers Keep Spending? - Moomoo
+- [Intelligence artificielle] These 2 AI Chip Stocks Are Down 36% to 39% From Their Highs. Here’s What History Says Happens Next. - The Globe and Mail
+- [Intelligence artificielle] Nvidia hits pause on chip shipments to Southeast Asia - TechCrunch
+- [Crypto] Galaxy Abandons BTC Bottom Call, Warns Bear Market Is Far From Over - Cryptonews.net
 - [Intelligence artificielle] Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It. - The Globe and Mail
 - [Rachats et fusions] Austral completes $80.7m Hammer Metals takeover - megaproject.com
 - [Résultats d'entreprises] Nutanix Price Forecast — NTNX ($46.30) $54.59 Upside Target on CEO Exit Selloff - TradingNEWS
@@ -448,12 +455,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Rachats et fusions] Commentary: Surprise! The PSC approves the acquisition of NorthWestern Energy - Daily Montanan
 - [Anthropic] Cathie Wood Just Bought $88 Million of Anthropic Stock - TradingView
 - [Anthropic] SoftBank sinks over 16% intraday as Anthropic’s IPO party leaves Asian tech cold - Digg
-- [Intelligence artificielle] NVIDIA Reportedly Halts AI Chip Shipments To Southeast Asia - Engadget
-- [Résultats d'entreprises] Nexteq Shares Drop a Fifth After Profit Warning on Delayed Orders - AskTraders.com
-- [Petites valeurs en croissance] BMW Ventures Share Price Target 2027: Q2 Review - Univest
-- [Défense, énergie, matières premières] Better Defense Stock to Own in 2027: Lockheed Martin vs. L3Harris Technologies - The Motley Fool
-- [Crypto] Pablo Hernández De Cos Backed as Next ECB President - Bitcoin Foundation
-- [Crypto] Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery - Yahoo Finance
-- [Intelligence artificielle] Trump heads to Arizona next week for a high-stakes expansion of TSMC's computer chip factories - PBS
-- [Banques centrales et taux] Pablo Hernandez de Cos choisi pour succéder à Lagarde à la présidence de la BCE - Investir Les Echos
-- [Banques centrales et taux] Les cryptomonnaies en alerte, la 
+- [Intelligence artificielle] NVIDIA Reportedly Halts AI Chip Shipments To Southeast Asia
