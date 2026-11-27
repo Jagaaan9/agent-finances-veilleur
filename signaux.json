@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-27T22:22:54.863682+00:00",
+ "mis_a_jour": "2026-11-27T22:30:34.792053+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54563.2,
+   "prix": 54594.39,
    "devise": "EUR",
-   "jour_pct": -1.07,
-   "mois_pct": -24.8,
-   "volume": 154.87979941,
+   "jour_pct": -1.02,
+   "mois_pct": -24.76,
+   "volume": 154.94171506,
    "volume_relatif": 0.71,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 8779940033,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 8779940033,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNVEp0REc0RVQ4TmdBWk5Eb1FmVXpnWlZaY1FvR3VNd1Q3Wkk4QjkwNWd0Nk9RSDRhMDladnIwdkdkTldmZVhQMnptMml1LUdmS21kQzJQSXNNN0NFZmRuanAtY3Bvc00weVJzWVc1LXRlNkM1dTJPWERTSlJGbURLYmlMS2p5cVN3VU14SlNxVnZYS3FENnN4OUxla1ZjZVNzR3k5Q09QbElwallLeW9LbnFfT2ZrYnZhYUdTMDcwaENiZTB4TDFrei1oWFAwOTJRaF9kTUo0MWlDWDZKTU9WWWhzaG14OWpxSmRISEFZVy1LMlR6RGhaT3NiQWJuRUxHaWdSYWxneU9ScHdBVlpR?oc=5",
+   "date": "Fri, 27 Nov 2026 22:19:25 GMT",
+   "vu_le": "2026-11-27T22:30:34.792053+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street’s Great Escape: 3 Rescue Squads Fuel a Thanksgiving Rally - Investing.com",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWt1THZYOThKN1BLOWszVWc1MDktbGQwN3FZem5VaFpGNDRBM2FnaDJCbThFd1RGVVpsNk5xc3dlU0ZOc1hwRkRIOTRZMXhjbW0xN2NvRS0wYmFWbVIwbDJRNV9wZ1dsdEhDS0FHWVFOak9lbFJ1OURvaVMwWm9BblFfQkIzRmFEZ1U4czhwaERvQjVsbFU1a2VDemZ3ZjdHa254Z25LWnlQeW40UHVvRHlB?oc=5",
+   "date": "Fri, 27 Nov 2026 21:56:30 GMT",
+   "vu_le": "2026-11-27T22:30:34.792053+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Wall Street ends higher as battered AI stocks gain in volatile week - Reuters",
+   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzWmVwbWlXQlFHXzZlT3YtM216NXdUY2hXNlp4R2lzVEhTeVJHUEl0N09QdnhRbHhFZGJBVVVxWEphWWdUS0JSaVo3b3hyZFNwTVhlU1NOaXVRVGhyVEJ6cWdSTWhhQ21RUzJrWHEwNi1abjBhY3RIUFRPbkd1QQ?oc=5",
+   "date": "Fri, 27 Nov 2026 22:12:28 GMT",
+   "vu_le": "2026-11-27T22:30:34.792053+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "What Would It Take for Hedera (HBAR) to Reach $1? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZDhNaTR4cU1VOXdEbnh6ZUx4NUhXcHE5bGxOSnU3dVpUbFMzWWZlb1JWcUlxUVkwWjQwQXVnSE5CSGlnbHktTU5mRERNZGtWVmhSRXlOc3NqNWJvbVh2OHR5OG1RNUg1VDRIc1NjaXJnanVDSVBNWmNad0dOQnlCd3ZrUWcwQkM4ZzE5WmhyWExUcTFUUXVuNnJGbHIteXozWUJYbzlKMA?oc=5",
+   "date": "Fri, 27 Nov 2026 22:01:00 GMT",
+   "vu_le": "2026-11-27T22:30:34.792053+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "L'analyste le plus optimiste sur Anthropic vise... 300 USD !... - Fortuneo",
@@ -6425,34 +6453,6 @@
    "titre": "AIM All-Share Small Cap Growth Stock: URU Metals keeps nickel exploration in focus as drilling moves from plans to evidence (LSE:URU) - kalkine.co.uk",
    "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQk9mbHdRQlFaOTAta0VHSG9aMnVFczNfZFk5eDQ0LVo3VjdMVlFJVmNnMVNxQi1fSlZrU0xIaWRXaXZTVldmWWdENzR0em53ellkM1BfTTNZNXhKVldJUTJYZllFV1F2VHNoc2JDYnQ3OGNYd2NiQ2pGWGhsbDlrX0dqTGNMQzEyQ3dEM0NtRmNfaW9KVzhnbUZzUjdsTUR6QXo4cTBNRHAxUjNCbFN3aXNPR1Nja3ROUk1PNEs2TVNFb2ZjX3JiUU95TU5kek4yVEhyTWhFYmZlMTByQTZBcnRUb19OaV9QUHpVeGh1ZlFEeldwMEE?oc=5",
    "date": "Fri, 27 Nov 2026 10:37:00 GMT",
-   "vu_le": "2026-11-27T11:30:36.296669+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Inside Waaree Energies Revenue Growth: Order Book Scale vs Margin Pressure - Equitymaster",
-   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wckQxTHlxUml1WDhVZURFeFFWd2w1d2J2elpYeElJM1VZU3E0aDZiRWlsbmJVUHdfeW8tbGd4V2VmaXgzX3hnU3ozcHZHOUtNal9MTjlPcEJpYjc4Y3VRZ0NCVzJ6OU9BT2s1YkdXV1I?oc=5",
-   "date": "Fri, 27 Nov 2026 09:46:44 GMT",
-   "vu_le": "2026-11-27T11:30:36.296669+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Why Stock Market is Down Today? Factors Behind the Fall of Equity Benchmarks in Today’s Trade - Kotak Neo",
-   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByWE04WVJrYm56SnV5ZjhHRjU5ZnE1SmNmVXpnenQ4V0FPODFLR3ZyNEJOVXdFdVVPVUs0V3pVT3ROdVhkRFNlRUVNeFVvYjEzZVhkbVBnTm1XNGRpRDhUNFhJejRoQWllQmVDWTFtQjA2WlMzLS1xTDA5ZHg5UQ?oc=5",
-   "date": "Fri, 27 Nov 2026 10:06:13 GMT",
-   "vu_le": "2026-11-27T11:30:36.296669+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "BTC News: $7B Bitcoin Options Expiry Aftermath – What Happens Next? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHY2dDc5dlhMUEVFVHFRTWEtd3llX1dOTUFwcVBLaE93eHpDQ2JhMDNhVUxRcFpub0RRenFTbEJfWm9Lb2tLT1V5OUZKSDRjX3dOSVBpbFFremFpazhqUWpwaXdaTEg3VDd4RVdqWjlIVG8xWnc2WU5pdlhEZDk1X3lWakpQODJFYUJsQlF6ZU80R0t1b2NmNA?oc=5",
-   "date": "Fri, 27 Nov 2026 10:59:01 GMT",
-   "vu_le": "2026-11-27T11:30:36.296669+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Price Taps $61K on Thanksgiving as Short Sellers Take a Beating - Cryptonews.net",
-   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmdVV0RXJZNDJJYXc1aTVEZzJuNjFqSm1aR1JzTHdzcVhmbWg5ZjRGWjJMakpST1pJZTc1anBVbFlUczI5ajBfS1pwWW9HTFF1TG52UmRyNE0?oc=5",
-   "date": "Fri, 27 Nov 2026 11:07:19 GMT",
    "vu_le": "2026-11-27T11:30:36.296669+00:00"
   }
  ],

@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54563.2 EUR, jour -1.07 %, mois -24.8 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54594.39 EUR, jour -1.02 %, mois -24.76 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -226,8 +226,8 @@ POSITIONS ET INDICES :
 - IX Knowledge Incorporated (TSE:9753, secteur Commercial Services) jour 0.9 %, mois -5.09 %, prix 1342 JPY, capi 12613998051, PER 7.4, volume x8.8 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 834986797, PER 28.6, volume x17.7 la normale
+- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (BSE:GOYALALUM, secteur Distribution Services) jour 20 %, mois 26.49 %, prix 7.02 INR, capi 834986797, PER 29.1, volume x52.33 la normale
 - Waaree Renewable Technologies Ltd (NSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 23.4 %, prix 825.7 INR, capi 71797243279, PER 18.5, volume x233.67 la normale
 - Waaree Renewable Technologies Ltd (BSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 22.52 %, prix 825.4 INR, capi 71797243279, PER 18.5, volume x128.17 la normale
@@ -310,6 +310,10 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
+- [Marchés mondiaux] Wall Street’s Great Escape: 3 Rescue Squads Fuel a Thanksgiving Rally - Investing.com
+- [Intelligence artificielle] Wall Street ends higher as battered AI stocks gain in volatile week - Reuters
+- [Crypto] What Would It Take for Hedera (HBAR) to Reach $1? - 24/7 Wall St.
 - [Anthropic (FR)] L'analyste le plus optimiste sur Anthropic vise... 300 USD !... - Fortuneo
 - [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
 - [Marchés mondiaux] Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - The Motley Fool
@@ -455,8 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] Inter & Co (NASDAQ:INTR) Stock: Bank Rally Lifts Shares Against a Tech Selloff - kalkine.com
 - [Crypto] Bitcoin Would Benefit 'Massively' if the Fed Does This Unexpected Move - Benzinga
 - [Crypto] How Much Will 1 Bitcoin Be Worth in 2035? - Yahoo Finance
-- [Crypto] Franklin Templeton just updated its crypto ETF. Here's what you should know. - Yahoo Finance
-- [Bourse de Paris et Europe] La Bourse de Paris en forte hausse jeudi - France 24
-- [Bourse de Paris et Europe] L'Europe finit dans le vert, se redresse après des jours agités - Zonebourse Suisse
-- [Bourse de Paris et Europe] Les Bourses européennes terminent dans le vert - Zonebourse Suisse
-- [Banques centrales et taux] La livre sterling progresse, le ton restrictif de la BoE contrebalançant les anticipations de hausse
+- [Crypto] Franklin Templeton just updated its crypto ETF. Here's what you should know. - 
