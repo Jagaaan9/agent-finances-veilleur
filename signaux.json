@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-27T23:30:38.482445+00:00",
+ "mis_a_jour": "2026-11-27T23:40:35.367270+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54656.31,
+   "prix": 54648.38,
    "devise": "EUR",
-   "jour_pct": -0.9,
-   "mois_pct": -24.67,
-   "volume": 158.42590683,
+   "jour_pct": -0.92,
+   "mois_pct": -24.69,
+   "volume": 158.44094083,
    "volume_relatif": 0.72,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 834986797,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 834986797,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "L'Europe finit dans le vert, se redresse après des jours agités - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc0JJaHVrdjFPYzEtLWpCXzcxTE5EZTh1WTQ4b21tTjhLTWVabVhDOTZ0aDh5VU01ODRmc28tNnFiSjh0R2o0LVJRdDlLaWFlNk9odUVHclVEeVMtbGo3aVMxQWRGemplMTBfUzBWaUtTUy1yYjRhTUhhZkMwX01oNTNnVUQxZnpXazc0NWVKUnItT1EyOU91ZDN3OWMxUVFzNG5VVkd3Tk9hZS15eFJMNWt3eU84UklEVy02NEs1c184QW9NOFoyOWo3eUh5eVRjVnhfV2lFckJCR1Ru0gHcAUFVX3lxTE9zQklodWt2MU9jMS0takJfNzFMTkRlOHVZNDhvbW1OOEtNZVptWEM5NnRoOHlVTTU4NGZzby02cWJKOHRHajQtUlF0OUtpYWU2T2h1RUdyVUR5Uy1sajdpUzFBZEZ6amUxMF9TMFZpS1NTLXJiNGFNSGFmQzBfTWg1M2dVRDFmeldrNzQ1ZUpSci1PUTI5T3VkM3c5YzFRUXM0blVWR3dOT2FlLXl4Ukw1a3d5TzhSSURXLTY0SzVzXzhBb004WjI5ajd5SHl5VGNWeF9XaUVyQkJHVG4?oc=5",
+   "date": "Fri, 27 Nov 2026 17:19:54 GMT",
+   "vu_le": "2026-11-27T23:40:35.367270+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "VTB opens bitcoin trading to qualified investors as Sberbank eyes December 1 - Startup Fortune",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFV6TzRDOUkxMDVVckJkbWZyNS1OWmF6a0NrSHc3WGE2dFVCdEd4SHh4dWp0RlM1RTJXTHBTNkFQanBfSFlyTEx6ZjZSM0szRUFIX3dWWXBFZlhCYWNUVW43Q3RiV0ZHQXF3cDA2M3dIZ29SMFh0ZmVuMWtPVXBUNGlqNnY1Tmp4WnItR1hqM1BfdktjV3MtOXZnOVhTbF9yVU91MzlIZw?oc=5",
+   "date": "Fri, 27 Nov 2026 23:33:47 GMT",
+   "vu_le": "2026-11-27T23:40:35.367270+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Un militant entame son troisième jour de grève de la faim devant Anthropic - Dataconomy",
@@ -6440,21 +6454,9 @@
    "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQklySnhpQmRLWC1HSm5RX0RtY2IxbWx5NkpVSm5aMTdhNU9kWV9lLXNmeUR5aTVqWmNZU1FtS2R0V1A3SjRjY21oVEZJbTZpWjMyRlZ0RktNYkp1RzdtS1doZzZOZWd2NmhJcmU1WVU0Z1hTeWxzVGJEM3V5YWc3bUh4cl93QmlaY2xJcTRITDVHa01yNmV5U1hfd1llelNWc1dMSkY2aXfSAa4BQVVfeXFMTjRpQ2Zaa2RQM0V4VmdqYUxMY2E5bTAtbW53RTNjaHRxYzFXNnBqREZfMmJ1dWc2Tld1SndTd3ZQcUc0Z0k0M3NKcXRiN1d1TXprVTI3VTBtUDBvUzh3SU5xUFI0TElDQzMyUEdiT2I0ZWNUa3B6WEZheHNhTmducFJiOHJKMEpuWThWZVlCTHBONWQ0RUlNc0NkbXJWaU1adWJDMnJkZW5DTmV1UVVB?oc=5",
    "date": "Fri, 27 Nov 2026 11:55:41 GMT",
    "vu_le": "2026-11-27T12:00:41.973506+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia Sellers Deliver a Stark Warning. These AI Stocks Could Feel the Pressure - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVEhYUUdGUDZuWjNtUTI1dkkwZEJmM0pMRGdtcGROdE0zRG9OVUxOMjMxWkp2TC1yR3RjWDdnOEtldXVNMEpxSlJFcV9iaTd2U2ZQVVVlR3M2Z05aeDFsbVoya0ZMUlhha3NiNzRqSXJTT3FYbXNHOGtNU2ExaFAwaEJqOGVuSkVjR2dCbkFyS0tCM09BZ0RGRG9NQndyaEhTanp6Z3oya3dDMmRmMkxIWjdreWJqVXFoR1ZXN0pWYVVtdHVMQ19HSDRCZVJOQUZOU01URQ?oc=5",
-   "date": "Fri, 27 Nov 2026 11:19:29 GMT",
-   "vu_le": "2026-11-27T12:00:41.973506+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "India's retail investor boom: NSE investor base jumps 4.4 times to 13.5 crore since March 2020 - Upstox",
-   "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMTdiUnV3Zlh3THVmeU14Rk9LZGNlOXRLYnVvaEZqYmZxMWlzR0hJejBvRExxVEEtYVZwOXhwajAyV0lXSzBmc0JRYmlwUE41SUNQQktSRkFCLWItR3hZemR2ejMwQVg4cnZzcndVSnRYU2paWmlPeWxnRGc4M3N4LWlnOVBRcmF5T0lNT0pQWWxPLW5IdG9OWFlaZTNPNVd3aVFQM2tjZHVaZGRuOHJZcGhwRGk0YWVkZE9xTVJ4eWVYMl9rNHBzYjdqUE1JbHhTSDJrTHp0ejJpTmVaekt1S0FPM1ZEYWY1NU05OEVhek9udw?oc=5",
-   "date": "Fri, 27 Nov 2026 07:16:38 GMT",
-   "vu_le": "2026-11-27T12:00:41.973506+00:00"
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "actu Banques centrales et taux: HTTP Error 429: Too Many Requests"
+ ]
 }
