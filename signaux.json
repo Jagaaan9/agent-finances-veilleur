@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T14:30:41.768480+00:00",
+ "mis_a_jour": "2026-11-28T14:40:35.124577+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54251.42,
+   "prix": 54337.28,
    "devise": "EUR",
-   "jour_pct": -0.88,
-   "mois_pct": -25.53,
-   "volume": 64.13453546,
+   "jour_pct": -0.72,
+   "mois_pct": -25.42,
+   "volume": 64.40033126,
    "volume_relatif": 0.3,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 1001984170,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 1001984170,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3385,20 +3385,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3407,6 +3393,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Gavin Baker Got “Much Better Versions” of His Claude Code Builds From Grok Bot. Warning for Anthropic - TIKR.com",
+   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSUxUdFBEZ0lfSDA3Z0YxSDdRNnFZbEpFTW1QMDYtYmU5M0ZRT0dkMWIyREZNQXhtNFhjN2c4bDhBZ21ZaDh6cFo3SkJoQ1U5ZzJGMzdXSDlFbk5jcmIxOF9xLUU5dXhhVC1pQWphRUotakctTDc4bXNKaEctWk5sMl9oX1NWcENWZnZmS0FyT0k0NXJzdnI3UVBPNUh1NjRTcFQ1WV9sZGlXWDhTOTExczBabVY3TXl0a1R0WUl3WmdMRjlPR3c?oc=5",
+   "date": "Sat, 28 Nov 2026 13:06:56 GMT",
+   "vu_le": "2026-11-28T14:40:35.124577+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "actualites CAC40 9154TPIOPENS (F90KS) - Turbo | DE000FD2WJN3 - Cotation EURONEXT ACCESS PARIS - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEVUNlplMGRnajBGd0VNN1l5NVE2YlF6dHE0cmFEUkhUVDhPWlI2Sy1GbDR5dnZnQVUtN19hYTl6N3ZEWk5JcU9XT2pzRFdvbHRHSzBzZVA2Q3pOT2Y1Y1Z2aHltb1hsTVRWYmRrdUJMVzhXTjFPSV9BaGRKMHFUdkgzR1FMTGdfWGFsTGxCX1F0V1U4ckhQOGUtX0IxbEZmZEJHZDJxS3loMzlxa2JMcGFYTVN3bGJY?oc=5",
+   "date": "Sat, 28 Nov 2026 12:58:48 GMT",
+   "vu_le": "2026-11-28T14:40:35.124577+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "MICHELIN Cours Action ML, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hR2Q5ajlWM0tXT20zbkNzRS1wMzRscGs2OWRHQ1NFS2FZaTd2RDdoTDBZUXdkYlFpVFR2QVI5X0t2TVNYYWZLRVRRZG1VOUFW?oc=5",
+   "date": "Sat, 28 Nov 2026 10:55:00 GMT",
+   "vu_le": "2026-11-28T14:40:35.124577+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "ESSILORLUXOTTICA Cours Action EL, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RlZOTHFnaWMzRWtNS3dHZXUyaWw5Zl9XalNOS1dGOGs5SEYwSHhuY1h4NXVjWXVNbi0wOUFiaVpTU255cWxHeWQxMlM4bUlX?oc=5",
+   "date": "Sat, 28 Nov 2026 09:28:46 GMT",
+   "vu_le": "2026-11-28T14:40:35.124577+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin wallet from 2010 wakes up, sparks AI hacking fears - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yb2Z5OXNHTVo2UVZoQ2tpd09JVVl3N2U4eFpILThRTDdMRjB3V05NQUVkLUJ3T0FETGVjeUoyeTZXSzBxM25CSVpSSG5kVnN6V2tHQ0E0bFMtNmdXVjY3cUxkNTY2NHpYYS1GTHVKMC1jUQ?oc=5",
+   "date": "Sat, 28 Nov 2026 14:21:53 GMT",
+   "vu_le": "2026-11-28T14:40:35.124577+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "I left New York after getting laid off from my tech job and moved to China at 29. I no longer want my old life back. - Business Insider",
@@ -6418,41 +6453,6 @@
    "titre": "Anthropic Stock Is Up 11% From Its IPO Price, and One Analyst Still Sees 63% Upside. Should You Buy? - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQnVRRktwajNYOURkR3lPSDhPbmJqcmJNN3RoaUlDR3FwNHk0U3hXbjFjcl9nWTBBSVZ6Qy1GTVFhUzUtb1ZGaUJhSlJsOXRvR3B1ay1XeFhHMG5rOVdMbll6elVrZlY1bnB1TWZEN2RFNk9kMU82bTZQZ09FdUJXb1lzN1YtbUFPa1NNQVhPaERXNXFqVUlUcQ?oc=5",
    "date": "Fri, 27 Nov 2026 21:23:36 GMT",
-   "vu_le": "2026-11-27T22:10:36.916563+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Is Anthropic Stock a Buy Before Its Dec. 15 Share Unlock? - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVmJQVmhTaFhpRGIzSGhTTnozcS1TbUpVeXpRNlB1OUp2Ul90NWlzelhaTFBURHZRV0EwM0NCaXFpUFB6X2VOaE5PU1FTd2tBeTBDMlZ3eHpLX2ExbEJvY2ZydkEtUTBfN2t3bXpvdzJLRFRveGVVX21zRnl2dVZvcVZ3X2M4T0VtMFJsNl9QSDFOc1U3UWt0M2VBU2pzOWNDSVdBUXk5VVYtc1FXZjBmTDh0N0FtSm82RVFERmhrOTllQ0FIek1leXQ3RDVwQzdiYkxRTGVOTjBUdw?oc=5",
-   "date": "Fri, 27 Nov 2026 21:59:19 GMT",
-   "vu_le": "2026-11-27T22:10:36.916563+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Wall Street clôture en hausse une semaine particulièrement nerveuse - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQ0ptbEwtbWEwNjM0ZElIaDlWY2FHNHNwdDVVRzRnN3I0MksyeC1CajU0RU80eHdyaU9WUjNBajZ4SVVza0dzRjk0T2FZYi1rcnprMjgyajA5a3g0U3hrVTBaNGRVeS1BbFFlMkFCcEEzcE9UTmVOckUtc0FoSWJGTDE0Ui1GTHlqUXU0c296a3U2UFFPY2NBX3ZhNVFvaUllZHZJQkZSbTQzS2pWMWtFNWRFNjN5cnJuOU42LS1pdDFqVU1JOFZDN0Y2QWZaaE1zcmpYSkxLN2trc1BHMV9YbUphaWxUblJlMlBpem91dkIxMUxWWG9SUHBn?oc=5",
-   "date": "Fri, 27 Nov 2026 18:08:00 GMT",
-   "vu_le": "2026-11-27T22:10:36.916563+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Uber secures 87.13% stake in Delivery Hero takeover offer - grafa.com",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOamU0cmpxYXhTN3Z6dTlIXzhzMzYzSUxiTHdMQ1RxSkEwdDRCMVBhVXhsOUVyTEp6eDREQm1rRW9iRWdZNE5lOXA1RDh4TEZFenZfMzhfTGhhbHBlbmt2eGlNQWlMNDFJa0FNR0hzUGExUVlndEctYWJpR0R6TDM5NzJ0djA4RWFRTHh0SHh5X0w3VmgtcVFB?oc=5",
-   "date": "Fri, 27 Nov 2026 13:55:00 GMT",
-   "vu_le": "2026-11-27T22:10:36.916563+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "SemiLEDs Returns to Profit as FY2026 Revenue Falls 56% - grafa.com",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPajdGWWVmWWhHM1IyQnN4VmNoX2NTeDd4YTlSeEpQX005b3V5bG43cVN5WnM0cGlRMmVFdnE1X1ZMenhjWDFsVGxaSno0MFN3LUx4d1JpQm1kdGd6U3AwXy1FVEpZbVBueVg0WWEzWl81SUZWbTByTDN6N2NfNXVHdjlsVWRVQVJoXzVURkp6NDA2eEh1YVE?oc=5",
-   "date": "Fri, 27 Nov 2026 16:01:27 GMT",
-   "vu_le": "2026-11-27T22:10:36.916563+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Alfa Laval (OM:ALFA) Stock May Be 25% Undervalued On Capital Markets Day Growth Plans - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSlI3YWVXeW1MWGpSa2otVzc3S291elA2NjZHWV9yTjVvYWU3aVFPR0pRM0E5TEdTd202dzVaR180cU91X3Z1dmhKd0doSnptSnVpdzh6a0piSS10TS1qS0kxQnNSNTVpbXNqLVp2VE53M0ZJMmEwd3dCRkR6WGdvLUpfOWFJUjBzOUN1UXBUNlFLTFU?oc=5",
-   "date": "Fri, 27 Nov 2026 21:17:06 GMT",
    "vu_le": "2026-11-27T22:10:36.916563+00:00"
   }
  ],
