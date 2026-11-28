@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T09:50:35.014580+00:00",
+ "mis_a_jour": "2026-11-28T10:00:34.497632+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54432.28,
+   "prix": 54458.7,
    "devise": "EUR",
-   "jour_pct": -0.55,
-   "mois_pct": -25.29,
-   "volume": 45.71174524,
+   "jour_pct": -0.5,
+   "mois_pct": -25.25,
+   "volume": 46.23664903,
    "volume_relatif": 0.21,
    "capitalisation": null,
    "per": null,
@@ -979,7 +979,7 @@
     "mois_pct": -47.15,
     "volume": 140139,
     "volume_relatif": 1.3,
-    "capitalisation": 76404561536.63785,
+    "capitalisation": 88600643462.9974,
     "per": 5.7,
     "bourse": "TRADEGATE",
     "secteur": "Electronic Technology"
@@ -993,7 +993,7 @@
     "mois_pct": -16.22,
     "volume": 1146698,
     "volume_relatif": 0.88,
-    "capitalisation": 1358462427.50848,
+    "capitalisation": 1473261953.350111,
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Electronic Technology"
@@ -1007,7 +1007,7 @@
     "mois_pct": -15.54,
     "volume": 146508,
     "volume_relatif": 0.69,
-    "capitalisation": 1358462427.50848,
+    "capitalisation": 1473261953.350111,
     "per": null,
     "bourse": "GETTEX",
     "secteur": "Electronic Technology"
@@ -1035,7 +1035,7 @@
     "mois_pct": -21.14,
     "volume": 158240,
     "volume_relatif": 0.71,
-    "capitalisation": 25048288900.07692,
+    "capitalisation": 27300991230.873726,
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Electronic Technology"
@@ -1049,7 +1049,7 @@
     "mois_pct": -18.89,
     "volume": 350262,
     "volume_relatif": null,
-    "capitalisation": 1009067665063.6465,
+    "capitalisation": 1119859080436.408,
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Technology Services"
@@ -1063,7 +1063,7 @@
     "mois_pct": 14.45,
     "volume": 154289,
     "volume_relatif": 0.75,
-    "capitalisation": 502212665.8072546,
+    "capitalisation": 540953159.4061166,
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Commercial Services"
@@ -1077,7 +1077,7 @@
     "mois_pct": -22.97,
     "volume": 278579,
     "volume_relatif": 0.83,
-    "capitalisation": 1761761686.180107,
+    "capitalisation": 1907275905.4601154,
     "per": 27.8,
     "bourse": "TRADEGATE",
     "secteur": "Non-Energy Minerals"
@@ -1091,7 +1091,7 @@
     "mois_pct": -20.99,
     "volume": 688218,
     "volume_relatif": 1.42,
-    "capitalisation": 518859340.86424476,
+    "capitalisation": 544471788.8089505,
     "per": null,
     "bourse": "TRADEGATE",
     "secteur": "Producer Manufacturing"
@@ -1135,7 +1135,7 @@
     "mois_pct": -14.73,
     "volume": 807756,
     "volume_relatif": 4.45,
-    "capitalisation": 35992209869,
+    "capitalisation": 35311274998,
     "per": 10.6,
     "bourse": "TRADEGATE",
     "secteur": "Finance"
@@ -1149,7 +1149,7 @@
     "mois_pct": -14.72,
     "volume": 130108,
     "volume_relatif": 4.06,
-    "capitalisation": 35992209869,
+    "capitalisation": 35311274998,
     "per": 10.6,
     "bourse": "GETTEX",
     "secteur": "Finance"
@@ -1191,7 +1191,7 @@
     "mois_pct": 21.11,
     "volume": 265994,
     "volume_relatif": 1.76,
-    "capitalisation": 1929389309,
+    "capitalisation": 1944693311,
     "per": 7.3,
     "bourse": "TRADEGATE",
     "secteur": "Finance"
@@ -1263,7 +1263,7 @@
     "mois_pct": -20.16,
     "volume": 139350,
     "volume_relatif": 6.73,
-    "capitalisation": 361069633.2462523,
+    "capitalisation": 361554950.1085093,
     "per": null,
     "bourse": "FWB",
     "secteur": "Consumer Durables"
@@ -1291,7 +1291,7 @@
     "mois_pct": -7.8,
     "volume": 111725,
     "volume_relatif": 5.24,
-    "capitalisation": 751692302,
+    "capitalisation": 755999990,
     "per": 23.7,
     "bourse": "TRADEGATE",
     "secteur": "Retail Trade"
@@ -1305,7 +1305,7 @@
     "mois_pct": 2.65,
     "volume": 155322,
     "volume_relatif": 4.5,
-    "capitalisation": 49282650428,
+    "capitalisation": 49334908198,
     "per": 11.3,
     "bourse": "GETTEX",
     "secteur": "Utilities"
@@ -1319,7 +1319,7 @@
     "mois_pct": -14.73,
     "volume": 807756,
     "volume_relatif": 4.45,
-    "capitalisation": 35992209869,
+    "capitalisation": 35311274998,
     "per": 10.6,
     "bourse": "TRADEGATE",
     "secteur": "Finance"
@@ -1347,7 +1347,7 @@
     "mois_pct": 21.51,
     "volume": 137912,
     "volume_relatif": 4.3,
-    "capitalisation": 30627965999.446053,
+    "capitalisation": 31190193606.58624,
     "per": 14.8,
     "bourse": "TRADEGATE",
     "secteur": "Consumer Non-Durables"
@@ -1361,7 +1361,7 @@
     "mois_pct": -22.45,
     "volume": 288462,
     "volume_relatif": 4.26,
-    "capitalisation": 95770656022.25005,
+    "capitalisation": 93027036110.37895,
     "per": 4.2,
     "bourse": "TRADEGATE",
     "secteur": "Energy Minerals"
@@ -1375,7 +1375,7 @@
     "mois_pct": -14.72,
     "volume": 130108,
     "volume_relatif": 4.06,
-    "capitalisation": 35992209869,
+    "capitalisation": 35311274998,
     "per": 10.6,
     "bourse": "GETTEX",
     "secteur": "Finance"
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 1001984170,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 1001984170,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3371,6 +3371,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOG",
     "nom": "Alphabet Inc. Class C",
     "prix": 272.44,
@@ -3393,20 +3407,6 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC",
-    "nom": "Bank of America Corp",
-    "prix": 49.07,
+    "symbole": "NYSE:BAC/PP",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP-",
+    "prix": 14.51,
     "devise": "USD",
-    "jour_pct": 1.09,
-    "mois_pct": -3.6,
-    "volume": 19471454,
-    "volume_relatif": 0.57,
+    "jour_pct": -0.34,
+    "mois_pct": -1.23,
+    "volume": 160626,
+    "volume_relatif": 0.89,
     "capitalisation": 338593252758,
-    "per": 11.7,
+    "per": 3.5,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Anthropic bondit de 11 % malgré une semaine volatile au Nasdaq - Traders Union",
+   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc0NqdFViaDAzUTVQOXRSSjhFYzZTYnE2LWFrVEVwaDNaa3B1WGhtQ0lhb1RyWlhLV3FXcW9Lb3J4Nk9QempCVjZCS3JFSHdYdXZyUmthYzlLSGN4YXN3bXFESTR3aTdtMF9iQXVQOHoxdEJRS0lNdWpqUWIxSzNseUwwRFZZUGtNZ3c?oc=5",
+   "date": "Sat, 28 Nov 2026 07:49:03 GMT",
+   "vu_le": "2026-11-28T10:00:34.497632+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Stock Market Today, Nov. 27: Chip Stocks Rebound Sharply on Broad AI Enthusiasm - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVVVBWkxLVWVjbFdhM3hVZGE5Vm9pSUFON19ZWW1pZTltcGlnWmZUMlZxWmdZTUV5cDY1bERKaTVlYVBIME5YemFpTThnWmRqT01KZWxXT2phSnhJU2FkXzVFY3Q2WmdVZ2E5dGlQZU5nZGJpOVdNT3ZjdmJlRU1KbXNsOUphaXhYanRWZWNOM0lRSkh5YjZmU0RPcGt3di0tWmdoendZTVEwaWptRHZvVXRRM21GeTg5UUhXek1yRjJVWWJBOWtxaFZiRzZVdm5EODcwa3lqY0xoR0lBU2xxd0xWbzNrNENzalpTRm83N1pET1U?oc=5",
+   "date": "Fri, 27 Nov 2026 22:33:03 GMT",
+   "vu_le": "2026-11-28T10:00:34.497632+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin price at $59,600: eighth day of ETF outflows - CryptoTicker.io",
+   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb1FwWVRIZnlRSU8yV284bzZldFQtM2NZNG9Ddy1sT1E4endaRXl4ZnlyeUQxRXpSbGhpdWZDOEZpbGFWRGxKTllrVVVIRnJrWk92RnJjN0E1akhVUjctRS1LSEZPU3dXdXFXYXVsc1R4bllGZzVVT0tfZWxtdjhuU0R2YjlmalhDalpR?oc=5",
+   "date": "Sat, 28 Nov 2026 09:19:17 GMT",
+   "vu_le": "2026-11-28T10:00:34.497632+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto news: Ether -4% to $1,659, Fear & Greed at 10 - CryptoTicker.io",
+   "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzTnEwUThydi1kMVF5VGVaVDZCU3hfa3g2WXVGeVVLZDV6UU90S2tMNUZudWJWODhVMDJhSi1fdE0zTExTX254T1RtTFBVWDhNS0VxMHB0UEY3YUVEVFZTaHJmLXJkU3FOYzBLbDZGZWN4MDJfSTQzQQ?oc=5",
+   "date": "Sat, 28 Nov 2026 07:01:27 GMT",
+   "vu_le": "2026-11-28T10:00:34.497632+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "Bourse : Conseils boursiers, Analyse technique, Cours de bourse et CAC 40 en direct - BFM Bourse - BFM Bourse",
@@ -6426,34 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUlGcTJjcGppcEd2bXVPX3VBaHFxQVc1ZTk2eEt5M0UxajNDYnpWWmNtRG90QkdxTzNlZnUwUGd6QllyMVJMOFRHTDhjaF9fQkVFQUtHQmotSTZWMHlIRTJELWlrVk1NM2QtX2dsendlWlNkRHRyVjFqZU9rLUdjRmFPdTFtS21UVndOY0ZrOA?oc=5",
    "date": "Fri, 27 Nov 2026 16:10:50 GMT",
    "vu_le": "2026-11-27T17:10:36.272577+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Russia's VTB Opens Bitcoin Trading After Crypto Test Rules - Bitcoin Magazine",
-   "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hdTlKSjE4Q0NveXJDcUVSaVFSb2hwU3VBWEhtNXJOa2FWSDJWXzlTZnN2LXpDLTRjSDE3RDc2cmhyRTdrV0lFeWN6eENPUU12eEFjb0x2Zkgwa0trSzN4RkJDMTNqTVlWam9JTS1sYVkyeGVmQnIzNWd2MA?oc=5",
-   "date": "Fri, 27 Nov 2026 17:06:12 GMT",
-   "vu_le": "2026-11-27T17:10:36.272577+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Coinbase: Tough Crypto Winter Won't Last (NASDAQ:COIN) - Seeking Alpha",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ2E0dTNYRmRhWWxWcVFOUjVKYmJnVlhKd18tdmR1ZV9fSF9acU5nVEhqYXVua2w4OGREUVBjTEdtQWdKbldKWktpc19yTnFydjdpeGNrT2R3aVZxdGYyQ2lqQTRmVVlEdXdaamk5RHBZUG15dTBUeDRFaFF6Ql9sbmczUkZJaXNraGliOXRfVDZQRGV5YlJYRDAtSGg4bkE?oc=5",
-   "date": "Fri, 27 Nov 2026 17:03:57 GMT",
-   "vu_le": "2026-11-27T17:10:36.272577+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Stock Surges as Tech Rebounds from Selling Pressure - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWDE4dV9UUkRiQlFuZkVQOGRlT0JIV2NDSGpmclByUGM2enN5SkZyTmpXb1dFZ2JjNURrUlMzX05BX0FZVEthSGZrd2hieFM3T1QxYlV1ZWhVaEloR1pIUUxRUF9yZnloMWhOZk84Z2pyNUtwTTFHU2ZtVWxuVDRiSjIyU0xsTkp1UThHLV9sOC0wOW9ZUFdzWmdEWnAwajBPaDlzNVdHOWRZenVCUElXejVVVjdQSjVjOXpmTnl0dw?oc=5",
-   "date": "Fri, 27 Nov 2026 16:49:18 GMT",
-   "vu_le": "2026-11-27T17:00:36.320612+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "POINT HEBDO-Vers un mois de décembre à haut risque - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORnBZWEQzeXROOF9nOHJlQkNjN1JnYzhSdFdteFhUTGpldlkzZENnUWd5aXZJWHctZm54anVsSWRqalRqVUxsQmZnMVdmd3FiaTRKN05ZSG44cGhSTjg1a3kxNll3YlU1alZyZFVSWVQyajBMejR5U1ZDS0tCa2U2VkdtTjUxRndaSU9Ua2dldjk5dktDdzByVTJNNTFZenBFbG1Lbm5hbWNTRG5YakktdURPRUtPS0tDbUljWkREU0tKUjg5ajdlVXBvUzDSAcwBQVVfeXFMTkZwWVhEM3l0TjhfZzhyZUJDYzdSZ2M4UnRXbXhYVExqZXZZM2RDZ1FneWl2SVh3LWZueGp1bElkampUalVMbEJmZzFXZndxYmk0SjdOWUhuOHBoUk44NWt5MTZZd2JVNWpWcmRVUllUMmowTHo0eVNWQ0tLQmtlNlZHbU41MUZ3WklPVGtnZXY5OXZLQ3cwclUyTTUxWXpwRWxtS25uYW1jU0RuWGpJLXVET0VLT0tLQ21JY1pERFNLSlI4OWo3ZVVwb1Mw?oc=5",
-   "date": "Fri, 27 Nov 2026 15:12:04 GMT",
-   "vu_le": "2026-11-27T17:00:36.320612+00:00"
   }
  ],
  "erreurs": []

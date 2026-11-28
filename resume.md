@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54432.28 EUR, jour -0.55 %, mois -25.29 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54458.7 EUR, jour -0.5 %, mois -25.25 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -83,39 +83,39 @@ POSITIONS ET INDICES :
 
 ÉCRAN Allemagne : plus fortes hausses :
 - Sandisk Corporation (XETR:BW9, secteur Electronic Technology) jour 13.33 %, mois -48.59 %, prix 76.5 EUR, capi 88600643462.9974, PER 5.6, volume x1.39 la normale
-- Sandisk Corporation (TRADEGATE:BW9, secteur Electronic Technology) jour 13.04 %, mois -47.15 %, prix 78 EUR, capi 76404561536.63785, PER 5.7, volume x1.3 la normale
-- Plug Power Inc. (TRADEGATE:PLUN, secteur Electronic Technology) jour 11.58 %, mois -16.22 %, prix 1.06 EUR, capi 1358462427.50848, PER None, volume x0.88 la normale
-- Plug Power Inc. (GETTEX:PLUN, secteur Electronic Technology) jour 11.1 %, mois -15.54 %, prix 1.0666 EUR, capi 1358462427.50848, PER None, volume x0.69 la normale
+- Sandisk Corporation (TRADEGATE:BW9, secteur Electronic Technology) jour 13.04 %, mois -47.15 %, prix 78 EUR, capi 88600643462.9974, PER 5.7, volume x1.3 la normale
+- Plug Power Inc. (TRADEGATE:PLUN, secteur Electronic Technology) jour 11.58 %, mois -16.22 %, prix 1.06 EUR, capi 1473261953.350111, PER None, volume x0.88 la normale
+- Plug Power Inc. (GETTEX:PLUN, secteur Electronic Technology) jour 11.1 %, mois -15.54 %, prix 1.0666 EUR, capi 1473261953.350111, PER None, volume x0.69 la normale
 - Plug Power Inc. (XETR:PLUN, secteur Electronic Technology) jour 10.88 %, mois -17.78 %, prix 1.0524 EUR, capi 1473261953.350111, PER None, volume x1.14 la normale
-- Lenovo Group Limited (TRADEGATE:LHL, secteur Electronic Technology) jour 9.22 %, mois -21.14 %, prix 2.145 EUR, capi 25048288900.07692, PER None, volume x0.71 la normale
-- Anthropic, PBC Class A (TRADEGATE:1ANT, secteur Technology Services) jour 8.18 %, mois -18.89 %, prix 83.95 EUR, capi 1009067665063.6465, PER None, volume xNone la normale
-- Intrum AB (TRADEGATE:IJU, secteur Commercial Services) jour 8.15 %, mois 14.45 %, prix 0.1711 EUR, capi 502212665.8072546, PER None, volume x0.75 la normale
-- Almonty Industries Inc. (TRADEGATE:ALI1, secteur Non-Energy Minerals) jour 7.82 %, mois -22.97 %, prix 6.702 EUR, capi 1761761686.180107, PER 27.8, volume x0.83 la normale
-- ITM Power PLC (TRADEGATE:IJ8, secteur Producer Manufacturing) jour 7.78 %, mois -20.99 %, prix 0.8035 EUR, capi 518859340.86424476, PER None, volume x1.42 la normale
+- Lenovo Group Limited (TRADEGATE:LHL, secteur Electronic Technology) jour 9.22 %, mois -21.14 %, prix 2.145 EUR, capi 27300991230.873726, PER None, volume x0.71 la normale
+- Anthropic, PBC Class A (TRADEGATE:1ANT, secteur Technology Services) jour 8.18 %, mois -18.89 %, prix 83.95 EUR, capi 1119859080436.408, PER None, volume xNone la normale
+- Intrum AB (TRADEGATE:IJU, secteur Commercial Services) jour 8.15 %, mois 14.45 %, prix 0.1711 EUR, capi 540953159.4061166, PER None, volume x0.75 la normale
+- Almonty Industries Inc. (TRADEGATE:ALI1, secteur Non-Energy Minerals) jour 7.82 %, mois -22.97 %, prix 6.702 EUR, capi 1907275905.4601154, PER 27.8, volume x0.83 la normale
+- ITM Power PLC (TRADEGATE:IJ8, secteur Producer Manufacturing) jour 7.78 %, mois -20.99 %, prix 0.8035 EUR, capi 544471788.8089505, PER None, volume x1.42 la normale
 
 ÉCRAN Allemagne : plus fortes baisses :
 - Air China Limited Class H (LS:A0M4WT, secteur Transportation) jour -17.74 %, mois -6.77 %, prix 0.372 EUR, capi 12692207444.526533, PER None, volume x10.49 la normale
 - NagaCorp Ltd. (LS:A0LB2X, secteur Consumer Services) jour -4.51 %, mois -7.17 %, prix 0.233 EUR, capi 1003194608.9926686, PER 3.9, volume x5.82 la normale
-- Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -3.34 %, mois -14.73 %, prix 32.08 EUR, capi 35992209869, PER 10.6, volume x4.45 la normale
-- Commerzbank AG (GETTEX:CBK, secteur Finance) jour -2.97 %, mois -14.72 %, prix 31.98 EUR, capi 35992209869, PER 10.6, volume x4.06 la normale
+- Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -3.34 %, mois -14.73 %, prix 32.08 EUR, capi 35311274998, PER 10.6, volume x4.45 la normale
+- Commerzbank AG (GETTEX:CBK, secteur Finance) jour -2.97 %, mois -14.72 %, prix 31.98 EUR, capi 35311274998, PER 10.6, volume x4.06 la normale
 - Sivers Semiconductors AB (XETR:2DG, secteur Electronic Technology) jour -2.21 %, mois -47.08 %, prix 1.105 EUR, capi 348890112.0199146, PER None, volume x0.8 la normale
 - Commerzbank AG (XETR:CBK, secteur Finance) jour -1.89 %, mois -13.87 %, prix 32.67 EUR, capi 35311274998, PER 10.8, volume x3.88 la normale
-- Aroundtown SA (TRADEGATE:AT1, secteur Finance) jour -1.56 %, mois 21.11 %, prix 1.767 EUR, capi 1929389309, PER 7.3, volume x1.76 la normale
+- Aroundtown SA (TRADEGATE:AT1, secteur Finance) jour -1.56 %, mois 21.11 %, prix 1.767 EUR, capi 1944693311, PER 7.3, volume x1.76 la normale
 - Evonik Industries AG (XETR:EVK, secteur Process Industries) jour -1.29 %, mois -13.16 %, prix 18.41 EUR, capi 8579059928.999999, PER 49.3, volume x0.4 la normale
 - Beiersdorf AG (XETR:BEI, secteur Consumer Non-Durables) jour -0.96 %, mois 3.74 %, prix 82.74 EUR, capi 17667499418, PER 19.3, volume x0.67 la normale
 - PUMA SE (XETR:PUM, secteur Consumer Non-Durables) jour -0.85 %, mois -5.67 %, prix 23.29 EUR, capi 3418206723, PER None, volume x0.84 la normale
 
 ÉCRAN Allemagne : volumes anormaux :
 - Air China Limited Class H (LS:A0M4WT, secteur Transportation) jour -17.74 %, mois -6.77 %, prix 0.372 EUR, capi 12692207444.526533, PER None, volume x10.49 la normale
-- Aston Martin Lagonda Global Holdings Plc (FWB:A5SA, secteur Consumer Durables) jour 0.88 %, mois -20.16 %, prix 0.3684 EUR, capi 361069633.2462523, PER None, volume x6.73 la normale
+- Aston Martin Lagonda Global Holdings Plc (FWB:A5SA, secteur Consumer Durables) jour 0.88 %, mois -20.16 %, prix 0.3684 EUR, capi 361554950.1085093, PER None, volume x6.73 la normale
 - NagaCorp Ltd. (LS:A0LB2X, secteur Consumer Services) jour -4.51 %, mois -7.17 %, prix 0.233 EUR, capi 1003194608.9926686, PER 3.9, volume x5.82 la normale
-- Douglas AG (TRADEGATE:DOU, secteur Retail Trade) jour -0.71 %, mois -7.8 %, prix 6.97 EUR, capi 751692302, PER 23.7, volume x5.24 la normale
-- E.ON SE (GETTEX:EOAN, secteur Utilities) jour 1.49 %, mois 2.65 %, prix 19.01 EUR, capi 49282650428, PER 11.3, volume x4.5 la normale
-- Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -3.34 %, mois -14.73 %, prix 32.08 EUR, capi 35992209869, PER 10.6, volume x4.45 la normale
+- Douglas AG (TRADEGATE:DOU, secteur Retail Trade) jour -0.71 %, mois -7.8 %, prix 6.97 EUR, capi 755999990, PER 23.7, volume x5.24 la normale
+- E.ON SE (GETTEX:EOAN, secteur Utilities) jour 1.49 %, mois 2.65 %, prix 19.01 EUR, capi 49334908198, PER 11.3, volume x4.5 la normale
+- Commerzbank AG (TRADEGATE:CBK, secteur Finance) jour -3.34 %, mois -14.73 %, prix 32.08 EUR, capi 35311274998, PER 10.6, volume x4.45 la normale
 - Imperial Brands PLC (XETR:ITB, secteur Consumer Non-Durables) jour 0.75 %, mois 21.76 %, prix 41.63 EUR, capi 31190193606.58624, PER 14.7, volume x4.34 la normale
-- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 4.75 %, mois 21.51 %, prix 41.69 EUR, capi 30627965999.446053, PER 14.8, volume x4.3 la normale
-- Petroleo Brasileiro SA (TRADEGATE:PJXC, secteur Energy Minerals) jour -0.63 %, mois -22.45 %, prix 7.85 EUR, capi 95770656022.25005, PER 4.2, volume x4.26 la normale
-- Commerzbank AG (GETTEX:CBK, secteur Finance) jour -2.97 %, mois -14.72 %, prix 31.98 EUR, capi 35992209869, PER 10.6, volume x4.06 la normale
+- Imperial Brands PLC (TRADEGATE:ITB, secteur Consumer Non-Durables) jour 4.75 %, mois 21.51 %, prix 41.69 EUR, capi 31190193606.58624, PER 14.8, volume x4.3 la normale
+- Petroleo Brasileiro SA (TRADEGATE:PJXC, secteur Energy Minerals) jour -0.63 %, mois -22.45 %, prix 7.85 EUR, capi 93027036110.37895, PER 4.2, volume x4.26 la normale
+- Commerzbank AG (GETTEX:CBK, secteur Finance) jour -2.97 %, mois -14.72 %, prix 31.98 EUR, capi 35311274998, PER 10.6, volume x4.06 la normale
 
 ÉCRAN Hong Kong / Chine : plus fortes hausses :
 - Shanghai Able Digital Science&Tech Co. Ltd. Class H (HKEX:2687, secteur Technology Services) jour 160.43 %, mois 63.53 %, prix 187.9 HKD, capi 12526672664, PER 106.0, volume x18.84 la normale
@@ -226,8 +226,8 @@ POSITIONS ET INDICES :
 - IX Knowledge Incorporated (TSE:9753, secteur Commercial Services) jour 0.9 %, mois -5.09 %, prix 1342 JPY, capi 12727808559, PER 7.4, volume x8.8 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 1001984170, PER 28.6, volume x17.7 la normale
 - Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 10535061261, PER 9.4, volume x39.13 la normale
+- Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 1001984170, PER 28.6, volume x17.7 la normale
 - Goyal Aluminiums Limited (BSE:GOYALALUM, secteur Distribution Services) jour 20 %, mois 26.49 %, prix 7.02 INR, capi 1001984170, PER 29.1, volume x52.33 la normale
 - Waaree Renewable Technologies Ltd (NSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 23.4 %, prix 825.7 INR, capi 86154609956, PER 18.5, volume x233.67 la normale
 - Waaree Renewable Technologies Ltd (BSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 22.52 %, prix 825.4 INR, capi 86154609956, PER 18.5, volume x128.17 la normale
@@ -286,16 +286,16 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -0.08 %, mois 21.84 %, prix 8.736 EUR, capi 8810130130.895283, PER 10.9, volume x0.29 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
 - SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour 7.52 %, mois -24.25 %, prix 119.5 USD, capi 579228478930.6643, PER 6.7, volume x0.77 la normale
 - Tencent Holdings Ltd Unsponsored ADR (OTC:TCEHY, secteur Technology Services) jour 3.97 %, mois -8.56 %, prix 45.29 USD, capi 404554837871.25, PER 12.2, volume x0.7 la normale
-- Bank of America Corp (NYSE:BAC, secteur Finance) jour 1.09 %, mois -3.6 %, prix 49.07 USD, capi 338593252758, PER 11.7, volume x0.57 la normale
+- Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP- (NYSE:BAC/PP, secteur Finance) jour -0.34 %, mois -1.23 %, prix 14.51 USD, capi 338593252758, PER 3.5, volume x0.89 la normale
 
 ÉCRAN France : meilleures performances sur 1 mois :
 - Clariane SE (EURONEXT:CLARI, secteur Health Services) jour -1.54 %, mois 46.05 %, prix 4.618 EUR, capi 1649834769, PER 130.5, volume x2.03 la normale
@@ -310,6 +310,10 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Anthropic bondit de 11 % malgré une semaine volatile au Nasdaq - Traders Union
+- [Intelligence artificielle] Stock Market Today, Nov. 27: Chip Stocks Rebound Sharply on Broad AI Enthusiasm - The Globe and Mail
+- [Crypto] Bitcoin price at $59,600: eighth day of ETF outflows - CryptoTicker.io
+- [Crypto] Crypto news: Ether -4% to $1,659, Fear & Greed at 10 - CryptoTicker.io
 - [Bourse de Paris et Europe] Bourse : Conseils boursiers, Analyse technique, Cours de bourse et CAC 40 en direct - BFM Bourse - BFM Bourse
 - [Pays émergents] Wall St Week Ahead Volatile stock market confronts jobs data, rate view as next tests - Reuters
 - [Pays émergents] Indonesia arrests three over alleged ‘deep fried’ market manipulation - Financial Times
@@ -456,7 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Binance, IWF Team to Flag Crypto Child Abuse Payments - Briefs Finance
 - [Anthropic (FR)] L'introduction en bourse d'Ambiq a permis de vendre des actions à 24 $ ; 1 000 $ valent maintenant 1 550 $. - FourWeekMBA
 - [Crypto] Crypto Fundraising Recap: $405.2M Across 36 Rounds - shattered.io
-- [Anthropic] Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now - The Globe and Mail
-- [Anthropic] Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now - The Motley Fool
-- [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
-- [Crypto] HYPE price on Nov 27, 2026 at 10pm EST Crypto Prediction Market - Robinhood
