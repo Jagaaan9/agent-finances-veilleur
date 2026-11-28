@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T07:00:35.409117+00:00",
+ "mis_a_jour": "2026-11-28T07:10:35.810454+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54609.73,
+   "prix": 54403.03,
    "devise": "EUR",
-   "jour_pct": -0.23,
-   "mois_pct": -25.04,
-   "volume": 9.65470305,
-   "volume_relatif": 0.04,
+   "jour_pct": -0.6,
+   "mois_pct": -25.33,
+   "volume": 31.07292869,
+   "volume_relatif": 0.14,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3656,6 +3656,48 @@
  },
  "actualites": [
   {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "La Bourse de Paris termine la semaine dans le vert - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMUdRemtfS0o4Rk0tNXJrUV9ENHlrbUJxNWlubDdNZVVUZG0zTlVjV0FjNFNLc1VJdjBTVFBkLWxIV1dsRjVlQmVxNU12LURELWhnMkJwaTNZSFNuZ1RYcGdDMUloM3JOOEsyYjBDdGFZUkpuVlI5SDI5bGxISDlyRS0zWVAxUkk4UWxuWGhEMTU1N0dZVWtDaElNLTd0eEd1OVRIamNjQzBfRV93WEZad3pJbHFqazlWdjRoU0xFS3M0eUQyTTZseS12aVNHQXVBXzR0Z0g3OFJPOEtzY2d2T0pDaw?oc=5",
+   "date": "Fri, 27 Nov 2026 17:59:00 GMT",
+   "vu_le": "2026-11-28T07:10:35.810454+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China’s State Council meeting calls for greater role by ‘national team’ in steadying stock markets - Global Times",
+   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tbGxlTG8xVDlzWkkxTGFhdTVVVlpfMTF5QWZrQUN5LUktc3RlaTNOMDJMTDdKS1hEVjBRTHlwazhzNEozSHhXeDRaaUcyUV9kQ1I1ZnlaNnlMSzdLbVJydlpn?oc=5",
+   "date": "Fri, 27 Nov 2026 15:10:00 GMT",
+   "vu_le": "2026-11-28T07:10:35.810454+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Crucial role of China’s capital market emphasized - chinadailyhk",
+   "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kVk1STkJCSGxQQ2RpQXFHTDZKX1VCZjByRmZBV1RlZ2w2OXJBQ3ZRQWFsSnh0cnJqUEtzb1VwMEFCQk9Kbnc1QUJIcWc0Snowekx6V0NR?oc=5",
+   "date": "Fri, 27 Nov 2026 09:45:00 GMT",
+   "vu_le": "2026-11-28T07:10:35.810454+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Hong Kong Stock Market Closing Review: Hang Seng TECH Index Surges 6.45%, with Hard Technology Concepts Including Semiconductors and Optical Communications Rebounding - 富途牛牛",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX0tNcWtWeUdEOEZiQ3BGWVBnY1EwUXFSYk8zbkNCelpzOUg0X3lQS1ctRmpZOHNoUW9SZkFzZk5tcE5nckpWU0dOYXdReHJxcVptRGNPRXk1ZkhpSnU1WllCT1hFYkktRmlvVVcwUkplbmpkTTJkRUJKNl84Qk1LTnVHZEJ5QUp4NUVpNzlLWk50Ykh1T0ZFa2VZdXJIRS1qbFVr?oc=5",
+   "date": "Fri, 27 Nov 2026 08:38:46 GMT",
+   "vu_le": "2026-11-28T07:10:35.810454+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Domestic growth drivers key to India's 2027 market rally: HSBC - Awaz The Voice",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc1lsaVg2YjRkNWx6XzBxTTZvdktRTDZCdWZQRk94bDRiS3diSTZ0RWhYeHExZFktYnQ2TzBwZ0FDSVAyWFloUWdaRXpqbGk3Z1JxdkFHRkdMeTRsUGx6WlVCTVQtQXFmOWVmLUotTTBhVnhZd01ORV9UQm9FT0o3YUxkZWRuT0RZNkJVc0ZpRmJKSlRJS2xxajh3WnhfTHhvVHhlNXFEel8yakxxbnc?oc=5",
+   "date": "Sat, 28 Nov 2026 06:59:32 GMT",
+   "vu_le": "2026-11-28T07:10:35.810454+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Retail Artificial Intelligence Worker Protections - Bitcoin Foundation",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWdnVHJ6OVJpSVFORUM3NlFWbDludFA1UG5ua3JwYVh6S01KeHNPa25BeldoWUk1bmxPZ0stc3NZSHp4cGctUndrb2lKS1hQaVhBRDZlWHg5ODJNU2RlV0tsc2pqd1ZYTTAtNTRiQWtiXzRDZ3pSamh2ZkR0WjBSQWNYNjZycGg5M2Q3OGRqYnBpUzA2T2QweHEtbGxtY0MyRXhEM2dFVmN5LXFKUVR3Q01takRqYXUz?oc=5",
+   "date": "Sat, 28 Nov 2026 06:51:29 GMT",
+   "vu_le": "2026-11-28T07:10:35.810454+00:00"
+  },
+  {
    "sujet": "Chine et Asie",
    "titre": "Chinese Stocks Surge as Beijing Signals Bigger Role for State Investors to Stabilize Market - Tekedia",
    "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeXhpRV9faDd3aENGSHRrWUo1WDBxZF9aWmk0a0hadUJxb2Q1N1VEckhHSG5FT21KOGxXanEyWk9xbVZOYndnaVJFTkFUMml3eDg2NGFiaHpvM1R3aEQ3TldOajZoSWdWdngwa1VlUlBnaThqZTNwSFhfVW1lUXBHM0Z1cDN4Qk1KTUNZWWJ4X3NtY1JuV1RuUFpQRFVWWkprWFJYV0V2OUFYOFBjbF9GSUYyV2c5amc?oc=5",
@@ -6412,48 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVJWOHk4RnhWUWx3Q2VxS19WcTU4WHZXM2hLMi1icXBXa0kydDlldlB2QThONkI2czRTSUZJb19LeEJhcVhEcGZsYkNpTnUzeEZFcWk0SlNBS1FMLXJ0OVNIWk1VZFhQZ3MzaWxjOUdHRnBxT2MxUXF4TXFpTHI2NFlvaE85Qk5VQnBuR1hxcm5iZkh3ejBMQ2pxQjIxRnNNcS10QkZjNE4zTUZpREQ0NlhFR3Yxdw?oc=5",
    "date": "Fri, 27 Nov 2026 15:29:10 GMT",
    "vu_le": "2026-11-27T15:30:36.426265+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Reserve bill advances; ETF outflows top $5.3B - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZHhMQlhyVHNFTGFRRHNBQUtSRENFeDJDdDBfaGFOd0k3WmI4ZEtZc2VwRmNEcHFqT2pLMzc5RW1NYUdPbUo4WnRJM1hyMVdpVXZMMzBKUTJ3WDk2azhLMkdKSHQ4ZWlIMDgzVVY5a1pNbEZ4VDItazhpS3hPSEdTRmxZVUVUVE1tYzgyVnZJWHRXWTA1UFVwSmF3LVBiQQ?oc=5",
-   "date": "Fri, 27 Nov 2026 15:15:24 GMT",
-   "vu_le": "2026-11-27T15:30:36.426265+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Polymarket Invite Code TIMES | $25 Bonus for NFL, NCAAF, NBA & more (Nov. 27) - El Paso Times",
-   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSk94aE1yZTdXLVBrSXh5RFZoRno1MFNXT3JocGpUblB1MmhBSzlRU0FxUHVNX1JOWXhsc2phSGNtRmpRWXNiQmcwVjJIaldKWWNocU5xYk1aWldReFhmYlM4Wm5uMU1NbHJMc2lCVVRBX2MxdVkzR2NmcGRqOXNnNHRnTjFqb050TzFFbzQ3MnVsWV9YSGszZG9ZS1hmRW5KeVk0NnZOVDNZNUQxZTV5YU5n?oc=5",
-   "date": "Fri, 27 Nov 2026 13:49:00 GMT",
-   "vu_le": "2026-11-27T15:30:36.426265+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Why is Anthropic stock climbing today? - Investing.com",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMTQ1UENhLUJtYW1Xdm5pWWc1dTVrLXZqRDVJOGd0SFV1dldZTVZsWll5blZIeTJ5anVTT2hhX0FzNVpMeEtQNEZTRGlmbGFrcTZWYWN2aDZSclJuYk9NbFNpN3J6UUdJTEJnZlQ1NUtjRGtWc1FYbTBKSU5ZMjR5b1gxdmwwbEpzdWZiamZCNURWdzBfdEN1cnRwUlMtSl8t?oc=5",
-   "date": "Fri, 27 Nov 2026 15:02:37 GMT",
-   "vu_le": "2026-11-27T15:20:35.994493+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "S&P 500 - Les actions à suivre vendredi: Sandisk, Coherent, Lumentum, Nvidia, Marvell, Super Micro, Altria - ABC Bourse",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaWYtS1VpMUh1N3FRNkxGRUZlVWVrY1VUMnZKaXdncWtXRE9KS1FMOG83T1Y1Y0xraEQ2UnQ1TFUzcWY1RW1Ha21hQ3RKQ2M1b3NXZHprTGwzdDlVX0RudlU2MGdFU0YzUTJiYVdUUjlOQ0l0LWtoXzVmLU1ZaTFKY3JZcUNxa3l5YWZVcVNZVG5CQUQ1MnBab1RPTjRaMS01MXB4R2tlZDFvWmpkZkFYNzFFNlY?oc=5",
-   "date": "Fri, 27 Nov 2026 15:10:37 GMT",
-   "vu_le": "2026-11-27T15:20:35.994493+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "US tech stocks rebound as chipmakers recover from sharp selloff - Anadolu Ajansı",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdndsMllVal9Vbk9ZODNrWXJZY2ZwUVY4eGtaekhhMmNyQTZfMEZra3NzNEFXNHBhcGc3dFlJMnR5cVYxb1BLQWFDYTN3NENWZzZoajBndGxTMDloQlMyUTNnS0RoTmVwaGlfTVZYdWtnS3c4aW1iRHNVRW5ERl91QjJvLVhiYnRVMjFuWWM2ZzcwM0ZsWWZxdHFkWlZ6YUIwMTBod2haRQ?oc=5",
-   "date": "Fri, 27 Nov 2026 15:08:51 GMT",
-   "vu_le": "2026-11-27T15:20:35.994493+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "NIFTY50 rallies 12.5% in November so far: These 5 stocks deliver even bigger gains amid FII buying - Upstox",
-   "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPRDR0ZkVyTW5iSDlKbVNzaEllcXBCNjltelZwRG95SWNRTlBkWlVRNzlvVE1ub2ZZMXpTUWF3ZVNNMEZGMHZlaTJBMUpVRVp1LWpfR2FraXhrSzRhNVBWVHRWckN6WHc4THZTd0FVOGI0cWdTczRkZGYzTkl4a2tzZ29UX3Q3b3dmaXVRSVExLWFLRmNQQlhkbWhRdWNCeE90Zk9HYl8wYk5nYWpzNnprTng0SHBPRWFKRG1oOUpleVg1bVJhZmVONUhCOUlza3ZYTU1na00wRzQyVUNXVlJwU3dKWDh5OGExZlpYSFdaMGp4OHd2WlhoQzlnekUwUTRoczUxR05uYXFtdzMxbmRMV2dtUXpRbWdfZzVRdjJHSFpDSW85em1wM3hsMjFIQUtkV3BTU2NnTl8ycTlKZUZORXhOTUl3dy1qNklMRVdPV05YVF9LNDVuR1Q0ZGdxNE5WRVYw?oc=5",
-   "date": "Fri, 27 Nov 2026 11:20:05 GMT",
-   "vu_le": "2026-11-27T15:20:35.994493+00:00"
   }
  ],
  "erreurs": []

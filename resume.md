@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54609.73 EUR, jour -0.23 %, mois -25.04 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54403.03 EUR, jour -0.6 %, mois -25.33 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -310,6 +310,12 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Bourse de Paris et Europe] La Bourse de Paris termine la semaine dans le vert - Bourse Direct
+- [Chine et Asie] China’s State Council meeting calls for greater role by ‘national team’ in steadying stock markets - Global Times
+- [Chine et Asie] Crucial role of China’s capital market emphasized - chinadailyhk
+- [Chine et Asie] Hong Kong Stock Market Closing Review: Hang Seng TECH Index Surges 6.45%, with Hard Technology Concepts Including Semiconductors and Optical Communications Rebounding - 富途牛牛
+- [Pays émergents] Domestic growth drivers key to India's 2027 market rally: HSBC - Awaz The Voice
+- [Crypto] Retail Artificial Intelligence Worker Protections - Bitcoin Foundation
 - [Chine et Asie] Chinese Stocks Surge as Beijing Signals Bigger Role for State Investors to Stabilize Market - Tekedia
 - [Pays émergents] 5 Growth Stocks with a Competitive Advantage to Watch Before 2027 - Equitymaster
 - [Crypto] CoinMarketCap’s Fear and Greed Index sinks to 10 as extreme fear drags on - Crypto Briefing
@@ -451,11 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Intelligence artificielle] AI and Chip Stocks Draw Bargain Hunters: Nasdaq Jumps 2.3%, Up 6.7% for the Week - BigGo Finance
 - [Résultats d'entreprises] Earnings Beat Could Change The Case For CMC Markets Stock - Yahoo Finance UK
 - [Pays émergents] Indonesia Arrests Three in Alleged PT Dian Swastatika Sentosa Stock-Manipulation Case - Briefs Finance
-- [Chine et Asie] Global stocks rise, key indices on track, while India bucks the trend - The New Indian Express
-- [Rachats et fusions] Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank - Quantisnow
-- [Crypto] XRP price at Dec 4, 2026 at 5pm EST Crypto Prediction Market - Robinhood
-- [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
-- [Marchés mondiaux] Wall Street’s Great Escape: 3 Rescue Squads Fuel a Thanksgiving Rally - Investing.com
-- [Intelligence artificielle] Wall Street ends higher as battered AI stocks gain in volatile week - Reuters
-- [Crypto] What Would It Take for Hedera (HBAR) to Reach $1? - 24/7 Wall St.
-- [Anthropic
+- [Chine et Asie] Global stocks rise, key indices on track, while Indi
