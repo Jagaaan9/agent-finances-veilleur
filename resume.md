@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54127.25 EUR, jour -1.11 %, mois -25.7 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54141.6 EUR, jour -1.08 %, mois -25.68 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -286,16 +286,16 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -0.08 %, mois 21.84 %, prix 8.736 EUR, capi 8810130130.895283, PER 10.9, volume x0.29 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
+- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
 - SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour 7.52 %, mois -24.25 %, prix 119.5 USD, capi 579228478930.6643, PER 6.7, volume x0.77 la normale
 - Tencent Holdings Ltd Unsponsored ADR (OTC:TCEHY, secteur Technology Services) jour 3.97 %, mois -8.56 %, prix 45.29 USD, capi 404554837871.25, PER 12.2, volume x0.7 la normale
-- Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP- (NYSE:BAC/PP, secteur Finance) jour -0.34 %, mois -1.23 %, prix 14.51 USD, capi 338593252758, PER 3.5, volume x0.89 la normale
+- Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK- (NYSE:BAC/PM, secteur Finance) jour 0.26 %, mois -1.95 %, prix 19.1 USD, capi 338593252758, PER 4.6, volume x0.77 la normale
 
 ÉCRAN France : meilleures performances sur 1 mois :
 - Clariane SE (EURONEXT:CLARI, secteur Health Services) jour -1.54 %, mois 46.05 %, prix 4.618 EUR, capi 1649834769, PER 130.5, volume x2.03 la normale
@@ -310,6 +310,16 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Gavin Baker Got “Much Better Versions” of His Claude Code Builds From Grok Bot. Warning for Anthropic - TIKR.com
+- [Chine et Asie] Asian stocks rally as China shares surge on fresh market-support pledges By Investing.com - Investing.com South Africa
+- [Intelligence artificielle] Indonesia outlines three-part response to US AI chip export controls - Crypto Briefing
+- [Résultats d'entreprises] Nvidia Stock Price Forecast: Seven-Day Drop Ahead of Earnings, Can $200 Support Hold? - TradingKey
+- [Petites valeurs en croissance] World Kinect (WKC) Stock May Be Undervalued As Margin Recovery Takes Shape - Yahoo Finance
+- [Pays émergents] Nu Holdings: Why Brazil's Banking License Is A Game Changer - Seeking Alpha
+- [Pays émergents] Lupin Announces U.S. FDA Approval and Launch of Sitagliptin Tablets, USP in the United States - Morningstar
+- [Défense, énergie, matières premières] Why Is Palantir Technologies (PLTR) Signing A Defense Software Deal In Poland? - Simply Wall St
+- [Défense, énergie, matières premières] 4 Defence Stocks with Robust Revenue Growth - Equitymaster
+- [Défense, énergie, matières premières] Kratos Defense & Security Solutions (NASDAQ:KTOS) Stock Jumps 4.8% - What's Next? - MarketBeat
 - [Petites valeurs en croissance] Happiest Minds Technologies Ltd: Valuation Shifts Signal Renewed Price Attractiveness - MarketsMojo
 - [Anthropic] Anthropic IPO, shareholder rights and board control - Longbridge
 - [Marchés mondiaux] Stocks jump to close out an erratic week that was also Wall Street's best in more than a year - Spectrum News
@@ -450,13 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Bitcoin price falls below $60,000 as whales buy dip, ETF outflows mount - Yahoo Finance
 - [Anthropic (FR)] Avec l’arrivée en force d’Anthropic, Zurich devient un pôle majeur en intelligence artificielle. L’Arc lémanique et l’EPFL sont-ils relégués en seconde zone? - Le Temps
 - [Chine et Asie] China stocks surge after State Council meeting signals market stability - China Labour Bulletin
-- [Rachats et fusions] Sanofi Signs $41 Billion Deal to Acquire Insmed and Considers Launching in Germany a Drug Authorized in the EU Since 2025 - Informat.ro
-- [Petites valeurs en croissance] 3 Australian Tech Stocks With Earnings Growth Over 30% - Yahoo Finance
-- [Défense, énergie, matières premières] HawkEye 360 And 2 Space Stocks To Watch - Yahoo Finance
-- [Chine et Asie] China signals strong support for stocks to stabilise expectations; Shanghai index returns to 3,600 - 联合早报
-- [Chine et Asie] Stock Market: Major Chinese Indices Post Largest Gain in Two Years Following Beijing's Announcements - Idéal Investisseur
-- [Petites valeurs en croissance] Himax Stock In Focus After Summit Raises Questions About AI Growth Plans - Simply Wall St
-- [Défense, énergie, matières premières] Swarmer (SWMR) Stock Fair Value Moves Lower As Analysts Weigh Ratel And Sector Reset - Yahoo Finance
-- [Crypto] Over $407M in crypto positions liquidated in 24 hours as longs take the hit - Crypto Briefing
-- [Banques centrales et taux] Dernière danse de Christine Lagarde à Bruxelles ce lundi - Investir Les Echos
-- [Intelligence artificielle] The First AI Stock I Plan to Buy in 2027 - AOL.com

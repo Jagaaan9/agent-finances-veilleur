@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T11:40:35.851229+00:00",
+ "mis_a_jour": "2026-11-28T11:50:35.888010+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54127.25,
+   "prix": 54141.6,
    "devise": "EUR",
-   "jour_pct": -1.11,
-   "mois_pct": -25.7,
-   "volume": 53.50477315,
+   "jour_pct": -1.08,
+   "mois_pct": -25.68,
+   "volume": 53.6055556,
    "volume_relatif": 0.25,
    "capitalisation": null,
    "per": null,
@@ -3371,6 +3371,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
+    "devise": "USD",
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
+    "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 14.4,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOG",
     "nom": "Alphabet Inc. Class C",
     "prix": 272.44,
@@ -3381,20 +3395,6 @@
     "volume_relatif": 0.55,
     "capitalisation": 3346907996277,
     "per": 14.2,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3413,16 +3413,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
     "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
-    "per": 14.4,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PP",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP-",
-    "prix": 14.51,
+    "symbole": "NYSE:BAC/PM",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK-",
+    "prix": 19.1,
     "devise": "USD",
-    "jour_pct": -0.34,
-    "mois_pct": -1.23,
-    "volume": 160626,
-    "volume_relatif": 0.89,
+    "jour_pct": 0.26,
+    "mois_pct": -1.95,
+    "volume": 178204,
+    "volume_relatif": 0.77,
     "capitalisation": 338593252758,
-    "per": 3.5,
+    "per": 4.6,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,76 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Gavin Baker Got “Much Better Versions” of His Claude Code Builds From Grok Bot. Warning for Anthropic - TIKR.com",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFdmWFYxZnlkSnE1TFNRbVlYREhYbHFNYXVDWjcxQWt5elV1NDVjUkxhUk5xVVhCbF91Zl93S0hVQmEwSEpmODA1REFZS1hzb2R5dU8wbEIzanlWTEcyVy03Wjk4VEhuV0NlQzdkQjJIUnNEU0RRRGxXYWhFcVBXZ0FaUE52X2stTXdZLVZMQkN6UGJQRXNFNXlzbUwxV05iMGRpckt6RlRKMm9IRkN4S0twRHF6V0VrVDRfbTZLMkVpbjY5RWJV?oc=5",
+   "date": "Sat, 28 Nov 2026 11:49:23 GMT",
+   "vu_le": "2026-11-28T11:50:35.888010+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Asian stocks rally as China shares surge on fresh market-support pledges By Investing.com - Investing.com South Africa",
+   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc0RWTkhRRlZFUGVJNV9vdm1BV21OTG1ZdUluTzJrLVN0dWltRXNqWThIa01iYXZ2X3I5Q2Zma29hS1BmTTlLbXVicnJsUk1aYjhsV0o5dE5lNVV4OFZrY0QtY18yU0xvRm9oSm5MdEZtdU0wemNPb0RUVGRFdWh5dERRR2JCUlNsVk5zQ0R1T1lsZWt1THVjUFNRVlN4YUNkOW1fT1hReVBkMWhOUFhnbmtPX1hLbFVBNXNuRmQ2N252VmRzdjhpRg?oc=5",
+   "date": "Fri, 27 Nov 2026 14:47:18 GMT",
+   "vu_le": "2026-11-28T11:50:35.888010+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Indonesia outlines three-part response to US AI chip export controls - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uOUNETjM3RkJ5elFqTERVTWxUY3FTbTg4M0hkWVdodkZTbGZBQ3VUazBfLXJidXZCN2xrTmlZOC1NTmVVTmtCYkZPRm1FZFljQUtEaE0wZEh4MmxJT18wT0xEa2VfeXhzQkpHMjlqaVJ0TFE3ZTZwWUI2cHlZZw?oc=5",
+   "date": "Sat, 28 Nov 2026 11:35:09 GMT",
+   "vu_le": "2026-11-28T11:50:35.888010+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Nvidia Stock Price Forecast: Seven-Day Drop Ahead of Earnings, Can $200 Support Hold? - TradingKey",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOenhfM1gwc2toSmhETE9vbHZUMVpUQnZnVWxzTDl5SWdDSm1IalRVSF9OZmJ6eXZuRThyU0VVYXNwZVg5NUxiUnNuX09qUlZ6cVBBTUdtWlZ6cjN5cEtNQUQ0MW1EQ2lIU1BPVDNfVmtlUkZJckhFbmFhdk9kc3NxcGtRMGtpdDQzbkQwUWlyYThjbkVjOU5yU0tOSEotNTA4V2dfNTJzaGx1NnpBTmR6Z1hn?oc=5",
+   "date": "Sat, 28 Nov 2026 05:53:14 GMT",
+   "vu_le": "2026-11-28T11:50:35.888010+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "World Kinect (WKC) Stock May Be Undervalued As Margin Recovery Takes Shape - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVhEN2pHcGlDS3JRc0tYUU83dG1keTBlLUc0aTNWc3llUGhvOEYxT1lsX1Rmdi1BVl92S0pXcl8ydEs4bGpHS1FDcW1NcVp3bi02VktSdHd0Q1dpWk9oNFJOLXR0S0szR3oyX3JhSE5ITW1mV0gyQ05YZnF2V0hFLXE0Yl81Z0pOcWRxZ08tdElmaUN1c3c?oc=5",
+   "date": "Sat, 28 Nov 2026 11:08:37 GMT",
+   "vu_le": "2026-11-28T11:50:35.888010+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Nu Holdings: Why Brazil's Banking License Is A Game Changer - Seeking Alpha",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ2M5d0ViWXJnRWJQT05wbGRNbzdjWmo0ZjBuQnZtMWdhbU1FSi1yY1B4MVlKSHJieFRIWk92UXVPOGlFNTBMcGlsaUt3VlhGNHpIbURBcjB4RU1YUzZCdFpKbnNhLVZpSEx4czJJVXRiVmw5ZHczYmJleHFPX1JQZ1VWZDFIdEVrY01La0pLeGVOaU5jNTdDNG13eFpZejh2Y2k5TlVVMG5jWjFmbUNjUGtjOA?oc=5",
+   "date": "Sat, 28 Nov 2026 03:17:12 GMT",
+   "vu_le": "2026-11-28T11:50:35.888010+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Lupin Announces U.S. FDA Approval and Launch of Sitagliptin Tablets, USP in the United States - Morningstar",
+   "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN1VZTWZ1cnNKbGtFZ0F3eVp2Z015YXF4SE1ZMTd5amJZTUVOaW5MZW4yWGRVeTFKTkZPc0pzdDJBbXV3akV4SElfcU1pOWphN1dRZGVObFdjc0Z6SC1LSGNWVmJoRXRZNFdzRDk1Rm9McTBUaTY5WjNVWVo1VnNZR1ppdEh5MDRFZDJveXB6X2xJaE9ibGtJcmtWOTlSQ3FHM1JKRDU0Ujl5SmZ2WGxGLWN5aHRzYW16MXYyUmZzNDNVZXk3VTNzdHljckdfc0ItTXFZY2dZMmNQTGVhT2dDQ3FFTjY3QQ?oc=5",
+   "date": "Fri, 27 Nov 2026 16:34:00 GMT",
+   "vu_le": "2026-11-28T11:50:35.888010+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Why Is Palantir Technologies (PLTR) Signing A Defense Software Deal In Poland? - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSlZyRXl5T1k0cUJZY2w4QTJ2aTBIcTlLd3hXN2tobWlOYi16X1VycndMX0l6eXBnX3oxVm1WX0VqTEhmUTZZNUJYek5scEJ4c0NEWnpLdGU5QmlLRTY0UlRLVEV2NWxkTXV4UUlFeDRDeE05T04zNVpVUHZQRkxlQ21hRDYwaTZVWWxNdWpjaXBsVFRiaVlfY0FxLThMaXFvSXN2MVN0Nk9XSnFFTDRtTFZsTjlFNDFYVGhJbHl3bXhSV2x1dlBrUUFrR3QxUUktaUVZYXlBRdIB3AFBVV95cUxPRGUyd3NpWk9QdzBwcHdEYkxQWEtsUi1qSFNrNzVxZkx1cXg5d0hVTWlfR05mQjF5M3FJSEdORUQ1QkZBcndCZ2h3RkxrMXlSYlBtSnpjbDEwWnFYNy1jdExmQjduWEFxbTNoakFKVTAyVmItUEtteWtUNS1jVDJWenJMSEdZZXdOQmxwXzRoeTk3QnZuUThVN0JheVZYVWFfQ0hIYUUxQk9FSVhDT1ppbUVxRUtXSkdPdFh0ZjBFTkk5SVkyY3kxXzN5NjJ3VURTM1ZSQXA1XzUzX0hD?oc=5",
+   "date": "Sat, 28 Nov 2026 11:10:25 GMT",
+   "vu_le": "2026-11-28T11:50:35.888010+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "4 Defence Stocks with Robust Revenue Growth - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPVHBQd2x3anVnRGxXcXBMTTZVSHd6MzBldGgwQ01JZ0xiTThZYkdxUkZ0aHFqYWk2d0s0VzROZHM5QzJra2Fkd2JxU01jNUdyLUtxTmVpamlEOC1pRXdLTE1lS3hwYkJtSXVYNFdlS1EtbjFiWFNiYm9xbm0yd2N4d0JFY0pYV3BLX0Y5Y09sM24tUXJXby1SOWwzamZfZzc1R1JZcWZGZ256SUtpdFZ4azJkNnRSQ21OWHM2RzZBc3UxYTdrd0lrQXpzTmVabG1OQjBwMmNMSHBSeGFYdGNScFVhT2xuVEJ3YlJLVFR5RFVSeTVSV293V1pDUFlYaDdvNGQ2ZVpKUnk4d0hzcnU2aHNJTTVjRFZaenBRVENxYTI?oc=5",
+   "date": "Sat, 28 Nov 2026 09:46:28 GMT",
+   "vu_le": "2026-11-28T11:50:35.888010+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Kratos Defense & Security Solutions (NASDAQ:KTOS) Stock Jumps 4.8% - What's Next? - MarketBeat",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSlpKdl85MUxFNjlKZkN2QUNPT0xsZVQ0SzFnYmxkc01HUkVQV1l5OEhrMVZOa21teGxaajB4a29FWkd1QmFJa1ZRWFNDZGhlbkJVWVI0UHZOTEZsVUJfZVZWdVNYbno5bjB2c1pVaERwcXFJd0xBSVVzczNHdXBsbFJuWjBjT1ZHUWVUNGJHbFE2OVFOYTl5aGY4U1VJc0RKcXBtQzREWWZ0RXk5eHRSOTlTa2VicWQwQWtKX05DeE4zYjRYV0JQaGFMYw?oc=5",
+   "date": "Fri, 27 Nov 2026 22:34:29 GMT",
+   "vu_le": "2026-11-28T11:50:35.888010+00:00"
+  },
   {
    "sujet": "Petites valeurs en croissance",
    "titre": "Happiest Minds Technologies Ltd: Valuation Shifts Signal Renewed Price Attractiveness - MarketsMojo",
@@ -6384,76 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrM0FkUGJHZTNjRkFTZV80TGZrQlJ3bWdkM3hiNF9nS2EtUWpfS1lpYW1BMGlCQ29MTzFwNDY3cnJFSmxWZkMzWjdlMjFKVGVRRmF0UGp6RHhGdS14bFZYYjZzUjB5Z1hoLWRxa3JLVUxTdHp0RDh5SjlTRmNyU00?oc=5",
    "date": "Fri, 27 Nov 2026 16:52:19 GMT",
    "vu_le": "2026-11-27T18:40:36.568499+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Intermex sues Western Union over merger agreement termination - Finextra Research",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeWxGdS1uaWI4MzBLcjk4M2ljTXZpOXg5Zmw3bVJXaDlwU0NSWWlQOW9jTU53SWZfb3VpNzYtUkluc3c3U0NjZmZVSmlJTFduckFoRjNsYVJRbFY2Y1RiMVRVZ3UxeHVud0Z6NXlreWwxZHlTM2ZUMVJEcVota0huTTFyc2pGMXM5elpFUTVKakota2lhdHlqak82NzV3dXVBTVNMRmtFbw?oc=5",
-   "date": "Fri, 27 Nov 2026 18:10:00 GMT",
-   "vu_le": "2026-11-27T18:40:36.568499+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Should You Invest in Anthropic Stock Now or Wait? Here's What History Says. - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXVIck5qWE5mTDMyby00elRaYmZ5ZTVfLWRSVi15dmRKcFNDaWEwUTRaeHVybm1Ddl9PVFpRSG5TM3lfV3dKNVpmUExpczlTblJFby1UTzg3LVhJTl8xUG1PSTFIdU5GMHZ4dWtJbVdiMmxOVXdMUXZZNWFBZkRHbzgtWmliekFIUG9QLTJrRzd4LWdDQTJlN292WEF4QkFYQkpRazlZb0tkN3lQdXpWak1xR0Vudw?oc=5",
-   "date": "Fri, 27 Nov 2026 18:19:02 GMT",
-   "vu_le": "2026-11-27T18:30:37.605677+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Vontobel : \"Les droits de douane américains touchent une corde sensible\" - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdkV4VlM1X3J2QnFBVUhHV3p3WW5URHhFeUdLekkxOGRzblZ3RXI1SVoyX3BuRndna0hfWTlRRHMzYm9ocTA4eEFYY1RvOWVIX2pHaVE1U0FHb05ySVBnTE5FS1RHNEpScHdCbWYxUmJ4eTJSWGdVaXBQMkliRWZ3cHB2dWFtMVBBQmxGd2JmZmlsUFd3X1l4XzJEc0MwcnNvSjVVVFJ2TUJKSkVIbHZfY3JWVW9xZlJmUzZXT0ZhLUliS1QtUjhGR0l0VWVoVzlmaHJ4bTk3b045QlloMTYzX05UUVLSAeQBQVVfeXFMUHZFeFZTNV9ydkJxQVVIR1d6d1luVER4RXlHS3pJMThkc25Wd0VyNUlaMl9wbkZ3Z2tIX1k5UURzM2JvaHEwOHhBWGNUbzllSF9qR2lRNVNBR29OcklQZ0xORUtURzRKUnB3Qm1mMVJieHkyUlhnVWlwUDJJYkVmd3BwdnVhbTFQQUJsRndiZmZpbFBXd19ZeF8yRHNDMHJzb0o1VVRSdk1CSkpFSGx2X2NyVlVvcWZSZlM2V09GYS1JYktULVI4RkdJdFVlaFc5ZmhyeG05N29OOUJZaDE2M19OVFFS?oc=5",
-   "date": "Fri, 27 Nov 2026 16:27:00 GMT",
-   "vu_le": "2026-11-27T18:30:37.605677+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stocks jump to close out an erratic week that was also Wall Street's best in more than a year - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOOXdfcFBodkZURlhzdmVPM2Ztelh5c1pGWXVFMHl5MkFDQzRQeVM4cU43Rzhjb1NUMU1CN3otUnRfZVJ3eEZLZU42eUVZQVRpRlROMDl4dHBfZ1BnNGJTSHNjMW1yQmVIb1dWOTJIS0ludVh1Uko4LXhyLUZ4MzZXcndtT3hvQ3VFaUhmdlRjS1d5ME1jdkFoU3FxY3V3bm56WWp3OUFJVzFCSW1tcWNuWVRRa19HT2trdnFRYW16ZlV1M3FxMExqdFV5TlRfRGhYcGdnYWl1bmk0djR3UXAwMW5ocG1zbTVIaXY1ajMtVFhEcGJpeW15OGoxVkVKN3FBWG1lb3RZdElkVGs?oc=5",
-   "date": "Fri, 27 Nov 2026 18:09:27 GMT",
-   "vu_le": "2026-11-27T18:30:37.605677+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "5 Low-Cost Vanguard Mutual Funds With Strong Return Potential - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVmdPenZHNHpUWk9TMHY4bnQxcXVrMlhFbzFKUTgtVHZ5R3B0TmlacU8xNkJ1cnp6SFpVR3UtMVFZNXNIMndMTS1TR21rd3JyWXpXVG9ENFdUOUhjZXZHX2pnZ29WTnotblR6NXZnQkhMbnpydHZTd0k5R0h4SDFCenRFcGI5b1pRR0lBZ3FzV1ZHcjlQa2MxZnJaaURrTUlGWTRfMVNnQ25maERkWHNHQ1pwc0xtNy1KcmhaNFUtc1VjQUpDczBpaFNVaHU0eW14VjhLVGFKSmIwY29ENzQ4?oc=5",
-   "date": "Fri, 27 Nov 2026 15:33:52 GMT",
-   "vu_le": "2026-11-27T18:30:37.605677+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "MercadoLibre Latest Results: Revenue beats estimate, EPS misses as shares rise - scanx.trade",
-   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbm50WXlRNHlOQktELXlrZjEwb0JJUlBKM252aERabHNGaXZaZE9wcFA1dWZvbVBaYjRkN3cyVmVlLURzc1FqNllGMk80eXZkMlB5SnVleFlqemF2cWRfdVFkckNzb3ZkcE5EdnI4alQwZmVwbE1oMG1yWUtqd2FZNnR2a3U0LWlybDNRYjlBUmJaNENLOVp1ak81SlM1Z2Iyd2M3WXhHRHp2WkdkcEowNFFxRFlNaXA4VVJUVzRxZW9Jc1U?oc=5",
-   "date": "Fri, 27 Nov 2026 18:11:06 GMT",
-   "vu_le": "2026-11-27T18:30:37.605677+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "CryptoQuant says bitcoin price recovery needs USDT supply growth - The Block",
-   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnFrLWtWOWNXc1o2SG8tRWZpYUxnOTVqTzdSMDg1VlZDQ0NKN192NnNmcjM2U1JyNUlWbHJfSE13LWd4UFNQZGhHZ3hzT29STTcwbHpRQWhERExwUlBJYUVMNHpuNzlaZ2VsWkxkRFhOMkVkSVhtR0ItazJfOU9xbVd6TEMyN0JyX2NiRHRXYjQxUHZtU3ZadlJXSldMMG44c05DdXBHMmR3b0JF?oc=5",
-   "date": "Fri, 27 Nov 2026 18:13:00 GMT",
-   "vu_le": "2026-11-27T18:30:37.605677+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Stock Rises as AI Spending Fears Threaten Its IPO Comeback - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcFZGb0RsR1VaWXFpTFdXOHNTSUZSRk1OU1doTXJNUXIxVWFyN1ByUVdHTjJEVTdteF94cG1zS08zSUVnOC13bndTZ2ZlZzBKb3lab0N3SnlVMWxCNkhYalNfZWJWZDIxdnBGNFhRcTdQT0puMV9FWGppdEVqcVM5ZWRsc0N0T2ppaVJIRl9GUG5DSTNoNF9rVFhJME9zalpCUnV3NzlCR1JWbkNsb1B2RzhMZmo3cVlqdDl5dWhYOFAwTHRFOGtv?oc=5",
-   "date": "Fri, 27 Nov 2026 17:57:46 GMT",
-   "vu_le": "2026-11-27T18:20:40.058983+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Stock Investors Face Major December Test - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdi1rWVVsQ0tiR1NXdG5lMWN3UkdDaFQzZVd2VW5OclRDODk1R2pNd2lKR2VSblB1STQ1Zm5zVGxGT2RLNUxMSEVtREdqWXh1dEcyanc1NzRwbDJVQnhWODFJcjJxaWREREkzLUxKcjEwTVFYamZyamlpd2w0M09VNkVYOUU4bGpTODU5eFhnN0xxcU9vRG1fUnQ4czItUmdGYzBTeXQ4eEgxVFlXd3Zj?oc=5",
-   "date": "Fri, 27 Nov 2026 17:36:52 GMT",
-   "vu_le": "2026-11-27T18:20:40.058983+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "US Equity Markets Higher Amid Broad Rally Led by Technology, Consumer Discretionary Stocks - marketscreener.com",
-   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdnhuMTVBeFZtdGMwZE5iLURFelFmWmNkLXRZZE5Xb0U5LUVndWhDdXR0RHM2dGEtRW1BQ19Fb29pc21RYTZVSkJRZGs2cU5rWURIZXlseGtyUS00ME83ZDRJMlZNVy1NN2pBbl95azRCUzlwbXhpcGhTazNfakFNbnR4ZVl5UERoaWlOVDkxbDE4MUVBcndrM0ZuQ2x0M255a2hiM3RXMnZwOFRRVnhBd09jVXFPdjZya19BTXFvLXZhNHhCNEZzeW5lUTJQdk1hS2JGekl6WmdlQQ?oc=5",
-   "date": "Fri, 27 Nov 2026 18:08:25 GMT",
-   "vu_le": "2026-11-27T18:20:40.058983+00:00"
   }
  ],
  "erreurs": []
