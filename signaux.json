@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T08:40:35.005101+00:00",
+ "mis_a_jour": "2026-11-28T08:50:38.618500+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54491.06,
+   "prix": 54420.19,
    "devise": "EUR",
-   "jour_pct": -0.44,
-   "mois_pct": -25.2,
-   "volume": 43.04690059,
+   "jour_pct": -0.57,
+   "mois_pct": -25.3,
+   "volume": 43.20069435,
    "volume_relatif": 0.2,
    "capitalisation": null,
    "per": null,
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "US stock selloffs trigger a new kind of dollar bounce - WKZO",
+   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUDVXelMtUUxpVF8tb0w4VTJHdWt0WktHdU1VNnhpa2hrY2lqTHZ2NllxbXpkbURfaUl1ZHgybUtwY2J5S3JHdDhVbkVjYV9FbjVmbHRQQ0pOcDF2MS1aaTZQVkhHS0tOYmFnSHpybUwzXzJTQUtTM0s4THBSM2NNQUUtaHJGQVFHSmc?oc=5",
+   "date": "Fri, 27 Nov 2026 13:35:29 GMT",
+   "vu_le": "2026-11-28T08:50:38.618500+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "TradFi News | Hang Seng Tech Jumps 6.45% and KOSPI 4.34% as Chip and AI Stocks Lead Asian Rally - Binance",
+   "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSE5IMDlvU2R1NzBYSFlPMDZwcFZIYzZMcS12eG5DRFktR2t2cmRlRnVUemQ4aURyMVdGZnZ1YjFiNG1pQXVIel9xbzA5ZmVKdkVMN0txdXBISkxpQ09EOHo3a2l1emNXN2Vad2RyLWhUbUc5d0k4d2hxdkxVemlfaFJlSTZVcFhObzRpTjQyWUFLM1NNVUFLQ05DZ3Z0TFhWUTBvMGtiaTQxbjl4T0c4SEE2bHZ6bElMZmZ2RW5kWERYNG9BaVV0WlBTVldQUjNPN2E2WUJWbnh1bDZqUGUxRFluMzFKc0pQOWc?oc=5",
+   "date": "Fri, 27 Nov 2026 13:08:41 GMT",
+   "vu_le": "2026-11-28T08:50:38.618500+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Sagility Ltd Upgraded to Buy on Strong Fundamentals and Bullish Technicals - MarketsMojo",
+   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV2dvUjZSNGVDdHpLVnUzbDE2XzBrZ3JxZktveHFrNWJERThSa1AxSEN4RVhyZGNKQjhKYWhxVExDb2FYblU4Vi1OeS0wZjhKdFBscGVRc2ZYeENhX2U1aFBuczEtQ3ZtZlp5ZmN2NW1IcDc5VDFIZ1pacU1zX3BrTzlCQndjcnZsRG5qVmt2UjEtVktBYWttSTR0aEtTX0hYRGoyZmFrSVhKNzVtZnpyUksyYWNiQXVjN3pzb3VLendBNlpaMWJMd1pVazhONXVSaWc?oc=5",
+   "date": "Fri, 27 Nov 2026 21:32:44 GMT",
+   "vu_le": "2026-11-28T08:50:38.618500+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "China’s rare midday vow jolts stocks higher - NAI500",
@@ -6432,27 +6453,6 @@
    "titre": "NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance Australia",
    "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E?oc=5",
    "date": "Fri, 27 Nov 2026 13:39:25 GMT",
-   "vu_le": "2026-11-27T16:20:34.697150+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "What Does Zscaler (ZS) Joining A $43.9 Billion Deal Mean For Investors? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmJGTk5qOUJEUW5hdzh5VDBUc2hJZWotMG9FSmRkY1NlWlM0cElJNWxqTmFUYnlsTDFiUmoyUmVOQW96ZmFDXzNZRkFXaDZEQjlmaFh6QnQ2M24tNVdWeENZZzNHcG1KTFg5QmUtS3NJajJtc0FEY3JwaVlmSjFfTWE4dmIyX3NYcU1aZ21TQ3c1M19LRVE?oc=5",
-   "date": "Fri, 27 Nov 2026 13:09:41 GMT",
-   "vu_le": "2026-11-27T16:20:34.697150+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Semtech Stock In Focus After Earnings Beat And Strong Sales Outlook - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUlhWYWtPdThYOTdDbUM4ck1SOHJXVmF5cmdSUkg0dGJzR0RmWWxkQzF6NUEzZmEycElYQmJVMUVqaUhLV3o4aWMzRFRfUll4WWdFQzRFVmEzVndtZWFBeGk5QmRxNThvUTI5OUUwNFNFbmRPVDhsMk04Z2FlRDNzcm1obVVNUTNnaXRsQ29hbXN4VzIwbXA2aXpwNE9XX0dqYWhvYldYRm9xckxaXzR2SDRZTXdUZHhEWnFVZGdrVU45aGU4NTBDMWpvTHc5VU9z0gHQAUFVX3lxTFBSWFZha091OFg5N0NtQzhyTVI4cldWYXlyZ1JSSDR0YnNHRGZZbGRDMXo1QTNmYTJwSVhCYlUxRWppSEtXejhpYzNEVF9SWXhZZ0VDNEVWYTNWd21lYUF4aTlCZHE1OG9RMjk5RTA0U0VuZE9UOGwyTThnYWVEM3NybWhtVU1RM2dpdGxDb2Ftc3hXMjBtcDZpenA0T1dfR2phaG9iV1hGb3FyTFpfNHZINFlNd1RkeERacVVkZ2tVTjloZTg1MEMxam9MdzlVT3M?oc=5",
-   "date": "Fri, 27 Nov 2026 10:10:28 GMT",
-   "vu_le": "2026-11-27T16:20:34.697150+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Telekom Austria (WBAG:TKA) Stock Could Be Undervalued Based On Earnings - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXZWWDQtQ3l6Q2NUT0dEdDVobkM0dF93MTBsWXhmQ1BoSFNGaF9wUDdOR2RPWTNEbDloOVM1alQ2RVhPUmtDUnlmb3ByWDNWbnk3dl8yOXF1aG9OYVliOTcxNU5KOE1zcHRyLWQxV1dYSWVrSVJtR09McllMaHdEaHFmUDVGRGVQVGswZE9CUXd0a0QtWmw1ZUhlRQ?oc=5",
-   "date": "Fri, 27 Nov 2026 15:13:42 GMT",
    "vu_le": "2026-11-27T16:20:34.697150+00:00"
   }
  ],
