@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54605.18 EUR, jour -0.24 %, mois -25.05 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54696.02 EUR, jour -0.07 %, mois -24.92 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -288,8 +288,8 @@ POSITIONS ET INDICES :
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3349039139769.5396, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3344306225492.11, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1559025893850, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655656154.782, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700462317.067, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,13 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic Stock Rebounds as AI Giant Swings Through First Week of Trading - NAI500
+- [Marchés mondiaux] Global markets rally as end of bruising month approaches - The Korea Times
+- [Intelligence artificielle] Stocks Settle Sharply Higher as Chipmakers and AI Stocks Rebound - Barchart.com
+- [Petites valeurs en croissance] Central Bancompany (CBC) Stock Still Looks Undervalued After Its 217% Run - Yahoo Finance
+- [Crypto] Bitcoin's Slide Is a Stock-Market Story, Not a Crypto One, Analyst Says, With $100,000 Seen by Early 2027 - BigGo Finance
+- [Crypto] Binance to add 500 million USDC to SAFU, move 7,500 BTC - Crypto News
+- [Crypto] VTB Opens Bitcoin Trading to Qualified Investors as Russia Builds Regulated Crypto Market - BigGo Finance
 - [Crypto] Whales Snatched 121,000 Bitcoins Amid 30% Drop - Cointribune
 - [Crypto] World Liberty Financial’s WLFI token plunges 59% in 24 hours - Crypto Briefing
 - [Pays émergents] Africa’s richest man is taking his mega-refinery public in a blockbuster IPO - CNBC
@@ -452,11 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] 3 British Undervalued Stocks Trading Up To 50% Below Fair Value - Yahoo Finance
 - [Bourse de Paris et Europe] L'Europe finit dans le vert, se redresse après des jours agités - Boursorama
 - [Crypto] VTB opens bitcoin trading to qualified investors as Sberbank eyes December 1 - Startup Fortune
-- [Anthropic (FR)] Un militant entame son troisième jour de grève de la faim devant Anthropic - Dataconomy
-- [Marchés mondiaux] Stock Market News - Bond Market - Currencies Markets - MarketWatch
-- [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
-- [Bourse de Paris et Europe] CAC 40 : Paris fait cavalier seul - Bourse Direct
-- [Crypto] Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - The Globe and Mail
-- [Crypto] Franklin Templeton Adds Hyperliquid’s HYPE to Crypto Index ETF EZPZ Starting December 1: 12 outlets compared - NewsCord
-- [Crypto] 3 Cryptos Under $1 to Buy and Hold for the Next 10 Years - 24/7 Wall St.
-- [Chine et Asie] [Weekend Money] AI Regulation
+- [Anthropic (FR)] Un militant entame son troisième jour de grève de la faim devant Anthrop

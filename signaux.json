@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T07:40:34.989072+00:00",
+ "mis_a_jour": "2026-11-28T07:50:37.175313+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54605.18,
+   "prix": 54696.02,
    "devise": "EUR",
-   "jour_pct": -0.24,
-   "mois_pct": -25.05,
-   "volume": 38.2719087,
+   "jour_pct": -0.07,
+   "mois_pct": -24.92,
+   "volume": 39.00896169,
    "volume_relatif": 0.18,
    "capitalisation": null,
    "per": null,
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic Stock Rebounds as AI Giant Swings Through First Week of Trading - NAI500",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSmJmUDJNSzZ0d01wZnVob1U4SUxaXzV5Z3BSVzVrMFB2Vmo0YlplZUF2bzFwOHZiOXhiN2g5MllsY045TW5IMFJaZUx5OEVaS2JTRmxIWHlVUmtSMEh3RXFlRHRMdFRod1pnelZoTWhjOXVnZHF4czlNcko0MjZUSGNWd3o0TXRQVnFsSldRbXdqaGdjOXh3dEFQenlIYzNvWXh3MXpMcWVrZw?oc=5",
+   "date": "Sat, 28 Nov 2026 03:28:46 GMT",
+   "vu_le": "2026-11-28T07:50:37.175313+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Global markets rally as end of bruising month approaches - The Korea Times",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWGtpWF9RTi1kTml5Tm5lOVpTY1JtRTVrZlg2cWZjTEdfVk56SkZKakRkV09Ob0dDTUhDS0pLNGhuUUozWTFtNXJGN25OM05WUlV5enI3eTU0bTNHUjRPZmExSUZ5QkZLc250cmlCV0FUaTVkU3dOVHdRS1RZU2tWbUhacG1fSTZhTFMzelZUak12STNJRjl3b2JaRU1NQ2dZTGfSAacBQVVfeXFMTW5Sd2hkN0R1T2hLZHJNZ3FvUncwVFBjdDlvRUxJVXlLMTRRU3AtNFM4MHNuWnlaT1FRSWctbXZGSWVKYzZLZ3NzQjZoeXYzbHd0MU5jbTZMQlBXTlRma2x5VjZyWVdxQlZWZ090YVhwWDFYSlVvd2pDdTFiRTU4Wk1XX25SMFlaRFBUN1ZNWkRHanNvMS1HWWg3MnljeWx6ZDNPNGV4N1E?oc=5",
+   "date": "Fri, 27 Nov 2026 16:44:00 GMT",
+   "vu_le": "2026-11-28T07:50:37.175313+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Stocks Settle Sharply Higher as Chipmakers and AI Stocks Rebound - Barchart.com",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM19OV0lhd3ZxcUMzSFRSQWE2cTc5NXRpUEpmVHk0bnZCMkxLWFk5TG5HUEROZ1lraWhabThRbVhpNjBxeFZReXp1LXZybmd2QkxLemtfTDk1V2Ita21XWnhGRHFUS1ViMnlfMmlQZ0djNkRsM0VReHQ3MjdEUl9vVWZWckhxbXF0ZVB2NlktdG1Va3JGWk1aXzJGUnJVVlhrRnNvWGV3cHhyNExt?oc=5",
+   "date": "Fri, 27 Nov 2026 19:33:28 GMT",
+   "vu_le": "2026-11-28T07:50:37.175313+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Central Bancompany (CBC) Stock Still Looks Undervalued After Its 217% Run - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODBYZTQ0U3BvUERxeC1JTElfSGIwQ2NVTDZ4bmVBMFlRZGRTMDl5QWJjbFNiMG53VEdmN3d2TGxKRFdIT3hnM3B2bmo0aUtobGhnYTZQVEZwYTNhWTdyM08xbk4takRoYlV2UklzX2thck5ZTC12OWc2cnQyQk9GeHZMRVJ1S3RrSTZwVm9TTFU5Zmxyck11aDlqck1LNDdU?oc=5",
+   "date": "Sat, 28 Nov 2026 07:09:00 GMT",
+   "vu_le": "2026-11-28T07:50:37.175313+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin's Slide Is a Stock-Market Story, Not a Crypto One, Analyst Says, With $100,000 Seen by Early 2027 - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lX0hDSW9WbFBJTmZ5cTQwMnF5Rlg0dDRTTmsxcDdkYWhvVDZfaUUwekJCc1p0ejQxSURXUmhHbElUZFhoTzVHM3hndmVXVHBCRF96RGFFNlJrNFRMTnRqR0tKZFIweTBUV0U3d2ljWHh4WVlHMWc?oc=5",
+   "date": "Sat, 28 Nov 2026 07:35:00 GMT",
+   "vu_le": "2026-11-28T07:50:37.175313+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Binance to add 500 million USDC to SAFU, move 7,500 BTC - Crypto News",
+   "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hdVVReXRMa0o4TGRJeUNlYjN2Q29EVmxIYXk2YVhxb3ktQlJVUFRkRUFGcFk2VlZPbGEyRkE2NnpIRXFHVVFEZTBuZDB1QnpYM0cyRGJkMlZMUkdQcFJndkhQakhodi1GT1Nv?oc=5",
+   "date": "Sat, 28 Nov 2026 07:28:00 GMT",
+   "vu_le": "2026-11-28T07:50:37.175313+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "VTB Opens Bitcoin Trading to Qualified Investors as Russia Builds Regulated Crypto Market - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHRHVRT05RUGJ6TGEtWURuYm1ZX2p6R0VmRGJ3Z0xTSG9ORkxLaFJ5VlpsOHpCaFM2Z3BUbE5tYTZZTDlIU1lpTldjdG91SVlhVkxRbGJHTlhZdW5nZDc4aE5RNlY1dktidVVMMzRPVUs4azNxS1E?oc=5",
+   "date": "Sat, 28 Nov 2026 06:55:00 GMT",
+   "vu_le": "2026-11-28T07:50:37.175313+00:00"
+  },
   {
    "sujet": "Crypto",
    "titre": "Whales Snatched 121,000 Bitcoins Amid 30% Drop - Cointribune",
@@ -6404,55 +6453,6 @@
    "titre": "US stock selloffs trigger a new kind of dollar bounce - Y100 WNCY",
    "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVENMMkRsUGhnZzBsaFF0TU5id0duTVFfNklkS2ZCV0c1RWdUXzdLaVJCODZqVDF3VXpZYWdWQnBrUTFrdlNpTHRFLVRNNWVYR1ViOUZIOU5kN29kRC1Hd1liSE5LUlB2Vi0xd2lET19OMV9oN3pJQVlxMllSQzhJVVpMaDBDYTFGYlE?oc=5",
    "date": "Fri, 27 Nov 2026 15:17:51 GMT",
-   "vu_le": "2026-11-27T16:00:36.394656+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Global markets rally as end of bruising month approaches - marketscreener.com",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOakVhWU1zdUVLZ2dSUzE2RlZ4VERLdmFPbXBYckNGQjI0b2g0bzJSQXR0aG1Pdl91SHJzLW1wcmFqRzVDcmV5R3Z6Wm9jbUFzUWc2LTAzQVl0NmdIdHB1eFY3dlM2dDhqdXpibDNVSXo1MDZQSWhrdFJVNDZyZENQN3RENGE1YnFhUFMyWnNuZTkycHVQRWdqTDEya3BaTTl4S2pyOW55TEFVVU9zeWc?oc=5",
-   "date": "Fri, 27 Nov 2026 15:57:16 GMT",
-   "vu_le": "2026-11-27T16:00:36.394656+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Why Is Sandisk Stock Jumping After AI Chip Selloff? - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONXBGMFpyRUFwUTlWYnRDclZZb0puWmlHTHJ2T1QySnBoR0haajhWa3NNSmgtZjRja0JENl9MRF8wY3BxbWVrbmRQVVZ2MVlRSzJVenY5QXFrSnhnNVhuMUNpZ2ItWFJ4ZGowNm45azM0XzhINXZuTkN0TDJpWENhTjlWWEV1QlpSLVZ3Z0NCaWIxVXRiaU1vMHVQNnMxOUhJVGdkVjBB?oc=5",
-   "date": "Fri, 27 Nov 2026 15:29:28 GMT",
-   "vu_le": "2026-11-27T16:00:36.394656+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Les Bourses européennes rebondissent légèrement pour le Black Friday - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUW13LUtLNUpkNnNvMlRaVWVCMG11X2FUU3BhZDI1MlV1ZTNUM0dia3ZYcmMyeG1nMkpZcXBrQ3lEdG5LRFBDV0NrTUZpeVlTYV9nWXpqWUNwaFVjY21McGtKVk93R2tqRDl4VUNWd09LMndockNGLXM1Y0ExMjFZOHhRRXhac0dTcTNRd3BReEc5MjdNTjFqdXE1dHVjNzVxTzFmUENVZThZSUJENm1KVWRKclRyTkFVdWhHVzFXUVg4WTJuVkdB?oc=5",
-   "date": "Fri, 27 Nov 2026 11:24:23 GMT",
-   "vu_le": "2026-11-27T16:00:36.394656+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Neocloud firms face tighter terms than Nvidia’s old 50% AI chip cutoff - Proactive financial news",
-   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRDJobksyYWNlbXZpcmxzRkpiWFEyU3pnV2RmTkQyclVORGQxUmVYX0hwMURxU0ZzdEJmYm05X1E5cUZDcTlrT2pMNlVFSXFjY0tBT3RDdEhwUE1tR2lFVmRtNTUxczFIdTRlWFJrb0d3aVNkYlNORTdZV3ZZQ3JkNEszdTNqU3g5MkhOZFVoOXI2U01xUHJKUUthNmNoUDh3bjhsNkJvT2FoSmVPbFI5My1SazVaLVNhcHpYNWljUEc3dU9JYy1wWWpSSGQ5ZVpzM3BjNV9Ddw?oc=5",
-   "date": "Fri, 27 Nov 2026 15:04:00 GMT",
-   "vu_le": "2026-11-27T16:00:36.394656+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "CrowdStrike: The $44B Zscaler Merger Unlocks An Agentic AI Powerhouse (NASDAQ:CRWD) - Seeking Alpha",
-   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONG9OVDducEJIM3FOR0xpRnZIQ0YtM1psM1pEaXZqdFlfQWxPMGY3SFlueTR3SXE4TjA5MllqS1ZaQk9nZ3NWaWRla0F6d0NMbjQwa2lVT2JqZVlmNlRYbVd0TGFFaWl6TjQ3ekk5OVZFcTFDclZRbElvbVRxVVI5bVhOWDlEZWxNNnh1eXhEUmNNbHJzcDU0cHQtbVYtdWlMNURGQjBFMnVDOFpDR3BPcWYwOVR0U19fLVFMQTZDX01PTVhQa0E?oc=5",
-   "date": "Fri, 27 Nov 2026 15:47:13 GMT",
-   "vu_le": "2026-11-27T16:00:36.394656+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "MDA SPACE COMPLETES ACQUISITION OF BLUE CANYON TECHNOLOGIES - Quantisnow",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQmpELTFKZ1VadGY3MVJjUEZCUU1ScXI4VzI2bXc2Z1VWQlJORkFWYUNnRmlVS1dGMVVTTVZ5RkRiempPR3FJV3c2VXRvQ2lPTmlpRzNINXVWdmFubU5KSWIwd1V5UWRkY2RGblFSNXRLSzdWWkhnVGNoRVJTN2Nya3hTMXMzSUZ0aHdCaDZlZG8zeFFDYTJCT1o0OERJRXVsVEJ1bA?oc=5",
-   "date": "Fri, 27 Nov 2026 15:50:45 GMT",
-   "vu_le": "2026-11-27T16:00:36.394656+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Elia raises 2026 net income guidance across all divisions By Investing.com - Investing.com Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWRKYWVPMzZIT1prQXdCcTFCNjQtd1ZGcGpHd19rSXg5bDBOdFpZSkdhNjlEMzQ4ZGU1ZU1XYXhiUnJCMFQzbU5GNXZReFlEVTNFVTE2cXB6LTV1d1AxdU5obkpLTWRKeWdZelU4QUVxUURLUlFIU2pHMFRmR2JZcnd6eVF2OUFPelJCMExtMVowVWJid3NxMjQxa1JIc3J4OW1OOUs3YXpTLW9GaUNjWk9taVgwZ3VZVmc?oc=5",
-   "date": "Fri, 27 Nov 2026 10:00:10 GMT",
    "vu_le": "2026-11-27T16:00:36.394656+00:00"
   }
  ],
