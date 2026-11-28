@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T01:10:40.635964+00:00",
+ "mis_a_jour": "2026-11-28T01:20:35.734811+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54888,
+   "prix": 54986.18,
    "devise": "EUR",
-   "jour_pct": 0.28,
-   "mois_pct": -24.66,
-   "volume": 1.51860981,
+   "jour_pct": 0.46,
+   "mois_pct": -24.53,
+   "volume": 1.5408499,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 834986797,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 834986797,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQnNIN21ZLWU4dTFmYXh6TnluRXFFY3cxNGJ6ZGZ3QnFTdmdVUF9POFExV01NQVM1Z2tTdW1KekwtOXlXeExfQmtWcVNLcE5TSEQ3Nnd5b0UxZVQ0SEVLeW1fOXFXbGxWVmlUaTE4SzZPQ01kaFAyS093VVlIaXRheHdiYVBnRndvUHRlaXlRYU56dmVGRkN4NkF0eC13R3k1VUk4eV94Q1YzY2R3akR6SXNMajV3RTNVQ2tHOU5QT3R1YU5JTFJ4eVRxSFlnelU1STFtSm5yRVdNUllYZ1F5UTJ4bWF2RzB5akFSNQ?oc=5",
+   "date": "Fri, 27 Nov 2026 18:32:22 GMT",
+   "vu_le": "2026-11-28T01:20:35.734811+00:00"
+  },
   {
    "sujet": "Petites valeurs en croissance",
    "titre": "Storebrand (OB:STB) Stock Looks Undervalued Based On Its Equity Returns - Yahoo Finance",
@@ -6447,13 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVUE52dU1GOTBDNEZDX2x4SEpiWGRiaWUwc082VUZhblBNdW5yS2hKQ0VqT3d2UEZ1VzFjNXJkRTNtLWJLaUNLcXM1OXFEQjhxVHJIY3l2Nmo0d0IyTm5OdjZGcUR6UElCc1VLTGlSNnE?oc=5",
    "date": "Fri, 27 Nov 2026 10:06:58 GMT",
    "vu_le": "2026-11-27T12:50:37.209667+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "« Anthropalypse financière » : les salariés d’Anthropic vont bien dépenser leur fortune de 470 milliards de dollars, mais pas comme tout le monde - Challenges",
-   "lien": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNTXpJcTNlUlNIWXF4YnVFNnZDTXlrTzFkRWN3a0dkV0lnV3ROX1c4cjkxZ21mWEE1VHRncWY0YzNwSDl3Z29WbERXVTF4VzRXekJfSU80TzFOcWVFcS1tQ0VGYmRDN3NhSF9sRHBfOGZDeVlUbXFkanJGODAyMTRLSkxkelZsd3FmdDc0RnlRS0FRSkZtZk9nSUVLODM4cEtfbHFGYUxHeE03UEN4V2VwX3pXdVRReThKTTEzUFpFS2VKN2xXa0ZhdkFMUTNMQ2MwNnVKWGRscDhtMGVGRTllVUJXcWNzZUpUbXdoUGgxMUc4Yk1VbGd4ZGRlb2d6MFBFQ1lNSFluWDBRdEJ3TzRHX0xuSG9vODJOSFRMWVBtMjVaUQ?oc=5",
-   "date": "Fri, 27 Nov 2026 12:30:00 GMT",
-   "vu_le": "2026-11-27T12:40:35.683333+00:00"
   }
  ],
  "erreurs": []
