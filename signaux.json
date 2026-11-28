@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T10:40:35.296842+00:00",
+ "mis_a_jour": "2026-11-28T10:50:35.139020+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54161.4,
+   "prix": 54043.9,
    "devise": "EUR",
-   "jour_pct": -1.05,
-   "mois_pct": -25.66,
-   "volume": 50.17040027,
-   "volume_relatif": 0.23,
+   "jour_pct": -1.26,
+   "mois_pct": -25.82,
+   "volume": 51.18758353,
+   "volume_relatif": 0.24,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3371,30 +3371,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
+    "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
+    "prix": 40.82,
     "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3346907996277,
     "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
-    "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3413,14 +3399,28 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
     "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
+    "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 14.4,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC",
-    "nom": "Bank of America Corp",
-    "prix": 49.07,
+    "symbole": "NYSE:BAC/PM",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK-",
+    "prix": 19.1,
     "devise": "USD",
-    "jour_pct": 1.09,
-    "mois_pct": -3.6,
-    "volume": 19471454,
-    "volume_relatif": 0.57,
+    "jour_pct": 0.26,
+    "mois_pct": -1.95,
+    "volume": 178204,
+    "volume_relatif": 0.77,
     "capitalisation": 338593252758,
-    "per": 11.7,
+    "per": 4.6,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "CAC 40, SBF 120 : la France en crise, la Bourse en fête - Le Revenu",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWs5QTNhTlJVaGpCblRJdk1BMmQ0akREUEhIcTlySmJaOUV4c2xub3hZWFNIdE52cVU4cUl5dy1Fa0MtR0k1SkljeTk1dVFJWFJyMjFpS1R3UkV4RTYyRWZUeXRxenJNUlNkZ3BrNnJLVkFySG02VzNDdVVrbWZ5ZXpfZUw5aktSOTFzdkx5eUpVQmIxWFhB?oc=5",
+   "date": "Sat, 28 Nov 2026 08:13:00 GMT",
+   "vu_le": "2026-11-28T10:50:35.139020+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Le Bitcoin tient bon face à la tech et à une Fed restrictive - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY1JpejFER3l2LW1UdDM5azdlamVOWHBjelVqS2JqMmJoY012X2dEVjB5RlFlWjJWTHQ0LTlNTzJPM19JTnRJa3d3aUdRMUVUV3BfMUU1SmxmdjdjVjJmbExxQjZqa1pHaTdBUmpEOGZqbjlNYVVmSlNRQ3QtQjkxbmNTRWZLRGpCNm11OVFlWFZQVXczZGF6aVdRMURkMXBCRXhzTndCR0c3STlkbzBWc3BMSnRQblE3ZG5XUm9pX3N0U1FwMFZuejQ4eGl6V3JLN3JPbVNWYnd2d9IB2gFBVV95cUxNY1JpejFER3l2LW1UdDM5azdlamVOWHBjelVqS2JqMmJoY012X2dEVjB5RlFlWjJWTHQ0LTlNTzJPM19JTnRJa3d3aUdRMUVUV3BfMUU1SmxmdjdjVjJmbExxQjZqa1pHaTdBUmpEOGZqbjlNYVVmSlNRQ3QtQjkxbmNTRWZLRGpCNm11OVFlWFZQVXczZGF6aVdRMURkMXBCRXhzTndCR0c3STlkbzBWc3BMSnRQblE3ZG5XUm9pX3N0U1FwMFZuejQ4eGl6V3JLN3JPbVNWYnd2dw?oc=5",
+   "date": "Fri, 27 Nov 2026 16:54:00 GMT",
+   "vu_le": "2026-11-28T10:50:35.139020+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Why Did Bradbury Capital (NASDAQ:BBCI) Stock Surge as Small Caps Outperformed a Volatile Session - kalkine.com",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUHU1ZmtFWnIyLUY1ekxXamZnUy1rcVlQYzRtZXlhbWpOcTJzSHB5U3lmLU9PT1cwbTZkQUk0WXlFN0YxQTU1RDhicENHR2ZYcGlQVTZSQWZ3TU11M3ZzX0c5V2szZUdVSWZKZzdzMldpbVBKSTJsNFlCd05nSEhHSWp4cDZQa09YQ3dub2U5ZzRfalRLaXRzREtBT0VOVGl2cjdRRy1FZ0RLNlNVR0xuWHNzVXUwcHJsZXhhdHBHSXJqankya084?oc=5",
+   "date": "Fri, 27 Nov 2026 13:08:00 GMT",
+   "vu_le": "2026-11-28T10:50:35.139020+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "META_TITLE_SECTORS - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KOFBhX0cwcURCekpUS0tkVExiSFRVeXdtWF9qWnNuN1ZUU3A0eE80VGd0cVdDS2pNN0lpU1JncU1kSkp2UFd6R1JqYzJ5NjY3M2syZkphVQ?oc=5",
+   "date": "Sat, 28 Nov 2026 01:41:42 GMT",
+   "vu_le": "2026-11-28T10:50:35.139020+00:00"
+  },
   {
    "sujet": "Petites valeurs en croissance",
    "titre": "10 Best Undervalued Stocks To Buy Now - Insider Monkey",
@@ -6425,34 +6453,6 @@
    "titre": "Les Bourses européennes terminent dans le vert - Zonebourse Suisse",
    "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcDRzcWJYV285UDkwSFRybWtSSTAzTjFTc3ljVjE0OXFxVGd6UVgxVFBhTEZfTW4yOGE4cGp1TEZFaDVyaXQwU0VQVXRQRHdKSElpS09GekRleUFYUG92OUNFaWlKMnRqdDR5ODRSbE1GMGI0UXVtT0ZkWkVrT3FDTWZvMmhzM3dYdmRKak1ka0ltdjVKN09Vd1lDbFMzSF9ZcEFRT2pRT05MZw?oc=5",
    "date": "Fri, 27 Nov 2026 16:54:15 GMT",
-   "vu_le": "2026-11-27T17:30:37.592786+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "La livre sterling progresse, le ton restrictif de la BoE contrebalançant les anticipations de hausse des taux de la Fed - www.tmgm.com",
-   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0xTS0hFeFRQTk5iTUhsSVlGWnozSzNKUVlIM20ydFZTR29pMWxKMG9DelpSUG8zQTRTTXR2OGJsUnZkLWdkQlExOEgwcHBvRlpqSEk3Z0ptaWh0YWV0T2Y5cUZfZURua0d6NmROcmczdXd1NHRCMzFLNERPeUdnZWxmaTBvejNyUU1DUWM5bjVBZkZzb0ZLbWxJZWlDWFRZSnNfZVFDU2N1alFRRDF2N2M3SnE2akxNNGR5NmtRWTFDU1NTekNEb1ppdHg?oc=5",
-   "date": "Fri, 27 Nov 2026 16:15:57 GMT",
-   "vu_le": "2026-11-27T17:30:37.592786+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Bankers in Asia Face an AI Financing Hangover - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXVYUkdPUEhhWHNhWmtoaHZOTndGbWRWeFdGVWpyN3VseDNzSG9DX0NzeHhfV1BsU0pnaHEyQURwZ1hQZnJtQ3Vqc2UzdWRDR2dhNUN4NW5Vdk1tZk93LWFIN3RzMGhONzgzbjhlN2RGbG9IZ2NGMWpYSFRnN0RIaXUyRnA2TmRIOFZiMUUxTTNXT0VzaDZTZFdFY2xxNDBkVW42M2E2MmJxQ1NKSTF3eExVcHZSSmpOTXJsRGphZw?oc=5",
-   "date": "Fri, 27 Nov 2026 16:00:02 GMT",
-   "vu_le": "2026-11-27T17:30:37.592786+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Versigent (NYSE:VGNT) - Stock Analysis - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jdTF4cFpjZzZoaklsLUJud3p2WWhqcV9NTkNyeEIxMlhMVVB2WUwyZ0R3dXgtQmRKdmxUaDRZWV9ySXgxZ2xSM3QyM1hnbTBtSlJuMFQ2MVFjNlVRQWhZOHg1SUwtd1lrZFRycWgyN2U?oc=5",
-   "date": "Fri, 27 Nov 2026 07:49:01 GMT",
-   "vu_le": "2026-11-27T17:30:37.592786+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Stock market in risk-on mode! Why HSBC is overweight on India - Business Today",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWdiMXBUU1BuWl82c2hHamoxN2dBRmJrb3dDcGRWRTdZLXNvQ19NOFZYTHV6aTdROTVTZUU2RXc5VGdvTDZqWnFjQTRHWnZRT1V3MGMtaXZyTTltUnZ3alNGYU9hS2NteTB0TDhuWVV2YkhMaDBIZl9yci1lMzNmbW1pMEVsdXhtcjB1U3B5QnY0emE4RkRZdHpzcjJUcEVjOTgtLXZzUUNVZXBxM2dxLW1GVFMzUTdMekJvdFFCSW5KX2U4VkVZ0gHMAUFVX3lxTFBpWUJFYUltSzBZcUFkenNmRWk3ZV9hdXkxdVl5RFZHcEo4QmtrMUhRUTUzVjRFcWxvSkQ3bERyUkg1V2dTVVZyZGV3MjR1OUhxbnhZUUllVHpSTTR1ajZpckVkak5BaldhQVBvaS03czNyR24zSnJlbnJFelZVQ2FUTUF3cFhyMnpLeEhweHZ4ODV4N1c5bDRfbVBpNjcxODJyTGFLUWx6VTRwaE5McHVacGpPUlo5dWpqeDJublJleUthRmpSRjk3Nm9neA?oc=5",
-   "date": "Fri, 27 Nov 2026 09:42:59 GMT",
    "vu_le": "2026-11-27T17:30:37.592786+00:00"
   }
  ],
