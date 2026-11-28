@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T10:30:35.328248+00:00",
+ "mis_a_jour": "2026-11-28T10:40:35.296842+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54206.2,
+   "prix": 54161.4,
    "devise": "EUR",
-   "jour_pct": -0.96,
-   "mois_pct": -25.6,
-   "volume": 50.01063516,
+   "jour_pct": -1.05,
+   "mois_pct": -25.66,
+   "volume": 50.17040027,
    "volume_relatif": 0.23,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 1001984170,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 1001984170,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOG",
     "nom": "Alphabet Inc. Class C",
     "prix": 272.44,
@@ -3423,6 +3409,20 @@
     "volume_relatif": 0.55,
     "capitalisation": 3346907996277,
     "per": 14.2,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "10 Best Undervalued Stocks To Buy Now - Insider Monkey",
+   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSEdLY2tuOFo2aFBKTU5xck00Sng0SE4zT29sbG1ZZDhpTk1wUlZ6Y3UwTUdabzFjMTZ0V2twNlhIcXRwUGVVaWFGNEFOUTA0MUVFcXBsZHJjLWZ6YlZGWWx6ZUFlZjk2YktnQzhjWXZ1MlQzZFdUWXFpM1NKTFYyRVF1VUd4NlBLVVpr0gGTAUFVX3lxTE5RZzFWejdmVkM2a3NPX1RKOHp4TFBKOHV4WHlOdTVsOVBwMVlTYVh0MDkwM3RWbzVEdk9RUlhHbWszRldiQ3cyYkhjdlZOdUJocWdNUnllV001dGtRTzNoOUZUOHR1Si1VMExWOWd5RkNSMDZkTGFOcGlRRHNNbEp0bTFtbU9nd0JmRUhTZDJwWHgxbw?oc=5",
+   "date": "Fri, 27 Nov 2026 16:43:26 GMT",
+   "vu_le": "2026-11-28T10:40:35.296842+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Police Detain Three Suspects in Rp 16 Trillion DSSA Stock Manipulation Probe as Prabowo Condemns Share Pumping - InvestorTrust",
+   "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZ3VfY2gxbjdmMjNRN2NyYUhMVUl6UGNUVTVCVkVwRk1XaGt4Wjd5OVVKYlpEempza3pzR3pRVTRZUWZLQ3dWWHdZOGh0WS1vbWc4OWtNSXJMRjVuamZSVVAtVUVSZlFUVHpnaFM3ZkhUYnZUNXR3Q1JiSDFGZFkzVGxRcy03U05qMFpvS1V3Slo2UlJCcy1YSmpZZ3hSbWRkSV9CdDcxYU5MaG9NWXpWcjE1MVA4dnVpTVhKMVd1elozOFJ5T0E4T3ppSTlub1oxVFNvYWpVS0JsQkc0bGd0Qm5mcmJHdjBQZ3dPYUNhVHRzREdJY3VhQzlPbXFZWGM?oc=5",
+   "date": "Sat, 28 Nov 2026 02:41:00 GMT",
+   "vu_le": "2026-11-28T10:40:35.296842+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Indonesia Links DSSA Stock Probe to Market Credibility - streamlinefeed.co.ke",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQXBlYzEzekJuY3NNWEZfUkUyVDU2emZ1Yy1DaHFMR2ZPbzc5VFhrbEowSE5NUXpSazJ6a2Y0T2RCcFEwcHJVbUJKdlBqaGo5ZG5ROUR4aUs3WjNaSDdHbEoyT3JMeDBwaGU4dF9OcVNRaXpNM0tuN2R5YXV4V29Mam0xX1J3eTVCaVVJeFMteEhSUQ?oc=5",
+   "date": "Sat, 28 Nov 2026 10:19:00 GMT",
+   "vu_le": "2026-11-28T10:40:35.296842+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Kratos Defense & Security Solutions Inc (NASDAQ:KTOS) Share Price, Forecast & Analysis - Stocks Down Under",
+   "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CN2R6VG5UakIxMzhrazlDRkt0ck92WGlNSkNtekJodldfUVUtVlp2MExKdkJHYjdEamt3aEYyWDZfcWRQSzVaUFVfX0RPM3lnV3cw?oc=5",
+   "date": "Fri, 27 Nov 2026 21:00:00 GMT",
+   "vu_le": "2026-11-28T10:40:35.296842+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Google souhaite louer davantage de capacité de calcul auprès de SpaceX, selon Musk - Boursorama",
@@ -6426,34 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWdiMXBUU1BuWl82c2hHamoxN2dBRmJrb3dDcGRWRTdZLXNvQ19NOFZYTHV6aTdROTVTZUU2RXc5VGdvTDZqWnFjQTRHWnZRT1V3MGMtaXZyTTltUnZ3alNGYU9hS2NteTB0TDhuWVV2YkhMaDBIZl9yci1lMzNmbW1pMEVsdXhtcjB1U3B5QnY0emE4RkRZdHpzcjJUcEVjOTgtLXZzUUNVZXBxM2dxLW1GVFMzUTdMekJvdFFCSW5KX2U4VkVZ0gHMAUFVX3lxTFBpWUJFYUltSzBZcUFkenNmRWk3ZV9hdXkxdVl5RFZHcEo4QmtrMUhRUTUzVjRFcWxvSkQ3bERyUkg1V2dTVVZyZGV3MjR1OUhxbnhZUUllVHpSTTR1ajZpckVkak5BaldhQVBvaS03czNyR24zSnJlbnJFelZVQ2FUTUF3cFhyMnpLeEhweHZ4ODV4N1c5bDRfbVBpNjcxODJyTGFLUWx6VTRwaE5McHVacGpPUlo5dWpqeDJublJleUthRmpSRjk3Nm9neA?oc=5",
    "date": "Fri, 27 Nov 2026 09:42:59 GMT",
    "vu_le": "2026-11-27T17:30:37.592786+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Cryptocurrency is now legal: what comes next? - Ukrinform",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUEtCeGMxVnk0OW9veTNYcHBzRU9rM2VxX0tYSlNJVUZWem1LbXVucjAyT1hDeXJONk5oMy15eE9HSGF3VGx4Ti1BWWJtdTZOOF9oa0xUakJ2c3ZCWUR0ZG5MY01OMDN4VEV6U3NFMUtxYlFOTUtrYnlSTkNCU0ZqLU05OGdrbHNPU2RWSDVuZTR0eWdaaXN6eXVrb2lUcURSbDg00gGjAUFVX3lxTE9QS0J4YzFWeTQ5b295M1hwcHNFT2szZXFfS1hKU0lVRlZ6bUttdW5yMDJPWEN5ck42TmgzLXl4T0dIYXdUbHhOLUFZYm11Nk44X2hrTFRqQnZzdkJZRHRkbkxjTU4wM3hURXpTc0UxS3FiUU5NS2tieVJOQ0JTRmotTTk4Z2tsc09TZFZINW5lNHR5Z1ppc3p5dWtvaVRxRFJsODQ?oc=5",
-   "date": "Fri, 27 Nov 2026 15:30:00 GMT",
-   "vu_le": "2026-11-27T17:30:37.592786+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "How Much Will 1 Bitcoin Be Worth in 2035? - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXA5RFpwaFJPRGtJRkMyQXRSSVJXdkdNZkdCcHBrZlhoWVZZcjB2TzlwQ3ZOMU9uUndlTi1zQy1ERFFLMzFSVUlRRzh1cWJoQVhIdDA0dnhDX050MGp3VWgwa1VWUV8tRW9TZUV5S2FvU3JpR0ZVcEI3Yk1nc1hFWGxDYzY5WHV6X0tMamE3OEVvemx4QjQ3MjhyeUo1MWVJ?oc=5",
-   "date": "Fri, 27 Nov 2026 17:12:00 GMT",
-   "vu_le": "2026-11-27T17:30:37.592786+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Gold Suffers Worst 60-Day Loss Since the 1980s. Bitcoin’s Collapse Exposes an Even Bigger Problem. - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWUNURVRkMnlhcUpyNDBleTBDLThVLTd1X0lOQjNUMmxLcHBmcDFOSU81Qm15c25HZm1QMFd6ZDJ0dzFYZFBSZVk1TzZyMWQ1OTVBUEg5c2ZVa3cxZkNfSWJmT1lUQkZVVjAyMFRBcUNIUzVrOGV6MVZ2YVI1Y092Y3dDMUFuS2xoN3FnZ3g0NXZDREhNalhfYkpoYw?oc=5",
-   "date": "Fri, 27 Nov 2026 17:05:25 GMT",
-   "vu_le": "2026-11-27T17:30:37.592786+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLTNLdXFKQkprN1Vvd2g2VHcyRlZNOFk5NXh0WW1tWko4OGY4dHZhMExTWDBTQzVkMHY5Y0dBa0tVNmtaclBRd0ZnQXNNZkJIYzZEc1FabWsteTZPZmVuQ1VRWVU3bVhDRk5SZnlTTmdCeVdnQVF6X2lWV21SZEFsX3lGN1ZSb0hPWTZ1MVZTQ3dpalpQaVdndDEtMDdkSUhGOEJWdkhpRlRnUWtmTXk4eTJMNnFPclhTbVlvYmx6bnVhTnhaRE0wdm00TQ?oc=5",
-   "date": "Fri, 27 Nov 2026 16:48:51 GMT",
-   "vu_le": "2026-11-27T17:20:35.638053+00:00"
   }
  ],
  "erreurs": []
