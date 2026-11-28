@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T16:30:35.987047+00:00",
+ "mis_a_jour": "2026-11-28T16:40:40.006421+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54356.81,
+   "prix": 54345.17,
    "devise": "EUR",
-   "jour_pct": -0.69,
-   "mois_pct": -25.39,
-   "volume": 71.56363239,
+   "jour_pct": -0.71,
+   "mois_pct": -25.41,
+   "volume": 71.65557355,
    "volume_relatif": 0.33,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 10535061261,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 10535061261,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOG",
-    "nom": "Alphabet Inc. Class C",
-    "prix": 272.44,
-    "devise": "USD",
-    "jour_pct": 0.54,
-    "mois_pct": -14.83,
-    "volume": 14018416,
-    "volume_relatif": 0.55,
-    "capitalisation": 3346907996277,
-    "per": 14.2,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3423,6 +3409,20 @@
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 14.4,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOG",
+    "nom": "Alphabet Inc. Class C",
+    "prix": 272.44,
+    "devise": "USD",
+    "jour_pct": 0.54,
+    "mois_pct": -14.83,
+    "volume": 14018416,
+    "volume_relatif": 0.55,
+    "capitalisation": 3346907996277,
+    "per": 14.2,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "NEXANS Cours Action NEX, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82djB1RmVXWUNtdjFXVlVMVzFrdWlPUldOUnY5bnc1UWNHZ3VYTmNaM3lLdkIxTFFzNG4tWjZ6Q0p3dzZxZUFiUDdidHh1Rmpkc0E?oc=5",
+   "date": "Sat, 28 Nov 2026 09:42:50 GMT",
+   "vu_le": "2026-11-28T16:40:40.006421+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Les Bourses européennes terminent dans le vert - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbFFIbGNvd1h1YndSZ0JmdlVtQ0NGbElPRHJYYzktM1BnUVFTeVBXbWM3cGNsSzM4MjNkbEtKc3FjRUpGNDZiMkZ4bDBSZXJKdjQxUTdyZDVkcXBVUXpveU1ZT294djlKOFFJUV9wVExYZUJfcW9ic2JURFo1bTQ0ZGdRekVTTmpET2xDSGdWWHRvYVBkYXBPd0VaUC1NLTZRU3Y5d1Z2ZUQyanQzYjV2LWNWREcwVHFVLWdLOTdtdjBVZnVIajZPdVhNakF6MVkyVUZ6dV9lUjhFeHU2UVNJQ05QUUQ4V3M?oc=5",
+   "date": "Fri, 27 Nov 2026 16:46:00 GMT",
+   "vu_le": "2026-11-28T16:40:40.006421+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Gareth Bale Sevilla Takeover: €150 Million Bid Falls Short As Former Real Madrid Star Seeks Investors | Report - The Sunday Guardian",
+   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMHYwdEVVMG5SSGVIMmxlNjJBcXJCSmhLUnYyRVh1ekpNSUFJdzVkMFZGbWJkMm1SclZUVFViWk9mZFFjM2Vqb0tpOU9PMG1Ob0lnd2NNMmtZWlJmTFd0TlRwQ3FVRGVlUU1kY3J1V2RHWW8xaEQ4Z3NuSVdLN09qMzNya3JxRXNHT1JBUHU1Um03dThPclMyMlZEbHladnFVM3RuRy1WS2J1T0piY3YxOC1aSXcyS2pzZmpyVFhROHBrcFpycG5DbTN4RkM5NmRWZHZzcUxIMjVCM2dzUFNLTVF5a9IB4wFBVV95cUxNMHYwdEVVMG5SSGVIMmxlNjJBcXJCSmhLUnYyRVh1ekpNSUFJdzVkMFZGbWJkMm1SclZUVFViWk9mZFFjM2Vqb0tpOU9PMG1Ob0lnd2NNMmtZWlJmTFd0TlRwQ3FVRGVlUU1kY3J1V2RHWW8xaEQ4Z3NuSVdLN09qMzNya3JxRXNHT1JBUHU1Um03dThPclMyMlZEbHladnFVM3RuRy1WS2J1T0piY3YxOC1aSXcyS2pzZmpyVFhROHBrcFpycG5DbTN4RkM5NmRWZHZzcUxIMjVCM2dzUFNLTVF5aw?oc=5",
+   "date": "Sat, 28 Nov 2026 11:30:17 GMT",
+   "vu_le": "2026-11-28T16:40:40.006421+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Organigram Shareholders to Vote on Aurora Deal - Wisevoter",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWEdpdkszRUk2SXFwT2J2Vk05ZjZFd2FxWkI4TWdRYW56UDFfYTFEeFl1clY2OWFSRlA3a3hKZ0JRbjc4VDFHWVJJRFROaTRnSXNBZGpBMjYtM0hzVmIza2FmZEdlZlFhQnVkY3lnQlkzZEdETVdCblZhREZkUVI4LUtRNGZQODZFY2VCWmwxUTJUb0t1N09kaHl6NVNsb1daZE1v?oc=5",
+   "date": "Fri, 27 Nov 2026 23:58:11 GMT",
+   "vu_le": "2026-11-28T16:40:40.006421+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Firefly Aerospace vs. Rocket Lab: Which Space Infrastructure Stock Is a Better Buy for 2027? - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaTBVeFFIRDV4OXRMd09qSXBjSkJKVC1SaG9PSGYwaDlBN3Y0cDhZNkcyNGF2dWsxNHliS0xVb3FYdWRhbTFxdy1wV0FyQi1wQlZ5Qll2emF4OEljRHctb1lXcGZvZklza1N2eThpS3R4eXJWWTBEejZwc1RrRW5mZWhTcVhkT2FBUUZaLVJlZjV0T3U0em1ob2cwdVpwS2lnYngwQ00xWnlEZHhxT3hjYXQwUjZ5amR0ck9xWEJqYjFqQ3Q2ZnYwZTNWLVUyMU5hTl9vQlhmNjVhTklrTjdCaTdHOC1iOXpkN2stZ0JlYS1Jd3BKaHluV2wyZjRHX1Npd1M0?oc=5",
+   "date": "Sat, 28 Nov 2026 16:10:59 GMT",
+   "vu_le": "2026-11-28T16:40:40.006421+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "GE vs. NOC: Which Aerospace & Defense Stock Should You Invest in Now? - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLTlVLXppV1p3am9KYm4waXpYa1pnRHV1U1djZzBPWU1sN3M2aEkwY2p2dkZvRDVRbzdkcm8wS1hqREEtQzMzcEY0UGZyZy05NGNDMzFqTTZxYUltLTJrdHFlOFBZbmk1aXNReXJINFo0eXIwSjlYWHhRdHhNZVZkbTZaMGZabVBuZVk5MnVPODBTcWl1SURMdHR6NXdpSHo2N3NVS0hKNF8yeUd3VWJLNmgzZHl6SUh4bFB2SnQyeVFhV2tmbDVJNUxYUWxHZ1ZXdUFxXzloXzQ2c2hqcDB0WVZR?oc=5",
+   "date": "Fri, 27 Nov 2026 17:06:08 GMT",
+   "vu_le": "2026-11-28T16:40:40.006421+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "HawkEye 360, Inc. (HAWK) stock price, news, quote and history - Yahoo Finance Australia",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIOGpPbnBETU1jSTNDX0xSOWs0VkU2SUZzTWJKSk0wQzRpVmptRDBBdThzTkhFN0JJS3phNXdNdEZrUm4tNWZOTnZ1MWoxeEVyX1E?oc=5",
+   "date": "Sat, 28 Nov 2026 06:49:59 GMT",
+   "vu_le": "2026-11-28T16:40:40.006421+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "3 AI Penny Stocks To Watch With Up To 92% Earnings Growth - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSjBzbndRdlBjWUtlVVh4TjhWNi1FVWIwVElYVGY4aGFxcnY4M0Z5Nl9aMzJtd0g5b2F4V1gtY0JMWkRRRVRPV1praTFiMU9OdDViSlNkQ0wyV3hQQ0t0M1ZFWUIwOG1ad1NSOGV3M2h6aDU4UGZlREItaGpkbTBXTDBUcTg3UUxNMDZlU0dWa0tRZw?oc=5",
+   "date": "Sat, 28 Nov 2026 11:10:24 GMT",
+   "vu_le": "2026-11-28T16:40:40.006421+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "TF1 Cours Action TFI, Cotation Bourse Euronext Paris - Boursorama",
@@ -6398,62 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tNVF0MmJpSmROaGUzdDJ5Ym1yeVdNSHo4Nm91TzdZNDdWQjhIb1FqcG9yY0dxSDNDejh4VUlydFNEa1FWSm5OclY2MlIwQmplTUE?oc=5",
    "date": "Sat, 28 Nov 2026 00:55:08 GMT",
    "vu_le": "2026-11-28T03:00:38.564323+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Nears End of Seven-Week Slide as HYPE, SOL and FET Lead Altcoin Rebound - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VNkVkYzJDczhjU29LNXM3ajRNVGZnMkFPUWY2dmxNSHpFQWRuUTlDVV9oT2paS3FuMFdvMFpTVjNNRE5BdTZVbGF2T0tEVTJUTmxESmg2RXFWam1aUHBvaWtGalpEYXBEZDNLX0xScjNjcW5MZlE?oc=5",
-   "date": "Sat, 28 Nov 2026 02:05:00 GMT",
-   "vu_le": "2026-11-28T03:00:38.564323+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOZ1htcVJwM2tQQ2NlakZPN2l0TXRKOEQ0MFFGT3JPQ3BXMFUzNlNSLXJ4UFhxUzk1U0R6ekZyZFdzcklrRy1pRk9RbVVUQzFvTzNKZEs3dFJEck5oelJ6SVBOYVJVXzB0OTZDWTAxNmlUVm96ajVEb3JSX0Vvb3RsVmhSdXN0UldTbHpoVVlSMHlWOEtNdzBaRDJEYnNWZnYzaE5SaEhXaHNhRW41NlRnTG1CU3VtSElYY0RCMVJqaXBPOE5LaFFvVXh4djEyal9qcDJWOWg5anBNSHVadUNMaFhYVW5DYUNBLTk3LUVzSE5OQlo5RWp1a3lZZUZmYWFRNjc4SnF2RzFXU0FIanFCSDFkLTdfZw?oc=5",
-   "date": "Sat, 28 Nov 2026 02:35:07 GMT",
-   "vu_le": "2026-11-28T02:50:38.393856+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Stock Tops IPO Price After Volatile Week - Briefs Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX1RyMlhERjZwTklTM182djJPSFpyYm53YUxYZEpoVkNSeHBvSzdTdUJmekhtUlZjLVBYdHJMUll4azlqZnhNQllvSUEwVlp6NndIZE11bjF4TmFzSDBWcDF6bk42OHFVRkpJaDhoSEZwbFFlcVpXYUw5ekxwVzl2YS1wVmFLNm5aS1E2QVp6X2ZDQQ?oc=5",
-   "date": "Sat, 28 Nov 2026 02:29:16 GMT",
-   "vu_le": "2026-11-28T02:50:38.393856+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Managing volatility in emerging markets - UBS",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3VDQXVQZFNaNUN4Q3J2Yzc4UnFDZmU2RDkxeWVOaFlmdjBVOGx3S3JSTl9qOG9KbklOWUZsc3JpSW5YNFo5dkdWRHNSWEtROTJHNktpTzNxTzhoV2dCb0t0dDRsYU5ycnFxMmxhQVR4N2Zzc1A3SEloeHJUUkRSalBsWDFqT1EzTVpKdUN0ZHVEeG84SFAxYVhSTVl3U0dHU1laOHI2RFVaQmoxeG1OQm5PSkVKcWFIZFE?oc=5",
-   "date": "Fri, 27 Nov 2026 05:18:38 GMT",
-   "vu_le": "2026-11-28T02:50:38.393856+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Bank Indonesia Focuses on Stability as Rupiah Falls - Briefs Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUVFnYWNfbHN0ZEVkcm50ZWI2UzVqX09Ya1lwS2tnZ0tDUTgwb0ZMbl9SelREaFh2VWVLUXc4a01BYmxlVm1ubklzMlVYb20wTEFyYm91QTZYcTZ4RDBueEZURkY5T0ptRjlnTGFONTZhWUJjel9XcUVXalAweU1fLTZxR2Ezd0VQRzV1dF9haDhzZw?oc=5",
-   "date": "Sat, 28 Nov 2026 02:29:09 GMT",
-   "vu_le": "2026-11-28T02:50:38.393856+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Prabowo enraged seeing Indonesians fall victim to stock manipulation - IDNFinancials",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXZqQXZ1cVUyaGM1emJwVUo5SVFBSHZ3RzVXUm5xQm5jUk1qN1JYaWJXbGlPQS14R0VNdkJ3WnpDOTY5bEdPQTZLc1NzMjRmclpUWENZeXYzRWE3ZXd3NEtlOEJBNmFzeGxITTQwQm1iQlM3Vjg3UzJIU3M3cEhWWmdycWFHbVFkQW9HcFp1a2tGNzk3QWVpdTNLVGh1dUluNHhTa3JqQ2ZMYUlQUkE?oc=5",
-   "date": "Fri, 27 Nov 2026 14:20:00 GMT",
-   "vu_le": "2026-11-28T02:50:38.393856+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Micron Share Price Closes at $646.95 After 7.60% Rebound - JournalArta",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRFZBUXVfLXVDd25NaHNfX0p1emNXcm5QQlBaelVESHRNbnZKQUxFYlBsSUxfNGhmNERqMG9RN0hGWTY0WHdMWkhhd2llN2F3Z3FMMjRlUVROUlpRRW1QZDhHZTdYRXVZYWFPSFgwSnZDd1BhMmdxUUZ3REpBdHUzQ0U1bXZxMEpsWmdSOGRrZVVRNnNsdTloNGRJMW4wemtXS0d2SQ?oc=5",
-   "date": "Fri, 27 Nov 2026 21:41:33 GMT",
-   "vu_le": "2026-11-28T02:50:38.393856+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Binance, IWF Team to Flag Crypto Child Abuse Payments - Briefs Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUU5OSGVxRk9oQmZLa0tucUhCa2dLQnJWWW1XcllVVE02YjVQT0N1elZfal93M2pFRkt2V3VDWkh3cHNCZEc4YU1ORFQ4ZDZjM2VfaFhDWGtvSTBtb0pnWEl5RC1KeV95OG96SGd1WFdheDRJdkZ5WU5OTTVoVUc0eW1aeHdCbFMzTlh4MHBQRmhKZw?oc=5",
-   "date": "Sat, 28 Nov 2026 02:29:11 GMT",
-   "vu_le": "2026-11-28T02:50:38.393856+00:00"
   }
  ],
  "erreurs": []

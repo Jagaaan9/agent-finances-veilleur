@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54356.81 EUR, jour -0.69 %, mois -25.39 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54345.17 EUR, jour -0.71 %, mois -25.41 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -226,8 +226,8 @@ POSITIONS ET INDICES :
 - IX Knowledge Incorporated (TSE:9753, secteur Commercial Services) jour 0.9 %, mois -5.09 %, prix 1342 JPY, capi 12727808559, PER 7.4, volume x8.8 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 10535061261, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 1001984170, PER 28.6, volume x17.7 la normale
+- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 10535061261, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (BSE:GOYALALUM, secteur Distribution Services) jour 20 %, mois 26.49 %, prix 7.02 INR, capi 1001984170, PER 29.1, volume x52.33 la normale
 - Waaree Renewable Technologies Ltd (NSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 23.4 %, prix 825.7 INR, capi 86154609956, PER 18.5, volume x233.67 la normale
 - Waaree Renewable Technologies Ltd (BSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 22.52 %, prix 825.4 INR, capi 86154609956, PER 18.5, volume x128.17 la normale
@@ -286,10 +286,10 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -0.08 %, mois 21.84 %, prix 8.736 EUR, capi 8810130130.895283, PER 10.9, volume x0.29 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
+- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,14 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Bourse de Paris et Europe] NEXANS Cours Action NEX, Cotation Bourse Euronext Paris - Boursorama
+- [Bourse de Paris et Europe] Les Bourses européennes terminent dans le vert - Bourse Direct
+- [Rachats et fusions] Gareth Bale Sevilla Takeover: €150 Million Bid Falls Short As Former Real Madrid Star Seeks Investors | Report - The Sunday Guardian
+- [Rachats et fusions] Organigram Shareholders to Vote on Aurora Deal - Wisevoter
+- [Défense, énergie, matières premières] Firefly Aerospace vs. Rocket Lab: Which Space Infrastructure Stock Is a Better Buy for 2027? - The Globe and Mail
+- [Défense, énergie, matières premières] GE vs. NOC: Which Aerospace & Defense Stock Should You Invest in Now? - The Globe and Mail
+- [Défense, énergie, matières premières] HawkEye 360, Inc. (HAWK) stock price, news, quote and history - Yahoo Finance Australia
+- [Défense, énergie, matières premières] 3 AI Penny Stocks To Watch With Up To 92% Earnings Growth - Yahoo Finance
 - [Bourse de Paris et Europe] TF1 Cours Action TFI, Cotation Bourse Euronext Paris - Boursorama
 - [Banques centrales et taux] Wall Street : le S&P 500 peut-il rebondir de 45 % après sa correction ? - Le Revenu
 - [Intelligence artificielle] Indonesia answers US AI chip export rules with three-part plan - PrimeXBT
@@ -452,11 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Bitcoin (BTC) sentiment is plumbing a new low for longtime digital asset investor - CoinDesk
 - [Anthropic (FR)] Démystifier l’économie | Quel est l’impact de l’arrivée d’Anthropic sur les marchés ? - La Presse
 - [Rachats et fusions] Haleon in talks to acquire controlling stake in HealthKart - Exchange4Media
-- [Crypto] Bitcoin (BTC) sentiment is plumbing a new low for longtime digital asset investor - CoinDesk
-- [Chine et Asie] DeepSeek is China’s latest developer to worry about losing control of AI - South China Morning Post
-- [Petites valeurs en croissance] Is Terex (TEX) Below Fair Value On Its Earnings Beat And Backlog Growth? - Yahoo Finance
-- [Crypto] Bitcoin Price Could Hit $400K by 2030, Coinbase CEO Brian Armstrong Says - Cryptonews.net
-- [Chine et Asie] AMD Shares Just Got Crushed on a Short Report. Why the Drop Is a Golden Buying Opportunity. - Yahoo Finance
-- [Chine et Asie] China Sports Weekly (11.22-11.28) - www.indiagazette.com
-- [Défense, énergie, matières premières] J Sainsbury PLC Share Price - SBRY, RNS News, Articles, Quotes, & Charts (LON:SBRY) - Proactive financial news
-- [Crypto] Bitcoin Price Crashes Below $60K Again: Why Is BTC Struggling to Sustain Its Recovery? - Coinpedia
