@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T15:10:36.137413+00:00",
+ "mis_a_jour": "2026-11-28T15:20:35.458905+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -178,7 +178,7 @@
    "devise": "EUR",
    "jour_pct": -0.81,
    "mois_pct": -25.48,
-   "volume": 65.94114411,
+   "volume": 66.66761628,
    "volume_relatif": 0.31,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 1001984170,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 1001984170,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3371,16 +3371,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOG",
-    "nom": "Alphabet Inc. Class C",
-    "prix": 272.44,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
     "devise": "USD",
-    "jour_pct": 0.54,
-    "mois_pct": -14.83,
-    "volume": 14018416,
-    "volume_relatif": 0.55,
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
-    "per": 14.2,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3413,16 +3413,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
+    "symbole": "NASDAQ:GOOG",
+    "nom": "Alphabet Inc. Class C",
+    "prix": 272.44,
     "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
+    "jour_pct": 0.54,
+    "mois_pct": -14.83,
+    "volume": 14018416,
+    "volume_relatif": 0.55,
     "capitalisation": 3346907996277,
-    "per": 2.1,
+    "per": 14.2,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Best Large Cap Stocks To Keep An Eye On - November 27th - MarketBeat",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbnZhb0FPQzZsMXZtWk5ZM3V5MG9jNk14VHcta080R2F3OFBjeENaSE9rZ2VZRDFvbEJ3bG5CRlg2TlV5ejFXTFdXYmphX2NnUDNITWl3cUVVUXR4WHZJbXlIMWlkVVduWFVBZHlidlFVLUc4cWE3bGRFWS1rR3VRclM5b19zTnVIOUxGU1BXMTBYb2FhaWdkcXFYLWttRm5uUWVNaS1nZG8xRUtNYndSc3Rn?oc=5",
+   "date": "Fri, 27 Nov 2026 20:27:24 GMT",
+   "vu_le": "2026-11-28T15:20:35.458905+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "CrowdStrike (CRWD) Stock Jumps to $217.20 on Zscaler Deal - JournalArta",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaU5KMmtiby1adG9wUzZ4NXBybENiWC1XbTRfNVl2X1pVUDhtTVRGNzdEdFRUZmRzTXpUZUo1Rk9XcXY4bmtCVkJhN0o5UjFyWFZqbjlWdFJDWC16WWJ1TFd1MmhJU1Rab1paa3dVTUszUFN3WDFCM2JzYkJoZFZTRUEydGdCVDd6SEREeXNlTlU1YnlHV1VUeGx2ZWlsQzhtMmw3WUZfbXIwWGJhOHFqTUdR?oc=5",
+   "date": "Fri, 27 Nov 2026 18:29:59 GMT",
+   "vu_le": "2026-11-28T15:20:35.458905+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "US Stock Market Weekly: Nasdaq Jumps 6.7% - HDFC Sky",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYy1jaXN6ZDlKa043Q3pnbXJQaVlENG54VUY5RklRWi1EUmFuUF80X3pSWXo4d09hVng0UFZjWnlfa0dsMVdObFhnaHZXVksxd2pMdmxLSmkwc19INms1T2NSSXNWTlNJNTQ1UDJZZHJLSjVDT0NGbTRFVmVYcVdKMUtxWlFnXy1PeUJqck5Ed2ltaXktTS0xeFNZbnd0OEo5UGpEY2trTQ?oc=5",
+   "date": "Sat, 28 Nov 2026 04:58:12 GMT",
+   "vu_le": "2026-11-28T15:20:35.458905+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "3 US Defense Dividend Stocks With Strong Balance Sheets For Safer Income - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkJMZEo0RFVNLTAwOWp2UGZpbHBSeGlPU21UU0dvazBCcS1OZU9WcXY0M045VDlCMVFkN2hPQ004NXBuLWtfSzkzTmFZT0hZT0h6T0taQ3lPOUtXcVR0SGJCVmhrNlhLSkNfM2J3VklKb09lY1NRS09BVXV5NHRaTzB6ajl5NmZkOWpLWlJ2cDE3NzlZQVFpZE9kaWgtdXdvdVBmNjVndmJJLTRBWDNEQk5qZlRrOHcza0k2bVpNZExKVHhDQ0xxQWRYMkFIS19C0gHWAUFVX3lxTE13Yno5T2otU29sMkRQb3NIaGcyRDg5a0dkdFIwUnFTeE1jQ091eUYyTjZxLTBfc1NqQjllVzhwNjduanNQYWdaY1MwYVJBT2FBOUNRS1hGSkdURDB5a3lZS1owMndwR3hIcE1nSG1YMEw5aU03ektBN3dSQ3I0cXY1THRob2llc2FmRWtlSTd1ZXd5aUUxa09jbzVGb1U5Y18wdjNCbDFkZDZiMG1fNXBKbVJKRURJU0w4eVBQYTQwVER4eVN4YnQ4d0NQaXcydUIydDUxQXc?oc=5",
+   "date": "Sat, 28 Nov 2026 15:10:23 GMT",
+   "vu_le": "2026-11-28T15:20:35.458905+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "The Tech Market Correction Is Over, According to Morgan Stanley. Here Are 2 Crypto Stocks to Watch in 2027. - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQbXY0MzI2ZmlhNHJSMUt3TFhuX0hrbHY2WTUtTVRWbzFGWU4wUEM3Z3d4aEtwc19oaHluNVpwTFNQMFFDN2ZlSV8xWjRHZXZzdkJnbGt3N0V2RV9CMDE4cjNzX2RROC1LYXR3SmU2bXJQeU51Y0lYZ3FxMW55alkwR25ua09Pa1RRMGNST0ZscEJiRlYtVmV2dzVwYzVhWHNCaFA0eGZNMXZTUzJhZVphSTRGcXRRdWVWZzB3WFc0WGJ4aWIzLW9MeFRpcC1uRC1HWjliSFpVakl2S21mdFY1c2VZLU91dlRsekF1SWlGY1BJRExrYWZlTTJjMEluSlItLTRvaDV2VHp2d1R5MkJ5R21RbHkxdw?oc=5",
+   "date": "Sat, 28 Nov 2026 15:06:00 GMT",
+   "vu_le": "2026-11-28T15:20:35.458905+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Ethereum Classic Drop Explained by Broad Crypto Pullback - CoinMarketCap",
+   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nTHdmcjVFd3FIRlZBRFpXSDJlM1F5c2diZUV1bFp4Skg3RVFGMEo4N1Q1b0ZiWnV4UUFuYzhjY1ZFNGhjWktmWk9Nb3RLRU5xd2ZSX2xNRTZ2c0tRM3o0QWJJOGhocXBNcUJmWWliVUU?oc=5",
+   "date": "Sat, 28 Nov 2026 14:06:30 GMT",
+   "vu_le": "2026-11-28T15:20:35.458905+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "APT Declines 3.95% Amid Broad Crypto Market Downturn - CoinMarketCap",
+   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TNkt5S3hLa2ZXeUhhY0lweG9kdGFKRElKRWNoN25RdkxxWEtYY0FESUNyeEpLcUxWa3lNM0IwbGFZc2hVLXJkdTEyeVdiLUNBS084aFc0RjVfQkFFS3ZYX3dGUGxfbmpYS0JEUDBSVWI?oc=5",
+   "date": "Sat, 28 Nov 2026 14:07:30 GMT",
+   "vu_le": "2026-11-28T15:20:35.458905+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "China Sports Weekly (11.22-11.28) - Xinhua",
@@ -6405,55 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQcXM0bGxmemZEM1dUQV9FUWphTGpEZkstWlBEb3JkaDNlcENRNXM3QmZMM1FNNVhVMERKS0ZuT2pzZkNmdTlwNDlxTVBLNzlmZWF3elJwZHN3SEVxcHA1WEl0ME44bWRRYjBGcWM0X0VRRTVMSjF3cmRlU3FzeW91ZVRjLWphbWdsS3hJWjlISFhSLUt1Y2ZTZVVicVpyaXNZRTA4X1VRWTd2Yjk1WjVfWDRXQ0ZvUENLN2N2N3loUUpKX284QkJDVXNfeFNsNjBjTkZqTFU2dHJRWGVjVFZ1b1h3dVBkajNCTGdoV2liek13ck5ibkdBSkRLWkltMlVORkVXZWNnRkhJNkxWbFZmdzRPb3VmMGNTenozT0F5NHF4UWE4NmRGeXlFLTBZbG9lUkdqUl9haWNWTmVjQmc?oc=5",
    "date": "Fri, 27 Nov 2026 22:33:36 GMT",
    "vu_le": "2026-11-27T23:30:38.482445+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Franklin Templeton Adds Hyperliquid’s HYPE to Crypto Index ETF EZPZ Starting December 1: 12 outlets compared - NewsCord",
-   "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONUtmZEF6VkZkSVFSXzR2aTVOWEJ2Tkg5MXJiUG81MHFjODNXY2FLcGxhdjJvQW5qMWI2c3lGS1NvbkRXQ21nRXdvRU9ZX0RSZ0Q0SzNlU1R1bWlXTks5NjQwVnZHNDlOMlZNUnd3a2o0OVlHdHJuclhrcEVFQTkzc1EwMVIyeV9ka25tSVh6TWNsaTcwYjdoYkd2bzB4a0ZtYU02NzcxM2ZxMmZIblByWkFBUlc5VllESzlSSmRCdFdwbEdwdnZmTGlZVVRCdTUzeDhiQ3F4SVVUeFByOEpTd3pXaUJZOUVqNnc?oc=5",
-   "date": "Fri, 27 Nov 2026 23:24:32 GMT",
-   "vu_le": "2026-11-27T23:30:38.482445+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "3 Cryptos Under $1 to Buy and Hold for the Next 10 Years - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWTRTa2huanJndVpkN29RcVZsR3hWQ3hXR29hZnZRQ3pWMkRfdmI2RDA2NERJSEhsNXNUM2JNLWV6UFg5dktVR1lyeDdlbmNvRG14dmx1a0NGWENibVA3cl9CRUhJc1RmRUtsbmV6d3VNcjJXSzVQZGJ5WUwxX2I3dGxvMEZaR2JPU0ttaTZIQUpBUjFWbVVlXzA3VDZCTUJlN3gzemNkRXV3aE9keGg5SW1raC0?oc=5",
-   "date": "Fri, 27 Nov 2026 23:05:00 GMT",
-   "vu_le": "2026-11-27T23:20:36.476113+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "[Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제",
-   "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0V09wMVV4cWRRZkQ0YmhEOFcxQTF1RTczM0FSWHczSWkxeDRwLXBqVklVRDFRNUNURzNYZ2lXNGdpR3dZQnY1THhULVBCZUxJUnJyQWFERHlIZ0pzMVJNbXNkeVFsUG5CbmxjbkJ0clc1UWpIUjhTM19hV1g?oc=5",
-   "date": "Fri, 27 Nov 2026 22:50:00 GMT",
-   "vu_le": "2026-11-27T23:10:35.446141+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 27, 2026 at 7pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd3kyb05VeVVzejNKUGVPVlZwb1J5TVJCZjVPOE5Rb0JvNEFoOGJVLWhjbjhJNTJZOHVFQ0RadnlyeW1udmVwTUhSN3ljTmgxVl9oSmRaeGM2Yy01LXp6N2RmeG9xcDRXaXh5MVdfN3ZMZVBnUHRNS1NlWTBYM1IwaFFHbjlwV2lKUVNvWlVaVkpjN0pGNFpJQl9lb293Umgxd3I0TUg2bUplUVM3eVE?oc=5",
-   "date": "Fri, 27 Nov 2026 23:03:04 GMT",
-   "vu_le": "2026-11-27T23:10:35.446141+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "SOL price on Nov 27, 2026 at 7pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMTR2bDhtdkx4UEN2d21fMHRiWHNTbXZReUJZTm0yVDJwMXd0Rjc3bkhJeFF1ZkxibWFsNE91VGVKMkROd2JLeFd6NmxvSVhiNWZZMzJvcVpzV2Nnd3U2dUVmdzJvc1NMZDF1QmNBak10akdZMDBoanRuejlUOFJLR3dUN3dlc1BXeTJfR25YQ2d1YXlackVoU3ltbk81cjZ6MXJlT0RHdUhMNUJoYUE?oc=5",
-   "date": "Fri, 27 Nov 2026 23:03:05 GMT",
-   "vu_le": "2026-11-27T23:10:35.446141+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "[Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제",
-   "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93XzEtbjQtSTRCUjhNRFE1Ym5GZnRXR09nOXFfVVNpcEp1ZXEzb1B0Y1ZhQWVSREZfdUJjOXg4QXhSVHpLanp3VERHTkVsYm1ZZnlaUlo5bGwwdGN3Y3FKOHAyWlQ?oc=5",
-   "date": "Fri, 27 Nov 2026 22:50:00 GMT",
-   "vu_le": "2026-11-27T23:00:35.269842+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "enCore Energy Gets Nasdaq Bid-Price Warning, Amends Verdera Deal - kalkine.com",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMTNnclpXSFhqLVRqbG83SGdsUGRzZnpiTnloaGpnWDFMeUxfanJhZUVzbnRENWpPWDNHVEtjbjdfejFwSmdvV3lrempwSVpITTJHNVpQYWRqV1E1LW1BaDhoanJJZVhwdDJnMVBHTThwQWxYb0dwZ1lIUzNzajJSUXlPQTdFMFJITlpDa0ZYUmNJdnFHTU1mVm1kODdldUt4N1h2Rg?oc=5",
-   "date": "Fri, 27 Nov 2026 21:27:35 GMT",
-   "vu_le": "2026-11-27T23:00:35.269842+00:00"
   }
  ],
  "erreurs": []

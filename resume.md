@@ -226,8 +226,8 @@ POSITIONS ET INDICES :
 - IX Knowledge Incorporated (TSE:9753, secteur Commercial Services) jour 0.9 %, mois -5.09 %, prix 1342 JPY, capi 12727808559, PER 7.4, volume x8.8 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 1001984170, PER 28.6, volume x17.7 la normale
 - Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 10535061261, PER 9.4, volume x39.13 la normale
+- Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 1001984170, PER 28.6, volume x17.7 la normale
 - Goyal Aluminiums Limited (BSE:GOYALALUM, secteur Distribution Services) jour 20 %, mois 26.49 %, prix 7.02 INR, capi 1001984170, PER 29.1, volume x52.33 la normale
 - Waaree Renewable Technologies Ltd (NSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 23.4 %, prix 825.7 INR, capi 86154609956, PER 18.5, volume x233.67 la normale
 - Waaree Renewable Technologies Ltd (BSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 22.52 %, prix 825.4 INR, capi 86154609956, PER 18.5, volume x128.17 la normale
@@ -286,10 +286,10 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -0.08 %, mois 21.84 %, prix 8.736 EUR, capi 8810130130.895283, PER 10.9, volume x0.29 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
+- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,13 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] Best Large Cap Stocks To Keep An Eye On - November 27th - MarketBeat
+- [Rachats et fusions] CrowdStrike (CRWD) Stock Jumps to $217.20 on Zscaler Deal - JournalArta
+- [Petites valeurs en croissance] US Stock Market Weekly: Nasdaq Jumps 6.7% - HDFC Sky
+- [Défense, énergie, matières premières] 3 US Defense Dividend Stocks With Strong Balance Sheets For Safer Income - Simply Wall St
+- [Crypto] The Tech Market Correction Is Over, According to Morgan Stanley. Here Are 2 Crypto Stocks to Watch in 2027. - The Globe and Mail
+- [Crypto] Ethereum Classic Drop Explained by Broad Crypto Pullback - CoinMarketCap
+- [Crypto] APT Declines 3.95% Amid Broad Crypto Market Downturn - CoinMarketCap
 - [Chine et Asie] China Sports Weekly (11.22-11.28) - Xinhua
 - [Chine et Asie] US Congress releases list of Chinese firms seeking Nvidia chips - The Star
 - [Chine et Asie] China semiconductor stocks post record one-day rise as State Council signals market support - 디지털투데이
@@ -453,10 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Défense, énergie, matières premières] Can TTM Technologies $2B Defense Backlog Drive Sustainable Growth Ahead? - Yahoo Finance Singapore
 - [Chine et Asie] 'Big Short' Investor Michael Burry Thinks This Chinese Stock Is Worth About 60% More Than Its Price. Should You Buy? - The Globe and Mail
 - [Pays émergents] Bangladesh trails regional peers in market cap-to-GDP ratio - New Age BD
-- [Crypto] XRP price at Nov 28, 2026 at 7am EST Crypto Prediction Market - Robinhood
-- [Banques centrales et taux] US Dollar: Fed seen hiking twice as labor market holds – Commerzbank - tmgm.com
-- [Banques centrales et taux] L'inflation recule à 2,9 %, mais la Fed et la BCE devraient quand même monter leurs taux : ce que cela change pour votre or - Le Courrier des Stratèges
-- [Chine et Asie] What is China's 'national team' and can it stop the stock market slide? - The Standard (HK)
-- [Petites valeurs en croissance] Alaska Air Group (ALK) Stock Still Looks Undervalued As Shares Stay Down 27% - Yahoo Finance
-- [Pays émergents] Indonesia’s capital market reform mustn’t stop at MSCI demands - East Asia Forum
-- [Défense, énergie, matières premières] Ondas Inc. (ONDS) Stock Price, News, Quote & History - Yahoo! Finance Canada
