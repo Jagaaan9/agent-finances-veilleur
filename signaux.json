@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T15:50:35.539998+00:00",
+ "mis_a_jour": "2026-11-28T16:00:34.683959+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54417.58,
+   "prix": 54384.96,
    "devise": "EUR",
-   "jour_pct": -0.58,
-   "mois_pct": -25.31,
-   "volume": 69.61579058,
-   "volume_relatif": 0.32,
+   "jour_pct": -0.64,
+   "mois_pct": -25.35,
+   "volume": 70.80828695,
+   "volume_relatif": 0.33,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 10535061261,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 10535061261,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 274.96,
@@ -3395,6 +3381,20 @@
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 14.4,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3413,14 +3413,14 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
+    "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
+    "prix": 40.82,
     "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3346907996277,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PM",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK-",
-    "prix": 19.1,
+    "symbole": "NYSE:BAC/PP",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP-",
+    "prix": 14.51,
     "devise": "USD",
-    "jour_pct": 0.26,
-    "mois_pct": -1.95,
-    "volume": 178204,
-    "volume_relatif": 0.77,
+    "jour_pct": -0.34,
+    "mois_pct": -1.23,
+    "volume": 160626,
+    "volume_relatif": 0.89,
     "capitalisation": 338593252758,
-    "per": 4.6,
+    "per": 3.5,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,76 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic IPO, shareholder rights and board control - Longbridge",
+   "lien": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWk5zajRETndsMWVya3lBU3V6SXNwTFAyWHgyQm0xcHhtaGVTMS1IdFBnNmpkRmczSDlTeEIzY3NyUkV4Mkl5WUFiQTJpU3ZCN3hJV0N4QnFxTkdzV0NUOVJmUzFKampRdmNiblUwb0pBa0JxTjhNbm96bEJodC1rdmh3OU4zX0wwSDREZWNGLXdJSVhqdGNBTzBZWDJ4eUpSRTNQbGQzR1BtdFg4ZllQbkhjRmpxOEk3dVlxSmpNR0xCVUZCUFNIa196UXU3d1g1OE1DUWZ2cnFhOHN6cm1qVVFYWmpvT0N4WTd3dFJ5d1cxRlZS?oc=5",
+   "date": "Sat, 28 Nov 2026 09:54:36 GMT",
+   "vu_le": "2026-11-28T16:00:34.683959+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Wall St Week Ahead: Volatile stock market confronts jobs data, rate view as next tests - The Economic Times",
+   "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZzFmV0UwQ2tpRVFiQ2d1bkZTOGJNU09OUEZBa19JQkE0bUtEY2NCWklURHBkdkFCYU5YbnhISkpIeHJpSDNoRnhkR2ZJYTBmODJNdmI5NEhVRmZBYVFzUDBBWGYxMk5DeWlCZ1JnMWJ5bkhGdXVHRXpKYXFvQmdxVi1paEhxbkk0NGR4NGpaN1J0TThxbGk1enNJU0FvLU9nTVBKTllWZGhLRUl1bXk2clYwQzc2dVlmLXVFYVdNcUI1dUdabTFidmVOdzM3QThXd3lqY2JPLTVYWk1lRlpnLTByd1ZNS2sxMFQweWxESGdyR3fSAfgBQVVfeXFMTVI1VGRFM3NGLVhZQk9NNU0tbTNWNllSVUxUeFF3WmlOdFZUX1VtYTRsMWxwX1BUb3dLd09INVdyWVZaSmlmU3lHN3J6cjh2WHRzT2hqSVh5TjE2UC1WUnlnLUdka1Bid2ktdUZvX0g2QkhHdGFnRTIyTTlZOWpGaC1yaWVlUUNkTl8xMTFvTThPNkxleVRobjZjSk83TFVNQXNNSXA1Y0hUNm51eWtseHphQlNnREY0QW5McUE0X3dqYjV6YmFFam9pUG1QNFpybHpPMEc4dlJzd0FwRDJZS2hDR29ZekZ2QW16SV9TTk95VlFHQXkycVg?oc=5",
+   "date": "Sat, 28 Nov 2026 03:47:47 GMT",
+   "vu_le": "2026-11-28T16:00:34.683959+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China stocks surge as Beijing vows stronger market support - Business Recorder",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fVG1qbnRCSHhsa3RNMm5maVd1QjJRcVNPMll3aXR0OWZlX1F5QmhYdC1pNHhNRmh3SHJPdzRpcUd2SmhsckZBeWlTZU9ZRE5E0gFWQVVfeXFMT1hZQ3lYQWtZdE8zU0JjQVpIVFdlQkQzVkZTX3oxNUo2TWNIZlVOTk9MMVBWLVc3UzRZdkx5WnA1bW5sWFh2TzVhSEVwV1VEb0tfbFU2ZEE?oc=5",
+   "date": "Fri, 27 Nov 2026 21:09:37 GMT",
+   "vu_le": "2026-11-28T16:00:34.683959+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "European shares log strong weekly gains; markets await Spanish election - The Economic Times",
+   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNUMxdVY5U2FRUFVabDhNbFZaUTFhQnhlVkE3b0pJTmRUSGMzSnk1MlIxUkw5ZGFQeVdXSE9jcjNOd3l1MFR0LXkxd25DWVFfdE5qN3ZVVmNKYl9XaG9GMmJGc1JwOFFXVWMwaVBHZXp2Nk9iMmlrM2xMVTdJUEI4WEdsNWhJX21DS1ViQy1SdjVucnliOHVjTFFIU2pCYnFmVDllS3BORlhhVFR2UjA4aDlCNXJKdVp4N2ZxYW5qYTdJYmxGNENDdllUUUNORUhYYm9nR2lqckJBdk5fY2FGYdIB5gFBVV95cUxOeTBOREdIbUZhZmNNX2ZCbmwyem03WGVKRFYzSFlFQ09hVVJQMzRzMFotMVN6cDdTOERiSm5SeU5Wc1dyU0ltOXpMamZYOGc5dHRQeXlYZHJyc2UyX2tjSUJRck1RLXNYN3d3QTl4OUw1aEpUaG1EcDZqMG5LeE5IRENFR0xtRkdLbzFOTFhpNUJZZFZfZEhwR2hDdVNWYVc5dDIxcENianVhSFN4SnA3WXlLV0h5cl9WUTU5LVFQRHlQR2pwVEo3Wko5Tlc4ZmRQc1dtb0FzUXVuSHY1dC1UVGtBekJaZw?oc=5",
+   "date": "Sat, 28 Nov 2026 03:48:20 GMT",
+   "vu_le": "2026-11-28T16:00:34.683959+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Stock Market Today - JournalArta",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTm5hNTZJekNqSjBZRmxfcU9PbFZMS3ZleThGWXlWR0JqM0tLMlNDTGxrUTRYUWZDRURhWTQzRFEyLXhhdzdnbVdTMGU4V2dwaGZmMTRvbXBCZ2FaTFJDUTM0RkRRblVKNjg2SmU5bWZjMVhTZ0VZQWxZYy1EaERBNklPMzd4QnRsRFRjdXJUclFRTmpObWVkVmpZRV9CaUh4UTlzRkRWdmdRLTQ3REJBczB3QnpHVnRq?oc=5",
+   "date": "Fri, 27 Nov 2026 17:34:44 GMT",
+   "vu_le": "2026-11-28T16:00:34.683959+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Dow soars 600 points, Nasdaq over 2% as battered AI stocks gain after Thanksgiving - The Economic Times",
+   "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNRHhZeUNlRVQyVl9LWV9EeWltV0RoNUdVWEFTSjgzSHFVRWktMDJOU1Zod2xvdWxMazc5UlJfZVpoeXJHaDNhTlVYVlcxYV9LOUczd3VyNVpxVGVnV3o0SmxoaVBPejZpSE5UYVVSV2FnLWh0QXpTRzRQRl95UTFKQmVCUkRzd3l0aWFHaUF0QXdvWGMtWV8xd0JPY0UwTFYzY090VGgxNEtvTFQ4dFB6YWgyTTZpdHlRR1pXWWdSd2c1ZHlVWjNKMGZUT3NhX2lhN0E1VmVoN0R3M2x2QTVDWlY3c2pnMFBhYy1QWmltTUlrRkRkR042YTJLcnhCNk3SAYQCQVVfeXFMUG1sMWJuNGlNSHFCQUQ3UHAtNW1NajlHcmJwM0hjTUJwN3JiUlpkM1VXN29vUVY0ZXlRM3VrT1FhdVZNWTBJbzlYMXM4NmdPVmQ5UHJIVUtkczhBMGotYkVtd3VqVmIxY0daZE5zOVdrZnR1ak04eU1hR2Y4MlU2dnVaNWFlVTBwbHVUQnZvazdxVjNZUWZKbXZseENDQk5vZUpIUTl6aFhRclp0RndaZEZadXJhSS0wd2ltNVA4MFlJVWp4MVdld2JpM21RUFRxSVJBY0hxVzh1bHdidVNjTUkxb2FWM2V5dmp4N0tZNTFfQWxzZWkzNUFNTkt3SHJBd2pBSGM?oc=5",
+   "date": "Fri, 27 Nov 2026 18:16:29 GMT",
+   "vu_le": "2026-11-28T16:00:34.683959+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "FPIs buy some more, but D-St slips 1% on tech, consumer drag - The Economic Times",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONkpLaVdKcEUwLVl6QnZqUUpRYXNhRGpSSXlhTDRMank0ZmZPNTByZWZSb1hpaF9NX1hqTW1rWGx4WXRZVHBaUWZlUGlCdE5obDljSi03RF8tTGwwVXhYZU94SHhwbjQwc21HdlpYRW5oWjQxUDZqUTEweFBXUGlidVBnV2g2Sm1FVUlORVJkc2YyMkY1Q1lUa2d1ajNJQWxWQmk4amlpazF5S3dPUXVJckl6Y1Rtd3lxaWlPUXU0SmtEV2JUQWZObTFMRdIB0AFBVV95cUxQTlpYS09RSEkxM1FGU3dKMWdXWFhDY3RxNWVFRnhMcTh4UGFCRjVRLUFua0Vkby0zX1FhQUJtQXZ3ODNzcklzMnIwN2J5YzYwOGMyLTlTbmVkMEZXQmFVMTNWdWlMY3ZvdXB4c1pDVHNJMjRRTzVmV1VjVlh3NUMyd1Q1V2xWWTI0X0hzdXpxQnhrQzA3NEN5bTlvajFXMUFyalk2TjhVQXVDZXFxV2hEdUNEa2lqamp1Q3JYdUtJQm9fRzF6c2M1a1Q1YWtUR05z?oc=5",
+   "date": "Sat, 28 Nov 2026 04:16:22 GMT",
+   "vu_le": "2026-11-28T16:00:34.683959+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Nifty IT Live | NSE Nifty IT Index Today - S&P CNX Nifty IT - The Economic Times",
+   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnS091SmlIQ0NWMXJ5SmhrR2p5aDY4cUxtSlhJZ3hseVlNNGQyYXlOQnFoTXZEa2lpZGdPQXM0WFJ3Q01vTUNzWmcxcFN3WXhua0p5NXpfM0RHY3V1eFNyLUIxYVRLQzY5R0Z6UUFVZ1c?oc=5",
+   "date": "Sat, 28 Nov 2026 03:41:48 GMT",
+   "vu_le": "2026-11-28T16:00:34.683959+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Corporate Europe’s China Pain Spreads Beyond Autos and Luxury - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNExvRzhhZElqWnVpRi1PNXFUci1WR3Zsemk5Z0lkbHNFSm1XTTdyLURheHFiRjc5X09nMmdlNjJLR25VVXNYQ0ZMZVRqZ1RraExBVjZhOFdCc3ppdGozRUJ3aHVfTzhtaDN2bWZsVXVDNHR3ZjF3RWtXTU0yN1BsV1J6Y2o2alZ6aFk5aXpTeURIZ0d6NWtIcWJUb1cwNWVVSVRFakZZcEpWYS1SbWpDUG9sTS1KR1pXeW1r?oc=5",
+   "date": "Sat, 28 Nov 2026 08:00:00 GMT",
+   "vu_le": "2026-11-28T16:00:34.683959+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "What Could New China Chip Curbs Mean For Applied Digital (APLD)? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFh3NjY1cHIxOWwwTkRaSHJrRFJyZU9WbnhVRVZfRjlpTkRrUGd1V25KdFdsQnlqdU1NVlZfLVZXRlQ4NW5Td21Bb09pdy1Ja0xxOWZtLUlseEcwRUhfaHVQVFNsdG9lQ3dfODRvaWMyQ2dQemRtRHV4SVFUcGlGU1lMQVNld3RuQkliQmQtZHdiMG81Wnc?oc=5",
+   "date": "Sat, 28 Nov 2026 15:10:36 GMT",
+   "vu_le": "2026-11-28T16:00:34.683959+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "actualites CAC40 7111TCIOPENS (F21VS) - Turbo | DE000FE1RC02 - Cotation EURONEXT ACCESS PARIS - Bourse Direct",
@@ -6384,76 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQnNIN21ZLWU4dTFmYXh6TnluRXFFY3cxNGJ6ZGZ3QnFTdmdVUF9POFExV01NQVM1Z2tTdW1KekwtOXlXeExfQmtWcVNLcE5TSEQ3Nnd5b0UxZVQ0SEVLeW1fOXFXbGxWVmlUaTE4SzZPQ01kaFAyS093VVlIaXRheHdiYVBnRndvUHRlaXlRYU56dmVGRkN4NkF0eC13R3k1VUk4eV94Q1YzY2R3akR6SXNMajV3RTNVQ2tHOU5QT3R1YU5JTFJ4eVRxSFlnelU1STFtSm5yRVdNUllYZ1F5UTJ4bWF2RzB5akFSNQ?oc=5",
    "date": "Fri, 27 Nov 2026 18:32:22 GMT",
    "vu_le": "2026-11-28T01:20:35.734811+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Storebrand (OB:STB) Stock Looks Undervalued Based On Its Equity Returns - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXhRZGltSmtoaXBrbDc3VVJLZXhqa2dKNzAwQVYtZDBobEpxNURMWDZ5NXlncnZ5T0xfNnIwMHRoUk5FbDdfWFlLWEgwZ0tHMmNIaG40QmtFTkxnaG9kNUlBQWg5LTdaazNzbmdKTXQ2d3U0aEI2OGZrRUNEdmxNaUhma3BVX2tWYXFWdkRQUFNMaWFjaXllc0pB?oc=5",
-   "date": "Fri, 27 Nov 2026 16:14:36 GMT",
-   "vu_le": "2026-11-28T01:10:40.635964+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "SOL price on Nov 27, 2026 at 9pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUEw3dWZjSWFjOHlxdFZ5MEIzcF9IcjNZVjQ0eW5ZejlvLW1OMEdvN2pxVVpkMFRTN21ldmZMQjgtSnFlblZORGJuOFpOTzdvTDVZUGdyWGVWM01aLVJQbHA0NlYtTnJxQUU3SnotRTZnY05PUlpDNEdFaml3VlYtcGZqbFJRRUd1ekh1TUhRQndLMGpXMTF6UEtTR2owSnpkMWNGSXRxTTN4SDRRMmc?oc=5",
-   "date": "Sat, 28 Nov 2026 01:03:26 GMT",
-   "vu_le": "2026-11-28T01:10:40.635964+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Dogecoin price on Nov 27, 2026 at 4pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjJHOTh2R0lnV1pQMnNpTktwRGZVRkRnSDZ6aTlRdy1VOXVUV1V6eXNqS1owS2ZzT09ZX3FKNDItTC0wWDl6WlNlclRySUtvbHlMQkNlbmhaT2k1Q3VTTmRHa1Z4RThOdkJLU2l1UkRCX0pmdmhPTnJvOG1Ud1FZbkxBRFNOYXoyVWQ0d1BxbEc1WVFIOW5pNEYyNW5FOS1JeUlzc0pDUExDYkRYY0lONUg4SUs?oc=5",
-   "date": "Fri, 27 Nov 2026 20:06:21 GMT",
-   "vu_le": "2026-11-28T01:10:40.635964+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "THALES Cours Action HO, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpRFpKYkphLVVKSlV6Z1NNTUNMdXlwV0lwQ2NOUm93YXNaOTVRcWtmSDN5ZmE3cmVGcDdPeE54aG9KQUs1NFplU19ZZ2Qyc0VZ?oc=5",
-   "date": "Sat, 28 Nov 2026 00:11:16 GMT",
-   "vu_le": "2026-11-28T01:00:35.279915+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Cerebras raises 2026 outlook, sees revenue tripling in 2027 as $26bn backlog builds - investingLive",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFdRSWdkSDRzVkxIc2lqMm8ycjVRNmdJM2JTcTh0ejRuQUhremFaSEJSOHhWeXVMR1d5NUVFVUJ3VjJYLVUzOHlxNWtZbDZtZ1FWcnBYSTN2dVRTYVcxX1dBcTVoRHoxc2pxRk56RWVIVF9kNG55bTloZFJxME1JU3NvUzlSZC0xYkdOSUtnTFNjV2JqTDNqeVdocGtNNW54Vk1wREJFdUFiQ0E3MUVKX1VlZDVuUQ?oc=5",
-   "date": "Sat, 28 Nov 2026 00:09:19 GMT",
-   "vu_le": "2026-11-28T01:00:35.279915+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxObXNTY0pLc1lpRnVaR0VHV3BIT2NFVkRSYkRVNjBoa3JXcnVhRzZIaW9JckpJRnVVWDF0eWxTX3BxMHFGWnhOOHRXT1pEWGlCT1Z6OWhQdWtHUmFINlZKMU9KMUpOTzREa2FYOEFVajdjS3NpN2FwdkhXM2ZWXy1WdS0ySW1FQXE5cS1NazBVMjVJWXZoN3Z5TXd3SkdNVGlMLU5aZTZjOXFYQmExZnIzSXJnUnpIdnFETkxBMVd3NDI0Qm5CVUhxdnRvMXNJZVJhNG94clMyUW9HdXNSSkxCQ0JWbERtYnczd2ZNX1VYbTJVc19CY0stdERRaHoxSXVuYkJUUVJqdFhrbEE?oc=5",
-   "date": "Fri, 27 Nov 2026 23:45:32 GMT",
-   "vu_le": "2026-11-28T00:50:35.700267+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "3 AI Infrastructure Stocks to Watch As Apple OpenAI Fight Tests Chip Demand - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSld3TDJPS2R6Y3RhcHdMN3RMMTVTaU04aUF2ZVY5emp5dGpuYnJDdkRKeXlsZUpuR01FRmoydzlhMVIzVEFfcXRWVWo1dFhzaGUtdGZkME56dWVBN2NTbDR4SEV4MWxvaTZuNEJCbmw0QmxzUS1zS0xqbEJua3hMeV91akFGSzNWb1lFS1BCZ1kzYVFiRzZLVU1BYnM?oc=5",
-   "date": "Sat, 28 Nov 2026 00:14:00 GMT",
-   "vu_le": "2026-11-28T00:50:35.700267+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "After incubation, Kenyan entrepreneurs look to Rwanda for markets - Daily Nation",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmtFamFRa2tuekM3WUtLdU9jcWFmR1VVcDZnamJHRnhrUzNNWlctX3pMd01HSnJycmJXWFlLRmp1VnA0NEZIZDNlUXhucW04MW53dW5leExaSzJ3MDhhb1lUcTNZeUVhOE1EUG5wZzA0SzFvTjVVakRpWkx1RmUxSVg4Wk0wU3o3Y2hITVlfMW9UQ29ueHJkY0ZhNlBSVkkxTW56azZTeXBVWXpiTUE?oc=5",
-   "date": "Fri, 27 Nov 2026 18:45:29 GMT",
-   "vu_le": "2026-11-28T00:50:35.700267+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street ends higher as battered AI stocks gain in volatile week - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGx5dUNYcGtCM2ZGUXB0RDNfNzF5TkNJNEctdjFiak5JRHExWWZVODg2c3hDcDZCUjdpWGpVYUg2bFE4UE5NQVJZUk52UzZGS082TTJiRWN4MTVxQlNXSTlmWnkzXzlyUzJONjlGSkNzVFNFSUlvRTRXQWxpbC1mQ2llcXRWWEIwZlpnVjBDZy1LcXU0MGc?oc=5",
-   "date": "Fri, 27 Nov 2026 07:34:00 GMT",
-   "vu_le": "2026-11-28T00:40:36.803275+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Dow Surges More Than 5% in a Week for Best Run in Four Years as AI and Chip Stocks Lift US Markets - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Nb0FQOVRHbDdqYXJVRjdoZWE5VjQxQi1hWjVpaWlJYm9DSG1rSlZXSEIwQk1jZm5qb1hLdjVraTk2bFdoT3pPWXpqX2xSazZ5NEJzUVNrVkgwd0tUazNsakJ2a0xHSFpFak43QnNEQnpxWEczMkE?oc=5",
-   "date": "Fri, 27 Nov 2026 23:27:49 GMT",
-   "vu_le": "2026-11-28T00:40:36.803275+00:00"
   }
  ],
  "erreurs": []
