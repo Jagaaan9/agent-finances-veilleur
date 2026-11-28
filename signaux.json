@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T01:00:35.279915+00:00",
+ "mis_a_jour": "2026-11-28T01:10:40.635964+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54719.1,
+   "prix": 54888,
    "devise": "EUR",
-   "jour_pct": -0.03,
-   "mois_pct": -24.89,
-   "volume": 1.38863376,
+   "jour_pct": 0.28,
+   "mois_pct": -24.66,
+   "volume": 1.51860981,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -3656,6 +3656,27 @@
  },
  "actualites": [
   {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Storebrand (OB:STB) Stock Looks Undervalued Based On Its Equity Returns - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXhRZGltSmtoaXBrbDc3VVJLZXhqa2dKNzAwQVYtZDBobEpxNURMWDZ5NXlncnZ5T0xfNnIwMHRoUk5FbDdfWFlLWEgwZ0tHMmNIaG40QmtFTkxnaG9kNUlBQWg5LTdaazNzbmdKTXQ2d3U0aEI2OGZrRUNEdmxNaUhma3BVX2tWYXFWdkRQUFNMaWFjaXllc0pB?oc=5",
+   "date": "Fri, 27 Nov 2026 16:14:36 GMT",
+   "vu_le": "2026-11-28T01:10:40.635964+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 27, 2026 at 9pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUEw3dWZjSWFjOHlxdFZ5MEIzcF9IcjNZVjQ0eW5ZejlvLW1OMEdvN2pxVVpkMFRTN21ldmZMQjgtSnFlblZORGJuOFpOTzdvTDVZUGdyWGVWM01aLVJQbHA0NlYtTnJxQUU3SnotRTZnY05PUlpDNEdFaml3VlYtcGZqbFJRRUd1ekh1TUhRQndLMGpXMTF6UEtTR2owSnpkMWNGSXRxTTN4SDRRMmc?oc=5",
+   "date": "Sat, 28 Nov 2026 01:03:26 GMT",
+   "vu_le": "2026-11-28T01:10:40.635964+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Dogecoin price on Nov 27, 2026 at 4pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjJHOTh2R0lnV1pQMnNpTktwRGZVRkRnSDZ6aTlRdy1VOXVUV1V6eXNqS1owS2ZzT09ZX3FKNDItTC0wWDl6WlNlclRySUtvbHlMQkNlbmhaT2k1Q3VTTmRHa1Z4RThOdkJLU2l1UkRCX0pmdmhPTnJvOG1Ud1FZbkxBRFNOYXoyVWQ0d1BxbEc1WVFIOW5pNEYyNW5FOS1JeUlzc0pDUExDYkRYY0lONUg4SUs?oc=5",
+   "date": "Fri, 27 Nov 2026 20:06:21 GMT",
+   "vu_le": "2026-11-28T01:10:40.635964+00:00"
+  },
+  {
    "sujet": "Bourse de Paris et Europe",
    "titre": "THALES Cours Action HO, Cotation Bourse Euronext Paris - Boursorama",
    "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpRFpKYkphLVVKSlV6Z1NNTUNMdXlwV0lwQ2NOUm93YXNaOTVRcWtmSDN5ZmE3cmVGcDdPeE54aG9KQUs1NFplU19ZZ2Qyc0VZ?oc=5",
@@ -6432,27 +6453,6 @@
    "titre": "« Anthropalypse financière » : les salariés d’Anthropic vont bien dépenser leur fortune de 470 milliards de dollars, mais pas comme tout le monde - Challenges",
    "lien": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNTXpJcTNlUlNIWXF4YnVFNnZDTXlrTzFkRWN3a0dkV0lnV3ROX1c4cjkxZ21mWEE1VHRncWY0YzNwSDl3Z29WbERXVTF4VzRXekJfSU80TzFOcWVFcS1tQ0VGYmRDN3NhSF9sRHBfOGZDeVlUbXFkanJGODAyMTRLSkxkelZsd3FmdDc0RnlRS0FRSkZtZk9nSUVLODM4cEtfbHFGYUxHeE03UEN4V2VwX3pXdVRReThKTTEzUFpFS2VKN2xXa0ZhdkFMUTNMQ2MwNnVKWGRscDhtMGVGRTllVUJXcWNzZUpUbXdoUGgxMUc4Yk1VbGd4ZGRlb2d6MFBFQ1lNSFluWDBRdEJ3TzRHX0xuSG9vODJOSFRMWVBtMjVaUQ?oc=5",
    "date": "Fri, 27 Nov 2026 12:30:00 GMT",
-   "vu_le": "2026-11-27T12:40:35.683333+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stocks advance as tech firms stage recovery - Yahoo Finance Singapore",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVRmV2RSRFR6ejB1OWwtMUgzR0N4MVludzFjT2c0bExHQTdnLXdCTW13aEJkWUNmRktMdTNvN0hOc21hb1hSR0ZNUEg5WTgxdVp5eDU3VnRhbVVlQktZRGxUVW4zblFZd1hiU0c1dGFkeEt3WkVXNjFDSDRRUFNKNFJmS0lrdkpK?oc=5",
-   "date": "Fri, 27 Nov 2026 12:08:38 GMT",
-   "vu_le": "2026-11-27T12:40:35.683333+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "La semaine à venir à Wall Street-Le marché boursier, en baisse, doit désormais faire face aux chiffres de l'em - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQVG9ycThXcmFpOWtMYW1NZE15Mmtjdk5PU1BrSTRaaUp0Y1ZDMC13RkUzSUtYUEZMWlNGMjYySzRYMFMtYkdxMTFXVlpaTV9XeUlINmt4R25PRjQ3aFlDU0JPeDRHUFB3ZHRSeTFFYmVieC1JTnFoNElEdjFoaURfbnFmaWlMZF9nTmZjeUFfWkhGSDZHM0pYYzlpVnJrUXpvMjJhSGRzWFctOVp4ckw3ZnFzWUdGazJlLVAyWGtJcm1tVjdEVG9UaXVERnVRZFBOeHg4UFVKOE5Cc05mMnVMXzRPLW5leDJnRGxZRVZ4OUp1OUNQMGYtQy1jbDYwNHNjUzVkanNxMUNKRFplMEZ5LWtMSmFrZ3J5eWZDeUF5dE5zNlBjX0FhNE84TGVMMXAwM2FYTWlhUzlCUVZ4QV9UVGhsTnNwSjVlcjBtRFNUOVFZOTBhcm5FcHB3VUpuTFF2bUVNTzlKY3o0VEFJU3BZMngxNGZPZUhxVEg40gH7AkFVX3lxTFBUb3JxOFdyYWk5a0xhbU1kTXkya2N2Tk9TUGtJNFppSnRjVkMwLXdGRTNJS1hQRkxaU0YyNjJLNFgwUy1iR3ExMVdWWlpNX1d5SUg2a3hHbk9GNDdoWUNTQk94NEdQUHdkdFJ5MUViZWJ4LUlOcWg0SUR2MWhpRF9ucWZpaUxkX2dOZmN5QV9aSEZINkczSlhjOWlWcmtRem8yMmFIZHNYVy05WnhyTDdmcXNZR0ZrMmUtUDJYa0lybW1WN0RUb1RpdURGdVFkUE54eDhQVUo4TkJzTmYydUxfNE8tbmV4MmdEbFlFVng5SnU5Q1AwZi1DLWNsNjA0c2NTNWRqc3ExQ0pEWmUwRnkta0xKYWtncnl5ZkN5QXl0TnM2UGNfQWE0TzhMZUwxcDAzYVhNaWFTOUJRVnhBX1RUaGxOc3BKNWVyMG1EU1Q5UVk5MGFybkVwcHdVSm5MUXZtRU1POUpjejRUQUlTcFkyeDE0Zk9lSHFUSDg?oc=5",
-   "date": "Fri, 27 Nov 2026 11:01:29 GMT",
-   "vu_le": "2026-11-27T12:40:35.683333+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Zone euro: Les consommateurs relèvent nettement leurs anticipations d'inflation selon une enquête de la BCE - Zonebourse",
-   "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUJCRldEd01YY3gxeVdhT1pJYmtMdUVRR043UHA3c2MwajV3OFVTSGZmWHFFZEVFX015VXA5NGNKQTVhMmVuVUdVZGhReFhab2dubld5QXhxeWxUaS15VzdqUS1SQVR0VENPQWtYcVhFYVhwdXF4OU1HRUR4OF8zOXpNZ0lkOGpWT1g0cnREeFNGQ0Rxb3hnR05fVWVtb2E0RUN3WUZSekRFUjB5UnlMX1JjdVc1ZFotZ2VVMEtwQTVWLWl4NENCcGVzaWhfQ3g3VzE5dzV2RXZTQ3hfZlFyNTF3dlE2OG9iMGh5bjdOUDJqdw?oc=5",
-   "date": "Fri, 27 Nov 2026 12:11:22 GMT",
    "vu_le": "2026-11-27T12:40:35.683333+00:00"
   }
  ],

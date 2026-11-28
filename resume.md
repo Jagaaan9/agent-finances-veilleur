@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54719.1 EUR, jour -0.03 %, mois -24.89 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54888 EUR, jour 0.28 %, mois -24.66 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -310,6 +310,9 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Petites valeurs en croissance] Storebrand (OB:STB) Stock Looks Undervalued Based On Its Equity Returns - Yahoo Finance
+- [Crypto] SOL price on Nov 27, 2026 at 9pm EST Crypto Prediction Market - Robinhood
+- [Crypto] Dogecoin price on Nov 27, 2026 at 4pm EST Crypto Prediction Market - Robinhood
 - [Bourse de Paris et Europe] THALES Cours Action HO, Cotation Bourse Euronext Paris - Boursorama
 - [Résultats d'entreprises] Cerebras raises 2026 outlook, sees revenue tripling in 2027 as $26bn backlog builds - investingLive
 - [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
@@ -455,7 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] What Is the Best Crypto to Buy With $100 Before 2027? - 24/7 Wall St.
 - [Anthropic] $1,000 in Anthropic Stock or Solana: Which Could Be Worth More in 5 Years? - 24/7 Wall St.
 - [Marchés mondiaux] Stocks jump to end an erratic week that was Wall Street's best in over a year - Spectrum News
-- [Marchés mondiaux] Stocks jump to close out an erratic week that was also Wall Street’s best in more than a year - BNN Bloomberg
-- [Petites valeurs en croissance] 9.95% yield and 20 years of dividend payouts! Is this the best small-cap for a Stocks & Shares ISA? - The Twelfth Magpie
-- [Crypto] HYPE price on Nov 27, 2026 at 3pm EST Crypto Prediction Market - Robinhood
-- 
+- [Marchés mondiaux] Stocks jump to close out an erratic week that was also Wall
