@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T10:20:35.373832+00:00",
+ "mis_a_jour": "2026-11-28T10:30:35.328248+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54300,
+   "prix": 54206.2,
    "devise": "EUR",
-   "jour_pct": -0.79,
-   "mois_pct": -25.47,
-   "volume": 49.24520522,
+   "jour_pct": -0.96,
+   "mois_pct": -25.6,
+   "volume": 50.01063516,
    "volume_relatif": 0.23,
    "capitalisation": null,
    "per": null,
@@ -3371,14 +3371,14 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
+    "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
+    "prix": 40.81,
     "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3399,6 +3399,20 @@
     "secteur": "Technology Services"
    },
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOG",
     "nom": "Alphabet Inc. Class C",
     "prix": 272.44,
@@ -3409,20 +3423,6 @@
     "volume_relatif": 0.55,
     "capitalisation": 3346907996277,
     "per": 14.2,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Google souhaite louer davantage de capacité de calcul auprès de SpaceX, selon Musk - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUhER2tRUTZOUHNkY2FIR1FKQnhkQzhKSjZYWXZCQlhiODkzYmxJS3d5dVdPTnI2ZUNyclh5VTRFWGY0dFFWdzRYNjBhWVFvZ3Z4d01Qdkt3X0M5RHRoQ3dFbEVLRU1RUGQwN0tBNEhnWTBrajJBbVBsMWNkdXNXZlNnUjZsaExVN2NVa3BXaVFQbzdVdHVGak5yQWUxenM1UEtnLUoxbWszSXpHWmxDVmVpYVB6aHEwcEJ5U3ZSNkRGSEthUkhYd3daVURuT3VWOHVYNGNtQUZFa29YODVpaDROa0dxZmtOQ09ScVc3Uk9PYklhY0HSAfYBQVVfeXFMTW1IREdrUVE2TlBzZGNhSEdRSkJ4ZEM4Sko2WFl2QkJYYjg5M2JsSUt3eXVXT05yNmVDcnJYeVU0RVhmNHRRVnc0WDYwYVlRb2d2eHdNUHZLd19DOUR0aEN3RWxFS0VNUVBkMDdLQTRIZ1kwa2oyQW1QbDFjZHVzV2ZTZ1I2bGhMVTdjVWtwV2lRUG83VXR1RmpOckFlMXpzNVBLZy1KMW1rM0l6R1psQ1ZlaWFQemhxMHBCeVN2UjZERkhLYVJIWHd3WlVEbk91Vjh1WDRjbUFGRWtvWDg1aWg0TmtHcWZrTkNPUnFXN1JPT2JJYWNB?oc=5",
+   "date": "Sat, 28 Nov 2026 09:25:05 GMT",
+   "vu_le": "2026-11-28T10:30:35.328248+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Coherent Jumps 12% as Optical Stocks Rebound From Wednesday's AI Selloff; Applied Optoelectronics and Lumentum Rise 7% - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbDZfQ0sxOGU4MmlOVnZXc05SNmo2SEkydDJ5ckR5aWV4c0twUUhKU2hIMnhBczRMTnBRMThTS2ZYQUdCblpPWG9SRWRMTGRuS2NrQVNPNnZoM2x6c1QyTms5RXFHdGotOG1laURsSGI5dmp4WHlmNnZSd0NXbEZHMURDeDVvblN1V1hIYlFTcHNqRGxheHBxRWNxTFA3bTZsOU41OWw5dXlwd2dtUUlpUllOUHljcjR3SlJpTmQ2eW9kRllSdUFZOWlaaGQ3c3JBVndud2FUYTJORFVOTDhpaGRhOXRLSXVJN1V6bHRTYw?oc=5",
+   "date": "Fri, 27 Nov 2026 17:06:00 GMT",
+   "vu_le": "2026-11-28T10:30:35.328248+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "JD.com Stocks Climb 4.34% as Beijing Presses Listed Firms to Reward Shareholders - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObWNWd3RReHoxZTJuNEpqUlJyaDNhQVJCTjlUd0loN3ZyMThnMG8xbDA2dk9OVEV4ZURrMW0yNzhaOWVkcFdkWWRyd0hTdFo4cjNTaDZrTk9xMnVtMkJPTXBlS3RFV09INV9jT2RpZ01PRW9YbVdBRkRkQVRUX0g1TUw3Qi0yMUIyc2dtLVdBbjItQjA2aUtESW1Ja2h4eHdDM0JKeHh2XzZqTHRXMUNBRmk1MjExT1lKaUNMTVc2TDZmeWo0cVNJbWRWSXVYZU5OenRkTjFB?oc=5",
+   "date": "Fri, 27 Nov 2026 18:07:09 GMT",
+   "vu_le": "2026-11-28T10:30:35.328248+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Wix (WIX) Stock May Be Undervalued As Sales Stay In Focus - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQUgxYnFrWXlZTTJZWFZQUE55UTBfbUNpdG1VcVprQ292RmRrZF9BUjBKVHBKQkZoR1pOeEJrTWJnVEJkck5qN2tGaXVfeHd1VUpVYXVtU1FpWnZER005TkV2Q1VJRk9NQ3BBejZ0QWRTZXJ1NDcySHZzdkNBWFBuNUtqV1VkWXZDdHJqbnowWkJvZWVQNU1TU01n?oc=5",
+   "date": "Sat, 28 Nov 2026 06:08:00 GMT",
+   "vu_le": "2026-11-28T10:30:35.328248+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Service Corporation International (SCI) Stock Still Appears Undervalued On Its 25% Three Year Run - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd0RUdzNEaGJmbEYzRV9GX0x3TXFYeDdIWHZ5S0ZLcU9OTkIzOHA4cll4a2x0bHRDa2hMVTFYWXZRcjl5bG1jcDRER0VNYTJvaXhLSFhtNjNDd2Y2TF9SUGlVRnNla2Q2elFoTzJoS3Q3bk1uc2FBbTl5MWtSbkRQRlY0ODlpZ0UwcndSYXNJMXRmNkNOQ2FFZldnQktRNnRDaXdBajVNZ0JTZw?oc=5",
+   "date": "Fri, 27 Nov 2026 14:10:11 GMT",
+   "vu_le": "2026-11-28T10:30:35.328248+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "ANT Stock Quote Price and Forecast - CNN",
@@ -6418,41 +6453,6 @@
    "titre": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound - TradingView",
    "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLTNLdXFKQkprN1Vvd2g2VHcyRlZNOFk5NXh0WW1tWko4OGY4dHZhMExTWDBTQzVkMHY5Y0dBa0tVNmtaclBRd0ZnQXNNZkJIYzZEc1FabWsteTZPZmVuQ1VRWVU3bVhDRk5SZnlTTmdCeVdnQVF6X2lWV21SZEFsX3lGN1ZSb0hPWTZ1MVZTQ3dpalpQaVdndDEtMDdkSUhGOEJWdkhpRlRnUWtmTXk4eTJMNnFPclhTbVlvYmx6bnVhTnhaRE0wdm00TQ?oc=5",
    "date": "Fri, 27 Nov 2026 16:48:51 GMT",
-   "vu_le": "2026-11-27T17:20:35.638053+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Dow Gains 510 Points as Wall Street Rebounds - cwibc.co.id",
-   "lien": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1X25vZU90Um5sZFl5ZmZXM19TVXZYczVpTVdlYzk5TWpwNmZiMk5jZ2ltY0tGY19rbHRpYkRmSnpwcTRJR1BxakktbXdxZDVxbjhoaGVFcW9oNUtqZmN2ZFA4QQ?oc=5",
-   "date": "Fri, 27 Nov 2026 16:39:58 GMT",
-   "vu_le": "2026-11-27T17:20:35.638053+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "L'Europe finit la semaine dans le vert, l'IA retrouve les faveurs des investisseurs - ABC Bourse",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjh3WjlRcnRqOThlNUM5OFA5LTFTNFQ4dGpZVHlJYlNDS2hmQ2JuWXVjRnVXd2hIQ1ZjejJFWWtrekdRYlhHZWtiNFNfX2xDZWkydTZRdmt6c1haVUtLZU9uRzF4OF9MWk9LRHdYQkxxYVNHOVRkeWNvQmVoci0zM1BRd2l4amduU2FhUlhPS0JFX3VQb2FuQVFidlRlQjZyZnZ4cGpCY0hSM1RRUEJLSDdxV2ktUkY0ODNIVQ?oc=5",
-   "date": "Fri, 27 Nov 2026 17:11:34 GMT",
-   "vu_le": "2026-11-27T17:20:35.638053+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Wall Street vue sur un rebond après Thanksgiving, l'Europe poursuit son redressement - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWjFaLU5QbHdNV252WFp6YUZfYUtoNDhNajV2bUV6VG1IbWtzWDBkUDFLQVhGUGxvZW12elFTUEhmcU5xeS03aDVxWlRLY3hSX2Y5N0Fvd0xNcWMwX2RhQ0R2OU9OY0gtZE1GOTFWVE84S2IzLUtVZlFPeGR5YUxadXF5YWN4enlUZU9tWTFtNlZKSGNlNTNZdU8yUjB6VVctNkpkTzNLV3ZkdTRlM0FObDBHT2JMakR3S25PbFN5Z2pzUmJCbDVpOFVjaU5QVGJIQXV6eVczOTZPb3RsSTN1VHU4d2hNWUhvNzdUa09vLXJBMGxxRnZIdtIB-AFBVV95cUxPWjFaLU5QbHdNV252WFp6YUZfYUtoNDhNajV2bUV6VG1IbWtzWDBkUDFLQVhGUGxvZW12elFTUEhmcU5xeS03aDVxWlRLY3hSX2Y5N0Fvd0xNcWMwX2RhQ0R2OU9OY0gtZE1GOTFWVE84S2IzLUtVZlFPeGR5YUxadXF5YWN4enlUZU9tWTFtNlZKSGNlNTNZdU8yUjB6VVctNkpkTzNLV3ZkdTRlM0FObDBHT2JMakR3S25PbFN5Z2pzUmJCbDVpOFVjaU5QVGJIQXV6eVczOTZPb3RsSTN1VHU4d2hNWUhvNzdUa09vLXJBMGxxRnZIdg?oc=5",
-   "date": "Fri, 27 Nov 2026 13:08:49 GMT",
-   "vu_le": "2026-11-27T17:20:35.638053+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Wall Street vue sur un rebond après Thanksgiving, l'Europe poursuit son redressement - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOVdCMGpFTU5DakRvMzF0aWZHN09wQ3p5cTdJaVMxLTVRWW1WclI0NUFCNUd6ZS14RnVjdDJHT0x0Y0w3VlpReTUyNzhiTHZHZ1A0eC1Nbjh3RU9UenVGTFRGU3UwbGJVTU9DYjZNUGdQTmxKdjlxZUN5a3FFMDJSeExSbTh6Q09CZGFyX20zSmhPRnhmV0pha3dRQWwyREx0VnVCTHlSb2N6a3RITk5ZdDVVVzRtSldTdWNoX1VXTGJoMWIyWjJXRHFMRGRDREVhamQzNzZGcU0xdF9nd3hrbEgwNktJSU5jdXdoYnUzai02b2dOY0pxadIB-AFBVV95cUxOOVdCMGpFTU5DakRvMzF0aWZHN09wQ3p5cTdJaVMxLTVRWW1WclI0NUFCNUd6ZS14RnVjdDJHT0x0Y0w3VlpReTUyNzhiTHZHZ1A0eC1Nbjh3RU9UenVGTFRGU3UwbGJVTU9DYjZNUGdQTmxKdjlxZUN5a3FFMDJSeExSbTh6Q09CZGFyX20zSmhPRnhmV0pha3dRQWwyREx0VnVCTHlSb2N6a3RITk5ZdDVVVzRtSldTdWNoX1VXTGJoMWIyWjJXRHFMRGRDREVhamQzNzZGcU0xdF9nd3hrbEgwNktJSU5jdXdoYnUzai02b2dOY0pxaQ?oc=5",
-   "date": "Fri, 27 Nov 2026 13:00:15 GMT",
-   "vu_le": "2026-11-27T17:20:35.638053+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Cac 40 : un rebond prudent avant le verdict de S&P et la Fed - ABC Bourse",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNDF1RENfaGk4RDc4dVAzc0dLZ3kyb216dHJFME5iY19oaF9GLU5OSUZ5VXZUS3pYRW9mb1Zsb19qQmc0SUpxc3FjQkE0Z3hwdE0tR0phZzVEMkdlQ2VDNnRQQnhqYkxaVU5LbnRWSEpfb09TOFZkNHZRZENYeXVsTF9QRHhVeWdJNlhNMWlMclRnZVAwYkhCdUt3WWpqQQ?oc=5",
-   "date": "Fri, 27 Nov 2026 15:21:06 GMT",
    "vu_le": "2026-11-27T17:20:35.638053+00:00"
   }
  ],

@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54300 EUR, jour -0.79 %, mois -25.47 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54206.2 EUR, jour -0.96 %, mois -25.6 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -286,10 +286,10 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -0.08 %, mois 21.84 %, prix 8.736 EUR, capi 8810130130.895283, PER 10.9, volume x0.29 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
-- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
+- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,11 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Google souhaite louer davantage de capacité de calcul auprès de SpaceX, selon Musk - Boursorama
+- [Marchés mondiaux] Coherent Jumps 12% as Optical Stocks Rebound From Wednesday's AI Selloff; Applied Optoelectronics and Lumentum Rise 7% - 24/7 Wall St.
+- [Chine et Asie] JD.com Stocks Climb 4.34% as Beijing Presses Listed Firms to Reward Shareholders - TradingView
+- [Petites valeurs en croissance] Wix (WIX) Stock May Be Undervalued As Sales Stay In Focus - Yahoo Finance
+- [Petites valeurs en croissance] Service Corporation International (SCI) Stock Still Appears Undervalued On Its 25% Three Year Run - Yahoo Finance
 - [Anthropic] ANT Stock Quote Price and Forecast - CNN
 - [Anthropic (FR)] Google souhaite louer davantage de capacité de calcul auprès de SpaceX, selon Musk - Boursorama
 - [Chine et Asie] China stocks surge most in two years as Beijing vows stronger market support - The Globe and Mail
@@ -455,8 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Pays émergents] Petrobras shares rise 11% on Lula finance minister appointment - scanx.trade
 - [Pays émergents] Tata Steel-Apollo Deal Tests Power of India’s Minority Investors - Bloomberg.com
 - [Banques centrales et taux] Le dollar profite de l'appétit pour les actions américaines... - Fortuneo
-- [Rachats et fusions] VEEE: Twin Vee and USFM post merger-related social media notice - Quantisnow
-- [Crypto] 4 Scary Bitcoin Charts That Suggest This Bear Market Is Different - Yahoo Finance
-- [Crypto] Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - The Globe and Mail
-- [Petites valeurs en croissance] Sweco (OM:SWEC B) Stock May Be 30% Undervalued On Cash Flow - Yahoo Finance
-- [Crypto] XRP price at Nov 27, 2026 at 11pm EST Crypto Prediction Market - Robinhood
