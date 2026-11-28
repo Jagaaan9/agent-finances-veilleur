@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54157.27 EUR, jour -1.05 %, mois -25.66 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54098.74 EUR, jour -1.16 %, mois -25.74 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -287,15 +287,15 @@ POSITIONS ET INDICES :
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
-- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
+- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
 - SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour 7.52 %, mois -24.25 %, prix 119.5 USD, capi 579228478930.6643, PER 6.7, volume x0.77 la normale
 - Tencent Holdings Ltd Unsponsored ADR (OTC:TCEHY, secteur Technology Services) jour 3.97 %, mois -8.56 %, prix 45.29 USD, capi 404554837871.25, PER 12.2, volume x0.7 la normale
-- Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH- (NYSE:BAC/PK, secteur Finance) jour 0.52 %, mois 1.29 %, prix 21.12 USD, capi 338593252758, PER 5.0, volume x0.53 la normale
+- Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP- (NYSE:BAC/PP, secteur Finance) jour -0.34 %, mois -1.23 %, prix 14.51 USD, capi 338593252758, PER 3.5, volume x0.89 la normale
 
 ÉCRAN France : meilleures performances sur 1 mois :
 - Clariane SE (EURONEXT:CLARI, secteur Health Services) jour -1.54 %, mois 46.05 %, prix 4.618 EUR, capi 1649834769, PER 130.5, volume x2.03 la normale
@@ -310,6 +310,12 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Banques centrales et taux] Faibles échanges de fin d’année : les devises du G8 stables, sur fond de risque d’intervention sur le yen et de publications d’inflation attendues - VT Markets
+- [Chine et Asie] China National Building Material (SEHK:3323) Stock Looks Undervalued On Current Pricing - Yahoo Finance
+- [Intelligence artificielle] Nvidia Stock Rally Puts US AI Chip Leaders Back On Investor Watchlists - Simply Wall St
+- [Crypto] Crypto Outlook: Is Uncertainty Still Holding Back the Market? - FOREX.com
+- [Crypto] Bitcoin sentiment hits new low as Jeff Park calls this cycle his toughest yet - Crypto Briefing
+- [Crypto] Bitcoin (BTC) sentiment is plumbing a new low for longtime digital asset investor - CoinDesk
 - [Anthropic (FR)] Démystifier l’économie | Quel est l’impact de l’arrivée d’Anthropic sur les marchés ? - La Presse
 - [Rachats et fusions] Haleon in talks to acquire controlling stake in HealthKart - Exchange4Media
 - [Crypto] Bitcoin (BTC) sentiment is plumbing a new low for longtime digital asset investor - CoinDesk
@@ -454,9 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] USD1 Peg Slips Across Three Exchanges After WLFI Selloff - Bitcoin Foundation
 - [Crypto] What Is Emma AI? Black Avatar Stirs Representation Debate - Bitcoin Foundation
 - [Marchés mondiaux] US stock selloffs trigger a new kind of dollar bounce - WKZO
-- [Chine et Asie] TradFi News | Hang Seng Tech Jumps 6.45% and KOSPI 4.34% as Chip and AI Stocks Lead Asian Rally - Binance
-- [Petites valeurs en croissance] Sagility Ltd Upgraded to Buy on Strong Fundamentals and Bullish Technicals - MarketsMojo
-- [Chine et Asie] China’s rare midday vow jolts stocks higher - NAI500
-- [Intelligence artificielle] Wall Street Tiptoed Back Into Beaten-Down AI Stocks - Finimize
-- [Pays émergents] India markets rebound in November; domestic growth drivers key to 2027 rally: HSBC - BusinessLine
-- [Défense, énergie, matières premières] Rheinmetall cuts 2030 sales goal to €33-37 billion, wins Romania Lynx order - MLQ.ai

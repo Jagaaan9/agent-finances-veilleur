@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T13:10:41.502089+00:00",
+ "mis_a_jour": "2026-11-28T13:20:35.067773+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54157.27,
+   "prix": 54098.74,
    "devise": "EUR",
-   "jour_pct": -1.05,
-   "mois_pct": -25.66,
-   "volume": 57.08099851,
-   "volume_relatif": 0.26,
+   "jour_pct": -1.16,
+   "mois_pct": -25.74,
+   "volume": 57.41029675,
+   "volume_relatif": 0.27,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3385,16 +3385,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
     "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
-    "volume_relatif": 0.58,
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3346907996277,
-    "per": 14.4,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3413,16 +3413,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
     "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
+    "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
-    "per": 2.1,
+    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PK",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH-",
-    "prix": 21.12,
+    "symbole": "NYSE:BAC/PP",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP-",
+    "prix": 14.51,
     "devise": "USD",
-    "jour_pct": 0.52,
-    "mois_pct": 1.29,
-    "volume": 110706,
-    "volume_relatif": 0.53,
+    "jour_pct": -0.34,
+    "mois_pct": -1.23,
+    "volume": 160626,
+    "volume_relatif": 0.89,
     "capitalisation": 338593252758,
-    "per": 5.0,
+    "per": 3.5,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Faibles échanges de fin d’année : les devises du G8 stables, sur fond de risque d’intervention sur le yen et de publications d’inflation attendues - VT Markets",
+   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeFdCV01zbGpGTkJzUXB5Qmd1RFl6ZTJHUXpaQl8xUEZxMm93U3l5Vnk1NWZHMkQ2RUVrMmpvUHZ0a19xR3RHWTRpMWpyQ3F6VzQzX1d3UlJDNVFrbW93R25rMzNPTV9nT3E4UklGbHNGU2JVczZRX3NLS2FrUy1ZX1pEek5IYkRtLVh3UEZWVTI0dVFmUkNjUmkyM2lBUFk3ZTBBSzNwOENpVHZtN0F6RG1zc3VQTi0xd1l3cWdPbVM1SDducTlTTGt0cHI2dw?oc=5",
+   "date": "Sat, 28 Nov 2026 10:52:56 GMT",
+   "vu_le": "2026-11-28T13:20:35.067773+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China National Building Material (SEHK:3323) Stock Looks Undervalued On Current Pricing - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVJWT3RxSnZuUjJiM3NaMEJLQkxpTVZBblAyZFRvYTFQRnFmTjFsb18zX0lMbC1JS2VhcWtmTWhzaUZLMUExbzlaSXVkOE5ZUzROdi04QV9LZjROM0N2UGd4LXJIaFhhYkZQMFJzWnFBcTVUOVptYnoxQ2dMZzYxYS00bC1LZ09BTHdMN0dsMDBzYnJJZ0c3amFIMmN6RzRyQUx2TQ?oc=5",
+   "date": "Sat, 28 Nov 2026 09:12:24 GMT",
+   "vu_le": "2026-11-28T13:20:35.067773+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia Stock Rally Puts US AI Chip Leaders Back On Investor Watchlists - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOalZDa2JOMnVEYkRyWUxpYnhGdHF3NzE2M0ZnTDZPYnBfcFRHeG1CWEFfVDg3dEhEWGxWN3dxZm1ZTUhUcVBDZmotWDdkemI2WnJpR0hyT3psVTNpZGFVVE9uOV9oQVlyS3Y4Z05DczJCYXhXMmlJYTVRMXBnNDVTUnVVbjZPWmgzc2pQd0FsQTZLc05YM2p2MUVBX3ZJbk56X2RWN0FkVlB3MjR2WU8wenpkQklRczlLUExXZDdBY3dLZlpOQkpkVXBoZk5SbnJvU0V6LdIB2gFBVV95cUxQT3BJQndkcS1fNWVKNVd1US05VFhkZ1ZNNldlRmZJRXNZX1hubGlBRmJXQkJUcmMtelZpNXRLSjN4UWV3ZXVDUWt1UGVpbjMxRHBuZEh3MXRfZmxaYS11UDFMb1d1bUsxb09BVDV4R3U1V0V4SkwtLVNTNHl5TG5YVk5wcHV1UEZwOFhzYVpROFZJUThGb1VWNXFJT1kxT0JubnpoQ2FPcS1oWXRoUkVzQk1LUTkwZzRabGtZcnJiLUF1amc3THhCeHBFenpRZzIzWEZRTHFURUFqUQ?oc=5",
+   "date": "Sat, 28 Nov 2026 13:11:12 GMT",
+   "vu_le": "2026-11-28T13:20:35.067773+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Outlook: Is Uncertainty Still Holding Back the Market? - FOREX.com",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYkNvUXJvU0RGaTJHdDgtSVc4eXc0eVJwTTdsZ1ViRUFxWU1yUm91Umd0TVB0X3RKTldld181TjRwazJOdGRiTE9lMjJhNDg0RGpVT0Z0TzN5V0hiNnNtaGZOdHNqOUJkanhrMGg1YVN5Q1dQa1hkdlVsRm9IWkw3Mk5XNnFVNl8wcDVvNzVRcXdpYzRjcnVRaFlJUDVLTVFDczNReVRn0gGyAUFVX3lxTFA3TXFXTkdWMlZ6MXo5cmw4M2RzbjFCMUI5UldFdFVlOWw0Uk9wY1RuZWFQckR5blR0SnRhLVoxNzVITXpVTHdaN2ZhYTBqcHo5emRLWTBmZzZJVFViQXlyeGpOQ19iVVVuanZnejRzdC03WTUtcHgtdkJ3ZVFVUDd2Nmx5TlRocWN2NzRUV0h3ZTJTR2lUbndTSVEwRWdXNmIzWGItbjBNM043Qm1ydXk3aXc?oc=5",
+   "date": "Sat, 28 Nov 2026 13:19:06 GMT",
+   "vu_le": "2026-11-28T13:20:35.067773+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin sentiment hits new low as Jeff Park calls this cycle his toughest yet - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhOWs3aU5wN2Jsc3BKUF8wTndHSWJ2bGhmZFZ3SzlCeUVoc3FNVnZrTko2Y0RDWVhCcDRuRmQ0UVBpYmZvRndKbXhSSGpUSTNDUWZ0VkRYQTZ3THozVUd4TVl5S0tQcEFJMWFnd0ItWFA?oc=5",
+   "date": "Sat, 28 Nov 2026 13:13:50 GMT",
+   "vu_le": "2026-11-28T13:20:35.067773+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin (BTC) sentiment is plumbing a new low for longtime digital asset investor - CoinDesk",
+   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZHVxYkJvcjBaVk9EbFhKMlJqazl1YktGNTIxcThUVXhmai1FWU9ITExtREYzaXdycUEzX0ZFS0VrOGN5aGVqc01IMVF5TW8yNFRHQ0E5cDBDRGVpX2FJbllUaWUzMUluVHdmemtRMjJ4SUNRVm41Zkl2X3FUWTdqMjVHUlpScmMzb2xTbUtSSFV5Q2lzRnUxUmttX0lPWlRMTFVPUy1Ucm5vdEptV0VhY0FUNFpFSEo0SWFzcXJRT19yQUhrd3ZSdGdTTWV4ZUFD?oc=5",
+   "date": "Sat, 28 Nov 2026 13:03:56 GMT",
+   "vu_le": "2026-11-28T13:20:35.067773+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Démystifier l’économie | Quel est l’impact de l’arrivée d’Anthropic sur les marchés ? - La Presse",
@@ -6411,48 +6453,6 @@
    "titre": "Anthropic (NASDAQ:ANT) Stock Surges 11% to Reclaim IPO Price as AI Stocks Rebound - Stocks Down Under",
    "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IaE40RWRwVC1DcEZWRFo2RjVBM240NHFjMXJreDFMbEtxLU9TZ2szS2dzeG9QSVlYZ05vcll4OWhUV2FxM2wyODlrTmhnSFVKNlRsSW5UTHItV1BQOVM5Mmh0dmlESWMxdXlISEZMeDFlSm11ZS13S1NOLUY1S0E?oc=5",
    "date": "Fri, 27 Nov 2026 20:07:56 GMT",
-   "vu_le": "2026-11-27T20:10:34.391402+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Bitcoin en chute libre, Anthropic s'envole : Le marché financier joue à contre-courant - Cointribune",
-   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcUYtRlJKdlFGS1lCTG9yVDdCMkNfTjZhNDJvQ1B3ZkVGUDdRWGRqWGhpN0VaWHRoNklxRU5MRUJiM044TUtRSDZTS1FiT3MwbERDQjdETUl6Rk1zaUhsdUxLSmlxb2h4bDF1YzFtbEViNFNlLVE3WF9kaHF6Z2ZZLTI5c1lqcWo5alF6cVdlM1QwdDZhR2Y2dnU4MEZEblVqZjhzYnl0bjF2QXBxbmR6Y1Nn?oc=5",
-   "date": "Fri, 27 Nov 2026 20:00:00 GMT",
-   "vu_le": "2026-11-27T20:10:34.391402+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street ends higher as battered AI stocks gain in volatile week - The Korea Times",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZmM2ZFdoaDFodjN5STZqOWpLODdicXhWS1hYTVZKRmRnbGwwM2RGRTVnOEJDb29IbVJBbTFRVkpHSjcySldXLWx5Um9aR1VWOTZWNjJBWlhBSklDTHVudE9Wb3AzY2dFaHFBeDVoS0VuMVgwYnNnRHdQeXNPX2d4VV9Ec0EwUTdzbE9JeFd1STR5NUVfdjJsQjJOeWM2VEwzM3JhcUNuZXlJLTRMOENBNtIBtgFBVV95cUxPZ3NlSG0zUkFUWUZsRFhpSERGQU1NNEY5aTZnREloSHFmdkhYLXhKbnItWTlUUXA1NnluTXRpRTA1cEY2Z2VLaTVNVTJfd3ZOZ2g0b2VjOGJ0SGN4NExxdUFqMHdrNkxiTTdqbm1rUG8xTG1ZUUJVRzllLWdwRzVxVE12WWxZVEpqOTU2ZzAyZi1VQ0ZHVTBkQzR6Zmh4RnA0b0VOcVFtYlRHUEk4dkNGeGYxdzVDZw?oc=5",
-   "date": "Fri, 27 Nov 2026 16:44:00 GMT",
-   "vu_le": "2026-11-27T20:10:34.391402+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Bitcoin bénéficierait « massivement » si la Fed effectuait ce mouvement inattendu - Yahoo Finance France",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWlNHUXF1Z0lzN25CUjJNWmFSMGRRd0ViTVFEam9MSVZzMzRza19QOW9ZQTFuOFExS2EzR1NvTENMUkE4SkpCLUM1VF9LOEhkUXZpVVBpMlkxTXhtYnpEd0xia3pDeFl4ZW56UW1ROW0xRjMwLW5yQm5La2VXdnlMQklIZ2RBQ2IwWHdFbDNKZHVDOURmMEU4bTYxX28yNGVRaE9JWlhnMEJNZHR3WHEtTWRmcw?oc=5",
-   "date": "Fri, 27 Nov 2026 18:35:05 GMT",
-   "vu_le": "2026-11-27T20:10:34.391402+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Market Wrap: Stocks Gain 5.69%, Led by Basic Materials and Communication Services - Morningstar",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeVdkU1o0SFVTU2VZcFdkdUZhVGVEVkNWaGRHcGZRLWpfeHU0aTFPekRuWWhZUTlyWi0wU2VrRENHdnBSZDhTMnVlVzlHRVFxYWpLWGtRMURfT1QtYjRLRkRWWVN3ZXJCU29zSXhyd1hxUkI2eHQwODNIbVFKSTUxYTd1c1M0TXdBeDY3eHdPSGhyME9pYmhJUXkzWXFFUHMwUmRuR2VTR3U3YnRLQ0E?oc=5",
-   "date": "Fri, 27 Nov 2026 19:41:15 GMT",
-   "vu_le": "2026-11-27T20:10:34.391402+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Aperam (ENXTAM:APAM) Stock May Trade At A Discount Following Capital Markets Day - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcWwwYkRKWHBVSFpTWFBDN1JvYXlBVDVJOFpKVktOUG5KOU5lUzZ1QVBKWUNjQjEtdE1oUTRYM0UzVDA5a2VZWTNUOHl3NFJ3Z3F3TVhTZXlBdlRJTkhjdHFpakU3UHZmU2JXNV9fVTJka0VFazVtUy1tOW5nbHh5al9IZFRKOU9Uekl6cmo0M1BQVkMtX0FvNw?oc=5",
-   "date": "Fri, 27 Nov 2026 19:14:02 GMT",
-   "vu_le": "2026-11-27T20:10:34.391402+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Palantir Stocks Climb 3.72% on $300 Million Poland Defense AI De - GuruFocus",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjEyd2tLa0V0VVBEWGYzQ0RWeHc2bmJyc0ZSR05UZE11aDhUV1dhWGNPQXdFWnpFODJxQm5LZXMzOEpRbVV1Ti1nTnlDM3FyM0FidHdYQWktMktDZXVtVEJxdHhDaWsyQUJKVXNlZTE4cW1haVg4cjRRZmV1THNMRE9YMkN5VmpJY1FKRlZMclo3a0xfTDRkRnh6a0RXVUJtZDB0Vw?oc=5",
-   "date": "Fri, 27 Nov 2026 19:35:22 GMT",
    "vu_le": "2026-11-27T20:10:34.391402+00:00"
   }
  ],
