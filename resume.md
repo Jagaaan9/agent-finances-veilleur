@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54599.31 EUR, jour -0.25 %, mois -25.06 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54605.18 EUR, jour -0.24 %, mois -25.05 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -310,6 +310,8 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Crypto] Whales Snatched 121,000 Bitcoins Amid 30% Drop - Cointribune
+- [Crypto] World Liberty Financial’s WLFI token plunges 59% in 24 hours - Crypto Briefing
 - [Pays émergents] Africa’s richest man is taking his mega-refinery public in a blockbuster IPO - CNBC
 - [Pays émergents] 5 Growth Stocks with a Competitive Advantage to Watch Before 2027 - Equitymaster
 - [Défense, énergie, matières premières] Why Defence Stocks Are Rising Today - Equitymaster
@@ -457,5 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - The Globe and Mail
 - [Crypto] Franklin Templeton Adds Hyperliquid’s HYPE to Crypto Index ETF EZPZ Starting December 1: 12 outlets compared - NewsCord
 - [Crypto] 3 Cryptos Under $1 to Buy and Hold for the Next 10 Years - 24/7 Wall St.
-- [Chine et Asie] [Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제
-- [Crypto] XRP price at Nov 27, 2026 at 7pm EST Crypto Prediction
+- [Chine et Asie] [Weekend Money] AI Regulation

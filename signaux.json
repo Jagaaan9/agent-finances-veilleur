@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T07:30:36.609106+00:00",
+ "mis_a_jour": "2026-11-28T07:40:34.989072+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54599.31,
+   "prix": 54605.18,
    "devise": "EUR",
-   "jour_pct": -0.25,
-   "mois_pct": -25.06,
-   "volume": 37.13115158,
-   "volume_relatif": 0.17,
+   "jour_pct": -0.24,
+   "mois_pct": -25.05,
+   "volume": 38.2719087,
+   "volume_relatif": 0.18,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3656,6 +3656,20 @@
  },
  "actualites": [
   {
+   "sujet": "Crypto",
+   "titre": "Whales Snatched 121,000 Bitcoins Amid 30% Drop - Cointribune",
+   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQUFuLWVyVnlLTnRkd2pfaWhJLWx5WVczSUxxWDRjMUdTcHF5QkRiU1FsWmN5Vm5FaE9TdnZMcjhaS2FCZWVNYkF0S0JWRFEwVEJNbUFZWGJJeGp0bTZxbTN3QWlabjRNZHYzNTlJZ1cxdFpZLUgyVktmaDJjNkR6RHM4MmpWYm9YWUE?oc=5",
+   "date": "Sat, 28 Nov 2026 07:05:00 GMT",
+   "vu_le": "2026-11-28T07:40:34.989072+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "World Liberty Financial’s WLFI token plunges 59% in 24 hours - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdEZaTkM3MnFVeFpHcGk3cVRFV0dPWXNwQXljRFZUUGlSMC1XTmNwbUdsdGNUdXpCb1FOLWdubUhqbnNHN2pCSkxJdDl6dl9mblNtUjEzcEFHc3U5ODh3d0RsS0lXUzVkVV9vUTMtaDYzRFNtMThiaS01a2JNN2x3WDdrZnN3SWxM?oc=5",
+   "date": "Sat, 28 Nov 2026 06:21:14 GMT",
+   "vu_le": "2026-11-28T07:40:34.989072+00:00"
+  },
+  {
    "sujet": "Pays émergents",
    "titre": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO - CNBC",
    "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzJ1aFdoTmJMblVXMF9fR3pMaXBqbjBzMkFmNTVuMTFzcnlhaGpQRk1VdVRtQXQ4djVsWGxOMTVMTFBiR3U4dV8tZ3NQN19xbmE1Tlczb1pJOWNOZmY1dVI5Z3ZNejhqOUtTcEVUdjRqbzY3NVVPU0VxWUJSekwzOXVJdDdoX3NtWDBF0gGQAUFVX3lxTE5IV1ZJamZyaVZDR2lTREJiQkt4N0tfMnlIUUNVclBDUG9BUmZLTmtpWXB3NUtRVjRzSlRZRmVOQjBiamtUNEU3eWY1WW1kSms2S2tvbzREcEJnMFlTMEIwUnFCTExUU0tYXzMzZnpNN3lSeWxWc29jRG9XcXVGeE5tT2pDaFBadXRCSWhiMnFZaA?oc=5",
@@ -6440,20 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWRKYWVPMzZIT1prQXdCcTFCNjQtd1ZGcGpHd19rSXg5bDBOdFpZSkdhNjlEMzQ4ZGU1ZU1XYXhiUnJCMFQzbU5GNXZReFlEVTNFVTE2cXB6LTV1d1AxdU5obkpLTWRKeWdZelU4QUVxUURLUlFIU2pHMFRmR2JZcnd6eVF2OUFPelJCMExtMVowVWJid3NxMjQxa1JIc3J4OW1OOUs3YXpTLW9GaUNjWk9taVgwZ3VZVmc?oc=5",
    "date": "Fri, 27 Nov 2026 10:00:10 GMT",
    "vu_le": "2026-11-27T16:00:36.394656+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "EU-Indonesia Trade Deal Interview: 50% Trade Growth Target, MSCI Warning, Investment Forum - News and Statistics - IndexBox",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQkxCeWtUcEdwdDVSdEMxYkRZRkhqMWZsSGplVnJWLUNKVkNka29NUjJkNWV0azk3R1EzVm9TWnBqZWxOY1FMTVJPZDd6dmwzUE8zU3g1M05TU1huSE5vRXRaRE8wMDdjRWJOczQ2LWt0Smx0alI0ZEZ5YWRHYXZYMVBEN1JwVGpZZ3RmS2hZMnBpeFZLRWhsUkt4VnprVUFf?oc=5",
-   "date": "Fri, 27 Nov 2026 15:12:47 GMT",
-   "vu_le": "2026-11-27T16:00:36.394656+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "US stock selloffs trigger a new kind of dollar bounce - WTAQ",
-   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZjRpZ2puTmxtSU1oUUk3R1pVcFAwZGxZa00xd3ZjMWQxZVZtUEN1MG5QUTNicllBS1RPbTFvaVpiM0lpVnZQT01DWjktaERhanVQUEtibWZUOGl6bmtXaVZZMTA3eVhCS2dvTkNXWXNJQUFnTDBFVnR3a3JWTWdXZ2FEYk5XWUl5TFE?oc=5",
-   "date": "Fri, 27 Nov 2026 13:36:12 GMT",
-   "vu_le": "2026-11-27T15:40:36.363132+00:00"
   }
  ],
  "erreurs": []
