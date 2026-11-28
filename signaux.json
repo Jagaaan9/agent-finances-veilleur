@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T05:00:36.814970+00:00",
+ "mis_a_jour": "2026-11-28T05:10:35.584469+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54788.56,
+   "prix": 54586.78,
    "devise": "EUR",
-   "jour_pct": 0.1,
-   "mois_pct": -24.75,
-   "volume": 4.10753023,
+   "jour_pct": -0.27,
+   "mois_pct": -25.07,
+   "volume": 4.14306108,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Pays émergents",
+   "titre": "Ruchir Sharma: Why the World Is Betting on America | Podcast | In Good Company - finance.biggo.com",
+   "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcWoyQ01fNzVPWmNSWExfdUoyMUw0bVdITkJtVnlETzlsSVlwblZZWXRhWVg1RDdWWW5mbnFONU0zWlJiajNpcVNRWGktZEVEeWNFM0JDbUkwNlJXWERn?oc=5",
+   "date": "Fri, 27 Nov 2026 11:19:13 GMT",
+   "vu_le": "2026-11-28T05:10:35.584469+00:00"
+  },
   {
    "sujet": "Intelligence artificielle",
    "titre": "Nvidia's Huang Return Puts Five Indian AI Stocks in Focus - Industry Odisha",
@@ -6447,13 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVl6ZUMtZWF1eWN6UGU5V1lWeG5XeXlGNmRJN1RaMndTTVV2bU1STmZrdWZWd0x3eVJRY0R2VW50bWc5YUlxMWZseG1fdzBEXzItcFc0M2xzb1VkNlZoRFByYXI0Z21fM1AxOUtRaHNDcWpjV3FiSnQwNTB3eG5XV2lJODR1R25CYjdfY0lMUXp1ckhidWdFdk44QmY?oc=5",
    "date": "Fri, 27 Nov 2026 10:44:10 GMT",
    "vu_le": "2026-11-27T14:30:41.530524+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Chip stocks rebound to cap a volatile week - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVVDM3VCdk0wUTRIMks5NmY3MHBFN0pZb2dVeFpHVXpCRV9iTXdMeEpNSHZMSi1IOGNLZVJWTTBVVmxkd0xEUzNzZVM5WU9vRUlQaUloa2x1eTQwYmY4SGhWVWctR29uTm85R1Y1VHYxQVdSSkJMSGZHVGg4OEx2MnhvcWlIYl9jUXlhRGpsWGpqRE9FYkpqYW9GSTFvN2pvcnNkVEs5LUQ?oc=5",
-   "date": "Fri, 27 Nov 2026 13:47:18 GMT",
-   "vu_le": "2026-11-27T14:20:39.793067+00:00"
   }
  ],
  "erreurs": []
