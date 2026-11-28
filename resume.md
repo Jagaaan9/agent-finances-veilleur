@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54061.85 EUR, jour -1.23 %, mois -25.79 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54085.52 EUR, jour -1.18 %, mois -25.76 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -286,16 +286,16 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -0.08 %, mois 21.84 %, prix 8.736 EUR, capi 8810130130.895283, PER 10.9, volume x0.29 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
 - SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour 7.52 %, mois -24.25 %, prix 119.5 USD, capi 579228478930.6643, PER 6.7, volume x0.77 la normale
 - Tencent Holdings Ltd Unsponsored ADR (OTC:TCEHY, secteur Technology Services) jour 3.97 %, mois -8.56 %, prix 45.29 USD, capi 404554837871.25, PER 12.2, volume x0.7 la normale
-- Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP- (NYSE:BAC/PP, secteur Finance) jour -0.34 %, mois -1.23 %, prix 14.51 USD, capi 338593252758, PER 3.5, volume x0.89 la normale
+- Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH- (NYSE:BAC/PK, secteur Finance) jour 0.52 %, mois 1.29 %, prix 21.12 USD, capi 338593252758, PER 5.0, volume x0.53 la normale
 
 ÉCRAN France : meilleures performances sur 1 mois :
 - Clariane SE (EURONEXT:CLARI, secteur Health Services) jour -1.54 %, mois 46.05 %, prix 4.618 EUR, capi 1649834769, PER 130.5, volume x2.03 la normale
@@ -310,6 +310,14 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Precious Metals Rally as AI Trade Revives Risk Appetite - WSJ
+- [Banques centrales et taux] Le président de la Bundesbank prévoit que la BCE pourrait continuer à relever ses taux d'intérêt. - Vietnam.vn
+- [Chine et Asie] Meituan (3690.HK) stock price, news, quote and history - Yahoo Finance Singapore
+- [Rachats et fusions] GoPro stock: Revised proxy advances Starman Optical merger vote - ad-hoc-news.de
+- [Pays émergents] Where to make money even as a tech sell-off grips markets - The Telegraph
+- [Pays émergents] JCI Rallies 3.73% as MSCI Reform Hopes Lift Indonesia Stocks - Jakarta Globe
+- [Crypto] Crypto Outlook: Is Uncertainty Still Holding Back the Market? - FOREX.com
+- [Crypto] Crypto exchange Bybit declines to publish full report into $1.4 billion hack - CoinDesk
 - [Marchés mondiaux] Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - The Globe and Mail
 - [Marchés mondiaux] Wall Street’s Great Escape: 3 Rescue Squads Fuel a Thanksgiving Rally - Investing.com UK
 - [Chine et Asie] Hong Kong top 50 Today — PRIMEXBT:HKHSI Index Chart - TradingView
@@ -452,11 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Intelligence artificielle] Stock Market Today, Nov. 27: Chip Stocks Rebound Sharply on Broad AI Enthusiasm - The Globe and Mail
 - [Crypto] Bitcoin price at $59,600: eighth day of ETF outflows - CryptoTicker.io
 - [Crypto] Crypto news: Ether -4% to $1,659, Fear & Greed at 10 - CryptoTicker.io
-- [Bourse de Paris et Europe] Bourse : Conseils boursiers, Analyse technique, Cours de bourse et CAC 40 en direct - BFM Bourse - BFM Bourse
-- [Pays émergents] Wall St Week Ahead Volatile stock market confronts jobs data, rate view as next tests - Reuters
-- [Pays émergents] Indonesia arrests three over alleged ‘deep fried’ market manipulation - Financial Times
-- [Pays émergents] Mint Money Festival | Gold is less volatile than other asset classes despite the correction: WGC's Sachin Jain - Livemint
-- [Marchés mondiaux] AI STOCK SELLOFF PUSHES WALL STREET INTO CORRECTION BEFORE A SHARP REBOUND - Magzter
-- [Banques centrales et taux] Le prix de l'or rebondit après une série de jours de baisse, la Fed devient soudainement le centre d'attention - Laodong.vn
-- [Chine et Asie] Crucial role of China’s capital market emphasized - chinadailyhk
-- [Crypto] Trump-linked crypto token WLFI plunges 50% to record lows - CoinDesk

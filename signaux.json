@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T14:00:36.840925+00:00",
+ "mis_a_jour": "2026-11-28T14:10:36.589164+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54061.85,
+   "prix": 54085.52,
    "devise": "EUR",
-   "jour_pct": -1.23,
-   "mois_pct": -25.79,
-   "volume": 60.41697072,
+   "jour_pct": -1.18,
+   "mois_pct": -25.76,
+   "volume": 60.61720534,
    "volume_relatif": 0.28,
    "capitalisation": null,
    "per": null,
@@ -3371,14 +3371,14 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
+    "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
+    "prix": 40.81,
     "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3399,14 +3399,14 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
+    "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
+    "prix": 40.82,
     "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3346907996277,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PP",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP-",
-    "prix": 14.51,
+    "symbole": "NYSE:BAC/PK",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH-",
+    "prix": 21.12,
     "devise": "USD",
-    "jour_pct": -0.34,
-    "mois_pct": -1.23,
-    "volume": 160626,
-    "volume_relatif": 0.89,
+    "jour_pct": 0.52,
+    "mois_pct": 1.29,
+    "volume": 110706,
+    "volume_relatif": 0.53,
     "capitalisation": 338593252758,
-    "per": 3.5,
+    "per": 5.0,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Precious Metals Rally as AI Trade Revives Risk Appetite - WSJ",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORmhUS2hfSENsVnNTc1FUcmFiYjZPSndvTnpmQzVsTDktbVEtTUpPZE9oTGFhdFRkckd4Y3VUMURSeThfSVU5NGtnc2tRbzVsVmotNlVoVUhBc0ZRZ1ZsNHhaelFXbFNxRy1lTjgxbmEzQTNwVFNMT2hldC1jejN0c0VWM0NZZ3d4Vmx6RHJUdFNwTlpmUU9qT083NkVGbTBZMW0xa0hmbG1kMlBwSDRSQm13?oc=5",
+   "date": "Fri, 27 Nov 2026 20:20:00 GMT",
+   "vu_le": "2026-11-28T14:10:36.589164+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Le président de la Bundesbank prévoit que la BCE pourrait continuer à relever ses taux d'intérêt. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3E4UU15TTUzWmZJckNUMjBiWG9Sd0JJUEV0ejZESF9OOUtFUkF1clo2Q3UyMDM3RlRCeGJ0YWxpX2lyNTQ4czluR2ZKd0owdTZSbzNFNW4yMnpvT05BYTJDdDRLbVdVQWp6S1hyUXg5VW5yby1IOG12XzVBRy1HWjhXU2stSU4zeWhNRUllWQ?oc=5",
+   "date": "Sat, 28 Nov 2026 13:54:30 GMT",
+   "vu_le": "2026-11-28T14:10:36.589164+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Meituan (3690.HK) stock price, news, quote and history - Yahoo Finance Singapore",
+   "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WT0dfeDZpTFZIUV9mbDVPb1lScWtBWU5WZEtNbjl0SUEtdjRKQUV3ZW1SYVRFYU4waUJmWVFXQ214TXptUHFCRk5YYUo0ZVMwbXRYd0pR?oc=5",
+   "date": "Sat, 28 Nov 2026 05:48:41 GMT",
+   "vu_le": "2026-11-28T14:10:36.589164+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "GoPro stock: Revised proxy advances Starman Optical merger vote - ad-hoc-news.de",
+   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTGs4SHByWjUzelhSWVRvZzU4YzliNS02cVpCSXBMLXJkRnJUVk9nd3EwZlFiOVg5UUZhSXpoYWh3dV9mVG1yMGJCMElETHhvTDdIZkI0RE16WjNONFBsV0VoMC10N0s2YlA2MmR3akNMS0NBVm9SRGtWaEdJSFFSU2lEd1VsQi1kVUZCY0lrbDh5VWtoNFJ0NkI0R2Ffb0h2Q25pYlZzMGtxTzBFWjBGTHZfdy1KTE1ZelJCSjFoN2lLaTQ?oc=5",
+   "date": "Fri, 27 Nov 2026 21:18:57 GMT",
+   "vu_le": "2026-11-28T14:10:36.589164+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Where to make money even as a tech sell-off grips markets - The Telegraph",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1EzS28wVEUyQmxLbFN0RnVLaE9oR3VLSkMxUDZnRGF4dVN5SEowcFdObnM2cUtnWDNpOHJ4MkdDeDhhMDE3MVhCZTFRRDlnOE5oeGZyS0xheWpncHMwdzVlMndfczItN3NFSkNaRGJnTy1xT0VvdG1rTEVlZ2VwcDBRNnlsdlY1OEhPZU93UVp6dlM1RnVZY1p6WDNIQ3ltT3JMMnQ3b2JmQQ?oc=5",
+   "date": "Sat, 28 Nov 2026 14:00:00 GMT",
+   "vu_le": "2026-11-28T14:10:36.589164+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "JCI Rallies 3.73% as MSCI Reform Hopes Lift Indonesia Stocks - Jakarta Globe",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUU5LVE9JTGtjb2MwV0gyLTkwWkotTk9xcWNGaTJzWEZyQ2xEejdEQTRJUVNaQXp4Nm1oSC1OdmdZZXJ5emVDdWQ1N2ktMS1rZDFzeEZhYkpKTGk5TEtuYVM3V2JEaS1qbzU4bThnbG8tNHk5eVNReUhuS1dQelBNRjB6ODFCRFRkVFJNSTVWRzNMOWZVQ3c?oc=5",
+   "date": "Sat, 28 Nov 2026 13:53:00 GMT",
+   "vu_le": "2026-11-28T14:10:36.589164+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Outlook: Is Uncertainty Still Holding Back the Market? - FOREX.com",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTVvVUVSWGo0TTlqcDNZbzZXNExONm1panRFczN2bHgzSXBDYXJfeHI5eWM1cUdmUmNpWEpLcWx3b3g1VmxfU1Q4cjZNNmdtUTExc3d0UEloYXpjd1piRXlzMURBb3VoYThvT3l1VGo2WW1GV2hhTGdkM0pIZFVLYkV3RlpQS2hTMlFVQU0taTQ2R1lwQ0FUVGZ3Q3AtZzBFb25BbTEwSU1iQdIBtgFBVV95cUxNb0ZQSlRYTEZDT3NrdXdodnRDYjA2dFh4S0Y2RjQ4X09SQkxuOVhwZjdRZDA0QlBYaXA3TG1sNW8yb1JnY21uWkVQX1F2SzVkN1MyQl82RmJFTUhUR3BNa2FUNUN6MWRCMGdXOGhuRlJjSks4bjNxdjlHNWU0U090V2h3bG1jd1ZpeGZsdXdyeUo4ZTRfN2txY2dJc0phd3laeEFVSjNXLTRkbmptNEF5QmtEMnJFUQ?oc=5",
+   "date": "Sat, 28 Nov 2026 13:10:07 GMT",
+   "vu_le": "2026-11-28T14:10:36.589164+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto exchange Bybit declines to publish full report into $1.4 billion hack - CoinDesk",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdjNmQnZqNmVKZzIwbDBieFFRYXJuNThtRm9jR1VOY2xVTko3VEtyZUJSYTBZR1JKeVZuS1dxUWsxcW91MkNGYU9HcF80Sm40U3lVemExUklkVlVycU53YmU2ODN3OENfaGRpQnd0Zzhvd2lxR09VYWExQ2hJcTI2bFdKWDluUnBjR2dOei1NR2VOTUhmd0o4SjVRdVRUMTNzakVSbkgxQjU3d0dEaExZUzdva3lXZkU?oc=5",
+   "date": "Sat, 28 Nov 2026 14:00:00 GMT",
+   "vu_le": "2026-11-28T14:10:36.589164+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - The Globe and Mail",
@@ -6398,62 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2xjZlBxLWZ0YzUyWFhTMWxVczJSNTc0dGNtcWxaVjM3ZlMyMjFROEVxSkZGY1YySjVQOU8xdGFpcS1Ha0lTZUphb05ac1dDYXBnSjBuWjdpOGpUenVRNENKdWhHUkowLTU1Z3NMUWozY24yYlZRY3RVQ3J6S2o0YXR5akJEUkc4MTlxV0JGMWhLVHZlV2RfN2V3?oc=5",
    "date": "Fri, 27 Nov 2026 21:20:00 GMT",
    "vu_le": "2026-11-27T21:30:37.214170+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Global X Defense Tech ETF (SHLD) stock price, news, quote and history - Yahoo Finance Singapore",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaWlBkWXk0aUhoQ2dJVXdscERLSDVSVkd2Q1ExUHRGQV85dlItWXhwVXh0ZzV2b1ZyaHRiZWs4b2RNdFQ4ZmdHSy05Y1IzSzd3cUE?oc=5",
-   "date": "Fri, 27 Nov 2026 10:05:52 GMT",
-   "vu_le": "2026-11-27T21:30:37.214170+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Should You Invest in Anthropic Stock Now or Wait? Here's What History Says. - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNamRsUC03N1o4d29seE02bGgwbXdncmNNcUdMRHQ0Sy14QzZYMHY0QmdtZklHREk3Tzd6NlpGdUNheWZqaklOTUJrNUxLMWViT3lSMGxSSW0wTDB2SGFtdDdVZXNBYWpzUU9WNFdRalMydHVISVEzQ29XUHR0OXFsbWoyUjV5eFhYZHlyc2J4azhlc0Izam83ZFA2ZHZxdHI2YlVqa1VOUmlJVWJ0MnpZdXlZdTM1WWFmeTEzVnA0bThVM2ZFc3RPelY4U2R1YUdQRHVDNTFBQy1QM3NpTnF5NHU1anFzZHVYVm1LVkZYaVdkUQ?oc=5",
-   "date": "Fri, 27 Nov 2026 18:43:27 GMT",
-   "vu_le": "2026-11-27T21:20:35.637140+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "SA Asks: What's the best-positioned chip stock right now? - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbVVCMEFuNXZYc2dYTk83S1REWTBqMDQwYng4blEwLW1tUjZfVFV1dWFjMTU5VmlTSmliWVhEVWxUZi1IeWxfV0ZkNGFpcm9nQjhyTHVaRXlvcTBYN1dndDFIWHhNN3dVa3pXQUFMRW43YkFZeHYwNHUzdmpqTDltVG1rVmhDMlg5LVd2TjVTQ2gxMzVJS3NsaDJrWFZ3UDFNYTVEazBsVzhneTM2M3laU3pRdEtQMGh3bGc?oc=5",
-   "date": "Fri, 27 Nov 2026 20:15:51 GMT",
-   "vu_le": "2026-11-27T21:20:35.637140+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Stock Is Up 11% From Its IPO Price, and One Analyst Still Sees 63% Upside. Should You Buy? - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ1BzYXZzWHpwQkFqSTFVbnVYSEtrVldCbGh1MXo3ZXJaM3VvaU5IMWp2T2g0ZHJ3dkJjLWJaMU9lUGVGSGxxRnl0ajczb2t0WHVWT3Q0R1R2R1JuQzVHUEV5N3hmTHF0bG83VW5JODFKMlRPM0lsdXJUYmVFSS1vcEZxQm5uUy1TSko4NEFMWHFUbXhTRFNtZkJUYmhGZjFWUk9fak9OYURrc20xV2hPNmVPallnWW5Sd2x5LUxuamxQb3p5UnByNThpUWZDOHUwQ21IVQ?oc=5",
-   "date": "Fri, 27 Nov 2026 21:03:36 GMT",
-   "vu_le": "2026-11-27T21:10:36.535751+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "The Weekender: Wall Street’s Great Escape — Three Rescue Squads and a Plunge Protector Thanksgiving Rally - The Dark Side Of The Boom",
-   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUmh3ZkppUXdvSDREbFYxRExQSERlaEt0WEUwRFJIeXRCdnJyQ2NzVHlSb0VtVDQ4cWZXcExvakFXcHJ0VDVjMlpfZWhWVnlLdXg1b0d6QVRuS3hPREx4WlhSaW1mZDdISWVxVTJSM1N3amFkN1Ezcl9SNWtTVEhDYUpn?oc=5",
-   "date": "Fri, 27 Nov 2026 21:08:56 GMT",
-   "vu_le": "2026-11-27T21:10:36.535751+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Greg Faranello sur les facteurs déterminant le calendrier des taux de la Fed - fr.qz.com",
-   "lien": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJZXBTZzNod1NLTU5WaGFYTzdMN0NPS0cyZFJOR3E4X3dsbDkzWUcxaTBvYXJOWUdXLTNzUmU2RTIyaF9sUkUwRS03UDdIY1VNWlV1QkhuV0VPdHhJVkM1S3FQdkJpOVdycFE?oc=5",
-   "date": "Fri, 27 Nov 2026 19:36:13 GMT",
-   "vu_le": "2026-11-27T21:10:36.535751+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 28, 2026 at 5pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkRPMkw0VklqZURfRU9HSXM3di1sUndnWjZoTkI5NEttdTVxNnBqa2c5M3VIcWNZaS1TREgyQmF1Nm02QkhVWEN4VVlRRDAwUkhCYlMxN21oVFNqc0NWUWhyMEUwVG9oUGNzZ1lFUlRoRkwyVjd1Tjk5NVFfbHVidWhRalZadVR3YWc1YXc3RDY3ZFRzNmVfNHV2Vk5TU2FKcXdLNWNhbW1PQXFTQXc?oc=5",
-   "date": "Fri, 27 Nov 2026 21:04:41 GMT",
-   "vu_le": "2026-11-27T21:10:36.535751+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "S&P500 Forecast: SPX jumps ahead of Anthropic’s record IPO - StoneX",
-   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZi1nc0ZuX1FtRkZBblBabWtyaUQtZnBwczJFUkRrYThXbUt4amtjaV81NUlLdE9nSm56ZDBEWlFRVkRma0tCV2xnSGVlNlIwTC0zVG9MbEdkUFlKU29ZaTh5NUwzQVRLcFNIVndVMDhPRkR0YXVMWEVySDRFOVE2MGJPSXVYZUQxSFhtWFZTNFE0YjhaaEpucjdFeG9naV9GcF94REtZREs0ZFU?oc=5",
-   "date": "Fri, 27 Nov 2026 19:34:38 GMT",
-   "vu_le": "2026-11-27T21:00:35.554276+00:00"
   }
  ],
  "erreurs": []
