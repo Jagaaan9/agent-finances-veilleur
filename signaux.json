@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T10:10:39.797815+00:00",
+ "mis_a_jour": "2026-11-28T10:20:35.373832+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54313.96,
+   "prix": 54300,
    "devise": "EUR",
-   "jour_pct": -0.77,
-   "mois_pct": -25.45,
-   "volume": 47.85479271,
-   "volume_relatif": 0.22,
+   "jour_pct": -0.79,
+   "mois_pct": -25.47,
+   "volume": 49.24520522,
+   "volume_relatif": 0.23,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 10535061261,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 10535061261,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3371,6 +3371,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 274.96,
@@ -3407,20 +3421,6 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
     "capitalisation": 3346907996277,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "ANT Stock Quote Price and Forecast - CNN",
+   "lien": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5McUR5TmtDcGZJcEYwdFMzT1l6d0hmeU1ncUZIWjNaVk5RRFVCdnFGWXFENUoxaUd4WXFDWFhKWTZyTXRuZHVCek5fYms5THc?oc=5",
+   "date": "Fri, 27 Nov 2026 20:34:42 GMT",
+   "vu_le": "2026-11-28T10:20:35.373832+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Google souhaite louer davantage de capacité de calcul auprès de SpaceX, selon Musk - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTTI0eHlZdHdWMHJBbDktQW1fZUVwQXRoOVdkOUJKUVZDbHg0SEJMNzZ6TkJqRHVPaDNHYy1IVVAyNXJDSnNFT1hDanF3RF9OMXEzQ19JQUkxUnFpRU1IVnAtUDZTYV81blhpRkF0RFRjNEpjTnhEZUlweDF0Vml5Q0tGbTJGak5vYXVTTXFJNzlhY2tjckVrbDJ5a1ZtUEV2R2ctN3NOZXF0ZkdfUVhQcWpMTUxJUWRaUGVXTXJWX0tyd0YxOTFlTVhnZElZbXZnUDkwWElpRnY1THhSSXkxOGZQVnVrSkYyYW1EcWdIYUx4bnpzMnfSAfYBQVVfeXFMT00yNHh5WXR3VjByQWw5LUFtX2VFcEF0aDlXZDlCSlFWQ2x4NEhCTDc2ek5CakR1T2gzR2MtSFVQMjVyQ0pzRU9YQ2pxd0RfTjFxM0NfSUFJMVJxaUVNSFZwLVA2U2FfNW5YaUZBdERUYzRKY054RGVJcHgxdFZpeUNLRm0yRmpOb2F1U01xSTc5YWNrY3JFa2wyeWtWbVBFdkdnLTdzTmVxdGZHX1FYUHFqTE1MSVFkWlBlV01yVl9LcndGMTkxZU1YZ2RJWW12Z1A5MFhJaUZ2NUx4Ukl5MThmUFZ1a0pGMmFtRHFnSGFMeG56czJ3?oc=5",
+   "date": "Sat, 28 Nov 2026 09:13:57 GMT",
+   "vu_le": "2026-11-28T10:20:35.373832+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China stocks surge most in two years as Beijing vows stronger market support - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZUR3MVJKNENMaWJBRGZpbTV5S1VwTHoxMzZVckNtLUVZbnNYU2lSaG51Ty1TYXB3VlRzd3ktX3l6UjNHd2xxdFdLSnBBcFN1NEc0dnBxbkhVbS1EemJJTldsNFIwYW5fREIwd0VEY0JlQmFkSEpJVGUzbV95WFl5cHduTE1yM2wzaEVnTU85Uk8yN1ZELWd3eHZYVTd0WXZfVFR2WjlXYXhVODZIMkpfU21LUGR3RnlqRldZ?oc=5",
+   "date": "Fri, 27 Nov 2026 10:56:40 GMT",
+   "vu_le": "2026-11-28T10:20:35.373832+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Crucial role of capital market emphasized - China Daily",
+   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LQzZpWkdyQ0tWY0djSVdmRVBaNExkVFVENXlHVjAtLU5JcllZNVpiLTJpc1pWV3pXSzJhX3pLR1lpeHNTeFI5eVFUVVo5V1JPTnJPWVdGQWpaeF9naDg1UjE2SU84ckdxcEwwT1dBOE9jLW44OUhZajdQRnlVUQ?oc=5",
+   "date": "Fri, 27 Nov 2026 22:56:47 GMT",
+   "vu_le": "2026-11-28T10:20:35.373832+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Global shares mostly rise ahead of Wall Street's reopening after Thanksgiving - BNN Bloomberg",
+   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUjBOajJvWllVS2ZVbFU2M1VkS05COXdlNDJwV3VacFdlRXNKUW9fY0NERlZ6QVY5TW5IeXhfdmxVbjY3ZVZlalNwZUU5dkxlcFFnMFBTUjVhWnV3bjBDSHhPUS1yVGFJN2dsMVNxT2xwN3l2aXRjRVJKeU8xc3BHa0QxcVdpckdpS0hYdkF5alhOdjRWYzFBZ1ZZUjBRRG5fTWEyT1hBZFlZbmowdERqTHFfY0RLcGQ3LW5UUV81UHdUQQ?oc=5",
+   "date": "Fri, 27 Nov 2026 11:27:14 GMT",
+   "vu_le": "2026-11-28T10:20:35.373832+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "3 AI Chip Equipment Stocks To Watch Beyond ASML - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZHN0k3QzR2MHJ6SzlrMXF3TkFPbTFGXzJuSlBnLXhBeC1ONWNtWmZGNzJTRFdyVXJ1bkRmMXJ3TjZmdkswMkNDSVQ5RWlXakhtUEF3eE5NaExxQXFPcXlOakUwMHAtbld5YTFkYWVEekswV3cyN1JXWXJQZ202c2ZmVVp5a2ZfNnJUNFN2bkxyRGZ0?oc=5",
+   "date": "Sat, 28 Nov 2026 09:10:41 GMT",
+   "vu_le": "2026-11-28T10:20:35.373832+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Nasdaq Futures Rally as Traders Pile Into Battered AI Stocks - Advisor Perspectives",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamNIZDVMbVBzSy1XNDBHb3dxb3ZDaF93NEt4NlZmLWZIWGhWZGxSejh4dVA1cHVUMVNuNVRBeExMX3hndWNUdTZuNnhRVWlDaWZGejdXcEZrNkloTTJialZ4ZnExcFh2bWNHRVBEbGhEdnJyR1pYVk5TS3FDbHZLQURVRHBONmhydG5ZR2g1dHljVEVELXE4NGFwX3RfNFhJLVVuci1MbFc0X2hS?oc=5",
+   "date": "Fri, 27 Nov 2026 15:08:12 GMT",
+   "vu_le": "2026-11-28T10:20:35.373832+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 28, 2026 at 5am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSmJQUERacGFDZjd2TjMtX251Q2Y3bVFHb05yekx4NzdmWVY3NDMxTUVWTGlfV2NqaVYtMUxiN29CMTZyWjBwamVUQk5HZFNVMnFrMGNtUWdSbXlvLVVOQWJRZm81dUhYOTZIZVNfY0dpSE82NHJhcnVCdjBIU09Hb2RzVFNjZkNVSktzdFNpSGtiSk9XYXFVUVRPcFRFWlpaYWVSOEZoQmliYzNfbXc?oc=5",
+   "date": "Sat, 28 Nov 2026 09:02:58 GMT",
+   "vu_le": "2026-11-28T10:20:35.373832+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Musk affirme que Google souhaite louer davantage de capacité de calcul auprès de SpaceX - Boursorama",
@@ -6397,62 +6453,6 @@
    "titre": "Cac 40 : un rebond prudent avant le verdict de S&P et la Fed - ABC Bourse",
    "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNDF1RENfaGk4RDc4dVAzc0dLZ3kyb216dHJFME5iY19oaF9GLU5OSUZ5VXZUS3pYRW9mb1Zsb19qQmc0SUpxc3FjQkE0Z3hwdE0tR0phZzVEMkdlQ2VDNnRQQnhqYkxaVU5LbnRWSEpfb09TOFZkNHZRZENYeXVsTF9QRHhVeWdJNlhNMWlMclRnZVAwYkhCdUt3WWpqQQ?oc=5",
    "date": "Fri, 27 Nov 2026 15:21:06 GMT",
-   "vu_le": "2026-11-27T17:20:35.638053+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "CPI | Altria Weighs Cash Bid for UK Tobacco Giant Imperial Brands - PYMNTS.com",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTJUSVZEOHd5bkstRk5ROTJ3T0h4elF2b2pEZVNmdHBtYzZBUmYtNnJHZ0FfNjlFM0UyM3haZE5tZWdpdWFGMVEwVnBPbU1SVlVoWHowdS1CNDdpbGJQMzdJNzhxVUtvUUNFSGo0MVRETWd5MG1Cbk5KaXpNRE92WkExZzRHVTFEcDdHUzhPX3VYMGFlM3V5cQ?oc=5",
-   "date": "Fri, 27 Nov 2026 17:11:24 GMT",
-   "vu_le": "2026-11-27T17:20:35.638053+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Is Empresaria Group (LSE:EMR) Finally Turning the Corner After This Week's Earnings Beat and Disposal Review? - Kalkine Media",
-   "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVHg3dnRwVmdZa015djFDV0U5Y2lZLTAxY1B1WTJpWUxOcHZMZ3Q1bVRvOWh2ZG9fMkFMS1JjS0NvTE1MMGFEaGl6QzJpM1V4RzF0SlJlR3ZhOXpRcWxoV2dMQl9BdGwtODdWQ2xlNzkzSm5JM1RHTE93RmdmclZ3QWd3bUtVTEkxNjlkUWxuNVVIcUdrdUlzZXBwMzZXUmZpWHNxSU5GYnVQNENsakN1dTRqdXM2YXBmN3IxWXhXa1lJZ2p5VDlNVkNSYm9RaFFFZTFaU1Naa3pfbGs?oc=5",
-   "date": "Fri, 27 Nov 2026 10:00:00 GMT",
-   "vu_le": "2026-11-27T17:20:35.638053+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Lupin Announces U.S. FDA Approval and Launch of Sitagliptin Tablets, USP in the United States - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeWo1QmV4VnpDb0VaUU1jeDAtWXdROWhWZUtneWVyZkpOS3ZFM3ZtY0lSVDAwX0Y3cE45X19zTnNlZ1kwaG1FejI4ckdLZWwtallfUWdEMlFNWm9uNEdEdUVGOElCUjJLRUtRWm1DVGl3bnR3SzV0TUQ0Y3BPQjZNUnh6R3V5XzRVc3M3STh6SldCWEo5R2JVdXZzTnFUNWFrWG5NVDFrMDNmSjVCbzdYSFlQZ3N0dEtmUkZJWjB3bjVVektIczFzUngtYTBvY2FYMklzVmhCdGVxMXNKaDFyMzltUDRkQUk?oc=5",
-   "date": "Fri, 27 Nov 2026 16:34:00 GMT",
-   "vu_le": "2026-11-27T17:20:35.638053+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Ruchir Sharma Says 80% of Global Equity Flows Went to the US—and It Still Underperformed - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyNnFaVGhvbGV5aTAwSUNFUVdpR0p2UkZXM3dhOVU2dllBNmdPVXlpSU1haWRYUWR5VmFsX3JNZVc2Q2VvU09BdnpUTkgtdGNXRUpGeUtEdjBFOTg?oc=5",
-   "date": "Fri, 27 Nov 2026 11:08:00 GMT",
-   "vu_le": "2026-11-27T17:20:35.638053+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Top Defense Stocks To Keep An Eye On - November 27th - MarketBeat",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOUQxckkzVmNfMU1rNmR4WkxubjZvU0daekJhZzZBa1QyZDNwUUZMSnhiaDMxWEJOUVpPWmk5SXBvQWI1am9ZSFR6SUdNNnFGZ3A1OUtKM3ZTMnpkdm9jN1dqMVhKN2NPRGgzTXp0eHdGbGFHdUJuR1RLZThzSlMxenp0TkZHN2ZnVkwyaDNhQm1jVUg1TWgxM2lVR05SZHJWVWVUWVotcmZvMF9SZ2c?oc=5",
-   "date": "Fri, 27 Nov 2026 17:18:40 GMT",
-   "vu_le": "2026-11-27T17:20:35.638053+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "SOL price on Nov 27, 2026 at 1pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0RYY3pRd0ZxSVBELVJmc3AtRWVBelF1Z1lBckVpbVJ4WVhtamhFMTR4eFE1ZkdJU3NKZlFlWGJ1WXZMTnlSNXRaV1pTZlJHUlhiZHktY1FYaUpnQ0ptbmlFc08xdkw2S3VmdlJNQlpOQmZWeXZrOXZUSEpVQTBaamllNUd3ZGJueDY2REtGLTg0aGgwYnBHSXEtbmdYOEwwRWtWSFoxVGFoTngtTHc?oc=5",
-   "date": "Fri, 27 Nov 2026 17:03:27 GMT",
-   "vu_le": "2026-11-27T17:20:35.638053+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 27, 2026 at 12pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWtCRzlBbXcxWkE1dzh4ZHdZWC0wTUx5YW9yUWtvNjFGTTlMVUZJZG9CT1NsUGVFa3RvMDI3VDlscDMweUdWOFlGeG9sZWpaTGMtekh3dmNQMHBHTVpOOTNnUjMtZndxVnZqYVVQLVk2ZU9ObENyZVRRUDdRYVlJdjZ3VVhjcG9WUEx0d1VGeDU2bGFYU0hvNG1iNjA1VmNjWkxBbWRuYklMSXgtSlhJ?oc=5",
-   "date": "Fri, 27 Nov 2026 16:05:11 GMT",
-   "vu_le": "2026-11-27T17:20:35.638053+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Billionaire Paul Tudor Jones’ Firm Nearly Doubled Its Bitcoin ETF Shares to 1.36 Million - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHlNbjZOdDZpV0trR2dBdW92eGszUzJTU3FhTGx6d3lGbnVYNHFteFhEUjc2T2hzUnNtMm53N2JGQmI0a0V4dUZLdlRzcFJTYUVQT0lSZ0pWMGtlV2drOGVaQW9sNkpSNk5IWHF2SElSbkxSUnZkeW52OTllazlkVndsWlJfa09HTlNUNTFibGQ2TnFncW1zZFZFN1Y0cmM?oc=5",
-   "date": "Fri, 27 Nov 2026 17:02:38 GMT",
    "vu_le": "2026-11-27T17:20:35.638053+00:00"
   }
  ],
