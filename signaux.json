@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T13:40:36.760900+00:00",
+ "mis_a_jour": "2026-11-28T13:50:35.109335+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54000,
+   "prix": 53941.62,
    "devise": "EUR",
-   "jour_pct": -1.34,
-   "mois_pct": -25.88,
-   "volume": 57.71361878,
-   "volume_relatif": 0.27,
+   "jour_pct": -1.45,
+   "mois_pct": -25.96,
+   "volume": 60.13494895,
+   "volume_relatif": 0.28,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3371,6 +3371,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOG",
     "nom": "Alphabet Inc. Class C",
     "prix": 272.44,
@@ -3381,20 +3395,6 @@
     "volume_relatif": 0.55,
     "capitalisation": 3346907996277,
     "per": 14.2,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
-    "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3413,16 +3413,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
     "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
+    "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
-    "per": 2.1,
+    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PP",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP-",
-    "prix": 14.51,
+    "symbole": "NYSE:BAC/PK",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH-",
+    "prix": 21.12,
     "devise": "USD",
-    "jour_pct": -0.34,
-    "mois_pct": -1.23,
-    "volume": 160626,
-    "volume_relatif": 0.89,
+    "jour_pct": 0.52,
+    "mois_pct": 1.29,
+    "volume": 110706,
+    "volume_relatif": 0.53,
     "capitalisation": 338593252758,
-    "per": 3.5,
+    "per": 5.0,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "États-Unis : les salaires repartent à la hausse, le spectre d'une inflation durable inquiète les marchés - FranceTransactions.com",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMkVPRTR1RHBsZ2tSM2xST05XOTdBaVB1YjNkY2dDeUVFZm9sT1ZqRThiUTNibDBJbURWdGFFNjEycmtjQk8wM0Q1d3hQbTFJNUlISXcydUpHZUtQVlB6U2RXOEJnNEtPdGlWUmkzZmVSWEE1WmpOX1BaelVDZE9nektzQTRCTi1QOXV4R0JMZDFYdnVGZWxCdmItaGxZbTBOS2ktcWR4blhLUG95c1MxQlMzUGM?oc=5",
+   "date": "Sat, 28 Nov 2026 11:18:30 GMT",
+   "vu_le": "2026-11-28T13:50:35.109335+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Gareth Bale Sevilla Takeover: €150 Million Bid Falls Short As Former Real Madrid Star Seeks Investors | Report - The Sunday Guardian",
+   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTmNFT1dPc0oxMTFIMU9Zel8yRDFSS0Rzakk1dzRsWEprYzVxTThmTGJYaTJISzd4RDF3YmxLak5hUlVHWDBlUkFITUt1UHdQdmlzY2RNQnp2NFdadWxIbFY5c0tTcWp3cmVodldJRi13enNkbDJDNlhxSG1OWDkxa0RhYzkxUi1xYkdpVDBJX1IxLVF4X0RySWVqQ2RRY2VmdVlHRjZkSzFlTjBYZnY1QWFwbzRpRlNQTmRsa0RvNTB6MXRXZWRJYVFmUERUdDdFV0dBY0VUX3lTY3BUWmfSAeMBQVVfeXFMTTB2MHRFVTBuUkhlSDJsZTYyQXFyQkpoS1J2MkVYdXpKTUlBSXc1ZDBWRm1iZDJtUnJWVFRVYlpPZmRRYzNlam9LaTlPTzBtTm9JZ3djTTJrWVpSZkxXdE5UcENxVURlZVFNZGNydVdkR1lvMWhEOGdzbklXSzdPajMzcmtycUVzR09SQVB1NVJtN3U4T3JTMjJWRGx5WnZxVTN0bkctVktidU9KYmN2MTgtWkl3Mktqc2ZqclRYUThwa3BacnBuQ20zeEZDOTZkVmR2c3FMSDI1QjNnc1BTS01ReWs?oc=5",
+   "date": "Sat, 28 Nov 2026 11:30:05 GMT",
+   "vu_le": "2026-11-28T13:50:35.109335+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Insiders of Compass Diversified Getting Good Value On Their US$2.60m Investment - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQkdIQUhiMFdMdVo1UGhYUVZvV1MyWmFmOUxpNlJtUVFrRnlBQ1ZmUG1TLWR2ZUE4ODRyc0RUZUN5alI1NjJ4eHA2RWRjSFo1VHA5bW1fQXh2OG5uSGNZN2pYYWRuOEIyeTJMdXdxR1RtRkJGc2hWNE8xTzFEN25NUnM5X1E4NjdtdnpaNlZxTXBRdk5SbXdaQlRsdF96TDcyWFZRQWdDczlRWnR2WEdNQWRoazN1UUtVNkJpUVBoMndpN0VlY0FNeFl5Z0twakNhWVp2WUV0TlhaVlNPcnA0VWxJTdIB6AFBVV95cUxPbngwZmxHXy1XcWNwazd1QmphdU5wWXcwVXVILVFuSUtRTndMUXgtcmpvYW5BbktyaDNZSnhESVd4VVBweEtpZGlhalVCVjZrNFdWb2c0NUNGRGt4VThPT1BUblczNG1FLXhXZU90Wk11cTRlWjRMUjBqVjRreW5YcFJ4VFBhODBJY2hvTUhWLVZvY3l5NEN0TXZIazhocWJBYTBUc01LM1BSRXgtbDNmeWRrS0JBSVhmVHRCb3YycnZGY2ZXRkp2Zl9VMW5UVi0zVEc0RXFRSjJiVUlEemtPWjByRHduMkVI?oc=5",
+   "date": "Sat, 28 Nov 2026 13:27:12 GMT",
+   "vu_le": "2026-11-28T13:50:35.109335+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Could Bitcoin Reach Brian Armstrong’s $400,000 Target by 2030? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSVQ2bkY5dEhxWXBfRU9EaG9HNHRHZk45ZEdDdjE2NzJveXZkdGcxRlNVN0hvNGZmNFFCMHgyaGVVdFdyN1Ezd1pWZG5iM3YydHlzdU5CYjM4VEJwR1FpMHlnMnFWVVhvUTVPcENoNkotbHJYTy1jX3FyTVB5UkQzWDIwRFgxb2tXOGM5bDJhaFB6MGp5a1VXeHl4eGUxYXFGRXc?oc=5",
+   "date": "Sat, 28 Nov 2026 13:27:21 GMT",
+   "vu_le": "2026-11-28T13:50:35.109335+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3g3SXZyY2R5VEw0TnU2bVlrR21HV19pbmpiOWVKRTFBUFpDOHpnUGx2Vzl1UHlSU0FqdGYxQnFSaXo2MDRxZWl4TWJ0TDI5SDlvZ0t1emNqWGVBa1NwNjFjOTBmTmdETC1tbWNWSWNMdGZtUVNaZll3cHBydFM0clJXRFZwV0ZkQmpPSThRX2l0TGRaZ1E?oc=5",
+   "date": "Fri, 27 Nov 2026 22:33:09 GMT",
+   "vu_le": "2026-11-28T13:50:35.109335+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic's Dario and Daniela Amodei may have just made a $560 million misstep - Yahoo Finance",
@@ -6419,41 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYUFjUHBXeTNBU3VxTTd3NFJ4OXVsMGZwU3A2TmJacUZHZ3dJTk1Dcklha2RWY3pKa0VkQW05MUZWMDdhNTNMTk0wQlFzem1MRGIyc0RDaTRhWjlyS3RFZW9NWjBKQ3hibEtjbUQ1TmM4bk1tc0tycTdWYXlqLTJxT2RDeUYxOFRPSHJ5NTJoeU1zUU5yM2cw?oc=5",
    "date": "Fri, 27 Nov 2026 20:01:26 GMT",
    "vu_le": "2026-11-27T20:50:37.004982+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Galp (ENXTLS:GALP) Stock Could Be 40% Undervalued On Cash Flow Views - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdTVqajJGOTgyUmJpamFrdjdGWnQ1VkF1Yy1yR1Raam04UjBUMEZzVjZVdnUzTzYzYy1jblo3UVNaWG1tbE1CZzNWeVNkcnh4NGpGRXpYVU80cmJ4OThGWDBiNHM2ZTZxYmJVM0VVNDlaakdoM3l1bDR4a1RMZmhNalo0VFhqSkFBVkdyWVVOUTY3Ymk5M0ZlRw?oc=5",
-   "date": "Fri, 27 Nov 2026 01:30:00 GMT",
-   "vu_le": "2026-11-27T20:50:37.004982+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Forex Reserves Lift India Above Vietnam in Emerging Markets Ranking - Industry Odisha",
-   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTFpaGNESV8xc2FtUEc4YXAtLXUzeGVncDF1SzRRRkN0WWRMejFFdkNDZmY1TWM0dXJKWUtlZGhOVUY1MEhWbzc3NGgzNG8tTkp0d25pVEVwakN4OThZeWpIUEdreFZwakNDTXh1SDdOYVlkY1pvRlpRVEN6T3M5VGNNYTdzbzhEa2RYU2dTWGZpZnd2d0NkWHp1U1lObzRiMGMydzVyelRSdmc?oc=5",
-   "date": "Fri, 27 Nov 2026 19:44:12 GMT",
-   "vu_le": "2026-11-27T20:50:37.004982+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "\"Everything Has Been Positive\": Analyst Sees a Strong S&P 500 Rally Ahead - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjhMVGJrcG5reWpsWl81bHhYaEFvbVMtbDVOSFlvaWtBU2kxMUEtTTV4Zzl1dUNZRUdQOGdFbV9FQ1hmZEpLLVF3S01WVmVwQ0VpOC1PajhfbER3b0UwQlZMaHRDUHJrN1BhSTg3M05UMk52TGhEWEYwckhfaHh3U3J4dFltekJhVjRPWnRhYlZ0eUFmdEtBZFBvdFlHemJId1U2Tm1jNzk4SGs4WnFpV3ZqTWhKRWVxQzVVRW1RMFdEall2?oc=5",
-   "date": "Fri, 27 Nov 2026 20:15:07 GMT",
-   "vu_le": "2026-11-27T20:40:37.099556+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Price Falls as $183 Million in Liquidations Hit Ahead of $6.8 Billion Options Expiry - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcURXT1VQVEhKd0xjVjlzUm84dzYtTmRNRHB6LU5uaXo3Qkp5SU5JUlBDOVQ5NnJqcy03MEUxNkxlYVVtSExzYl9reTNzTVpHbHBhODA0cnNGbFRidC1KUnNCMi1fdkdUTjN5R2Z2MTBJMFloa2FvSFM1LVVEMkNibzlsSG82V3Y0NlY1ZjJuYUtnVHM5NTgxLTVFMENlbHVlSGJ5QUlGTUUyV2J2RGJfZkpPUVpMMlh3RVVpY3c4V1BjZV9XSFhIR3V3SlNEQnVqa3pabHBEZjBSTWNCQ0JvTGdyZTBTVTQ?oc=5",
-   "date": "Fri, 27 Nov 2026 20:30:13 GMT",
-   "vu_le": "2026-11-27T20:40:37.099556+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stocks jump to end an erratic week that was Wall Street's best in over a year - Spectrum News",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbVJyWmNoYi10OG5sNWd3RjRkdUtKV1lHa1NpYi02bEh5d1NtTjZpaTR6OTlWYy12Y0daR1lWNFdzOGZlc0U4dzNESGNfZXBmUEw2ZkFQTzRjZFN3MlJPNjFwNU51c1RsVWZHNnZmRWlRc3g2WW0xUTh3SHZlQnExWmJQU3NnSXFvaUNwZjdKY1QzWjU0bHBmb01jYjE2R3dXSUFBQlo1SlF4bXNpR053?oc=5",
-   "date": "Fri, 27 Nov 2026 18:59:00 GMT",
-   "vu_le": "2026-11-27T20:30:36.188673+00:00"
   }
  ],
  "erreurs": []
