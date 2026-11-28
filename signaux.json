@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T01:30:36.008682+00:00",
+ "mis_a_jour": "2026-11-28T01:40:36.652729+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54917.67,
+   "prix": 54983.83,
    "devise": "EUR",
-   "jour_pct": 0.34,
-   "mois_pct": -24.62,
-   "volume": 1.59295353,
+   "jour_pct": 0.46,
+   "mois_pct": -24.53,
+   "volume": 1.61677117,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "XP (XP) Stock Still Looks Undervalued Despite A 33% Five Year Fall - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODQ3Q09maUdEUE9meWVPakFPNTI1Tzkxc0hOdUdpcUt4eXpXZm5HWjVNWlBCQWtqYUlkNm1Kb01kcGFRcXdzVnN6LVBCdVFuMlVsOXVVaVNwMnNvakVKR0tLaEJ1RGZhT2dBY016Z1pxT2pqWVN2QXk1a2J1aDAzMWhLN2loUjl5a1FnOFBDa2pJZw?oc=5",
+   "date": "Sat, 28 Nov 2026 01:10:00 GMT",
+   "vu_le": "2026-11-28T01:40:36.652729+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Should You Invest in Anthropic Stock Now or Wait? Here's What History Says. - The Globe and Mail",
@@ -6446,13 +6453,6 @@
    "titre": "Could AI Threaten Bitcoin, Ethereum, XRP? Inside Crypto’s ‘Wall of Worry’ - Benzinga",
    "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQzdPOVY3Z1hfX0U4R3h6RHFTTU56UXhyZHFkeWRHdmhjZV9kMGV1UVNjVlp0a2RZbWcwYW43MEhxeVNOak5rY0c3SXV3cHdSN1N6Ml9NZE56b3JTcVNQVE9nOFo2V0wxcDVsZnd5OWtaTzNRaEZkbWtzQXc2NkN0SDRjb3lxTXM2eDd1NVlLQVZIV1BBZE1aVXAyTDZKODlnQ2VCWnU2UmFPb3pab0dRdDgyNDk3OXUyd3ptMnZmMUM2U21PSUR3MA?oc=5",
    "date": "Fri, 27 Nov 2026 12:49:50 GMT",
-   "vu_le": "2026-11-27T13:00:38.125104+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Crypto Stocks Gain After Bitcoin Tops $61K In Tech Rebound, But Analysts Want A Move Above $62K - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOWRXekJhUjNQUjM1QURBYk1DOTZVZnpWSFlPVGR1ejdXNHNkeGZ4anVWVnN2dGwwNE1SR1Q2NnNKT29iZmdqUEtCY3Nzdm13X1N6bk5TTV9nVjNkbEpkRGV0b1cwdDJ1QVlrS2wyb2RvMjFqTUptaFA4QVk0a0Q2TlZpUUlSbTZZMFVsZVA5djdjT2tOc1lnZTNIU3lSWTcxd3dmMWphX1VVWl9lSjVmUUZqNFJjYmQxck4weC1pZ2NBdklReWJqQzlKbmR3eTFwQ1JwX0ZXUDRIajVQN3UxblRlNlhEZEZO?oc=5",
-   "date": "Fri, 27 Nov 2026 12:03:37 GMT",
    "vu_le": "2026-11-27T13:00:38.125104+00:00"
   }
  ],
