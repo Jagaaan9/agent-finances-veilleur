@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T06:20:35.278170+00:00",
+ "mis_a_jour": "2026-11-28T06:30:35.823784+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54613.83,
+   "prix": 54745.43,
    "devise": "EUR",
-   "jour_pct": -0.22,
-   "mois_pct": -25.04,
-   "volume": 6.15177426,
+   "jour_pct": 0.02,
+   "mois_pct": -24.86,
+   "volume": 6.57162159,
    "volume_relatif": 0.03,
    "capitalisation": null,
    "per": null,
@@ -3656,6 +3656,41 @@
  },
  "actualites": [
   {
+   "sujet": "Chine et Asie",
+   "titre": "China signals strong support for stocks to stabilise expectations; Shanghai index returns to 3,600 - 联合早报",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdVlJY0V4TVNNMGIwdVVFVG9neGlNSmg4VWlJeUx2czNzVmNfeENKSC1QakpDUGxuNjVsc093b18wcmJDYnpOcl83b1hLd05ZOWJUYUg0S0dtai1KUW5OOFpEYWlJaUJTNnVFbzVOUTJmZTQ3U1ZpMjNpQk0xbFRLdG1OLUlIYkdTZ0tVd1lLUm1TVHM5ZllLNEF2bnZiMmQ5aWRQQkh5QTk?oc=5",
+   "date": "Fri, 27 Nov 2026 07:17:42 GMT",
+   "vu_le": "2026-11-28T06:30:35.823784+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Stock Market: Major Chinese Indices Post Largest Gain in Two Years Following Beijing's Announcements - Idéal Investisseur",
+   "lien": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNLUFEbVVZRmpUQno3SGw4RmFUZmxPdG9sMnZiMlE5eGZmMHl4T3ZMUTZTMEhQLUpETTc3VGRTZ01COEJRLXhsLXdjRmNaa3RDa3hQMHJmclNCOVY4blE2RkxEOTlNT3pmTXgzeUxpaHpEQ2VtbU5JRERHcm1RWUoxOGJ2VHQ2OXRqMVFtbklJc1RZV2Y0MjJwUFZVNUJkd2ZXd21nakNoam55aEZxcVlhMDVvNjExMkhkTkg2VEoyOTdXRnJqZVRtSWlscFoxQUdiQzRHbVM4UnhlTzRfRjhKNXpUMGRNVUItV0xJUjQ0N0phVmJKSUxqN3dGVktGdi1m?oc=5",
+   "date": "Fri, 27 Nov 2026 11:44:00 GMT",
+   "vu_le": "2026-11-28T06:30:35.823784+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Himax Stock In Focus After Summit Raises Questions About AI Growth Plans - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNakJRZlp3dGFIcm50VnZpV0dQVm4yZ3FObFlRc3M1aUV4QjRFY2w2Y3NLUmltMml6eVpDUGpEdG5LS01OSUtMa0lZaW5BU0c1RWFWWTBNanM3ZXMyb1RXSGNQUnNaSC1MTWRDNnM3dEpKWVFQUlR2dHVSTXlwYTR5QWRXNzFralF5c0JiMGl4RkYtUTVZRXZ1MmhHWldLZW9PMjZpaThmYkIwTVp6LVZmWTBCaUlJUTlqal9vbGhYU1RUVHJUcTgtOXdPNFBlTVowd1JNakJrdUZ5UdIB3wFBVV95cUxPRmVSWkowMk5TQktqczllaTQtNjBlaFJKNnJObmJHWG1PTzB3elVZM3JKYmlSMmpyaWFUTFd6UExGb1E4cXd6YVdhcFNDM2Q1dGJzY2poU2dQZktSUjdNZFZxek1DUUdYSGdqZjVFX3RmSVJiN0FUNl83Vkd1NV9aNVd1X0dPVzJLVmQwbUM2N1pOX2R0eTlVeWY2Ri1HOVZtRzhBQlQzMmJVb205SFMwdVBsQkkxR0pGUWlmc1pfZnFmSFhOcWk5OFFFUTA4MFo0ZUgwdmZ5RWxHOHpUWWc0?oc=5",
+   "date": "Sat, 28 Nov 2026 06:12:30 GMT",
+   "vu_le": "2026-11-28T06:30:35.823784+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Swarmer (SWMR) Stock Fair Value Moves Lower As Analysts Weigh Ratel And Sector Reset - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkxjcHdrLWZXeVdnLWtpYXRkOTZZeThLZnM4R3lzT1R0MjhQSTkxNnh1WVhUY0hZMHZrMTZEREhGVXdjclBwUGpsT2l1T0pvNHNpQy0wS2gzY3lvdXlwV2RNaEhBM05zejg3cENlYzNZZGc3T0UyZW1zZlJ4QVkxRFZ0WnZVNFBiZnROa1IxUHUyakNXSUZhUzhB?oc=5",
+   "date": "Sat, 28 Nov 2026 04:11:00 GMT",
+   "vu_le": "2026-11-28T06:30:35.823784+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Over $407M in crypto positions liquidated in 24 hours as longs take the hit - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rTFR0cVBCM0VGX2RXMVM0V3Q4ZWViUHpsOWd0aEtTRUZKY1E3RkZkUXJLSjc5THlYSzk3aXhFSThDd19DN2ZMTEgwX3llcUhSbVQ5OWd4ZU5jQXNDaWRYQVozNjNmUTY0UFg5czVZZkFDcUVILUxrLQ?oc=5",
+   "date": "Sat, 28 Nov 2026 06:05:03 GMT",
+   "vu_le": "2026-11-28T06:30:35.823784+00:00"
+  },
+  {
    "sujet": "Banques centrales et taux",
    "titre": "Dernière danse de Christine Lagarde à Bruxelles ce lundi - Investir Les Echos",
    "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQejY2V0QzNWttQ0thTFdZRExETEs3MHlLVXByVmNteWI1Q1U0S2JHbVo1bHhOSDFmTDFpbG9WVXlnX1pacm9YSk9ia2JnSjROYVhZLTVDY3NoelEyY2F2alROX0w1WGZEZGtvd094c3JXRlM2STJpNkY3UHJKWENJeExGSjhRVjdnNlJ2NXl5NHZUUG8xR1h6Tnd6TUd3VDJfY1Uza2dSbWlIMnlxMlp2cEZUNFV1djZKOXY2Z25hU0d1SDdlVnc?oc=5",
@@ -6419,41 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSnlUNHlNNmZMWlRHZzZPenVlYk04ekliZWVHVWJzbXF4cVFGR3JDQ192R0ZHc3ZtalBOVm5UMVc1eFpqVnJIcUwyOVRjTm9rNWtoek5UVm9YOVNBeFc3dGpUVkhiTFhTSVVlRlF4M2g4STNkTS1iVFhxU3hHeUZJeEVWVmdtd09nWjZRNTV0cU8tT1daMzREb3VsSTN6OUQyMEhXUVhpXzV5eHBmTDFqNURHSXZUMS1YQ1JuWDRwWTJIWUNtVHZWaVVFbDFZV1owNFE?oc=5",
    "date": "Fri, 27 Nov 2026 11:10:00 GMT",
    "vu_le": "2026-11-27T15:10:36.629100+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Bounces as Optimism Returns to Markets After Holiday - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRmtHRElDVUFtbW5rajFkTUVHMzBsS1BmeTNFMGFtQjdhdnEtc3pJaF9XZFRKYlVSSGtUMlJneDZSaDcwZ0ZmUTFheWQzd3FnMk14ZVlHMFhLOU0tck44QmFkX0QyRE5ENHNzTkVWYkREUmg0QVVfZkZxaHpzX0FwV3Z3TkhHNHk5NG16c1VYdXpLTmhXaEw1cWIzWFQtQVR4Rm1qWlpJNXE?oc=5",
-   "date": "Fri, 27 Nov 2026 14:01:48 GMT",
-   "vu_le": "2026-11-27T15:10:36.629100+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Indonesia arrests three over trades in stock scrutinised by MSCI - The Business Times",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcVU1UDlrTkh6eXU1VkJXYjd2RXNrUEJiTlpqTzY0ZnJET0hpRi1wM1VYMEJJdTRZT0ZwVVhWSjhWbWZWbDg0TXZ5U0NMaHNtSG5YMjYyVmExR1Z6MFVFVDNfWjM3MF9Na0RYZWIzdm1rU0hyWjFuLXFmZ3NZMXNwRzIxWW5hUzZ1M3c1MDVPX1UxdWc2eGFwLUZtdUx3Z1hzei1aNVA5b1BONGdONGJSTQ?oc=5",
-   "date": "Fri, 27 Nov 2026 13:53:00 GMT",
-   "vu_le": "2026-11-27T15:00:37.525522+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Bourse : Thales, SAP, Exosens et Accor parmi les valeurs à suivre - Le Revenu",
-   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWmttY1c2a1ZEQ3BxTlJhaldobGNqaVFMYUNQQmZjdGdTb2x4TlJxRXo4OWVRT3NSUnl4Z19kajNQeDdaU3BvQ202UlFCZ2p1YTA0SHZaVGxNMTV4NmtEWl9yNWpScGo1czZKXzJTTlZZNXNTcmJfZzlWcWhZOG9md2dYb2dNMmlfeHNpTk9HSEpUOW83SUIwZV9YVTV5UkxlZ2tPWHNvMUczcnA3Uk15dk5UZVNHRmxPUS1FdkZMNmN3aW5wc2VUMHhNc2RPaGxlcGJN?oc=5",
-   "date": "Fri, 27 Nov 2026 08:40:00 GMT",
-   "vu_le": "2026-11-27T14:50:36.186490+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Avarda Bank (OM:AVARDA) Stock Could Be 30% Undervalued On Excess Returns - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3JDMUsxZzc4MW1QQkh0MkxHLWkyVGhrUzB2MVBlclNmVzBMY09hdGlONUNPMzF3N2N5RVlaTS1lS3E0b3FPb2lQbGVmWmIwN0xwS2VnaXR1TENpY3M3bzhhVldqNl8tTlRSNHREQ0h5cGl0bHdoZ2JkWUhTUldTQ2pFTVpGdzV4dU5qeWJSV2x4Q045UERF?oc=5",
-   "date": "Fri, 27 Nov 2026 13:13:42 GMT",
-   "vu_le": "2026-11-27T14:50:36.186490+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Trump tariffs brought EU and Indonesia closer on trade, minister tells Euronews - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmp0aWhGSXQwTGtySUk1aDFIY2wtU3B0UEQyakduWXlrN2JFNnhDdU1ncjV1OEhJbGhrNEd0UHY4N0w3bXN5TXFpRXlNbUF5Rzd0VnRRYkU0cUdBdWFrVm5udTF6X1RodmZNXzFyOFJ4YUMteldmVUhBOG5paV9yN2pXeHR0cjlzSnduQXRENUFldTIxeUl2XzhBblhpX1l5?oc=5",
-   "date": "Fri, 27 Nov 2026 14:29:14 GMT",
-   "vu_le": "2026-11-27T14:50:36.186490+00:00"
   }
  ],
  "erreurs": []

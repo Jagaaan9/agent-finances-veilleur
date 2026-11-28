@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54613.83 EUR, jour -0.22 %, mois -25.04 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54745.43 EUR, jour 0.02 %, mois -24.86 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -310,6 +310,11 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] China signals strong support for stocks to stabilise expectations; Shanghai index returns to 3,600 - 联合早报
+- [Chine et Asie] Stock Market: Major Chinese Indices Post Largest Gain in Two Years Following Beijing's Announcements - Idéal Investisseur
+- [Petites valeurs en croissance] Himax Stock In Focus After Summit Raises Questions About AI Growth Plans - Simply Wall St
+- [Défense, énergie, matières premières] Swarmer (SWMR) Stock Fair Value Moves Lower As Analysts Weigh Ratel And Sector Reset - Yahoo Finance
+- [Crypto] Over $407M in crypto positions liquidated in 24 hours as longs take the hit - Crypto Briefing
 - [Banques centrales et taux] Dernière danse de Christine Lagarde à Bruxelles ce lundi - Investir Les Echos
 - [Intelligence artificielle] The First AI Stock I Plan to Buy in 2027 - AOL.com
 - [Crypto] Bitcoin price today falls below $60k as whales buy dip, ETF outflows mount - Investing.com
@@ -452,10 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Rachats et fusions] Uber secures 87.13% stake in Delivery Hero takeover offer - grafa.com
 - [Résultats d'entreprises] SemiLEDs Returns to Profit as FY2026 Revenue Falls 56% - grafa.com
 - [Petites valeurs en croissance] Alfa Laval (OM:ALFA) Stock May Be 25% Undervalued On Capital Markets Day Growth Plans - Yahoo Finance
-- [Petites valeurs en croissance] AppFolio Outlook: Scaling SaaS Ecosystem Drives Sustainable Profitability Growth - The Motley Fool
-- [Petites valeurs en croissance] Stocks To Buy And Watch: Top IPOs, Big And Small Caps, Growth Stocks - Investor's Business Daily
-- [Petites valeurs en croissance] Adyen (ENXTAM:ADYEN) Stock Could Be 34% Below Fair Value Despite Smart POS Launch - Yahoo Finance
-- [Crypto] HYPE price on Nov 27, 2026 at 6pm EST Crypto Prediction Market - Robinhood
-- [Anthropic] Anthropic IPO raises questions for San Francisco housing market - HousingWire
-- [Intelligence artificielle] Stock Market Today, Nov. 27: Chip Stocks Rebound Sharply on Broad AI Enthusiasm - The Motley Fool
-- [Rachats et fusions] CrowdStri
+- [Petites valeurs en croissance] AppFolio Outlook: Scaling SaaS Ecosystem Drives Sustainable Profit
