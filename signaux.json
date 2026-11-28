@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T12:00:36.100364+00:00",
+ "mis_a_jour": "2026-11-28T12:10:35.383088+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54146.86,
+   "prix": 54223.94,
    "devise": "EUR",
-   "jour_pct": -1.07,
-   "mois_pct": -25.68,
-   "volume": 54.43262072,
-   "volume_relatif": 0.25,
+   "jour_pct": -0.93,
+   "mois_pct": -25.57,
+   "volume": 55.16427212,
+   "volume_relatif": 0.26,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 1001984170,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 1001984170,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOG",
-    "nom": "Alphabet Inc. Class C",
-    "prix": 272.44,
-    "devise": "USD",
-    "jour_pct": 0.54,
-    "mois_pct": -14.83,
-    "volume": 14018416,
-    "volume_relatif": 0.55,
-    "capitalisation": 3346907996277,
-    "per": 14.2,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 274.96,
@@ -3395,6 +3381,20 @@
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 14.4,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOG",
+    "nom": "Alphabet Inc. Class C",
+    "prix": 272.44,
+    "devise": "USD",
+    "jour_pct": 0.54,
+    "mois_pct": -14.83,
+    "volume": 14018416,
+    "volume_relatif": 0.55,
+    "capitalisation": 3346907996277,
+    "per": 14.2,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PM",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK-",
-    "prix": 19.1,
+    "symbole": "NYSE:BAC",
+    "nom": "Bank of America Corp",
+    "prix": 49.07,
     "devise": "USD",
-    "jour_pct": 0.26,
-    "mois_pct": -1.95,
-    "volume": 178204,
-    "volume_relatif": 0.77,
+    "jour_pct": 1.09,
+    "mois_pct": -3.6,
+    "volume": 19471454,
+    "volume_relatif": 0.57,
     "capitalisation": 338593252758,
-    "per": 4.6,
+    "per": 11.7,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street’s Great Escape: 3 Rescue Squads Fuel a Thanksgiving Rally - Investing.com India",
+   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWxEMmRodHlRZFhfU3ZGV2lYR0tkeDVDbEkzanZFUTRPeUJBMzJHdnpCM3MwTDZ5MlQwRU1neE5SX2RPZ1ZjS01BYUQ4bkl4R0FrYldBOTUyNC1nOUdnTFhrZjEzLXdNTXVxMGx6cmVoRGo3cU9lQm5hS2J5WGhTZE1OUGNEeWFkNGx2NkRzMHJmYmhWdHhVc3R3MjlNNld3OFBLdG53ZUlZTk9mb2Nmcw?oc=5",
+   "date": "Fri, 27 Nov 2026 21:56:32 GMT",
+   "vu_le": "2026-11-28T12:10:35.383088+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Best Tech Stocks To Buy Now For 2026 - Forbes",
+   "lien": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YcEp4TnVsdUxfUEw0ZWxKX01tc0k0cUwwR3JQcGtaYXIwVXltOUdDMTQ1WE9ZbXZveFhHbXdBZVlvckpoUWlnd1hsTzRpMmhqVXpudzdKcHRCS2didTR5QWlidVhLVDFBb3c?oc=5",
+   "date": "Fri, 27 Nov 2026 13:40:00 GMT",
+   "vu_le": "2026-11-28T12:10:35.383088+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Is Denso (DNZOY) Stock Undervalued Right Now? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcURSOGZDY2VnaGlmMnNUazRIZWlBOHNrNE1URmR0cDVTajJ3ZTNfaTZPbm9VenpHT01IVWpTV1JOdy1qZXlsRWJaaVVvWFQ3WEhXM1g1SkxRd3R5YVNUN0tOTHlTSnlUdzlObXljaFo5XzJmaEJiZ002M0MwQkVES2FQWW52eVFhREN6Z3VnLWJ1Rnp6aTJFZ0F2UGplZ2s?oc=5",
+   "date": "Fri, 27 Nov 2026 13:40:02 GMT",
+   "vu_le": "2026-11-28T12:10:35.383088+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Keel Infrastructure sells entire Bitcoin treasury worth $192M - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sUFA2RUJaZnRQZkhBVy1TUm1rVVNZSEFNakhmSDRscjMwYU9TMUhLd2JJNmtOeF93Q3JzYU9FeWYyaklGaWtkLVJPQ0tvdWRvLWxCMjRZb3BQbW9NOGY2dUlUcnlud1gwaHJJYjQ3TEV3b1FwbHFMYTNn?oc=5",
+   "date": "Sat, 28 Nov 2026 11:37:01 GMT",
+   "vu_le": "2026-11-28T12:10:35.383088+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "DOGE Drops 3.5% Amid Broad Crypto Selloff, Derivatives Pressure - CoinMarketCap",
+   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aVkgycUs1c01jY3FiTV81YnFIQ3RLMVJ6ZlNYQzVDa3NhVk9jUGFRUzhtTW02WW54Q2NKOUwtemtCb0RDWWV0STl4eUkzVEl6REszQXdPTFg3UGJSVlR1VkdYa09HeHNaRnFuSHNTLU4?oc=5",
+   "date": "Sat, 28 Nov 2026 11:04:33 GMT",
+   "vu_le": "2026-11-28T12:10:35.383088+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Chip, cybersecurity stocks attractive post-selloff, market expert says - Reuters",
@@ -6419,44 +6454,7 @@
    "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1ZOaGp6d0NzdXJPUGtiRzdKMUlpc2dnS2xLWGpvWENpcWNZWFFYbVpIclRxS3Y0cUZHYkdiM20wNF9vZTdydllXd2k1cWwzRkRtbm1Gb2lmUlp4MnNjcHJzRUZjV0RFODBkNTQ2M0stU3NUN0lEOFVYZm5nS2dtUU9kRDU1a3JlNnRxeGxNVEhaN0x3aHRXUHpoWG9EUQ?oc=5",
    "date": "Fri, 27 Nov 2026 16:45:02 GMT",
    "vu_le": "2026-11-27T19:00:36.377662+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "South Korea's KOSPI Surges 4.3% to Reclaim 4,900 Level; Foreigners Net Buy approximately $847 Million on Stabilization Fund, Dividend Reinvestment Hopes - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HeTlmNjJZT3poQ3B6c21PekpuVzNpcjA0YmhQejJFM1NDZzFub0F2QlA4N1U2dDRGRHJDRERiMHYyRlhJQ3dmLThwUl9tSEI4TjF1WEVyRWowU3lhSVg3dmJ2V0g0OXZPem1LWk1lQmxobEdlOVE?oc=5",
-   "date": "Fri, 27 Nov 2026 06:08:03 GMT",
-   "vu_le": "2026-11-27T19:00:36.377662+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "US Stock Futures Surge as Nvidia and AI Stocks Rebound - grafa.com",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVFhKOTBtNnRKUHlZTndOcWpEYjlfeU9QV2pEZURRbkNuTmR5VU5EcEJJbFg3NXF0RzV1azRrcmZUMFVUV3FGbFFqSVZlc0V3R2FqZ3VCeTdMMVN4VjZRVEpCVFJBT0JCbDE2Y21GOVQ0RW9FOWF3aTJneTBhNHNGVGF5ZFkxaUM3VVRGSlA0U24?oc=5",
-   "date": "Fri, 27 Nov 2026 11:00:00 GMT",
-   "vu_le": "2026-11-27T19:00:36.377662+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Wall Street termine en hausse une séance écourtée, portée par l'IA - Les Echos",
-   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNajg5SzhyNEZGTGliYUIwLWVsdGh2Nl9QVDZzb05mbE1tWUdGN3B5SUxGemxFQW9fZnhyeHpTc1ItZ0ktVlpoY3pxeVhXMGFfN2w5S2QySG4yZGU4bjhhYVhkbU1TS0g5MGpSX3FQY2pHRjk5djU1OFpHX180cEZSQzlTQzJkb3ZZZWh1YTMtMURjVFc1X1JKYVZLLTY3clFFWTZrY0x6dHZpWEozSTVkUUtfWVVzYnAwUi1wd2lnamFFZ1JVcnkwc0VsR0VVNXEwRkJv?oc=5",
-   "date": "Fri, 27 Nov 2026 18:20:46 GMT",
-   "vu_le": "2026-11-27T18:50:36.163019+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Donald Trump, à la fois bourreau et sauveur de Wall Street - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMGNxR1Q4X2ZGU01KMGpFRXVFcVBiYTNudTZCTWZIZThnOUJzLVhuRTU1Uk1lVS11cy1iVWE5aE1wa2h0WkFfc2h6WlVqQWtOazdXOE9JSkZmcmdhcWk5YUhtc29MU1dhLWo2aUFVZGVjTTdwallXTUVMT2EtOGtCRlUzcGhmbEhQWHFob2ZVbWFpNzNSQkt3LV9NQnAyRTRqTU52ZWNhN2NwajhWZnd4bngzeUNZaHFkVXRNMzRjUG9xOFN1V3RnUVlXakJKOThSdUs1Ml9R0gHWAUFVX3lxTE8wY3FHVDhfZkZTTUowakVFdUVxUGJhM251NkJNZkhlOGc5QnMtWG5FNTVSTWVVLXVzLWJVYTloTXBraHRaQV9zaHpaVWpBa05rN1c4T0lKRmZyZ2FxaTlhSG1zb0xTV2EtajZpQVVkZWNNN3BqWVdNRUxPYS04a0JGVTNwaGZsSFBYcWhvZlVtYWk3M1JCS3ctX01CcDJFNGpNTnZlY2E3Y3BqOFZmd3hueDN5Q1locWRVdE0zNGNQb3E4U3VXdGdRWVdqQko5OFJ1SzUyX1E?oc=5",
-   "date": "Fri, 27 Nov 2026 17:04:00 GMT",
-   "vu_le": "2026-11-27T18:50:36.163019+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "AMD vs. Nvidia Stock: Who Has the Edge in 2027? - I/O Fund",
-   "lien": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3c3BNWEthVFEtc1NCenFFRU5MM1Q0cEhnaDA0VDlTNDh5MU5jY0pQdnEzYzRBNXZNY1ZjUXZLQm5uZ2g4bURsZjBpdEZ2cTZ5VW54di1NSmhHZGpa?oc=5",
-   "date": "Fri, 27 Nov 2026 13:56:54 GMT",
-   "vu_le": "2026-11-27T18:50:36.163019+00:00"
   }
  ],
- "erreurs": [
-  "actu Bourse de Paris et Europe: HTTP Error 429: Too Many Requests"
- ]
+ "erreurs": []
 }
