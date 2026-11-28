@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T06:10:40.479554+00:00",
+ "mis_a_jour": "2026-11-28T06:20:35.278170+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54557.14,
+   "prix": 54613.83,
    "devise": "EUR",
-   "jour_pct": -0.32,
-   "mois_pct": -25.11,
-   "volume": 6.11472358,
+   "jour_pct": -0.22,
+   "mois_pct": -25.04,
+   "volume": 6.15177426,
    "volume_relatif": 0.03,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 834986797,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 834986797,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Dernière danse de Christine Lagarde à Bruxelles ce lundi - Investir Les Echos",
+   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQejY2V0QzNWttQ0thTFdZRExETEs3MHlLVXByVmNteWI1Q1U0S2JHbVo1bHhOSDFmTDFpbG9WVXlnX1pacm9YSk9ia2JnSjROYVhZLTVDY3NoelEyY2F2alROX0w1WGZEZGtvd094c3JXRlM2STJpNkY3UHJKWENJeExGSjhRVjdnNlJ2NXl5NHZUUG8xR1h6Tnd6TUd3VDJfY1Uza2dSbWlIMnlxMlp2cEZUNFV1djZKOXY2Z25hU0d1SDdlVnc?oc=5",
+   "date": "Fri, 27 Nov 2026 14:55:08 GMT",
+   "vu_le": "2026-11-28T06:20:35.278170+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "The First AI Stock I Plan to Buy in 2027 - AOL.com",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsMmVCOE5fOU9tYlNwaldrMnpiZVlKVUhlR1h1RDBTLTJnWmNLWHBlUkRIdmNSQ0c2WGhnVUhyQlZfbXFKM0pLVF9FalZOcS1TRTcycHo2a25aeV82eE9aeVZfMm4yUldibWFaSWxIZDRBYjMyNUE?oc=5",
+   "date": "Sat, 28 Nov 2026 05:20:00 GMT",
+   "vu_le": "2026-11-28T06:20:35.278170+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin price today falls below $60k as whales buy dip, ETF outflows mount - Investing.com",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVG5RbV9WdldtMjdNQUg3YlpJeHNjYmEzeVFyLXVQV1NkSW84TFRKMXQ0LVM3cG42WkZsYWtpRHMxZ0lnQ2RnRFAwc0NuU01FZmdSZ2dhNklrQzNLMkFjM2dzTU94MGlOMnVXczl6SVBsU1hwZmpEZEJlVXk3ZzBDZXVkSFg4cXhLem9lNFBrRWtNR0x3Y3pTRzZGODdxQTFuWWZpVi1peEdGdGhQZy0zNVJOSmRtaGVhS21qNERFTlhESHNMc3lIZWowYw?oc=5",
+   "date": "Sat, 28 Nov 2026 06:03:09 GMT",
+   "vu_le": "2026-11-28T06:20:35.278170+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "[Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제",
@@ -6433,43 +6454,7 @@
    "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmp0aWhGSXQwTGtySUk1aDFIY2wtU3B0UEQyakduWXlrN2JFNnhDdU1ncjV1OEhJbGhrNEd0UHY4N0w3bXN5TXFpRXlNbUF5Rzd0VnRRYkU0cUdBdWFrVm5udTF6X1RodmZNXzFyOFJ4YUMteldmVUhBOG5paV9yN2pXeHR0cjlzSnduQXRENUFldTIxeUl2XzhBblhpX1l5?oc=5",
    "date": "Fri, 27 Nov 2026 14:29:14 GMT",
    "vu_le": "2026-11-27T14:50:36.186490+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Bounces as Optimism Returns to Markets After Holiday - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWFrcmFmLV9SaV9CS3VndG9JeHhjek1zVWpxVFNudkFEVE1sQktUZGo1eXhGQ0xYZVpiVk15TkVmVTV1MDFzUkFqOUg1RUFXeDRRLUdxU1JPTl9PRi1jVndVT2d5SXRwNkhlMTU1WjlOb0xWWFZ5aHpCazRNVUE0MklQbjY4WUlGZjJ6SHM2NjJTWGQ5YVUxYlpLeDV1V0thMnBIQTAwVFBscl91ZzA2Zw?oc=5",
-   "date": "Fri, 27 Nov 2026 14:27:15 GMT",
-   "vu_le": "2026-11-27T14:50:36.186490+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "De Nvidia à Nairobi, le pari fou de Kate Kallot - France 24",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNGU3c1M5ZlE5WlljVnhDdlYxY08xcTA5d2JGTW5DV0pMeTJnNUtvUFlENm5naDdERm85LWI5aFRLbWEtcVREVG1KWlIwZUNRa3VTbFl5cXZLX3h6YW01ZEVsLWFWd3FkNnZpSDB1cU9BMEpMbXA3TWxZLXZpc2hMSF85aER5M2Rwek9zV0ttZlFpN09yWk85SVNDMnNFeFE0RUE3MU9IN0N6MTJ3d3FxYQ?oc=5",
-   "date": "Fri, 27 Nov 2026 14:34:35 GMT",
-   "vu_le": "2026-11-27T14:40:38.412149+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Nasdaq futures surge as investors pile back into battered AI stocks - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
-   "date": "Fri, 27 Nov 2026 12:07:38 GMT",
-   "vu_le": "2026-11-27T14:40:38.412149+00:00"
   }
  ],
- "erreurs": [
-  "actu Anthropic: HTTP Error 503: Service Unavailable",
-  "actu Anthropic (FR): HTTP Error 503: Service Unavailable",
-  "actu Marchés mondiaux: HTTP Error 503: Service Unavailable",
-  "actu Bourse de Paris et Europe: HTTP Error 503: Service Unavailable",
-  "actu Banques centrales et taux: HTTP Error 503: Service Unavailable",
-  "actu Chine et Asie: HTTP Error 503: Service Unavailable",
-  "actu Intelligence artificielle: HTTP Error 503: Service Unavailable",
-  "actu Introductions en bourse: HTTP Error 503: Service Unavailable",
-  "actu Rachats et fusions: HTTP Error 503: Service Unavailable",
-  "actu Résultats d'entreprises: HTTP Error 503: Service Unavailable",
-  "actu Petites valeurs en croissance: HTTP Error 503: Service Unavailable",
-  "actu Pays émergents: HTTP Error 503: Service Unavailable",
-  "actu Défense, énergie, matières premières: HTTP Error 503: Service Unavailable",
-  "actu Crypto: HTTP Error 503: Service Unavailable"
- ]
+ "erreurs": []
 }
