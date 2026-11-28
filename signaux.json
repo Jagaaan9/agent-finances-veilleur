@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T08:30:35.848496+00:00",
+ "mis_a_jour": "2026-11-28T08:40:35.005101+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54545.34,
+   "prix": 54491.06,
    "devise": "EUR",
-   "jour_pct": -0.34,
-   "mois_pct": -25.13,
-   "volume": 42.115544,
-   "volume_relatif": 0.19,
+   "jour_pct": -0.44,
+   "mois_pct": -25.2,
+   "volume": 43.04690059,
+   "volume_relatif": 0.2,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
