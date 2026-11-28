@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T13:30:35.202294+00:00",
+ "mis_a_jour": "2026-11-28T13:40:36.760900+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54151.73,
+   "prix": 54000,
    "devise": "EUR",
-   "jour_pct": -1.06,
-   "mois_pct": -25.67,
-   "volume": 57.47230021,
+   "jour_pct": -1.34,
+   "mois_pct": -25.88,
+   "volume": 57.71361878,
    "volume_relatif": 0.27,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 1001984170,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 1001984170,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3371,30 +3371,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
+    "symbole": "NASDAQ:GOOG",
+    "nom": "Alphabet Inc. Class C",
+    "prix": 272.44,
     "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
+    "jour_pct": 0.54,
+    "mois_pct": -14.83,
+    "volume": 14018416,
+    "volume_relatif": 0.55,
     "capitalisation": 3346907996277,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
+    "per": 14.2,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3413,16 +3399,30 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOG",
-    "nom": "Alphabet Inc. Class C",
-    "prix": 272.44,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
     "devise": "USD",
-    "jour_pct": 0.54,
-    "mois_pct": -14.83,
-    "volume": 14018416,
-    "volume_relatif": 0.55,
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
-    "per": 14.2,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic's Dario and Daniela Amodei may have just made a $560 million misstep - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMEVyQjJDbk9hZFRvdVlWQ3pIZmdRNTJtVzdOMnBpY0ZQMlB6aS1mZmtBNU1VaUFqbmhQYV91SVZUU2Q2SldWWXRYaFVIdGllRWJXZkZENGtmNmhLaVQ2Q01Db3dPblMyUHNZTTdFaHhvMlVJUWgyZUpoemJDbVJkeVRoYnozN2kycWI1RHdOX21qSjVHdldjYWtwbU10cjNLU0xDQVB6SUZZemE3V2Y1RFBMN2sxbWFGbVFNTWVFQU9xbmdlNm5tUlpHZUJKUQ?oc=5",
+   "date": "Fri, 27 Nov 2026 14:13:38 GMT",
+   "vu_le": "2026-11-28T13:40:36.760900+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "BCE – Pablo Hernández de Cos en passe de monter à bord - News Asset Pro",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTRhVFcxODdiekV4RUZ0X044V0pYdC1DLWJmemphRjdIT0NHclBnSlhCcHdHWHdFS2JVUThQdU9jSFFGc2FpeFR2bUtnYkFBb3RGOW1fcVNvZGNRQS1pNFB2TGQzbWNWZUQ3WjhVR3J5VGtQamdybDVfeDQ4WmtuQ05xS2VHS0hPbG9GbEZZOWlPQQ?oc=5",
+   "date": "Fri, 27 Nov 2026 14:22:00 GMT",
+   "vu_le": "2026-11-28T13:40:36.760900+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Automakers showcase smarter EV technology at Guangzhou auto show - Chosunbiz",
+   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS0k1NGl0WUk5aXBUYXpIVWhSMF8zcVhxTG5KOVMzbjVaamp6VG1hQzVWQXdVV0NzZnQzenI4d2dMaXNMM081V3pKX1gwMnNHMGZpMDB1T1o4T2pjWW5MbGEwbW1PX2ZLWWlzcXlWMjdxdmRFQ0x2YlhQOU91eWdFZ29R0gGWAUFVX3lxTE1OSVFDOEt1dmktRmJHQ2ZtbTlqRmpZZEh0UHlIaDRCXy1hTE9oUkYtcUN0VS0tZnlaaFdCSUtRUmdGZGFmQVo0bkVNRXcyS1BaX3RaNmFQZlRMNnlGWldKTWd3S2pycVk4Q2NXYkRabDY0di1WVVhnQmxNOGRaay1KTGNaWEtmdGRTZVdMdXdpMFJpTnlVUQ?oc=5",
+   "date": "Sat, 28 Nov 2026 04:45:00 GMT",
+   "vu_le": "2026-11-28T13:40:36.760900+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Interpump Group (BIT:IP) Stock Trades At A Premium To Cash Flow - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQVJWUFpoU1lqclpxc1QweWo3RHJuelZrNl82bEFoZzJ6dWtqMDAwa1BBOHUxcHFkbkRZNF9CVnp6WjNJSHp2azd3Q0lIZU9SZ3hEcWF0bFFrbFRTYm1ONmgwWEtQT2V6WFRZdnhuVVYwbWU1TG42eWxJU3FaR3Jqb1p4T0JLaElxQWRrN3FubHBRa0xUaEZYLQ?oc=5",
+   "date": "Sat, 28 Nov 2026 12:12:55 GMT",
+   "vu_le": "2026-11-28T13:40:36.760900+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Donald Trump’s Crypto Empire Is Suddenly Crashing Down—Adding To Bitcoin Price Crash Panic - Forbes",
+   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONkQ2bFBwRmw5eHpGWEJVZXR6VWlTR0pRZkxLM3VrRm9kMTVBMFVJVGRlWnJQNXJzYnBrcjV1VW9RelFvUk1BSVJtY3NqNEU0ckpOU2MtMnFGWHB0WmNVaWJudVYtM2tkODhkTnZDelR1b3lGVFJrY1g4Ny1DQnBEaDNrTHVycHR3TUNDRndIYV9mOWIxWHdXd0hZZVA1bFBMQkwxZ3J3V2pKWUNoWjB2UFM4QmQtMUlaNWUxaVhlQThMbGFCcTBnM1V0YjloZmE0QTdaMFk5S284ZGFDZlE?oc=5",
+   "date": "Sat, 28 Nov 2026 13:23:36 GMT",
+   "vu_le": "2026-11-28T13:40:36.760900+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Could Bitcoin Reach Brian Armstrong’s $400,000 Target by 2030? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1ZlVGsxQWpOVDJrcmZkTVpFcElNQkp5d05RdUE0U0lhNUV5a0FQY3d2bmluWndmZzZTc0J1Z05hSXpFT1Nnb2NzdjBfS05JZ2NiaHBUZE1Bak9xaWg0a19zQ3UwYzhWdDdMTDZ5MWU1a3RhS2c1dXV1NWg0N2FyUTJYWG4xWkszWUU4T3RNYWtTM3hFNlJETXJ2djNHV1FVbFRGX1BKbl9lZFROd2RXcTF2NkpfUDNU?oc=5",
+   "date": "Sat, 28 Nov 2026 13:27:00 GMT",
+   "vu_le": "2026-11-28T13:40:36.760900+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "Cours de l'or aujourd'hui, 28 novembre : Ils ont enregistré leur premier gain hebdomadaire en trois semaines malgré la pression de la Fed. - Vietnam.vn",
@@ -6412,48 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbVJyWmNoYi10OG5sNWd3RjRkdUtKV1lHa1NpYi02bEh5d1NtTjZpaTR6OTlWYy12Y0daR1lWNFdzOGZlc0U4dzNESGNfZXBmUEw2ZkFQTzRjZFN3MlJPNjFwNU51c1RsVWZHNnZmRWlRc3g2WW0xUTh3SHZlQnExWmJQU3NnSXFvaUNwZjdKY1QzWjU0bHBmb01jYjE2R3dXSUFBQlo1SlF4bXNpR053?oc=5",
    "date": "Fri, 27 Nov 2026 18:59:00 GMT",
    "vu_le": "2026-11-27T20:30:36.188673+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Le dollar profite de l'appétit pour les actions américaines... - Fortuneo",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1VxcFRiSG1mT1VXbzlNTkp5X1ZaNk1mYWVydnVPSXYzbms4QnlFWjJSUHZobmxSZzQxOW5ULV92R2ZId2owVEVWZWUteXBhMUgwQ3AwN3hsSmRPMlVrNlI1SURIS01YNTJCSkVmVkxlbzkxQWUyUVdOME5DREJFcEJZVU16YVloeXZ0Mmt0aXY3c01tOWtDWTZpYndhd2FoRG01akxfTVTSAa4BQVVfeXFMTk5JNzF2VEdmQm5hbTc1cU5LYWlJZE9oX2t1Y2p4T2U3ZnUtZk0tNFQySzlRdENwaC11Y1gzVWpCaU1PdDdla2JwOFpfRXZiWC1zU0F4bFJCc0J4cGVEcGgzUF9JS0NabldvWVZWaEUxNmhEMTJ2QWdHVW1aU1YzbGlqSDBlNlVUX3hQcE1fVUJUOFJDN2k5UDdVWFozYnhDeFVnRnhMczQzMzh6c1R3?oc=5",
-   "date": "Fri, 27 Nov 2026 18:28:00 GMT",
-   "vu_le": "2026-11-27T20:30:36.188673+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Cathie Wood trims crypto stake ahead of birthday - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTJkVDQ2MzI1aGoxVG9NdFJ4V2xqTnZGMUxxWmZDZU56TWJYU1lHcEpSU194MVp4ZWQwUWRYemtQN3ZlWWVKVFFyTWk0b2lHZUdrUEhvTThxMUVldkxlTTlUWlRVSVh2US1kRm9vLUp4SnJkTUFyazNxQ0xFQVdOUVVmYVZHRGI5TE1aYXQ5UXpHcVZFd2tlc1ktSQ?oc=5",
-   "date": "Fri, 27 Nov 2026 20:07:39 GMT",
-   "vu_le": "2026-11-27T20:30:36.188673+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "BTC Price Prediction: Whales Add Over 120,000 BTC - Bitcoin Foundation",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlhoZTVpbE5zVlpiaWgwbW9zOXl5V0o4dXFsdndWb202Q0pSZm5ZdTFTTjF5aUZhWW15am9kYWlkLTBjRmNUc05mdzRvZXhPN1M3ZURWYlIzcTFkMUtqNFpQd05VODhSSzNGSHdNZ2s0VGVjMWswMGRSZGZ1VTE3YjFtcVlxdlJEOG80NjFPNnNNRkZyQXZpNHNjVlNVcXpl?oc=5",
-   "date": "Fri, 27 Nov 2026 20:21:35 GMT",
-   "vu_le": "2026-11-27T20:30:36.188673+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin or XRP: Which Is Closer to Getting Back to Its All-Time High? - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVzc3WV9LOTZhTnZwQUJCalJsV1FUcUVzclBxdjZ1cnZGaU4yMG1rX0FGYzFyYXFOUllZdVc1UWNkWkdQaXZaSkxGcEhfNmZKSlNVWV9qUkxySGZFMFZQNWRCU2JDdEtraWV3cFk4THhMcmZ3XzRRSEFWdDF4R2QwSEpsRVlBbVNwM3k4RDQySnBQZ3ZOYWhKdnhoM19SS3ZaX29VNHJrbFBHNW9ZTnUzNTFBd0ZyMVlBc0x5RGlSWDJhVW1V?oc=5",
-   "date": "Fri, 27 Nov 2026 20:15:00 GMT",
-   "vu_le": "2026-11-27T20:30:36.188673+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic's stock jumped 11% and once again surpassed its IPO price - Oninvest",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjh1cXpsZkdrSi00cEk1NzNzVXdkTi1LdlBrV0dVQUJhbWMxbE53ZndVcy15QkNrcnRUOVAtU2NlMVpmSFR1bXBQakhzRWlkWjJKdXBSTTRaLUtndVhzT3hBeVJUdVQycE80RmZ1UmkzQk80MTY3ek9zOWdEcVJ6NkxTTTN4YlNBd3pjemxOYmZZdGFyRHR4QWFVd193SVE?oc=5",
-   "date": "Fri, 27 Nov 2026 19:52:58 GMT",
-   "vu_le": "2026-11-27T20:20:35.761710+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "STMICROELECTRONICS Cours Action STMPA, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50aEdVR1RKdDMyaW5mbzVJUlVoSWhzU0d2VUZCZHZkRjdjVlVzQkptT0FVdkp4MVFwUzNwSXFMRS1SNThZSXFkTkxtVDRISkV0Tkh3Ng?oc=5",
-   "date": "Fri, 27 Nov 2026 18:36:18 GMT",
-   "vu_le": "2026-11-27T20:20:35.761710+00:00"
   }
  ],
  "erreurs": []
