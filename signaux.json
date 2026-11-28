@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T03:20:36.398739+00:00",
+ "mis_a_jour": "2026-11-28T03:30:39.906330+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54800.73,
+   "prix": 54720.21,
    "devise": "EUR",
-   "jour_pct": 0.12,
-   "mois_pct": -24.78,
-   "volume": 3.51795334,
+   "jour_pct": -0.03,
+   "mois_pct": -24.89,
+   "volume": 3.53046402,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 834986797,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 834986797,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOaFY4aWlJXy1yN080VUsxUzNlV1diMDFqYmFCN0xydVlmYWVEY0tDMXBZMzVYcktFa3pGR2loX2xOQVhRQnNBWHotRGJfQkpWQVZRMUtuVFZkd0VfUWtsUVpiSFRBT3l0TnNfeXZ1MC1NNTROaWc1WXViVkwwYjk1RThuZ2kzaWRWZW5hNi1aWEdhcVZfcmpoZjFncU1Xa3ZZdHBIc3VmcVZ5dzc4ZEdHckNsV3RPTkU4YWUwVGQxYnE1dDg2eTdZb2VyWXdrbEpwTlFUUHlvMEUwZmkxWUhPUTNUcE1lVmV1TWwzOGZGdXRqXzktOEY5UVlPRzJiLTlCNG9WN2NNZXBKdmZBQ29mWFMwaDdXcFVHOEZWZU9sa1poRlFkQnNKbGtoNDVWTW1uUlBuYTBVUnVfRTRocXc?oc=5",
+   "date": "Fri, 27 Nov 2026 22:33:37 GMT",
+   "vu_le": "2026-11-28T03:30:39.906330+00:00"
+  },
   {
    "sujet": "Petites valeurs en croissance",
    "titre": "Sweco (OM:SWEC B) Stock May Be 30% Undervalued On Cash Flow - Yahoo Finance",
@@ -6446,13 +6453,6 @@
    "titre": "Indonesian Rupiah Closes at IDR 18,330; Economists Say Bank Indonesia Can't Rely on Intervention Alone - BigGo Finance",
    "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZczlGa1hkeWNIVW0wdkQ1NVJfZTBhQ0gydEdvTXVmSEN2amhfZk5mTkVaNDZfeVlsVFhsNmZSU3Nua05zV005R3BZOEt4d0ZlM3ctbUdlbEZmTWZMcnpsWWEwZzhMRkZZTlM5M3Y0Y3E5N05NRXc?oc=5",
    "date": "Fri, 27 Nov 2026 11:55:00 GMT",
-   "vu_le": "2026-11-27T13:40:35.899457+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Arthur Hayes Issues Weekend Crypto Market Warning as Fed Blackout Begins - BeInCrypto",
-   "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sWllBNXBIRW53VFk3bXJQS0NEd0c0M0wydXBhbTVxcV9NUHlRcUYzTkFMTEpZVzFmc3p2aUtXLXQ1elczeUlkUTB2VExjT2V3bVVJN2R2QU81dklPOGoyVFJ0Ml9haGd2VXNBMzNpZ2ZIdw?oc=5",
-   "date": "Fri, 27 Nov 2026 11:49:29 GMT",
    "vu_le": "2026-11-27T13:40:35.899457+00:00"
   }
  ],
