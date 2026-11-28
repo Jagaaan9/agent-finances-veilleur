@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T01:50:39.491152+00:00",
+ "mis_a_jour": "2026-11-28T02:00:36.219520+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54976.18,
+   "prix": 54997.2,
    "devise": "EUR",
-   "jour_pct": 0.44,
-   "mois_pct": -24.54,
-   "volume": 1.62088508,
+   "jour_pct": 0.48,
+   "mois_pct": -24.51,
+   "volume": 1.63655835,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les responsables de la BCE signalent de nouvelles hausses de taux face à l’inflation - Investing.com France",
+   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeVQ0a1dTaWlVdWZIOTRFSFNJMWZGRkJ0ZDQydG05U1p2dEwtQkRTeXY4OFRNN0RDSXYyNU16VTZ4XzA2dFdVeFN4Zjg0eDhtdERwbEM1b3FzdUxnLWJ6Y1BzRTdKX2VLVmt6U3pNMUZIRHpkNW1nNmpBS3RTSFQ4RVFXYjViY2JjUmpnc2NLcWNYMTJSVUxhYW14d1dmeDQ2ZTd4M3RnbjRnT0ZEQkRLcVRkb1lJRXVUb0lmYnhB?oc=5",
+   "date": "Sat, 28 Nov 2026 01:40:00 GMT",
+   "vu_le": "2026-11-28T02:00:36.219520+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "3 AI Infrastructure Stocks to Watch As Apple OpenAI Fight Tests Chip Demand - Yahoo Finance Singapore",
+   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzhPWWpTV0ljRmlpSEpwcGQ5WmtHQndHN3g1ZWN4akRINEJmNm5QWU1NNG9feW83VTVQcWszbGF2YkZMT3lORDZXdmNsMTZqdzc3M2pYWHhsT0xaMTJ6M19QYkNvM2lscV83ckFvYm90YWloc1hNajhLUk1McXVwZUx5VlVzYjU4?oc=5",
+   "date": "Sat, 28 Nov 2026 00:14:00 GMT",
+   "vu_le": "2026-11-28T02:00:36.219520+00:00"
+  },
+  {
+   "sujet": "Introductions en bourse",
+   "titre": "Anthropic Shares Jump After Volatile First Week Since IPO - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGVqenZQM2JzRHFPVmVDWElvMUlUTXdHVFVlT2VOYWc3ZU5KM0czVlBfUGhNNWU0ekFjYU13YWdRS243RE10VEVHYW9DRzdmUmF4MndvQ2dnUmVxY1ZJZER0WnpZay12cUJqTE0tRUlGSlluYkgwem1wTG51d1FrdHF5SWtqa2F3MkNOaFN1Z0RrejFJOXdSLTFGZnJWTDk0emw4dlN0bVlRalJ0elIxdzAxUm9Idw?oc=5",
+   "date": "Fri, 27 Nov 2026 18:28:35 GMT",
+   "vu_le": "2026-11-28T02:00:36.219520+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "India's Resilient Earnings Attract Foreign Investment Amid Emerging Market Risks - GuruFocus",
+   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTHNXVGt3N1YtVDZyRVdUR2xlRFk0ZllDVVZ5LTdteWRPQU9NYU9QUlM5MHhDMlZfdm1FYjFlQUoyMFN1ZWMzYWRWMnRlaUtrR0RBQ1NtOWpLd1p2Smh6UlZUdGItZThFZzNyNGxvZUhva1hvWTdiMU53WVBoV2xBaFZqTzlXbjB2Q09ibHZFdzlXN0lsMVRSMk44WkdVd2ZORlBydXhPYnhhNnB6OVpnNG5DX2twZ0xQLUE?oc=5",
+   "date": "Fri, 27 Nov 2026 06:50:08 GMT",
+   "vu_le": "2026-11-28T02:00:36.219520+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Falls Below $60,000 Again; $228 Million Liquidated in a Single Hour, U.S. ETFs Post Record Monthly Outflows - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CQlJYX2JOaFJRdVVJdnVXS042cEQ4UUF0SUhtSmQ3dWxLc254LUVCSGlJUDhrSE1fS3gwQnZIMEpvNjNyemlfRTFQSWxfX21vTmlxelV4QThlRXNEZlk4NFFUOWJ4R1pSMjFfOWxlWVl1UUEzdXc?oc=5",
+   "date": "Sat, 28 Nov 2026 01:05:00 GMT",
+   "vu_le": "2026-11-28T02:00:36.219520+00:00"
+  },
   {
    "sujet": "Petites valeurs en croissance",
    "titre": "XP (XP) Stock Still Looks Undervalued Despite A 33% Five Year Fall - Yahoo Finance",
@@ -6419,57 +6454,7 @@
    "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0ZKUHJKNTNCUlAwSWhlMzJQYUVNVGZ6OGdONnlGblE2b1ZDbmhKangtTHB0Q2huYk9mNTd5OW9xcEpEekJ3VUZOUE9nSHlQSmlCdjdYa1h5LUdTTm9pbmh6NjhZaDNGUnc1bFdFRWF6bDFkMUhjbEtTVkdLNUpGTlFrSGFER3lvYVRfai1PVEhaeUJxcUxRMkNnaDJ0YUlaaFBZajIwbUlhZlo0UG50ZA?oc=5",
    "date": "Fri, 27 Nov 2026 13:04:15 GMT",
    "vu_le": "2026-11-27T13:10:36.503996+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic stock gains premarket, reclaiming IPO price (ANT:NASDAQ) - Seeking Alpha",
-   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUHF4bVZRdnZNQ2dtdkpxam1QUTFuRHM3SWh0a0JrU1RRUnpnbG4wSmVaR0YwQWxISHdDQmloNHJOTVRlVk53c0phZ042WnVRTXdyOFJFR1lObUVRaDEyanpZVXYtLW05WUF4UldldjZsLVdEWVVMYVpiNXFESkxWWE5VSTFUd2htcUxsaHN4Y1Vfb1N2?oc=5",
-   "date": "Fri, 27 Nov 2026 12:50:12 GMT",
-   "vu_le": "2026-11-27T13:00:38.125104+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China Stock Market Jumps 4% as Beijing Pledges Support - Gotrade",
-   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ3B3R3VTck5EeG5lOHlMVnJPbWNOOUd6dkZYNmVYbFdETmxkVnlCZnVEY05GRG5LLWhHZjMxSTVnemZjZlVBb1piaGxWUEhzdmpKeTJUTkpKZldIeE1DMW5DOE9LYVRwamhVVzRtY1hySjg5dzgtZXg2WF9BVGVqdW5ycy1rd1hWZkRlMQ?oc=5",
-   "date": "Fri, 27 Nov 2026 11:12:00 GMT",
-   "vu_le": "2026-11-27T13:00:38.125104+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia Blackwell chips found in Shanghai data center tied to Alice Huang - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnpESnNmc1FTdTFGOWc5OXBaYTJvQ056OFhqOVhBV0x6T25aZVhobUF4bDRHZzJTRE5GdHRyVmNlSmRoaDQtQkRZbENtbHZfSjRST1gxWXBONkNYVmE0aThieERKRXZGZ3JiajNySExTUjJkMDhNZW1SZGRfdngzUFJ1OVhaYXZLLWVNSmVpRk14T3RRQUg0bnBUdkJmNkZwMGpv?oc=5",
-   "date": "Fri, 27 Nov 2026 12:40:08 GMT",
-   "vu_le": "2026-11-27T13:00:38.125104+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Todd Boehly-led consortium strikes USD 16 billion deal to acquire Lukoil’s overseas assets - https://internationalfinance.com/",
-   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbG54UzRPNW02Vkd5SjNzQ3F1SlZxanBxVGY2UDBjeHdwMGhsdy0wR3lza2RBRm9mT2lBYXI4WTBaS2FZcndjaWlZUlI1c1ZTWnV4VFhVTkczN2xrVkpBY0R2c0p1bEtRbGJxZndHRERDemJGUXlpYThsVFZPTFZYbmFISTVpRGc1bkdZZUV4bDlWVVF2Tl9QY1V0RFl2WTBjU29WaWNLWHhDVVFhRG56TERibGM4MlhTeUlaNGpLeXVybno3SmN5VUg2a1pvMjNFRzBjek15dw?oc=5",
-   "date": "Fri, 27 Nov 2026 10:03:09 GMT",
-   "vu_le": "2026-11-27T13:00:38.125104+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Could AI Threaten Bitcoin, Ethereum, XRP? Inside Crypto’s ‘Wall of Worry’ - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQzdPOVY3Z1hfX0U4R3h6RHFTTU56UXhyZHFkeWRHdmhjZV9kMGV1UVNjVlp0a2RZbWcwYW43MEhxeVNOak5rY0c3SXV3cHdSN1N6Ml9NZE56b3JTcVNQVE9nOFo2V0wxcDVsZnd5OWtaTzNRaEZkbWtzQXc2NkN0SDRjb3lxTXM2eDd1NVlLQVZIV1BBZE1aVXAyTDZKODlnQ2VCWnU2UmFPb3pab0dRdDgyNDk3OXUyd3ptMnZmMUM2U21PSUR3MA?oc=5",
-   "date": "Fri, 27 Nov 2026 12:49:50 GMT",
-   "vu_le": "2026-11-27T13:00:38.125104+00:00"
   }
  ],
- "erreurs": [
-  "actu Anthropic: HTTP Error 503: Service Unavailable",
-  "actu Anthropic (FR): HTTP Error 503: Service Unavailable",
-  "actu Marchés mondiaux: HTTP Error 503: Service Unavailable",
-  "actu Bourse de Paris et Europe: HTTP Error 503: Service Unavailable",
-  "actu Banques centrales et taux: HTTP Error 503: Service Unavailable",
-  "actu Chine et Asie: HTTP Error 503: Service Unavailable",
-  "actu Intelligence artificielle: HTTP Error 503: Service Unavailable",
-  "actu Introductions en bourse: HTTP Error 503: Service Unavailable",
-  "actu Rachats et fusions: HTTP Error 503: Service Unavailable",
-  "actu Résultats d'entreprises: HTTP Error 503: Service Unavailable",
-  "actu Petites valeurs en croissance: HTTP Error 503: Service Unavailable",
-  "actu Pays émergents: HTTP Error 503: Service Unavailable",
-  "actu Défense, énergie, matières premières: HTTP Error 503: Service Unavailable",
-  "actu Crypto: HTTP Error 503: Service Unavailable"
- ]
+ "erreurs": []
 }
