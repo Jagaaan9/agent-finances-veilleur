@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T05:20:35.865220+00:00",
+ "mis_a_jour": "2026-11-28T05:30:35.812184+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54626.29,
+   "prix": 54645.52,
    "devise": "EUR",
-   "jour_pct": -0.2,
-   "mois_pct": -25.02,
-   "volume": 4.31920495,
+   "jour_pct": -0.16,
+   "mois_pct": -24.99,
+   "volume": 4.33377699,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 834986797,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 834986797,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Crypto",
+   "titre": "BlackRock leads $389M Bitcoin ETF exodus as November outflows hit a record - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcHdrUHBDVkZzVkt3STVFQTV3OUtjWTRaeDYzLVFRaV9mYmpYLUpWR29sOHBQejdwMzRaRE5iU2dFdGZzbWNPMDRUcW16Yndsc19OdnJ6Sk5jSEpKNkxYVnZQMGRhbU5nQmoxbjdDZDVxYTZOU0ZQTHNxMC03ZUp0ZEZB?oc=5",
+   "date": "Sat, 28 Nov 2026 05:27:38 GMT",
+   "vu_le": "2026-11-28T05:30:35.812184+00:00"
+  },
   {
    "sujet": "Petites valeurs en croissance",
    "titre": "The Roadmap Ahead - Seeking Alpha",
@@ -6446,13 +6453,6 @@
    "titre": "Anthropic Stock (ANT) Forecast – Analysts See 60%+ Upside Despite Ongoing AI Trade Concerns - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2pHNk04VDhiTU9zN0o3LU8yLV9zTUpCT1ZCbTZ3S0hTZG9vd19sWVdLdFhsQjZLeWRzSnh2MGdUREdpRlNfUS1TdUtJWFpTdFQ5dVktV1p5d3FvVE0yTGhmTDZ6czUybVYzRW9hQkx2NFR2ejhKRk1JcW94VEhMNm5OcElvS2V2dWJZNlg4NzFueEZEMGdEN1UtTncyWjhkWWNB?oc=5",
    "date": "Thu, 26 Nov 2026 22:27:45 GMT",
-   "vu_le": "2026-11-27T14:30:41.530524+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Fire Sale: Here's Why Now May Be the Perfect Time to Buy Nvidia Stock - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPelI5QmYxOVVWWEh4SklrdkNoMFpYZlVJOE4yZzE1WHVySWRucmJ1TUd1ZjUxV0Yzdm5aY091ZUlrenlsRUh6YkhzVVBxcWREeGl3V29ZUF9qY1BrcnRSMlp1MEpFSUtlUzFrdEFzY0dEdVNJNjdmWEdFOFhwVGZsYTVNbXNBTlRpUGgxTmpRZ2ZlM21MT01TbFhrMWVDYTJndDVWX0M2Y0NjNm5nVldPMg?oc=5",
-   "date": "Fri, 27 Nov 2026 14:18:02 GMT",
    "vu_le": "2026-11-27T14:30:41.530524+00:00"
   }
  ],
