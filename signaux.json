@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T12:30:35.291685+00:00",
+ "mis_a_jour": "2026-11-28T12:40:38.286093+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54183.09,
+   "prix": 54137.68,
    "devise": "EUR",
-   "jour_pct": -1.01,
-   "mois_pct": -25.63,
-   "volume": 55.58806899,
+   "jour_pct": -1.09,
+   "mois_pct": -25.69,
+   "volume": 56.00643953,
    "volume_relatif": 0.26,
    "capitalisation": null,
    "per": null,
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
-    "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 14.4,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3423,6 +3409,20 @@
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
+    "devise": "USD",
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
+    "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PM",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK-",
-    "prix": 19.1,
+    "symbole": "NYSE:BAC/PK",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH-",
+    "prix": 21.12,
     "devise": "USD",
-    "jour_pct": 0.26,
-    "mois_pct": -1.95,
-    "volume": 178204,
-    "volume_relatif": 0.77,
+    "jour_pct": 0.52,
+    "mois_pct": 1.29,
+    "volume": 110706,
+    "volume_relatif": 0.53,
     "capitalisation": 338593252758,
-    "per": 4.6,
+    "per": 5.0,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les anticipations d’inflation repartent à la hausse dans la zone euro (enquête BCE) - Agefi Luxembourg",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNWtOekc0Skp4MGtCQzhMRkNMRmI1T0dVRGU1ZGxGZkNFbWlGcEhObDVOeG9FV1k3Vjc1cDNFb2p6WmkzVUdiTVczbjlleERnVE5RWWtTbnVEbFdFQWJGUl9XQ3M1WU9pMDFrSHh4akZldVJ3YU52aU5JT0xTSWwwQ1V2Y2o?oc=5",
+   "date": "Fri, 27 Nov 2026 18:48:43 GMT",
+   "vu_le": "2026-11-28T12:40:38.286093+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Evergrande New Energy Vehicle Delisted by Hong Kong Stock Exchange, to Exit Hong Kong Market Dec. 14; SAIC MG to End Combustion-Engine Car Production Next Year - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WUHRIb2FtYzk0X3I0a0RQUms1S0otM085U1FVSWE3ZUZXYU1NeHc4ZmZSTUt4Ni10WTdBYndLSHNfWGtxTXJNZFJYVWkzRHRXc0FSTFlaS3R5N2NWSC15Y1N3d1d3ZjFEMFJ1cXRwcHgtZy1rb0E?oc=5",
+   "date": "Sat, 28 Nov 2026 01:55:00 GMT",
+   "vu_le": "2026-11-28T12:40:38.286093+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Why Goldman Sachs rates Unitree a sell and thinks shares could fall 48% - South China Morning Post",
+   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcWdpanFoVFN2OHRWaTBqRjdvNUFFUFdha0tLajhrYWlORlRIRzd4cWhSNGVqbDJGMEhsYmEwM3lSV0FRbmFKaFpRQmEtUUpaQ1ZiVTBrU1dMRkRSRldpNEkxRXMwcGVVRnJ2Y1YtNmlzTTIwYXdhRF9nb3lPMTI1OThMS3pPZmFxS1ZkYWFyS0dOTkVVR3Y1bklGVUEwN201NWtIRVBDOFNDb09YT2x4cExabjZ4X0xCRmtFSk8wOWV1Z9IBwgFBVV95cUxQcWdpanFoVFN2OHRWaTBqRjdvNUFFUFdha0tLajhrYWlORlRIRzd4cWhSNGVqbDJGMEhsYmEwM3lSV0FRbmFKaFpRQmEtUUpaQ1ZiVTBrU1dMRkRSRldpNEkxRXMwcGVVRnJ2Y1YtNmlzTTIwYXdhRF9nb3lPMTI1OThMS3pPZmFxS1ZkYWFyS0dOTkVVR3Y1bklGVUEwN201NWtIRVBDOFNDb09YT2x4cExabjZ4X0xCRmtFSk8wOWV1Zw?oc=5",
+   "date": "Fri, 27 Nov 2026 14:15:58 GMT",
+   "vu_le": "2026-11-28T12:40:38.286093+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Why are Nvidia’s AI chips special? - Fast Company",
+   "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaTNDSVBXZzV2ekhocHpzWjh0UFV1bHIxZFNQbm9VaEdKdzJaWmIxT0k3Q0d2QlUtSnFvbkYwSU84S3RJMUF6cGRaRk42Tl9FODk4SW41cDhyUl84bU5lMGFVOUtRZXpTTW9RMHRTeGRPeWRDQ3dlYjQzbVA3Tzk1VHBzOExZTXc?oc=5",
+   "date": "Sat, 28 Nov 2026 09:34:23 GMT",
+   "vu_le": "2026-11-28T12:40:38.286093+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Africa’s richest man takes $47 billion refinery gamble to the stock market - The Financial Express",
+   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMXdQR3pGaU5OcUhQaEZzbmVVZ05fbDJkME9aU2RCZ0I2MXVqODBSMDRsVmlJZnlucnVJVllnV1pycXowVzRfbW9HeldyVEJUSlE5QW5YX2lXV3Etd2cxSUcwODRFaXhrM0lucWI3Rm54ekRFbjdGR08xMFlIOXRDS2dWOTJSRmhiRVU4SDlOUmFBanlOMnhuTDJZSkhLbHpQQWlzZUFfYzc1cDROYWhOT2tOaEtFbGRSV3RtZmNRWnR2enREenJJ0gHOAUFVX3lxTE1PXzJ0ZGkyWHRXZERIb3NrbTVHTC1lTS13SUFKeFdlZUo2RU5NaXFfb2g4RTk0SnR3c056bUQ4RkxMeHJDUFdYTG1CMkExMnNzajBVSWtJc3VxbkpNNlhNZVBFWUJ3TzZBMmduYzZXRVlmLTh6Vk5ud05ieTNLMGM5RVRFUTlWVG40Z2c2VGpiUmRiQ1JzVHZjWDJXSWhZUC1Za21nVlZMVGQ1bmhLRG9YemVGcjRNdU0ta0RGVnl5YllKSmhrMlR1T0ViekN3?oc=5",
+   "date": "Sat, 28 Nov 2026 12:23:57 GMT",
+   "vu_le": "2026-11-28T12:40:38.286093+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Puma stock: JPMorgan downgrades rating as markets are reshaped - ad-hoc-news.de",
+   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcEhBZXV2RXRxS1l2c25yZE10UVJ6YkFsb0w0VklSZUxGcnZhMXJDcGE1cXJmcEVvUkhtVmtIOUxFWElOTHJLMnh6NWswREcwRlVfV180d2E0bFF1ZU8zRmRfcmVtR1VCOGFndjRKYnNnNTZidWRwdml3d0dILXVOaFRCVS0yMTJnYkF2cjdxcnRUN0tLamVJTHpzalpRYmNSWjFGZ3p3U2k1S0lYb3h6X1IwTUpvejlqNFdPM2d0UGltZw?oc=5",
+   "date": "Sat, 28 Nov 2026 11:19:33 GMT",
+   "vu_le": "2026-11-28T12:40:38.286093+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "These tech stocks may let you play defense without giving up on AI - MarketWatch",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOalRaTURnT2pFYS1sUTNGckkzeEd3aE52bGFlb0lnTTJfcy1saXNYV0ZwOVZTdlkza2RwMWIwX1B2ZjVycGJObE50dmtNdVdPV1RkYlpWUUZ0VUNUalA3UTVtWWhTVmwzUjBIcU9rRHM0OGpPRlBJZEdzU2EzUU8tN1BWSVQ0V2tpM3pRMXE2SGVDQm5ZSzZBT1hyX3c0djlESWFIajdPNWtJUWZPZXc?oc=5",
+   "date": "Sat, 28 Nov 2026 12:30:00 GMT",
+   "vu_le": "2026-11-28T12:40:38.286093+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "actualites AMAZO227.6TCIOPENS (5P15S) - Turbo | DE000FE3T178 - Cotation EURONEXT ACCESS PARIS - Bourse Direct",
@@ -6405,56 +6454,9 @@
    "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOclFYQWNPLWRwdmpZWUdDUlhaNk9oejlDUDVkYjcyU0FKWTllbDJucHNKZWtFOV9JakJiZXYtZW9xVDRza2FJNkV5Q1UwWlVTYUx3aVNfUWpKV3YzSzI3NFV5RzhGZS1mY2hadVFTTmtXaEFuZVYtbzZzYlBtT1NqUGpZNFpFUUJkQ1hTSXpHQnNIcWFiLUthS1dOVGpTdGhfdktPUzI1SUNSZ21WakxVMFUzbVgxTlN4OS1pSUllRFk0SWNHbGdfYVBtV0hVVXY50gHQAUFVX3lxTE5yUVhBY08tZHB2allZR0NSWFo2T2h6OUNQNWRiNzJTQUpZOWVsMm5wc0pla0U5X0lqQmJldi1lb3FUNHNrYUk2RXlDVTBaVVNhTHdpU19RakpXdjNLMjc0VXlHOEZlLWZjaFp1UVNOa1doQW5lVi1vNnNiUG1PU2pQalk0WkVRQmRDWFNJekdCc0hxYWItS2FLV05UalN0aF92S09TMjVJQ1JnbVZqTFUwVTNtWDFOU3g5LWlJSWVEWTRJY0dsZ19hUG1XSFVVdjk?oc=5",
    "date": "Fri, 27 Nov 2026 13:14:47 GMT",
    "vu_le": "2026-11-27T19:40:38.060598+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "JERA en discussions avec Anthropic et Meta sur des centres de données près de ses centrales électriques autour de Tokyo - Zonebourse",
-   "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX2hXa2szemVpek5uUHhZMmRIdmotN3FIa015U3A0N1h0aGRrY0Zza2tuVURsbE5zVm1ha3A4MFF0MTBpdTlyZWZXOEVGQzRtVlBtaWF2Q3hnZDdvVGktb3EyR2pGTFJORTAteElFYVJyekJiQlkzMHdVcWJOTldQdVZHMUVJcHJmODZSalFEa1p3VkZNRTB1UF84NkVCaTI3N0ZPbC11RmxEVFRNNFRUSll0aEZyTFgxbF9Yd0xRb1ZMTzVMYmZiR3JtbHhfZTFTa1RkaHJRbDVNVFQ0VlkyZGFRMjdUSHI4NDU0RmZYZDhoUkE?oc=5",
-   "date": "Fri, 27 Nov 2026 01:17:15 GMT",
-   "vu_le": "2026-11-27T19:30:36.568082+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stocks jump to close out an erratic week that was also Wall Street's best in more than a year - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPamxrSW9fMzdNd0V3OEtVbVZLWE9nc3FFOVUtWVJvZ2dVVm5ZMW9rNTRjbVZ1elRBWURKSGJvN3YtOFVmWnFvV0VRcjVPRVM3NnVOSnc3LWtNZWEwdl9ON1l5eXZlaUxENmpVX0hOdC1WQklzRGxDN3pCX1d6WE56bHJkTHY5M2h6SzI2V1Z4WTFnQlllZnZWWlZMd1ltanBGWGRjZFBnRmJhS2FRM1JYYmZGVHpNYUVNRmRUSWVrYVhPSDdzM2hBd0dDWlUwWER0bWRVc1dicFlSZDJlUEo2c0RVWGFJbzhjQTdpc1poRzlGNk1tRjV2WmJqTmwwS3UyOEFyNWhZcXZySnM?oc=5",
-   "date": "Fri, 27 Nov 2026 18:07:28 GMT",
-   "vu_le": "2026-11-27T19:30:36.568082+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Jushi Holdings Provides Business Updates on Illinois Acquisition, Virginia Cultivation, Financing - Cannabis Business Times",
-   "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONG9VRWFYWjFwd2RzQ0Z0NG1ZWVUxbzBvaTNJM1Z0VlN6UUR5U2o1Z2RmdmVTLUY4cGs2WFhaTHJ2dzJ1blh1TlNpcmt2OGt6VGJkbEhRLWJhcFR1X1lGcWZJY1FfQTFrcEt5bS12RDBicHhnc0pDa1o2VV84V3k3bXktZi1RakJaRzV5Y2RDMWJ3QUtydzNXcHRVLS0xbmlHbHJna2dlNG1rM1J5MGFYakNOZHpPTVY4SEFwNmpHVE9JbXE4MzBjZEI5cVhsOXFTYXF5M3NiT1BxblVnR1h1Tm1tb2ZiOVhIWTdB?oc=5",
-   "date": "Fri, 27 Nov 2026 17:54:07 GMT",
-   "vu_le": "2026-11-27T19:30:36.568082+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "How to avoid Canadian home-country bias with global equity ETFs - MoneySense",
-   "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDT3d2eEk1M2tMWm1pZjZkLWx4SEN4QTRyYnJpWk9IT2U0NDZ1UmZWQmRDQmFGd0dNamt1NHpDeXN4YWNtX1VZSHZqeVJfUmo1MFlsYmw3M1NyTGpEQ1dDQUNPbDZ6VlJu?oc=5",
-   "date": "Fri, 27 Nov 2026 18:27:09 GMT",
-   "vu_le": "2026-11-27T19:30:36.568082+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Defense and steel in the spotlight: CAC 40 closes up at 8,156 points, S&P expected to weigh in on French debt - Idéal Investisseur",
-   "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNclBFY09xTjBxektNUm4yand4OXRwaFR4MTBYdUxabk10bGZmQXlsRWlXR1VrcUZoWjd1VW1TNmZrSDUyVU5POWZYZjlsdzVBcFVWQU92cngyY3pQdzVHb19KOUxFeTlMZUVDX09RbENpanBHdFhEV1JHTWNrSmEzUVNkbjlodlVxY1g2Z1U0eUpsUjJhNWNzcFlyTlp6TFJ2R3VHOE9VaEk5WGtVTVY3Rk5kVERtcjBkZ2NNOENUMkpZR1lyNEx0b3VlcEdReWJHRnJtb2J1UzQ1SXdERndmQTZlZzZ4aFVQU2RzZXJvU3Qza1NaSV80TkE1Z0x1amd2QWNNdFVkQXdEWkE?oc=5",
-   "date": "Fri, 27 Nov 2026 17:04:00 GMT",
-   "vu_le": "2026-11-27T19:30:36.568082+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Strategy Plunges 44% in a Month: Could It Survive Bitcoin at $20,000? - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU3FycF9HYzV5X3pqRUJuQndUN2hkRnFiWGpYQlVWSXdhVE85WGpxY3Etb1JxZUg3eTNQQW5YU2JfT2d2NkpLNkpKNGhaSkRYbjg2OGV5RFYzZS1IQy1jTGJWdE5XckFIQjhjUFFuRDlCMjNNUjRfM2I3aXpHMEtHaWctbTdPX1A1NkZDSFVocnhpNUN4ZFdfRGQ0ZTQ0UDJLWmFRZF9kOTEtYU9qMkNYMlNZWHZWMlM3VnhPOVJycVktdFBS?oc=5",
-   "date": "Fri, 27 Nov 2026 19:15:06 GMT",
-   "vu_le": "2026-11-27T19:30:36.568082+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 27, 2026 at 3pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0tBNE9mX1hwS2xTSlh2NWtNUzQ0TXFuVUpPdlZTVmVmWUxxb0dGQ0NsUld2QWlfNzVWcW83MmllNHBDdFdnWGlKQXQzazhURm02WFhvSW9wMUpKWHo0M2dkT3hwc3RHemstbG5EOTI1LVNybDlCV1NNUnhxS2RTQWRIWnBYVTVzOHZXdVhmaFkycFM2WklFR0ZmZUVqQzN6TmdFeXRuWktGc2Fkb3c?oc=5",
-   "date": "Fri, 27 Nov 2026 19:12:03 GMT",
-   "vu_le": "2026-11-27T19:30:36.568082+00:00"
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "actu Crypto: HTTP Error 429: Too Many Requests"
+ ]
 }

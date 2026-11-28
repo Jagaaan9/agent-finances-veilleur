@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54183.09 EUR, jour -1.01 %, mois -25.63 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54137.68 EUR, jour -1.09 %, mois -25.69 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -288,14 +288,14 @@ POSITIONS ET INDICES :
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
 - SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour 7.52 %, mois -24.25 %, prix 119.5 USD, capi 579228478930.6643, PER 6.7, volume x0.77 la normale
 - Tencent Holdings Ltd Unsponsored ADR (OTC:TCEHY, secteur Technology Services) jour 3.97 %, mois -8.56 %, prix 45.29 USD, capi 404554837871.25, PER 12.2, volume x0.7 la normale
-- Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK- (NYSE:BAC/PM, secteur Finance) jour 0.26 %, mois -1.95 %, prix 19.1 USD, capi 338593252758, PER 4.6, volume x0.77 la normale
+- Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH- (NYSE:BAC/PK, secteur Finance) jour 0.52 %, mois 1.29 %, prix 21.12 USD, capi 338593252758, PER 5.0, volume x0.53 la normale
 
 ÉCRAN France : meilleures performances sur 1 mois :
 - Clariane SE (EURONEXT:CLARI, secteur Health Services) jour -1.54 %, mois 46.05 %, prix 4.618 EUR, capi 1649834769, PER 130.5, volume x2.03 la normale
@@ -310,6 +310,13 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Banques centrales et taux] Les anticipations d’inflation repartent à la hausse dans la zone euro (enquête BCE) - Agefi Luxembourg
+- [Chine et Asie] Evergrande New Energy Vehicle Delisted by Hong Kong Stock Exchange, to Exit Hong Kong Market Dec. 14; SAIC MG to End Combustion-Engine Car Production Next Year - BigGo Finance
+- [Chine et Asie] Why Goldman Sachs rates Unitree a sell and thinks shares could fall 48% - South China Morning Post
+- [Intelligence artificielle] Why are Nvidia’s AI chips special? - Fast Company
+- [Pays émergents] Africa’s richest man takes $47 billion refinery gamble to the stock market - The Financial Express
+- [Pays émergents] Puma stock: JPMorgan downgrades rating as markets are reshaped - ad-hoc-news.de
+- [Défense, énergie, matières premières] These tech stocks may let you play defense without giving up on AI - MarketWatch
 - [Anthropic (FR)] actualites AMAZO227.6TCIOPENS (5P15S) - Turbo | DE000FE3T178 - Cotation EURONEXT ACCESS PARIS - Bourse Direct
 - [Marchés mondiaux] Wall Street Stocks Rally as AI Shares Recover on November 27 - Limapagi
 - [Chine et Asie] Singapore Shares Rebound As Bank Gains, Easing AI Concerns Lift STI Near 5,000 - BusinessToday Malaysia
@@ -453,10 +460,5 @@ ACTUALITÉS (dernières 48 h) :
 - [Marchés mondiaux] Global markets rally as end of bruising month approaches - The Korea Times
 - [Intelligence artificielle] Stocks Settle Sharply Higher as Chipmakers and AI Stocks Rebound - Barchart.com
 - [Petites valeurs en croissance] Central Bancompany (CBC) Stock Still Looks Undervalued After Its 217% Run - Yahoo Finance
-- [Crypto] Bitcoin's Slide Is a Stock-Market Story, Not a Crypto One, Analyst Says, With $100,000 Seen by Early 2027 - BigGo Finance
-- [Crypto] Binance to add 500 million USDC to SAFU, move 7,500 BTC - Crypto News
-- [Crypto] VTB Opens Bitcoin Trading to Qualified Investors as Russia Builds Regulated Crypto Market - BigGo Finance
-- [Crypto] Whales Snatched 121,000 Bitcoins Amid 30% Drop - Cointribune
-- [Crypto] World Liberty Financial’s WLFI token plunges 59% in 24 hours - Crypto Briefing
-- [Pays émergents] Africa’s richest man is taking his mega-refinery public in a blockbuster IPO - CNBC
-- [Pays émergents] 5 Growth Stocks with a Competitive Advantage to Watch Before 2027 - Equitymaster
+
+Sources indisponibles ce passage : 1 (exemple : actu Crypto: HTTP Error 429: Too Many Requests)
