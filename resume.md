@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54403.03 EUR, jour -0.6 %, mois -25.33 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54534.07 EUR, jour -0.37 %, mois -25.15 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -288,8 +288,8 @@ POSITIONS ET INDICES :
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3349039139769.5396, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3344306225492.11, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1559025893850, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655656154.782, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700462317.067, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,12 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Bourse : qui a acheté Anthropic le jour de son introduction, et qui a tenu ? - Les Echos
+- [Chine et Asie] China and Asia Stocks Rally; India-US Trade Deal ‘Nearly Done’ - Asia Financial
+- [Petites valeurs en croissance] Haleon (LSE:HLN) Stock Could Be 37% Undervalued On Cash Flow - Yahoo Finance
+- [Pays émergents] India markets rebound in November; domestic growth drivers key to 2027 rally: HSBC - BusinessLine
+- [Crypto] XRP price at Nov 28, 2026 at 3am EST Crypto Prediction Market - Robinhood
+- [Crypto] CoinMarketCap's Fear and Greed Index sinks to 10 as extreme fear drags on - TradingView
 - [Bourse de Paris et Europe] La Bourse de Paris termine la semaine dans le vert - Bourse Direct
 - [Chine et Asie] China’s State Council meeting calls for greater role by ‘national team’ in steadying stock markets - Global Times
 - [Chine et Asie] Crucial role of China’s capital market emphasized - chinadailyhk
@@ -452,9 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] SOL price on Nov 27, 2026 at 7pm EST Crypto Prediction Market - Robinhood
 - [Chine et Asie] [Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제
 - [Rachats et fusions] enCore Energy Gets Nasdaq Bid-Price Warning, Amends Verdera Deal - kalkine.com
-- [Crypto] Bitcoin's Thanksgiving Rally Unravels as $7B Options Expiry Rocks Markets - Bitcoin News
-- [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
-- [Intelligence artificielle] AI and Chip Stocks Draw Bargain Hunters: Nasdaq Jumps 2.3%, Up 6.7% for the Week - BigGo Finance
-- [Résultats d'entreprises] Earnings Beat Could Change The Case For CMC Markets Stock - Yahoo Finance UK
-- [Pays émergents] Indonesia Arrests Three in Alleged PT Dian Swastatika Sentosa Stock-Manipulation Case - Briefs Finance
-- [Chine et Asie] Global stocks rise, key indices on track, while Indi
+- [Crypto] Bitcoin's Thanksgiving Rally Unravels 

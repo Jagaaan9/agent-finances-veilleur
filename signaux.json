@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T07:10:35.810454+00:00",
+ "mis_a_jour": "2026-11-28T07:20:36.364155+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54403.03,
+   "prix": 54534.07,
    "devise": "EUR",
-   "jour_pct": -0.6,
-   "mois_pct": -25.33,
-   "volume": 31.07292869,
-   "volume_relatif": 0.14,
+   "jour_pct": -0.37,
+   "mois_pct": -25.15,
+   "volume": 36.93368828,
+   "volume_relatif": 0.17,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Bourse : qui a acheté Anthropic le jour de son introduction, et qui a tenu ? - Les Echos",
+   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM3BrZkNObjg5TVVoT1ZlYVRwcXdjOWx3X1JwQThLVThvazhIM0hJSlBHS2dWc2VGa1RpakpiMk1Dc1R1THhIQWF4MDN1Sy1nZFNEaDY4dkhDODF4a01mWHlKRlNhNWxTX3VWd3NLdjEyaW15TjhsQktXelQ4SlB6WDk3azNaeFIwMjJTeXVFcVAzdGxvVGwxYkw1M0pkdlZqX2FNUlZoWXpiQ2xvVURkNGVSa3U1R2RsR25pbW54OVktUQ?oc=5",
+   "date": "Sat, 28 Nov 2026 07:15:11 GMT",
+   "vu_le": "2026-11-28T07:20:36.364155+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China and Asia Stocks Rally; India-US Trade Deal ‘Nearly Done’ - Asia Financial",
+   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGY0UFBINy1nTmlwSXUtZXJLX3JYNWtOd2syMHVUVjMxNDFIZEdtV1ZuU25sMm9Nb3JGYXczbXBPZ2RsVkt1NFByOE9IN1VPa3hZZTVlNGNhU2NJTm85ekEtVjYtSGNhMXBBemk0dTZyUUdkZEdFVTVBTjRpZmk0MUJUTDZhekVqM0dUWUlUTmJDUVE?oc=5",
+   "date": "Fri, 27 Nov 2026 13:00:16 GMT",
+   "vu_le": "2026-11-28T07:20:36.364155+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Haleon (LSE:HLN) Stock Could Be 37% Undervalued On Cash Flow - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOFFZNEc0blZXTzVQVkRCbmJiQ1Y5QmUtVTlYR0NaZElXb0NYa0wyaXRhSWQzUTZGRXBpZzl1RzhxUFlNRlNGYzZvQVZqZVFqVGtOLTl0bFlpWWxQV2d0Tm03RzFEQU1JelF2RnJ1YXhXSkVDczRXUl9hT180Wl95UnRqRFNoR0QwX2V3RjVNemMtMDZ5WkE?oc=5",
+   "date": "Fri, 27 Nov 2026 09:11:47 GMT",
+   "vu_le": "2026-11-28T07:20:36.364155+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "India markets rebound in November; domestic growth drivers key to 2027 rally: HSBC - BusinessLine",
+   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd1I5eGtuNGF4MEZaRmh3bV9WdDFSLTc3dHVYa3NWWlVNX1RvN2ZsZGtaOGctX3l1UndxQ3g0OEkwRnFuWTZTM0ZxT1BnUGtRMWhwQXpKUnk5a3UyTk1RbDNQUXFMRHc0S0RFbVoyMEdCQ19yWHd4RjlMZ21nUzRJLTVaWjlibGlBZExBMG9QTmxvQUVQMHNuM01mS1ZReWdybU9TMEFoMFJrdk5GMGxZcVBwYVNhRGY2Qm1XVjllRjA3N00zWjZwVlRyZVVLendWUUdsdXl1WWRyaDBTS1HSAeQBQVVfeXFMTlYzQ3paRURjQ3pJLUViOXZXNXZJdmJsNTI3T0NHdnZXMXRLS3VER0J1NHh6T2NJMnQyZ1ZmdE84U0U0MllCQk1QWEVFbHEzaENQd2lRejBqckVSaFlTWjhYcTdXUFNBOVhnVDNUZDR5VXVJeWxUcHo5U1JQY2lybFJXMnVjYlJrMWdvMGNFUGtRRHJEdXlGR1dPMS1HUTE4Wi13cC1ieGdIZ2J0bmlSOUxGX1JVSTBzQTdWbVhtOWlMSHRpckZnZXRMbmVHUEF4Z1haVFdCMGZHM01XZi1ON3F6cHB4?oc=5",
+   "date": "Sat, 28 Nov 2026 07:07:29 GMT",
+   "vu_le": "2026-11-28T07:20:36.364155+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 28, 2026 at 3am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdVF6TlNDZDl5UWdaX2lkSGNEcTMtU3RJREJMZFA1ckhXQlVyT2JubkM3dGUxMllRNkdwOVNfcUxyMklQeVpyTjFyWmw0YkZxOWwwWk9MbGRDSzR5MXFVVVNUSlJUbjZBT2Z6ai1qQXpyRXdNMTkwcWgwTUpkMVA1VkhTTnVFeGxVc0xKUEpKSENqZUEzWjlkOW5mY1RjZmFzdnVqdDllTVM5RWFYYlE?oc=5",
+   "date": "Sat, 28 Nov 2026 07:12:42 GMT",
+   "vu_le": "2026-11-28T07:20:36.364155+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "CoinMarketCap's Fear and Greed Index sinks to 10 as extreme fear drags on - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPakh0dU9tRWltX3VBLXAwd3NHMFpsZWE5TFozRUU5Wko1NHhzRHlhd3JfcU1JbUtISmlrZ0djdEdyYzNtS3NWT0g5ZlRheXIyR2dXN3ByT1gxdG9ELVFWX1lzNmlJLTBrQm5fNlg3Ri1pZmF6YmFjdDg0cEFRMjVBdnhPTlFQbEdNQ0hEVkF3dTZlSXZHSmo5Q0tqTERiZXNVMFJkNm9rZnJVTW5ydzk1LWx3dDFoamFJcG01Vl9kZmhvQUhVNklobF9jZ2FoemIyMmZvbw?oc=5",
+   "date": "Sat, 28 Nov 2026 06:58:00 GMT",
+   "vu_le": "2026-11-28T07:20:36.364155+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "La Bourse de Paris termine la semaine dans le vert - Bourse Direct",
@@ -6412,48 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2NqLWFiVUNlbms4Sk5xTWduZ1ZtZTJGTXM4TUpCMkNFb2U0bXNaR1pIazkyTHVTM2ZuRzhXaG5tZjBJdnpLbGlaR0VfYkVmblF2VGIyZzFpQ1VMOHQ0RXBuclpMamdlUHIxWVJVQ0RZRmx3TWZLNllTSmVhekhIcFVYUUIyT1ZhS3VxRnN2eG0wN2pSV200ZWw5MHpFTFpKcFZMUw?oc=5",
    "date": "Fri, 27 Nov 2026 12:00:00 GMT",
    "vu_le": "2026-11-27T15:40:36.363132+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Reports of Potential Company Sale Boosted CONMED (CNMD) Shares - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMHpsOXhNaFpHazZfU2dIb1V3V0N5LUZ0WmZGQjJFOVBMbUhldC1NNzdhRWt6cnNvZlE5bHRkY191R2E2MHg5Y1BEU2ZJMGg1VHIzbDdJZ3RLNko1ZGZKTFA0Q2Q4N3Zmc19IMUQ2dm1lV3RTRUx3WTV2X21LekN0WU5nVXYxa0VGTlZNc2l1Q1RDWERGS1U3Zzk0MVhqY0hpcXZETnB3?oc=5",
-   "date": "Fri, 27 Nov 2026 14:35:44 GMT",
-   "vu_le": "2026-11-27T15:40:36.363132+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic stock rises 4%, regains IPO price as Cathie Wood buys more shares amid AI market volatility. - Pluang",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcmRPSk45djYzVmk0MEticnNDamJkUGR6Nk4zeWR5aU5CbGdRTjU1NWkxT011ZUhfSHZjZnhyUjM3aW1lX3BidlIwX3pYMVNuaFYyemM3SzcxSjFkcDV4NUJKbDczanZaRjdNYVRhZndTZWgxV21vWUlhY3V2SjFtQ0k3REQtVDVuMHUzRHFsOUlCV3FhTTVMUlM2dks?oc=5",
-   "date": "Fri, 27 Nov 2026 15:13:46 GMT",
-   "vu_le": "2026-11-27T15:30:36.426265+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stocktwits - Stock Market Live Quotes, Social Community Discussions, News, Stock Rankings & Earnings - Stocktwits",
-   "lien": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5CbWhDSkpSUGlnTUNHUHlsQmt4YkQ5TDVCRFNEX0t3dThqQzNOdEw4aVA4SE5mb01lXzZN?oc=5",
-   "date": "Thu, 26 Nov 2026 22:54:28 GMT",
-   "vu_le": "2026-11-27T15:30:36.426265+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Consumer Reports: Crypto exchanges explained - News4JAX",
-   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSjVnb04tWXB6NkJHd1BfUlR6ZWYzZHVxLTN3THlsdUdkWl9zbWNPVUVxeUxfUm8ybzFMWWZBeWo4cXA1Zmp3aFItM2N4Z2pMMThRWnN6M0pOMTg0RHdzenVYTFEzX2F1Ql9tSlAtNnNoWTNSREIycjUzNWRTMjcyX3M2UkVMSXVEdzZMZ3pjcw?oc=5",
-   "date": "Fri, 27 Nov 2026 15:06:51 GMT",
-   "vu_le": "2026-11-27T15:30:36.426265+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Why is Bitcoin Disappointing? - Barchart.com",
-   "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jcHU5RWFHZGxlM3hsRWI1Rng0ME1KVzZLQ0lJMFhFRWJuRml4MlZ2S0djdTFYbG5aUHNmRVNvVnJUUG5tSXpLcGtIbDZoWjlIOS1QWDVFaGVoNC1sVWJHRUZjV0dsWnVncWJmMlpNQVNXdHZfQjZpa0tLM18?oc=5",
-   "date": "Fri, 27 Nov 2026 15:00:03 GMT",
-   "vu_le": "2026-11-27T15:30:36.426265+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Ethereum Glamsterdam Upgrade Gets December 15 Test Date - Bitcoin Foundation",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVJWOHk4RnhWUWx3Q2VxS19WcTU4WHZXM2hLMi1icXBXa0kydDlldlB2QThONkI2czRTSUZJb19LeEJhcVhEcGZsYkNpTnUzeEZFcWk0SlNBS1FMLXJ0OVNIWk1VZFhQZ3MzaWxjOUdHRnBxT2MxUXF4TXFpTHI2NFlvaE85Qk5VQnBuR1hxcm5iZkh3ejBMQ2pxQjIxRnNNcS10QkZjNE4zTUZpREQ0NlhFR3Yxdw?oc=5",
-   "date": "Fri, 27 Nov 2026 15:29:10 GMT",
-   "vu_le": "2026-11-27T15:30:36.426265+00:00"
   }
  ],
  "erreurs": []
