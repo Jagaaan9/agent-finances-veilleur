@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T06:30:35.823784+00:00",
+ "mis_a_jour": "2026-11-28T06:40:36.701330+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54745.43,
+   "prix": 54700.5,
    "devise": "EUR",
-   "jour_pct": 0.02,
-   "mois_pct": -24.86,
-   "volume": 6.57162159,
+   "jour_pct": -0.06,
+   "mois_pct": -24.92,
+   "volume": 6.58049101,
    "volume_relatif": 0.03,
    "capitalisation": null,
    "per": null,
@@ -3656,6 +3656,41 @@
  },
  "actualites": [
   {
+   "sujet": "Anthropic (FR)",
+   "titre": "Avec l’arrivée en force d’Anthropic, Zurich devient un pôle majeur en intelligence artificielle. L’Arc lémanique et l’EPFL sont-ils relégués en seconde zone? - Le Temps",
+   "lien": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPamZhVlY0aDg2cjMyZ2h4MGxLRmMzWEJJNTUxdVlja0VTQkNwUXRTdWFwbXBoVEk2SVJSQUp0QWl4NEJ0MEZWbGxRM2ZGZVBhd1VfMl8xR1FvVDVJaXFyWDJIaGVieDAwODQ0RlFTbUJvY0k1azFuOGEtdVVCdTdYSUhGV0JJTkdUajlSaWhyZTcteUJJaUVqakJrYVotOVEyOE16QWd0RWdsX1lVdllNWWpxZERZN2hEVzFJaUVpdjBmVHJ6SUNWSGxIOU5TZ3B6UnFiYVhid0MtSjFQbzNfZG9adnVvREpxdjdTVXIzNUwyY1hwNExiUTZhRG16Skt5SFpzZG9aNU5oSkJpeEUtTGpaNlc2N0h3RFdnUnpqRzYwU094NF9HMFBMOHdpa19jdThJ?oc=5",
+   "date": "Sat, 28 Nov 2026 04:30:05 GMT",
+   "vu_le": "2026-11-28T06:40:36.701330+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China stocks surge after State Council meeting signals market stability - China Labour Bulletin",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaERvOFllQ2pNZFMwZUd0OGRLZ3RCeTY2a0lQb3pYcGRIVENEdzd2UXRGMVZVdXNiLXhfc3hLSHh0d0Vqd3FUdzdOTUpRaXJzb3lvSDR0UnplaHlUMUFWUFJvM2wyaXpOX2swZGM4b214enhSdW9OS1NzNGlhRjY4U3RuLXo3ZXRKVjQ0RUF6VVJaeHVCUzhVdWo0bGNWMTA?oc=5",
+   "date": "Fri, 27 Nov 2026 07:39:48 GMT",
+   "vu_le": "2026-11-28T06:40:36.701330+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Sanofi Signs $41 Billion Deal to Acquire Insmed and Considers Launching in Germany a Drug Authorized in the EU Since 2025 - Informat.ro",
+   "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZjM1SmlMdmtIV0VMYjRXX0QzOE1FRFd6bkthTTZZbkNTdVg3eXR5djh2dGFfMWg4YWQwT1lIRjJnY2F4cnZoRUdIbzRpQ2ZOdHZlMXBvU0VQZDBfQW5Uckk2cGJYQ0pyVWpsMC0ySFZ2LWpNaFBNdi1LVUNZWUoyWTNtZ0U5b3BNQUMyWnl3WkNlUGxFWnctWkdEN0I2ak5fNlZlNDNtRDlRQ0VBeXVMb1p2MHZvY2ZjTEI0VHpnb2lwYXhZc1JEZEVLUmFZbTVVRW9kdlRPMkhEMm9qYWdUMzJwc2VsTy1U?oc=5",
+   "date": "Sat, 28 Nov 2026 06:00:23 GMT",
+   "vu_le": "2026-11-28T06:40:36.701330+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "3 Australian Tech Stocks With Earnings Growth Over 30% - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRi1rTDE3VXZ4YXcxMjRGakdobnpIbVpsVVVEaTdyeDJ3azl4dV85TW5QU2tFTGZORHZ4VUhlNk1nZzUxdDFLbGxpdWdlQnlWdWdMY3BEUnZxZjdNUmNCVkphbUs4blM5VlVvRkhOZUxIZjFzcE0wX1BaUURubEVKWmpDWWdZUy11QVpPME9sOVhuOGU4OTZsNjFB?oc=5",
+   "date": "Sat, 28 Nov 2026 06:11:00 GMT",
+   "vu_le": "2026-11-28T06:40:36.701330+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "HawkEye 360 And 2 Space Stocks To Watch - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzdQOXpVakpha0NXS29Wc3pJNXRoT0tQci12WlJMbFZyZ3VlUWt5Q2duZWxEMTlLQzBPZGhndHY3TU9qbVdydU50MXBBSjFOdTNMcFhCQzhfb09VMlhoRUJmSWlwai1iTGNHQzVTd0UtMVhQN2NDRWRzVWlZdW9RUTVwYWl4Y21aVGZfbFcyWHZqck1RVnc?oc=5",
+   "date": "Sat, 28 Nov 2026 06:11:00 GMT",
+   "vu_le": "2026-11-28T06:40:36.701330+00:00"
+  },
+  {
    "sujet": "Chine et Asie",
    "titre": "China signals strong support for stocks to stabilise expectations; Shanghai index returns to 3,600 - 联合早报",
    "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdVlJY0V4TVNNMGIwdVVFVG9neGlNSmg4VWlJeUx2czNzVmNfeENKSC1QakpDUGxuNjVsc093b18wcmJDYnpOcl83b1hLd05ZOWJUYUg0S0dtai1KUW5OOFpEYWlJaUJTNnVFbzVOUTJmZTQ3U1ZpMjNpQk0xbFRLdG1OLUlIYkdTZ0tVd1lLUm1TVHM5ZllLNEF2bnZiMmQ5aWRQQkh5QTk?oc=5",
@@ -6418,41 +6453,6 @@
    "titre": "Inflation May Have Peaked in October: Economists Split on How Many Fed Hikes Are Effectively Needed - TradingView",
    "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPclM0RzBvZGZwUUxyZFI1TVhCd3VGSlFBcmRRV1BfbE00Z3BrZzg0VmlYQkY2U0tSSEtLSUxXdEhtbFRmX2IyZURzdWR4VXJzVktfQlMtMTN6SGpGWEdMZE5hczMwZXFUeE1TLWhjaEdNbTNOWUs1OEZCS0JwdVRtTVI4QkNNcC1xaFlETTJSLV9MT0FNSkJpclNQRjg3Y2tTV2sxcUZjVndobFpiYnFoWmNkWk5oYTNJeEtPb2Q5anF0WlhLTGJTWDB5WXNrc1ZPckpaRzNKeGJ6Mkx4cXJmRVhZYXROandsQkFfMg?oc=5",
    "date": "Thu, 26 Nov 2026 18:20:06 GMT",
-   "vu_le": "2026-11-27T15:10:36.629100+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "L’or réduit ses gains, les risques de relèvement des taux par la Fed persistent, en route vers sa première hausse hebdomadaire en trois semaines - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX1hYX01xYjJsNFlfYVctRWEyeFFSSnlFMHhEbnY5V0RBZmlXWU9Pd2pGQWNvWlVJMVRxYTRxR3ZzSk9KMEpxbWJiOGIwTHhST1BRTjlGZ1N1a2ZlQlh0UXRzR0ZXMEZ0UnFDbGR3dm9FUXF4anl0S3lTbHhoNFVrWTc5UE1ZQ3dGa2JsOFllWDVqQmFtQlBsVVVTVmlmV1M5dFNXMlNHRlNGR0VWRHlyMUQ1WkVJUkdJaGVEak92d1RXeTJXMS1HWHRKMXA4Um1CVHJoVFBETkZ0Qk5CWEtlekhUdlJsTGhVTmxJcg?oc=5",
-   "date": "Fri, 27 Nov 2026 14:55:06 GMT",
-   "vu_le": "2026-11-27T15:10:36.629100+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Chip stocks lead a Black Friday rally, but Nvidia misses out: AlphaCheck - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbkxyTV9zSklTSFBpa3A3S0o3YnNudHVjamUtNlBVQWUyZ0xIb3FrS1ptbVNiR1dESHlSVGFLUERKUFZXeHlVLVlNSDVvQ3gyNDJ6UnlZUTFvOW9iTjMycG9TLWhuSUFCdjQ0X3BWelR1UXZSbjlKNHkwRDVzNW1qWlFiVkItanAwV1BsVWJYd19jVkdsYkFpYTRSUGRxdkhHLVBHZDVxV2Izbmg0NHo0R3JSakJEczB4cHd0LUxwQkxNWTBZckE?oc=5",
-   "date": "Fri, 27 Nov 2026 14:57:27 GMT",
-   "vu_le": "2026-11-27T15:10:36.629100+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Currenc Group (NASDAQ:CURR) Surges as Rotation Favours Smaller Stocks - kalkine.com",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1lKTUN5TE5vT1BMRXdsUEdMQjZRMU5XUVNMdGh2a3VWQXh3N0U1enZHV1o3S3lOMlpSUGprT3BwTWhodW1Fc0U1WXBkaFNxVkVrM0MtQ2Z0SEU0ZkdVdW13Z0JJZ3lseFNUbzBKbnRraWZqTkNZUUc4QWdQMlZfRWlGNkM2N3dYcmJUb1psbHJBY3NGV05MTVJLMThtbEFQNEZZ?oc=5",
-   "date": "Fri, 27 Nov 2026 13:09:00 GMT",
-   "vu_le": "2026-11-27T15:10:36.629100+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Strong AI Revenue Growth and Earnings Beat Ease Disruption Fears for EPAM Systems (EPAM) - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaV9ycHk3TkdZX2M4T1pNUnBvZU03UGI2ZWJ1aDN4cXFZWmE4c1ZkYmo0S1N4QUlHbm4yd2JFZXRIbFRSYlhaelVEbDBKZWpzQ00tUXhDQl9LY0RXU1h0djEya2RGS3JqNWR1YmxYMUxoU1QzajBvd0RWZFdqN2VlUzl5WUxJeEZDUS1CRDFoRkswYmJDTTZzZHRVejEzUnc?oc=5",
-   "date": "Thu, 26 Nov 2026 15:45:35 GMT",
-   "vu_le": "2026-11-27T15:10:36.629100+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "What Are Generic Pharma, Auto AC and Defence Stocks? - Univest",
-   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSnlUNHlNNmZMWlRHZzZPenVlYk04ekliZWVHVWJzbXF4cVFGR3JDQ192R0ZHc3ZtalBOVm5UMVc1eFpqVnJIcUwyOVRjTm9rNWtoek5UVm9YOVNBeFc3dGpUVkhiTFhTSVVlRlF4M2g4STNkTS1iVFhxU3hHeUZJeEVWVmdtd09nWjZRNTV0cU8tT1daMzREb3VsSTN6OUQyMEhXUVhpXzV5eHBmTDFqNURHSXZUMS1YQ1JuWDRwWTJIWUNtVHZWaVVFbDFZV1owNFE?oc=5",
-   "date": "Fri, 27 Nov 2026 11:10:00 GMT",
    "vu_le": "2026-11-27T15:10:36.629100+00:00"
   }
  ],

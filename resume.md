@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54745.43 EUR, jour 0.02 %, mois -24.86 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54700.5 EUR, jour -0.06 %, mois -24.92 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -310,6 +310,11 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Avec l’arrivée en force d’Anthropic, Zurich devient un pôle majeur en intelligence artificielle. L’Arc lémanique et l’EPFL sont-ils relégués en seconde zone? - Le Temps
+- [Chine et Asie] China stocks surge after State Council meeting signals market stability - China Labour Bulletin
+- [Rachats et fusions] Sanofi Signs $41 Billion Deal to Acquire Insmed and Considers Launching in Germany a Drug Authorized in the EU Since 2025 - Informat.ro
+- [Petites valeurs en croissance] 3 Australian Tech Stocks With Earnings Growth Over 30% - Yahoo Finance
+- [Défense, énergie, matières premières] HawkEye 360 And 2 Space Stocks To Watch - Yahoo Finance
 - [Chine et Asie] China signals strong support for stocks to stabilise expectations; Shanghai index returns to 3,600 - 联合早报
 - [Chine et Asie] Stock Market: Major Chinese Indices Post Largest Gain in Two Years Following Beijing's Announcements - Idéal Investisseur
 - [Petites valeurs en croissance] Himax Stock In Focus After Summit Raises Questions About AI Growth Plans - Simply Wall St
@@ -451,10 +456,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
 - [Marchés mondiaux] Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - The Motley Fool
 - [Intelligence artificielle] Wall Street ends higher as battered AI stocks gain in volatile week - Reuters
-- [Anthropic] Anthropic Stock Is Up 11% From Its IPO Price, and One Analyst Still Sees 63% Upside. Should You Buy? - Yahoo Finance
-- [Anthropic] Is Anthropic Stock a Buy Before Its Dec. 15 Share Unlock? - The Globe and Mail
-- [Bourse de Paris et Europe] Wall Street clôture en hausse une semaine particulièrement nerveuse - Bourse Direct
-- [Rachats et fusions] Uber secures 87.13% stake in Delivery Hero takeover offer - grafa.com
-- [Résultats d'entreprises] SemiLEDs Returns to Profit as FY2026 Revenue Falls 56% - grafa.com
-- [Petites valeurs en croissance] Alfa Laval (OM:ALFA) Stock May Be 25% Undervalued On Capital Markets Day Growth Plans - Yahoo Finance
-- [Petites valeurs en croissance] AppFolio Outlook: Scaling SaaS Ecosystem Drives Sustainable Profit
+- [Anthropic] Anthropic Stock Is Up 11% From Its IPO Price, and One Analyst Still Sees 63% Upside. 
