@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T12:10:35.383088+00:00",
+ "mis_a_jour": "2026-11-28T12:20:36.537869+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54223.94,
+   "prix": 54244.58,
    "devise": "EUR",
-   "jour_pct": -0.93,
-   "mois_pct": -25.57,
-   "volume": 55.16427212,
+   "jour_pct": -0.89,
+   "mois_pct": -25.54,
+   "volume": 55.2744748,
    "volume_relatif": 0.26,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 10535061261,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 10535061261,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
-    "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 14.4,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOG",
     "nom": "Alphabet Inc. Class C",
     "prix": 272.44,
@@ -3399,20 +3385,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3393,34 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
+    "devise": "USD",
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
+    "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 14.4,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3346907996277,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC",
-    "nom": "Bank of America Corp",
-    "prix": 49.07,
+    "symbole": "NYSE:BAC/PK",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH-",
+    "prix": 21.12,
     "devise": "USD",
-    "jour_pct": 1.09,
-    "mois_pct": -3.6,
-    "volume": 19471454,
-    "volume_relatif": 0.57,
+    "jour_pct": 0.52,
+    "mois_pct": 1.29,
+    "volume": 110706,
+    "volume_relatif": 0.53,
     "capitalisation": 338593252758,
-    "per": 11.7,
+    "per": 5.0,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Wall Street termine en hausse une séance écourtée, portée par l'IA - Investir Les Echos",
+   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT0JlTGtMRF9iSldBNS02T1R1QkF1dUhFNFBXcHRuUmhkTkVJT3NEdlFpb042VFhfcmYyT3RkUnVXMWEzLTRncldTMF9PQkxCMldYWkJXWVgyREZLUW5pdElSYmVyRnMySGpXbE1LbHVIbHVrZkE3QTk3M21hN1ZPZWJGZzlEVnN3aFM3dVpKakFXcXoyQXF4RGF5RzJZckQ1UDJ2UDJfbUx1Sk9RY21rVFpjbWhrV21ZNHVWUm9XMkRjS0NMZFJUYkJGUy1ybjVG?oc=5",
+   "date": "Fri, 27 Nov 2026 18:20:46 GMT",
+   "vu_le": "2026-11-28T12:20:36.537869+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Dette française : le numéro 2 de la BCE écarte un scénario à la grecque - MoneyVox",
+   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOW9sMGsyNkRRM0xlMzF4LVhvWmdCR3g2eS15ZkZpa2t1YXJyMTJkcHItbWR5eU9PbmxFUXJGN2VYd1B3UTRzeThRZVhMdVdScUk1MnNNR3NGZVpaWU1kRWVtS2pfY2xwOUZoa3I3ZXU5M3hLV2xsMjFudnVDa0dTbTgzYlVWS0xtUzZVU1BOXzlia1JLbG9YU3FiU0prUjBuTGNtd21aNjBOaEF4ZzRPcUFDMWhkSEl2VEptLU5zMGx4Zw?oc=5",
+   "date": "Sat, 28 Nov 2026 12:09:06 GMT",
+   "vu_le": "2026-11-28T12:20:36.537869+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Zone euro: Les consommateurs relèvent nettement leurs anticipations d’inflation selon une enquête de la BCE - Journal Chrétien",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb0xhb1dUd0pqa3k1OFFFY2VUVFVreFZQZDFtYmFFX0gxN2d2M0hPZkViSEVzWldXRVZhei10TXZpdTlpVFVTQVJmaEtlZ09SSlRuUnhMU2o5a0pGWF9yQUl2WlJlQ0pKREZkTEY4S21PVThwYXB2Zm9vbnhJenRfTlJSQXg?oc=5",
+   "date": "Fri, 27 Nov 2026 14:54:36 GMT",
+   "vu_le": "2026-11-28T12:20:36.537869+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "CAC 40, Engie, L’Oréal, Thales, Capgemini, Nvidia… les actions en Bourse au programme de Momentum - Capital.fr",
+   "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUVJYYl9zLWVSZUROQUVya3BHaC1Udnh1N2dCdm1QRDJFYWhfOWc5emdneF9WWW96YVZ1MGRPNE9WTnJkSEhXY2hkS3JfWU96d29SODJHVmpzMEk1cEZUY1ZkbTNGRTVPbU4tTkVaSDBmQmc5dnpGREhvTGFJb2Zia0dYczY4VFVLWTlzanpXUTRjNUhKN2FaM0k3WF9RWmJOM0dEM1h0a3NuYzlnLXIzZWR3VFpUMUtWWm9SU20ycW5WS1RQZU12R09peTRlNEY0WTVTejE5cFQ?oc=5",
+   "date": "Sat, 28 Nov 2026 07:30:00 GMT",
+   "vu_le": "2026-11-28T12:20:36.537869+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Indian markets rebound in November after months of underperformance: HSBC - Business Standard",
+   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLTVvUDZDd3B5Y0tKbkVXT09oeGdXbDNaTDBPUHg0c0hfS1ZzYlltbDdjZXlHM0NyN1NnRW5rc21iaF8tUzBEUmJKN2ZhU2ZrQTJMRk13dDRiclNFUE1ZSjJaWTVUcHY3NExZQmJzS3J4bUJuLWZUVFFDakN3NG5pVFd4M3BSakdMQVczZzB0dkV5TXloNEp3TmJrdjh2clY5WlRuRzV3Q3Y3enFiNjd4OEplV1V2QjV4YkJyX1d0VFNtNTlYX0Jad0lqVmQ2Tnk5OGVCRWV30gHbAUFVX3lxTE41dDlWVTBZQ25ybjhjTE9tY2tZeWppSVFOa0Nla1QtVjdyYk9vN0pKOWhkZWNUb0JWM0hpaFg0bzhrXzhHOF9GcThPWWpaRWh0aDdjMWpUVlVWZU0tTkZQWVFjRC1zWHN4X1lURWRHT1BDcjFkT3Z5XzloaUFYQzdkdGFXMHhfbzhKWmlzTUNHdlNYNlNKWU1ocWJfSmxxcmN5NVlCTnlqNy1lZ0VVZ0xLRXlUMnZia0FEdy1URjhCb2Utek5SZUZFRXJRa0ZLc1J4UHM5YURnNjZvQQ?oc=5",
+   "date": "Sat, 28 Nov 2026 07:24:49 GMT",
+   "vu_le": "2026-11-28T12:20:36.537869+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Wall Street’s Great Escape: 3 Rescue Squads Fuel a Thanksgiving Rally - Investing.com India",
@@ -6419,42 +6454,9 @@
    "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1doX1pxMmJRSkVyMWhNOVg3NVVsdjB3LVM5ZGhpX2dlMWZGTmFuMUtyLWlvb29WMldRdUVTZms4TENJeWxuYURzMG95NVFZRGRmaW8zZnZKUXZwNllLSEVRWnU3U1NaTzVFdzh5bUVRM0RkT1AtWEpCV3dXa1dxSkpud0JHT29PWVJpQmNoVm9Rc1daa1pmQmRKdDdraHJqOUZ3NGZCRDd3QzhDV004UGdjcll0ajBqSnhrelpiN2ppSkFQNlJ2dkt4UExJVlJMRHVMbnhxdw?oc=5",
    "date": "Fri, 27 Nov 2026 11:27:14 GMT",
    "vu_le": "2026-11-27T19:10:35.656029+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "9.95% yield and 20 years of dividend payouts! Is this the best small-cap for a Stocks & Shares ISA? - The Twelfth Magpie",
-   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVlROZmtTMmM5UHR3RXl5dGltbnlXN05Sb3dLamdGRG5lcnFMVW03Ui1rVXNLeHNuREpGajhvN2JkV0NJYVctSEtURHpRWGxMS0lOWHdUbHh0MzMtNWJmcXROaVlpalNPUDUzR2FPalMtd0ZjZ1NfUTFBRGhleHlPekV6S2tDSmYxLTVub29rOS1uYS1HQlotMGY0TE55VDFBWE9jRGY0UmR5NkNyTjQzcVRwVDlpQkZTeUlhLVhyOHhFRWw4YVNQZE1PdnJ5SW1JVUE?oc=5",
-   "date": "Fri, 27 Nov 2026 12:42:00 GMT",
-   "vu_le": "2026-11-27T19:10:35.656029+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "HYPE price on Nov 27, 2026 at 3pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2xDWkJEUTZpUkpmbGVhTGlDMXlCdWItNzAyWTlZME1tYVZsVjVKbkdndzgtV0hFS1Y4VDhkcjhPUkgyZkdVeEprR1RpbkNPdXlrak43ZVFYQTNZdEtfTGc0R3JYbk9vUGgyRWRtbUdkanNHcUswRW9acXozaHNPSWI0QzQxUmJRbHYxMlFhV3Y1dXEwbkJ6NFBXbWw1OHNjdjJycnYtODU5Ql9QQnRz?oc=5",
-   "date": "Fri, 27 Nov 2026 19:03:57 GMT",
-   "vu_le": "2026-11-27T19:10:35.656029+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stocks jump to close out an erratic week that was also Wall Street's best in more than a year - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS0oxd0VhN2J0Y1NMU09kSkg1NzNFX2tNR1hLeVktZmdKXzZfR2ZwamhsTllQUUhURnNmOGRKcEI3ZFRvaUpXWGNYTXdXRkxXeEI4RXRvaERJMDZVMkVPdC05RkVqRnA4YjdxNnBfRUpBVkpiZzJSaFBHTlhfbEdTYVV6VkdqVDdBRVQ1ZlcyekZ1di1lWkJEWjllQ05xSU02STY4MXN0ckdJdGJaeHpnbWViamQ1R0xaUDFHTWVaWkRFUXpMaHE4X24ybWhIN1oxNVNIR09Fc2N4Y3pKa1Q4Vm16SXduT3QtQW9rMHBUSDFpdUZwajVkZEs1RXdVNzBEdHVJLXBQclRwWDg?oc=5",
-   "date": "Fri, 27 Nov 2026 18:46:40 GMT",
-   "vu_le": "2026-11-27T19:00:36.377662+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Rheinmetall Cuts 2030 Revenue Target as Project Delays and Naval Cancellation Bite - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUWFwZldXVzYzQUQ3YTZOT3loSm54V0luZmVhV1pZeF9vVEU5bGowV011QjdVck5Lb1I3ckZyN2FDbU9JQmFJVDYyRGhWbFJmV2tfSzQ2TVRnRWNlMklrdlhNRmkyeGVjbWxhMzR6Nkt0T0k1RGhLQnBtU0d5TVhCNlpVWHZ5djR3a3hEbXptU19TblBTNHhOUlRuRXF4Qy1iaXd3?oc=5",
-   "date": "Fri, 27 Nov 2026 17:12:44 GMT",
-   "vu_le": "2026-11-27T19:00:36.377662+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Is Luckin Coffee (LKNCY) a Solid Growth Stock? 3 Reasons to Think \"Yes\" - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1ZOaGp6d0NzdXJPUGtiRzdKMUlpc2dnS2xLWGpvWENpcWNZWFFYbVpIclRxS3Y0cUZHYkdiM20wNF9vZTdydllXd2k1cWwzRkRtbm1Gb2lmUlp4MnNjcHJzRUZjV0RFODBkNTQ2M0stU3NUN0lEOFVYZm5nS2dtUU9kRDU1a3JlNnRxeGxNVEhaN0x3aHRXUHpoWG9EUQ?oc=5",
-   "date": "Fri, 27 Nov 2026 16:45:02 GMT",
-   "vu_le": "2026-11-27T19:00:36.377662+00:00"
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "actu Crypto: HTTP Error 429: Too Many Requests"
+ ]
 }
