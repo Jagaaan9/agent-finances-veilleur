@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T00:20:35.100257+00:00",
+ "mis_a_jour": "2026-11-28T00:30:35.124920+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54776.81,
+   "prix": 54790.02,
    "devise": "EUR",
-   "jour_pct": 0.08,
-   "mois_pct": -24.81,
-   "volume": 0.12600894,
+   "jour_pct": 0.1,
+   "mois_pct": -24.79,
+   "volume": 0.48665054,
    "volume_relatif": 0.0,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 834986797,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 834986797,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "AIRBUS Cours Action AIR, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84SlphRllEQkxmMkZGLUlPN01neURBczhoN29RNzBuTDhjVHNzT2N0bTlVUlRsdjJmT213R0RnTks4X3Z0dlNEcVh1VXNxZ0hiWnc?oc=5",
+   "date": "Fri, 27 Nov 2026 23:32:58 GMT",
+   "vu_le": "2026-11-28T00:30:35.124920+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 27, 2026 at 6pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYWtkYVhGbVNhVFVXWjhjeWNIUE9wRnl4S25ZUmRMUWJkN3RuX29ZU0g1UXNLUm1BSjltVWdJdkVXRG4wZGlmRFZiRGlEeF83SXlvdzdEUW9BeENMRVQxMWpPQUZDNl91UUpKdE10dHNuTXlKTV8wRW8tNEFtLXpva2ZCUUlpeExTakxPdjhBV3ZmMUtYZHFfSWdXejBudF9JM2MydHZGUTNFWnVIZ3c?oc=5",
+   "date": "Fri, 27 Nov 2026 22:02:52 GMT",
+   "vu_le": "2026-11-28T00:30:35.124920+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "Les Bourses européennes rebondissent légèrement pour le Black Friday - Bourse Direct",
@@ -6439,20 +6453,6 @@
    "titre": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang - Bloomberg.com",
    "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
    "date": "Fri, 27 Nov 2026 11:45:46 GMT",
-   "vu_le": "2026-11-27T12:20:35.673202+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Altria Considers Imperial Brands Bid as Market Value Nears £26bn - CEO Magazyn",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11UUlnVGZsUFd1d1RlLWxEMUNCMjVlNnlDYk1WeGt3b3FyQjlaSjk0MUxRMnF4MkZNZzE1OUVHTjgzVEw4U2JBYUllZEN2Tjl4RlRBTWdUTV9MZ1RUOE1SVE5Ka0t3MXZGeWxtaHAxbnBWZGpITlZlM01MdWxsQ0U?oc=5",
-   "date": "Thu, 26 Nov 2026 22:23:01 GMT",
-   "vu_le": "2026-11-27T12:20:35.673202+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "J.B. Hunt Comes Out Against Union Pacific-Norfolk Southern Merger - WWD",
-   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcFYwTG56ak5rdDNqLXVYeUloNVVUODRKdGltNGtfclJHZW5HWENHc3I4LUhZY0hzenZha2tCcG5YMkROZVR6QWNYRjBzZ0NnalpFdnI5VW82blZraVp0MENwbTJIcVZTbzhuTlMwRmxHUG5YOXlNcUNDaFFyYndyRldaWk95b1pkd0s3UzRGZnBXRk8zWXMzcHJqVG4ybkt4aEFsVWsxZ1ZHWV9NWXlwOVRCckJKdnlqbGswdFF4TVpXOHJPMnc?oc=5",
-   "date": "Thu, 26 Nov 2026 19:56:33 GMT",
    "vu_le": "2026-11-27T12:20:35.673202+00:00"
   }
  ],
