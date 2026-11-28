@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T09:20:36.482068+00:00",
+ "mis_a_jour": "2026-11-28T09:30:36.286563+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54424.49,
+   "prix": 54492.93,
    "devise": "EUR",
-   "jour_pct": -0.57,
-   "mois_pct": -25.3,
-   "volume": 45.23013603,
+   "jour_pct": -0.44,
+   "mois_pct": -25.2,
+   "volume": 45.3717566,
    "volume_relatif": 0.21,
    "capitalisation": null,
    "per": null,
@@ -3656,6 +3656,20 @@
  },
  "actualites": [
   {
+   "sujet": "Résultats d'entreprises",
+   "titre": "CMC Markets Profit Hits £106M; MetaQuotes DDoS Alert - shattered.io",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR3JNRkQ2UFVtNkc2Wjg4X0dibS12b3gyZEl6cjhfN2hJYjdTZ2NUdUExQUFJMEh6bWtSVEpEZE55X052dGFiRFJCbWNvYkxpdk9zdWZlTkdzenVkNmRRSkhLUDRSWGhqa1ZCa0syRjU5VmJJM0VGS2t2aGEyNG5hUTVvbHQzejdWS0RhQk16ZWZ3TDR0MFE?oc=5",
+   "date": "Sat, 28 Nov 2026 09:20:08 GMT",
+   "vu_le": "2026-11-28T09:30:36.286563+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Market outlook: Indian markets rebounded in Nov, but sustaining gains in 2027 will depend on growth, says - The Times of India",
+   "lien": "https://news.google.com/rss/articles/CBMingJBVV95cUxPTXZfcHo2bDZJRlF0TkcxOGUyRmVIZV9qTndEUVBwQlZMTEJ6NHBZRVd1d29qTWFQUEpTYkZKYkloZ000ZDMzWWY3QlAzZzMwRG9pU1FSbENscUYyYWpMc0ctYzF6Y25BY3hhRWgwNGgwZkhmU2lQZDAyR0x0ZllRcEZhUk03RjRhWWFSUk9fdWkyTDNKR3NzNTM2RWJ4cFZlemZyd3lKbWJwcXE1Zkh1QmJIcmE1V0wxWFZnbFpFdEVYcFJsV1ZuaU1Obmo5cHRLTm1OQ1ZyVXBXMklmOUJXeENlejh2ZnpoUkx0bG5qZ3V1b0M4YzQ5LXByT1lrdjV5S29hQTdxbVh4UG9ObU9kbXR6S1RvNnZqUkJxN0VB0gGjAkFVX3lxTE5Ya0ZKZ0I5ZG5XRV9MVWtnQm9CVTRSSzhvdUtnQXBrUzRFWkFrTnZyRlRKSndjRlVFZU5WQ3R3MXNRaDhOWENBMXdCMFNGeWRvYmpzclV3eWcyU0tSN2ZrN0NnQmgtalFZTWRDc3RSUkVoSkJEa2hCZmthenZTeFRvZllsNEw5bW0yeWp4enlXMHgzMDh5Y0k3ZmRBUHVFOTNwQmp3N0JvRzJ6aFNRMzJoWDkzOWFobl9EV2dzV29kVUN1TDNEc2xHOEhfWnBiWFFNZHBxTG9BV2R3ZmE2LWJLT2JwdHE1X3ZhYVZKNEJQUnlodDIzemZEUllLdzA5NGFhVm5kcTY1LXRUUzlfYnBmMzQ3NlJocDlqQ0xqWG5wNU0yOA?oc=5",
+   "date": "Sat, 28 Nov 2026 09:13:00 GMT",
+   "vu_le": "2026-11-28T09:30:36.286563+00:00"
+  },
+  {
    "sujet": "Marchés mondiaux",
    "titre": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail",
    "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUGxqMk41bVMxaDlubFE3V0dKUlVhb2wxdjVTcU9TZUNyeHZJaExXVTd4U2E1Z2pyWUpFLXJnYTBmU3hINkxWZC1GWEdZUGxFLURPeC1aZ0hpZDFxUDZ3MzZWTXg5QlI5MXRWdXlCaUVWanFhU3lKZ0l5dE1jalZGWUhVdWJrbXVGU1Z6YklqWGpTc24yTjVQNkVfcHVUNllHaTROZmF3bXhKUld1dnl4VG1TZVpwSHJtRnBaMHg0TDVYTGZWRzYxWXZ4dTR4N2ktTzE4aWdMWkNPVGlUWVRPRnZsZXFyT3ZjdXkxdXFKVmtuMmk3SUFtbExjSHNlUy02TXdNeXhHelhFdUFLUHc?oc=5",
@@ -6440,20 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOTQtcXZ3NnFiN1JOR2pRaE9QTjBLOVhiLXhROWhUUUItVjlCaUtCUDlOQ255UzJXOWplVi1NNUF6OTBaQ2hBUVVZUnM2NVlMbTduNEdhVy1ReTBfTHVqX3JnWU10TTg4Qm1PZWJWNWxfWmlxa3ItMlVYMzVOSGFEcjZGRkFGRHBsQXUydU9CeG44eDhoOF9kdDdMcw?oc=5",
    "date": "Fri, 27 Nov 2026 15:27:05 GMT",
    "vu_le": "2026-11-27T16:50:36.532257+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Stock Price Forecast: Rewriting Messaging API in Rust Expected to Lower Claude Service Costs, Stock Poised to Rise Further to $94 - TradingKey",
-   "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV2tWSHBkR202ZFh6Nl9DczVvQUM2QlpuTVBxWjJ5Y09tVTZWUmhNM0htMFFKaWU1alJYNGlPNk9ZdS10LUNxeW1mNFoxLWlCVERvVUhOQUNadUROLUFJSEQwTjlfZXk5T2RJSlBOUW9scnJPSDNFNnU0Vy11Rl9CSnJIbEs4RnJJV202eXZUUU5kdXc2UWhxX2tMU1VMck5hZ3hGbEMybklUNUxJTEJ0ZWxYLU1JU1VNTk9VcThvQU9XY1FmSTMzcTlmRTJwaFozREx5eGNkdU54bHlrTXc?oc=5",
-   "date": "Fri, 27 Nov 2026 16:34:13 GMT",
-   "vu_le": "2026-11-27T16:40:38.952009+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stocks rise as traders try to close out a wild Thanksgiving week on a high note - Business Insider",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2lZVUtsTE5UNjlaaVNiWGdJUURSVTlkNGY4LXpNYnNaS21pajlQemw2YWFhRG1LQUVyVG8wWENtNHN3dE1xUWxfLTFoUkJYWExiV1Q2Y09yODFmWE5tbjhTUFlIMWQtQUdtQVpIZ1hlUFNsMXNYcHFFenh4TE84enhqR2RXNExWekozNnJKcXAweU91ZWM2enlmT25USUlMak8yUmhoYw?oc=5",
-   "date": "Fri, 27 Nov 2026 16:18:00 GMT",
-   "vu_le": "2026-11-27T16:40:38.952009+00:00"
   }
  ],
  "erreurs": []

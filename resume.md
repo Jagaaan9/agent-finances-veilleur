@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54424.49 EUR, jour -0.57 %, mois -25.3 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54492.93 EUR, jour -0.44 %, mois -25.2 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -310,6 +310,8 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Résultats d'entreprises] CMC Markets Profit Hits £106M; MetaQuotes DDoS Alert - shattered.io
+- [Pays émergents] Market outlook: Indian markets rebounded in Nov, but sustaining gains in 2027 will depend on growth, says - The Times of India
 - [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
 - [Bourse de Paris et Europe] AIR FRANCE-KLM Cours Action AF, Cotation Bourse Euronext Paris - Boursorama
 - [Banques centrales et taux] Enquête BCE : les anticipations d'inflation de la zone euro grimpent en octobre 2026 - Actualités et statistiques - IndexBox
@@ -458,5 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] XP (XP) Stock Still Looks Undervalued Despite A 33% Five Year Fall - Yahoo Finance
 - [Anthropic] Should You Invest in Anthropic Stock Now or Wait? Here's What History Says. - The Globe and Mail
 - [Anthropic (FR)] Vous avez manqué l'IPO d'Anthropic ? Faut‑il acheter l'action maintenant ? - Invezz
-- [Chine et Asie] Hong Kong Stocks Rally As Beijing’s Support Pledge, Tech Rebound Lift Hang Seng 2.11% - BusinessToday Malaysia
-- [Chine et Asie] Hong Kong Stock Exchange: Hang Seng Index Jumps 2.11% to 22,694.77 as Tech and Chip Stocks Rebound - BBN Times
