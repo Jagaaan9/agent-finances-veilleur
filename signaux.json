@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T07:20:36.364155+00:00",
+ "mis_a_jour": "2026-11-28T07:30:36.609106+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54534.07,
+   "prix": 54599.31,
    "devise": "EUR",
-   "jour_pct": -0.37,
-   "mois_pct": -25.15,
-   "volume": 36.93368828,
+   "jour_pct": -0.25,
+   "mois_pct": -25.06,
+   "volume": 37.13115158,
    "volume_relatif": 0.17,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 8779940033,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 8779940033,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Pays émergents",
+   "titre": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO - CNBC",
+   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYzJ1aFdoTmJMblVXMF9fR3pMaXBqbjBzMkFmNTVuMTFzcnlhaGpQRk1VdVRtQXQ4djVsWGxOMTVMTFBiR3U4dV8tZ3NQN19xbmE1Tlczb1pJOWNOZmY1dVI5Z3ZNejhqOUtTcEVUdjRqbzY3NVVPU0VxWUJSekwzOXVJdDdoX3NtWDBF0gGQAUFVX3lxTE5IV1ZJamZyaVZDR2lTREJiQkt4N0tfMnlIUUNVclBDUG9BUmZLTmtpWXB3NUtRVjRzSlRZRmVOQjBiamtUNEU3eWY1WW1kSms2S2tvbzREcEJnMFlTMEIwUnFCTExUU0tYXzMzZnpNN3lSeWxWc29jRG9XcXVGeE5tT2pDaFBadXRCSWhiMnFZaA?oc=5",
+   "date": "Sat, 28 Nov 2026 06:00:01 GMT",
+   "vu_le": "2026-11-28T07:30:36.609106+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "5 Growth Stocks with a Competitive Advantage to Watch Before 2027 - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR0hLcFBiM0drdm54SExZUDdPeHFSZU1lVV9uSXZhS3dCRWNBT0t3emhWX2paQU5BaXJWSkJrTVBxbUc5eWNZTi1FVi1FbkNneUh4cVpycWtSS21fU1lNOTdaMjU0WTJNdVVJTmc1UVU4VnpYdFpTZm9pNEc1MG1yYUNyMDNEVjhoeGtNT1BIcmZpWlV3S3NsMEdabDZFR2dhMzdDZDIwV05HNE1TTXBVR210X3NrNF9vUW9LYnBKMklmSXBhRmNfWU9VR1ZSSEJX?oc=5",
+   "date": "Sat, 28 Nov 2026 00:30:00 GMT",
+   "vu_le": "2026-11-28T07:30:36.609106+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Why Defence Stocks Are Rising Today - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOblYyRkpkdnRZNTBOXy13US1WTHo5RlQ0S2Z6dWhneVAxeG80bjkya1laLXVxanpJSFpGaXJURFZxb0htRkg1bjNnM0x2Y3NacV9fUnFBMjJ5VS1RX1ZKSGM2M2g5cVFCdHluWW9vNjFPcHZ1TTZ1Qm9wMHQ5aHoxcTJsbHAwQ3Y1QU1mbGNGZkg5LXBoSGY1NWJHNkFQbmRBRkp4eF9mZGc?oc=5",
+   "date": "Fri, 27 Nov 2026 10:06:58 GMT",
+   "vu_le": "2026-11-28T07:30:36.609106+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Michaël van de Poppe Says Bitcoin Could Hit $100,000 In First Quarter Of 2027 - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRWFrcWd1Zm1OazN4V3RJSDBQcDVKNUROTVBncnVKUWlxSXBHX1VIcGxwYjRmc0hsMkpVeXZaREZfd215d0pmMUowVnZqT0hIWWZZQWtET1hpSE4weGFXU3ltX0lFTWtzNlp1UEE3UWNGTHY1aXMtQ3BqOGY2Vy1zeXo1Ulp0eFAyT3pBODYtTG4?oc=5",
+   "date": "Sat, 28 Nov 2026 07:03:00 GMT",
+   "vu_le": "2026-11-28T07:30:36.609106+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Bourse : qui a acheté Anthropic le jour de son introduction, et qui a tenu ? - Les Echos",
@@ -6425,34 +6453,6 @@
    "titre": "US stock selloffs trigger a new kind of dollar bounce - WTAQ",
    "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZjRpZ2puTmxtSU1oUUk3R1pVcFAwZGxZa00xd3ZjMWQxZVZtUEN1MG5QUTNicllBS1RPbTFvaVpiM0lpVnZQT01DWjktaERhanVQUEtibWZUOGl6bmtXaVZZMTA3eVhCS2dvTkNXWXNJQUFnTDBFVnR3a3JWTWdXZ2FEYk5XWUl5TFE?oc=5",
    "date": "Fri, 27 Nov 2026 13:36:12 GMT",
-   "vu_le": "2026-11-27T15:40:36.363132+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Why Is Sandisk Stock Jumping After AI Chip Selloff? - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHZ1cVJ4V0tCbUZvUGJjekdFUzFiaHFKb0F0M0cxLWFJQ3BVcGZxcU5yZThVbERnaVJILWVvYVdrc1JKbFNxaHNWZzNpZ21helJmVnJlZllfWTdiMlpPaVFkd2tlWTNCNUEtc2FsbkNCU3I2Z3o3SmxLeGtVZ3lsei03dEQzUE5CbEhrNzhEanc2MmFqb3hramh0T1lXc3ExTHpzU1k5a3VrUUdjZXdHQkJ2T0xrMEZ1a0xMSjlLV05NOXN3d05R?oc=5",
-   "date": "Fri, 27 Nov 2026 15:29:28 GMT",
-   "vu_le": "2026-11-27T15:40:36.363132+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Un mois de novembre qui change tout pour la Fed ? - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNmpTem1WUHFOMlRCdXQ0djVzNkVNSEducUlPU01GeEtTVTJKZDhPbklEMFYtbTk0aHdfeUhfMlhHOWpxN19aVXpkVkZTMzIzRU5wRThybjRVZEJuNHl6OWZoUzRVODZoenk3VFZuMUlsUjAtMWNwcl9OcTI5VFhmTlB2Z2hfTVFEMnRVV092eXBOZTJEaDB1UzQ4QkNpQnRFQ3c4ZjF4OWx6NzZaV1dma3BvNUFfT3Mwbi1jeTVodmh0ek1naDRLME5lVnlOV3FqdmVOMVhfbzdKVVB3WVFBcW1vSEl1VVoxRzh2QllYYlc?oc=5",
-   "date": "Fri, 27 Nov 2026 10:53:31 GMT",
-   "vu_le": "2026-11-27T15:40:36.363132+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Prediction: This Overlooked AI Stock Could Be a Big Winner in Nvidia’s Shadow - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVHhteVdfcTRKd3FhTXpHWEpHY2s1clRfV3BKTlJ4UFR5MTVaY3B3WjBVekE1elhVczlwZWpMV0V4R19ic0xkSjd1RlpwcFRvVnhaRHVWb012dHd2MEpwSkJjY3FOY3EyV3NKdVQwYWplUUpoY1o1TjM3cjdocmpNRFpXWUNHaFRvTDMyV1pMYkR3cnR0YTB3bTZaRVVEOUNUdnZCRklqeEdCVFhyVDM4ay16NWNZWHhWNWhR?oc=5",
-   "date": "Fri, 27 Nov 2026 15:33:00 GMT",
-   "vu_le": "2026-11-27T15:40:36.363132+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "METALLA ANNOUNCES ADOPTION OF SHAREHOLDER RIGHTS PLAN - Stock Titan",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2NqLWFiVUNlbms4Sk5xTWduZ1ZtZTJGTXM4TUpCMkNFb2U0bXNaR1pIazkyTHVTM2ZuRzhXaG5tZjBJdnpLbGlaR0VfYkVmblF2VGIyZzFpQ1VMOHQ0RXBuclpMamdlUHIxWVJVQ0RZRmx3TWZLNllTSmVhekhIcFVYUUIyT1ZhS3VxRnN2eG0wN2pSV200ZWw5MHpFTFpKcFZMUw?oc=5",
-   "date": "Fri, 27 Nov 2026 12:00:00 GMT",
    "vu_le": "2026-11-27T15:40:36.363132+00:00"
   }
  ],

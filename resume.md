@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54534.07 EUR, jour -0.37 %, mois -25.15 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54599.31 EUR, jour -0.25 %, mois -25.06 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -226,8 +226,8 @@ POSITIONS ET INDICES :
 - IX Knowledge Incorporated (TSE:9753, secteur Commercial Services) jour 0.9 %, mois -5.09 %, prix 1342 JPY, capi 12613998051, PER 7.4, volume x8.8 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 834986797, PER 28.6, volume x17.7 la normale
+- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (BSE:GOYALALUM, secteur Distribution Services) jour 20 %, mois 26.49 %, prix 7.02 INR, capi 834986797, PER 29.1, volume x52.33 la normale
 - Waaree Renewable Technologies Ltd (NSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 23.4 %, prix 825.7 INR, capi 71797243279, PER 18.5, volume x233.67 la normale
 - Waaree Renewable Technologies Ltd (BSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 22.52 %, prix 825.4 INR, capi 71797243279, PER 18.5, volume x128.17 la normale
@@ -310,6 +310,10 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Pays émergents] Africa’s richest man is taking his mega-refinery public in a blockbuster IPO - CNBC
+- [Pays émergents] 5 Growth Stocks with a Competitive Advantage to Watch Before 2027 - Equitymaster
+- [Défense, énergie, matières premières] Why Defence Stocks Are Rising Today - Equitymaster
+- [Crypto] Michaël van de Poppe Says Bitcoin Could Hit $100,000 In First Quarter Of 2027 - Yahoo Finance
 - [Anthropic (FR)] Bourse : qui a acheté Anthropic le jour de son introduction, et qui a tenu ? - Les Echos
 - [Chine et Asie] China and Asia Stocks Rally; India-US Trade Deal ‘Nearly Done’ - Asia Financial
 - [Petites valeurs en croissance] Haleon (LSE:HLN) Stock Could Be 37% Undervalued On Cash Flow - Yahoo Finance
@@ -454,8 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Franklin Templeton Adds Hyperliquid’s HYPE to Crypto Index ETF EZPZ Starting December 1: 12 outlets compared - NewsCord
 - [Crypto] 3 Cryptos Under $1 to Buy and Hold for the Next 10 Years - 24/7 Wall St.
 - [Chine et Asie] [Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제
-- [Crypto] XRP price at Nov 27, 2026 at 7pm EST Crypto Prediction Market - Robinhood
-- [Crypto] SOL price on Nov 27, 2026 at 7pm EST Crypto Prediction Market - Robinhood
-- [Chine et Asie] [Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제
-- [Rachats et fusions] enCore Energy Gets Nasdaq Bid-Price Warning, Amends Verdera Deal - kalkine.com
-- [Crypto] Bitcoin's Thanksgiving Rally Unravels 
+- [Crypto] XRP price at Nov 27, 2026 at 7pm EST Crypto Prediction
