@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T02:30:35.372395+00:00",
+ "mis_a_jour": "2026-11-28T02:40:34.755122+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54952.23,
+   "prix": 54854.52,
    "devise": "EUR",
-   "jour_pct": 0.4,
-   "mois_pct": -24.57,
-   "volume": 1.74927111,
-   "volume_relatif": 0.01,
+   "jour_pct": 0.22,
+   "mois_pct": -24.71,
+   "volume": 3.42121752,
+   "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "L'introduction en bourse d'Ambiq a permis de vendre des actions à 24 $ ; 1 000 $ valent maintenant 1 550 $. - FourWeekMBA",
+   "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSUZRNl9GVnZhMU5pQmpZSEJQZ3VrSnA0ZkZtX0FuejNyWWVQcVBGZllxQXZqd3o1d1Y3cUlCSEJSelBGcmhkZjZpX1ZZVkpaeHBsbTNuT3pZNmJQUmpiOW8zNVdaYjFDN0tHbU5UQlA0cU5rMGM4T0FNWTY5VXRUb0ZRWmxKSEhyeXZfemxFLW5uVHlrNWpoVXdFS08tOF96czJja25Na2ZkMHVTcUlBa0stbU9Kd0N1Z1FycTNYUUh1bUJQa241ZHRBVi1kVjZMUnQ2ZEFTV1ZZNk9OblltZDZTaHFXLS1KWkxwcURkcHhGd1NMU2xnU1RR?oc=5",
+   "date": "Fri, 27 Nov 2026 06:58:34 GMT",
+   "vu_le": "2026-11-28T02:40:34.755122+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Fundraising Recap: $405.2M Across 36 Rounds - shattered.io",
+   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRFpaQkh3Zi1uSDA1OVFkMFVDZWlHT0VzemRsZFhiN3pCWnNWcl9BczQ3bGROazhyVjJ5aV9NRWlQNGU3WllkSFNDSWFjOVJGTUZGbW1ocFlQTlBNSElfRFl4ZTh5a0ltYXFiZHVnMEhYWkpNMFFaUzhrZkVkQ1JhamVWOEdXSGY2VVp2b2U1QQ?oc=5",
+   "date": "Sat, 28 Nov 2026 02:35:07 GMT",
+   "vu_le": "2026-11-28T02:40:34.755122+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now - The Globe and Mail",
@@ -6439,20 +6453,6 @@
    "titre": "PAG STOCK ALERT: Kaskela Law Investigates $210 Penske Automotive Buyout; Analyst Price Target of $238 Raises Questions About Deal Fairness - TradingView",
    "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdTR5WlJ3WGl0blkyTlBuLUpkVFBGcDZmWGFhUlVnT1N0Nk1tSzJ2MjB5VGRNS2VqWnN0RWVBTXdGaHdKbUgwR1kyUTdZRXVLbzhSYlBfYTJGTzhFbTRUMDJOMDdQb0VpV29MYWZmckZaVHJOX1NCekRTOHY0MnVidFd3Xzd0ZE1IOHl1Q3d5bklvMmpFVnBQX3daLTZJS2w4OERwY3NMTVR1djBncEE4N0NmdUlHV0ZicktfM1hxdjVIWHlCRC12dC1YZ1hOVGRRY0dHWjNTLUZoOHhpSnhPdW9CYlVlcDR4akV0NjJETGNvVzF4Nld6R2xlNl95VkNGeC1SZDRVcW5sYVJ1eGtvOE5oaDBpdGhTMGNiWEFZY1E?oc=5",
    "date": "Fri, 27 Nov 2026 13:01:00 GMT",
-   "vu_le": "2026-11-27T13:20:39.057402+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "biote Insiders Are Down US$76k But Regain Some Losses - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU0FtNVB5eVczeWxPQ3JrVGxQTnVnd0FoNkdlaDZGa1I0UEFRa2VpRzROa0VYdkVrTUgxeGE1bUl2VW50T2ZZb0ZfYkRvNjdIdEl3T3RELXV4Y0xGTmhUUlJtNFdWN28xeW5PSXVmY0QyNElPc2hPc0FkSFJqazhENDVIQTAzb3ZXU1JhbTBheVZYRHo4NFFQSUE3MDUydFdCYS1ONXVoc3dheC1YVkJZenowZVp0Z3dNT2JTQWJ1RDRQYmViakhYNEoxb9IB0AFBVV95cUxOclFYQWNPLWRwdmpZWUdDUlhaNk9oejlDUDVkYjcyU0FKWTllbDJucHNKZWtFOV9JakJiZXYtZW9xVDRza2FJNkV5Q1UwWlVTYUx3aVNfUWpKV3YzSzI3NFV5RzhGZS1mY2hadVFTTmtXaEFuZVYtbzZzYlBtT1NqUGpZNFpFUUJkQ1hTSXpHQnNIcWFiLUthS1dOVGpTdGhfdktPUzI1SUNSZ21WakxVMFUzbVgxTlN4OS1pSUllRFk0SWNHbGdfYVBtV0hVVXY5?oc=5",
-   "date": "Fri, 27 Nov 2026 13:14:47 GMT",
-   "vu_le": "2026-11-27T13:20:39.057402+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Indian shares snap blistering rally after four weeks as oil prices climb - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVDF2UTZXY0ZrSVVuYktpbG1TWVI0aU5wZENOV1Y4YlZZV1NiTmhyeWYxMDB6MGl1cWR3ZllHTWF3YkxIT1BhbDRjQjd6SUZvaTRybUZPZDBtSjMySTlqMVdZMklDWEtKUzI3OGQ4R0l4WjlDcWRNemtmY3dUV25kYThKRVNXWmZ0am4zenFldkZvNk8yWHZQRnMzR0pfUzg1OUxGRlkxMmtIVWtkNEw4aE5rQU5KOGZjOTd0ZFNGcw?oc=5",
-   "date": "Fri, 27 Nov 2026 02:30:00 GMT",
    "vu_le": "2026-11-27T13:20:39.057402+00:00"
   }
  ],
