@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-27T23:50:36.060230+00:00",
+ "mis_a_jour": "2026-11-28T00:00:35.818462+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54701.59,
+   "prix": 54734.09,
    "devise": "EUR",
-   "jour_pct": -0.82,
-   "mois_pct": -24.61,
-   "volume": 158.61523275,
+   "jour_pct": -0.76,
+   "mois_pct": -24.87,
+   "volume": 159.05713718,
    "volume_relatif": 0.73,
    "capitalisation": null,
    "per": null,
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Alzai Health Corp. (TSXV:ALZI) Surges as Market Attention Turns to Health Technology Opportunities - kalkine.ca",
+   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTEpPX3g4cWZ1Qzk2cXhXX1N2Y3ZRZmdwSHJiUG10dTNoODRpUzJZVWlMWXB3WDRlTVpjWk83UEV2WmhIYVJDTFVtVjFuNlVxdUdsSHBjQ0ZXYl9odnBMOW0xVzdUM21NMkZrOUwtRjJ3Y3praDc3WDhuZjdKLVNDaWFuWmRUVjU1WDJJY2NBR2RxalVqcmJES3NVcklGakJRalRlR1hIYV9OUnhzcmJFNGV5VFo0aWdTYjdoRGdjUHBSTE43STlqVA?oc=5",
+   "date": "Fri, 27 Nov 2026 11:27:00 GMT",
+   "vu_le": "2026-11-28T00:00:35.818462+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Zeta Global Holdings Corp. (ZETA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rdkMyd3FTb1ZZSUtTLTdFQ0NfZXlYSEM3bFd2OTNqRHdPWU5rQnRKV2R3N0JRc3V4aVotbUk5aXR3TnRfM1hoTEJHampYN2NZUEFObGc4c1B2eDd5bC1XS2NR?oc=5",
+   "date": "Fri, 27 Nov 2026 00:55:18 GMT",
+   "vu_le": "2026-11-28T00:00:35.818462+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin (BTC) faces historic losses as BlackRock’s IBIT sees record outflows - Investorsobserver",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFJ1dTBuRVJXbDhVRzBQMEEySTNHT3FoS3ZEMWh0b0N1LUhPSFRXbi1ZbW41MTk1QUNacldBQ1VESkFkZU9tTnlVYlVrYjNkVFFVd0xnY09BTWV2MVU1ZjlMeWYxVmNjQ2EzSVFvMGI0X1dybkNjUnA2ajBGRHF2ZmRKeURCVzROZ1lPYjFJRElRUl9YWXhvVWZNX0FrdktfeHFXaVNKQzItVWlMMHc?oc=5",
+   "date": "Fri, 27 Nov 2026 21:48:27 GMT",
+   "vu_le": "2026-11-28T00:00:35.818462+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "Les Bourses européennes rebondissent légèrement pour le Black Friday - Bourse Direct",
@@ -6432,27 +6453,6 @@
    "titre": "La tech remet le couvert après Thanksgiving, le Cac 40 toujours en hausse avant le verdit de S&P - Investir Les Echos",
    "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTEI1OHd3U2RkeHk2eE9JQUNOZ3EzRGQtTnVLQ0E0UzR0MDFRVVNsM2J6SDBOYjRKbXJ3dVUtV1hHdWlUWklfeHVmS1c4TkNnamYxVmpNV1RYRVRqNTNwYVR3bVM5ZVE0RHhzVWpvU2V4eVBvMmNTU3FEdlliZFhlSUJrNDV1M0UtWVA2Rl9QV1hyZ2xiSWgwVVBoYks4cFNYMGxyb3pqOUFlRDhPdHcwaExFeGpyeURiNXAycU1wQlN0Z0JFTmxYYnJmdG84MGpXRDFtaVJWU2VwVzBCQ056Y09GczZ4aHc3bVNHMWwwTjBFQ0ZJNUl1QQ?oc=5",
    "date": "Fri, 27 Nov 2026 11:37:34 GMT",
-   "vu_le": "2026-11-27T12:10:35.722419+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "AI Chips Update - AI Surge Accelerates Semiconductor Growth Through 2026 - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQckJJZG9pdFRMUnQ2ZWlPWTFpQnpwSDhoTHlMUm9heW1SNVRlYkJPNGVFSngxSkx6S1NCV3FueXZpMUNKSE5xTkI4aUwxbi1rUURXWU9UMFh1RUNjWUlBZVRnamZPdks2bUZPcTJhc3RvRmVNcTRoaWZ3S2h3TElsVTV0TF8?oc=5",
-   "date": "Fri, 27 Nov 2026 11:37:19 GMT",
-   "vu_le": "2026-11-27T12:10:35.722419+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Are Investors Undervaluing Selective Insurance Group (SIGI) Right Now? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHNwQy05d3dRM2RzSjJPVUVyYTFKN1ZzalpfeVM5MG51OHVSYnJKQ2g0RG1ZSXkyajVrMmZvYmlWSTl2NFQxcm0wdjc5dF9TUFcxTWt5ZFp0dlpwQlRRdktFR3RuSnRkdjhkRHQ5VjVhSzVpeVJwc3pMdk8wdkg1Sk9HekF3UWljMW8wRURObC1aUFV3STlfVXBYaXI3UjhZbmYwa21kTG9NOWtDRjBBU3FJRQ?oc=5",
-   "date": "Thu, 26 Nov 2026 13:40:04 GMT",
-   "vu_le": "2026-11-27T12:10:35.722419+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Mondelez stock up 29.6% in 2026 but only doubled in 10 years amid cocoa cost risks. - Pluang",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdGducm1Ed2V1Y0ZRN19JMlVuRk1JaEZ1MVVaY3J1Yy1yekFtTTRYWVJ4eEZ3a01KVVk0bXJwTGtyQ1Mzd2tROEJ5eUJ3Q0hiQ3EtRkFCQzQ5ckZLTDR6cmx2Y2NaQVBmNzhTVkhjMEhpRFVTaVVDZGVXRmtjaU9zZnhhcnE4WGxZUnk2N1JVSWhYTE5iQVRn?oc=5",
-   "date": "Fri, 27 Nov 2026 00:44:26 GMT",
    "vu_le": "2026-11-27T12:10:35.722419+00:00"
   }
  ],
