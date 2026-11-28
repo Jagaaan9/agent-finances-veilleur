@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T11:50:35.888010+00:00",
+ "mis_a_jour": "2026-11-28T12:00:36.100364+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54141.6,
+   "prix": 54146.86,
    "devise": "EUR",
-   "jour_pct": -1.08,
+   "jour_pct": -1.07,
    "mois_pct": -25.68,
-   "volume": 53.6055556,
+   "volume": 54.43262072,
    "volume_relatif": 0.25,
    "capitalisation": null,
    "per": null,
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
-    "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 14.4,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOG",
     "nom": "Alphabet Inc. Class C",
     "prix": 272.44,
@@ -3395,6 +3381,20 @@
     "volume_relatif": 0.55,
     "capitalisation": 3346907996277,
     "per": 14.2,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
+    "devise": "USD",
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
+    "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Chip, cybersecurity stocks attractive post-selloff, market expert says - Reuters",
+   "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UQi1IaHEyb1FpWk1fZmRHUFgzN2NMU01RZVFzVXlqcGROLXlIQXVNVmRFWEtqVFIteHptTW16aDBlZ0cxZVdJOWJwNGE3MGtxT19xdzFIb2FST0pLa1dPWWhlVno5aEk?oc=5",
+   "date": "Fri, 27 Nov 2026 19:32:00 GMT",
+   "vu_le": "2026-11-28T12:00:36.100364+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Lowe's (LOW) Stock Looks Reasonable With Cash Flow In Balance - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFg2ZGpNcnBia0toUmN2cm1NLTJEcGY0a3dFYVF3bUI2NVdkUk8xTG4yZzFNSHVqeW5uTUJDM0lEWE9raFlhazg5RWQwZWtNSU52UHJKYzMzVlk5WVEydTNuMXJXYVVOTHIxVmQyVndqZmhrdUhlWXhrRGxGV3lUZURJOVl1ckhpd2dON3lLY19IbGlrZWtNUUdXM213UQ?oc=5",
+   "date": "Sat, 28 Nov 2026 06:08:00 GMT",
+   "vu_le": "2026-11-28T12:00:36.100364+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Who is Luiz Carlos Trabuco, the banker Lula tapped to steer Brazil's economy? - Reuters",
+   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbTNzd0lxMGdXNVJXMjhta2cwLWlxT1pHWkV3a0dUUC1iTGlKakQtckh4SHVqY3BKYkFvekFLMXJKbnVneGJHd0RpcjJnMjRVbk9TQnNaYTloQnRQX3NFRFZTSU1vQlEyYWhlSG9FX29DaE9ZejUtRWd5NGE2V2lFYkhUeWdCZzFJYVNEcm9qcnZNLWZzcjRwNU1oVTVhNlo4Ul9jQ1M1QkRjX3Btc3hCcTh3SEtZU1BYMndsTQ?oc=5",
+   "date": "Fri, 27 Nov 2026 15:48:55 GMT",
+   "vu_le": "2026-11-28T12:00:36.100364+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Pons price today, PONS to USD live price, marketcap and chart - CoinMarketCap",
+   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tRXEyTnFjd0dLbVVBVzFydzFwTWROVGY5S2gzZ1BWQkhRRDd1dU0tbzF2VF9WSUNBTDZreUstQVVpRmhGd3BUNzZ5THVlbkQxWnlTNw?oc=5",
+   "date": "Sat, 28 Nov 2026 10:46:54 GMT",
+   "vu_le": "2026-11-28T12:00:36.100364+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "币安人生 Drops 3.57% Amid Broad Crypto Market Selloff - CoinMarketCap",
+   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zY0JXeW9hUWlOeXVmd3lCNDdXWEYtZEotWkh2MFJaRzZyYnAydGJib1p4N2d6YUkyeU9sb0FjS05VeFlVZ3U4Wlp0Szc0YzJwMUhYQ21CazBFNEVTYlk2QlNmalp2Z3ZicHpDekZLWU8?oc=5",
+   "date": "Sat, 28 Nov 2026 10:04:31 GMT",
+   "vu_le": "2026-11-28T12:00:36.100364+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Gavin Baker Got “Much Better Versions” of His Claude Code Builds From Grok Bot. Warning for Anthropic - TIKR.com",
@@ -6419,42 +6454,9 @@
    "lien": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3c3BNWEthVFEtc1NCenFFRU5MM1Q0cEhnaDA0VDlTNDh5MU5jY0pQdnEzYzRBNXZNY1ZjUXZLQm5uZ2g4bURsZjBpdEZ2cTZ5VW54di1NSmhHZGpa?oc=5",
    "date": "Fri, 27 Nov 2026 13:56:54 GMT",
    "vu_le": "2026-11-27T18:50:36.163019+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Better Defense Stock to Own in 2027: Lockheed Martin vs. L3Harris Technologies - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZWYtQWVxSHpYZ2lnYVB4RXdsOXdxV3R0TFhTYWRLNzBISVdwU2tURUgxWjJ0OU82SDV1TDl5SkUxWjRMTm1iMzlZX09KWk53cmZwSzZIN1BQY09NcmNGS29FYVh5QlNjLVlXcnVEX2pDVVlDYzBYbXl3eWhrSkZOTjZKUGtEOHQtOEo4ZnNNT282UHVLMGNOM2QtVUtrN0NGLWRPWHRtVlNiTENnM3pEYW91VGZzN1hCNXY4Tnh5NE9oVDZ1bXd3S3ljREZlWndPWHdLMzRfb05PTmg0ajhhekZRLUxIUnJWZ0kzdzgwOC14RWNO?oc=5",
-   "date": "Thu, 26 Nov 2026 23:21:10 GMT",
-   "vu_le": "2026-11-27T18:50:36.163019+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGR2djg0MVB4eHBfTDZuUXpPYVFkSDVBSHhScUNDOXRvei0yeG9ndVNPeVNnang3d3ZDMkhpVEVXclZjYWdIYzFhWERPa2FSa1pxckpqelhIb0EtMG03TXh2MHVmVFFTeDd0RURiR3Q1LThzeWx1S2VyOHlwa0FERVg5T3Nqc1F6eVRCekVHR3cxT1JHdUh6Tno4dEw?oc=5",
-   "date": "Fri, 27 Nov 2026 18:16:03 GMT",
-   "vu_le": "2026-11-27T18:50:36.163019+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "L'activisme IA gagne la rue face à la course aux modèles - Brief IA",
-   "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wNUJJVHNyZ0NoN0FfUjBfc3NXUHhBaTNQQ1F1bmlGR2lTVFZHelV2YTBoWmwwT09BYktVZlNVTG5sWWpFNFNnQnZjcVE4MTBhT1NZYlpSbnlFNGJwd2FGcUowQlp1bGR2OG1N?oc=5",
-   "date": "Fri, 27 Nov 2026 18:31:04 GMT",
-   "vu_le": "2026-11-27T18:40:36.568499+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stocks jump to close out an erratic week that was also Wall Street’s best in more than a year - WHEC.com",
-   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbWp5SjNDbVNYZ1BPUkdhWm9rR0diTEZOa0JYTWtFOGRxRVRPWGdBdUdScFFIREtDbGstWFdIRkhhS3pTdW5GWDNTWUtTanliVlZwVHpXS243MmtnSlN3OUs5NmNqZXdreXcxU0FHeDRjX3ZjUEt5RXFhOWVtbmUwR1BkWl9OUE52WTQ4REplSl9odTJCTVpoQlk0UTFkdkxRUmlnSnBhTlVvaFBXci1XaHBWX3MtLWN2RGJ0WlhLcnBIRUZz?oc=5",
-   "date": "Fri, 27 Nov 2026 18:25:53 GMT",
-   "vu_le": "2026-11-27T18:40:36.568499+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Why Is Nvidia (NASDAQ:NVDA) Stock Falling Today Despite a Broader AI Chip Rally? - Stocks Down Under",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrM0FkUGJHZTNjRkFTZV80TGZrQlJ3bWdkM3hiNF9nS2EtUWpfS1lpYW1BMGlCQ29MTzFwNDY3cnJFSmxWZkMzWjdlMjFKVGVRRmF0UGp6RHhGdS14bFZYYjZzUjB5Z1hoLWRxa3JLVUxTdHp0RDh5SjlTRmNyU00?oc=5",
-   "date": "Fri, 27 Nov 2026 16:52:19 GMT",
-   "vu_le": "2026-11-27T18:40:36.568499+00:00"
   }
  ],
- "erreurs": []
+ "erreurs": [
+  "actu Bourse de Paris et Europe: HTTP Error 429: Too Many Requests"
+ ]
 }

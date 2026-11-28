@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54141.6 EUR, jour -1.08 %, mois -25.68 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54146.86 EUR, jour -1.07 %, mois -25.68 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -286,8 +286,8 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -0.08 %, mois 21.84 %, prix 8.736 EUR, capi 8810130130.895283, PER 10.9, volume x0.29 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
@@ -310,6 +310,11 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Chip, cybersecurity stocks attractive post-selloff, market expert says - Reuters
+- [Petites valeurs en croissance] Lowe's (LOW) Stock Looks Reasonable With Cash Flow In Balance - Yahoo Finance
+- [Pays émergents] Who is Luiz Carlos Trabuco, the banker Lula tapped to steer Brazil's economy? - Reuters
+- [Crypto] Pons price today, PONS to USD live price, marketcap and chart - CoinMarketCap
+- [Crypto] 币安人生 Drops 3.57% Amid Broad Crypto Market Selloff - CoinMarketCap
 - [Anthropic (FR)] Gavin Baker Got “Much Better Versions” of His Claude Code Builds From Grok Bot. Warning for Anthropic - TIKR.com
 - [Chine et Asie] Asian stocks rally as China shares surge on fresh market-support pledges By Investing.com - Investing.com South Africa
 - [Intelligence artificielle] Indonesia outlines three-part response to US AI chip export controls - Crypto Briefing
@@ -455,8 +460,5 @@ ACTUALITÉS (dernières 48 h) :
 - [Chine et Asie] Chinese Stocks Surge as Beijing Signals Bigger Role for State Investors to Stabilize Market - Tekedia
 - [Pays émergents] 5 Growth Stocks with a Competitive Advantage to Watch Before 2027 - Equitymaster
 - [Crypto] CoinMarketCap’s Fear and Greed Index sinks to 10 as extreme fear drags on - Crypto Briefing
-- [Chine et Asie] Hong Kong-Listed AI Model Duo Surge Over 20%; Goldman Sachs Sets HK$760 Target Price on MINIMAX - BigGo Finance
-- [Intelligence artificielle] What Do Tighter Chip Export Rules Mean For IREN (IREN) Shares? - Yahoo Finance
-- [Crypto] Bitcoin price falls below $60,000 as whales buy dip, ETF outflows mount - Yahoo Finance
-- [Anthropic (FR)] Avec l’arrivée en force d’Anthropic, Zurich devient un pôle majeur en intelligence artificielle. L’Arc lémanique et l’EPFL sont-ils relégués en seconde zone? - Le Temps
-- [Chine et Asie] China stocks surge after State Council meeting signals market stability - China Labour Bulletin
+
+Sources indisponibles ce passage : 1 (exemple : actu Bourse de Paris et Europe: HTTP Error 429: Too Many Requests)
