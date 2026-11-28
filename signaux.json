@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T02:50:38.393856+00:00",
+ "mis_a_jour": "2026-11-28T03:00:38.564323+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54801.51,
+   "prix": 54793.7,
    "devise": "EUR",
-   "jour_pct": 0.12,
-   "mois_pct": -24.78,
-   "volume": 3.43799247,
+   "jour_pct": 0.11,
+   "mois_pct": -24.79,
+   "volume": 3.44663306,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 834986797,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 834986797,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0tBaVVMMEhVcW8xV0hHZkMtTHdtcmd6QXBGTnhnd1NobXRYa0hwcThnR3hjTGFoWHZRaDhYeVIzc0RacTN2WExzVHQ5MWFidmtRbkNwQkNCMDYwcnZsTE9ka01uMG1XMVA3NTRZcUIwT2hiWkczRVJnNG50NDlPOGo0VllVUGpCM0ZxQzNZZS15Q0VIOEVFbWhQeTF6cW8?oc=5",
+   "date": "Sat, 28 Nov 2026 02:15:00 GMT",
+   "vu_le": "2026-11-28T03:00:38.564323+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "SAFRAN Cours Action SAF, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tNVF0MmJpSmROaGUzdDJ5Ym1yeVdNSHo4Nm91TzdZNDdWQjhIb1FqcG9yY0dxSDNDejh4VUlydFNEa1FWSm5OclY2MlIwQmplTUE?oc=5",
+   "date": "Sat, 28 Nov 2026 00:55:08 GMT",
+   "vu_le": "2026-11-28T03:00:38.564323+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Nears End of Seven-Week Slide as HYPE, SOL and FET Lead Altcoin Rebound - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VNkVkYzJDczhjU29LNXM3ajRNVGZnMkFPUWY2dmxNSHpFQWRuUTlDVV9oT2paS3FuMFdvMFpTVjNNRE5BdTZVbGF2T0tEVTJUTmxESmg2RXFWam1aUHBvaWtGalpEYXBEZDNLX0xScjNjcW5MZlE?oc=5",
+   "date": "Sat, 28 Nov 2026 02:05:00 GMT",
+   "vu_le": "2026-11-28T03:00:38.564323+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now - The Globe and Mail",
@@ -6432,27 +6453,6 @@
    "titre": "Nvidia's advanced AI chips found at data center in China - Gizmodo",
    "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV2NzQXdmVXpOU1FuSE1ZTTJBWEV6OHJJLVJGRFZqTTB2VWdzTENXY1NfNFdSYXN1SzJYUU1FbWIxWGN2WVoxcUlHUFBicDB5am9WOGItR3RjYXdPTjdwYU5ZcUlZbUJfNjBlQ2NjbHhhcG16TDdoaE82Tzg0WjJrRTdTTjdyX3JycWQ0R3FZWkNpNElEYVZ1eGtNbkVxUWt6ZWpaYzR0VmZ6d0J1RnNJ?oc=5",
    "date": "Fri, 27 Nov 2026 13:02:55 GMT",
-   "vu_le": "2026-11-27T13:30:36.274648+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Albertsons Companies | History, Stores, & Operations - Britannica",
-   "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RTm5vTWV3MFJZSXdldWx0RHNleERqSXlDYV96aFhtRFBtOHVGeC16aWxNOUl6eXQtSTQybUFNMjNqblpESDJwSkdJTHhvbXJwZms3SnJhaXN3b1hqbWVxdmdFd2c5M2R5?oc=5",
-   "date": "Fri, 27 Nov 2026 11:24:28 GMT",
-   "vu_le": "2026-11-27T13:30:36.274648+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Zimmer Biomet Holdings Group President of Europe Wilfred van Zuilen Sells 32% Of Holding - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNHhoM1VGY3d0bDl5V2NfNWJQNGtsZ1Z2N3U5MDBKMkhOc2d2MFh2SGVrTG8zN194MDlCODd4WTZ1aWxJYjdFbzBWQmhhVzE4Z1NwNy1vNWJIUGhaeHRCTjk3aWxUUEt1aXBETVBvekRWWE1LaEYxYmZ0YWlqelBaRHR0bkt0VUw1b0lBak02b2dieHB2bDlnMVZ2bS1PREVQNmg3LWo2NWl5dXBmUXVxWlVYNjJicmRESEhzSTVfcERrQ2FFbkx6NU9uWURQVjd0SGZab3g3NNIB3AFBVV95cUxQNG1oU1d0TUk4MXVBOW5BNGt2Sm5YejQzdVhBejYwWlVBNURRSWxqdjNEWWtjZTd5c1RGV21NWnZsUlRfVE9rRV9TajQ2LThNZTNFdGhYbXNGYU91ODRPLTkzVzZvaVRmNzBvVGZCVjNScnBOOVdRdnhaNTVreVZmTVFtM3BOcFhQcF8tdGFZc3FfZ2NMZHZOdE9RVTdJcS04NXJPcGJ1YW9ZYmpNVHpNN0p2TnQ0cTFqb0ZsNnVZSFhpdzZ3OU42MHk3SGNiNXYzaFV5WVRLZmxVUF9P?oc=5",
-   "date": "Fri, 27 Nov 2026 12:45:28 GMT",
-   "vu_le": "2026-11-27T13:30:36.274648+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Abraxas Capital Grabs 21,520 Bitcoin as BTC Hovers Near $60K - Bitbo",
-   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GMm1RT1VxYXE0YldiVmpUNXVEMDhnSF96MmxpQXEwdTRRbW9tcGRwcDZWZkxVUS1ZU1A1QTlxRHRLRUwtTUJQVnU4NFhkNWVzclBYb1Uzak84Zk5BX1RRa1V3?oc=5",
-   "date": "Fri, 27 Nov 2026 13:15:00 GMT",
    "vu_le": "2026-11-27T13:30:36.274648+00:00"
   }
  ],
