@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54420.19 EUR, jour -0.57 %, mois -25.3 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54443.73 EUR, jour -0.53 %, mois -25.27 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -460,3 +460,5 @@ ACTUALITÉS (dernières 48 h) :
 - [Intelligence artificielle] Dow Surges More Than 5% in a Week for Best Run in Four Years as AI and Chip Stocks Lift US Markets - BigGo Finance
 - [Résultats d'entreprises] Meituan Swings to ¥50 Billion Profit in July-September Quarter; Core Business Operating Profit Hits ¥140 Billion, But Adjusted Profit Misses Market Estimates - BigGo Finance
 - [Pays émergents] 5 Growth Stocks with a Competitive Advantage to Watch Before 2027 - Equitymaster
+
+Sources indisponibles ce passage : 14 (exemple : actu Anthropic: HTTP Error 503: Service Unavailable)
