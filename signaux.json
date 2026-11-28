@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T04:50:35.163202+00:00",
+ "mis_a_jour": "2026-11-28T05:00:36.814970+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54849.55,
+   "prix": 54788.56,
    "devise": "EUR",
-   "jour_pct": 0.21,
-   "mois_pct": -24.71,
-   "volume": 4.03009441,
+   "jour_pct": 0.1,
+   "mois_pct": -24.75,
+   "volume": 4.10753023,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 8779940033,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 8779940033,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Nvidia's Huang Return Puts Five Indian AI Stocks in Focus - Industry Odisha",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaVJaVlZwOWQ5ZnY4bXFDZmwxaUN4OGtLT3VEajlCYzAxdEJKOVpwaGQyQ09XdnJMYXoxMk45VHNlVnhYWEFxZ2EtLTNYdzJHLWtGMUhEVFV1dlY4akR6TXA1cVJIeFFCckpOU2FkUjRLc0NHb1hVRjl0X3d4SWdUQllIQzJSSEFYb0NiUXRJa2MtMlpjT3lKVTVSc1Fhdw?oc=5",
+   "date": "Sat, 28 Nov 2026 03:41:19 GMT",
+   "vu_le": "2026-11-28T05:00:36.814970+00:00"
+  },
   {
    "sujet": "Rachats et fusions",
    "titre": "Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank - Quantisnow",
@@ -6446,13 +6453,6 @@
    "titre": "Chip stocks rebound to cap a volatile week - TradingView",
    "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVVDM3VCdk0wUTRIMks5NmY3MHBFN0pZb2dVeFpHVXpCRV9iTXdMeEpNSHZMSi1IOGNLZVJWTTBVVmxkd0xEUzNzZVM5WU9vRUlQaUloa2x1eTQwYmY4SGhWVWctR29uTm85R1Y1VHYxQVdSSkJMSGZHVGg4OEx2MnhvcWlIYl9jUXlhRGpsWGpqRE9FYkpqYW9GSTFvN2pvcnNkVEs5LUQ?oc=5",
    "date": "Fri, 27 Nov 2026 13:47:18 GMT",
-   "vu_le": "2026-11-27T14:20:39.793067+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Strategy Just Bought Bitcoin for the 4th Straight Week. So Why Aren't Crypto Investors Bullish on MSTR Stock? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQXd6N3dDVXNsVXZhRm9zWjdDSFp3XzR0QUtZYnN3YjRkSnhSdFUxUkpTQ21na0RGQlFpel9WQk5Da3phUTk0RHYyelZraENUNUpqX2xudGNPeFBTMGNpTm1QektZUG1uSUdIX2VjQ2E5MXFBck1faTBfdlRxSURYZ00wMV8xM0dHa28zTE9NS0M4ay11MVVJMk8tcW5FQQ?oc=5",
-   "date": "Fri, 27 Nov 2026 14:03:12 GMT",
    "vu_le": "2026-11-27T14:20:39.793067+00:00"
   }
  ],
