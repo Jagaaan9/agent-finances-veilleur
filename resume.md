@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54700.5 EUR, jour -0.06 %, mois -24.92 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54718.18 EUR, jour -0.03 %, mois -24.89 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -310,6 +310,9 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] Hong Kong-Listed AI Model Duo Surge Over 20%; Goldman Sachs Sets HK$760 Target Price on MINIMAX - BigGo Finance
+- [Intelligence artificielle] What Do Tighter Chip Export Rules Mean For IREN (IREN) Shares? - Yahoo Finance
+- [Crypto] Bitcoin price falls below $60,000 as whales buy dip, ETF outflows mount - Yahoo Finance
 - [Anthropic (FR)] Avec l’arrivée en force d’Anthropic, Zurich devient un pôle majeur en intelligence artificielle. L’Arc lémanique et l’EPFL sont-ils relégués en seconde zone? - Le Temps
 - [Chine et Asie] China stocks surge after State Council meeting signals market stability - China Labour Bulletin
 - [Rachats et fusions] Sanofi Signs $41 Billion Deal to Acquire Insmed and Considers Launching in Germany a Drug Authorized in the EU Since 2025 - Informat.ro
@@ -454,6 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] What Would It Take for Hedera (HBAR) to Reach $1? - 24/7 Wall St.
 - [Anthropic (FR)] L'analyste le plus optimiste sur Anthropic vise... 300 USD !... - Fortuneo
 - [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
-- [Marchés mondiaux] Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - The Motley Fool
-- [Intelligence artificielle] Wall Street ends higher as battered AI stocks gain in volatile week - Reuters
-- [Anthropic] Anthropic Stock Is Up 11% From Its IPO Price, and One Analyst Still Sees 63% Upside. 
+- [Marchés mondiaux] Crypto Market Today, N

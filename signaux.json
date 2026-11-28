@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T06:40:36.701330+00:00",
+ "mis_a_jour": "2026-11-28T06:50:35.541232+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54700.5,
+   "prix": 54718.18,
    "devise": "EUR",
-   "jour_pct": -0.06,
-   "mois_pct": -24.92,
-   "volume": 6.58049101,
-   "volume_relatif": 0.03,
+   "jour_pct": -0.03,
+   "mois_pct": -24.89,
+   "volume": 8.58949193,
+   "volume_relatif": 0.04,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3656,6 +3656,27 @@
  },
  "actualites": [
   {
+   "sujet": "Chine et Asie",
+   "titre": "Hong Kong-Listed AI Model Duo Surge Over 20%; Goldman Sachs Sets HK$760 Target Price on MINIMAX - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0SjhURTFzX2ZtRkJ3VnZFNDVvTUNrNmVmMHlpeWtGaG1JeFI1NnZkZFNnUTlGWVRpZGdTZ0FuTG9ZQ2lmYzhGbEdyb2ZIRkhNN0VRQi1PTnFrVGRWUE04a1dTdXlEQkk0aEd6eWIyNUVGeVZvNlE?oc=5",
+   "date": "Fri, 27 Nov 2026 07:36:00 GMT",
+   "vu_le": "2026-11-28T06:50:35.541232+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "What Do Tighter Chip Export Rules Mean For IREN (IREN) Shares? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamtRODVBcWhHTTh6NWJiNXlRb3Q1T2stMjZUTU1xWjVtamYwV0duc3JfSDZ0NHo4R1g0QjBEWENpbTllR2FVOW9vNHJtOVRVdWZ4aUdrZDh6QVlPOGtIY0ZpYUFUTW1SVzM1V2ZCa3NaaS01Y0poZXlGUVpxYWtpNm9CSHBlamdGUXdjSW8tdjNEQ3V0VUoyYUF3?oc=5",
+   "date": "Fri, 27 Nov 2026 20:10:20 GMT",
+   "vu_le": "2026-11-28T06:50:35.541232+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin price falls below $60,000 as whales buy dip, ETF outflows mount - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzZCV0ZWdEJib00yM054QzE2YlFfaWFPRVd2VGJ3MjR4bVNTSnB5amxISEZzM3g3a1BMYzQ1bHY1MmprRGoxbWhoOTZwalY0UDhzbGt5c2dDRjdEdVFqMDBjYXBxUUFYZFR0dE9sNDdUNkJDSGhXNXVfNmZPQV9EZ1EwbVhxV0tHV1JzSGdxMEltd041bWpZYg?oc=5",
+   "date": "Sat, 28 Nov 2026 06:26:00 GMT",
+   "vu_le": "2026-11-28T06:50:35.541232+00:00"
+  },
+  {
    "sujet": "Anthropic (FR)",
    "titre": "Avec l’arrivée en force d’Anthropic, Zurich devient un pôle majeur en intelligence artificielle. L’Arc lémanique et l’EPFL sont-ils relégués en seconde zone? - Le Temps",
    "lien": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPamZhVlY0aDg2cjMyZ2h4MGxLRmMzWEJJNTUxdVlja0VTQkNwUXRTdWFwbXBoVEk2SVJSQUp0QWl4NEJ0MEZWbGxRM2ZGZVBhd1VfMl8xR1FvVDVJaXFyWDJIaGVieDAwODQ0RlFTbUJvY0k1azFuOGEtdVVCdTdYSUhGV0JJTkdUajlSaWhyZTcteUJJaUVqakJrYVotOVEyOE16QWd0RWdsX1lVdllNWWpxZERZN2hEVzFJaUVpdjBmVHJ6SUNWSGxIOU5TZ3B6UnFiYVhid0MtSjFQbzNfZG9adnVvREpxdjdTVXIzNUwyY1hwNExiUTZhRG16Skt5SFpzZG9aNU5oSkJpeEUtTGpaNlc2N0h3RFdnUnpqRzYwU094NF9HMFBMOHdpa19jdThJ?oc=5",
@@ -6432,27 +6453,6 @@
    "titre": "Pourquoi l’action Anthropic, PBC progresse-t-elle aujourd’hui ? - Investing.com France",
    "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMUMzQ21ocmJ1QndROW5zNkZMYWd5YlNpNDNtczJNN0JlSnJYSG9vTmlMSThjR0pWNC1leUZ2QU5kLWF1bjdJWkRRa0xhLVdpWHN4ekd3SUFNblhCWG05N2NYOXlUaF9hQWRqTVFIdi1ITmJ0ZHgxZ3duQVNFclpfM3FMUDhBeE0yc0R4b2hvUlVMbUhOSGVWU3F1WVZjZ0QyZHg4bC13bHJhalliV19ObmVoTnB2b2RRMWc?oc=5",
    "date": "Fri, 27 Nov 2026 15:02:00 GMT",
-   "vu_le": "2026-11-27T15:10:36.629100+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street Futures Signal Strong Opening as Technology Stocks Continue Recovery: Dow Jones, S&P, Nasdaq - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFZPYlR1Zk9NaE9DRm1va1F3ZkdPQ3YtT3VEVmNXeGlINzdiMGpyclBsN19rRnJ5RVRRcUx5VzhhQU1wVkxCNDlrbV9VV1h3QW93a3ZLOVhMU3dqbXpyUGtqNW9tMlZzOW0wVnhseVJSdkV0b3VzT3JsbXJHNmZmLUo2R2ROSF9MTTU5ZmxoTkxCMjVFVUxYdGJtTzR0bkU?oc=5",
-   "date": "Fri, 27 Nov 2026 14:15:58 GMT",
-   "vu_le": "2026-11-27T15:10:36.629100+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock Market Today: Markets Off to a Strong Black Friday Start - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdHNPX3NEOTVyR2lsQWp0MVQ3S3pIMVZKVkpSSnVnZ0FJR0docUF4SF9CenpVbGtwZ0VJLXJPQTExaFljaGd1X2N3TjRDTzI2bXFZTllEYS1HdlFxcXFXNUlmM3ZielBQNkpjVDgtajJWWHdZT09CbTZ6alloUEhKbE0ya0pSMVJ2WXpzV2x1dFJRN29wcVpLWGh4ckZEajlBeFVQeHppeDM?oc=5",
-   "date": "Fri, 27 Nov 2026 15:03:00 GMT",
-   "vu_le": "2026-11-27T15:10:36.629100+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Inflation May Have Peaked in October: Economists Split on How Many Fed Hikes Are Effectively Needed - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPclM0RzBvZGZwUUxyZFI1TVhCd3VGSlFBcmRRV1BfbE00Z3BrZzg0VmlYQkY2U0tSSEtLSUxXdEhtbFRmX2IyZURzdWR4VXJzVktfQlMtMTN6SGpGWEdMZE5hczMwZXFUeE1TLWhjaEdNbTNOWUs1OEZCS0JwdVRtTVI4QkNNcC1xaFlETTJSLV9MT0FNSkJpclNQRjg3Y2tTV2sxcUZjVndobFpiYnFoWmNkWk5oYTNJeEtPb2Q5anF0WlhLTGJTWDB5WXNrc1ZPckpaRzNKeGJ6Mkx4cXJmRVhZYXROandsQkFfMg?oc=5",
-   "date": "Thu, 26 Nov 2026 18:20:06 GMT",
    "vu_le": "2026-11-27T15:10:36.629100+00:00"
   }
  ],
