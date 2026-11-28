@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54401.67 EUR, jour -0.61 %, mois -25.33 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54390.63 EUR, jour -0.63 %, mois -25.34 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -226,8 +226,8 @@ POSITIONS ET INDICES :
 - IX Knowledge Incorporated (TSE:9753, secteur Commercial Services) jour 0.9 %, mois -5.09 %, prix 1342 JPY, capi 12727808559, PER 7.4, volume x8.8 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 10535061261, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 1001984170, PER 28.6, volume x17.7 la normale
+- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 10535061261, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (BSE:GOYALALUM, secteur Distribution Services) jour 20 %, mois 26.49 %, prix 7.02 INR, capi 1001984170, PER 29.1, volume x52.33 la normale
 - Waaree Renewable Technologies Ltd (NSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 23.4 %, prix 825.7 INR, capi 86154609956, PER 18.5, volume x233.67 la normale
 - Waaree Renewable Technologies Ltd (BSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 22.52 %, prix 825.4 INR, capi 86154609956, PER 18.5, volume x128.17 la normale
@@ -286,16 +286,16 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -0.08 %, mois 21.84 %, prix 8.736 EUR, capi 8810130130.895283, PER 10.9, volume x0.29 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
 - SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour 7.52 %, mois -24.25 %, prix 119.5 USD, capi 579228478930.6643, PER 6.7, volume x0.77 la normale
 - Tencent Holdings Ltd Unsponsored ADR (OTC:TCEHY, secteur Technology Services) jour 3.97 %, mois -8.56 %, prix 45.29 USD, capi 404554837871.25, PER 12.2, volume x0.7 la normale
-- Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP- (NYSE:BAC/PP, secteur Finance) jour -0.34 %, mois -1.23 %, prix 14.51 USD, capi 338593252758, PER 3.5, volume x0.89 la normale
+- Bank of America Corp (NYSE:BAC, secteur Finance) jour 1.09 %, mois -3.6 %, prix 49.07 USD, capi 338593252758, PER 11.7, volume x0.57 la normale
 
 ÉCRAN France : meilleures performances sur 1 mois :
 - Clariane SE (EURONEXT:CLARI, secteur Health Services) jour -1.54 %, mois 46.05 %, prix 4.618 EUR, capi 1649834769, PER 130.5, volume x2.03 la normale
@@ -310,6 +310,14 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Bad News for Anthropic: OpenAI Nearly Matches Claude Opus 5.5 at “Under a Fifth of the Cost,” per SemiAnalysis - TIKR.com
+- [Marchés mondiaux] Wall Street Review: Stocks Rebound in Holiday Week as AI Trade Revives - NTD News
+- [Bourse de Paris et Europe] FORVIA Cours Action FRVIA, Cotation Bourse Euronext Paris - Boursorama
+- [Banques centrales et taux] Mythes boursiers – Perspectives placements de Raiffeisen - allnews.ch
+- [Banques centrales et taux] Les responsables de la BCE défendent la résilience de la zone euro, l’euro numérique et une intégration bancaire plus poussée - Traders Union
+- [Défense, énergie, matières premières] State Street SPDR S&P Aerospace & Defense ETF (XAR) Stock Price, News, Quote & History - Yahoo! Finance Canada
+- [Crypto] XRP price at Nov 28, 2026 at 12pm EST Crypto Prediction Market - Robinhood
+- [Crypto] XRP price at Nov 28, 2026 at 9am EST Crypto Prediction Market - Robinhood
 - [Bourse de Paris et Europe] actualites CAC40 8948TPIOPENS (1B59S) - Turbo | DE000SQ7X9C5 - Cotation EURONEXT ACCESS PARIS - Bourse Direct
 - [Bourse de Paris et Europe] SPIE Cours Action SPIE, Cotation Bourse Euronext Paris - Boursorama
 - [Banques centrales et taux] Le dollar profite de l'appétit pour les actions américaines - Zonebourse
@@ -452,11 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] META_TITLE_SECTORS - Yahoo Finance
 - [Petites valeurs en croissance] Trade Desk (TTD) Stock May Be 28% Undervalued Despite Kokai Lawsuit Pressure - Yahoo Finance
 - [Crypto] Crypto Market Today, November 28, 2026: Bitcoin Near $59,500 as Friday’s Rebound Fades - Eurasia Business News
-- [Crypto] Monero vs Bitcoin: Which Crypto Is Better? - Phemex
-- [Banques centrales et taux] Les anticipations d’inflation repartent à la hausse dans la zone euro (enquête BCE) - Agefi Luxembourg
-- [Chine et Asie] Evergrande New Energy Vehicle Delisted by Hong Kong Stock Exchange, to Exit Hong Kong Market Dec. 14; SAIC MG to End Combustion-Engine Car Production Next Year - BigGo Finance
-- [Chine et Asie] Why Goldman Sachs rates Unitree a sell and thinks shares could fall 48% - South China Morning Post
-- [Intelligence artificielle] Why are Nvidia’s AI chips special? - Fast Company
-- [Pays émergents] Africa’s richest man takes $47 billion refinery gamble to the stock market - The Financial Express
-- [Pays émergents] Puma stock: JPMorgan downgrades rating as markets are reshaped - ad-hoc-news.de
-- [Défense, énergie, matières premières] These tech stocks may let you play defense without giving up on AI - MarketWatch

@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T16:10:34.706362+00:00",
+ "mis_a_jour": "2026-11-28T16:20:35.408307+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54401.67,
+   "prix": 54390.63,
    "devise": "EUR",
-   "jour_pct": -0.61,
-   "mois_pct": -25.33,
-   "volume": 70.84656111,
+   "jour_pct": -0.63,
+   "mois_pct": -25.34,
+   "volume": 70.88019533,
    "volume_relatif": 0.33,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 10535061261,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 10535061261,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOG",
     "nom": "Alphabet Inc. Class C",
     "prix": 272.44,
@@ -3399,14 +3385,14 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
+    "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
+    "prix": 40.81,
     "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3423,6 +3409,20 @@
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 14.4,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PP",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP-",
-    "prix": 14.51,
+    "symbole": "NYSE:BAC",
+    "nom": "Bank of America Corp",
+    "prix": 49.07,
     "devise": "USD",
-    "jour_pct": -0.34,
-    "mois_pct": -1.23,
-    "volume": 160626,
-    "volume_relatif": 0.89,
+    "jour_pct": 1.09,
+    "mois_pct": -3.6,
+    "volume": 19471454,
+    "volume_relatif": 0.57,
     "capitalisation": 338593252758,
-    "per": 3.5,
+    "per": 11.7,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Bad News for Anthropic: OpenAI Nearly Matches Claude Opus 5.5 at “Under a Fifth of the Cost,” per SemiAnalysis - TIKR.com",
+   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN3ItUGhjbV9nMHBmc19OdEpfVy1PVHJRWjh0dlFuSEFZMmZyM0Q5eFY1NS1QUjZVaUozcXJNc3NlNzhWTm5pYUstcGg2YS1tbkU0QnEtWXktRlcxUzE0MTBEUzR2WVRWWmlWa0tGYWljc2JGWU9FYkltNUVQT21iR0RTZUlSUTZGNzFIaGhWZTB0eHVYU0ppQkxOeUc1eDZCRUx3dEgxaTl0RFA0S3kwVm9hZmw4UmJNR3N5enhuaHI5NnpRS2R5NnFiY3NYTnJ3TGc?oc=5",
+   "date": "Sat, 28 Nov 2026 12:24:58 GMT",
+   "vu_le": "2026-11-28T16:20:35.408307+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street Review: Stocks Rebound in Holiday Week as AI Trade Revives - NTD News",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWVd2WWpqbk5HQ2JkeE9pX3FtTW9hNDhFT1pwYU9KWThsUnhiZ29MZm5rbEhzcGV5QVJmY2VwUE1DM1RHZUszeUM2UXlSS05OTks3RmZSVzhNTXlTR2duQ2J6MWlWRVhkaVpobzJPUDFRWTY0RnYzUm9FY2RlWU1oZ25pSUZ1aEwxd1RoWFBwbnNCZXk4SE9qNko5aU1lUDFfRG9ybA?oc=5",
+   "date": "Sat, 28 Nov 2026 15:50:28 GMT",
+   "vu_le": "2026-11-28T16:20:35.408307+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "FORVIA Cours Action FRVIA, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6clZHLUlSclJYak9MUW5vVUNROVg4WmN1Z3BOaTJMY0ZXX2xsUWRKMVhwUjJ5d1FPWGtCNVNCaWVsQXlKRFJiaTBUUzhwd2RBZlkwYg?oc=5",
+   "date": "Sat, 28 Nov 2026 09:33:17 GMT",
+   "vu_le": "2026-11-28T16:20:35.408307+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Mythes boursiers – Perspectives placements de Raiffeisen - allnews.ch",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZTNvYy1xM01KTUQxVzhmUVAzQU5SV1lQaW0tRllRbnQzTzZaSHZiVlVUS2w5azdadU5LX1Y4T0tFdjl1WEZiaUU0aElmQlM5WkhkaTlMRWJJRDJTMDY4RVdsRUV5WW9xN0RPUEczZUVpRjFyZUtaRlRNXy1GUVFHNmQ2TFVJMWJKSXhrdl9yTVVMMmprNFFaN09CbkNoTjQ4bVNwY3FHMElfYUhlLWc?oc=5",
+   "date": "Fri, 27 Nov 2026 18:24:00 GMT",
+   "vu_le": "2026-11-28T16:20:35.408307+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les responsables de la BCE défendent la résilience de la zone euro, l’euro numérique et une intégration bancaire plus poussée - Traders Union",
+   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUNxWF9rYzZta0hFNTRDU1htdHAzcnpQbldFTXlmT2RURlFJbU40d1Rrb3pMb25oLTJ0OFUyMEduMjlHMXNQS21FeUlDMzl1VjFXLUhkV0dQOUFvbEZ2VGRBZWhuX2JaZGVCdkkwMVJnMDh5UUdrNm1CSm9jYm9oa2k0N1lUMGptNFFqY01PWDI1S3h2MkwtS1huUEJub2VWd3c?oc=5",
+   "date": "Sat, 28 Nov 2026 08:21:44 GMT",
+   "vu_le": "2026-11-28T16:20:35.408307+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "State Street SPDR S&P Aerospace & Defense ETF (XAR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSNjJfX2VVUFdkQmxucXVSS3hSVlBmM3M3WGxpbXN3Zi1PNGlHWG43N3NVWEpsREhBekQ1bm9RZ3p4aEFHUlE1SnZCSzBjYVJV?oc=5",
+   "date": "Fri, 27 Nov 2026 20:16:37 GMT",
+   "vu_le": "2026-11-28T16:20:35.408307+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 28, 2026 at 12pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcHJwb3d1a3NpQWMwRUhwVHBnMUZyZTduSmZnYng0dW5rWGozZmIyZzZQenpzUktOU3pEUDFUWVZuVjRMWnhpZmRsbDUzX2tGOTJNX2diQ1Y3aGdWNkd3T3NDOWlTaDJQNXpXXzFKSXZuYTN2NE9tSTgzZzNGMFZLSnhjOXo5b0hFRU9lSnZISVA0YlMwQ1BEQVJNTHVFZ19qTGh6b2o5bXR5ZVNlQVY4?oc=5",
+   "date": "Sat, 28 Nov 2026 16:17:33 GMT",
+   "vu_le": "2026-11-28T16:20:35.408307+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 28, 2026 at 9am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTDR2dXpZNlRHUmRhQlZDNzBhMC1DUFdfWl9FWGltRkFDOHYxSE8zVVRhNGxMVXdXci1LcWJLYmx0Yk90eGJRaWx1M1NyMlBPZnlmeWV6a3liQzRQeGp1LVlvTUxkZl9TajhXSVlJU0lrMi1rbDNpQkdhWW04VzN1VEtoY2tVVmc0bDlhSFFReDY0SUJXNFJFYUE5QnFyTk1fS0FHZnowZVB3NElXbUE?oc=5",
+   "date": "Sat, 28 Nov 2026 13:03:43 GMT",
+   "vu_le": "2026-11-28T16:20:35.408307+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "actualites CAC40 8948TPIOPENS (1B59S) - Turbo | DE000SQ7X9C5 - Cotation EURONEXT ACCESS PARIS - Bourse Direct",
@@ -6398,62 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQT25Fb3hZdXhWamtsWTR6QlVjX1o0cjhFSlRWU0J6YVB1QVBNVUJPOW9NNmlKUlBwdFFGTlZsaU5iSm40M3N0T09FVlFDUnlTWXZHc0tnVy13c1d2OWpsRm1ENFNsU3JlTldOTTRUMGpjTzhfdGtJN2xBUWZpRWQ5QjRVY3JBdDFGejVOTkJmVElNN1lqX1VXS1ExNS1PS2Z1dFFXbUdnMnAtakxRY01PZUMxOTJBNXVQY2w5NHJOZjFrcnRHTjF0WnZRLTZvV0Jvd1BFekN4Xzk1VEpKOFFDMnZuVDR5em41Znc1SGR6TU1EQ2hkN3k1MktCVk1YckRpX3NYRzgtbENGUm8y?oc=5",
    "date": "Fri, 27 Nov 2026 22:39:35 GMT",
    "vu_le": "2026-11-28T02:20:35.242092+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "HYPE price on Nov 27, 2026 at 10pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0ZRUG4wUnF6X0h0aTJEa2wxbHBKQlB0ZlpOTTFiam91NlhpZjdOWGVBOEc2NHA2eVNzbGhwYjlGTU9KTEdwdmx2RjNFdkdHMm9Gdk9OVXJYUGhzYUgyeTVJemE5WTBETzdxZmFNLVNPMVV1NWJyc3lvOFhEdmlXdUxuN290WUJWTC1EWTlqWTRQNk0xOGdyMElVWW5MdjZPWHc1UnpUMGlDR2JBTzMyRQ?oc=5",
-   "date": "Sat, 28 Nov 2026 02:11:33 GMT",
-   "vu_le": "2026-11-28T02:20:35.242092+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Patria Investments (PAX) Could Be 35% Undervalued As Fundraising Growth Drives The Narrative - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTJILWJIdGtnNHZiTzdYbDVaVGFZNHdhdWFuT3Q3ZU1pWkFtdzM4N1JYdGo2ZVo3RmljcEdPS3VfeDhMS2U3YUVlQWg3ZGM1MzN1Qklrc0hvOThNTFN3RlBnemc5dC1EUHNFQXZtZmI4cGpOOHllaG1OYWhCM0JMQUFiSUIwZVRodmhJRXBrdDc3c2dVREJhVzcteGQ?oc=5",
-   "date": "Sat, 28 Nov 2026 01:09:00 GMT",
-   "vu_le": "2026-11-28T02:10:37.043130+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Les responsables de la BCE signalent de nouvelles hausses de taux face à l’inflation - Investing.com France",
-   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeVQ0a1dTaWlVdWZIOTRFSFNJMWZGRkJ0ZDQydG05U1p2dEwtQkRTeXY4OFRNN0RDSXYyNU16VTZ4XzA2dFdVeFN4Zjg0eDhtdERwbEM1b3FzdUxnLWJ6Y1BzRTdKX2VLVmt6U3pNMUZIRHpkNW1nNmpBS3RTSFQ4RVFXYjViY2JjUmpnc2NLcWNYMTJSVUxhYW14d1dmeDQ2ZTd4M3RnbjRnT0ZEQkRLcVRkb1lJRXVUb0lmYnhB?oc=5",
-   "date": "Sat, 28 Nov 2026 01:40:00 GMT",
-   "vu_le": "2026-11-28T02:00:36.219520+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "3 AI Infrastructure Stocks to Watch As Apple OpenAI Fight Tests Chip Demand - Yahoo Finance Singapore",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzhPWWpTV0ljRmlpSEpwcGQ5WmtHQndHN3g1ZWN4akRINEJmNm5QWU1NNG9feW83VTVQcWszbGF2YkZMT3lORDZXdmNsMTZqdzc3M2pYWHhsT0xaMTJ6M19QYkNvM2lscV83ckFvYm90YWloc1hNajhLUk1McXVwZUx5VlVzYjU4?oc=5",
-   "date": "Sat, 28 Nov 2026 00:14:00 GMT",
-   "vu_le": "2026-11-28T02:00:36.219520+00:00"
-  },
-  {
-   "sujet": "Introductions en bourse",
-   "titre": "Anthropic Shares Jump After Volatile First Week Since IPO - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGVqenZQM2JzRHFPVmVDWElvMUlUTXdHVFVlT2VOYWc3ZU5KM0czVlBfUGhNNWU0ekFjYU13YWdRS243RE10VEVHYW9DRzdmUmF4MndvQ2dnUmVxY1ZJZER0WnpZay12cUJqTE0tRUlGSlluYkgwem1wTG51d1FrdHF5SWtqa2F3MkNOaFN1Z0RrejFJOXdSLTFGZnJWTDk0emw4dlN0bVlRalJ0elIxdzAxUm9Idw?oc=5",
-   "date": "Fri, 27 Nov 2026 18:28:35 GMT",
-   "vu_le": "2026-11-28T02:00:36.219520+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "India's Resilient Earnings Attract Foreign Investment Amid Emerging Market Risks - GuruFocus",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTHNXVGt3N1YtVDZyRVdUR2xlRFk0ZllDVVZ5LTdteWRPQU9NYU9QUlM5MHhDMlZfdm1FYjFlQUoyMFN1ZWMzYWRWMnRlaUtrR0RBQ1NtOWpLd1p2Smh6UlZUdGItZThFZzNyNGxvZUhva1hvWTdiMU53WVBoV2xBaFZqTzlXbjB2Q09ibHZFdzlXN0lsMVRSMk44WkdVd2ZORlBydXhPYnhhNnB6OVpnNG5DX2twZ0xQLUE?oc=5",
-   "date": "Fri, 27 Nov 2026 06:50:08 GMT",
-   "vu_le": "2026-11-28T02:00:36.219520+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Falls Below $60,000 Again; $228 Million Liquidated in a Single Hour, U.S. ETFs Post Record Monthly Outflows - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CQlJYX2JOaFJRdVVJdnVXS042cEQ4UUF0SUhtSmQ3dWxLc254LUVCSGlJUDhrSE1fS3gwQnZIMEpvNjNyemlfRTFQSWxfX21vTmlxelV4QThlRXNEZlk4NFFUOWJ4R1pSMjFfOWxlWVl1UUEzdXc?oc=5",
-   "date": "Sat, 28 Nov 2026 01:05:00 GMT",
-   "vu_le": "2026-11-28T02:00:36.219520+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "XP (XP) Stock Still Looks Undervalued Despite A 33% Five Year Fall - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODQ3Q09maUdEUE9meWVPakFPNTI1Tzkxc0hOdUdpcUt4eXpXZm5HWjVNWlBCQWtqYUlkNm1Kb01kcGFRcXdzVnN6LVBCdVFuMlVsOXVVaVNwMnNvakVKR0tLaEJ1RGZhT2dBY016Z1pxT2pqWVN2QXk1a2J1aDAzMWhLN2loUjl5a1FnOFBDa2pJZw?oc=5",
-   "date": "Sat, 28 Nov 2026 01:10:00 GMT",
-   "vu_le": "2026-11-28T01:40:36.652729+00:00"
   }
  ],
  "erreurs": []
