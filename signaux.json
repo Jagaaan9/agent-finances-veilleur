@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T00:10:35.999161+00:00",
+ "mis_a_jour": "2026-11-28T00:20:35.100257+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54802.5,
+   "prix": 54776.81,
    "devise": "EUR",
-   "jour_pct": 0.12,
-   "mois_pct": -24.78,
-   "volume": 0.08660424,
+   "jour_pct": 0.08,
+   "mois_pct": -24.81,
+   "volume": 0.12600894,
    "volume_relatif": 0.0,
    "capitalisation": null,
    "per": null,
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "Les Bourses européennes rebondissent légèrement pour le Black Friday - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOTUFHem1BZlUtSHpxdGdxMERJMVo3LU5nWEg5NzdmTHE3TE8xNTFxanN0TFJrVEIwQWdhT0dXZmUyOWZSaXM0WnNycXJFZUhCWkE0bXFNSEEyaUhFQXNjdzB6MUx5Y2lTb2lrdWsyX2xOYUxkOWFheW0xcHBIOG9uNFkzN0VUUFRCMVZ3MDFibXRScHdHVjhrUjM1Z0o0NXl1WU55RjMySjlFZloxaFRxLWdzNkJBWHFLQ0loVUhyeWtYcUZLM2lISVRUSlhvQUR4dUNBenBzMVRuamp4ODZlRnRjWXROX01PZUM1X2ZmMTU2aWtsd1FmT1lTaUZMNVVwSDJSX3hFRktWbzdpdWZzOWNBMXktLXA0R0lvbHZhOTllVUc1N1FGXw?oc=5",
+   "date": "Fri, 27 Nov 2026 11:21:00 GMT",
+   "vu_le": "2026-11-28T00:20:35.100257+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Chip Pickering and His Telecom Competition Approach to AI Infrastructure - Broadband Breakfast",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbmZNbjdGbWtkV093S0liMmpZMVhoYlNCU0Ytd3k5NF81MEtsRDdOWW1WeDdlLTVKZ1liNE9FOGN5ajl3T2ZsNkljTk9VNXRqZVRqek80WmIyeklRa28xWElRSEZxU3VYYVpXd1R4SUlrMG5ZenMxUVdoYVB5bmlwV1FKZ0NYelkzY192Ym1VRld5ZmdFdU41cXJSZTZtOHloQ081bTlZNA?oc=5",
+   "date": "Sat, 28 Nov 2026 00:14:02 GMT",
+   "vu_le": "2026-11-28T00:20:35.100257+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Vivakor (VIVK) highlights Direct Midstream Texas water deal - Mugglehead Investment Magazine",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZXpMSXJGYnd6M09uLWNwUmVvbGtkUDMwTklaMUZMTGJPam5rdHctNm82OXU1TGd4TnE0QVdFUmhfWjU4czZSLUY3a1k0SGMwcHd0T0k2NnNHdXRwcDhNbzVYanF6MXVpdy1qOUk2dHlMQjBlUGc?oc=5",
+   "date": "Fri, 27 Nov 2026 18:49:29 GMT",
+   "vu_le": "2026-11-28T00:20:35.100257+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Defence stocks surge up to 15% on Friday - Here are key developments and triggers that lie ahead - CNBC TV18",
+   "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeFVtajhNRjFpbUNYc0VJak1UVEYxUWluUV9iS0dhcmY4Z2hNRmVhZi04YjUxc3lVZFZiMnpBY01zVzFMMzAzT2hVcVk2Sm44MGZRYWJwVFJwVlYwSm5obHpCa0VnUzJ4YlRTdW13YmhfR1M5N3Z1R2tGa2lja2E5cGZnZ3Q1bU53ZEN0QjlfZDdjRFBaWmNfaERsclVacGktc3FPNVRZTFdncUNFd29DRGxWR3dkcHMzTERvdG5rSkxxZmlIU3Jlbnc1Q0pLWDZDZzF6SFJGQmNaaGNsM2tuNzRUM0xKc1HSAewBQVVfeXFMT1N0VjRRckRlWTcydW9zVFd4SU41MDdicnlHSTdKVF9LSHpCUjlGWnJDNWlBbEpiVEk5QXNhYVYySjRYQld1cVZwaERfT3FsVmE1NERnbU4wR3VfUlBVWjBDVnk2NVJHTE1pamJvN1JDMGxfcG5kalY2cEFremROQlMtb3BiRDcxZ2xtWXFha1dpVkdrYlVDcDFjdHZWNXJhZHVqek92dTlwRTdYWU5WRXBZaDgtMlQzMk5nRUU5Rjd6ZXY5ZVFjVkdlcHBLMlJBTDBkNi1NWGhqVVBydDJNODRoU3BNQ0wxQ0lUTHA?oc=5",
+   "date": "Fri, 27 Nov 2026 07:48:16 GMT",
+   "vu_le": "2026-11-28T00:20:35.100257+00:00"
+  },
   {
    "sujet": "Petites valeurs en croissance",
    "titre": "Plug Power Surges 8% Amid Turnaround Hope: Was $1 the Permanent Floor for PLUG Stock? - Yahoo Finance",
@@ -6426,34 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcFYwTG56ak5rdDNqLXVYeUloNVVUODRKdGltNGtfclJHZW5HWENHc3I4LUhZY0hzenZha2tCcG5YMkROZVR6QWNYRjBzZ0NnalpFdnI5VW82blZraVp0MENwbTJIcVZTbzhuTlMwRmxHUG5YOXlNcUNDaFFyYndyRldaWk95b1pkd0s3UzRGZnBXRk8zWXMzcHJqVG4ybkt4aEFsVWsxZ1ZHWV9NWXlwOVRCckJKdnlqbGswdFF4TVpXOHJPMnc?oc=5",
    "date": "Thu, 26 Nov 2026 19:56:33 GMT",
    "vu_le": "2026-11-27T12:20:35.673202+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Mergers and Acquisitions, Sanofi to Buy Insmed for $41B - Gotrade",
-   "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUlVpdFpJSmtYRHB3d1Z3M05IVkt2cFEwb1M5b2ExVzd0eFFoUUxibWw4emNISUZPRTItbmlCaWdITXR2YXUtaWRNLUF4SVJrbGhvRmw3ZkxLOGd3bWFpQWJZaFA1ZVJ3T3hSNGFxWUNYWUFyTzJ5bVQ3ZWhGcTdoUkVlb2IxMG0y?oc=5",
-   "date": "Fri, 27 Nov 2026 12:02:00 GMT",
-   "vu_le": "2026-11-27T12:20:35.673202+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Dalal Street weekly wrap: Sensex sheds 580 points; defence stocks outperform amid banking, IT sell-off - The Week",
-   "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNzU2LWtTQ3Y1VDRpT3dpbi1LUnZQQXN6RkphRC1sZjJGVjNQZUc4c3hzQ2YzTGltNDFCc2pzWXFBa0dhb0k4RUhfb2ZUUEZLMVBSMEhMWXBmMXlEUmxDWEZjX0NzNmxVel9kdmJlYWdQQWN3UGM4cVN6UTF3Z0RvWXcxVWcwZkJBdHFrTVpHc01CdWIxMTVNOFV0UWdOWUV4UmRCYkZ6UmZ4THBrZzlrZTZIOUw4aXNYbjIwTThqanBrZFdjeFRTYTN0SHNpRWstRE1XYkN1LWY5MnMxZDBRZmY0X1NqemfSAewBQVVfeXFMTkNlZDdWblFIQkdCTEFScmdKczZ2dzBlZmN6WXhUWFgybnEteXlXS0FLbHp4T3FxcFdJZExrTHNMWHMxU1JUcy1NS2o5cVhNMnJ6VDU2eXNXVXVlanJJZkhFRkx4ZkpjVmJCaHlkSmlyLVlmdldEVXdCTUZ0UW5TS3gwTzN2RWxSTjVEdTZ0UkVpb1hxalZqMUdHb01pTm5XZDh6UGxPaGNZaDdrTjZjdFdyVl9IamJDZFRPRFFuMVhHeXhHRFB5LUQycjllX1hzWDZHWHc4RWJxV3B6azExa2RkMDRSS21LZkNrS2s?oc=5",
-   "date": "Fri, 27 Nov 2026 11:42:00 GMT",
-   "vu_le": "2026-11-27T12:20:35.673202+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "SOL price on Nov 27, 2026 at 8am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUHNJY25zZnlCbWFfbF9iSGd2VE1hZ3RvYk90YUFYc2FGQUc4dVNNZ3hvMkNuRFotWDY1WjRFTTk0U29IOWZQbTVOV3AwTUhRZmdpYXN1VzZVQkltTkVEN0NzaWJ5a2gzV0tYTDl5N1FDcmViQjFNbmdHNWVEZGUtazJrYUo4cFVVNHJsblBNODlkTHI5RVdkLTBrMHVSM1lXMHZJUEdkX1RXSDVmM1E?oc=5",
-   "date": "Fri, 27 Nov 2026 12:06:07 GMT",
-   "vu_le": "2026-11-27T12:20:35.673202+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Nvidia, Anthropic, D'Ieteren et nouveau patron à la BCE… Ce qu'il ne fallait pas rater cette semaine sur les marchés - L'Echo",
-   "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONmU3TU1IS3M5aS1DUHVmRE9aczBldTFmUE9MUUJNRUZPQll2MVBiLUlETVBEWThjcDhiZEdvaHZ5WjVsVUs1RkZpQ3MxUXpxVEpBaDBLSThRWDM4VTNkVFVkLWJzbXJwc3FmUHV5dmlJU2hWNEtXcy1qWnpwSjR2MVdTUndzakR2YkRiZHhsVXJqRWVWMGN2Z3NsNTVGcTVQaFFCN2JYWmFwUTM4bG1JbEFJZDh2T3E1dUJzMDJkSFAyWThKbVkzZEc5VVFmbUhrSDFtbi1oUngtTThqOTNzUEhmOGFhdmhfVlNuMVBveWt1Vmg5cWZFMFBTdnphUmVlVEE0?oc=5",
-   "date": "Fri, 27 Nov 2026 10:55:34 GMT",
-   "vu_le": "2026-11-27T12:10:35.722419+00:00"
   }
  ],
  "erreurs": []

@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54802.5 EUR, jour 0.12 %, mois -24.78 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54776.81 EUR, jour 0.08 %, mois -24.81 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -288,8 +288,8 @@ POSITIONS ET INDICES :
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3349039139769.5396, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3344306225492.11, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1559025893850, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655656154.782, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700462317.067, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,10 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Bourse de Paris et Europe] Les Bourses européennes rebondissent légèrement pour le Black Friday - Bourse Direct
+- [Intelligence artificielle] Chip Pickering and His Telecom Competition Approach to AI Infrastructure - Broadband Breakfast
+- [Rachats et fusions] Vivakor (VIVK) highlights Direct Midstream Texas water deal - Mugglehead Investment Magazine
+- [Défense, énergie, matières premières] Defence stocks surge up to 15% on Friday - Here are key developments and triggers that lie ahead - CNBC TV18
 - [Petites valeurs en croissance] Plug Power Surges 8% Amid Turnaround Hope: Was $1 the Permanent Floor for PLUG Stock? - Yahoo Finance
 - [Petites valeurs en croissance] Alzai Health Corp. (TSXV:ALZI) Surges as Market Attention Turns to Health Technology Opportunities - kalkine.ca
 - [Petites valeurs en croissance] Zeta Global Holdings Corp. (ZETA) Stock Price, News, Quote & History - Yahoo! Finance Canada
@@ -454,8 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] L'activisme IA gagne la rue face à la course aux modèles - Brief IA
 - [Marchés mondiaux] Stocks jump to close out an erratic week that was also Wall Street’s best in more than a year - WHEC.com
 - [Intelligence artificielle] Why Is Nvidia (NASDAQ:NVDA) Stock Falling Today Despite a Broader AI Chip Rally? - Stocks Down Under
-- [Rachats et fusions] Intermex sues Western Union over merger agreement termination - Finextra Research
-- [Anthropic] Should You Invest in Anthropic Stock Now or Wait? Here's What History Says. - The Motley Fool
-- [Anthropic (FR)] Vontobel : "Les droits de douane américains touchent une corde sensible" - Boursorama
-- [Marchés mondiaux] Stocks jump to close out an erratic week that was also Wall Street's best in more than a year - The Globe and Mail
-- [Petites valeurs en croissance] 5 Low-Cost Vanguard Mutual Funds With Strong Return Potential
+- [Rachats et fusions] Intermex sues Weste
