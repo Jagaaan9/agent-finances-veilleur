@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54169.7 EUR, jour -1.03 %, mois -25.65 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54168.81 EUR, jour -1.03 %, mois -25.65 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -287,9 +287,9 @@ POSITIONS ET INDICES :
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,14 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic IPO, shareholder rights and board control - Longbridge
+- [Marchés mondiaux] Stocks jump to close out an erratic week that was also Wall Street's best in more than a year - Spectrum News
+- [Marchés mondiaux] US stock selloffs trigger a new kind of dollar bounce - Yahoo Finance
+- [Marchés mondiaux] Wall Street bounces back as AI stocks rally after Thanksgiving break - Business Post
+- [Banques centrales et taux] Ce que dit le casting de la nouvelle BCE de sa future politique monétaire - Atlantico
+- [Chine et Asie] 'Big Short' Investor Michael Burry Thinks This Chinese Stock Is Worth About 60% More Than Its Price. Should You Buy? - The Globe and Mail
+- [Chine et Asie] Hong Kong Dollar Climbs to Six-month High as Funding Costs Jump - Briefs Finance
+- [Défense, énergie, matières premières] Can TTM Technologies $2B Defense Backlog Drive Sustainable Growth Ahead? - Yahoo Finance Singapore
 - [Chine et Asie] 'Big Short' Investor Michael Burry Thinks This Chinese Stock Is Worth About 60% More Than Its Price. Should You Buy? - The Globe and Mail
 - [Pays émergents] Bangladesh trails regional peers in market cap-to-GDP ratio - New Age BD
 - [Crypto] XRP price at Nov 28, 2026 at 7am EST Crypto Prediction Market - Robinhood
@@ -452,11 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Banques centrales et taux] Dernière danse de Christine Lagarde à Bruxelles ce lundi - Investir Les Echos
 - [Intelligence artificielle] The First AI Stock I Plan to Buy in 2027 - AOL.com
 - [Crypto] Bitcoin price today falls below $60k as whales buy dip, ETF outflows mount - Investing.com
-- [Chine et Asie] [Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제
-- [Pays émergents] GOOGL Stock Price Today: Alphabet Closes at $274.96 - JournalArta
-- [Anthropic (FR)] Bourse : gains potentiels et risques à connaître - Actualité Financiere.fr
-- [Défense, énergie, matières premières] Defence stocks like BEML, Data Patterns surge; Choice analysts share views - FlipItMoney
-- [Anthropic (FR)] Chinese Open Models Are “on the Permanent Decline,” Predicts Top VC. That’s Good News for Anthropic - TIKR.com
-- [Anthropic (FR)] Wall Street termine en hausse alors que les valeurs de l'IA, qui avaient été malmenées, se redressent au cours - Boursorama
-- [Petites valeurs en croissance] Alliance Resource Partners (ARLP) Stock Still Looks Reasonable Given Its Earnings Power - Yahoo Finance
-- [Petites valeurs en croissance] CNA Financial (CNA) Stock Could Be 41% Undervalued As Excess Returns Hold Up - Yahoo Finance

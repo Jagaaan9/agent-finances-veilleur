@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T11:20:34.908629+00:00",
+ "mis_a_jour": "2026-11-28T11:30:35.976727+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54169.7,
+   "prix": 54168.81,
    "devise": "EUR",
    "jour_pct": -1.03,
    "mois_pct": -25.65,
-   "volume": 52.85888354,
-   "volume_relatif": 0.24,
+   "volume": 52.9292614,
+   "volume_relatif": 0.25,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3385,16 +3385,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
     "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
-    "per": 2.1,
+    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3413,16 +3413,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
     "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
-    "per": 14.4,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic IPO, shareholder rights and board control - Longbridge",
+   "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GSmpwZ1NEakNIZVlPbjlwX3Vxd1RVRjdlRks0Z0pCUkR2S2tQRjNBRnNFRWJmMkRfemp2RHdXVnFTU2VTN2NLNFhWRDhtOE5TcjNRRXFtOGZOdFBYZUpobUh3?oc=5",
+   "date": "Sat, 28 Nov 2026 11:27:47 GMT",
+   "vu_le": "2026-11-28T11:30:35.976727+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stocks jump to close out an erratic week that was also Wall Street's best in more than a year - Spectrum News",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1pmOWlDa0VFQkU4RGhSUzhzdmZFeDlzRTVFOXpzMUpEWG5mdXZ1R1htQmQ3SmRwaThnaVZqaTlKUlhkZkpFX05DVm9VQWFweTNuQV83cEd0ZDlwOW9VTFhoV0o1WS1Zc0NKREdfYzhiaXQxcU15TUZwSl9TWVZTTjVXc3lieXJkY1NRWmhaLXNmTjJ1Y01kX18ycVRZWEdBX0p4YmFhWUxPTjcwSmc?oc=5",
+   "date": "Fri, 27 Nov 2026 18:59:00 GMT",
+   "vu_le": "2026-11-28T11:30:35.976727+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "US stock selloffs trigger a new kind of dollar bounce - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRktLREJBLW80d2FNTk5BYW5JUUMyRVhlZktOeHhqMS1BZE9hV1BDYndCb2xiclhJLVQ2MDhjWlQtNVRhUHZoRWIxOXVGS1V6aVo1TEtXa0RaUWR0anlvVXFMSFB0WDNaQTlwa0NROFF5MFNLcUVUZ2g3YjZTSXhYdndJZWJmOElrMUNYT1ZGSF9uSVFYZHBESnRYVld5dXNX?oc=5",
+   "date": "Fri, 27 Nov 2026 13:16:50 GMT",
+   "vu_le": "2026-11-28T11:30:35.976727+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street bounces back as AI stocks rally after Thanksgiving break - Business Post",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSm83aENDVF9SX0Y1ZTI0OWJwQjZTdHR6T0YxdWpzNmlGWlllcEVzeDdfOVV2X0FaMGNUdWltNlVUZkpYeExGRHdPVGJ0M0dHVjVENXVBWU9BNXRBZVNtUmdEcDVBOVJvd2JORFNOczV4cHk0LWdSX1VROS0zZ1BHU3BZbGxueWNaRnE5OXRSMUlpclpJWFVCQjA0dlVQYm1lMzdmc3JDNmI?oc=5",
+   "date": "Fri, 27 Nov 2026 19:00:37 GMT",
+   "vu_le": "2026-11-28T11:30:35.976727+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Ce que dit le casting de la nouvelle BCE de sa future politique monétaire - Atlantico",
+   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQelZFU0M0Wjg2UHhoTE4yeUNfSTYwYl8wUDhUTFdMb0w0YVpaSzE5Z09LdnJ6MnRZZENCUEszcjI4QzhCdS1LcDVOSjg2d1lXbUE1RHhza2xUREhaOGhxMllvLXo5SFZUejY3TEVlc2NVd19QNzBOVEdxMGR3QXAyYlI4WW92WlZwU2VQMF95T2l2ZXE5MkNib0paWUk5YTAxOHN5OU9wNS15YXpuazJOQlh1MEYyQ3JzUnc?oc=5",
+   "date": "Sat, 28 Nov 2026 11:05:43 GMT",
+   "vu_le": "2026-11-28T11:30:35.976727+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "'Big Short' Investor Michael Burry Thinks This Chinese Stock Is Worth About 60% More Than Its Price. Should You Buy? - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQTJFWWgxb3c1a0wxc3d2NGVFa2h6eGQycTUwS1VSSkhwM0dUcmtaSGFKcERPTU9yWFNGRHpuLTltN3hCNllNSzN3T19OTVRtTjdtZHlYaTZSdGEta1pJc1ZfLUMycmEyaHkzV0tPRDNLSzBrVjMwb3lFc2IwTnlkQXFWUThDRGRwM200ZE1CUFZvVHd1dXh0amdfUFdXdmt6TnJFNEx3OFl3cFQ5TjhfZUVPODc5TFU1UHNfZFE3ZXdSQkZyS1JSUlo4Z25QOFlDZGR2dXg5SkdVbmZndTRwN2lzTk03XzMzTEp6b2hORzhWTFhwUF9nalNXZ29Eb0twWWFQUUFLWnFpSFVIU0hsbEJCUWNtaDB0aGNwYlkycW0wUQ?oc=5",
+   "date": "Fri, 27 Nov 2026 19:17:17 GMT",
+   "vu_le": "2026-11-28T11:30:35.976727+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Hong Kong Dollar Climbs to Six-month High as Funding Costs Jump - Briefs Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSlZsdU1LQm1lWkxtMklMVFczY1NReEpuU21tXzdIWXN2b1czbDN1TXZJYTU1WXhYbkFObHM0d0dFV3hILVNwTTgxUjRUSm9KemxhUEJwMVIzTHZUcTBqVzU1cHNBUHhiR2hoOE4wUVlrb2tqZFk0MGNSWXd5ZGRyc1JPVXVfd015ck4zZUFzMTRZdw?oc=5",
+   "date": "Fri, 27 Nov 2026 13:30:00 GMT",
+   "vu_le": "2026-11-28T11:30:35.976727+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Can TTM Technologies $2B Defense Backlog Drive Sustainable Growth Ahead? - Yahoo Finance Singapore",
+   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm5Uc2Y1amJ3dTRBQnItTkphX0JySmJoUE45bXZsQmlrVzkyaV8zaHdzR3dYMG40TDhaWXhWSHMyRkd1Y2ZJbG01RnlCTEhrbFV0blBrbXlFVGxLbF9pR0IzWDA1RTVpRW9Fc2ZWZnhvWm4tWUYtUll0eUpCZm4yTzZXZG1UNHd2cWpabw?oc=5",
+   "date": "Fri, 27 Nov 2026 16:12:00 GMT",
+   "vu_le": "2026-11-28T11:30:35.976727+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "'Big Short' Investor Michael Burry Thinks This Chinese Stock Is Worth About 60% More Than Its Price. Should You Buy? - The Globe and Mail",
@@ -6398,62 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZTlieEE1enVWcVBobEp5YzBTc0c4QkhvdTVUdk9hRmFxNXROdHI3a3kwWXBQZ0VpbEtxZmRqTGZOT2JVd3E2bk1tVXVvWXFNREtiMkdaU1RVZkVXcVBqRTRLRURFNDFaclhYb2pSbDU2aE5jUGlCOW1lUUo2aUNuRlFLWlEwTGppdF9NVDNuRHMtUXJZV0VwQlctbEZjUEFiR0ZlSWlKMDVyQ0VrU3Q5MWRJY2VFTHI3elBnV19rOVM5Tk1HT180Y0Rvc2FCNmtHRUhBT0RROUt3cFJmT1Nhd2RVeE5SSlAtckVOUzU1Ri0?oc=5",
    "date": "Fri, 27 Nov 2026 12:11:22 GMT",
    "vu_le": "2026-11-27T18:20:40.058983+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Jumps Back Above Its IPO Price As AI Stocks Rebound - Investor's Business Daily",
-   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQclYxel8yMTAzRC1hZkxuOTllbXk0bS15RlBqWjBDTnBxc0ZmbkJfNlA1QlJYS3I3SWdIRURTWlFkNlI5aGh5ZnVmT2VIdDl2Q2JuQURUeGZLVXpKcFVxRTE0QTJleGUyWWhScm1ha2N0TXNaaEJmaFVvZWtiQnlGWmJURnM2RG5tMjNR?oc=5",
-   "date": "Fri, 27 Nov 2026 17:49:00 GMT",
-   "vu_le": "2026-11-27T18:10:36.256452+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "U.S. Stock Market Update: 10:57 AM CST, 3 Strong Gains - www.stl.news",
-   "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YeDU4XzBOQkhCODBvaTE2cm5iQVR4eTd3dVhfRVZXa1FOUXk2M3NBaUdCSjBLUkZkSTBrUkFtMnlIZ1pBUzdWTGhXYU4wOXR0dFk2LXFqSEp5NnNUaVV4WFpKc3Z6cm5vM0J6ZGtuVmJ2VGlaNXhfag?oc=5",
-   "date": "Fri, 27 Nov 2026 16:59:23 GMT",
-   "vu_le": "2026-11-27T18:10:36.256452+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock Futures Rally: 5 Forces Behind the AI Rebound - www.stl.news",
-   "lien": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82VlE5QmlIN29IbEw1OTYydE5ORFV1bE5LcUlBQnZ3Z2pJNk5aRVJ0OU9uVnRSektlcWpIRTVnOFVnU0E1dUR6dnFNRHFSZkpfcWtVNWpMZDJpWWVtMHpwSm1hQWd6VG5tYmpNcQ?oc=5",
-   "date": "Fri, 27 Nov 2026 13:25:32 GMT",
-   "vu_le": "2026-11-27T18:10:36.256452+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Not AMD. This Is the 1 Company Nvidia Should Worry About Most. - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdHQ4VkZSU014amVfc25yT29kYzB2VlcyQ3VSOTU4ZkRfaDFoOVNLWHh3emlzdkdJa01yWTBoYjg2WGNTYklqVE13SU1rbnphQjY2MG5JSnJLbG4tbXpTUFNSUmo5aGQwS1VCQy0tUGM0U3JJbUpjd1JubERfMmRHdDk0RHhJWGFXSkpKeDVBdmZodk0?oc=5",
-   "date": "Fri, 27 Nov 2026 17:35:02 GMT",
-   "vu_le": "2026-11-27T18:10:36.256452+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Binance lists Freedom Holding token as Turlov's crypto partnership deepens - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR1d4ZFh1TFY2Rzlaa2Z3TDhBQU1NYWpmaXE0ckxzcHRFOW9STUpVTGpob1lvbjFWeGQ4anlzTTFvOEd6dUJRb0ptalZTNjRDblJyOHJBWFZMMmd1UTlpQk4zVTNfTFRhX0RNbGJUMW83N1NmV3FZZmRKdERFT3lXdHZWZXp6ZFY5aGdjWXNzSEVaQVpnOWN2UUY1QzJTT09jSnc?oc=5",
-   "date": "Fri, 27 Nov 2026 17:51:26 GMT",
-   "vu_le": "2026-11-27T18:10:36.256452+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "US stock selloffs trigger a new kind of dollar bounce - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGRGWE5fV3A5Um9RYUlPZ1ZTRjlHMzBHckV2bmhVbkFTX0xqZEJ0dldFMkN0NFNlYUNOLXpLR25YNU1fdzNyajYyV0JHcUFELUtLU3FMN3E5MWlCS0dqLVIybTF3bXpRMU5CeHhxbXFpeHNhNzVMZ2RnREdUaXZCbGdCQXh1YUxKRXhuUVpUb3k3SDl4ZGt5ZQ?oc=5",
-   "date": "Fri, 27 Nov 2026 13:17:43 GMT",
-   "vu_le": "2026-11-27T18:00:35.916730+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Goldman Sachs Drops Stark Take on Year-End Stock Rally - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN2Y4MmNOcEVvNmpNc01lUFNRVHZRU0EtbElZTjhRNkJld3JQSkFHd3B4SXJzdDFjcngzSkxsS3VqQVpRenpjdEFSMmVydmR3dW8tLWFsZkx5OFBTVTkzcUp4U0RlUWh1MUdSLUIzcHNSZVRBYWFadE82TXZUQm5YUjk3MFFjMUt5ZGU1Tk8yMGl1dnZJVnhHeTlCdDhiRHhNRndwQTFKTkJjMFR4R0tEbS11S28?oc=5",
-   "date": "Fri, 27 Nov 2026 14:36:31 GMT",
-   "vu_le": "2026-11-27T18:00:35.916730+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "DANONE Cours Action BN, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oMFc5d0lZMmZIRGlUcE12WENWbi1WQkpSZlZIWVlYR3VKc0hxQmpDWS1fanlJamFPcEhmcFpvRFJUZXdlUHYtYVBQV0JRckdx?oc=5",
-   "date": "Fri, 27 Nov 2026 16:45:59 GMT",
-   "vu_le": "2026-11-27T18:00:35.916730+00:00"
   }
  ],
  "erreurs": []
