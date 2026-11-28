@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T05:40:36.580246+00:00",
+ "mis_a_jour": "2026-11-28T05:50:35.317612+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54633.26,
+   "prix": 54631.42,
    "devise": "EUR",
-   "jour_pct": -0.18,
+   "jour_pct": -0.19,
    "mois_pct": -25.01,
-   "volume": 4.46700074,
+   "volume": 4.73402478,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 834986797,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 834986797,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Bourse : gains potentiels et risques à connaître - Actualité Financiere.fr",
+   "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVEE2WEtCTzlJa0pDSVg1UXR0WGczRW01U1JuTFJ2b0JJaGp2TlozOGhObjVrMW90bWMtcmduWkdLYXEzdE5jU2ZtZmR0Y2c3MUo4WXNyX1V2eC1hRUJyd2NKelR5N0pMWkNZem9TU0dOTktPV005Z0FRWTdXS1RqUS1OMA?oc=5",
+   "date": "Fri, 27 Nov 2026 07:10:45 GMT",
+   "vu_le": "2026-11-28T05:50:35.317612+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Defence stocks like BEML, Data Patterns surge; Choice analysts share views - FlipItMoney",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaGd0U3Z2TVhXN1d2cXhTUVNWekUtaFNmZWpmeVEyaEdYaFFySktXVGFNQ0xwazdtRkhBWVpHR0xibzhwM2JUdl9wYVRuLUU4UlJPOWp4OUtTUUk2NTFwMEFEbm5DcFktMW83U1lRN3dqa1hNRUNBRzg0TEp0UWZTMmlRZFRyNURPcUJKaW9fbm0tVEY1TVI4RUdQTU9VbTVx?oc=5",
+   "date": "Fri, 27 Nov 2026 09:03:33 GMT",
+   "vu_le": "2026-11-28T05:50:35.317612+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Chinese Open Models Are “on the Permanent Decline,” Predicts Top VC. That’s Good News for Anthropic - TIKR.com",
@@ -6439,20 +6453,6 @@
    "titre": "Prediction: Broadcom Stock Could Have Another Big Year as AI Chip Revenue Accelerates - 24/7 Wall St.",
    "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakJSS3hzcVptX2RzblNLVFNDcS1PekgxMDd4T3NsTGlORk51eWlYR0dqZHUtalVnWVFHZlA1M01xY3NhSVlzMm05Yl84MkRzZS1xTEJEZi01OFdxLTFrbHVKdmhNek9iR241UkxwYU4tYzRueE9CNFMwcUJWMm5WMGcxY1ZFbG5jREp6MnEtR2xNTGJ1YmVwMTBaWDQtUGx1WDNIeWJYMEt0eDBnOWdsMDVxQ0tYYTREdFFlVU9XYWh1bm9VeHJJ?oc=5",
    "date": "Fri, 27 Nov 2026 14:33:00 GMT",
-   "vu_le": "2026-11-27T14:40:38.412149+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Constellation Brands, Inc. (STZ) Stock Price, News, Quote & History - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wOV8xTkFObkEzakRiZ19XdUFLb3hPN3Zfblhoa1ZTQ1l6NDhsR1ZoVHVNdkhpUDlFa0tNeXBsM0czWThhZXBsLUlYaGI?oc=5",
-   "date": "Thu, 26 Nov 2026 22:12:42 GMT",
-   "vu_le": "2026-11-27T14:40:38.412149+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "BMO MSCI All Country World Index ETF (ZALL): Global Stock market exposure without Canadian Home Bias - Howl.Link",
-   "lien": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBFY3REa0RNVl96TVpVbm5rd1lUSFh5ZlpBVHRuSnIzN2t3TDVRNGxobHVjSi15TFpQSkxj?oc=5",
-   "date": "Fri, 27 Nov 2026 14:10:49 GMT",
    "vu_le": "2026-11-27T14:40:38.412149+00:00"
   }
  ],
