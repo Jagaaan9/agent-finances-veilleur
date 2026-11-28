@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54720.21 EUR, jour -0.03 %, mois -24.89 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54778 EUR, jour 0.08 %, mois -24.81 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -288,8 +288,8 @@ POSITIONS ET INDICES :
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3349039139769.5396, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3344306225492.11, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1559025893850, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655656154.782, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700462317.067, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,9 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Banques centrales et taux] Le dollar profite de l'appétit pour les actions américaines... - Fortuneo
+- [Rachats et fusions] VEEE: Twin Vee and USFM post merger-related social media notice - Quantisnow
+- [Crypto] 4 Scary Bitcoin Charts That Suggest This Bear Market Is Different - Yahoo Finance
 - [Crypto] Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - The Globe and Mail
 - [Petites valeurs en croissance] Sweco (OM:SWEC B) Stock May Be 30% Undervalued On Cash Flow - Yahoo Finance
 - [Crypto] XRP price at Nov 27, 2026 at 11pm EST Crypto Prediction Market - Robinhood
@@ -456,7 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] Anthropic's stock jumped 11% and once again surpassed its IPO price - Oninvest
 - [Bourse de Paris et Europe] STMICROELECTRONICS Cours Action STMPA, Cotation Bourse Euronext Paris - Boursorama
 - [Intelligence artificielle] AI Chip Stocks Swung Wildly—While Warren Buffett’s Apple Climbed 26% - Investing.com
-- [Défense, énergie, matières premières] Palantir Stocks Climb 3.72% on $300 Million Poland Defense AI Deal - TradingView
-- [Crypto] Bitcoin or XRP: Which Is Closer to Getting Back to Its All-Time High? - 24/7 Wall St.
-- [Crypto] Bitcoin in free fall, Anthropic takes off: The financial market goes against the trend - Cointribune
-- [Anthropic] Anthropic (NASDAQ:ANT) Stock Surges 11% to 
+- [Défense, énergie, matières premières] Palantir Stocks Climb 3.72% on $300 Million Poland Def
