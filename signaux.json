@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T15:00:35.410711+00:00",
+ "mis_a_jour": "2026-11-28T15:10:36.137413+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54249.47,
+   "prix": 54293.34,
    "devise": "EUR",
-   "jour_pct": -0.89,
-   "mois_pct": -25.54,
-   "volume": 64.94917804,
-   "volume_relatif": 0.3,
+   "jour_pct": -0.81,
+   "mois_pct": -25.48,
+   "volume": 65.94114411,
+   "volume_relatif": 0.31,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3371,34 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOG",
     "nom": "Alphabet Inc. Class C",
     "prix": 272.44,
@@ -3423,6 +3395,34 @@
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 14.4,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PM",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK-",
-    "prix": 19.1,
+    "symbole": "NYSE:BAC/PK",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH-",
+    "prix": 21.12,
     "devise": "USD",
-    "jour_pct": 0.26,
-    "mois_pct": -1.95,
-    "volume": 178204,
-    "volume_relatif": 0.77,
+    "jour_pct": 0.52,
+    "mois_pct": 1.29,
+    "volume": 110706,
+    "volume_relatif": 0.53,
     "capitalisation": 338593252758,
-    "per": 4.6,
+    "per": 5.0,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China Sports Weekly (11.22-11.28) - Xinhua",
+   "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44M1ozYi1PTmt2R3UxMHVwZ0FCZ3BYYVZ2QV9FWk9NWlptMWlTN255T293U05tUFRNWXZqekxQclBMQWlDaWJKMUk2NHlrdWVTa0hmb0ZjR25uTTJValprLTRjWElMZTZvMDlFbWdOQ09iR3MwNFR2cUJpOWM?oc=5",
+   "date": "Sat, 28 Nov 2026 01:34:17 GMT",
+   "vu_le": "2026-11-28T15:10:36.137413+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "US Congress releases list of Chinese firms seeking Nvidia chips - The Star",
+   "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWEpLMUFOa1pRUm1qd0JPNzE5cUZycjY4VWdqSnR0US05Ujd3Q1NnNU5PT1VGQzFaeEhGX1A1U2hnNFV3RnhkUlJTRFA2Q1M1TWVDd1pXdnY1VUwxenFWRGFoeFFvNEpqUURISlFoUDFLZHZkZkFXUFdZNmZ1RjBtVndyTlI0MFVTYWVDWk4zYnhSb1k3dy1Idi1ZbVU0WTVHQ3lQeElLa1hqRnFMWXdpWUZQdGJqaDVwMDlHdkMyZzZXM2Z6?oc=5",
+   "date": "Sat, 28 Nov 2026 11:56:00 GMT",
+   "vu_le": "2026-11-28T15:10:36.137413+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China semiconductor stocks post record one-day rise as State Council signals market support - 디지털투데이",
+   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaVJGMnZ5M0xhSjNuX3YwLXZPZ1pfZm9MWjkwYkg1d1JsNjBhdmlSSGk0MWdNby1FR2JoWHRERmJmQ0JneHRGakxUaVdYbUVzY3k1d2tKRUJrd3lFQkRsa3ZJZEtsVTlubm41MU5sc2NQN1o3eldHbmllZURDZEpnVE5jWXhtT1I0clJYZnhJeHh1VEtZQ2dZbml4aTJ4cFRidTBUa1h1Q0JhOGx5NV9ycHhBSG5DeXgxRzcxaFFBR0RLZkI2N1pLNTU4ZWZLUnpubTdV?oc=5",
+   "date": "Fri, 27 Nov 2026 21:50:59 GMT",
+   "vu_le": "2026-11-28T15:10:36.137413+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Polymarket Invite Code TIMES | $25 Bonus for NFL, NCAAF, NBA & more (Nov. 28) - El Paso Times",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTlk3S2tDMlBRMDQ3ZUFkT1dTUXdwM1NneDJNbGZJZ1Nyek1QVnZDSV9la3Eycmg2WGdNWTc4TG5tRHpQSVlIOHNuRkI0WW93LXZPTGlLSUcwZHA2bEdua0I1S08xY2ZsTkZGcktwbVpaWmlhLUlkSlpycGJUN2JJQTAtbkhlSHBwOEpQMDlQRTF4SWRycTZrWlR6dlFpel9fRmxseFN3U3VmYkh3aGN1a1l4RWNINGIw?oc=5",
+   "date": "Sat, 28 Nov 2026 14:29:00 GMT",
+   "vu_le": "2026-11-28T15:10:36.137413+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "actualites CAC40 8501TPIOPENS (30M8S) - Turbo | DE000FG3KQ22 - Cotation EURONEXT ACCESS PARIS - Bourse Direct",
@@ -6426,34 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMTNnclpXSFhqLVRqbG83SGdsUGRzZnpiTnloaGpnWDFMeUxfanJhZUVzbnRENWpPWDNHVEtjbjdfejFwSmdvV3lrempwSVpITTJHNVpQYWRqV1E1LW1BaDhoanJJZVhwdDJnMVBHTThwQWxYb0dwZ1lIUzNzajJSUXlPQTdFMFJITlpDa0ZYUmNJdnFHTU1mVm1kODdldUt4N1h2Rg?oc=5",
    "date": "Fri, 27 Nov 2026 21:27:35 GMT",
    "vu_le": "2026-11-27T23:00:35.269842+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin's Thanksgiving Rally Unravels as $7B Options Expiry Rocks Markets - Bitcoin News",
-   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOUVhLUE0R1FhNXNwaVA2Ty15NEhzWXVFN0ktenh3cEFsZE9Zdk1NUkxGaFJXM3IwbzFweDlnbkRwX0hPVUxUN0syd0lTNXJyUFZTMnBIZVhDMjl5RDhsbFYtR3dQZTV4eTVsdmxFRmxuTE4yTGFyMXBpNXlUWjE1bFM5cXkwd1JPTElPZzJtbmQ1MHF4bjYtXzZBR1ZRU3FqMmdqeXJIRTQwZmw5VTl1X1V3?oc=5",
-   "date": "Fri, 27 Nov 2026 17:37:36 GMT",
-   "vu_le": "2026-11-27T23:00:35.269842+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRHY2ZE9lLW12cUJlSXZvLU12QWFGcjBQQkdxYkFucGV5Ukx6ekExSVR0Wi1pWVhybjVnSWpCcFN2R0hTcFBMTFJGMnd3Ym51T0lZd0RjaWFYYnljZmI2blA4dFlvV1BfWG0yRl9KQ1g3N2luWHlmRWo2SkdtUEhneEptdVZodzhyVWlNcVRpdl82VVFxWWx1QUFmUGV6bDJXVTF2RlB6eE1fT2pZVElTQXFMSVRPampzWlVJWTlYMGFfcXNrX0VwemNCZ3J0WXVKenhwejZoOEYtZEZ0dFZPU09ZUzVaaXZGRENQOXZNcjVVTWNvOVdvSlJYRzk4Z21wMnhxMjRmN19aYTNz?oc=5",
-   "date": "Fri, 27 Nov 2026 22:41:15 GMT",
-   "vu_le": "2026-11-27T22:50:35.844882+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "AI and Chip Stocks Draw Bargain Hunters: Nasdaq Jumps 2.3%, Up 6.7% for the Week - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxZjUybkgtdG9FaGoyY0lKU29DRHQyUUh4N1VxR1RXcVpnVlViNFhrSjl0dnd0d1VzbnUzWWdWalpINWVqQmRHZ3FFdnNuRE9TVVFmLTN0SmJDZDU0SzlOQzdFT3Z1NGQ4ejR4OTFfeW1nOUxZSGc?oc=5",
-   "date": "Fri, 27 Nov 2026 22:05:00 GMT",
-   "vu_le": "2026-11-27T22:50:35.844882+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Earnings Beat Could Change The Case For CMC Markets Stock - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXkzVnc1emwzUXdtMHA2eWVfc0I4TURyN29fWEpLUVg1aFlJenluUFdZckNyU0tZbDFtOHZPNXRDcG0yaGM0cFRTR3Fqc0pCSDlXZWFIczlmVmFXN2FuV0wzbDFQQTdFYnVBN1VWMS1scDVGNWY4U2xvUXk3Z1ctUHJzLUNFWGs?oc=5",
-   "date": "Fri, 27 Nov 2026 21:15:25 GMT",
-   "vu_le": "2026-11-27T22:50:35.844882+00:00"
   }
  ],
  "erreurs": []
