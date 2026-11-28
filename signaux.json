@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T05:30:35.812184+00:00",
+ "mis_a_jour": "2026-11-28T05:40:36.580246+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54645.52,
+   "prix": 54633.26,
    "devise": "EUR",
-   "jour_pct": -0.16,
-   "mois_pct": -24.99,
-   "volume": 4.33377699,
+   "jour_pct": -0.18,
+   "mois_pct": -25.01,
+   "volume": 4.46700074,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 8779940033,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 8779940033,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Chinese Open Models Are “on the Permanent Decline,” Predicts Top VC. That’s Good News for Anthropic - TIKR.com",
+   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV05haUxsNzVla2NXZmFZT3BFMVU5Nmx1WUZJX1hoa3lLRHpRMFNQd19WeFlRZ3ZMM2xybHhrNEU1VmtRTWl6emxlQnQtd2Q1Uk1UMVd4MDFJeVZWaTB2cmtoaXBTSHZQMUg1VG5fY2VZdDVHaktLdXp1dzBheE1fYmo3RWN6SWlSbEVHYXhzZ3EtVFFjWmJwQXdNU0gwYUxZZE44WFAwcTU2WGFzNnNGYkVvZURYRVk2MzlncWZMMEg?oc=5",
+   "date": "Sat, 28 Nov 2026 00:10:20 GMT",
+   "vu_le": "2026-11-28T05:40:36.580246+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Wall Street termine en hausse alors que les valeurs de l'IA, qui avaient été malmenées, se redressent au cours - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQdkVRZFJPUDJMekF3UHZlaWdXR1kyQVlvUWVBRFRDdUN1Z3QxMXJSMFZYbUp5QzYtcTNRZW9LdjZobHphZjBZMERHbUt5b2hDcHlkUTljblZyeHlCY05oOUtHY2YzUm9OV2ZFREJ3X0ZDZFhndlYtWGdXNVZCT05lbDF3Q2pOdE9PSFBIbmZzV0RlT1J0UlVRWDYtckxjVlNqd0hWTmZrVkJZNWFJWHRkOFl0N0FudjkwOHQzaFNZTlo4Yy11eWdMbjFKazdQd0k0NDBVT2hfUXprV3g2TE9HOXZHM05jMi1MajRrYnF3aHVtX1hSN2c0RTlDTUFjZVVaVDdRN044YnEyZmZzOWtyaDBTVTk3OGpoQkZCenRQNVMxVUJiQktGdE9fVE9qb00wQm4xN3lPME9Sc0ZDUFBjWmtvR0dTc0RsVWc4MXNXb9IBzwJBVV95cUxQdkVRZFJPUDJMekF3UHZlaWdXR1kyQVlvUWVBRFRDdUN1Z3QxMXJSMFZYbUp5QzYtcTNRZW9LdjZobHphZjBZMERHbUt5b2hDcHlkUTljblZyeHlCY05oOUtHY2YzUm9OV2ZFREJ3X0ZDZFhndlYtWGdXNVZCT05lbDF3Q2pOdE9PSFBIbmZzV0RlT1J0UlVRWDYtckxjVlNqd0hWTmZrVkJZNWFJWHRkOFl0N0FudjkwOHQzaFNZTlo4Yy11eWdMbjFKazdQd0k0NDBVT2hfUXprV3g2TE9HOXZHM05jMi1MajRrYnF3aHVtX1hSN2c0RTlDTUFjZVVaVDdRN044YnEyZmZzOWtyaDBTVTk3OGpoQkZCenRQNVMxVUJiQktGdE9fVE9qb00wQm4xN3lPME9Sc0ZDUFBjWmtvR0dTc0RsVWc4MXNXbw?oc=5",
+   "date": "Fri, 27 Nov 2026 18:38:25 GMT",
+   "vu_le": "2026-11-28T05:40:36.580246+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Alliance Resource Partners (ARLP) Stock Still Looks Reasonable Given Its Earnings Power - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV3QxSGVXUDdDRU1uSFNxT0FJSG1GT0IzcHQwSW13R3VoOFh2VkpaemZlUnVaMVdZTmxZLTdMQTVhN29UNUZ0YjYtU05YNVN6X1F1bnVmUlhfaUIwUGVPSjFFakNEMzBJNzVWdGlZTTM5RF9xZGRSZjUtV3hESjFDclc4Q3R6enEtQU0yX3VCR1YtNmFKZzJOVWktUjZ1ZDJr?oc=5",
+   "date": "Sat, 28 Nov 2026 04:09:00 GMT",
+   "vu_le": "2026-11-28T05:40:36.580246+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "CNA Financial (CNA) Stock Could Be 41% Undervalued As Excess Returns Hold Up - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV1QyOXRFTW40VUpsWkxTT3lCeF9WVFdJWVdRMm5PNGh0ZXhqR05mNWNRX0lKdTgxWHl0aHRHTjZrUzByRVd6bG9lbWpoT2FvRnd0bkowN1RUZlMwa3pnQWxFU214MHFSMnltSnVLUGctNnRzalcwU0tkcHV5a2wyTExReXJ1T3NtQnI0T3RETDloZkxYZE14a3d3?oc=5",
+   "date": "Fri, 27 Nov 2026 10:07:02 GMT",
+   "vu_le": "2026-11-28T05:40:36.580246+00:00"
+  },
   {
    "sujet": "Crypto",
    "titre": "BlackRock leads $389M Bitcoin ETF exodus as November outflows hit a record - Crypto Briefing",
@@ -6426,34 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBFY3REa0RNVl96TVpVbm5rd1lUSFh5ZlpBVHRuSnIzN2t3TDVRNGxobHVjSi15TFpQSkxj?oc=5",
    "date": "Fri, 27 Nov 2026 14:10:49 GMT",
    "vu_le": "2026-11-27T14:40:38.412149+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Why Are Petrobras Shares Trading Higher On Friday? - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObVdzVUJWajAtblA5X29ENXdLM1BOeS1jOThQM2MyODZrMDRSaWpOZnE4LVA0UWpmTDlPRHhTa0U2QWE3V2pzbFRlTWx1cUJIbndmWXo1bFV6VU5GX01mR1BCQmFPM3ZNNklpZzMxc29zY2xsc0ZVVUdrUUp6aVp0M0liY2ZkSV9ueFJibmhMdVJoSWtDUGtuYXBUcnZKcE1yV05vcDE3TlJnUFk?oc=5",
-   "date": "Fri, 27 Nov 2026 14:28:29 GMT",
-   "vu_le": "2026-11-27T14:40:38.412149+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Trump tariffs brought EU and Indonesia closer, minister tells Euronews - Euronews.com",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcC1jbElQVnEwMzZDY2g0TGl3SW5fbjR0OFlQMl9wOU1DX2dBSVhqQjF0dWN2OWZ6R1VHdTQ2SGYyU0hzaDA3T1V3UVpPRTZ3SHV4T1NHQ0dLelhwMDl0TTROLUpXTnYwRmVBOGVVZ0NDU2ZsdlN4ZEp6Tl9XU0swNE95TS1pbDZ6V0FzTGRWNG1sYm1aY1dDdVJIdGVYWjRJR0RRdm5aVmlRekw1N0tEZjg1S3g?oc=5",
-   "date": "Fri, 27 Nov 2026 14:29:14 GMT",
-   "vu_le": "2026-11-27T14:40:38.412149+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Consumer Reports: Crypto exchanges explained - News4JAX",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVjZpY0ZudEx6aHgyclZkU0Y5c2lVN2JyYmlrS2dCUTdxUUxRY3A2ckYxaXIyczMzQl94b005UlFKOG54VnhjNGYzczRSRmtqS1c1Ri1saEtiSGRNaUhUdTZURWozODVHenZBQ1hsa0M2aXBJeXd1NG92cUdrZ1Q3WjBNYlNnZFZMUG5kMzNtdkJKaVgwUWRv?oc=5",
-   "date": "Fri, 27 Nov 2026 14:28:23 GMT",
-   "vu_le": "2026-11-27T14:40:38.412149+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Stock (ANT) Forecast – Analysts See 60%+ Upside Despite Ongoing AI Trade Concerns - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2pHNk04VDhiTU9zN0o3LU8yLV9zTUpCT1ZCbTZ3S0hTZG9vd19sWVdLdFhsQjZLeWRzSnh2MGdUREdpRlNfUS1TdUtJWFpTdFQ5dVktV1p5d3FvVE0yTGhmTDZ6czUybVYzRW9hQkx2NFR2ejhKRk1JcW94VEhMNm5OcElvS2V2dWJZNlg4NzFueEZEMGdEN1UtTncyWjhkWWNB?oc=5",
-   "date": "Thu, 26 Nov 2026 22:27:45 GMT",
-   "vu_le": "2026-11-27T14:30:41.530524+00:00"
   }
  ],
  "erreurs": []
