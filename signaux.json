@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T08:20:35.864390+00:00",
+ "mis_a_jour": "2026-11-28T08:30:35.848496+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54462.34,
+   "prix": 54545.34,
    "devise": "EUR",
-   "jour_pct": -0.5,
-   "mois_pct": -25.24,
-   "volume": 41.39275552,
+   "jour_pct": -0.34,
+   "mois_pct": -25.13,
+   "volume": 42.115544,
    "volume_relatif": 0.19,
    "capitalisation": null,
    "per": null,
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China’s rare midday vow jolts stocks higher - NAI500",
+   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRGJ4RVh1aFBhNUE1MEtlSFR0Qk9iUUk1dkF4dlR0Y1VubXR2NEIxWkRmd1ptU045UHJQSDdlMXZHZ2pXTzVreW4xU0doN0YyRElnX0ZDa2NjMXdYNHFxSG9XTTFmbFFKbFd4NWpDeEFGYW8ySUZZXzVzZ2VuNW5jNHJR?oc=5",
+   "date": "Fri, 27 Nov 2026 14:15:02 GMT",
+   "vu_le": "2026-11-28T08:30:35.848496+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Wall Street Tiptoed Back Into Beaten-Down AI Stocks - Finimize",
+   "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSmJXeHBWVXJIZlVtanpjSmM4TExuWDR3eTJELWVPcEN2R016OVJwZHlFLUI3TklhMFpxaUtQd1RYZEpIc0lpeU5YRW9hMnh1UkNPaDI1OEJ3SmZxRmhHU0s4bFhJU1VjaXNhUTV0TlRCMkRUdVZRMVdrSmN6UHZoaWd0NmJCUms?oc=5",
+   "date": "Sat, 28 Nov 2026 00:11:37 GMT",
+   "vu_le": "2026-11-28T08:30:35.848496+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "India markets rebound in November; domestic growth drivers key to 2027 rally: HSBC - BusinessLine",
+   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVjNDelpFRGNDekktRWI5dlc1dkl2Ymw1MjdPQ0d2dlcxdEtLdURHQnU0eHpPY0kydDJnVmZ0TzhTRTQyWUJCTVBYRUVscTNoQ1B3aVF6MGpyRVJoWVNaOFhxN1dQU0E5WGdUM1RkNHlVdUl5bFRwejlTUlBjaXJsUlcydWNiUmsxZ28wY0VQa1FEckR1eUZHV08xLUdRMThaLXdwLWJ4Z0hnYnRuaVI5TEZfUlVJMHNBN1ZtWG05aUxIdGlyRmdldExuZUdQQXhnWFpUV0IwZkczTVdmLU43cXpwcHjSAeQBQVVfeXFMTlYzQ3paRURjQ3pJLUViOXZXNXZJdmJsNTI3T0NHdnZXMXRLS3VER0J1NHh6T2NJMnQyZ1ZmdE84U0U0MllCQk1QWEVFbHEzaENQd2lRejBqckVSaFlTWjhYcTdXUFNBOVhnVDNUZDR5VXVJeWxUcHo5U1JQY2lybFJXMnVjYlJrMWdvMGNFUGtRRHJEdXlGR1dPMS1HUTE4Wi13cC1ieGdIZ2J0bmlSOUxGX1JVSTBzQTdWbVhtOWlMSHRpckZnZXRMbmVHUEF4Z1haVFdCMGZHM01XZi1ON3F6cHB4?oc=5",
+   "date": "Sat, 28 Nov 2026 07:07:29 GMT",
+   "vu_le": "2026-11-28T08:30:35.848496+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Rheinmetall cuts 2030 sales goal to €33-37 billion, wins Romania Lynx order - MLQ.ai",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaHN4ck9TRW1aVGlKZmUxOTRmNzNNVXYtTTRjUkZaUmw3OWtaLU5EMzlOM0d6UVo3cTNOUk83YjFPb01sVVNaaWhkcExUN0dhcVZkOXh6VEhOenBia1VNVGRIUkt2cUtOQVMybl8zME5USHdrVk1UMzVBNHZQNEV5SFVfR2lhRWhCSEhBR09PRlZmODJfWE8yVzhB?oc=5",
+   "date": "Fri, 27 Nov 2026 10:34:46 GMT",
+   "vu_le": "2026-11-28T08:30:35.848496+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "HYPE price on Nov 28, 2026 at 4am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcTNoR2NZWnJPUVdYdTdvSHBVOVVwdEg4aDBXZGxBX0dQN044UUg3YUxkYUZqNk16TUFpaDAycjBwMU1BTjFISW9BSG13djlqR2EyVUVZeTFHVTlkRjlaeTJ4NFRMMXdGbDBxN3R5ZW92WWFmWm1YaU5NM2ZueHR5TkFqX3czSXgwZGpOVmx4alZmVURjdUZKbldSVERBUW10R3dFQ1M4MndoS21uczk4?oc=5",
+   "date": "Sat, 28 Nov 2026 08:04:49 GMT",
+   "vu_le": "2026-11-28T08:30:35.848496+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Binance Shifts $500 Million USDC Into SAFU, Returns 7,500 Bitcoin to Treasury - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtbW5NWjNqeklIX3hrdjhrSEZUaktBdFhIR1hjSkpkN3RvZzAyNkYwMDNRTjh0QWNzRU8zaFZjd25oVFVrZHVxeE1IWWk4a1BVVG11VTExLTUxVDhGQkk5Z29zTGhJTHZuclJQNjlDamtfaXJWRlE?oc=5",
+   "date": "Sat, 28 Nov 2026 08:05:00 GMT",
+   "vu_le": "2026-11-28T08:30:35.848496+00:00"
+  },
   {
    "sujet": "Crypto",
    "titre": "There’s ‘A Tourist Element’ To Bitcoin, But True Believers Are Dug In At $60,000, Says Eric Balchunas - Yahoo Finance",
@@ -6412,48 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXZWWDQtQ3l6Q2NUT0dEdDVobkM0dF93MTBsWXhmQ1BoSFNGaF9wUDdOR2RPWTNEbDloOVM1alQ2RVhPUmtDUnlmb3ByWDNWbnk3dl8yOXF1aG9OYVliOTcxNU5KOE1zcHRyLWQxV1dYSWVrSVJtR09McllMaHdEaHFmUDVGRGVQVGswZE9CUXd0a0QtWmw1ZUhlRQ?oc=5",
    "date": "Fri, 27 Nov 2026 15:13:42 GMT",
    "vu_le": "2026-11-27T16:20:34.697150+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "S&P 500 Investors Make Surprising Shift as Tech Stocks Sink - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0JGNllIZlBuQ2QtS2ZaQ3RuYTJWN25ET3NuR21XSzZUZWMwNE5tdXA0TnVScjZjWnNXNUhDRVY0Q1hsREdJMmZDN3F1YWc1bjVkU0twY3lNeFpTQzRKcVVzWnh1dlF6QkQxdTVIYndvZV8xUVd1aUpxb1IzazBQLU9ucmY0WW8xZXdNdmtoU1drZHhCVTlJZVNVWF9vTzhQZmdtblc3SFdEbmtaZmhYMm50SHFRRUxsdUJN?oc=5",
-   "date": "Fri, 27 Nov 2026 14:23:53 GMT",
-   "vu_le": "2026-11-27T16:20:34.697150+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Rheinmetall AG (RNMBY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxbzkzTDExckFpNHdJNktXTUZhdGRONzhQLXBOTEVvX1RmMGFpVVdFT1BVQTR4SmNvV2VPRkJoelJwWWhMWldoTzRNd1Rad3JqUWxn?oc=5",
-   "date": "Fri, 27 Nov 2026 10:56:34 GMT",
-   "vu_le": "2026-11-27T16:20:34.697150+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Silver’s hammer catches my eye as Bitcoin approaches $61,600 - Kitco",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRHpnTzZxbkl5T0t6aklyTjgzRHF0MFpJeDFhVTN0cFEzbHFDUXg3UG5PcFhNR09RNVhiR2o5YmxJU0FiZW1EZVptbWlhZGdVTFJJbEU1dTVuczJoM201THRlb1FhcHRZT3dQbjQ5MWpRS2VmQVFBaWhSa1huSEVTZTRhNC11SnVlS1pxVzNBbXJVWnd4RjdKNkZ3?oc=5",
-   "date": "Fri, 27 Nov 2026 15:27:05 GMT",
-   "vu_le": "2026-11-27T16:20:34.697150+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Cryptocurrency is now legal: what comes next? - Ukrinform",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWHB6SFY1RU9GaW12dDhLRkw2TS1qLUNiTlJZb1Zmc0NFaC1ycXB3NmhEekVjcm9pNmR0WG0xcEFJbVRtS2NyNGZ4QmNJNjZ2cTh3MFd5SExzZzA1TWstODJ6RUcxaG1VQUd1TVFmMmZrRjVsSkxGZXFERFFNbDF3aUdnYzljdG5DTTJPRWxHSHQxX3hCWjRjOGQ1RXJUQdIBowFBVV95cUxPUEtCeGMxVnk0OW9veTNYcHBzRU9rM2VxX0tYSlNJVUZWem1LbXVucjAyT1hDeXJONk5oMy15eE9HSGF3VGx4Ti1BWWJtdTZOOF9oa0xUakJ2c3ZCWUR0ZG5MY01OMDN4VEV6U3NFMUtxYlFOTUtrYnlSTkNCU0ZqLU05OGdrbHNPU2RWSDVuZTR0eWdaaXN6eXVrb2lUcURSbDg0?oc=5",
-   "date": "Fri, 27 Nov 2026 15:30:00 GMT",
-   "vu_le": "2026-11-27T16:20:34.697150+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Coinbase CEO Says Bitcoin Investors Would Return After IPO Frenzy Fades - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHhCbUQzUHA3d005NU5XcWFuMUtuWlNleG04anpTNGJmYkJZc1NNZXczWmVNRXozMVlwanBYaGVpdFh6UVR0dVZiUG56eG9OR0JKVWtLWjRiX1RTbzRrYmtEU0hUamlEQUdySVc0Q2F6TTNMdnR1dmFSX1RIZ1BuT3F6akEzY2JWMXVfN3E5UVl4eEs5OHRoN0tBUzZFckw0SGc?oc=5",
-   "date": "Fri, 27 Nov 2026 15:57:00 GMT",
-   "vu_le": "2026-11-27T16:20:34.697150+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Stock Jumps 7%, Reclaims $83 IPO Price as AI Stocks Rise - Coinpaper",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMjNzal9RMjVmcjNsZV9US214MmdJNExvdnlsSW9sQmhOTFU5LU9HWEdqdGxBeWI1M2RjNElfQ055TTZHVkt3QktkcE9jNlJ0ak9pR2VLNGRNNnVUdVpJWTNlcElPNFE2R2JERmpQWjJtU1VkaWpiY1lVSy15dUdpQnM0bVFoMkVZdGNCRUdpS3E0ODVGSlE?oc=5",
-   "date": "Fri, 27 Nov 2026 16:00:43 GMT",
-   "vu_le": "2026-11-27T16:10:37.631851+00:00"
   }
  ],
  "erreurs": []
