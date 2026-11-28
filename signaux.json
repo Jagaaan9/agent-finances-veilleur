@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T12:55:30.942452+00:00",
+ "mis_a_jour": "2026-11-28T13:00:37.363988+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54164.36,
+   "prix": 54155.62,
    "devise": "EUR",
-   "jour_pct": -1.04,
-   "mois_pct": -25.65,
-   "volume": 56.70605287,
+   "jour_pct": -1.06,
+   "mois_pct": -25.67,
+   "volume": 56.86174794,
    "volume_relatif": 0.26,
    "capitalisation": null,
    "per": null,
@@ -3385,20 +3385,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOG",
-    "nom": "Alphabet Inc. Class C",
-    "prix": 272.44,
-    "devise": "USD",
-    "jour_pct": 0.54,
-    "mois_pct": -14.83,
-    "volume": 14018416,
-    "volume_relatif": 0.55,
-    "capitalisation": 3346907996277,
-    "per": 14.2,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3423,6 +3409,20 @@
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 14.4,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOG",
+    "nom": "Alphabet Inc. Class C",
+    "prix": 272.44,
+    "devise": "USD",
+    "jour_pct": 0.54,
+    "mois_pct": -14.83,
+    "volume": 14018416,
+    "volume_relatif": 0.55,
+    "capitalisation": 3346907996277,
+    "per": 14.2,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PM",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK-",
-    "prix": 19.1,
+    "symbole": "NYSE:BAC/PP",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP-",
+    "prix": 14.51,
     "devise": "USD",
-    "jour_pct": 0.26,
-    "mois_pct": -1.95,
-    "volume": 178204,
-    "volume_relatif": 0.77,
+    "jour_pct": -0.34,
+    "mois_pct": -1.23,
+    "volume": 160626,
+    "volume_relatif": 0.89,
     "capitalisation": 338593252758,
-    "per": 4.6,
+    "per": 3.5,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "DeepSeek is China’s latest developer to worry about losing control of AI - South China Morning Post",
+   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbVpnQmMzaHJ2RFhTV2VWTUZITlB4TGhLN2NfcGNnSzFSTk0ycjZGYnpWaDljOVU4b0xoOGZBMXRmZGNyWU13TC1tRmxmZTJvVUd5dVBiczFBam42UXJKaHh5V2EyRUliUEZkTGN1enpmeDRPNHNHTWY4ZHk0eVphSlk2eEtqX3B0Qk9xSE1kdFZHdk5lWnVqYUtrVGNNSkZoUHk5eVdyMNIBpwFBVV95cUxNbVpnQmMzaHJ2RFhTV2VWTUZITlB4TGhLN2NfcGNnSzFSTk0ycjZGYnpWaDljOVU4b0xoOGZBMXRmZGNyWU13TC1tRmxmZTJvVUd5dVBiczFBam42UXJKaHh5V2EyRUliUEZkTGN1enpmeDRPNHNHTWY4ZHk0eVphSlk2eEtqX3B0Qk9xSE1kdFZHdk5lWnVqYUtrVGNNSkZoUHk5eVdyMA?oc=5",
+   "date": "Sat, 28 Nov 2026 02:00:11 GMT",
+   "vu_le": "2026-11-28T13:00:37.363988+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Is Terex (TEX) Below Fair Value On Its Earnings Beat And Backlog Growth? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZjNMb1doRVNnVERlYWVnV3NueWVlbXppODBmeFRsXzdYdk5VbE1UWHhlRE9pYkc2Z2lQMmZialAxYXdkc3M1TzRBU1JVYWJoLW14WHpWbjRBM1dMLUF2bzVPSzFra3VrX253bWJLLWNnZ2lLdWEyNFU4dy1PYmxwWFVfUGxsT2tudFRaZ3YyZ3R5VW10RXc?oc=5",
+   "date": "Sat, 28 Nov 2026 00:24:00 GMT",
+   "vu_le": "2026-11-28T13:00:37.363988+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Price Could Hit $400K by 2030, Coinbase CEO Brian Armstrong Says - Cryptonews.net",
+   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PMHpRaWp5RHFTOGtkRzVsWVFKUmNyNkl6Z254dHNHZGI3UlR5Y2VCVXhsSWRoR3l6Y25fcmhadzkwN1VpWEdLLW9mcHJXa01yMFFFSlg1bmo?oc=5",
+   "date": "Sat, 28 Nov 2026 12:56:42 GMT",
+   "vu_le": "2026-11-28T13:00:37.363988+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "AMD Shares Just Got Crushed on a Short Report. Why the Drop Is a Golden Buying Opportunity. - Yahoo Finance",
@@ -6433,27 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWEpRTjN5bTlZazNHSUhobXZWaFhLUDlzckJhMjNMU3NDZHZ3MDFUS0tLZnRoZElvZkJsckZGWjVIaFFabjZ5a0ZfUWhWTXkzT3VqbXkwS0R3OVlhRHBLRW9mcW10UWFHUXdwbS1qWWV2cGR4MWxQbzVIUWl3aFQ1a0UxMWVLa2ltX3RWTi1qdmR2d1FwWXUwQndLZXhDNEhBc0JnLXBhcDN5R1JscmoxdmNhcTdDRTl0WVA0TzRpU1V2LTFpRWFoUXZhdnNPQmhLQ2VpX0RBY2pYOVRKY01IUNIB4AFBVV95cUxQWEpRTjN5bTlZazNHSUhobXZWaFhLUDlzckJhMjNMU3NDZHZ3MDFUS0tLZnRoZElvZkJsckZGWjVIaFFabjZ5a0ZfUWhWTXkzT3VqbXkwS0R3OVlhRHBLRW9mcW10UWFHUXdwbS1qWWV2cGR4MWxQbzVIUWl3aFQ1a0UxMWVLa2ltX3RWTi1qdmR2d1FwWXUwQndLZXhDNEhBc0JnLXBhcDN5R1JscmoxdmNhcTdDRTl0WVA0TzRpU1V2LTFpRWFoUXZhdnNPQmhLQ2VpX0RBY2pYOVRKY01IUA?oc=5",
    "date": "Fri, 27 Nov 2026 18:29:40 GMT",
    "vu_le": "2026-11-27T20:00:36.198966+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Zhejiang Expressway (SEHK:576) Stock Looks Undervalued On Dividend Strength - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakJ3Ml9rWEFEWGg0aHNleHpjLUMxMlRVeHQ2Rm9lVm9ZN2Y4WE4yZDQyRDRUb1czVHA5N01oZXNiMWRxNzA1aE1uMDQ2VExsMGk2VWN6bU5GWVRsdnVPbXVpMzNzVVNGY1Z6OExXOTVLSTJUNDcyZFU3MTVmWVYybU94bWQtMFV2Z1lyQ1hmTnh4RGs2N0hEUmVEWmljdERU?oc=5",
-   "date": "Fri, 27 Nov 2026 17:15:59 GMT",
-   "vu_le": "2026-11-27T20:00:36.198966+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "European stocks regain momentum with broad gains for indices at the end of the week - المتداول العربي",
-   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSDJ2aGJHYUp1eFdPdm0tOGN3THNpNW1HY2t5UG5kMnNYVjVod2tqdFBwN1VKSEFKc0dacEhWNjdsNnFpcHc4TnNXRUx3TVdnQXBpUmJGaDBSVlN2MmxXNHM2N1l6ekd1MmRackpCV2t5ZTJtNUlXM3FIcV84dG9tZkFWZG5EcjhtaFdJYWVlNFJuV3RhUk5NS2dmWEY4eVRwT1VxVXlWX0o4SnRGQ29xaXJQeWtwajV3OWpHUWZiNWhfSlVfelVucWNmdENsN1draWd6SXRtSQ?oc=5",
-   "date": "Fri, 27 Nov 2026 18:10:19 GMT",
-   "vu_le": "2026-11-27T20:00:36.198966+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic’s IPO Hangover and the Worst Acquisitions Ever - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVnlMMnBYVFBHR3o3TDR5bzY4Q0haMGZ5VWgwdmM4MFVXbF9tQU0xMEtlWFI4bV9qVXNRa09MY1VtQ2JWcUVoOE84Z29wODhzVkZEdVJqZk42Q2tXZENTN1JfTVNWM2ZtX3ZzUUFwWnhsVlhwdWR0M3d3NmV5bTVIeFZmUWhUbjRNX0pPanJ6dXpUUEVmb1RYbUI3QnJwTklZ?oc=5",
-   "date": "Fri, 27 Nov 2026 19:46:01 GMT",
-   "vu_le": "2026-11-27T19:50:41.285607+00:00"
   }
  ],
  "erreurs": []
