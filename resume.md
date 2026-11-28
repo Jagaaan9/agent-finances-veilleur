@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54790.02 EUR, jour 0.1 %, mois -24.79 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54775.12 EUR, jour 0.07 %, mois -24.81 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -288,8 +288,8 @@ POSITIONS ET INDICES :
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3349039139769.5396, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3344306225492.11, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1559025893850, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655656154.782, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700462317.067, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,12 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Wall Street ends higher as battered AI stocks gain in volatile week - Reuters
+- [Intelligence artificielle] Dow Surges More Than 5% in a Week for Best Run in Four Years as AI and Chip Stocks Lift US Markets - BigGo Finance
+- [Résultats d'entreprises] Meituan Swings to ¥50 Billion Profit in July-September Quarter; Core Business Operating Profit Hits ¥140 Billion, But Adjusted Profit Misses Market Estimates - BigGo Finance
+- [Pays émergents] 5 Growth Stocks with a Competitive Advantage to Watch Before 2027 - Equitymaster
+- [Pays émergents] J.P. Morgan Sees Indian Equities as Safe Haven From AI Trades, Forecasts 12% Nifty Upside in 2027 - Tekedia
+- [Défense, énergie, matières premières] Jet Fuel Prices Are Falling Fast. What It Means for Airfares and Airline Stocks in 2027 - U.S. Global Investors
 - [Bourse de Paris et Europe] AIRBUS Cours Action AIR, Cotation Bourse Euronext Paris - Boursorama
 - [Crypto] SOL price on Nov 27, 2026 at 6pm EST Crypto Prediction Market - Robinhood
 - [Bourse de Paris et Europe] Les Bourses européennes rebondissent légèrement pour le Black Friday - Bourse Direct
@@ -451,11 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Résultats d'entreprises] Rheinmetall Cuts 2030 Revenue Target as Project Delays and Naval Cancellation Bite - Yahoo Finance
 - [Petites valeurs en croissance] Is Luckin Coffee (LKNCY) a Solid Growth Stock? 3 Reasons to Think "Yes" - Yahoo Finance
 - [Petites valeurs en croissance] South Korea's KOSPI Surges 4.3% to Reclaim 4,900 Level; Foreigners Net Buy approximately $847 Million on Stabilization Fund, Dividend Reinvestment Hopes - BigGo Finance
-- [Défense, énergie, matières premières] US Stock Futures Surge as Nvidia and AI Stocks Rebound - grafa.com
-- [Anthropic (FR)] Wall Street termine en hausse une séance écourtée, portée par l'IA - Les Echos
-- [Banques centrales et taux] Donald Trump, à la fois bourreau et sauveur de Wall Street - Boursorama
-- [Intelligence artificielle] AMD vs. Nvidia Stock: Who Has the Edge in 2027? - I/O Fund
-- [Défense, énergie, matières premières] Better Defense Stock to Own in 2027: Lockheed Martin vs. L3Harris Technologies - The Globe and Mail
-- [Crypto] $7 Billion in Bitcoin Options Just Expired: Here’s What It Means - Yahoo Finance
-- [Anthropic (FR)] L'activisme IA gagne la rue face à la course aux modèles - Brief IA
-- [Marchés mondiaux] Stocks jump to close out an erratic week that was also Wall Street’s best in more than a year -
+- [Déf

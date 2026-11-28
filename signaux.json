@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T00:30:35.124920+00:00",
+ "mis_a_jour": "2026-11-28T00:40:36.803275+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54790.02,
+   "prix": 54775.12,
    "devise": "EUR",
-   "jour_pct": 0.1,
-   "mois_pct": -24.79,
-   "volume": 0.48665054,
-   "volume_relatif": 0.0,
+   "jour_pct": 0.07,
+   "mois_pct": -24.81,
+   "volume": 1.13739694,
+   "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street ends higher as battered AI stocks gain in volatile week - Reuters",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGx5dUNYcGtCM2ZGUXB0RDNfNzF5TkNJNEctdjFiak5JRHExWWZVODg2c3hDcDZCUjdpWGpVYUg2bFE4UE5NQVJZUk52UzZGS082TTJiRWN4MTVxQlNXSTlmWnkzXzlyUzJONjlGSkNzVFNFSUlvRTRXQWxpbC1mQ2llcXRWWEIwZlpnVjBDZy1LcXU0MGc?oc=5",
+   "date": "Fri, 27 Nov 2026 07:34:00 GMT",
+   "vu_le": "2026-11-28T00:40:36.803275+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Dow Surges More Than 5% in a Week for Best Run in Four Years as AI and Chip Stocks Lift US Markets - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Nb0FQOVRHbDdqYXJVRjdoZWE5VjQxQi1hWjVpaWlJYm9DSG1rSlZXSEIwQk1jZm5qb1hLdjVraTk2bFdoT3pPWXpqX2xSazZ5NEJzUVNrVkgwd0tUazNsakJ2a0xHSFpFak43QnNEQnpxWEczMkE?oc=5",
+   "date": "Fri, 27 Nov 2026 23:27:49 GMT",
+   "vu_le": "2026-11-28T00:40:36.803275+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Meituan Swings to ¥50 Billion Profit in July-September Quarter; Core Business Operating Profit Hits ¥140 Billion, But Adjusted Profit Misses Market Estimates - BigGo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xeTQyZElFTFhaa0RNOHNCSzY5czBmTTJST0o3LTZFUDJUNldxQlA3SjR2bjJadzBtME5fb0E4MWt1V1laLVYxdDd5dTVFZ0VuWjB5a09MVFdxYWtnZ1p2eXNMQ0xJQXFRVUhQcFN6SzlGVDNhemc?oc=5",
+   "date": "Fri, 27 Nov 2026 12:35:00 GMT",
+   "vu_le": "2026-11-28T00:40:36.803275+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "5 Growth Stocks with a Competitive Advantage to Watch Before 2027 - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DODM0UDhEbGFRYWR3OXpNY0lBaDg1alFqaTJRY1lYLWxxRzdZQzJHS2lrOVdnT0hpY0ZVa0w4bGhpTEY1TzNEM0Zzdk9oc0YtQmhjTGUxclRCc1hTWWlfUGpQT0xYd29HWWR1d1ZMbw?oc=5",
+   "date": "Sat, 28 Nov 2026 00:30:00 GMT",
+   "vu_le": "2026-11-28T00:40:36.803275+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "J.P. Morgan Sees Indian Equities as Safe Haven From AI Trades, Forecasts 12% Nifty Upside in 2027 - Tekedia",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUVMbW53VWFCUUF6OUJvNXRfb3JVMEw1N2Rkc0RYNUtHaXVBVGhQUlZFQkRnNmYtMDZiQUVHLURUQjQ2eXRsdEl5R1VYUnZub0N3aV9mUmlaQU43QWJTNndFNTVoa1VaTW04Qzdsb0kxb2Vkb1JxVnpidnktYl94SER1X1FIbVl5Tm1qTXJUR0dEOWFpZ19mY0xPTWFuR1RvVmVDS1k5aEwtcThoVENVRi00LXhvWk5vVHMw?oc=5",
+   "date": "Fri, 27 Nov 2026 19:34:43 GMT",
+   "vu_le": "2026-11-28T00:40:36.803275+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Jet Fuel Prices Are Falling Fast. What It Means for Airfares and Airline Stocks in 2027 - U.S. Global Investors",
+   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaE9WZlpTVDRmN1Vya3RkZ2lYcjhVdXZLbEhFNTZBZ1YzalNrRmdYRjVVNl82RzhpVHVlTTdoRTJ0MlY5YmJzWWc5andMRlFhSTNTR2s1bjljTEZ4UlhYUzd0Qm9EQVpZbVhvT0hqeGcxcTJzZUg0ZlYxVDZKeHE2MUIyNGs5U1hOYVRPcGtVWjQwSUw2Y2VFZmxfYk4teFJkeVFGeXhzWVNyUnZRN05RRk05eWJjdEgxMVYweg?oc=5",
+   "date": "Fri, 27 Nov 2026 17:23:44 GMT",
+   "vu_le": "2026-11-28T00:40:36.803275+00:00"
+  },
   {
    "sujet": "Bourse de Paris et Europe",
    "titre": "AIRBUS Cours Action AIR, Cotation Bourse Euronext Paris - Boursorama",
@@ -6412,48 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSE9LRy13RVpLUTVfMUIzSnhoVktiZThLSU5kOXZodmg1dTRIc014WmFQdXMxRURtcTY1SVFvTmFnNDNtelA5YWdHMmRjQUp4RVlfdWd3bmNidllrSXpGOWQ0OUZqUndqcEZmQVRwZkc0Z2d3Rkp2dkFGMEtNYndUR1Y4ME1VTlpPYlJvRzFBRnlfZjlnV09sV0R3?oc=5",
    "date": "Fri, 27 Nov 2026 12:05:44 GMT",
    "vu_le": "2026-11-27T12:40:35.683333+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Why Is Hyperliquid (HYPE) Price Outperforming the Crypto Market Today? - BeInCrypto",
-   "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8td3AzZTRRZzNLU1FfOENOTTZnUHdZbV9GNzhxOTBxeXpmTXZWN21Pb2pkYkYyVWNqZzdOVU1vSzlKdHJYTlNBRWJTOHZJdjZHanhaZlliUmZBY3ppTVBWbllXOWY5aXhUMTJvU2ZkVlE5ODFYcmw1QThpVQ?oc=5",
-   "date": "Fri, 27 Nov 2026 11:58:48 GMT",
-   "vu_le": "2026-11-27T12:40:35.683333+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "A 'death cross' in the bitcoin (BTC) price is coming: Crypto Daily - CoinDesk",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSTU4ZXNlWnE3bDVJSHl2TXFLVFpXb3NqZXgxblJ0N3haWmtwc2dZVldlMlZuSngxTmtkNllyX3pDOWdqTjV2WmszMFRESnd4T2YxWTJpM0tHOW1oQ0FwZTN2RDF3NFE5dXdSUWhVZWIzZGxuejlpVU1OeDZUVzhzbU5uY0NDdmtfQjdYRk5kYWZOYTBONTQyaXQ2VWhhbWF1Vjk0XzdoMHhXalVlVnlGRUo0NWdZdw?oc=5",
-   "date": "Fri, 27 Nov 2026 12:16:07 GMT",
-   "vu_le": "2026-11-27T12:40:35.683333+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Zone euro: Les consommateurs relèvent nettement leurs anticipations d'inflation selon une enquête de la BCE - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOR2NBNTFpbjF6ZjdqM0hHVEs1ekVfSWk1bGttMkJBdzJmWEt0Nm44NFAySDdIRXM4bFNlc0hXbUt4cWhiM3ZheTAyYTRWNkpfOGN6Z1NnVjdXLW1vS0dlZzQyX20tNnJ2Y0draGJzOHJJenpxWloyUUp1Y3pMNXl4SnpfZVBESkIzc2w0VFVXQTlhZE5iVHdPZ2RocTl6T2lLSkd6d0tGQVNDVl9NT3pQajBDTTFjMDNEdXAzb0dhSWo5YVk3NVAxT3lmR0V2M3luSDU0RDl3bVhlaXd4NXU2amVmTXJOUi1Ub0NUVkV4a2tjckdpWjJwQWVBYXVoYWxPLXNiTjFfc3BlYUxwal9qY2F4YVQ5Zks1aThOWVlQMDZKNElD0gGqAkFVX3lxTE4xNHl2WU5ka2FQc0JPX01fMDBtZHZ3OVA4VDFBYmZ5cWY0NnBqbkNwaTZXQUZ3cHFNNnhHV19DT1RfUENuaVhaalFPS20wLVA2UUE5RTZiRjRuQkx4UWRoM0dIQnhOeFp2US11SDlHOHpKbnpFdHUwem1ZN3l4YmRvbVpKRmhJZ0Yxc3lVVnFoaHVRenl6dmwwSU5RdERXczQ1TlJVVHduZnVYTVhNNzdMU2J6OFhIdWduRmZhRTRPMHdmd3F5bVIxeHdzaXBYU0lMcDlqODNNU3VDandSQXpnWlpvWXJIR2NfeGF4MVpucHQ3TGRiZUtuNXRlQUZpektrTW04b3hBcDh3UlZVRUlnWjFfQUxvakt3NW4xSjh3dGI5XzF3bThLVHc?oc=5",
-   "date": "Fri, 27 Nov 2026 12:07:43 GMT",
-   "vu_le": "2026-11-27T12:20:35.673202+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "European shares gain as tech stocks, miners lead gains, STOXX 600 rise up to 1% - The Economic Times",
-   "lien": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdGltdFd2TkR4LVdlaE94NGljNnBfYTJnQ2lsZ1Nwdjh3ZmNPT0wzTWNaWkFHeUtSWnJYRmkwaWZYLTBzN0F4TVNqU1dMRm9fR2tiLWlua2NUNl9aTDJXUC1jR25kWnl0VTVuNFdpVDJqWWwxclUzRjI3MkZpUEVuRjNHbWF1ZldrZW1KRVNlcGt1ZEdFd3BkbnJaZXlnSHlOOTBpLXhvYzZwWmtuYm1KQnkycFoyUkg0YXJkRldrU2x4YWM1cktWNHFPd3I0ZjVNWVdZWWozOFpUQjNXTmNZZGN6S21aaTh4blNKZkdKSGtrMHR00gHuAUFVX3lxTE9fd3pOT25tVWh0WlRBVF9tZVpmTWd3SXUyU2pwTHZnYW9HSFdEQ094RVNLa3ROb2pjZHZTNXlORTlFQ2xvLTdWRmpMTzJyTUx5d245RGluT05DMXpIeTA2NzNMc3NxYkpteW1EYUVycV9NRWpJQmVtN1h1cW1JZjhmOGZ1OGZ6YUZ5MGRsTWp5X0VkdW9obm1OeW5LODNEdDRsLUo0NHYyeDFnS04wYW9EQUR0XzdBeURBM0dRSm0zR21JS2VxUTF1RzhYeURCSzZiYlBkckxsNnJkOHhFaU5nR3NHQ3c3emhaVVVyY3c?oc=5",
-   "date": "Fri, 27 Nov 2026 09:14:57 GMT",
-   "vu_le": "2026-11-27T12:20:35.673202+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Is The Brief Recovery In AI Stocks A Breather Or A Gasp? (NYSEARCA:VOO) - Seeking Alpha",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeTNicWZVdUQwb1R6U2dfOEdFU3J3RlRPck9sU2JIM1NLT0VTRUFTUHdUTFR6QnREMnNTY1lxbG1PclJLT3BlSnp4VkFZNzJ4MGphXzNhMV9WdnptbFVzTjZGWUo0aEZfVDRKdktjVExTVmVKVlhvai1Oa1NFWEJ1TTA0VmNXWDBRM2JIYWNXRGMxWUZQUGtIZVdxX28?oc=5",
-   "date": "Fri, 27 Nov 2026 12:11:28 GMT",
-   "vu_le": "2026-11-27T12:20:35.673202+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang - Bloomberg.com",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
-   "date": "Fri, 27 Nov 2026 11:45:46 GMT",
-   "vu_le": "2026-11-27T12:20:35.673202+00:00"
   }
  ],
  "erreurs": []
