@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T14:50:38.442988+00:00",
+ "mis_a_jour": "2026-11-28T15:00:35.410711+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54184.98,
+   "prix": 54249.47,
    "devise": "EUR",
-   "jour_pct": -1.0,
-   "mois_pct": -25.62,
-   "volume": 64.69366937,
+   "jour_pct": -0.89,
+   "mois_pct": -25.54,
+   "volume": 64.94917804,
    "volume_relatif": 0.3,
    "capitalisation": null,
    "per": null,
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOG",
-    "nom": "Alphabet Inc. Class C",
-    "prix": 272.44,
-    "devise": "USD",
-    "jour_pct": 0.54,
-    "mois_pct": -14.83,
-    "volume": 14018416,
-    "volume_relatif": 0.55,
-    "capitalisation": 3346907996277,
-    "per": 14.2,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3399,20 +3385,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
-    "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 14.4,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3423,6 +3395,34 @@
     "volume_relatif": 0.42,
     "capitalisation": 3346907996277,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOG",
+    "nom": "Alphabet Inc. Class C",
+    "prix": 272.44,
+    "devise": "USD",
+    "jour_pct": 0.54,
+    "mois_pct": -14.83,
+    "volume": 14018416,
+    "volume_relatif": 0.55,
+    "capitalisation": 3346907996277,
+    "per": 14.2,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
+    "devise": "USD",
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
+    "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC",
-    "nom": "Bank of America Corp",
-    "prix": 49.07,
+    "symbole": "NYSE:BAC/PM",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK-",
+    "prix": 19.1,
     "devise": "USD",
-    "jour_pct": 1.09,
-    "mois_pct": -3.6,
-    "volume": 19471454,
-    "volume_relatif": 0.57,
+    "jour_pct": 0.26,
+    "mois_pct": -1.95,
+    "volume": 178204,
+    "volume_relatif": 0.77,
     "capitalisation": 338593252758,
-    "per": 11.7,
+    "per": 4.6,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "actualites CAC40 8501TPIOPENS (30M8S) - Turbo | DE000FG3KQ22 - Cotation EURONEXT ACCESS PARIS - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc1ZyYXpZNXUyY3NuS3c2NEpyUTg0RUc5YWVlcVhLWnl2REtrN2VEWTZQUWdnT3pjMU92NjJueWhRNW5IbUhDd0R3dkRVb2U4dl9Vc0ZSd01Xcmlnbl9QNWlIQ0JhMzFabkN3ZWxGcENjOHBTMXRXT1hkd0JVV0pVMTRqbUxSOTVsZGp6R3ItamFJUjFiMERMLVd5N3pLNTl1NTYtdmdHeklmQkdUSVVXWjZnVWlDYldR?oc=5",
+   "date": "Sat, 28 Nov 2026 14:00:54 GMT",
+   "vu_le": "2026-11-28T15:00:35.410711+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNHFIRnpybGtzVmJtc2tvSWs0cDBnT0ZzZWs1aF9hNmJqRU1KVzk5RGlXTmhmXzlaWFBiTE94OUtxVEU0ajEyRXBGRDdTbEtM?oc=5",
+   "date": "Sat, 28 Nov 2026 11:26:24 GMT",
+   "vu_le": "2026-11-28T15:00:35.410711+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Crédit immobilier à 3,49 % en octobre : jusqu'où le taux montera-t-il d'ici décembre 2026 ? - Actual Immo",
+   "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1dlFuR29FUHVSQl9rZHVVOGhfOE5mbDZrZXo4T3V0MWhYUmJ4SFBCTExoMkVBYWJKWGVEMWt3dnU3NkFycDhBSFdJVHVJQmNxTi16RmQtWXJJMGREVklqek9RZzJXQU5l?oc=5",
+   "date": "Fri, 27 Nov 2026 18:37:00 GMT",
+   "vu_le": "2026-11-28T15:00:35.410711+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Tesla, SpaceX Weigh Merger Announcement in December - Wisevoter",
+   "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUVJieE9xempiNS0wS2U4eW1jTnJaS2puRWczQ0gyQzZsamdwVm5VRVBXaTFDVm55WlV1TmMwbE56VmIzMjFua0daaWM1bl9FMjY0b1lMNjUyYkoxU2NnMUl0S3U5NTk5N21PZFNMM2IzMGNMSTZqVXBvTnRxeTQ5QUtkZnRjQQ?oc=5",
+   "date": "Fri, 27 Nov 2026 23:03:10 GMT",
+   "vu_le": "2026-11-28T15:00:35.410711+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Manappuram Finance Q2FY27 results: Net profit up 223% YoY to ₹701 crore - scanx.trade",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNEIzUGVvOVhMOVZzM0JqRnZkbUhEeGtxLV9hRHNkemtBVjBlTlBXYTE4Y0hGUkRWU1ZPSkRDVzRobzl0aFk1UElVU3BaY09zUnJ3MVZ4d3hsUFo5eGV3ajJEbDhrY2pObDA2RFVScmduLUt0NXNqVEZXV29BbTBHLS1NTlB3OHljUGd0OTdqc2RVNVlZRzhiak95UDB4WUM5eG1IaV9TWjVaMk14NXU5NGRLRmZoakExa3FDVmNraw?oc=5",
+   "date": "Sat, 28 Nov 2026 06:51:31 GMT",
+   "vu_le": "2026-11-28T15:00:35.410711+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "The Tech Market Correction Is Over, According to Morgan Stanley. Here Are 2 Crypto Stocks to Watch in 2027. - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeEI3LXhndWhxVl9SZG1vUXlrYURnYS1wd3JWTXRYRUNDMHQ5bkIteG5ZSmNhXzhEUklhRHUxdnFxTFAtWlRpTVQ4ME1hc3VoemdJMVBaVjVqSzJWSE9vWmdJWFBmTXBBWTlIb3QzSlEzcnFvQnVhczRDbVozbEFITDByYlpHNXBDdlkta2s2MDZRQ0lRN3RyTw?oc=5",
+   "date": "Sat, 28 Nov 2026 14:42:00 GMT",
+   "vu_le": "2026-11-28T15:00:35.410711+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Wall Street’s Great Escape: 3 Rescue Squads Fuel a Thanksgiving Rally - Investing.com Canada",
@@ -6412,48 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXkzVnc1emwzUXdtMHA2eWVfc0I4TURyN29fWEpLUVg1aFlJenluUFdZckNyU0tZbDFtOHZPNXRDcG0yaGM0cFRTR3Fqc0pCSDlXZWFIczlmVmFXN2FuV0wzbDFQQTdFYnVBN1VWMS1scDVGNWY4U2xvUXk3Z1ctUHJzLUNFWGs?oc=5",
    "date": "Fri, 27 Nov 2026 21:15:25 GMT",
    "vu_le": "2026-11-27T22:50:35.844882+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Indonesia Arrests Three in Alleged PT Dian Swastatika Sentosa Stock-Manipulation Case - Briefs Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa0FweEF1bDVqOXJibXB5dzhKOVlCRk00X2NYbWVaaTM3bXhRbjd0VU5ueGJZZzUyVjVka1JrRklGM0d1X1N4X1JIWkwxdUY5VDVQeU5SRWRBcXhsb3RKMWNuZ1IydldFWjZLRTJuR1h2VWEzZFhaSFZUeTh4T0J5WFlwbGhGUk1hMEtmS1lGM2V2dw?oc=5",
-   "date": "Fri, 27 Nov 2026 11:19:48 GMT",
-   "vu_le": "2026-11-27T22:50:35.844882+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Global stocks rise, key indices on track, while India bucks the trend - The New Indian Express",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX0lIckRnUlN3OWxNSWtzZ3V0aHlOYzRxYmQ1bnNJckh0SlJpM2E0MkEwT2hMLV8wQUptQ001VnNwTmpsYW84TUxSd0VmUktxd0x4SHdwUC0tNkx4Q21ubFlrdDFmUkw4UEo2ZGpoMnJKTFpHMFZYaVNqS0hYbklzODR5WDhZZWdJUnQzbEpNVDFUckhDNV9BcnFCTE15N3QzVnA3S3pZY3IxS1ZWWmEtczZzRW54MVp5UE5MOXMwY1l2T2Njd2dBcdIB1gFBVV95cUxPTUNXWEJ4aXBNWVZodTBwM2VLU1doTm1uQ19CbTd1UENxQmhvaUY3bFFoZ1ZYVXZkQXJ1Y3dxcUtFR1JWa1h3QjlaTVZxX0JDMlJNTE5GZnlDUGhJUDJVYXZhdEFqRC1SOW9sak1mMFZXNXZqbGpMRVBVS3NzeURSN0R4b2V5MHd3YW1pdWRkOEwwV21YRVBILUFjQ0dmSDE4Vk9aVlllcHA5anRoUEthcEdiUkpMcU11d0JtWEJfTXhaOWY3RUJiQWdZZm9lNnBTS1FkUHlR?oc=5",
-   "date": "Fri, 27 Nov 2026 17:06:48 GMT",
-   "vu_le": "2026-11-27T22:40:36.201875+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank - Quantisnow",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYmJ1bUR3V1B6SzRqT29SWmxfM1hKZW1QQkFJNm0wWjBTc25nTzB2OFVLYVlrMmQ4TktCRWtTOUtTd2ZqMm05dDFPdGN3cjczMy1RLXgxcWRad2dHVGNlcXU2OEEtMnc2dU91cEFTMXB6cldRTzB1ZElJSGE4Qmp0ckFrNGtoLWV5RUE2bkl2bUtrNExIanNRU0QxS2c2TlhXWDZudFFGMFlacTJFRFVsRA?oc=5",
-   "date": "Fri, 27 Nov 2026 22:36:16 GMT",
-   "vu_le": "2026-11-27T22:40:36.201875+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Dec 4, 2026 at 5pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa0laRFpzV2VlV193RGx4TjRpZXNKOTgyZ2MzbFFKNjB0R2Jxc3JYNFNlV3I5aU5mM2xONXQ2NE55ZlpCVTRzNXdqa0hxRkhyN05nNjB3S2ZFSGtSRU1peHBrTFhrcUFXNld3cVRSazFfVmhBbFJJSk9sR2NVLXI4MGE3MDVScnNPMXp5WHRta2p3X250Z3JsQ0hrQm9VTWFFa1hxMzBWaXk2ZFZj?oc=5",
-   "date": "Fri, 27 Nov 2026 21:04:41 GMT",
-   "vu_le": "2026-11-27T22:40:36.201875+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNVEp0REc0RVQ4TmdBWk5Eb1FmVXpnWlZaY1FvR3VNd1Q3Wkk4QjkwNWd0Nk9RSDRhMDladnIwdkdkTldmZVhQMnptMml1LUdmS21kQzJQSXNNN0NFZmRuanAtY3Bvc00weVJzWVc1LXRlNkM1dTJPWERTSlJGbURLYmlMS2p5cVN3VU14SlNxVnZYS3FENnN4OUxla1ZjZVNzR3k5Q09QbElwallLeW9LbnFfT2ZrYnZhYUdTMDcwaENiZTB4TDFrei1oWFAwOTJRaF9kTUo0MWlDWDZKTU9WWWhzaG14OWpxSmRISEFZVy1LMlR6RGhaT3NiQWJuRUxHaWdSYWxneU9ScHdBVlpR?oc=5",
-   "date": "Fri, 27 Nov 2026 22:19:25 GMT",
-   "vu_le": "2026-11-27T22:30:34.792053+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street’s Great Escape: 3 Rescue Squads Fuel a Thanksgiving Rally - Investing.com",
-   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWt1THZYOThKN1BLOWszVWc1MDktbGQwN3FZem5VaFpGNDRBM2FnaDJCbThFd1RGVVpsNk5xc3dlU0ZOc1hwRkRIOTRZMXhjbW0xN2NvRS0wYmFWbVIwbDJRNV9wZ1dsdEhDS0FHWVFOak9lbFJ1OURvaVMwWm9BblFfQkIzRmFEZ1U4czhwaERvQjVsbFU1a2VDemZ3ZjdHa254Z25LWnlQeW40UHVvRHlB?oc=5",
-   "date": "Fri, 27 Nov 2026 21:56:30 GMT",
-   "vu_le": "2026-11-27T22:30:34.792053+00:00"
   }
  ],
  "erreurs": []

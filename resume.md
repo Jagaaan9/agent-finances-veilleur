@@ -1,4 +1,4 @@
-PASSAGE DE L'APRÈS-MIDI (avant l'ouverture de Wall Street à 15h30). Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
+PASSAGE. Voici tout ce que le veilleur a ramassé (données brutes, à toi d'analyser et de décider).
 
 POSITIONS ET INDICES :
 - Anthropic, PBC Class A (NASDAQ:ANT) : 91.88 USD, jour 10.98 %, mois -17.6 %
@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54184.98 EUR, jour -1.0 %, mois -25.62 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54249.47 EUR, jour -0.89 %, mois -25.54 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -286,16 +286,16 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -0.08 %, mois 21.84 %, prix 8.736 EUR, capi 8810130130.895283, PER 10.9, volume x0.29 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
+- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
 - SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour 7.52 %, mois -24.25 %, prix 119.5 USD, capi 579228478930.6643, PER 6.7, volume x0.77 la normale
 - Tencent Holdings Ltd Unsponsored ADR (OTC:TCEHY, secteur Technology Services) jour 3.97 %, mois -8.56 %, prix 45.29 USD, capi 404554837871.25, PER 12.2, volume x0.7 la normale
-- Bank of America Corp (NYSE:BAC, secteur Finance) jour 1.09 %, mois -3.6 %, prix 49.07 USD, capi 338593252758, PER 11.7, volume x0.57 la normale
+- Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK- (NYSE:BAC/PM, secteur Finance) jour 0.26 %, mois -1.95 %, prix 19.1 USD, capi 338593252758, PER 4.6, volume x0.77 la normale
 
 ÉCRAN France : meilleures performances sur 1 mois :
 - Clariane SE (EURONEXT:CLARI, secteur Health Services) jour -1.54 %, mois 46.05 %, prix 4.618 EUR, capi 1649834769, PER 130.5, volume x2.03 la normale
@@ -310,6 +310,12 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Bourse de Paris et Europe] actualites CAC40 8501TPIOPENS (30M8S) - Turbo | DE000FG3KQ22 - Cotation EURONEXT ACCESS PARIS - Bourse Direct
+- [Bourse de Paris et Europe] DASSAULT AVIATION Cours Action AM, Cotation Bourse Euronext Paris - Boursorama
+- [Banques centrales et taux] Crédit immobilier à 3,49 % en octobre : jusqu'où le taux montera-t-il d'ici décembre 2026 ? - Actual Immo
+- [Rachats et fusions] Tesla, SpaceX Weigh Merger Announcement in December - Wisevoter
+- [Résultats d'entreprises] Manappuram Finance Q2FY27 results: Net profit up 223% YoY to ₹701 crore - scanx.trade
+- [Crypto] The Tech Market Correction Is Over, According to Morgan Stanley. Here Are 2 Crypto Stocks to Watch in 2027. - The Motley Fool
 - [Marchés mondiaux] Wall Street’s Great Escape: 3 Rescue Squads Fuel a Thanksgiving Rally - Investing.com Canada
 - [Marchés mondiaux] Trump can’t rescue the stock market. Here’s what can - The Australian
 - [Bourse de Paris et Europe] CAC 40 : La Bourse de Paris finit sur une note positive, le verdict de S&P sur la France est imminent - Zonebourse Suisse
@@ -454,9 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] Axos Financial (AX) Stock May Still Have Room To Run On Earnings - Yahoo Finance
 - [Pays émergents] Indian Stocks Close Higher as Realty and Banking Gains Lift Sensex, Nifty - INDIA New England News
 - [Pays émergents] India's National Stock Exchange (NSE) became the world's third-largest listed stock exchange operator by market capitalization on November 26, 2026, reaching a valuation of $64.1 billion (approximately Rs 5.92 lakh crore). NSE has surpassed US-based Na - Instagram
-- [Pays émergents] Indian Stocks Slide as Sensex Falls 500 Points, Nifty Drops Below 25,250 - INDIA New England News
-- [Pays émergents] Markets & Stocks - FinancialContent
-- [Défense, énergie, matières premières] Ondas Stock What AI Defense Orders And A Stemme Deal Mean - Simply Wall St
-- [Défense, énergie, matières premières] Walmart, Eli Lilly and Apple Illustrate the U.S. Stock Market’s Rotation Away From AI Leadership - NAI500
-- [Défense, énergie, matières premières] 4 Defence Stocks with Robust Revenue Growth - Equitymaster
-- [Défense, énergie, matières premières] Is Arrow Electronics (ARW) Stock Outpacing Its Computer and Technology Peers This Year? - Yahoo Finance Australia
