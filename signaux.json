@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T06:50:35.541232+00:00",
+ "mis_a_jour": "2026-11-28T07:00:35.409117+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54718.18,
+   "prix": 54609.73,
    "devise": "EUR",
-   "jour_pct": -0.03,
-   "mois_pct": -24.89,
-   "volume": 8.58949193,
+   "jour_pct": -0.23,
+   "mois_pct": -25.04,
+   "volume": 9.65470305,
    "volume_relatif": 0.04,
    "capitalisation": null,
    "per": null,
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Chinese Stocks Surge as Beijing Signals Bigger Role for State Investors to Stabilize Market - Tekedia",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeXhpRV9faDd3aENGSHRrWUo1WDBxZF9aWmk0a0hadUJxb2Q1N1VEckhHSG5FT21KOGxXanEyWk9xbVZOYndnaVJFTkFUMml3eDg2NGFiaHpvM1R3aEQ3TldOajZoSWdWdngwa1VlUlBnaThqZTNwSFhfVW1lUXBHM0Z1cDN4Qk1KTUNZWWJ4X3NtY1JuV1RuUFpQRFVWWkprWFJYV0V2OUFYOFBjbF9GSUYyV2c5amc?oc=5",
+   "date": "Fri, 27 Nov 2026 19:40:32 GMT",
+   "vu_le": "2026-11-28T07:00:35.409117+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "5 Growth Stocks with a Competitive Advantage to Watch Before 2027 - Equitymaster",
+   "lien": "https://news.google.com/rss/articles/CBMivgJBVV95cUxObVZIX1p3RkxDSE85TmtzWWlZV2JvQm9GSTJhcDdQR3d0MVJYWTdtcWVmUDB5QlJ0YUM1aGQ2dlpfUDk2dnRkVFdfbjFhakxKZC1NZDZoVTJzT3NlckRCQjV5Mk1BemlMaXNqWHowc3Q5UTJKUnBjOHA0eVJtWC1BSXNBVTVOWnhzc3ljT1FHVm14cnNqR3Zid202SGxoN2tVTUo0c1lzRWNkeFdvanFpX1NuaWlreG92NlJEOGFYMkplaDh0TGlCWlBwbV9TTUV4SENhbDdoYjlVSGR4ckcxNGYzcm1rRVBtMzlUX1Y1MXlqTGVXSElMREVwNW9hVTc2eThzbzB2cmV6UGFsM0EzZnI2T19kcFg2bTQ2NEtHN0theU1GU1paa3RYMml0UF9oUmFacjRLTHN6WVBONlE?oc=5",
+   "date": "Sat, 28 Nov 2026 00:30:00 GMT",
+   "vu_le": "2026-11-28T07:00:35.409117+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "CoinMarketCap’s Fear and Greed Index sinks to 10 as extreme fear drags on - Crypto Briefing",
+   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53WW4zMmZOdzlTWk8zeVd4dU5CTXhDb1p5V2JtUzJOVjRMc2xwMmN4UTBYLXFLRlRyMjJUVS1KUHZsU1FQX1NNS0s2aWdfRW5HeFllNUNiZVRfZnUxQXZEZXJac3JncWczUWxybEthVHF6M1lOLVh3WXhTaUt1Wnc?oc=5",
+   "date": "Sat, 28 Nov 2026 06:58:58 GMT",
+   "vu_le": "2026-11-28T07:00:35.409117+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "Hong Kong-Listed AI Model Duo Surge Over 20%; Goldman Sachs Sets HK$760 Target Price on MINIMAX - BigGo Finance",
@@ -6433,27 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPRDR0ZkVyTW5iSDlKbVNzaEllcXBCNjltelZwRG95SWNRTlBkWlVRNzlvVE1ub2ZZMXpTUWF3ZVNNMEZGMHZlaTJBMUpVRVp1LWpfR2FraXhrSzRhNVBWVHRWckN6WHc4THZTd0FVOGI0cWdTczRkZGYzTkl4a2tzZ29UX3Q3b3dmaXVRSVExLWFLRmNQQlhkbWhRdWNCeE90Zk9HYl8wYk5nYWpzNnprTng0SHBPRWFKRG1oOUpleVg1bVJhZmVONUhCOUlza3ZYTU1na00wRzQyVUNXVlJwU3dKWDh5OGExZlpYSFdaMGp4OHd2WlhoQzlnekUwUTRoczUxR05uYXFtdzMxbmRMV2dtUXpRbWdfZzVRdjJHSFpDSW85em1wM3hsMjFIQUtkV3BTU2NnTl8ycTlKZUZORXhOTUl3dy1qNklMRVdPV05YVF9LNDVuR1Q0ZGdxNE5WRVYw?oc=5",
    "date": "Fri, 27 Nov 2026 11:20:05 GMT",
    "vu_le": "2026-11-27T15:20:35.994493+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "JPMorgan Says Bitcoin ‘Capitulation’ Has Been Reached - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDNyY2tfcEFJbVZ4NVRHWVJGLUlsVEhYYlpQR25vU2pRQ3BwdW9EbmdqeTdQdER0YUN5a2lVWTZUdUVqUmUzbkhleC1sUnY5NXBqbnk3T25mTTFhRVVKTlFWVk5aOEVYdWRFYkk5NWoxQ3dLYzl4dzB3R3M2RnRxWXVUc0N6S0JnNVctdWF5VXQzSUZNMHNxTFJSYkFkbWd1NGFkS0hXd285NFk?oc=5",
-   "date": "Fri, 27 Nov 2026 15:01:00 GMT",
-   "vu_le": "2026-11-27T15:20:35.994493+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Why is Anthropic stock climbing today? By Investing.com - Investing.com Canada",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVHJMQWlkTFRPd25qNEtVUVRpVE1CRkpPVzdNc3ZWd1dHYlE0ZU15R1hrelNuR2hBUWhDV2o0RmhLRTdLNzZlWEZtNUhqdjE5d3pEMzhCc25fakJTT1d6RWRMOTNXME00enNPMXZlQXV2V3RRaXUxWTlPeHdOLTJ6WFUzLVdTdkJ5Q0xRajg5OUlvT2xnaWVVQUhVSnEwV28?oc=5",
-   "date": "Fri, 27 Nov 2026 15:08:31 GMT",
-   "vu_le": "2026-11-27T15:10:36.629100+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Pourquoi l’action Anthropic, PBC progresse-t-elle aujourd’hui ? - Investing.com France",
-   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMUMzQ21ocmJ1QndROW5zNkZMYWd5YlNpNDNtczJNN0JlSnJYSG9vTmlMSThjR0pWNC1leUZ2QU5kLWF1bjdJWkRRa0xhLVdpWHN4ekd3SUFNblhCWG05N2NYOXlUaF9hQWRqTVFIdi1ITmJ0ZHgxZ3duQVNFclpfM3FMUDhBeE0yc0R4b2hvUlVMbUhOSGVWU3F1WVZjZ0QyZHg4bC13bHJhalliV19ObmVoTnB2b2RRMWc?oc=5",
-   "date": "Fri, 27 Nov 2026 15:02:00 GMT",
-   "vu_le": "2026-11-27T15:10:36.629100+00:00"
   }
  ],
  "erreurs": []
