@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54043.9 EUR, jour -1.26 %, mois -25.82 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54162.82 EUR, jour -1.04 %, mois -25.66 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -286,16 +286,16 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -0.08 %, mois 21.84 %, prix 8.736 EUR, capi 8810130130.895283, PER 10.9, volume x0.29 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
-- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
+- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
 - SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour 7.52 %, mois -24.25 %, prix 119.5 USD, capi 579228478930.6643, PER 6.7, volume x0.77 la normale
 - Tencent Holdings Ltd Unsponsored ADR (OTC:TCEHY, secteur Technology Services) jour 3.97 %, mois -8.56 %, prix 45.29 USD, capi 404554837871.25, PER 12.2, volume x0.7 la normale
-- Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK- (NYSE:BAC/PM, secteur Finance) jour 0.26 %, mois -1.95 %, prix 19.1 USD, capi 338593252758, PER 4.6, volume x0.77 la normale
+- Bank of America Corp (NYSE:BAC, secteur Finance) jour 1.09 %, mois -3.6 %, prix 49.07 USD, capi 338593252758, PER 11.7, volume x0.57 la normale
 
 ÉCRAN France : meilleures performances sur 1 mois :
 - Clariane SE (EURONEXT:CLARI, secteur Health Services) jour -1.54 %, mois 46.05 %, prix 4.618 EUR, capi 1649834769, PER 130.5, volume x2.03 la normale
@@ -310,6 +310,17 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] Asian Markets Today: China Chip Index Jumps 19.5%, KOSPI Gains 4.34% - NiftyTrader
+- [Petites valeurs en croissance] Axos Financial (AX) Stock May Still Have Room To Run On Earnings - Yahoo Finance
+- [Pays émergents] Indian Stocks Close Higher as Realty and Banking Gains Lift Sensex, Nifty - INDIA New England News
+- [Pays émergents] India's National Stock Exchange (NSE) became the world's third-largest listed stock exchange operator by market capitalization on November 26, 2026, reaching a valuation of $64.1 billion (approximately Rs 5.92 lakh crore). NSE has surpassed US-based Na - Instagram
+- [Pays émergents] Indian Stocks Slide as Sensex Falls 500 Points, Nifty Drops Below 25,250 - INDIA New England News
+- [Pays émergents] Markets & Stocks - FinancialContent
+- [Défense, énergie, matières premières] Ondas Stock What AI Defense Orders And A Stemme Deal Mean - Simply Wall St
+- [Défense, énergie, matières premières] Walmart, Eli Lilly and Apple Illustrate the U.S. Stock Market’s Rotation Away From AI Leadership - NAI500
+- [Défense, énergie, matières premières] 4 Defence Stocks with Robust Revenue Growth - Equitymaster
+- [Défense, énergie, matières premières] Is Arrow Electronics (ARW) Stock Outpacing Its Computer and Technology Peers This Year? - Yahoo Finance Australia
+- [Crypto] Polkadot Price Prediction: DOT Falls 5% to $0.65 - Bitcoin Foundation
 - [Bourse de Paris et Europe] CAC 40, SBF 120 : la France en crise, la Bourse en fête - Le Revenu
 - [Banques centrales et taux] Le Bitcoin tient bon face à la tech et à une Fed restrictive - Boursorama
 - [Petites valeurs en croissance] Why Did Bradbury Capital (NASDAQ:BBCI) Stock Surge as Small Caps Outperformed a Volatile Session - kalkine.com
@@ -449,14 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Marchés mondiaux] Stock Market Today: Major Indexes Surge, on Track for Big Weekly Gains as AI Stocks Rally; Anthropic Jumps 8% - Yahoo Finance
 - [Marchés mondiaux] Wall Street Analysts Believe Hackett Group (HCKT) Could Rally 30.11%: Here's is How to Trade - Yahoo Finance
 - [Intelligence artificielle] Exclusive | Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply - New York Post
-- [Pays émergents] Defence shares skyrocket up to 17% as India, UAE to co-develop defence equipment; BEML, BDL, HAL lead gains - Moneycontrol.com
-- [Marchés mondiaux] Wall Street's Black Friday Bounce Could Set Record: Market Strategist Sees ‘Beach Ball’ Rally Ahead - Stocktwits
-- [Banques centrales et taux] Enquête de la BCE : les anticipations d’inflation à un an grimpent à 3,5 % en octobre - www.tmgm.com
-- [Pays émergents] Indonesia Stocks Fall 1% as Rupiah Breaches 18,400 per Dollar - JournalArta
-- [Pays émergents] GOOG stock trails S&P 500 rally as AI costs cloud outlook - JournalArta
-- [Pays émergents] Broadcom (AVGO) Stock Price Today - JournalArta
-- [Crypto] Nvidia to Pay $290M to Settle Crypto Suit - Briefs Finance
-- [Anthropic] Anthropic IPO Tightens San Francisco Housing Market - Briefs Finance
-- [Anthropic (FR)] Les actions d’Anthropic clôturent au-dessus du prix d’introduction en Bourse après deux séances en dessous - Unite.AI
-- [Chine et Asie] China pledge lifts markets; ASHR leads rally - Briefs Finance
-- [Crypto] VTB Enables Bitcoin Trading for Brokerage Clients - Briefs Finance
