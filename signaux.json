@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T07:50:37.175313+00:00",
+ "mis_a_jour": "2026-11-28T08:00:36.283951+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54696.02,
+   "prix": 54723.26,
    "devise": "EUR",
-   "jour_pct": -0.07,
-   "mois_pct": -24.92,
-   "volume": 39.00896169,
+   "jour_pct": -0.02,
+   "mois_pct": -24.89,
+   "volume": 39.87921135,
    "volume_relatif": 0.18,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 834986797,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 834986797,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,62 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic Stock Is Back Above Its IPO Price: What Could Move Shares Next - Around Prague",
+   "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUUFVSXRJUXZTbUUtZjBMVVpFTGFzeno1b2lDbUlONFlxb0FVaWZVa29aMFNwNkQ5VWQ2NlN0UmIxV2p5M0dMNndvS29tMGxHRHVlX2FtWlRYWU9IRkctSE9lSTZiQm5NdklmMFhCVnJEVDUwTVpGVnlVRnhNOTlrcFdUVlRDOVUwTHpfcUtBVWhTVHhoQUVLdlV4V3hUQ3A3aTRvNExYcnpBZw?oc=5",
+   "date": "Sat, 28 Nov 2026 07:41:21 GMT",
+   "vu_le": "2026-11-28T08:00:36.283951+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Action ANT à 91,88 $, de retour au-dessus de son prix d’IPO à 83 $ le Black Friday - FinanceFeeds",
+   "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05dHM1TnljMnNDdGQ2cXRGZ3ZYNjNrNmlodGRLZkdWUUlTT3VSNExRemRRV1RZSFVrOEVzcEdrR29tdV9JRkdZa1R0TFBycndFS0gybkY4QS1aN0JkT3NOX2xVTWNXV0RnLUdwRFpZTC1qZmpYeHpzTHRyQmU?oc=5",
+   "date": "Fri, 27 Nov 2026 19:51:04 GMT",
+   "vu_le": "2026-11-28T08:00:36.283951+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "La Fed va-t-elle relever ses taux d'intérêt autant que le marché l'anticipe ? - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa2RXLU8xQjQwSWo1TllDcVhDd0ZNWWxQc0VweDRVd2FoWmJ6LTltRENIR1VpOVEwdTFBdmtDLUowRzZnUWdkNUM3QUFfaGJPdkM0ZFVhUFFheVVicHFtbzIyejQ4ZVBlZkJvUzhDaTdpN01wTDl3Tk5EcTY0Y2pfRw?oc=5",
+   "date": "Sat, 28 Nov 2026 06:53:12 GMT",
+   "vu_le": "2026-11-28T08:00:36.283951+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Inflation zone euro novembre 2026 : aperçu flash et BCE - Admirals",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWFmRENMUldQMHhBYTdQUmRiU0YxVEZLRFhocVVZbFVlVGtoaWxrSFUwUnROeXdBWGsxMjQ5S000VEtaN19ZYzA0SXJadFRJX3NESDFzTnZpNTRHR3FzU09XMjNlVFRKc2ktYTh0Wm5fSWFfNnA1R1VmQlpFN1lPSVVPRm9LLWNHQ0I1Z0FETXJBSmV2LTdjRmVPcnVHenc2VjNCTU5R?oc=5",
+   "date": "Fri, 27 Nov 2026 13:52:13 GMT",
+   "vu_le": "2026-11-28T08:00:36.283951+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "What Broadcom Stock's Google Chip Order Cut Means For Shareholders - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmxJYkZvdWJFZ0dEaWViQjFjRnF4b2NIRXZPTlNwdGc5MVJnSkxjekNCVEVQMFNVaTNZM3ROLVN4QVVVZHdBMTFDY2pudk43bk1aV0lCZVVYeURlb3o2SmNZQ3hVeF9CTUtOVWcyaGFpQVYxU1lIaVB3Ni1TaVVyaVR4dm5YMkpMdU94dmlmUFJTeFNJampDcGstTEZ0dGM?oc=5",
+   "date": "Fri, 27 Nov 2026 20:10:47 GMT",
+   "vu_le": "2026-11-28T08:00:36.283951+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "GE vs. NOC: Which Aerospace & Defense Stock Should You Invest in Now? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnAydTRFeS1QcGNGUFc5NnFDSUlyYjZhSGd6dGt4b3BtcV90cXVpWUdOUXkxaG45dDJUS1NRVGRyWlBfSFVjNk45STZRRWczMVFjYWg2UDB0U01xWk1yT1pMX3doVXRNMWVLeUxiRE5zNkxLQlVQeEpKWmhJbDZ0TU9rS1NvYWVlZHNBYzBuSWNobWV5dUhr?oc=5",
+   "date": "Fri, 27 Nov 2026 14:14:00 GMT",
+   "vu_le": "2026-11-28T08:00:36.283951+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 28, 2026 at 3am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1FaZTlna2NiUUVKcnJ5a2wzeTRFdVFZSURILU52ZGRncUVJSm1mN2REN0VheVF6d1BzTXNFUjc4STJIVTliYmUtaWRVZjRfSzNISUl4c2pmQkVHM3o4eFBtTVNhYlZsVDd1S1N3NjR5TDJibUNRVkVsakN2VXNXOFlPOS00UVEyeDZneXRkOWlwUS1EWFRWZWEtVk82aWZXRkZPelZqN1JpYTlLaWc?oc=5",
+   "date": "Sat, 28 Nov 2026 07:12:42 GMT",
+   "vu_le": "2026-11-28T08:00:36.283951+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Dogecoin price on Nov 27, 2026 at 10pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemFLQTN0QmZiYzBWVzFIbDVnd1dQcEtZTm1jcTNRb0lqNnZrNGJWejJRTzYzckVmV1R1WmlFS0FEcE9IcmNWbUt1TjdtNVdOTmJrRlRzZ1ZsdGlVNGxKTkxxRUhlNUtza0UzMWthLVVZN1c5bTJwdHFtN0VnV2lQdjJiQnFsdGE4Q3ZKNy1ROHJwNFR1NFBhalZRRnFoVXZCTHRyVEEyUDNRMGdHRG5kOEFqdElrdw?oc=5",
+   "date": "Sat, 28 Nov 2026 02:11:33 GMT",
+   "vu_le": "2026-11-28T08:00:36.283951+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic Stock Rebounds as AI Giant Swings Through First Week of Trading - NAI500",
@@ -6398,62 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5md21JOTlHNDZ6WUFrajhjRjNycUlMVjc1QllwWG00SGw0NHlMUlVGbnRPSkRieEJBTDF5SkpmcFNVSV95aDBaY2ZQSmhjdGZZMG9odkRiY2dhaC1YbkJlTGNXaUhBTldpNGFUSF9EUlZJamxrVjBGY2pKMGQ?oc=5",
    "date": "Fri, 27 Nov 2026 14:44:35 GMT",
    "vu_le": "2026-11-27T16:10:37.631851+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Global stocks rally on AI rebound after bruising month, while Treasuries dip - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWpXQ3BvZ0ZxdHJvcGp1ZUFHR2NGekFJSnM5bnpZVldGbW5rbFkyUEpxT1o1c0RtdmtVU1JYT2JtZUs5YTktNG9FclZzTVloOWoyUlpLbzJpajdtcXBRM1hoNUkwd2h1VzNxY1JIeXNkcmU4ajU1MldJUlhRcm5IcDgwQ1U1aU1UbG9FVEJSU01KZ0QxcGMwbjhR?oc=5",
-   "date": "Fri, 27 Nov 2026 09:26:59 GMT",
-   "vu_le": "2026-11-27T16:10:37.631851+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "La Bourse profite des soldes du Black Friday - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT1h0UnozLVFhM3ZYWUhzNGgwS1RRYldISUJmR0V0QU5oaUNQRjlpdllXYlRtTE1BRkxwckdhZlI2NUVWOWhlUlhTYXhKV1ZEalRlZWowR1VkS05zOUJ4WkEzOXNFTi1xSWhadVVvXzlQOVdWc0lDdVozTHZQbWxqUDlUb05DV0xBSGNhQkJ4YXcxaXJoTTdpMUlSNUtidHAtNy1FbzNubw?oc=5",
-   "date": "Fri, 27 Nov 2026 06:40:12 GMT",
-   "vu_le": "2026-11-27T16:10:37.631851+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Pablo Hernández de Cos nommé président de la BCE par l’UE - NLTO",
-   "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSUxzQVFyUFFvdmw0cURRVnhKSkJqMF9oZEswLTBJdGdxZlVsUDYyYkVlOHZ6ZjFrSV9meWp3dFprbHR1dFNvS19zTXFZUEw1djdnQ0wtN2stUll2Zlh4SVVKZTJIcU1OMnRtdkEwX09uc2paZHMzRzlONFVyM3JyQ0pGbw?oc=5",
-   "date": "Fri, 27 Nov 2026 08:58:00 GMT",
-   "vu_le": "2026-11-27T16:10:37.631851+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "EQT (OM:EQT) Stock Still Looks Undervalued On A 38% Five Year Fall - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcVM4ck5aRzJqZXQyZWU4X2dhbDJzRzNmY1I4R1lQUmZ1RF9VRmFqTXkzQUpfa0ZUbjBKa3VlbmxtbXhiZ1JpVC1Td1VEb3h6bXhKWUxicG9qb3d6djVvMlhBVzU2UmVPSmRNb1VVc0g1amxjVWIxZDltOHZveGhnRVVETWNfd1JqQmFFZ1Q4Ujc?oc=5",
-   "date": "Fri, 27 Nov 2026 13:13:18 GMT",
-   "vu_le": "2026-11-27T16:10:37.631851+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "5 Low-Cost Vanguard Mutual Funds With Strong Return Potential - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQODVHTm1mSkNMUjVDdUIyQzlRaTRzZ3VfUDZVSWhnR0JjVWUzTnhPclNXaUlxRUxPMkRwOGROQV9OT0szYWVMcTNNeHM5Qk1JTWVyMWNHaWhBV1l2RGQ0QmZZVG9lY2U4cWF0WHBEclN1MWhZeTcxTElnTmRrTnpGNk9jMzNacXlaNTNlQzFPTWJ4cnBjRExmUVg1OFlVZ2RtVndsRURCZlVpb2ZSWndRcVlUdlVac1dG?oc=5",
-   "date": "Fri, 27 Nov 2026 13:16:00 GMT",
-   "vu_le": "2026-11-27T16:10:37.631851+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Is Ryder System (R) Stock Undervalued Right Now? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQmt6YnhrRXFlbmtqZVhiUFFmbmNoN2hpWVZjTmJobmdYekNjdGdyOG1jSGN2X1N0TFpERm5IX1N2bGNSTlY1NHRCSjhzVUlFS0RPUXViZHdPSDlkaFhqSkRXMUgwblZ3TTZFcG53bTJXUldTUEtfdkhLeGE5S1N2aEVRSVEtandQUW9xUnQxYzZsYWpSVWxKbWtIU3pCUQ?oc=5",
-   "date": "Fri, 27 Nov 2026 13:40:04 GMT",
-   "vu_le": "2026-11-27T16:10:37.631851+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Ukraine passes crypto rules, taxes included - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVDdCUEdKYWRoZWQzRjJkTmJfUG5IVEV3azQ1ckN3OUlmX2dObThhMFJpZ3UyU2JWdTFFUFFGX1V6UWdMSzdMdnkzMllsNTMtQmd5bUJTbVZ6NTdjNm1fR3lQOFJBeGxuRERCN0QtYTFKWTdWZGlnUkRDUk51cWl2N3pkWXBsUzh4cnZwel9qNUlVNGs?oc=5",
-   "date": "Fri, 27 Nov 2026 15:40:23 GMT",
-   "vu_le": "2026-11-27T16:10:37.631851+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "US stock selloffs trigger a new kind of dollar bounce - Y100 WNCY",
-   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVENMMkRsUGhnZzBsaFF0TU5id0duTVFfNklkS2ZCV0c1RWdUXzdLaVJCODZqVDF3VXpZYWdWQnBrUTFrdlNpTHRFLVRNNWVYR1ViOUZIOU5kN29kRC1Hd1liSE5LUlB2Vi0xd2lET19OMV9oN3pJQVlxMllSQzhJVVpMaDBDYTFGYlE?oc=5",
-   "date": "Fri, 27 Nov 2026 15:17:51 GMT",
-   "vu_le": "2026-11-27T16:00:36.394656+00:00"
   }
  ],
  "erreurs": []

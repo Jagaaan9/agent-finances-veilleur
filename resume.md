@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54696.02 EUR, jour -0.07 %, mois -24.92 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54723.26 EUR, jour -0.02 %, mois -24.89 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -226,8 +226,8 @@ POSITIONS ET INDICES :
 - IX Knowledge Incorporated (TSE:9753, secteur Commercial Services) jour 0.9 %, mois -5.09 %, prix 1342 JPY, capi 12613998051, PER 7.4, volume x8.8 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 834986797, PER 28.6, volume x17.7 la normale
 - Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
+- Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 834986797, PER 28.6, volume x17.7 la normale
 - Goyal Aluminiums Limited (BSE:GOYALALUM, secteur Distribution Services) jour 20 %, mois 26.49 %, prix 7.02 INR, capi 834986797, PER 29.1, volume x52.33 la normale
 - Waaree Renewable Technologies Ltd (NSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 23.4 %, prix 825.7 INR, capi 71797243279, PER 18.5, volume x233.67 la normale
 - Waaree Renewable Technologies Ltd (BSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 22.52 %, prix 825.4 INR, capi 71797243279, PER 18.5, volume x128.17 la normale
@@ -310,6 +310,14 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic Stock Is Back Above Its IPO Price: What Could Move Shares Next - Around Prague
+- [Anthropic (FR)] Action ANT à 91,88 $, de retour au-dessus de son prix d’IPO à 83 $ le Black Friday - FinanceFeeds
+- [Banques centrales et taux] La Fed va-t-elle relever ses taux d'intérêt autant que le marché l'anticipe ? - Vietnam.vn
+- [Banques centrales et taux] Inflation zone euro novembre 2026 : aperçu flash et BCE - Admirals
+- [Intelligence artificielle] What Broadcom Stock's Google Chip Order Cut Means For Shareholders - Yahoo Finance
+- [Défense, énergie, matières premières] GE vs. NOC: Which Aerospace & Defense Stock Should You Invest in Now? - Yahoo Finance
+- [Crypto] SOL price on Nov 28, 2026 at 3am EST Crypto Prediction Market - Robinhood
+- [Crypto] Dogecoin price on Nov 27, 2026 at 10pm EST Crypto Prediction Market - Robinhood
 - [Anthropic] Anthropic Stock Rebounds as AI Giant Swings Through First Week of Trading - NAI500
 - [Marchés mondiaux] Global markets rally as end of bruising month approaches - The Korea Times
 - [Intelligence artificielle] Stocks Settle Sharply Higher as Chipmakers and AI Stocks Rebound - Barchart.com
@@ -452,11 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] Plug Power Surges 8% Amid Turnaround Hope: Was $1 the Permanent Floor for PLUG Stock? - Yahoo Finance
 - [Petites valeurs en croissance] Alzai Health Corp. (TSXV:ALZI) Surges as Market Attention Turns to Health Technology Opportunities - kalkine.ca
 - [Petites valeurs en croissance] Zeta Global Holdings Corp. (ZETA) Stock Price, News, Quote & History - Yahoo! Finance Canada
-- [Crypto] Bitcoin (BTC) faces historic losses as BlackRock’s IBIT sees record outflows - Investorsobserver
-- [Bourse de Paris et Europe] Les Bourses européennes rebondissent légèrement pour le Black Friday - Bourse Direct
-- [Bourse de Paris et Europe] POURSUITE DU REBOND EN EUROPE ?! - 100% Marchés - 27/11/2026 - M - Bourse Direct
-- [Intelligence artificielle] Stock Market Today, Nov. 27: Chip Stocks Rebound Sharply on Broad AI Enthusiasm - The Globe and Mail
-- [Petites valeurs en croissance] 3 British Undervalued Stocks Trading Up To 50% Below Fair Value - Yahoo Finance
-- [Bourse de Paris et Europe] L'Europe finit dans le vert, se redresse après des jours agités - Boursorama
-- [Crypto] VTB opens bitcoin trading to qualified investors as Sberbank eyes December 1 - Startup Fortune
-- [Anthropic (FR)] Un militant entame son troisième jour de grève de la faim devant Anthrop
