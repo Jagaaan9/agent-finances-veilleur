@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T00:50:35.700267+00:00",
+ "mis_a_jour": "2026-11-28T01:00:35.279915+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54748.11,
+   "prix": 54719.1,
    "devise": "EUR",
-   "jour_pct": 0.03,
-   "mois_pct": -24.85,
-   "volume": 1.22097613,
+   "jour_pct": -0.03,
+   "mois_pct": -24.89,
+   "volume": 1.38863376,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 8779940033,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 8779940033,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "THALES Cours Action HO, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpRFpKYkphLVVKSlV6Z1NNTUNMdXlwV0lwQ2NOUm93YXNaOTVRcWtmSDN5ZmE3cmVGcDdPeE54aG9KQUs1NFplU19ZZ2Qyc0VZ?oc=5",
+   "date": "Sat, 28 Nov 2026 00:11:16 GMT",
+   "vu_le": "2026-11-28T01:00:35.279915+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Cerebras raises 2026 outlook, sees revenue tripling in 2027 as $26bn backlog builds - investingLive",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFdRSWdkSDRzVkxIc2lqMm8ycjVRNmdJM2JTcTh0ejRuQUhremFaSEJSOHhWeXVMR1d5NUVFVUJ3VjJYLVUzOHlxNWtZbDZtZ1FWcnBYSTN2dVRTYVcxX1dBcTVoRHoxc2pxRk56RWVIVF9kNG55bTloZFJxME1JU3NvUzlSZC0xYkdOSUtnTFNjV2JqTDNqeVdocGtNNW54Vk1wREJFdUFiQ0E3MUVKX1VlZDVuUQ?oc=5",
+   "date": "Sat, 28 Nov 2026 00:09:19 GMT",
+   "vu_le": "2026-11-28T01:00:35.279915+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail",
@@ -6439,20 +6453,6 @@
    "titre": "Zone euro: Les consommateurs relèvent nettement leurs anticipations d'inflation selon une enquête de la BCE - Zonebourse",
    "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMUJCRldEd01YY3gxeVdhT1pJYmtMdUVRR043UHA3c2MwajV3OFVTSGZmWHFFZEVFX015VXA5NGNKQTVhMmVuVUdVZGhReFhab2dubld5QXhxeWxUaS15VzdqUS1SQVR0VENPQWtYcVhFYVhwdXF4OU1HRUR4OF8zOXpNZ0lkOGpWT1g0cnREeFNGQ0Rxb3hnR05fVWVtb2E0RUN3WUZSekRFUjB5UnlMX1JjdVc1ZFotZ2VVMEtwQTVWLWl4NENCcGVzaWhfQ3g3VzE5dzV2RXZTQ3hfZlFyNTF3dlE2OG9iMGh5bjdOUDJqdw?oc=5",
    "date": "Fri, 27 Nov 2026 12:11:22 GMT",
-   "vu_le": "2026-11-27T12:40:35.683333+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China stocks, yuan rally after Beijing vows stronger market support - The Mighty 790 KFGO",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRTNHbkJrUURmLU5CbTJOblVRX19LZWZlU3pYZXpvakJkZ3JSOVRzUnVidlFMYjNPYnFaS1VxMmRad05IazByQmpoQzdMUWhOSW1HVVJNdDN3cm5weU9yNE9FNm05NXFsQzQ2SlJ6UjF2czhvMFRXdFpQb19MN3E3ak10SjNiWTMxSUltSHhRMnRLWmpPWkMxcHBXOA?oc=5",
-   "date": "Fri, 27 Nov 2026 06:55:28 GMT",
-   "vu_le": "2026-11-27T12:40:35.683333+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "The stock market is stuck | Expert Opinion - Inquirer.com",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGpwT1Z5aVBMdUpmMU8tVVQ5eEQ1U1VfZVZyY090UVNDV01yZlRKUjhIU0xHRTRmUDBZS2NmQmVuUlFJaHlDUGUxWkczWTJGeDNfVENta0dtSWdQZmlsOHdrMWswOHJsUGp1NWUwSEFtTXk1MjJQWk9LZEN1S2hnUzVJZ3ZpMWpXVUxmYXFzbFpQX3RaN3Zqb3lFVXdiSkxPOWdteQ?oc=5",
-   "date": "Fri, 27 Nov 2026 12:01:00 GMT",
    "vu_le": "2026-11-27T12:40:35.683333+00:00"
   }
  ],
