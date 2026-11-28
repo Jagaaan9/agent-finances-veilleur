@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T04:00:35.732265+00:00",
+ "mis_a_jour": "2026-11-28T04:06:15.336493+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54837.55,
+   "prix": 54887.27,
    "devise": "EUR",
-   "jour_pct": 0.19,
-   "mois_pct": -24.73,
-   "volume": 3.69257445,
+   "jour_pct": 0.28,
+   "mois_pct": -24.66,
+   "volume": 3.70595414,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -3656,6 +3656,27 @@
  },
  "actualites": [
   {
+   "sujet": "Chine et Asie",
+   "titre": "Wall Street indexes rise in half-day trading; Dow up 591 points - China Labour Bulletin",
+   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOalBTdHFQejBBWDhyRnFkTlVsMnRjS2FBaEg2ZEF6UDBUVHdJeW81M3U5VGt3S1RMWERFOWRfalJiTXViOUpRbjNManNTYU5iOUViQV81Ti1jb3FYNXZzUjFJOFVXUGlFV2xGOXJDUG90YXlpUHNEQ3pyelRDZVpUcm50cG8tanJOX0NKX0FWWmx4X3RoNG03ZmkwWHhWRG8?oc=5",
+   "date": "Fri, 27 Nov 2026 21:33:59 GMT",
+   "vu_le": "2026-11-28T04:06:15.336493+00:00"
+  },
+  {
+   "sujet": "Introductions en bourse",
+   "titre": "AI data-center developer LIAN picks London for US$500 mil IPO - The Edge Malaysia",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1QmhJYTAxYXQ4bUE2SDNNbDA4UUtOblg5azVuMHR5MjVFd2I3dFpYT2UxdlJ4b2N1cWNxc3M1ejJGM0JrcEg2S282RmtsZV9M?oc=5",
+   "date": "Fri, 27 Nov 2026 12:19:02 GMT",
+   "vu_le": "2026-11-28T04:06:15.336493+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "HYPE price on Nov 27, 2026 at 8pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUjlCUkt2QUw2ZUU4R2lRQnU5TmVsTEd5ZTZUY0JrU3RCYU5mc0x4c0N6SXZBMWdJQVgtbENwcU50RjZHbWNMdGVtYzMzU2NJekpJa3Bqa0ZncG8yNjF4S2xxM3ZDMnhJVmlZNGNMZUFHMlhCOC1uSmtGZ3BrQzdCWG9JdmEwd091bS1qS201T0V6YjRkbHNBTGJhS1Jjb25DdDVZN2dZNGVCN1hFYzJB?oc=5",
+   "date": "Sat, 28 Nov 2026 00:03:21 GMT",
+   "vu_le": "2026-11-28T04:06:15.336493+00:00"
+  },
+  {
    "sujet": "Résultats d'entreprises",
    "titre": "How Earnings Beat At Otis Worldwide (OTIS) Has Changed Its Investment Story - Simply Wall St",
    "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSlg0ampwX3Y3QXpJNmYxOEF2a21ZMTlRRkVDVm9zdDdHQlVsazFHSXFqcWNDc0NjcHdQRVkwcHluTjFEYWhobFJKdVc0VVlTeFRwa0N3TGc1dGFmeUw5ZVFyYXM1SDJabjJfSHBKNVJLaDFDemp1eDRlNnRjaVlwM0J3LTlTTWV2aEdDTHlhVmVSZDMwQTQ0Ti1jSHBSNlYyTlotVk9EZm1PS2s4eEE2MDk4UWF6UVlFc3o3M0R3QXFVOHNpcmpDeGpiUGxwVm5jRkFuTmtEUdIB1wFBVV95cUxNSlg0ampwX3Y3QXpJNmYxOEF2a21ZMTlRRkVDVm9zdDdHQlVsazFHSXFqcWNDc0NjcHdQRVkwcHluTjFEYWhobFJKdVc0VVlTeFRwa0N3TGc1dGFmeUw5ZVFyYXM1SDJabjJfSHBKNVJLaDFDemp1eDRlNnRjaVlwM0J3LTlTTWV2aEdDTHlhVmVSZDMwQTQ0Ti1jSHBSNlYyTlotVk9EZm1PS2s4eEE2MDk4UWF6UVlFc3o3M0R3QXFVOHNpcmpDeGpiUGxwVm5jRkFuTmtEUQ?oc=5",
@@ -6432,27 +6453,6 @@
    "titre": "Chip stocks rebound to cap a volatile week (AMD:NASDAQ) - Seeking Alpha",
    "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDM0a0tCc2k0TF9TMmlvbEQyeE9jR2s1RlVDMlNOaDlwaFNRT1BXVDRyMjNuZGQxMnM0RkxnUFJHMzRIVEV6VFhGVjZtUTVXWWQ2UXJDTFhLdnlyZkFGUzhDVHFIWXh0eGNQUWlEeWtYTnVRODBia0xvbkJUZ0hvemFPZGJOWjA?oc=5",
    "date": "Fri, 27 Nov 2026 13:47:18 GMT",
-   "vu_le": "2026-11-27T13:50:37.515143+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Your Customer Just Got Acquired. What Happens To Your Contract? - Legal 500",
-   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONENUZ0NpdnNDSnAwM1AwTm82cWsxZE9tenNhWE11Rm8zc1phQVJnamJtWE1lUUlVLXo0MUpQQ091dDdFRXY5YUl3dHdWYXhvWW5kcmpZQ2ZkaldTbDlPYmdkdnptUXhGcFNiOTNfMWk2eW9GQ2dJUFlIVkpTVmpwYXZjdWluTGZZN0xKZWZRODN3d1RRQTB5THFOODBDRF9nQTlCZ2pKTS11VlY0TDhUZkkwc2E1di1ZRk9oTUxEUlFhOTBZMTFoTEFzc3FmeGp6V3ZMbw?oc=5",
-   "date": "Fri, 27 Nov 2026 10:29:39 GMT",
-   "vu_le": "2026-11-27T13:50:37.515143+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Strategy Just Bought Bitcoin for the 4th Straight Week. So Why Aren't Crypto Investors Bullish on MSTR Stock? - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONzhSRkMyQW1GajRESi1DM2tJSmF1V0pBOTVqMnF4Q2FCNVB1RlA1eVhNc3c4dkNlRWIwTlZxM1A1dzRodzBJcDJvc1pJWmpTTmhkMHNNUkZid1M2SjFCOENvdWZMcWl1ODhWVjVlenlyNG9yWHVrSk92ZkNHNExWOHJYQUUxTy1IbXQyLVhRSEtnbUZiSER4ZFV2YklZSjV4b3pZR2J0bDd0Q1A2VWk0dDNtbk5fdGRZWHdta0dtRWJsZTFQVjA2Q3BXQ1VPaFFZTW9VOUFEaUlma0VlRUxnQTFvTTE?oc=5",
-   "date": "Fri, 27 Nov 2026 13:43:12 GMT",
-   "vu_le": "2026-11-27T13:50:37.515143+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Tokenized stock holders grow 33.8x to 6.3M as market cap hits $4.7B - Crypto Briefing",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qbW1fUWZub0hPUkVET3ltanBySHc4eFlzMGN1VFFNZVUyVzdNYWFmWUUwZDdMNDRhaV9YT1ZLMWVsZEhLWnlhVGRWZFBfVFJheWpOM0txcXdTc1ptLUlZbC1XM3RCbnM5NEhXaVFWNHMxYlNEZXc?oc=5",
-   "date": "Fri, 27 Nov 2026 13:16:40 GMT",
    "vu_le": "2026-11-27T13:50:37.515143+00:00"
   }
  ],

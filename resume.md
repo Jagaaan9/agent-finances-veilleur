@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54837.55 EUR, jour 0.19 %, mois -24.73 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54887.27 EUR, jour 0.28 %, mois -24.66 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -310,6 +310,9 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] Wall Street indexes rise in half-day trading; Dow up 591 points - China Labour Bulletin
+- [Introductions en bourse] AI data-center developer LIAN picks London for US$500 mil IPO - The Edge Malaysia
+- [Crypto] HYPE price on Nov 27, 2026 at 8pm EST Crypto Prediction Market - Robinhood
 - [Résultats d'entreprises] How Earnings Beat At Otis Worldwide (OTIS) Has Changed Its Investment Story - Simply Wall St
 - [Résultats d'entreprises] Did ES|QL Data Federation Just Shift Elastic's (ESTC) Investment Narrative? - Yahoo Finance
 - [Pays émergents] Petrobras shares rise 11% on Lula finance minister appointment - scanx.trade
@@ -456,7 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Marchés mondiaux] "Everything Has Been Positive": Analyst Sees a Strong S&P 500 Rally Ahead - Benzinga
 - [Crypto] Bitcoin Price Falls as $183 Million in Liquidations Hit Ahead of $6.8 Billion Options Expiry - Benzinga
 - [Marchés mondiaux] Stocks jump to end an erratic week that was Wall Street's best in over a year - Spectrum News
-- [Banques centrales et taux] Le dollar profite de l'appétit pour les actions américaines... - Fortuneo
-- [Crypto] Cathie Wood trims crypto stake ahead of birthday - Yahoo Finance
-- [Crypto] BTC Price Prediction: Whales Add Over 120,000 BTC - Bitcoin Foundation
-- [Crypto] Bitcoin or XRP: Which Is Closer to Getting Back to Its All-Time H
+- [Banques centrales et taux] Le dol
