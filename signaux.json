@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T13:20:35.067773+00:00",
+ "mis_a_jour": "2026-11-28T13:30:35.202294+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54098.74,
+   "prix": 54151.73,
    "devise": "EUR",
-   "jour_pct": -1.16,
-   "mois_pct": -25.74,
-   "volume": 57.41029675,
+   "jour_pct": -1.06,
+   "mois_pct": -25.67,
+   "volume": 57.47230021,
    "volume_relatif": 0.27,
    "capitalisation": null,
    "per": null,
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3399,16 +3385,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOG",
-    "nom": "Alphabet Inc. Class C",
-    "prix": 272.44,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
     "devise": "USD",
-    "jour_pct": 0.54,
-    "mois_pct": -14.83,
-    "volume": 14018416,
-    "volume_relatif": 0.55,
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
-    "per": 14.2,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3423,6 +3409,20 @@
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 14.4,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOG",
+    "nom": "Alphabet Inc. Class C",
+    "prix": 272.44,
+    "devise": "USD",
+    "jour_pct": 0.54,
+    "mois_pct": -14.83,
+    "volume": 14018416,
+    "volume_relatif": 0.55,
+    "capitalisation": 3346907996277,
+    "per": 14.2,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Cours de l'or aujourd'hui, 28 novembre : Ils ont enregistré leur premier gain hebdomadaire en trois semaines malgré la pression de la Fed. - Vietnam.vn",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWl9Cdk1zR21GaldfVTlMekdJNFZoMHBFNFpQQ0x2aUdXcTFSbWFmLS1yUDNsYm9YMTVhdGdXTmQ3djBxYUZMV2dMRllJNnFxblY4N0pxbXZIQWxaUElqYzZjMTFudENwSVd1SkM4Uk5RME04aUg2T1hFeVBETms0RTFRT0FNWFNCdEprSjJqTjVvOWt3cXRGbEM5VHhVMDlLYW85YkJGdkVhYldSZlZpMTlvaw?oc=5",
+   "date": "Sat, 28 Nov 2026 00:31:13 GMT",
+   "vu_le": "2026-11-28T13:30:35.202294+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "'Big Short' Investor Michael Burry Thinks This Chinese Stock Is Worth About 60% More Than Its Price. Should You Buy? - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbURuZUlaandXQ0FCbl9tYVgtVEcyRGhWeWc1YjRva19DcVIxQUVhcHFyR09DVm1qeHV5R21oaWJtOGtQZ0E1UG1NRUlIbFNtbWlQR29fbGFOR0VvU0dWR0tabFpIY0txdGJWV05aS3NuNi01TFJlVkhoNzVkSFQwMnlPX05DZnljQ0JYdlJqMnpkcmFZR1dzWS1tTkJPcWJSV2RtLTBiS2tJN2xHdU9xcklfVGNPakxsM2Z3eWFrci0xdXR4ZVJMVHNrZWRBc1l5Wk9JRlo1VGJVRkFRSVRJYUszQmFSam1iQ2c?oc=5",
+   "date": "Fri, 27 Nov 2026 18:33:03 GMT",
+   "vu_le": "2026-11-28T13:30:35.202294+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China stimulus lifts global stocks as rising us yields threaten rally - FXStreet",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFZDUVdjTmU2OUV1RHItazBzdWlwU09kTmdwX21rc216YWJBNkJzYUpqZHMydUlhZjQ5M0NUUm0yS2o4QUR4UDRTTTA5eTYxTFpfcWVJb3otNzhydVJNcWQ1NjNoaWVWNjlqVDFkNmhUQktNb2tub3pKVzVZZkhEbkVhQWw4VkhMQjRUeU1rbmJyeWdTT1BaTk9MSjNjd0JmYzhkSkc2WjVKdzFqclJMVlhsMFNjYUE?oc=5",
+   "date": "Fri, 27 Nov 2026 13:33:50 GMT",
+   "vu_le": "2026-11-28T13:30:35.202294+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More - Inc42",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVU94dFhyMVNPZFBOeklEbER6NHMwNzZpZDdzamhwdXpTYWZjWkh1cVN6WFhGV2UxZWlyVEZrOUlRak5NSFQ5UWstcjFjMHNzWFNuTzZaRUFVWXVhM0YzU0F6clJYMWp1VlBSOTV2SEdTYlVFbTZkYTJQMzYyNzRZWllNaWhDWFduSmhKcmxicm51d1JuMGVjR3R3?oc=5",
+   "date": "Sat, 28 Nov 2026 11:25:51 GMT",
+   "vu_le": "2026-11-28T13:30:35.202294+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin sentiment hits new low as Jeff Park calls this cycle his toughest yet - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeFUwZVpLcXd5bjZpRWRDc0lCMFNfVXNYRXF2UjFhMUk5RmtGUGxtNmxsc1VHRUQ5WlNQN0dHY25UcVRjSlhOUjBaVDV0cDRteUNQNlptVEZCZGVrRi1tdjNkMHY5NTZkc3M0Z1pIRk9jZDZ1OU83MnJMYV84Q2U1Q3p1bUZUaXZxSU5PUGVGYVVzOW5zb2xDMk0wRm5KaHdQTVRBZWh3akV1aXBKWk85ZFZ0eGdaM3NQcElRbG5MSnBhSzB3SDZwR29nMTdOZHVaWVRIdzZSVEJCUQ?oc=5",
+   "date": "Sat, 28 Nov 2026 13:13:50 GMT",
+   "vu_le": "2026-11-28T13:30:35.202294+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "Faibles échanges de fin d’année : les devises du G8 stables, sur fond de risque d’intervention sur le yen et de publications d’inflation attendues - VT Markets",
@@ -6419,41 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50aEdVR1RKdDMyaW5mbzVJUlVoSWhzU0d2VUZCZHZkRjdjVlVzQkptT0FVdkp4MVFwUzNwSXFMRS1SNThZSXFkTkxtVDRISkV0Tkh3Ng?oc=5",
    "date": "Fri, 27 Nov 2026 18:36:18 GMT",
    "vu_le": "2026-11-27T20:20:35.761710+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "AI Chip Stocks Swung Wildly—While Warren Buffett’s Apple Climbed 26% - Investing.com",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRmhYaFpDN045R3VmYkhTOHpIVUUxb3BKdTdOUm5OdG1iU3cxVjZkQ3psbFA0enV2YmJ1UGljUk1DVWFWOE40SEwxUFFMZEd3dDJsR3lrMGM0WFl3MjNKcE16LWh5QWk4R2h3NnJ6Vjl0NnNHcGR4N0RpbHM2czhwU193NERPVzhKWHB5T192N0w0Zlktd3M0SVBuVjFtdFBrTnR0SFl2RkpnZExsUVp0LUhwWThqSzNoWU1lem93TQ?oc=5",
-   "date": "Fri, 27 Nov 2026 20:12:29 GMT",
-   "vu_le": "2026-11-27T20:20:35.761710+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Palantir Stocks Climb 3.72% on $300 Million Poland Defense AI Deal - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMGtyT1E2ek5SYVQzSXY3S0xKaHotcjI5QXBuYm9HUWZoa3FQWXUxdkxmazdxUHZaeXlKQlQ4TVBGSHA3VXFtTVlxcmdRRFJ5LUlvRWlvWGcydlpGdEhZYzhrZGo3RDhfQTVGbk50b0EwUW1uWmV1V0ZTaWg5WkNLSlB2TGtMNUd1VnVWLWhIZDNCVk1YTFVZNURlRWlDUk5pUmNKZW9TbjNtZmJsZVBDV2ZaNkxQQ1M5WWw1MzQzSzhCZw?oc=5",
-   "date": "Fri, 27 Nov 2026 19:23:23 GMT",
-   "vu_le": "2026-11-27T20:20:35.761710+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin or XRP: Which Is Closer to Getting Back to Its All-Time High? - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYXZiT21rTEpycWNoem5PNGt4T1hmQ1JHd25JSml0cmE5ajNSSzVvc2JGVEVtOTVWT05OWnNzTjNheDNVSi02N3czR2t5ay1tWTdMY092RUpjTUZRX1lLZ3F3Q09YSDhEXzV5ZUY1N1pEdjZHelY4bEcxMy1wVWVqRlp4c0RiWERiUGZjUXhkZUtQZUhpc0xNVlNiVVNvNzBNbjJVcDVmWFA3anJHVi11R3ZUTlQ2WUdaNXA0b1BjQWdnU1NmM0pCY3ZCN2hYUzNQNGc2VmJGNEpFelc4Nk5KRGI2ZnRtWDZITWZGS2VLaVNCb3c?oc=5",
-   "date": "Fri, 27 Nov 2026 20:15:00 GMT",
-   "vu_le": "2026-11-27T20:20:35.761710+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin in free fall, Anthropic takes off: The financial market goes against the trend - Cointribune",
-   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc0pWOXY0VkxsRXMyM2s4ZG5YbmN2eW9EeWtOdXdsUHVfeS1RMFVibHBlel9fQ1I2UFEwazZPN29ONm5ES095YzZCREZpNEUtUWItTEJwR2ZZTmw1c19FVnVzVGxRYXVrM1U1YTdsUW02T0dRMGlaUU5melNJWVUzdFNUTG5Nc3VXa0o5NjROQzNzZkZTXzZRTVp2VEFhc2tlRlA1aXNSU2lDX0JERE9JNHh3emFzV0JS?oc=5",
-   "date": "Fri, 27 Nov 2026 20:05:00 GMT",
-   "vu_le": "2026-11-27T20:20:35.761710+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic (NASDAQ:ANT) Stock Surges 11% to Reclaim IPO Price as AI Stocks Rebound - Stocks Down Under",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IaE40RWRwVC1DcEZWRFo2RjVBM240NHFjMXJreDFMbEtxLU9TZ2szS2dzeG9QSVlYZ05vcll4OWhUV2FxM2wyODlrTmhnSFVKNlRsSW5UTHItV1BQOVM5Mmh0dmlESWMxdXlISEZMeDFlSm11ZS13S1NOLUY1S0E?oc=5",
-   "date": "Fri, 27 Nov 2026 20:07:56 GMT",
-   "vu_le": "2026-11-27T20:10:34.391402+00:00"
   }
  ],
  "erreurs": []

@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54098.74 EUR, jour -1.16 %, mois -25.74 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54151.73 EUR, jour -1.06 %, mois -25.67 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -286,10 +286,10 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -0.08 %, mois 21.84 %, prix 8.736 EUR, capi 8810130130.895283, PER 10.9, volume x0.29 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
-- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
+- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,11 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Banques centrales et taux] Cours de l'or aujourd'hui, 28 novembre : Ils ont enregistré leur premier gain hebdomadaire en trois semaines malgré la pression de la Fed. - Vietnam.vn
+- [Chine et Asie] 'Big Short' Investor Michael Burry Thinks This Chinese Stock Is Worth About 60% More Than Its Price. Should You Buy? - The Motley Fool
+- [Chine et Asie] China stimulus lifts global stocks as rising us yields threaten rally - FXStreet
+- [Pays émergents] Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More - Inc42
+- [Crypto] Bitcoin sentiment hits new low as Jeff Park calls this cycle his toughest yet - TradingView
 - [Banques centrales et taux] Faibles échanges de fin d’année : les devises du G8 stables, sur fond de risque d’intervention sur le yen et de publications d’inflation attendues - VT Markets
 - [Chine et Asie] China National Building Material (SEHK:3323) Stock Looks Undervalued On Current Pricing - Yahoo Finance
 - [Intelligence artificielle] Nvidia Stock Rally Puts US AI Chip Leaders Back On Investor Watchlists - Simply Wall St
@@ -455,8 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] OpenAI et Anthropic bloquent le copiage de leurs IA par la Chine - TradingView
 - [Marchés mondiaux] First Majestic (AG) Breaks Into the Market’s Winners’ Circle. Here’s What Propelled The Rally - Yahoo Finance
 - [Chine et Asie] Asian stocks mostly rise as markets calm after tech rout - IraqiNews
-- [Pays émergents] Prabowo says Indonesias market reforms are not about foreign pressure - ANTARA News
-- [Défense, énergie, matières premières] ASML Stocks Edge Higher 0.07% as Dutch Government Pushes Back on U.S. Export Curbs - TradingView
-- [Crypto] USD1 Peg Slips Across Three Exchanges After WLFI Selloff - Bitcoin Foundation
-- [Crypto] What Is Emma AI? Black Avatar Stirs Representation Debate - Bitcoin Foundation
-- [Marchés mondiaux] US stock selloffs trigger a new kind of dollar bounce - WKZO
