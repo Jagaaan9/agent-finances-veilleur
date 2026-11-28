@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T13:50:35.109335+00:00",
+ "mis_a_jour": "2026-11-28T14:00:36.840925+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 53941.62,
+   "prix": 54061.85,
    "devise": "EUR",
-   "jour_pct": -1.45,
-   "mois_pct": -25.96,
-   "volume": 60.13494895,
+   "jour_pct": -1.23,
+   "mois_pct": -25.79,
+   "volume": 60.41697072,
    "volume_relatif": 0.28,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 10535061261,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 10535061261,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3385,16 +3385,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOG",
-    "nom": "Alphabet Inc. Class C",
-    "prix": 272.44,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
     "devise": "USD",
-    "jour_pct": 0.54,
-    "mois_pct": -14.83,
-    "volume": 14018416,
-    "volume_relatif": 0.55,
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
+    "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
-    "per": 14.2,
+    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3413,16 +3413,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
+    "symbole": "NASDAQ:GOOG",
+    "nom": "Alphabet Inc. Class C",
+    "prix": 272.44,
     "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
-    "volume_relatif": 0.58,
+    "jour_pct": 0.54,
+    "mois_pct": -14.83,
+    "volume": 14018416,
+    "volume_relatif": 0.55,
     "capitalisation": 3346907996277,
-    "per": 14.4,
+    "per": 14.2,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PK",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH-",
-    "prix": 21.12,
+    "symbole": "NYSE:BAC/PP",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP-",
+    "prix": 14.51,
     "devise": "USD",
-    "jour_pct": 0.52,
-    "mois_pct": 1.29,
-    "volume": 110706,
-    "volume_relatif": 0.53,
+    "jour_pct": -0.34,
+    "mois_pct": -1.23,
+    "volume": 160626,
+    "volume_relatif": 0.89,
     "capitalisation": 338593252758,
-    "per": 5.0,
+    "per": 3.5,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Crypto Market Today, Nov. 27: Bitcoin Falls Below $60,000 as Crypto Markets Struggle Despite Wall Street's Biggest Rally in Over a Year - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOLUZPcm9LSzV1LVhIelRSM0g3S1N2MVBJa1phanlycXFwUFVIRUlhd01qWWhNcndEZU9JRDVCOTR5WnVudkNiQlpBbGg0VFRwVjZia3BIRUFDVWdGV3h3Vl9fRVJaOGhfRlBfNEd4NlBtbmxYend2M0FCMGNfTGtYVGNOSlI4LWlZRVFCRmEtckVFdDhqNS1qUGpYNWVuV0tJalFRM3JEWEI0SFJYWHBMMjNOQktTTmhGck5nS2ZhV0JGMXQwQlJBU1NZNWlZbVloR0RFX0daTV9wbUdGQkQxeE9yWlR4Z1FIcXhRWl9FcExnVGEyczJQbXhuWkpPRjk0ZXBsUXpETkh1RS16dmNvQVVzOUFHM3ZsdGhjQVIxQVExcXZHS01BWHpmazdna3lEZ0gtX0ZKbGc?oc=5",
+   "date": "Fri, 27 Nov 2026 22:33:37 GMT",
+   "vu_le": "2026-11-28T14:00:36.840925+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street’s Great Escape: 3 Rescue Squads Fuel a Thanksgiving Rally - Investing.com UK",
+   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdGdGSFZOSndEUDdTSGdmZUtXbl9lYWpyR2F2a0pCcmZlOENYeS01N0ZmbjdYZXJJbWdQQm1oWjFBM1FGOEVWN1h5RkRVbFR3ek1EdTk2cEtjNU5ZdkNjQU92Rlh2U1N2TkJrQjRnaUdCVWhyOHRIbF9vV09OWFRFQkNRVS1sLWZSSFMtV0piajhhMlBZODV5Y0Jhd3BueHg1TnAwcHZCcTVnVEZTdkNNbA?oc=5",
+   "date": "Fri, 27 Nov 2026 21:51:00 GMT",
+   "vu_le": "2026-11-28T14:00:36.840925+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Hong Kong top 50 Today — PRIMEXBT:HKHSI Index Chart - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PdmdUWlp1ZmxqSGJpYmhjUWFqZE1JZ3NBMlBFNmZGQ1d6U3ZzUVo3ZkUwc1FwLVluclFtcW9KVTZGQ0pEZXpGSGZvbmhTcVVHMzF5MldrOU5Xa3JCd3JadQ?oc=5",
+   "date": "Sat, 28 Nov 2026 12:31:00 GMT",
+   "vu_le": "2026-11-28T14:00:36.840925+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "S&P 500 Investors Make Surprising Shift as Tech Stocks Sink - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGtuZ09pVV83eGRlYnRZeWd3NVhNcFNLeWlnTmFYYXhfOTk1YUVnYjFZWUZFcEhsckZuN3puVl9rWEFYbndYdHZRYldKazg2TVZ6S1ZaQWxXOXFRRUc1c0xUNTNEbE9vNG5IMlNpQklXamVKREYzcFRFUHQwcWVvMVM4bFA4Q3VHcHRDb1BXd2RfR3pCN1RIdmxqYXBvdw?oc=5",
+   "date": "Fri, 27 Nov 2026 14:23:53 GMT",
+   "vu_le": "2026-11-28T14:00:36.840925+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "États-Unis : les salaires repartent à la hausse, le spectre d'une inflation durable inquiète les marchés - FranceTransactions.com",
@@ -6426,34 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZi1nc0ZuX1FtRkZBblBabWtyaUQtZnBwczJFUkRrYThXbUt4amtjaV81NUlLdE9nSm56ZDBEWlFRVkRma0tCV2xnSGVlNlIwTC0zVG9MbEdkUFlKU29ZaTh5NUwzQVRLcFNIVndVMDhPRkR0YXVMWEVySDRFOVE2MGJPSXVYZUQxSFhtWFZTNFE0YjhaaEpucjdFeG9naV9GcF94REtZREs0ZFU?oc=5",
    "date": "Fri, 27 Nov 2026 19:34:38 GMT",
    "vu_le": "2026-11-27T21:00:35.554276+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Chinese stock market surges, its biggest gain in two years. - Vietnam.vn",
-   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYWt0bGdnT3lLY2dVNXlHaFJnbUJQSF93R010ZXRCczA1V1NmZ090NmFBXzBRRld3TUYtcTE4UEtQYzlEZ2NEZUl1Rmd0WmxmMlA1cGt3OTR3V0czclRXV1RIa0NwOExhLTUzSHc4OU1ESE9iRHVZem9TcXFDWUljRWo3bTRud0hLX2czcjBVYWM1QQ?oc=5",
-   "date": "Fri, 27 Nov 2026 15:08:42 GMT",
-   "vu_le": "2026-11-27T21:00:35.554276+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Bourse de Paris: hausse timide avant le retour de Wall Street - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWXNBazZ2cEpKWUxYTEJGZDRPbFBKWEhxaGJKcUNLMzFya1R6bS1NVkVwZi1uQTh5U0s5dnprcHB4cGo3U1l4NTVrMXdxa0JYOURFNHoxcHpfZjZ3Rm8wb1g5MGRTc0dsdFhwSS01SFJlNlg0cGRXZ3BIR2NsWmlHY284MnZfblRIQ1VjckNBVnl3Z3N3WmNDcFZrUUxMZ055WThRS3FEcExXcThINHJBakNhZnI2SE9fNEl5eEFPNzFsVmNxUGdSVy1zaEY4LVdwRUNNQ1h2VWk1bjRxSDFOeG00QjlQXzRMQjdyVmZ0a08?oc=5",
-   "date": "Fri, 27 Nov 2026 09:27:00 GMT",
-   "vu_le": "2026-11-27T20:50:37.004982+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China Stocks Jump Most in Two Years as Beijing Backs Market - JournalArta",
-   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcU1FTTAyOVRNMzVzei1wUktwSzJxbHo5ZjN6Y19OTE5NbFhtVWFGQmR0cUVmb2tUR2RobVhuMGV0VlZGUE9QRUlZTHU2T1RaZjY5aVQyV1BYbW9KQ1pNQUppMzFuakl5dmFJMjJDWjU3X1RyNW85QVl0c0VMWGxKMXBYNW9ZaTR2MlN2YjctUHdmSnBpRlVyNGxJZ3NJcENXVzZLWklVcVZPOW8?oc=5",
-   "date": "Fri, 27 Nov 2026 15:32:40 GMT",
-   "vu_le": "2026-11-27T20:50:37.004982+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Altria Weighs Cash Bid For Imperial Brands Ahead Of December 24 Deadline - Pulse 2.0",
-   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYUFjUHBXeTNBU3VxTTd3NFJ4OXVsMGZwU3A2TmJacUZHZ3dJTk1Dcklha2RWY3pKa0VkQW05MUZWMDdhNTNMTk0wQlFzem1MRGIyc0RDaTRhWjlyS3RFZW9NWjBKQ3hibEtjbUQ1TmM4bk1tc0tycTdWYXlqLTJxT2RDeUYxOFRPSHJ5NTJoeU1zUU5yM2cw?oc=5",
-   "date": "Fri, 27 Nov 2026 20:01:26 GMT",
-   "vu_le": "2026-11-27T20:50:37.004982+00:00"
   }
  ],
  "erreurs": []
