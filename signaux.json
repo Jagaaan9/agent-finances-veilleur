@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T03:40:35.578108+00:00",
+ "mis_a_jour": "2026-11-28T03:50:35.244827+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54778,
+   "prix": 54769.57,
    "devise": "EUR",
-   "jour_pct": 0.08,
-   "mois_pct": -24.81,
-   "volume": 3.53377034,
+   "jour_pct": 0.06,
+   "mois_pct": -24.82,
+   "volume": 3.66720921,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -337,7 +337,7 @@
     "mois_pct": 8.71,
     "volume": 612008,
     "volume_relatif": 1.16,
-    "capitalisation": 13865439736.314001,
+    "capitalisation": 13865439736.314,
     "per": 13.9,
     "bourse": "OTC",
     "secteur": "Finance"
@@ -3656,6 +3656,34 @@
  },
  "actualites": [
   {
+   "sujet": "Résultats d'entreprises",
+   "titre": "How Earnings Beat At Otis Worldwide (OTIS) Has Changed Its Investment Story - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSlg0ampwX3Y3QXpJNmYxOEF2a21ZMTlRRkVDVm9zdDdHQlVsazFHSXFqcWNDc0NjcHdQRVkwcHluTjFEYWhobFJKdVc0VVlTeFRwa0N3TGc1dGFmeUw5ZVFyYXM1SDJabjJfSHBKNVJLaDFDemp1eDRlNnRjaVlwM0J3LTlTTWV2aEdDTHlhVmVSZDMwQTQ0Ti1jSHBSNlYyTlotVk9EZm1PS2s4eEE2MDk4UWF6UVlFc3o3M0R3QXFVOHNpcmpDeGpiUGxwVm5jRkFuTmtEUdIB1wFBVV95cUxNSlg0ampwX3Y3QXpJNmYxOEF2a21ZMTlRRkVDVm9zdDdHQlVsazFHSXFqcWNDc0NjcHdQRVkwcHluTjFEYWhobFJKdVc0VVlTeFRwa0N3TGc1dGFmeUw5ZVFyYXM1SDJabjJfSHBKNVJLaDFDemp1eDRlNnRjaVlwM0J3LTlTTWV2aEdDTHlhVmVSZDMwQTQ0Ti1jSHBSNlYyTlotVk9EZm1PS2s4eEE2MDk4UWF6UVlFc3o3M0R3QXFVOHNpcmpDeGpiUGxwVm5jRkFuTmtEUQ?oc=5",
+   "date": "Sat, 28 Nov 2026 02:12:58 GMT",
+   "vu_le": "2026-11-28T03:50:35.244827+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "Did ES|QL Data Federation Just Shift Elastic's (ESTC) Investment Narrative? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcnF3QXM2TldFbWdRSkpLMVh4LThhbzdBTkEwRENuZG1STGRfX21CeWlYMlpXZmNQTVJ0N21iamxJTzFxdUhuSmJNRm1HWnNSMEpFdnd2aGVTU21KdTR6Vk5BZU43cXpGdzdMbW5MOFhnTEt2d1MzdGgwYm93Q2lxeTV0MzYxeEtaaTBGVjE0MFVhVHFW?oc=5",
+   "date": "Sat, 28 Nov 2026 01:16:00 GMT",
+   "vu_le": "2026-11-28T03:50:35.244827+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Petrobras shares rise 11% on Lula finance minister appointment - scanx.trade",
+   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTjRsbEctamhfMlRkYzN4Wkg0LVVMOF9pRUsydkpZOE1XTXp6Q05xQm5TQ0ZDMVJKbXY4ZldhY1VReUFPUE9VRW1MejNkTTU1Nm1RaGZqTDdfelg3U25ueUxHNVNKUk1wYzV4Rm1pQzJzZkhDdXoxOHB6ZnFrNnJrVkE1VmVJeTlYMEhlZE5tSEJ5dlF6MkQ4UkYwOG9LRTl6ZUJSUHZUQUgyYl9oYU9EUzd3?oc=5",
+   "date": "Sat, 28 Nov 2026 03:46:02 GMT",
+   "vu_le": "2026-11-28T03:50:35.244827+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Tata Steel-Apollo Deal Tests Power of India’s Minority Investors - Bloomberg.com",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTEpmMmwySUNyVnNxRENMVE9XQzdhRXV5bjVHWXFJdWk0RUpqek9RUnFDLXVDSm1INFktZDBvSWVpWm5zNG1HWlBDUFlzVFhBY1RCZXBqN05YSmRJQUY3YnZWd19DdlptVXpRTVJOUTdNOFlRaGR3eGt2VEtCb2Z3Rl9iZUpzc1hqZ1V2YWxfcmgtU0UzNFE2X3BjcXQwYjJkVXM5a2NBVlUtY0k0MWVsbURJMTdQdw?oc=5",
+   "date": "Fri, 27 Nov 2026 09:13:54 GMT",
+   "vu_le": "2026-11-28T03:50:35.244827+00:00"
+  },
+  {
    "sujet": "Banques centrales et taux",
    "titre": "Le dollar profite de l'appétit pour les actions américaines... - Fortuneo",
    "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTkk3MXZUR2ZCbmFtNzVxTkthaUlkT2hfa3VjanhPZTdmdS1mTS00VDJLOVF0Q3BoLXVjWDNVakJpTU90N2VrYnA4Wl9FdmJYLXNTQXhsUkJzQnhwZURwaDNQX0lLQ1puV29ZVlZoRTE2aEQxMnZBZ0dVbVpTVjNsaWpIMGU2VVRfeFBwTV9VQlQ4UkM3aTlQN1VYWjNieEN4VWdGeExzNDMzOHpzVHfSAa4BQVVfeXFMTk5JNzF2VEdmQm5hbTc1cU5LYWlJZE9oX2t1Y2p4T2U3ZnUtZk0tNFQySzlRdENwaC11Y1gzVWpCaU1PdDdla2JwOFpfRXZiWC1zU0F4bFJCc0J4cGVEcGgzUF9JS0NabldvWVZWaEUxNmhEMTJ2QWdHVW1aU1YzbGlqSDBlNlVUX3hQcE1fVUJUOFJDN2k5UDdVWFozYnhDeFVnRnhMczQzMzh6c1R3?oc=5",
@@ -6426,34 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qbW1fUWZub0hPUkVET3ltanBySHc4eFlzMGN1VFFNZVUyVzdNYWFmWUUwZDdMNDRhaV9YT1ZLMWVsZEhLWnlhVGRWZFBfVFJheWpOM0txcXdTc1ptLUlZbC1XM3RCbnM5NEhXaVFWNHMxYlNEZXc?oc=5",
    "date": "Fri, 27 Nov 2026 13:16:40 GMT",
    "vu_le": "2026-11-27T13:50:37.515143+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic stock gains premarket, reclaiming IPO price - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUJINUQxbGJMMFpRbjJDTUVPVUtMSEFiODljdmJNbWwzUUg3cDZxbWpTTnBWVmMxSERmdTJnakpNTDdmQXhvdTFqdTRoa3A1S05EOW5xdWhkM2p3UkI3SEZkcmd5VFBhcXczTEFDbDRNQ1lrS3lSc21lTHdRSGlSVm9kUDlFa1lMRjlsdFFrSUdubEF2Ny1ObkdzWVhndTRJUmppM19DZHBHTGVvMnM5RWREY3BGZw?oc=5",
-   "date": "Fri, 27 Nov 2026 12:50:12 GMT",
-   "vu_le": "2026-11-27T13:42:52.350947+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Broadcom Makes More AI Money Than AMD—So Why Is AMD’s Stock Crushing It? - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSVlVaEZQaUJpeFNkUWc0MEEyQ1dWUG5vSDdYY0NQSkVPeVJBS2o2X0NFM0JXcFg1NWlTRkQxZVdFb2tzN0wtZ09QWDVrWm40eEJTaVVmaUNPMFY2cXRhOFR1Ml93eE9oVWtJY2sxMkhQc3FJamJqX0ZQMGpCUkJsWlFsam5EZTR0VUNmeW1YWGNzNy1sWVZ2dzZoeUU3SWZ0X2kzbTNoRnpPeklIeTlidS01dnI?oc=5",
-   "date": "Fri, 27 Nov 2026 12:15:00 GMT",
-   "vu_le": "2026-11-27T13:42:52.350947+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "US stock selloffs trigger a new kind of dollar bounce - KELO-AM",
-   "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPazRING5maEE3ZHVLZjJ0X2MxdERWUVhYak9IenoxeUFzMWlvZWtRaXBEbDZIcmhmZE9XOVdUTkR3YTc0ZGNINEZ2UkxBcElwN0hYMWRwWEVfc1UzdGdhNHpvYmFXeEg3eHF6V3FQNGJrVXRqd095dDZHcWljbVFnY2Jva2VMX2NvTmc?oc=5",
-   "date": "Fri, 27 Nov 2026 13:35:29 GMT",
-   "vu_le": "2026-11-27T13:40:35.899457+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Chinese firm develops hi-tech fire suit for robotic dogs - South China Morning Post",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWlOdnBKN1RPT0tDdDRBWEFnS2xNTUsybmtWRGxOUlRGRy1GeWx3cHZmNld5emcyS0JmLWR3ZEFGSmJrbzJ2NGQybGNhaGplYzEzUDhkTHF4aUppWUlFbUJiZEtfeDdzZjNiWmVxQ0NlckhPVGRkMndmM1VQZ2ZTWmpDb0lBek1fMk1QZk1GaWZhVzNqSEtIMkZka3hUbFU?oc=5",
-   "date": "Fri, 27 Nov 2026 08:38:06 GMT",
-   "vu_le": "2026-11-27T13:40:35.899457+00:00"
   }
  ],
  "erreurs": []

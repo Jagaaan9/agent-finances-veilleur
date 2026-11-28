@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54778 EUR, jour 0.08 %, mois -24.81 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54769.57 EUR, jour 0.06 %, mois -24.82 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -26,7 +26,7 @@ POSITIONS ET INDICES :
 - Arqit Quantum Inc. (NASDAQ:ARQQ, secteur Technology Services) jour 24.12 %, mois -23.53 %, prix 13.765 USD, capi 239544183.70378724, PER None, volume x2.79 la normale
 - Cosan S.A. Sponsored ADR (OTC:CSANY, secteur Utilities) jour 23.5 %, mois 46.7 %, prix 2.89 USD, capi 2684552500.0810003, PER None, volume x6.52 la normale
 - T1 Energy Inc. (NYSE:TE, secteur Producer Manufacturing) jour 20.0 %, mois -47.41 %, prix 1.32 USD, capi 396794030.40000004, PER None, volume x0.42 la normale
-- B3 SA - Brasil, Bolsa, Balcao Unsponsored ADR (OTC:BOLSY, secteur Finance) jour 19.24 %, mois 8.71 %, prix 9.11 USD, capi 13865439736.314001, PER 13.9, volume x1.16 la normale
+- B3 SA - Brasil, Bolsa, Balcao Unsponsored ADR (OTC:BOLSY, secteur Finance) jour 19.24 %, mois 8.71 %, prix 9.11 USD, capi 13865439736.314, PER 13.9, volume x1.16 la normale
 
 ÉCRAN États-Unis : plus fortes baisses :
 - China Rare Earth Holdings Limited (OTC:CREQF, secteur Non-Energy Minerals) jour -99.4 %, mois -40.0 %, prix 0.0003 USD, capi 249164874.53868002, PER None, volume x11.65 la normale
@@ -310,6 +310,10 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Résultats d'entreprises] How Earnings Beat At Otis Worldwide (OTIS) Has Changed Its Investment Story - Simply Wall St
+- [Résultats d'entreprises] Did ES|QL Data Federation Just Shift Elastic's (ESTC) Investment Narrative? - Yahoo Finance
+- [Pays émergents] Petrobras shares rise 11% on Lula finance minister appointment - scanx.trade
+- [Pays émergents] Tata Steel-Apollo Deal Tests Power of India’s Minority Investors - Bloomberg.com
 - [Banques centrales et taux] Le dollar profite de l'appétit pour les actions américaines... - Fortuneo
 - [Rachats et fusions] VEEE: Twin Vee and USFM post merger-related social media notice - Quantisnow
 - [Crypto] 4 Scary Bitcoin Charts That Suggest This Bear Market Is Different - Yahoo Finance
@@ -455,8 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Banques centrales et taux] Le dollar profite de l'appétit pour les actions américaines... - Fortuneo
 - [Crypto] Cathie Wood trims crypto stake ahead of birthday - Yahoo Finance
 - [Crypto] BTC Price Prediction: Whales Add Over 120,000 BTC - Bitcoin Foundation
-- [Crypto] Bitcoin or XRP: Which Is Closer to Getting Back to Its All-Time High? - 24/7 Wall St.
-- [Anthropic] Anthropic's stock jumped 11% and once again surpassed its IPO price - Oninvest
-- [Bourse de Paris et Europe] STMICROELECTRONICS Cours Action STMPA, Cotation Bourse Euronext Paris - Boursorama
-- [Intelligence artificielle] AI Chip Stocks Swung Wildly—While Warren Buffett’s Apple Climbed 26% - Investing.com
-- [Défense, énergie, matières premières] Palantir Stocks Climb 3.72% on $300 Million Poland Def
+- [Crypto] Bitcoin or XRP: Which Is Closer to Getting Back to Its All-Time H
