@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T03:00:38.564323+00:00",
+ "mis_a_jour": "2026-11-28T03:10:36.509900+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54793.7,
+   "prix": 54802.32,
    "devise": "EUR",
-   "jour_pct": 0.11,
-   "mois_pct": -24.79,
-   "volume": 3.44663306,
+   "jour_pct": 0.12,
+   "mois_pct": -24.78,
+   "volume": 3.48969931,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 8779940033,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 8779940033,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Bitcoin glisse au milieu des nerfs tarifaires américains alors qu’Anthropic tombe en dessous du prix d’introduction en bourse - Journal Du Token",
+   "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTmM2NEx1WmhXQndxdHd4OXhKRkFiZ2t3elJvUTdNb1ltSmI5cG4yeDEyS0d6UExaRDVsY1lGd1YxeE5OaXVUazBnbklOYnZmR2l3ZVBPTXJGR1J4YkM2Qm00NkZ5bW9jWFA5MWJjMlNYMlZCTnJPZWJmNU5qbk9mSWlRRm1vZUxTel9XVW9NMTQ1S1JtVzJwWUVJeGY5dF9LUERBa0RFS0FhNjJIalNtSVhkV0FVeWFkb2ZYaXQtTENUakowOWdZcklSekdJTmdkMWlRZXM1c0cwVEJZTUlKVGtYRVFtblN4dVhCTlEzVm9OZUhXalE?oc=5",
+   "date": "Fri, 27 Nov 2026 14:22:29 GMT",
+   "vu_le": "2026-11-28T03:10:36.509900+00:00"
+  },
+  {
+   "sujet": "Résultats d'entreprises",
+   "titre": "How Earnings Beat At Otis Worldwide (OTIS) Has Changed Its Investment Story - Simply Wall St",
+   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZkZmWXFQUG85QWwteHVBNV9jVkRid3JLTDFUNEVJZGVEd0hYV2ZMcHBZNkZLNk5feXdZWWoyRi03Y1ROUVAyVlFUZm52S2RzdTJnQ2dOaFlwd0V6RFhnY0x5bUhBUFFFUEtFbWJzNlFGSUxzbmNkczgtWjlYQUR6LU1QU0J1TTJ6NEtHaEo1N05PY3JOVXRlX2FXLWJqeHJEanZHZ2xJLUJjaGcxdGxaQ0hJeldqRmtoT1ozSnlDVG5vUktjRTR0aXFOWGtwVU5jcFHSAdcBQVVfeXFMTUpYNGpqcF92N0F6STZmMThBdmttWTE5UUZFQ1Zvc3Q3R0JVbGsxR0lxanFjQ3NDY3B3UEVZMHB5bk4xRGFoaGxSSnVXNFVZU3hUcGtDd0xnNXRhZnlMOWVRcmFzNUgyWm4yX0hwSjVSS2gxQ3pqdXg0ZTZ0Y2lZcDNCdy05U01ldmhHQ0x5YVZlUmQzMEE0NE4tY0hwUjZWMk5aLVZPRGZtT0trOHhBNjA5OFFhelFZRXN6NzNEd0FxVThzaXJqQ3hqYlBscFZuY0ZBbk5rRFE?oc=5",
+   "date": "Sat, 28 Nov 2026 02:12:58 GMT",
+   "vu_le": "2026-11-28T03:10:36.509900+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now - Yahoo Finance",
@@ -6439,20 +6453,6 @@
    "titre": "Les hausses de taux de la BCE insuffisantes pour atteindre l’objectif de 2% - Investing.com France",
    "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdnlrOG1qSmNWZjdpcjJPSUNwNURkTlBIeTlTRFNITDd3VnpMT2dldGdWRFJkaTFDdXhGREowMWxQRHp4bGhwOTFVekp4Qk96QndkNFRZM082cVVKYXdNQ3ZNRGhaa1VXXy1zRlljNWRoNEdMWThhcGNXUlctN0dCdngxeWVfNEJSc0tzS0dKaWE1X2x6MmEtSFJoWHJrZmtHd1pRbDFhSVRzejlrSVlQYW50dnRUczhnUmxPeDhUQ2NEUQ?oc=5",
    "date": "Fri, 27 Nov 2026 13:02:00 GMT",
-   "vu_le": "2026-11-27T13:30:36.274648+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Kospi jumps 4% and China stocks rally as Beijing pledges market support - MLQ.ai",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM2tSMTRtTVZZVFAwNkVBbld2TkpQenB2Q2E3NzZha1lLNzhSQl9lTHZjT0x2cDRLYUxNRUttTG5NMkdESzlrOHVLWnFVMk11eVR1bVFBaWRLQUp3V0o5b0M5V05rVUpqWGRGVGlmcmNRV0dZYVVqVVp0ZHlIVS11RGNEeTMtQVN4NkJoS2hSa0J6cmRUZ0E?oc=5",
-   "date": "Fri, 27 Nov 2026 08:39:00 GMT",
-   "vu_le": "2026-11-27T13:30:36.274648+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia's advanced AI chips found at data center in China - Gizmodo",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV2NzQXdmVXpOU1FuSE1ZTTJBWEV6OHJJLVJGRFZqTTB2VWdzTENXY1NfNFdSYXN1SzJYUU1FbWIxWGN2WVoxcUlHUFBicDB5am9WOGItR3RjYXdPTjdwYU5ZcUlZbUJfNjBlQ2NjbHhhcG16TDdoaE82Tzg0WjJrRTdTTjdyX3JycWQ0R3FZWkNpNElEYVZ1eGtNbkVxUWt6ZWpaYzR0VmZ6d0J1RnNJ?oc=5",
-   "date": "Fri, 27 Nov 2026 13:02:55 GMT",
    "vu_le": "2026-11-27T13:30:36.274648+00:00"
   }
  ],
