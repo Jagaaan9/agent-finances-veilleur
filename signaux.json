@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T05:10:35.584469+00:00",
+ "mis_a_jour": "2026-11-28T05:20:35.865220+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54586.78,
+   "prix": 54626.29,
    "devise": "EUR",
-   "jour_pct": -0.27,
-   "mois_pct": -25.07,
-   "volume": 4.14306108,
+   "jour_pct": -0.2,
+   "mois_pct": -25.02,
+   "volume": 4.31920495,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -3656,6 +3656,20 @@
  },
  "actualites": [
   {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "The Roadmap Ahead - Seeking Alpha",
+   "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EWFB4WlRTcG9ybWpzdFNTaEZZbHpUaFp6emFXWGMzVE5jdHFfUlo5ZERRUmQ0a0UybU1jRERYNExCeFlIc0lKVG1LRnhVY09jbVQxSFQyMnl1SUVqQVRtb0NFTlE?oc=5",
+   "date": "Sat, 28 Nov 2026 05:05:00 GMT",
+   "vu_le": "2026-11-28T05:20:35.865220+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Defence stocks set for fresh rally? BEL, Solar Industries, HAL - Motilal Oswal names 3 shares to buy as big orders loom - Livemint",
+   "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNWlvbWNXWTRFajJ4ekNEc05aSEZ0MmhvT2d0WFJxb0phMVl2SEFwWTFaXzBpMHVuenFiQzVHQWZtUlAzangta25wTmZXcnlMYXBxamdWOGNLU1JrdnNNT3ZTS1JRcWdDNlhQQkxHY1hUMzBMNDlOZGREcDU2bE5uS0JWSGZjNERIZEtGZG10eVNvbXZpdGdCdDBGOWxzNFhoVjhfZDJLazhmenJLeDlUZlNxQkpucFlMRk9VOEdrc21Obm0tYzBaVGxMSVZVZ1BndzNYN2ZIZkR0M3lFN0N0OU9iR3ZpdEF1TzVsclZVWG9TOXdqeWxxNS1kZkRTcUN0dUkxMW5kYVNRY1JVMVpQNTNB0gGXAkFVX3lxTE5lVWJWNlZfbHZnV2FCUE9KZ2hTQUVRMXIzcmMwVHRsSUg3R195WnVGdDZFLU5zX2FqNUs5M1puMUFQbmpoNDZTUjF1eDkxVWRKWE9MY19SOTZTeDFZMENsazBJbDI2YlJMak8ydzlMQ19DNkZ1YzkyOVBlbUo0Q0tSMnZxSnlEX3VaeDNHQUw5YzE2NXFuZnVkNkZPR29zS0ZnR1VhSDNBMHJYWkloSGVYRGIyQnI3VFpKSVZyU2FNN3lDeFNRQU9tZWM0Sm5qTDRjSnRVU3RHSFJtT1pPMm9ZUVBhbVdSaW9KeG1JcWhnQVpCenFkRjhFU2JJOHVucFAyejc3LWZwWlp0WUFSTFh1bUV0Uk9LZw?oc=5",
+   "date": "Sat, 28 Nov 2026 05:00:46 GMT",
+   "vu_le": "2026-11-28T05:20:35.865220+00:00"
+  },
+  {
    "sujet": "Pays émergents",
    "titre": "Ruchir Sharma: Why the World Is Betting on America | Podcast | In Good Company - finance.biggo.com",
    "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HcWoyQ01fNzVPWmNSWExfdUoyMUw0bVdITkJtVnlETzlsSVlwblZZWXRhWVg1RDdWWW5mbnFONU0zWlJiajNpcVNRWGktZEVEeWNFM0JDbUkwNlJXWERn?oc=5",
@@ -6439,20 +6453,6 @@
    "titre": "Fire Sale: Here's Why Now May Be the Perfect Time to Buy Nvidia Stock - The Motley Fool",
    "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPelI5QmYxOVVWWEh4SklrdkNoMFpYZlVJOE4yZzE1WHVySWRucmJ1TUd1ZjUxV0Yzdm5aY091ZUlrenlsRUh6YkhzVVBxcWREeGl3V29ZUF9qY1BrcnRSMlp1MEpFSUtlUzFrdEFzY0dEdVNJNjdmWEdFOFhwVGZsYTVNbXNBTlRpUGgxTmpRZ2ZlM21MT01TbFhrMWVDYTJndDVWX0M2Y0NjNm5nVldPMg?oc=5",
    "date": "Fri, 27 Nov 2026 14:18:02 GMT",
-   "vu_le": "2026-11-27T14:30:41.530524+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin Signals Capitulation but Don't Mistake It for Buy Signals, Analyst Says - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRDlKN3h4M2ZTZ3FpQWxMTGRORkhWemx5YllaUHYyV3QwNmNRNEFCd1dkeGt3WDNqV2VxeGFPQWlMWXlENV9pZEVqeDNxLUNmQm13NWc4dVA3VTBFa3ZDV0FGZGVBWUp5dkxtMW43WXVVME14Y3dPUjZ1a0V6dkl3elBJOWR5Q2JVUHJ2aW9uakdrRG1XLWhVdWowWGpGU21KWEt2dF9BcVR3UTZxYWFUM2dXaVRXbXpQSWxFbHhEQk1ZbkJhMm1NaDBBQ2ZaVkU0bGNHNmJB?oc=5",
-   "date": "Fri, 27 Nov 2026 14:00:10 GMT",
-   "vu_le": "2026-11-27T14:30:41.530524+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Bitcoin News Today: BTC Rebounds 8% – Is The Worst Over for Bitcoin Holders? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcVl6ZUMtZWF1eWN6UGU5V1lWeG5XeXlGNmRJN1RaMndTTVV2bU1STmZrdWZWd0x3eVJRY0R2VW50bWc5YUlxMWZseG1fdzBEXzItcFc0M2xzb1VkNlZoRFByYXI0Z21fM1AxOUtRaHNDcWpjV3FiSnQwNTB3eG5XV2lJODR1R25CYjdfY0lMUXp1ckhidWdFdk44QmY?oc=5",
-   "date": "Fri, 27 Nov 2026 10:44:10 GMT",
    "vu_le": "2026-11-27T14:30:41.530524+00:00"
   }
  ],

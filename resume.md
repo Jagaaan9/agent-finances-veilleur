@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54586.78 EUR, jour -0.27 %, mois -25.07 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54626.29 EUR, jour -0.2 %, mois -25.02 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -310,6 +310,8 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Petites valeurs en croissance] The Roadmap Ahead - Seeking Alpha
+- [Défense, énergie, matières premières] Defence stocks set for fresh rally? BEL, Solar Industries, HAL - Motilal Oswal names 3 shares to buy as big orders loom - Livemint
 - [Pays émergents] Ruchir Sharma: Why the World Is Betting on America | Podcast | In Good Company - finance.biggo.com
 - [Intelligence artificielle] Nvidia's Huang Return Puts Five Indian AI Stocks in Focus - Industry Odisha
 - [Rachats et fusions] Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank - Quantisnow
@@ -457,6 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Rachats et fusions] VEEE: SEC Form 425 filed by Twin Vee PowerCats Co. - Quantisnow
 - [Défense, énergie, matières premières] Canada Is Boosting Defence Spending – The TSX Stock Worth Buying Now - The Motley Fool Canada
 - [Anthropic (FR)] Bitcoin : Le cours chute sous les 59 000 dollars alors qu’Anthropic rebondit en Bourse - TradingView
-- [Marchés mondiaux] Brazilian markets rally after Lula taps Bradesco chairman for finance chief - Yahoo Finance
-- [Pays émergents] Emerging markets grew. Their investors didn't. Brazil is fixing that - IT Brief New Zealand
-- [Défense, énergie, matières premières] Gl
+- [Marchés mondiaux] Brazili
