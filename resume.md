@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54854.52 EUR, jour 0.22 %, mois -24.71 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54801.51 EUR, jour 0.12 %, mois -24.78 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -226,8 +226,8 @@ POSITIONS ET INDICES :
 - IX Knowledge Incorporated (TSE:9753, secteur Commercial Services) jour 0.9 %, mois -5.09 %, prix 1342 JPY, capi 12613998051, PER 7.4, volume x8.8 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 834986797, PER 28.6, volume x17.7 la normale
+- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (BSE:GOYALALUM, secteur Distribution Services) jour 20 %, mois 26.49 %, prix 7.02 INR, capi 834986797, PER 29.1, volume x52.33 la normale
 - Waaree Renewable Technologies Ltd (NSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 23.4 %, prix 825.7 INR, capi 71797243279, PER 18.5, volume x233.67 la normale
 - Waaree Renewable Technologies Ltd (BSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 22.52 %, prix 825.4 INR, capi 71797243279, PER 18.5, volume x128.17 la normale
@@ -310,6 +310,13 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now - The Globe and Mail
+- [Anthropic] Anthropic Stock Tops IPO Price After Volatile Week - Briefs Finance
+- [Pays émergents] Managing volatility in emerging markets - UBS
+- [Pays émergents] Bank Indonesia Focuses on Stability as Rupiah Falls - Briefs Finance
+- [Pays émergents] Prabowo enraged seeing Indonesians fall victim to stock manipulation - IDNFinancials
+- [Pays émergents] Micron Share Price Closes at $646.95 After 7.60% Rebound - JournalArta
+- [Crypto] Binance, IWF Team to Flag Crypto Child Abuse Payments - Briefs Finance
 - [Anthropic (FR)] L'introduction en bourse d'Ambiq a permis de vendre des actions à 24 $ ; 1 000 $ valent maintenant 1 550 $. - FourWeekMBA
 - [Crypto] Crypto Fundraising Recap: $405.2M Across 36 Rounds - shattered.io
 - [Anthropic] Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now - The Globe and Mail
@@ -453,8 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] SOL price on Nov 27, 2026 at 4pm EST Crypto Prediction Market - Robinhood
 - [Anthropic] Anthropic Stock Surges as Tech Rebounds from Selling Pressure - TradingView
 - [Anthropic (FR)] Wall Street termine en hausse une séance écourtée, portée par l'IA - Boursorama
-- [Petites valeurs en croissance] Zhejiang Expressway (SEHK:576) Stock Looks Undervalued On Dividend Strength - Yahoo Finance
-- [Défense, énergie, matières premières] European stocks regain momentum with broad gains for indices at the end of the week - المتداول العربي
-- [Anthropic] Anthropic’s IPO Hangover and the Worst Acquisitions Ever - The Motley Fool
-- [Banques centrales et taux] La semaine à venir à Wall Street-La volatilité des marchés boursiers sera mise à l'épreuve par les chiffres de - Boursorama
-- [Rachats et fusions] Organigram, Aurora File Joint Management Information Circular in Support of Arrangement Agreement to Establish a Global Cannabis 

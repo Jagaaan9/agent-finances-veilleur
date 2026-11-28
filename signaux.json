@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T02:40:34.755122+00:00",
+ "mis_a_jour": "2026-11-28T02:50:38.393856+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54854.52,
+   "prix": 54801.51,
    "devise": "EUR",
-   "jour_pct": 0.22,
-   "mois_pct": -24.71,
-   "volume": 3.42121752,
+   "jour_pct": 0.12,
+   "mois_pct": -24.78,
+   "volume": 3.43799247,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 8779940033,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 8779940033,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOZ1htcVJwM2tQQ2NlakZPN2l0TXRKOEQ0MFFGT3JPQ3BXMFUzNlNSLXJ4UFhxUzk1U0R6ekZyZFdzcklrRy1pRk9RbVVUQzFvTzNKZEs3dFJEck5oelJ6SVBOYVJVXzB0OTZDWTAxNmlUVm96ajVEb3JSX0Vvb3RsVmhSdXN0UldTbHpoVVlSMHlWOEtNdzBaRDJEYnNWZnYzaE5SaEhXaHNhRW41NlRnTG1CU3VtSElYY0RCMVJqaXBPOE5LaFFvVXh4djEyal9qcDJWOWg5anBNSHVadUNMaFhYVW5DYUNBLTk3LUVzSE5OQlo5RWp1a3lZZUZmYWFRNjc4SnF2RzFXU0FIanFCSDFkLTdfZw?oc=5",
+   "date": "Sat, 28 Nov 2026 02:35:07 GMT",
+   "vu_le": "2026-11-28T02:50:38.393856+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "Anthropic Stock Tops IPO Price After Volatile Week - Briefs Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX1RyMlhERjZwTklTM182djJPSFpyYm53YUxYZEpoVkNSeHBvSzdTdUJmekhtUlZjLVBYdHJMUll4azlqZnhNQllvSUEwVlp6NndIZE11bjF4TmFzSDBWcDF6bk42OHFVRkpJaDhoSEZwbFFlcVpXYUw5ekxwVzl2YS1wVmFLNm5aS1E2QVp6X2ZDQQ?oc=5",
+   "date": "Sat, 28 Nov 2026 02:29:16 GMT",
+   "vu_le": "2026-11-28T02:50:38.393856+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Managing volatility in emerging markets - UBS",
+   "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3VDQXVQZFNaNUN4Q3J2Yzc4UnFDZmU2RDkxeWVOaFlmdjBVOGx3S3JSTl9qOG9KbklOWUZsc3JpSW5YNFo5dkdWRHNSWEtROTJHNktpTzNxTzhoV2dCb0t0dDRsYU5ycnFxMmxhQVR4N2Zzc1A3SEloeHJUUkRSalBsWDFqT1EzTVpKdUN0ZHVEeG84SFAxYVhSTVl3U0dHU1laOHI2RFVaQmoxeG1OQm5PSkVKcWFIZFE?oc=5",
+   "date": "Fri, 27 Nov 2026 05:18:38 GMT",
+   "vu_le": "2026-11-28T02:50:38.393856+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Bank Indonesia Focuses on Stability as Rupiah Falls - Briefs Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUVFnYWNfbHN0ZEVkcm50ZWI2UzVqX09Ya1lwS2tnZ0tDUTgwb0ZMbl9SelREaFh2VWVLUXc4a01BYmxlVm1ubklzMlVYb20wTEFyYm91QTZYcTZ4RDBueEZURkY5T0ptRjlnTGFONTZhWUJjel9XcUVXalAweU1fLTZxR2Ezd0VQRzV1dF9haDhzZw?oc=5",
+   "date": "Sat, 28 Nov 2026 02:29:09 GMT",
+   "vu_le": "2026-11-28T02:50:38.393856+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Prabowo enraged seeing Indonesians fall victim to stock manipulation - IDNFinancials",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXZqQXZ1cVUyaGM1emJwVUo5SVFBSHZ3RzVXUm5xQm5jUk1qN1JYaWJXbGlPQS14R0VNdkJ3WnpDOTY5bEdPQTZLc1NzMjRmclpUWENZeXYzRWE3ZXd3NEtlOEJBNmFzeGxITTQwQm1iQlM3Vjg3UzJIU3M3cEhWWmdycWFHbVFkQW9HcFp1a2tGNzk3QWVpdTNLVGh1dUluNHhTa3JqQ2ZMYUlQUkE?oc=5",
+   "date": "Fri, 27 Nov 2026 14:20:00 GMT",
+   "vu_le": "2026-11-28T02:50:38.393856+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Micron Share Price Closes at $646.95 After 7.60% Rebound - JournalArta",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRFZBUXVfLXVDd25NaHNfX0p1emNXcm5QQlBaelVESHRNbnZKQUxFYlBsSUxfNGhmNERqMG9RN0hGWTY0WHdMWkhhd2llN2F3Z3FMMjRlUVROUlpRRW1QZDhHZTdYRXVZYWFPSFgwSnZDd1BhMmdxUUZ3REpBdHUzQ0U1bXZxMEpsWmdSOGRrZVVRNnNsdTloNGRJMW4wemtXS0d2SQ?oc=5",
+   "date": "Fri, 27 Nov 2026 21:41:33 GMT",
+   "vu_le": "2026-11-28T02:50:38.393856+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Binance, IWF Team to Flag Crypto Child Abuse Payments - Briefs Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUU5OSGVxRk9oQmZLa0tucUhCa2dLQnJWWW1XcllVVE02YjVQT0N1elZfal93M2pFRkt2V3VDWkh3cHNCZEc4YU1ORFQ4ZDZjM2VfaFhDWGtvSTBtb0pnWEl5RC1KeV95OG96SGd1WFdheDRJdkZ5WU5OTTVoVUc0eW1aeHdCbFMzTlh4MHBQRmhKZw?oc=5",
+   "date": "Sat, 28 Nov 2026 02:29:11 GMT",
+   "vu_le": "2026-11-28T02:50:38.393856+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "L'introduction en bourse d'Ambiq a permis de vendre des actions à 24 $ ; 1 000 $ valent maintenant 1 550 $. - FourWeekMBA",
@@ -6405,55 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GMm1RT1VxYXE0YldiVmpUNXVEMDhnSF96MmxpQXEwdTRRbW9tcGRwcDZWZkxVUS1ZU1A1QTlxRHRLRUwtTUJQVnU4NFhkNWVzclBYb1Uzak84Zk5BX1RRa1V3?oc=5",
    "date": "Fri, 27 Nov 2026 13:15:00 GMT",
    "vu_le": "2026-11-27T13:30:36.274648+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 27, 2026 at 9am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSU5ERURjSlNNR2xaYWozeHFjLUFDMW0wWVRiUXU5NEdHUDhHWjFfc0tidUl5WTNYOUh0THZGMnBpRWdtRTRBd1A3aXVfYkIwbE9ZYkdKNlZCMEZCcmNVMkZ0MVVTT19uWENkdVdvaFMwRnBKc1A1dmExUm43X3kzTm5XMFJQSUFYX2wzYmI5RXExNTBoZUZ3UFB2UmVCV0Fhc2NxcEs2ZWRNd3N6b0E?oc=5",
-   "date": "Fri, 27 Nov 2026 13:04:24 GMT",
-   "vu_le": "2026-11-27T13:30:36.274648+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Et si la Bourse était devenue le véritable moteur de l’économie? - allnews.ch",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZmJiZHVrQTQ2UjZHQWxYOXlNY0szdXYwd2JuaEtUcldza2RZZnpiSVpNWGVVRm1WYWljeXZYMWVMa25RLXh0VXZaa3hvc1Y2NUhBb3dqQ2VXc3BHWWs4RDZNd3R6RFRqc3dIRkxJMHBhQUMtMS15WHNhMm5NNVFDdUQ1ZWVLdzg4QjJxbkw5Z3dJdnk3eWlDYmJnY1Zzc1pnLWNmQ213?oc=5",
-   "date": "Fri, 27 Nov 2026 08:53:13 GMT",
-   "vu_le": "2026-11-27T13:20:39.057402+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Klaviyo a fait son entrée en bourse à 30 dollars l'action ; son cours actuel a baissé de 21 %. - FourWeekMBA",
-   "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOemxlRDA3dEQ3cUhoczg4MGNXMHpZeXB1UFpXaXVtT1JndVM0VGFtUFpHLXVGbDNoOS1BekFCSHdTTkxTM2JwSHZ1Z0ptb2Q5cnFuR29BXzZjOURJSm43SDBWT25wdnpXaFFDdDh1REtKUUxZRmM2YlROOU1wcHVhYjNHQjBJZHNud3NNQ3hNU3ZxMWcwUkI4UERUd0taT182OW1sckh3ZzQ0czNzY1NFQzBBZG9GbHlRM0wwQjlpNjZZQmU2empxYmZuSVV3R0E4MXZIcWNpSjB4WUVUc0wzX1BVcmlPZ3l6dklUWFBDX0huZmY2WUxIb2J1eTNDWGpCMXJSRDRoQXpMaHVCWnc?oc=5",
-   "date": "Thu, 26 Nov 2026 19:48:05 GMT",
-   "vu_le": "2026-11-27T13:20:39.057402+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Huawei Computing Chain Hits Limit-Up Wave as Chinese AI Chip Stocks Surge; Iluvatar CoreX and Biren Technology Jump Over 25% in Hong Kong - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mOUdVckd6d0xYcUc1aDMzaEd5d3pqSTQ1N1VKbGJIWDJ0S21vQTVsQ3VnNld6azd4S21nZHB3eUpSSU9JUk1NbG40b0xKcG4zc1R0T1NHa2ZLSEEyWDVkczZCbWJmbjduZGF0VWRCNTRqRjV3RUE?oc=5",
-   "date": "Fri, 27 Nov 2026 12:35:00 GMT",
-   "vu_le": "2026-11-27T13:20:39.057402+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "TradFi News | Hang Seng Tech Jumps 6.45% and KOSPI 4.34% as Chip and AI Stocks Lead Asian Rally - Binance",
-   "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYOEVrdUF1NVo0QVRTV2h1cjJsRFV0OEhfWm9iZ2dQRUZZU24zcUNKMnEwSzhqYTZibklMTHY2MW5mc0FxSHZiUEh5Y0dmeHB3a0ZBOTNGMDA5eFhYX1lOVU5Rd3Q?oc=5",
-   "date": "Fri, 27 Nov 2026 13:08:41 GMT",
-   "vu_le": "2026-11-27T13:20:39.057402+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs? - CNBC",
-   "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQjdINWZib09wZ1lKb185OUpRX2JRYzZucmtBdFVPMGQ5QklxNUsza01hUTgxSGNLcUVSZTVyRXVUZ0F1QTNRX1FQOURJUk5SbE1TT3RaRzEzS0RDcXVJMG0xclBOZUJoeG1ySndOeVVpUno4bktpQ2JMRl9mQ0t1NFlRd9IBgwFBVV95cUxQQjdINWZib09wZ1lKb185OUpRX2JRYzZucmtBdFVPMGQ5QklxNUsza01hUTgxSGNLcUVSZTVyRXVUZ0F1QTNRX1FQOURJUk5SbE1TT3RaRzEzS0RDcXVJMG0xclBOZUJoeG1ySndOeVVpUno4bktpQ2JMRl9mQ0t1NFlRdw?oc=5",
-   "date": "Fri, 27 Nov 2026 12:00:01 GMT",
-   "vu_le": "2026-11-27T13:20:39.057402+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "PAG STOCK ALERT: Kaskela Law Investigates $210 Penske Automotive Buyout; Analyst Price Target of $238 Raises Questions About Deal Fairness - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdTR5WlJ3WGl0blkyTlBuLUpkVFBGcDZmWGFhUlVnT1N0Nk1tSzJ2MjB5VGRNS2VqWnN0RWVBTXdGaHdKbUgwR1kyUTdZRXVLbzhSYlBfYTJGTzhFbTRUMDJOMDdQb0VpV29MYWZmckZaVHJOX1NCekRTOHY0MnVidFd3Xzd0ZE1IOHl1Q3d5bklvMmpFVnBQX3daLTZJS2w4OERwY3NMTVR1djBncEE4N0NmdUlHV0ZicktfM1hxdjVIWHlCRC12dC1YZ1hOVGRRY0dHWjNTLUZoOHhpSnhPdW9CYlVlcDR4akV0NjJETGNvVzF4Nld6R2xlNl95VkNGeC1SZDRVcW5sYVJ1eGtvOE5oaDBpdGhTMGNiWEFZY1E?oc=5",
-   "date": "Fri, 27 Nov 2026 13:01:00 GMT",
-   "vu_le": "2026-11-27T13:20:39.057402+00:00"
   }
  ],
  "erreurs": []
