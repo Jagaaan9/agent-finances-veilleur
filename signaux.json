@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T09:00:37.968930+00:00",
+ "mis_a_jour": "2026-11-28T09:10:35.421672+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54443.73,
+   "prix": 54504.43,
    "devise": "EUR",
-   "jour_pct": -0.53,
-   "mois_pct": -25.27,
-   "volume": 43.81466863,
+   "jour_pct": -0.42,
+   "mois_pct": -25.19,
+   "volume": 44.02495618,
    "volume_relatif": 0.2,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 8779940033,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 8779940033,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "OpenAI et Anthropic bloquent le copiage de leurs IA par la Chine - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95NWR0cWk0aUtqeW9weGNXYkFmSkFka3pGYjRsTFVralBXLWttdEs3SkM5U0JxSWhod2RRbFNfbm5QcFNucHd3cHZUdHRtRDRRVW42Qnk5ekpjenJuTldFbWRqY1pDQThKZkU2MQ?oc=5",
+   "date": "Sat, 28 Nov 2026 08:30:00 GMT",
+   "vu_le": "2026-11-28T09:10:35.421672+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "First Majestic (AG) Breaks Into the Market’s Winners’ Circle. Here’s What Propelled The Rally - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnJVNTVIOFV4S04yeFJ0enlacnYtWG1MTFp3VldrR3Mwc1B1QnVnM0w0bkZaQm04LWhuVnJYSllUQzhFQkxvZnR0b0RFU21HemZoMHhPV1Z2UjhSMHdPbEdHYk9oTlNOdlVxSXB0LWJ1Rl85SFlUZEh2SjgtNFNUa3dTZGhzSG9EWk9KX0FqYVVkQ3FkQUtUZ0hCWi0?oc=5",
+   "date": "Sat, 28 Nov 2026 06:34:00 GMT",
+   "vu_le": "2026-11-28T09:10:35.421672+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Asian stocks mostly rise as markets calm after tech rout - IraqiNews",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVhqeThTYmo1RzBueXhsejM5YUlkR3A3QmVubFFaS01WelBiVTNKZXVtSUx2S09Qem1XUjlDa1BZNkZTNzJNUDJBVnNnOFYxN0J4LTFZUk9fSUxRN3ZubXNaZU1Hb25udXlfdW9uLUJxaTBlR0xGaWRXTk5QZXFJSjNGMDI1eFBfZjBnN1ptYlRYRkpsaXJ3?oc=5",
+   "date": "Fri, 27 Nov 2026 11:48:41 GMT",
+   "vu_le": "2026-11-28T09:10:35.421672+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Prabowo says Indonesias market reforms are not about foreign pressure - ANTARA News",
+   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNnd0SjhYNGtfRDN0VUVtV2JMRWMxMUREc2hnYUVIUzJCLUYyaVk3SGtJaGFkVHhhajVUa2ZmMXNYVlZ1NXRBWThJQ2txczE2N2RqY28ycmRuaW5WRUpGM21JQnpFRkk2eGl2czhfdlJMal9CMTZZZlMzc2EwUWRSUkU2OXo4M0l0MDAzM0FpX0YyTnBnSXI0c042TWE5aTlSUXQ4dUdPcVNoREnSAbABQVVfeXFMTUZNVTdDZFdyOXdSemU3a2I0SzNoUi1mVC1MdkFSRkkwZVJCeGQzY1hsV3p4OERJR0JIR2RVUEk4ZjVLLWRhRDUyYXd3MUdGb0NJYWVTQkhCZUdQUlJ4bEVKZXZneW9UVzBVeEVMMXVEM3IxOGhocXZ4bTBBS2RaTFJoV1pwR1FpbFAxYXdRVFFwa3RFMk5tOUFyREJSY1hYOS1yRlRnWHlaWEJYdWlSQXo?oc=5",
+   "date": "Fri, 27 Nov 2026 22:37:47 GMT",
+   "vu_le": "2026-11-28T09:10:35.421672+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "ASML Stocks Edge Higher 0.07% as Dutch Government Pushes Back on U.S. Export Curbs - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTFhFb1pidFA2RFliMVJQN1RfaGFMQWtFS09qd3BCOUMwcUVIZy1kbTA3eEtQakVYeTQwTEliMkFUeEszQnY5dkpCUHpxSFFtNXVpdklEbzN5NkxsNUk0N3ZCeXlCbzJPLVJNZ1BVSlpPQndzSEtLbmwtclVPeFY2b2pjc2l3UUwzMnlRbkFFdXBYOGFOMmplcV85MWFaLXdtVVBvbkludWhDWG4wckhRSXBfNktFOTVIbU1CZUhWdmlTZHFnUWlpd25IbTN2UWZkcVBDbTlfMA?oc=5",
+   "date": "Fri, 27 Nov 2026 18:14:52 GMT",
+   "vu_le": "2026-11-28T09:10:35.421672+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "USD1 Peg Slips Across Three Exchanges After WLFI Selloff - Bitcoin Foundation",
+   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjJrZ2hoV19NLXVQMzB1eHZSVzZxNV9JZU1mN0hpMWlBdjc0eVVSRWN2aXlJUWpBUzZrb0VjOWJzaGFTVU9YMkowczN2NlNlazBpLWFVOHVtSHRrZGQ2Q201dmJPYnNZbHlZWENNeVhvajZIMHU1R2lTQWdSa2Q5a1lpSkVWTDFvRWhicDdwaEJoSDBPQXBQRjRfNXBBVV92M2dKSQ?oc=5",
+   "date": "Sat, 28 Nov 2026 06:26:34 GMT",
+   "vu_le": "2026-11-28T09:10:35.421672+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "What Is Emma AI? Black Avatar Stirs Representation Debate - Bitcoin Foundation",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ3JmOC0wWEt4cDVTcnhlaUM0UGU4MUstSUJTMlJiRjlSZU9rYm5XVHk2bTliOV9Cdk5LZF9hQmx6NGRIVVYwS284cGdtckdGamhOamlVU2l4N0xGX01LcW50cmk4eXNLSktqdDdlSTg4V3hQcEN3RVRjalZHWVVUV2RSU1NucDJSWDhoOWFJSFNzbDdSaHBGU1lOVnpYcHdvVzF1bE8wZEtfSGpXT3c?oc=5",
+   "date": "Sat, 28 Nov 2026 09:00:04 GMT",
+   "vu_le": "2026-11-28T09:10:35.421672+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "US stock selloffs trigger a new kind of dollar bounce - WKZO",
@@ -6405,71 +6454,7 @@
    "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMVVoRUxOZldUWFV2cTNLNEpycFdqQ3EzWUpPa1Nxc20yZnk4bGxKeWJDT0ZEbWxLWlFRQnpNUWp2NmhHcHJjOXpHRlZ3VzltWXk5dC1hUmtVRGthc0xUaHM5ZGVyVjhJUVdwNEN2MXYtMy1lWnpwNzllbG1kUnFPZEx0MnNsSVpIRFdhZXJtS0xOazk1SVVQb3VfSF85NXc?oc=5",
    "date": "Fri, 27 Nov 2026 15:09:11 GMT",
    "vu_le": "2026-11-27T16:30:36.702907+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "XRP price at Nov 27, 2026 at 10am EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUzlKWEZGWWtuWlcwZkNLVm5xQ2lxUW5RNmlZZTZOZjVmZkVITUREVWJxQ3ZoV0hDTWdTdVM1Ym9zQy1HQW9EbDRnRkRUZDVMZUN3bGNYUU0zVGFKRElISEpTSXdSQk1kYktFYnJoRXAyUVVINkN1MjFBNEc0YlhwYlVlQkVqdWlRZUZpTGNJWFBjUTA3bTJaT2pfblpzS25qTjdTTk8xa19MVHVPQURz?oc=5",
-   "date": "Fri, 27 Nov 2026 14:08:37 GMT",
-   "vu_le": "2026-11-27T16:30:36.702907+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Why Is Anthropic Stock Up Today? Shares Jump 9.1% to $90.32 as AI Stocks Rebound After IPO Slump - Around Prague",
-   "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2ZLZUJzRVQ3eXZGd2VqY1NfMldUcFp6bmt4WE9STDVTNlFGU2oxejhGMTV1dzFZeThyME1vNDRJNlVaTkhpR3VjWVNBTkFjWjh2ZjJsVXRZUU9QSXI0NUVOWTNQSXFsdktyMnhnaWRBYmRpMk1WVHphVWFreU1iSE5ycXg2YnZwVUVZeEVyU00wbEtGSTltaGlHbFhORmY3eTM1V2FBLXpfMDQtLXdNaFZ3?oc=5",
-   "date": "Fri, 27 Nov 2026 16:12:45 GMT",
-   "vu_le": "2026-11-27T16:20:34.697150+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "La chute de la tech en Bourse est-elle source d’opportunités ? - Le Figaro",
-   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRWlwaHNjeTh6T0JwZzItN0RCdTdvSndsdkFXejlYTUp2TXFEWFNKNnZ1bS15N2ptbzdPTktRTmVqZDB3WjFwQU1KZlJTaERZTkpUbnRLSDRCSEJ6bG9vc3hYOXBLNElsem9FaUE4ck5YSmZ1aGVsLTNkYVRkUVJGUzRrMzFGTjVQQ1FyRng5MjRnNmY4dWplS05WQnhvd25BSENFdA?oc=5",
-   "date": "Fri, 27 Nov 2026 16:15:00 GMT",
-   "vu_le": "2026-11-27T16:20:34.697150+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Chinese Open Models Are “on the Permanent Decline,” Predicts Top VC. That’s Good News for Anthropic - TIKR.com",
-   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdFBSejVWWG8xeXJTb19fc21vMHZyNVZhYU9wUElnOVlmVHVmZWtkbFluY1Vzd1N0SHRKdk9ibzduUUNOcUZMY21wc0g4bWl1OG5fTmZDRzlhS3BhUkNGY1llOXZiOGUtUnZHUTFLTmVKM1lRREhVQ2NhU0ozd3BSUDltVFlraG8xMzkteWF4d1JXdVJXSGNucmxhek1Vbmc1Z0ZNTm9kQXNaVTZpbllTN0w0NjJtbHNjb3RmVXRxNzFVdUV0WGVwQVFidEFaWmVaWkE?oc=5",
-   "date": "Fri, 27 Nov 2026 15:32:29 GMT",
-   "vu_le": "2026-11-27T16:20:34.697150+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Action Anthropic, PBC | Cours ANTH Bourse Toronto S.E. - Zonebourse",
-   "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNV1BCcG9hbzRTTGllLWZ3ektzdnpjTFRjOU9yTkd2RU1DQlBpcV9Rby11Y1VjaU9sbVd4SndqOThyS3ZUbEJqSGpyd3JZZDJ1ZnI4NVpWSEUwWndycTQyWEpwSFluazJHSjg1djd6Qk11dw?oc=5",
-   "date": "Thu, 26 Nov 2026 20:56:05 GMT",
-   "vu_le": "2026-11-27T16:20:34.697150+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "L'Europe ouvre dans le vert alors que s'achève la pause de Thanksgiving - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV09SZ1pzVXRWemZXUmgzbGlTMjRmUDNWX0ZwcE8yTlFsMWJLMjJhS3dVQkJja2s4TmcxTko2a1ZMOXg1dzlxZjk4bG04SFRJeDBSSXdoYjlqQVBvcWxVYnhIWkFmd2F5TFlBMDU2Rjg2TFlKSWJqMnMxN2wxRF8yZzBSZmVpb3c5S1ZXbTZIQjlfQThqeWpNR0lHUkpOZGhreE4wcmtISmI0dlpxNWh3SlR3RGJEdzA2dmw5MEZJS1ZhQ3JIb0ZTaVR2bw?oc=5",
-   "date": "Fri, 27 Nov 2026 08:43:16 GMT",
-   "vu_le": "2026-11-27T16:20:34.697150+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "NVIDIA Corporation (NVDA) stock price, news, quote and history - Yahoo Finance Australia",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb3Qya2dEajFPaUk5dEVveFlBb0lMSjVhTXBHYldhYUI1TlAwUXYxZjFoZHhmRURWd3BRTjRZVDk1REF1NXNOUzRXWFhkT2d4b1E?oc=5",
-   "date": "Fri, 27 Nov 2026 13:39:25 GMT",
-   "vu_le": "2026-11-27T16:20:34.697150+00:00"
   }
  ],
- "erreurs": [
-  "actu Anthropic: HTTP Error 503: Service Unavailable",
-  "actu Anthropic (FR): HTTP Error 503: Service Unavailable",
-  "actu Marchés mondiaux: HTTP Error 503: Service Unavailable",
-  "actu Bourse de Paris et Europe: HTTP Error 503: Service Unavailable",
-  "actu Banques centrales et taux: HTTP Error 503: Service Unavailable",
-  "actu Chine et Asie: HTTP Error 503: Service Unavailable",
-  "actu Intelligence artificielle: HTTP Error 503: Service Unavailable",
-  "actu Introductions en bourse: HTTP Error 503: Service Unavailable",
-  "actu Rachats et fusions: HTTP Error 503: Service Unavailable",
-  "actu Résultats d'entreprises: HTTP Error 429: Too Many Requests",
-  "actu Petites valeurs en croissance: HTTP Error 503: Service Unavailable",
-  "actu Pays émergents: HTTP Error 503: Service Unavailable",
-  "actu Défense, énergie, matières premières: HTTP Error 503: Service Unavailable",
-  "actu Crypto: HTTP Error 429: Too Many Requests"
- ]
+ "erreurs": []
 }
