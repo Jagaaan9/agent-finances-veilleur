@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54775.12 EUR, jour 0.07 %, mois -24.81 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54748.11 EUR, jour 0.03 %, mois -24.85 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -310,6 +310,9 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
+- [Intelligence artificielle] 3 AI Infrastructure Stocks to Watch As Apple OpenAI Fight Tests Chip Demand - Yahoo Finance
+- [Pays émergents] After incubation, Kenyan entrepreneurs look to Rwanda for markets - Daily Nation
 - [Marchés mondiaux] Wall Street ends higher as battered AI stocks gain in volatile week - Reuters
 - [Intelligence artificielle] Dow Surges More Than 5% in a Week for Best Run in Four Years as AI and Chip Stocks Lift US Markets - BigGo Finance
 - [Résultats d'entreprises] Meituan Swings to ¥50 Billion Profit in July-September Quarter; Core Business Operating Profit Hits ¥140 Billion, But Adjusted Profit Misses Market Estimates - BigGo Finance
@@ -454,7 +457,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Petites valeurs en croissance] 9.95% yield and 20 years of dividend payouts! Is this the best small-cap for a Stocks & Shares ISA? - The Twelfth Magpie
 - [Crypto] HYPE price on Nov 27, 2026 at 3pm EST Crypto Prediction Market - Robinhood
 - [Marchés mondiaux] Stocks jump to close out an erratic week that was also Wall Street's best in more than a year - The Globe and Mail
-- [Résultats d'entreprises] Rheinmetall Cuts 2030 Revenue Target as Project Delays and Naval Cancellation Bite - Yahoo Finance
-- [Petites valeurs en croissance] Is Luckin Coffee (LKNCY) a Solid Growth Stock? 3 Reasons to Think "Yes" - Yahoo Finance
-- [Petites valeurs en croissance] South Korea's KOSPI Surges 4.3% to Reclaim 4,900 Level; Foreigners Net Buy approximately $847 Million on Stabilization Fund, Dividend Reinvestment Hopes - BigGo Finance
-- [Déf
+- [Résultats d'entreprises] Rheinmetall Cuts 2030 Revenue Target as Project Delays and Naval

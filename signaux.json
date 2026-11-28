@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T00:40:36.803275+00:00",
+ "mis_a_jour": "2026-11-28T00:50:35.700267+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -52,7 +52,7 @@
    "devise": "",
    "jour_pct": 2.31,
    "mois_pct": -9.09,
-   "volume": 4943323406,
+   "volume": 4943342163,
    "volume_relatif": 0.57,
    "capitalisation": null,
    "per": null,
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54775.12,
+   "prix": 54748.11,
    "devise": "EUR",
-   "jour_pct": 0.07,
-   "mois_pct": -24.81,
-   "volume": 1.13739694,
+   "jour_pct": 0.03,
+   "mois_pct": -24.85,
+   "volume": 1.22097613,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -3657,6 +3657,27 @@
  "actualites": [
   {
    "sujet": "Marchés mondiaux",
+   "titre": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxObXNTY0pLc1lpRnVaR0VHV3BIT2NFVkRSYkRVNjBoa3JXcnVhRzZIaW9JckpJRnVVWDF0eWxTX3BxMHFGWnhOOHRXT1pEWGlCT1Z6OWhQdWtHUmFINlZKMU9KMUpOTzREa2FYOEFVajdjS3NpN2FwdkhXM2ZWXy1WdS0ySW1FQXE5cS1NazBVMjVJWXZoN3Z5TXd3SkdNVGlMLU5aZTZjOXFYQmExZnIzSXJnUnpIdnFETkxBMVd3NDI0Qm5CVUhxdnRvMXNJZVJhNG94clMyUW9HdXNSSkxCQ0JWbERtYnczd2ZNX1VYbTJVc19CY0stdERRaHoxSXVuYkJUUVJqdFhrbEE?oc=5",
+   "date": "Fri, 27 Nov 2026 23:45:32 GMT",
+   "vu_le": "2026-11-28T00:50:35.700267+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "3 AI Infrastructure Stocks to Watch As Apple OpenAI Fight Tests Chip Demand - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSld3TDJPS2R6Y3RhcHdMN3RMMTVTaU04aUF2ZVY5emp5dGpuYnJDdkRKeXlsZUpuR01FRmoydzlhMVIzVEFfcXRWVWo1dFhzaGUtdGZkME56dWVBN2NTbDR4SEV4MWxvaTZuNEJCbmw0QmxzUS1zS0xqbEJua3hMeV91akFGSzNWb1lFS1BCZ1kzYVFiRzZLVU1BYnM?oc=5",
+   "date": "Sat, 28 Nov 2026 00:14:00 GMT",
+   "vu_le": "2026-11-28T00:50:35.700267+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "After incubation, Kenyan entrepreneurs look to Rwanda for markets - Daily Nation",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmtFamFRa2tuekM3WUtLdU9jcWFmR1VVcDZnamJHRnhrUzNNWlctX3pMd01HSnJycmJXWFlLRmp1VnA0NEZIZDNlUXhucW04MW53dW5leExaSzJ3MDhhb1lUcTNZeUVhOE1EUG5wZzA0SzFvTjVVakRpWkx1RmUxSVg4Wk0wU3o3Y2hITVlfMW9UQ29ueHJkY0ZhNlBSVkkxTW56azZTeXBVWXpiTUE?oc=5",
+   "date": "Fri, 27 Nov 2026 18:45:29 GMT",
+   "vu_le": "2026-11-28T00:50:35.700267+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
    "titre": "Wall Street ends higher as battered AI stocks gain in volatile week - Reuters",
    "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVGx5dUNYcGtCM2ZGUXB0RDNfNzF5TkNJNEctdjFiak5JRHExWWZVODg2c3hDcDZCUjdpWGpVYUg2bFE4UE5NQVJZUk52UzZGS082TTJiRWN4MTVxQlNXSTlmWnkzXzlyUzJONjlGSkNzVFNFSUlvRTRXQWxpbC1mQ2llcXRWWEIwZlpnVjBDZy1LcXU0MGc?oc=5",
    "date": "Fri, 27 Nov 2026 07:34:00 GMT",
@@ -6432,27 +6453,6 @@
    "titre": "The stock market is stuck | Expert Opinion - Inquirer.com",
    "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGpwT1Z5aVBMdUpmMU8tVVQ5eEQ1U1VfZVZyY090UVNDV01yZlRKUjhIU0xHRTRmUDBZS2NmQmVuUlFJaHlDUGUxWkczWTJGeDNfVENta0dtSWdQZmlsOHdrMWswOHJsUGp1NWUwSEFtTXk1MjJQWk9LZEN1S2hnUzVJZ3ZpMWpXVUxmYXFzbFpQX3RaN3Zqb3lFVXdiSkxPOWdteQ?oc=5",
    "date": "Fri, 27 Nov 2026 12:01:00 GMT",
-   "vu_le": "2026-11-27T12:40:35.683333+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "AI Chips Update - AI Surge Accelerates Semiconductor Growth Through 2026 - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObGxKTW1TSlhPMklpRVJOdUFyeGhCVG5CN05CeWZZQ2tPdTc1ZWNxM0gxbjZaME9MSGV3cTRMTVRUS3NGbXRNTDFOX1ZxWTZvZV9neXhHS0laZlZYOWpXYUlQSXRRRmNpWnZzYXNraWRRM0NVcWdkcm1WM1B1ZHl2dUhwejA5Tmh2dmFoclVNY3haS1BsZGJMcg?oc=5",
-   "date": "Fri, 27 Nov 2026 11:37:19 GMT",
-   "vu_le": "2026-11-27T12:40:35.683333+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Dodgers Owner Todd Boehly Clinches Deal for Overseas Assets of Russia’s Lukoil - WSJ",
-   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGh0OFRqZkhfUm9zcTV1NkxZdW0zc2hWVENhRC16TF9XdUdlQlROUVpBZXdDeDhFYjRrVlJtcTlVcXRVeFVUMEZDUXVuOTFWLVpBVDliSVZmTlFSWDc3VjNlc19FUW1LX283Y1BWdnVoNjVzSUEwbGtmWnE4TVhCbjZUZ09tSDBEVk80M0hrTFJuTk13WklUQTBKQlNKajVlUEtTNkV6QkhOTEU2dmJGMHRBTTFNbUx3SlREaXZB?oc=5",
-   "date": "Fri, 27 Nov 2026 12:28:30 GMT",
-   "vu_le": "2026-11-27T12:40:35.683333+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "MTA: Metalla adopts shareholder rights plan effective November 26, 2026 - Quantisnow",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSE9LRy13RVpLUTVfMUIzSnhoVktiZThLSU5kOXZodmg1dTRIc014WmFQdXMxRURtcTY1SVFvTmFnNDNtelA5YWdHMmRjQUp4RVlfdWd3bmNidllrSXpGOWQ0OUZqUndqcEZmQVRwZkc0Z2d3Rkp2dkFGMEtNYndUR1Y4ME1VTlpPYlJvRzFBRnlfZjlnV09sV0R3?oc=5",
-   "date": "Fri, 27 Nov 2026 12:05:44 GMT",
    "vu_le": "2026-11-27T12:40:35.683333+00:00"
   }
  ],
