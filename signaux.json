@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T02:00:36.219520+00:00",
+ "mis_a_jour": "2026-11-28T02:10:37.043130+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54997.2,
+   "prix": 54949.36,
    "devise": "EUR",
-   "jour_pct": 0.48,
-   "mois_pct": -24.51,
-   "volume": 1.63655835,
+   "jour_pct": 0.39,
+   "mois_pct": -24.58,
+   "volume": 1.66609518,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 834986797,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 834986797,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Patria Investments (PAX) Could Be 35% Undervalued As Fundraising Growth Drives The Narrative - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTJILWJIdGtnNHZiTzdYbDVaVGFZNHdhdWFuT3Q3ZU1pWkFtdzM4N1JYdGo2ZVo3RmljcEdPS3VfeDhMS2U3YUVlQWg3ZGM1MzN1Qklrc0hvOThNTFN3RlBnemc5dC1EUHNFQXZtZmI4cGpOOHllaG1OYWhCM0JMQUFiSUIwZVRodmhJRXBrdDc3c2dVREJhVzcteGQ?oc=5",
+   "date": "Sat, 28 Nov 2026 01:09:00 GMT",
+   "vu_le": "2026-11-28T02:10:37.043130+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "Les responsables de la BCE signalent de nouvelles hausses de taux face à l’inflation - Investing.com France",
@@ -6446,13 +6453,6 @@
    "titre": "Seven Months Mandatory Merger Control Australia Costs - Global Advisory Experts",
    "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDJEeHVLMUUwLUxjV2R3WHVnUWlKdEc2UE83WjJUR3E4VzFoQzk5WE8wNzU3amV4NDdXTjBNQ1RtcmY0QkpHN2tMeUZBUjludllQb052R2Y0S3R3aUhmQnpaT0xKVkJrMmtleGhNQkJuRjRSQzJBakI2WWJnVklUSDgta0pRSngzaThLVGJHYWZfcDU4T2ctal9jOVJXUDQ?oc=5",
    "date": "Fri, 27 Nov 2026 05:28:52 GMT",
-   "vu_le": "2026-11-27T13:10:36.503996+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "BTC Price Prediction: Supply Ratio Hits 11-Year Low - Bitcoin Foundation",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0ZKUHJKNTNCUlAwSWhlMzJQYUVNVGZ6OGdONnlGblE2b1ZDbmhKangtTHB0Q2huYk9mNTd5OW9xcEpEekJ3VUZOUE9nSHlQSmlCdjdYa1h5LUdTTm9pbmh6NjhZaDNGUnc1bFdFRWF6bDFkMUhjbEtTVkdLNUpGTlFrSGFER3lvYVRfai1PVEhaeUJxcUxRMkNnaDJ0YUlaaFBZajIwbUlhZlo0UG50ZA?oc=5",
-   "date": "Fri, 27 Nov 2026 13:04:15 GMT",
    "vu_le": "2026-11-27T13:10:36.503996+00:00"
   }
  ],
