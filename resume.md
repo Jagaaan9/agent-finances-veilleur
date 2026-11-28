@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54734.09 EUR, jour -0.76 %, mois -24.87 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54802.5 EUR, jour 0.12 %, mois -24.78 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -310,6 +310,7 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Petites valeurs en croissance] Plug Power Surges 8% Amid Turnaround Hope: Was $1 the Permanent Floor for PLUG Stock? - Yahoo Finance
 - [Petites valeurs en croissance] Alzai Health Corp. (TSXV:ALZI) Surges as Market Attention Turns to Health Technology Opportunities - kalkine.ca
 - [Petites valeurs en croissance] Zeta Global Holdings Corp. (ZETA) Stock Price, News, Quote & History - Yahoo! Finance Canada
 - [Crypto] Bitcoin (BTC) faces historic losses as BlackRock’s IBIT sees record outflows - Investorsobserver
@@ -457,5 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic] Should You Invest in Anthropic Stock Now or Wait? Here's What History Says. - The Motley Fool
 - [Anthropic (FR)] Vontobel : "Les droits de douane américains touchent une corde sensible" - Boursorama
 - [Marchés mondiaux] Stocks jump to close out an erratic week that was also Wall Street's best in more than a year - The Globe and Mail
-- [Petites valeurs en croissance] 5 Low-Cost Vanguard Mutual Funds With Strong Return Potential - The Globe and Mail
-- [Pays émergents] MercadoLibre Latest Results: Revenue beats estimate, EPS misses as shares rise - scanx.trade
+- [Petites valeurs en croissance] 5 Low-Cost Vanguard Mutual Funds With Strong Return Potential

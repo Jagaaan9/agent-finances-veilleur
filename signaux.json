@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T00:00:35.818462+00:00",
+ "mis_a_jour": "2026-11-28T00:10:35.999161+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54734.09,
+   "prix": 54802.5,
    "devise": "EUR",
-   "jour_pct": -0.76,
-   "mois_pct": -24.87,
-   "volume": 159.05713718,
-   "volume_relatif": 0.73,
+   "jour_pct": 0.12,
+   "mois_pct": -24.78,
+   "volume": 0.08660424,
+   "volume_relatif": 0.0,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -3657,6 +3657,13 @@
  "actualites": [
   {
    "sujet": "Petites valeurs en croissance",
+   "titre": "Plug Power Surges 8% Amid Turnaround Hope: Was $1 the Permanent Floor for PLUG Stock? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSjV2V2sxckM5Sk9zMmViSkdKYmt1WWJETmlGcTQteVVHS2FqUmxZT3RPY1FXZ2Z1b1BRU0NhVFBIa01qM2t1dWxLVUc1aDdkeXlsRDd3QVNYVFFNazVFeVlvc3k5bEc4UVdObm5pVDV4XzZiV1c1cWdleHVJODZRbEEzZU1HMnh4ZWIzMjBTaTdrclU?oc=5",
+   "date": "Fri, 27 Nov 2026 16:08:24 GMT",
+   "vu_le": "2026-11-28T00:10:35.999161+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
    "titre": "Alzai Health Corp. (TSXV:ALZI) Surges as Market Attention Turns to Health Technology Opportunities - kalkine.ca",
    "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTEpPX3g4cWZ1Qzk2cXhXX1N2Y3ZRZmdwSHJiUG10dTNoODRpUzJZVWlMWXB3WDRlTVpjWk83UEV2WmhIYVJDTFVtVjFuNlVxdUdsSHBjQ0ZXYl9odnBMOW0xVzdUM21NMkZrOUwtRjJ3Y3praDc3WDhuZjdKLVNDaWFuWmRUVjU1WDJJY2NBR2RxalVqcmJES3NVcklGakJRalRlR1hIYV9OUnhzcmJFNGV5VFo0aWdTYjdoRGdjUHBSTE43STlqVA?oc=5",
    "date": "Fri, 27 Nov 2026 11:27:00 GMT",
@@ -6446,13 +6453,6 @@
    "titre": "Nvidia, Anthropic, D'Ieteren et nouveau patron à la BCE… Ce qu'il ne fallait pas rater cette semaine sur les marchés - L'Echo",
    "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONmU3TU1IS3M5aS1DUHVmRE9aczBldTFmUE9MUUJNRUZPQll2MVBiLUlETVBEWThjcDhiZEdvaHZ5WjVsVUs1RkZpQ3MxUXpxVEpBaDBLSThRWDM4VTNkVFVkLWJzbXJwc3FmUHV5dmlJU2hWNEtXcy1qWnpwSjR2MVdTUndzakR2YkRiZHhsVXJqRWVWMGN2Z3NsNTVGcTVQaFFCN2JYWmFwUTM4bG1JbEFJZDh2T3E1dUJzMDJkSFAyWThKbVkzZEc5VVFmbUhrSDFtbi1oUngtTThqOTNzUEhmOGFhdmhfVlNuMVBveWt1Vmg5cWZFMFBTdnphUmVlVEE0?oc=5",
    "date": "Fri, 27 Nov 2026 10:55:34 GMT",
-   "vu_le": "2026-11-27T12:10:35.722419+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "La tech remet le couvert après Thanksgiving, le Cac 40 toujours en hausse avant le verdit de S&P - Investir Les Echos",
-   "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTEI1OHd3U2RkeHk2eE9JQUNOZ3EzRGQtTnVLQ0E0UzR0MDFRVVNsM2J6SDBOYjRKbXJ3dVUtV1hHdWlUWklfeHVmS1c4TkNnamYxVmpNV1RYRVRqNTNwYVR3bVM5ZVE0RHhzVWpvU2V4eVBvMmNTU3FEdlliZFhlSUJrNDV1M0UtWVA2Rl9QV1hyZ2xiSWgwVVBoYks4cFNYMGxyb3pqOUFlRDhPdHcwaExFeGpyeURiNXAycU1wQlN0Z0JFTmxYYnJmdG84MGpXRDFtaVJWU2VwVzBCQ056Y09GczZ4aHc3bVNHMWwwTjBFQ0ZJNUl1QQ?oc=5",
-   "date": "Fri, 27 Nov 2026 11:37:34 GMT",
    "vu_le": "2026-11-27T12:10:35.722419+00:00"
   }
  ],
