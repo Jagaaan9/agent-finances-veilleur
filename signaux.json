@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T11:30:35.976727+00:00",
+ "mis_a_jour": "2026-11-28T11:40:35.851229+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54168.81,
+   "prix": 54127.25,
    "devise": "EUR",
-   "jour_pct": -1.03,
-   "mois_pct": -25.65,
-   "volume": 52.9292614,
+   "jour_pct": -1.11,
+   "mois_pct": -25.7,
+   "volume": 53.50477315,
    "volume_relatif": 0.25,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 10535061261,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 10535061261,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3385,16 +3385,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
     "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
-    "per": 14.4,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3413,16 +3413,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
     "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
-    "per": 2.1,
+    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PK",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH-",
-    "prix": 21.12,
+    "symbole": "NYSE:BAC/PP",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP-",
+    "prix": 14.51,
     "devise": "USD",
-    "jour_pct": 0.52,
-    "mois_pct": 1.29,
-    "volume": 110706,
-    "volume_relatif": 0.53,
+    "jour_pct": -0.34,
+    "mois_pct": -1.23,
+    "volume": 160626,
+    "volume_relatif": 0.89,
     "capitalisation": 338593252758,
-    "per": 5.0,
+    "per": 3.5,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Happiest Minds Technologies Ltd: Valuation Shifts Signal Renewed Price Attractiveness - MarketsMojo",
+   "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGI5WkRZbDRCTHRLVUNBcnZLU3F3ZGd1QW94b3M4VS04Rlp6Qkh3MjJJSGNNQU5pSWR0Y1IxTE55Q0YwdGtfdjA0QXB2YnZHWDFDZFhVMllCNkZsbm5selJORXhWaEpYOXFBenJxMXpjZ0Q2aWw4UTFlMmZWLWhQaGotbjBMa3VXaFRpMnRyQ0I1emhGRmJCTUw2YnZSQzJQcUZXQnVienhNOEk1RVBWdjJwNUQ1N2FPLUxNWkttT3ljcFZkSDlJcDhfdFdMVzh6dE5KbnQxTXVrZw?oc=5",
+   "date": "Fri, 27 Nov 2026 21:02:31 GMT",
+   "vu_le": "2026-11-28T11:40:35.851229+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic IPO, shareholder rights and board control - Longbridge",
@@ -6446,13 +6453,6 @@
    "titre": "US Equity Markets Higher Amid Broad Rally Led by Technology, Consumer Discretionary Stocks - marketscreener.com",
    "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdnhuMTVBeFZtdGMwZE5iLURFelFmWmNkLXRZZE5Xb0U5LUVndWhDdXR0RHM2dGEtRW1BQ19Fb29pc21RYTZVSkJRZGs2cU5rWURIZXlseGtyUS00ME83ZDRJMlZNVy1NN2pBbl95azRCUzlwbXhpcGhTazNfakFNbnR4ZVl5UERoaWlOVDkxbDE4MUVBcndrM0ZuQ2x0M255a2hiM3RXMnZwOFRRVnhBd09jVXFPdjZya19BTXFvLXZhNHhCNEZzeW5lUTJQdk1hS2JGekl6WmdlQQ?oc=5",
    "date": "Fri, 27 Nov 2026 18:08:25 GMT",
-   "vu_le": "2026-11-27T18:20:40.058983+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Zone euro: Les consommateurs relèvent nettement leurs anticipations d'inflation selon une enquête de la BCE - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZTlieEE1enVWcVBobEp5YzBTc0c4QkhvdTVUdk9hRmFxNXROdHI3a3kwWXBQZ0VpbEtxZmRqTGZOT2JVd3E2bk1tVXVvWXFNREtiMkdaU1RVZkVXcVBqRTRLRURFNDFaclhYb2pSbDU2aE5jUGlCOW1lUUo2aUNuRlFLWlEwTGppdF9NVDNuRHMtUXJZV0VwQlctbEZjUEFiR0ZlSWlKMDVyQ0VrU3Q5MWRJY2VFTHI3elBnV19rOVM5Tk1HT180Y0Rvc2FCNmtHRUhBT0RROUt3cFJmT1Nhd2RVeE5SSlAtckVOUzU1Ri0?oc=5",
-   "date": "Fri, 27 Nov 2026 12:11:22 GMT",
    "vu_le": "2026-11-27T18:20:40.058983+00:00"
   }
  ],
