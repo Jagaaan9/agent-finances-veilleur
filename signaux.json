@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T02:20:35.242092+00:00",
+ "mis_a_jour": "2026-11-28T02:30:35.372395+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54949.36,
+   "prix": 54952.23,
    "devise": "EUR",
-   "jour_pct": 0.39,
-   "mois_pct": -24.58,
-   "volume": 1.66609518,
+   "jour_pct": 0.4,
+   "mois_pct": -24.57,
+   "volume": 1.74927111,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQaVFrQXNOWlg4SVRhWW1RcTJHcUNjalFBaVdlZFNxckFZSHhsZVY5ekdvdzA4V05kdUgyZlc4RlFxLVJoR0RGTW0wTkpDSXYyMlduOUxvSlVWa1k2ZTNOcGE5TWdxVTh2bFBfcFFhMGwxa01ldXY1LXRKZVhFUU82V1BhVmZMXzdaazJxdGRmQ2dKZ3ZSeXFxUlF4eE5teWFXZmhlNzhKdTRpaEdxbmF2V2M2LTJSU3hMcU9fZElFUF9FWnFBY3NXSHpWb3RtTjQ0TVNKNVBXOVNUTWtBMjJ2MzJ3c29ia3EwUlR1cm4waHdmek1OMHM4NlQxSEdoekszQ1NGZEJUMmQ1cFlMWU1abGp0eFVCMFIybHFZ?oc=5",
+   "date": "Sat, 28 Nov 2026 02:19:12 GMT",
+   "vu_le": "2026-11-28T02:30:35.372395+00:00"
+  },
+  {
+   "sujet": "Anthropic",
+   "titre": "Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUzh5NUptNDliZ294VXBOai1hYjFialZTSEdkTnFfRjYwU0VaX1AzaUZ4b3UyWnhGRUd3c0RETFBncFF5UDhZWmZ5WVJadWRUaHJub2hQMklpOU5KY3VzUmJkUG9CZTlPXzhkdUZtS3pwR0RpUmJnUEJGNUlsSFd2NC1jcGJ1b0VlOWhZWUlyT2NzMFhsclhPVzB4SmFnc19CeDV1RGs4bkRyLW5kM2VBbTIzOVZjOXhacXIw?oc=5",
+   "date": "Sat, 28 Nov 2026 01:55:00 GMT",
+   "vu_le": "2026-11-28T02:30:35.372395+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail",
@@ -6440,20 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVDF2UTZXY0ZrSVVuYktpbG1TWVI0aU5wZENOV1Y4YlZZV1NiTmhyeWYxMDB6MGl1cWR3ZllHTWF3YkxIT1BhbDRjQjd6SUZvaTRybUZPZDBtSjMySTlqMVdZMklDWEtKUzI3OGQ4R0l4WjlDcWRNemtmY3dUV25kYThKRVNXWmZ0am4zenFldkZvNk8yWHZQRnMzR0pfUzg1OUxGRlkxMmtIVWtkNEw4aE5rQU5KOGZjOTd0ZFNGcw?oc=5",
    "date": "Fri, 27 Nov 2026 02:30:00 GMT",
    "vu_le": "2026-11-27T13:20:39.057402+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Bradesco chairman Trabuco agrees to become Brazil's finance minister - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUdGMkRlVGkwcEg5VnNJSzBsdHRZZ2djT0xsWUJXeE1DZU1jSkk3X0U5UWR2eElxM21LYmIzR0djbUJXZENFQ0lkMDVHSTdXYWxVMHhPaVlOaWRVQlVsS1BSTE1GZXRqcUZULTVpUHRSOGkzSTZYYVpZVndkLVg0MVZ0aWxLMzhaWnJvT2pQbUxSUmliZDZDNy1qSUtEckR1VzZCazNYcnJGcm4zSlhWdGpNMFBfcWx3R1ZsNW5TTHc?oc=5",
-   "date": "Thu, 26 Nov 2026 23:52:56 GMT",
-   "vu_le": "2026-11-27T13:20:39.057402+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "LE DEBRIEF – Le lobbying gagnant de Mistral et le retour de Jensen Huang à la tête de Nvidia - Cafétech",
-   "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KSVlzTWpqMVF5a2VHM3RUd3czQkk1YzNzdTQxVXFFdTIwZjEwVGZZeVhSM291Zkp5Q1hZVmVsaTdpZmpxaG5QRUdXYk9nVDl1cDJRT05uelBYdDhxSFhFUndRNHA1TWswNXBN?oc=5",
-   "date": "Fri, 27 Nov 2026 13:03:05 GMT",
-   "vu_le": "2026-11-27T13:10:36.503996+00:00"
   }
  ],
  "erreurs": []
