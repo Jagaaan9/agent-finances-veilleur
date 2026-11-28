@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54293.34 EUR, jour -0.81 %, mois -25.48 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54222.52 EUR, jour -0.93 %, mois -25.57 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -226,8 +226,8 @@ POSITIONS ET INDICES :
 - IX Knowledge Incorporated (TSE:9753, secteur Commercial Services) jour 0.9 %, mois -5.09 %, prix 1342 JPY, capi 12727808559, PER 7.4, volume x8.8 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 10535061261, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 1001984170, PER 28.6, volume x17.7 la normale
+- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 10535061261, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (BSE:GOYALALUM, secteur Distribution Services) jour 20 %, mois 26.49 %, prix 7.02 INR, capi 1001984170, PER 29.1, volume x52.33 la normale
 - Waaree Renewable Technologies Ltd (NSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 23.4 %, prix 825.7 INR, capi 86154609956, PER 18.5, volume x233.67 la normale
 - Waaree Renewable Technologies Ltd (BSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 22.52 %, prix 825.4 INR, capi 86154609956, PER 18.5, volume x128.17 la normale
@@ -286,16 +286,16 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -0.08 %, mois 21.84 %, prix 8.736 EUR, capi 8810130130.895283, PER 10.9, volume x0.29 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
 - SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour 7.52 %, mois -24.25 %, prix 119.5 USD, capi 579228478930.6643, PER 6.7, volume x0.77 la normale
 - Tencent Holdings Ltd Unsponsored ADR (OTC:TCEHY, secteur Technology Services) jour 3.97 %, mois -8.56 %, prix 45.29 USD, capi 404554837871.25, PER 12.2, volume x0.7 la normale
-- Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH- (NYSE:BAC/PK, secteur Finance) jour 0.52 %, mois 1.29 %, prix 21.12 USD, capi 338593252758, PER 5.0, volume x0.53 la normale
+- Bank of America Corp (NYSE:BAC, secteur Finance) jour 1.09 %, mois -3.6 %, prix 49.07 USD, capi 338593252758, PER 11.7, volume x0.57 la normale
 
 ÉCRAN France : meilleures performances sur 1 mois :
 - Clariane SE (EURONEXT:CLARI, secteur Health Services) jour -1.54 %, mois 46.05 %, prix 4.618 EUR, capi 1649834769, PER 130.5, volume x2.03 la normale
@@ -310,6 +310,17 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Thanksgiving Leftovers? Wall Street Feasts On A 500-Point Dow Rally, Nasdaq Locks AI-Dip Buying - NDTV Profit
+- [Bourse de Paris et Europe] +0,58% pour le CAC 40, OPA, IA... Le journal de la Bourse du vendredi 27 novembre 2026 - MoneyVox
+- [Bourse de Paris et Europe] EURAZEO Cours Action RF, Cotation Bourse Euronext Paris - Boursorama
+- [Bourse de Paris et Europe] VALNEVA Cours Action VLA, Cotation Bourse Euronext Paris - Boursorama
+- [Rachats et fusions] Puig to Acquire 75% of Parfums de Marly, Initio in €1.2 Billion Deal - Modaes
+- [Résultats d'entreprises] Elia raises 2026 net income guidance across all divisions - Investing.com
+- [Pays émergents] India markets regulator considering platform for trading pre-IPO shares - Reuters
+- [Défense, énergie, matières premières] 3 French Dividend Stocks Built For Defensive Income - Yahoo Finance
+- [Défense, énergie, matières premières] Honeywell Aerospace And 2 Other Top Space Stocks - Yahoo Finance
+- [Crypto] The Tech Market Correction Is Over, According to Morgan Stanley. Here Are 2 Crypto Stocks to Watch in 2027. - Yahoo Finance
+- [Crypto] Peter Brandt Says BTC's Four-Year Cycle Is 'Out The Window,' Warns A Slide To The Low $30,000s Would Be 'The Doom Of Bitcoin' - Yahoo Finance
 - [Chine et Asie] Best Large Cap Stocks To Keep An Eye On - November 27th - MarketBeat
 - [Rachats et fusions] CrowdStrike (CRWD) Stock Jumps to $217.20 on Zscaler Deal - JournalArta
 - [Petites valeurs en croissance] US Stock Market Weekly: Nasdaq Jumps 6.7% - HDFC Sky
@@ -449,14 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Défense, énergie, matières premières] Why Is Palantir Technologies (PLTR) Signing A Defense Software Deal In Poland? - Simply Wall St
 - [Défense, énergie, matières premières] 4 Defence Stocks with Robust Revenue Growth - Equitymaster
 - [Défense, énergie, matières premières] Kratos Defense & Security Solutions (NASDAQ:KTOS) Stock Jumps 4.8% - What's Next? - MarketBeat
-- [Petites valeurs en croissance] Happiest Minds Technologies Ltd: Valuation Shifts Signal Renewed Price Attractiveness - MarketsMojo
-- [Anthropic] Anthropic IPO, shareholder rights and board control - Longbridge
-- [Marchés mondiaux] Stocks jump to close out an erratic week that was also Wall Street's best in more than a year - Spectrum News
-- [Marchés mondiaux] US stock selloffs trigger a new kind of dollar bounce - Yahoo Finance
-- [Marchés mondiaux] Wall Street bounces back as AI stocks rally after Thanksgiving break - Business Post
-- [Banques centrales et taux] Ce que dit le casting de la nouvelle BCE de sa future politique monétaire - Atlantico
-- [Chine et Asie] 'Big Short' Investor Michael Burry Thinks This Chinese Stock Is Worth About 60% More Than Its Price. Should You Buy? - The Globe and Mail
-- [Chine et Asie] Hong Kong Dollar Climbs to Six-month High as Funding Costs Jump - Briefs Finance
-- [Défense, énergie, matières premières] Can TTM Technologies $2B Defense Backlog Drive Sustainable Growth Ahead? - Yahoo Finance Singapore
-- [Chine et Asie] 'Big Short' Investor Michael Burry Thinks This Chinese Stock Is Worth About 60% More Than Its Price. Should You Buy? - The Globe and Mail
-- [Pays émergents] Bangladesh trails regional peers in market cap-to-GDP ratio - New Age BD
