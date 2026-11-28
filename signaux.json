@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T03:10:36.509900+00:00",
+ "mis_a_jour": "2026-11-28T03:20:36.398739+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54802.32,
+   "prix": 54800.73,
    "devise": "EUR",
    "jour_pct": 0.12,
    "mois_pct": -24.78,
-   "volume": 3.48969931,
+   "volume": 3.51795334,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -3656,6 +3656,27 @@
  },
  "actualites": [
   {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Sweco (OM:SWEC B) Stock May Be 30% Undervalued On Cash Flow - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHh0a3psZHYzYUNwU0xJZjNxZGZHbU5PeGpVT1BxNEtLNEdkbzlZME8zVEdZSmp5dUNMMk5LY2hWcldzVlZERXA2SGs4Y053MFhWR0d2MlhVbUxWdEI3Z1VZTlgtN1NUSXV3MGtVNEVPNllVYXZzb0JLUzJyV25vZ2o1LVNJd0NBcE1idi1XOA?oc=5",
+   "date": "Fri, 27 Nov 2026 23:13:20 GMT",
+   "vu_le": "2026-11-28T03:20:36.398739+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 27, 2026 at 11pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkRKbTZfbmt4WjlqNGV3RDhLTVJ1R05Ia196MVhmenU5YmtmeERoQkc2YmZzN01IVDBXUXZ1U1RDMFFXZHZCNGlRSU9kQ2xCUE5TOGhWbUZ4bXAteXctbTJacHIwX1RaSF9BYmVPWHhMb185M0w2cnM0WFNHQ090b2pTczlBR1F0MjJ1X29oYlFsd0VLTENyVWNYSEFaYUJ1dXNUcFFlR3B1YWxmQW53?oc=5",
+   "date": "Sat, 28 Nov 2026 03:09:47 GMT",
+   "vu_le": "2026-11-28T03:20:36.398739+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Dogecoin price on Nov 27, 2026 at 2pm EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2pQT2lySHhQZ1ZUNmtfWFRwWmpaMWJCY1JMZVdrZkNFV0JEdkxZRTUzeWZURlI2TFg4aTFkSFhKMFBjWUdLV2dnaE4zaFh2M2JxOFM1eFRvYTgzYkZVcERXWDZDQ21CZ2FxM09mbEpRMXBzM0pqT0VEdThOQ1JIQ2tWN0NjYU8yTVY3RmlyanB3cDNJWnlfVXVlUXplQ2ZJZU5rU0VPWC0zX2prRlRnVGs5RHU?oc=5",
+   "date": "Fri, 27 Nov 2026 18:03:46 GMT",
+   "vu_le": "2026-11-28T03:20:36.398739+00:00"
+  },
+  {
    "sujet": "Anthropic (FR)",
    "titre": "Bitcoin glisse au milieu des nerfs tarifaires américains alors qu’Anthropic tombe en dessous du prix d’introduction en bourse - Journal Du Token",
    "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTmM2NEx1WmhXQndxdHd4OXhKRkFiZ2t3elJvUTdNb1ltSmI5cG4yeDEyS0d6UExaRDVsY1lGd1YxeE5OaXVUazBnbklOYnZmR2l3ZVBPTXJGR1J4YkM2Qm00NkZ5bW9jWFA5MWJjMlNYMlZCTnJPZWJmNU5qbk9mSWlRRm1vZUxTel9XVW9NMTQ1S1JtVzJwWUVJeGY5dF9LUERBa0RFS0FhNjJIalNtSVhkV0FVeWFkb2ZYaXQtTENUakowOWdZcklSekdJTmdkMWlRZXM1c0cwVEJZTUlKVGtYRVFtblN4dVhCTlEzVm9OZUhXalE?oc=5",
@@ -6433,27 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sWllBNXBIRW53VFk3bXJQS0NEd0c0M0wydXBhbTVxcV9NUHlRcUYzTkFMTEpZVzFmc3p2aUtXLXQ1elczeUlkUTB2VExjT2V3bVVJN2R2QU81dklPOGoyVFJ0Ml9haGd2VXNBMzNpZ2ZIdw?oc=5",
    "date": "Fri, 27 Nov 2026 11:49:29 GMT",
    "vu_le": "2026-11-27T13:40:35.899457+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "VIDEO - Qui est Pablo Hernandez de Cos, le futur patron de la BCE ? - Les Echos",
-   "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT04wby1uVzBCaXVzUnlTNGx0bDV1d1VnWTRCQnQzbjBXOUNCYmQtakFWQVZRU2pQVkNZTTZkY3dTMnI5QWdQTnBWbVdoSTRVOTh3X25nYktyNnRkSnlnVEFNRUNuQVZhY1dBbmZVS2x6UUVvajNEWmpvcldqblhzTlRNdWUwYzc4Sy14cUxrYUxKOFM1WHFKVmw4SE1HNVdfaXJwem9UbjVQTS1oVk9HVkRvN0VXS19oTTJuS2EtOXloNExKMmtKLQ?oc=5",
-   "date": "Fri, 27 Nov 2026 13:26:22 GMT",
-   "vu_le": "2026-11-27T13:30:36.274648+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "La BCE pourrait devoir relever davantage ses taux, l’inflation restant supérieure à 3 % - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY1BmS01XREpWZHJidkt4U2I0UU9uMHZHOUxpdEYzRXVrSERKS3o5Tl94My0zTjlnQ2ZtN28zb0ZQenQtTXh3bGxMOUJNODVTX0xfcHo0SEhyNjBXd2tLMEFtVEpDZzJMUkFtd19IUUdmTmJOVHZfMW1KQVhlR1dYUnBDR3FsMi1qUmVaSmdfYUpvUjM1Q2pTYlNjNXNTQzZuTnNvYmY2T3I1STBsZm5jdWtKeGR3QjFsc3U2MkFQOUFXS3F6ZE5KMy1zbDZ1REVEVGtWaUJVQXNkT29iRV9v?oc=5",
-   "date": "Fri, 27 Nov 2026 13:13:11 GMT",
-   "vu_le": "2026-11-27T13:30:36.274648+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Les hausses de taux de la BCE insuffisantes pour atteindre l’objectif de 2% - Investing.com France",
-   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdnlrOG1qSmNWZjdpcjJPSUNwNURkTlBIeTlTRFNITDd3VnpMT2dldGdWRFJkaTFDdXhGREowMWxQRHp4bGhwOTFVekp4Qk96QndkNFRZM082cVVKYXdNQ3ZNRGhaa1VXXy1zRlljNWRoNEdMWThhcGNXUlctN0dCdngxeWVfNEJSc0tzS0dKaWE1X2x6MmEtSFJoWHJrZmtHd1pRbDFhSVRzejlrSVlQYW50dnRUczhnUmxPeDhUQ2NEUQ?oc=5",
-   "date": "Fri, 27 Nov 2026 13:02:00 GMT",
-   "vu_le": "2026-11-27T13:30:36.274648+00:00"
   }
  ],
  "erreurs": []
