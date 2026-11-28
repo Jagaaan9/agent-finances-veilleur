@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T08:10:37.223730+00:00",
+ "mis_a_jour": "2026-11-28T08:20:35.864390+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54624.65,
+   "prix": 54462.34,
    "devise": "EUR",
-   "jour_pct": -0.2,
-   "mois_pct": -25.02,
-   "volume": 40.07368272,
+   "jour_pct": -0.5,
+   "mois_pct": -25.24,
+   "volume": 41.39275552,
    "volume_relatif": 0.19,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 834986797,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 834986797,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Crypto",
+   "titre": "There’s ‘A Tourist Element’ To Bitcoin, But True Believers Are Dug In At $60,000, Says Eric Balchunas - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjVJUTJrR1FWcGp5M0VhdHdSdE44bnhaTEFCTXliSEZVTGVsbGh1S0JqamtJUkpzai1xYW9WV1NseE1LdVllYzJqUHZOeTFKVzhYUTVEcDZHd21NWWcwODZodjNWQXhXbUpaYXVnY1QzeW5DYWdSVzc3NHNQNXNmRG9RMEp5Ry1hOXJxbU1sUmtGdnNDRW5mTXNGb0VLMVNtQkFDcHFR?oc=5",
+   "date": "Sat, 28 Nov 2026 07:58:00 GMT",
+   "vu_le": "2026-11-28T08:20:35.864390+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "There’s ‘A Tourist Element’ To Bitcoin, But True Believers Are Dug In At $60,000, Says Eric Balchunas - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMk44SUtFU1NrcVZNY3BNWFhXMmZLZ1dqMVpLNy15YXUtZjFNX0hvVkVVZEtUcmxkU2ZWWFRvSWpLaUZQa1VDOXFQY0xaQldCT0VZSGtnRUJjWFFWNVhXVVEtbXYzcXdfWmlwSjFlWHRCTXVNeDI1YnRmZzlORmRkeE04YU1LV1A0R2VnSmVuOC1iZ2JkeVhJc2VuNzFBM04yeUdtTTRucTZqMzhBdThlVEVYZW5oU3JFR2pXLXpvQVRHbVhSUHpxdmtGV3pFamd1SDlWREx3WWRlUHRUVllkdWw5UG9aUjdQTWxoNUhn?oc=5",
+   "date": "Sat, 28 Nov 2026 07:58:00 GMT",
+   "vu_le": "2026-11-28T08:20:35.864390+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic Stock Is Back Above Its IPO Price: What Could Move Shares Next - Around Prague",
@@ -6439,20 +6453,6 @@
    "titre": "Anthropic Stock Jumps 7%, Reclaims $83 IPO Price as AI Stocks Rise - Coinpaper",
    "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMjNzal9RMjVmcjNsZV9US214MmdJNExvdnlsSW9sQmhOTFU5LU9HWEdqdGxBeWI1M2RjNElfQ055TTZHVkt3QktkcE9jNlJ0ak9pR2VLNGRNNnVUdVpJWTNlcElPNFE2R2JERmpQWjJtU1VkaWpiY1lVSy15dUdpQnM0bVFoMkVZdGNCRUdpS3E0ODVGSlE?oc=5",
    "date": "Fri, 27 Nov 2026 16:00:43 GMT",
-   "vu_le": "2026-11-27T16:10:37.631851+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Anthropic, Meta et d’autres géants technologiques en discussion avec JERA pour construire des centres de données dans la région de Tokyo - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTTNCTmc3bmZTa1QyMk1wVDdrNXFXbzZmNkRiTmVqeENBLXZBQ3NkQWNOVHpOemdUbWlwVDBHcDhQa0s1SjFPcWFxY1N4SlhwOWlYVDBWTVhJNFp4ZkFLc1hNYlpfTGNaQUdCcEE0M05TU3RUV0NMNnFjNzRlbFdpZTBXWDVxRFFLWUFCWVJkcVV5X0NOa0ptM1o0N3RlYlptUzVnYW50REEyaGZ4ekdXaElYaWh5SE8yR3dVWUVEVWotSFZGYzlDWlZTUU00a3FCcHoxcjlKWWE1d09UUy16WUNPOXFSWVVRN0tZSVBXcw?oc=5",
-   "date": "Fri, 27 Nov 2026 15:54:29 GMT",
-   "vu_le": "2026-11-27T16:10:37.631851+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stocks rise and keep Wall Street on track to close out an erratic week with big gains - Boston Herald",
-   "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5md21JOTlHNDZ6WUFrajhjRjNycUlMVjc1QllwWG00SGw0NHlMUlVGbnRPSkRieEJBTDF5SkpmcFNVSV95aDBaY2ZQSmhjdGZZMG9odkRiY2dhaC1YbkJlTGNXaUhBTldpNGFUSF9EUlZJamxrVjBGY2pKMGQ?oc=5",
-   "date": "Fri, 27 Nov 2026 14:44:35 GMT",
    "vu_le": "2026-11-27T16:10:37.631851+00:00"
   }
  ],
