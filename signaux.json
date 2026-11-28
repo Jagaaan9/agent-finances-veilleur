@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T05:50:35.317612+00:00",
+ "mis_a_jour": "2026-11-28T06:00:40.611876+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54631.42,
+   "prix": 54604.73,
    "devise": "EUR",
-   "jour_pct": -0.19,
-   "mois_pct": -25.01,
-   "volume": 4.73402478,
+   "jour_pct": -0.24,
+   "mois_pct": -25.05,
+   "volume": 4.78345276,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 8779940033,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 8779940033,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,20 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "[Weekend Money] AI Regulations and Weak Domestic Demand... Q1 to Be a Turning Point for Chinese Tech Stocks Next Year - 아시아경제",
+   "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zWE1MMVhoQnR1WmlkZ1NiVF8yVUQzNEJ5Y05sM1NXQzFCZVA0QVA3WlV3cHA5NG0xRkFKaWl4VlR1bHNOdWNLNWk0aXRYS0oyM2NhRXg4VGtVN05ncHJaR0owclNObk5Xa1VCVmk3QkVKTE96d0dja2tB?oc=5",
+   "date": "Fri, 27 Nov 2026 22:50:00 GMT",
+   "vu_le": "2026-11-28T06:00:40.611876+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "GOOGL Stock Price Today: Alphabet Closes at $274.96 - JournalArta",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdlRoOS10MTBLT25jaGREdG0xVDRodE5FRi1zX1RJZlBRYy1wRU5RVng3eVloWnRKbDVpWlV2UnREMFo4Z2VMQmJIU2FJNjU1MVRyZDQwQXhRVnk3LUVlYlBnV0lFV3hlc3ZTQTFBc1puVFJPZl83Tk9iWGtiT3BqemJWMnd3Vy1zakN0SnNMRFBOdGJSOFQxRG53?oc=5",
+   "date": "Sat, 28 Nov 2026 05:34:10 GMT",
+   "vu_le": "2026-11-28T06:00:40.611876+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Bourse : gains potentiels et risques à connaître - Actualité Financiere.fr",
@@ -6439,20 +6453,6 @@
    "titre": "Nasdaq futures surge as investors pile back into battered AI stocks - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA?oc=5",
    "date": "Fri, 27 Nov 2026 12:07:38 GMT",
-   "vu_le": "2026-11-27T14:40:38.412149+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Why Did Stock Futures Surge Before Black Friday? Tech Rebounds After Selloff - Around Prague",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY0lkaDJ5QkRmdXJNRktPaTMwRlNXRFBpdXd0blpEUl83WjczTmJnXzhaWmFzeEZyLXlPQWcwam9MODZRTjdTYlp0dGhjRHk0di1xN0Z3ZElxLWt6WnNYOUxpTEZObjkxMzhWbUQtcEdCdEREU0QwRTZUMTdEVkhYTWlwM1VmY202VnRla3BUdXlCZGtwZnNaUVVKc3EtTV92TzNhdXMxS1NzTTM3Rkkw?oc=5",
-   "date": "Fri, 27 Nov 2026 12:10:42 GMT",
-   "vu_le": "2026-11-27T14:40:38.412149+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Prediction: Broadcom Stock Could Have Another Big Year as AI Chip Revenue Accelerates - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakJSS3hzcVptX2RzblNLVFNDcS1PekgxMDd4T3NsTGlORk51eWlYR0dqZHUtalVnWVFHZlA1M01xY3NhSVlzMm05Yl84MkRzZS1xTEJEZi01OFdxLTFrbHVKdmhNek9iR241UkxwYU4tYzRueE9CNFMwcUJWMm5WMGcxY1ZFbG5jREp6MnEtR2xNTGJ1YmVwMTBaWDQtUGx1WDNIeWJYMEt0eDBnOWdsMDVxQ0tYYTREdFFlVU9XYWh1bm9VeHJJ?oc=5",
-   "date": "Fri, 27 Nov 2026 14:33:00 GMT",
    "vu_le": "2026-11-27T14:40:38.412149+00:00"
   }
  ],
