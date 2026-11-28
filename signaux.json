@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T14:20:37.070531+00:00",
+ "mis_a_jour": "2026-11-28T14:30:41.768480+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54139.34,
+   "prix": 54251.42,
    "devise": "EUR",
-   "jour_pct": -1.09,
-   "mois_pct": -25.69,
-   "volume": 61.34828458,
-   "volume_relatif": 0.28,
+   "jour_pct": -0.88,
+   "mois_pct": -25.53,
+   "volume": 64.13453546,
+   "volume_relatif": 0.3,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 10535061261,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 10535061261,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3371,6 +3371,20 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
+    "devise": "USD",
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
+    "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 14.4,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3409,20 +3423,6 @@
     "volume_relatif": 0.55,
     "capitalisation": 3346907996277,
     "per": 14.2,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
-    "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3655,6 +3655,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "I left New York after getting laid off from my tech job and moved to China at 29. I no longer want my old life back. - Business Insider",
+   "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2eF9lclpfYTZsRjhESUtyei1mS19GaG1iLTdMbjA1Y1RUZzlFX0F4eE5WdzZTU1BTam1Wbkp6QmJETVk5R2RudUhvZ2dsS3pRWW44dkpUdWYwS0lxS3RiRWZmZlNzZFBLMWhNMHo3eHppMVlBbC1F?oc=5",
+   "date": "Sat, 28 Nov 2026 14:07:01 GMT",
+   "vu_le": "2026-11-28T14:30:41.768480+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Redington posts record Q1FY27 revenue; PAT surges 77% to ₹486 crore - scanx.trade",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHVfeHJjRnBjZFJMX1RwaEY1djFPMmdsdzVCSUU1MXVBN1hnc1Fybkk5Zlh0S05jTkdmSnJzZ05ud0FGeWNTOUhDNzZHMC1fZjVJZ1pIYkQ4THdRaUhnVDBqcHRreW9PN203TWFuTFNkOVp4SEhCTExUdUtXTXprNmttMHJCbk1ybmk3ck1CdVR3S2xrMnFZZE5jR041bm5MMUVxeVJVVHlGOV96c0FocW52SGg?oc=5",
+   "date": "Sat, 28 Nov 2026 01:04:47 GMT",
+   "vu_le": "2026-11-28T14:30:41.768480+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "The Vita Coco Company, Inc. (COCO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qVXBDQU9wVXZNWlQ0WnhKR1I0UVU4T2JzYjZhUDdrZDlpYVBPbXVsNzFmOGlBUS1lRTRtbnQ5ZkZRWDZBdUFtWURtZk1haFF0TGc?oc=5",
+   "date": "Fri, 27 Nov 2026 20:15:43 GMT",
+   "vu_le": "2026-11-28T14:30:41.768480+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 28, 2026 at 10am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSWY0WGdyT3RscngxQjAtWUNmZXRkcDh0QnFHYWs2RFVNWkdiYUV6OHE1U0NTZlNGNzhKcXMyaUNKaTQ2cC1IcFh4ZzVkR0dMTXpqaUFQbnhHNVNtZFI4b1BHVDh2WmxxRVo1SXFCdWd2czREOGVnNjNwNWp1LXhTZHFTZ0wxYVBWdEJiWmZjc3JkOFJSLThCeEFpLXhBWjdBN0J6ZDhISUtoQmJBbzZj?oc=5",
+   "date": "Sat, 28 Nov 2026 14:09:35 GMT",
+   "vu_le": "2026-11-28T14:30:41.768480+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP Escrow Burn: Schwartz Rejects Validator Power - Bitcoin Foundation",
+   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVd6dm5wbF9CdWI1OTVpSzZRcUxzMWxJNVJhdEJCVFFkVUJ3LUNKcXBNVmVHdjRHcnl5dnVnS1QxeHJZRVZnRVBiaHRfZS05UUlqakpPM1kwbXZaZGtESmFWcEMweHNQNVdLTmpSVkJ5QWZqVFdWdGVhWlAyRjhSSUxhT2RjT2YxbXpOdmFTNHNKZWFKY280bEptWXRyV3BBVWRRNE15ZnRwYll2RDBqam5xMk8?oc=5",
+   "date": "Sat, 28 Nov 2026 14:21:31 GMT",
+   "vu_le": "2026-11-28T14:30:41.768480+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "What Bitcoin Did After Every Death Cross Since 2018 - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNGVfV3drcGlfam52alRPNHNaamZLZTUzQUM1NVQ2RzUzVnhhNVozcGFPWnBzTDlrdURlYTBOa0UzM1hCRzNLTktnalo1bUEzNHVnSGY5YUY0dkdtb2JrT1BjNDNJZ2syWnBpeHhiRXJ1NnJ5ZlRKaDhBT0N6M1l3bkFMeDBtb3Z3Tlo3Y0pyd1puOE5TOUlfREMyZFRvVzB0SDhEWFFuWFBQdVdpUkg0?oc=5",
+   "date": "Sat, 28 Nov 2026 14:21:00 GMT",
+   "vu_le": "2026-11-28T14:30:41.768480+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Anthropic s'installe à Zurich, et l'arc lémanique cherche sa riposte - 24 Heures",
@@ -6412,48 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSlI3YWVXeW1MWGpSa2otVzc3S291elA2NjZHWV9yTjVvYWU3aVFPR0pRM0E5TEdTd202dzVaR180cU91X3Z1dmhKd0doSnptSnVpdzh6a0piSS10TS1qS0kxQnNSNTVpbXNqLVp2VE53M0ZJMmEwd3dCRkR6WGdvLUpfOWFJUjBzOUN1UXBUNlFLTFU?oc=5",
    "date": "Fri, 27 Nov 2026 21:17:06 GMT",
    "vu_le": "2026-11-27T22:10:36.916563+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "AppFolio Outlook: Scaling SaaS Ecosystem Drives Sustainable Profitability Growth - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT3BJaS1sWHlDM3B5eHZIZHA0RVJoWFpqZ3JzQVh1MGl4d19lX2Z6Vk9VVmZsazBULWgtUjN6eHk4TTNIa0t1M25uVzdGSUhqeGk3Tms5NlppWURsZkQ0cldrSUtCdTlwcmstc1E0ZnVhX0V5TzBNaXZrVTBjWklQMnZyb093bGtvckJRdVByc3NZVk5ERFRzSktHdHRKc1NnUi00NmhUdHltSVg0ZWFWdEttbTM2UmtLNThIendVRVNRX3JKcmlESm1rOA?oc=5",
-   "date": "Fri, 27 Nov 2026 21:43:53 GMT",
-   "vu_le": "2026-11-27T22:10:36.916563+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Stocks To Buy And Watch: Top IPOs, Big And Small Caps, Growth Stocks - Investor's Business Daily",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNalhBdzdpcnBKOEwwSTJCSWppYUlkNXpQZ2ZSWHM3UEF4dzRtWm9fN2kybjhPdm5pbXlWdXpLX01jVUdmZmcyQVJnLTNDSktFLW5CQUd0YzZEanFmZ0F2QWlvcktxR0VaM3czZVkyY2xaN1dVaFJwTExuVDNUQjhJeDlMVXZaSzY3bmZVVUtId1FDM0FobWctZUhySTk?oc=5",
-   "date": "Fri, 27 Nov 2026 19:01:00 GMT",
-   "vu_le": "2026-11-27T22:10:36.916563+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "Adyen (ENXTAM:ADYEN) Stock Could Be 34% Below Fair Value Despite Smart POS Launch - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1pPU1cyMWNPUnpKemJhSm5LV1NILUxaMVBMdFFSOEthTFR5c0xuTEdVVmlNaHhFVDJiNVdlSWcyVnpoZ3pGMURSWlJZbzM5TWxXQ0Jlc3dWa2gxOHBCekZkV3dDeGoxNFlJTnZ5MFhSWXRGVGplaFVrcDVhNEdGUGh2VDhBMlA1UGpxUmQ5b19jV21sUHZDdFV1TQ?oc=5",
-   "date": "Fri, 27 Nov 2026 21:17:32 GMT",
-   "vu_le": "2026-11-27T22:10:36.916563+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "HYPE price on Nov 27, 2026 at 6pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRllHUVZadXJKTUotLXN3NlVHZFFZT1JPa21BN1B0VFQtdXZqYTgydkZrd1FKTG44SzNBU3RxYVI2aXI3STZxMVQ1ZGZlLXFMU20zTUNiQy1GakFZQ2tKYkRwTDYyU2pta3c5ZjZRTjJfU3RqNFZQb2pidk9CdS1TQWVwcUhwdUxwZjcxWnR6c1lLdWxMcW93dG90RjVWTmQwNUVnNkFiNUFHeDVpOXVJ?oc=5",
-   "date": "Fri, 27 Nov 2026 22:06:53 GMT",
-   "vu_le": "2026-11-27T22:10:36.916563+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic IPO raises questions for San Francisco housing market - HousingWire",
-   "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWVGNwQ1B6TFdsYlg5VENXZ3djc2FXTjRvNkRLOFVORGFHLWNfN1lQU1ZtalpvbE41d0RwRVl5alk1cXk2RHhzVEJkNjIzeG90amxtUU9BdnZHdWpoTjNDZ21FdERqSUhkbndJQkxNOA?oc=5",
-   "date": "Fri, 27 Nov 2026 21:51:25 GMT",
-   "vu_le": "2026-11-27T22:00:36.052539+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Stock Market Today, Nov. 27: Chip Stocks Rebound Sharply on Broad AI Enthusiasm - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWDZPMVJlb0tjRWFYbWdWbjRHZi03MFR3SGwzWTktelNJTnhzYy1TNXdLd0VMcE5qbWpwSE53MV9Hb2NMcHVEOVJnVlRpZVpwYWhCSm1sX2VCZjdTTm5RZVV3MmFhXy10NUIwMUVVa1lFOHpGV1JOekEwQlhXQThRXzU5X2F4cGt4UXUwLWgtaGpKZThFazNhQ0kwLTREMnFaU2JjWUsxYTZOTXQ0RHN3MjRacDVZUFF6WE8zMFRzN1N1QmR3QjkzMWNFenBSZlhGZndR?oc=5",
-   "date": "Fri, 27 Nov 2026 21:49:43 GMT",
-   "vu_le": "2026-11-27T22:00:36.052539+00:00"
   }
  ],
  "erreurs": []
