@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T04:10:40.893413+00:00",
+ "mis_a_jour": "2026-11-28T04:20:36.302273+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54887.27,
+   "prix": 54886.31,
    "devise": "EUR",
    "jour_pct": 0.28,
    "mois_pct": -24.66,
-   "volume": 3.70730966,
+   "volume": 3.72058819,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGM",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.81,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.26,
     "volume": 692191,
     "volume_relatif": 0.58,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street's Black Friday Bounce Could Set Record: Market Strategist Sees ‘Beach Ball’ Rally Ahead - Stocktwits",
+   "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb1E3aERrWEV2ZFBSY1g1Rk95Q3BoNkI3dGU4NUN5SHNkYnFPU1NSSzFkNkVBcVVZNS1leG4zZF9mSlBZSHhEVGRTMkZOWk5WajNkU25sZlIxRVlGd0hkTG5SM1ZxdmdfS2RZb0xMQWFQQUtDdXJfTjk1Q0otWENUZkZqeGhSc2VzckhhWlZ4Q2dxZmVubUd3ci1PLTFOWmVqRHl5LTd6OEc4N2ZEd0x6VGVBU01ySnFCVUNCendEVC11UktpRGRTUWtHamNRQXJyRTd2bE1fSHhMRDlCR0VaRXNBdmlTbkZ5Z3UyTkttbXA5QQ?oc=5",
+   "date": "Sat, 28 Nov 2026 00:59:35 GMT",
+   "vu_le": "2026-11-28T04:20:36.302273+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Enquête de la BCE : les anticipations d’inflation à un an grimpent à 3,5 % en octobre - www.tmgm.com",
+   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVFBTSlZ4WTFkSXNyajhkR1JaOUZnYzZaU2hYSWYwRnZTSjlRcWI3MWx1YmlpeVVHbGVadVUxOGctU29PTEF3bXg1RVVRdDk1dGlLMFJUUjhsVkZxZGl1Q1I5RV9RdzhoS0ZLUDZfQjVWTGdWeE5vM2dQcDcwOHl1VTFPX3FMRXZfQWM2MGxWQnhkWjJvZy14YlRFcGF0VS1GRTBqYmZ3U0NWRElJaDczM1RNMC02Y254YUp3a2d3NlRELTRoWEZYZW1iMW1WSFNIV2c?oc=5",
+   "date": "Fri, 27 Nov 2026 10:04:45 GMT",
+   "vu_le": "2026-11-28T04:20:36.302273+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Indonesia Stocks Fall 1% as Rupiah Breaches 18,400 per Dollar - JournalArta",
+   "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMEY1VVhuNURiV2JPZUo5eEstbGNoZnlGSjJWOU9Sc1BwZjJINmQ1Z1lLaFF2M1ozYnh5Mm9rWl9qd2tTM1RsRTIwd0x0N1A2QzA1dDh6b01fcmdmTTBDWWoxY1NGSWIwdF82ZTBld1FMeHlVR203Q1NQUmo0dlU2R3B0OGdzVGs?oc=5",
+   "date": "Sat, 28 Nov 2026 04:02:29 GMT",
+   "vu_le": "2026-11-28T04:20:36.302273+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "GOOG stock trails S&P 500 rally as AI costs cloud outlook - JournalArta",
+   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM0RwRG50ZWplcVZkQVFlOFJISVZjcWcxNTl2Q0RDR05IM2pmX3luOGFrd2NyTngzdVQySExxYWQ3THhNeXJLTHA0dVJ1SEN4Tm5RajR6bGhtWjRYMzNHNWEwb1RYTzFYdGZVa1NYYUhqSndyRDRkR3N0M2hZdmY2Rk5oUElfc1QweGM2TmVsUUwxbTRkZHFBLUhuWQ?oc=5",
+   "date": "Fri, 27 Nov 2026 21:54:54 GMT",
+   "vu_le": "2026-11-28T04:20:36.302273+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Broadcom (AVGO) Stock Price Today - JournalArta",
+   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSGhNdkIwYXFkVkxFRU81aFh0MUJJdjBQM0hOUEFycFViaFNOMHU1Y1B1YktMM2RtajUydGZUNGNsRURiMnR3SmRUM3E4M3NmYU8yd2hES2ZEOElmdkszMktKTHVKcjMxOTdjVlJXU1FTbWdPRFpySkVPTkJWMFliOVRJdURCWkg3bHVtZEZ3TmJtcTV1X3pXU2lMQ2tIN3c0ZmQzY21mVm85Q1Q4R2RkVDNpYWh1VE0?oc=5",
+   "date": "Fri, 27 Nov 2026 21:31:08 GMT",
+   "vu_le": "2026-11-28T04:20:36.302273+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Nvidia to Pay $290M to Settle Crypto Suit - Briefs Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0V3OXBxaE5pbWp4UmtmZ3JCc2RleWtnb0hXZFJmUDFaamtHYkRJT0dzeHY5eFlYeVJMQkJIajMwOV9jeXhkUDM0aW9ybjhGNm10dDZEc3lRR2loYUhobzlQb09jLVkwak9tbGpmUUlmRmRyeFRXQU4tSEpxM1VIT0k4Q3hPRVRpUVlWYmE0djE?oc=5",
+   "date": "Sat, 28 Nov 2026 04:03:39 GMT",
+   "vu_le": "2026-11-28T04:20:36.302273+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic IPO Tightens San Francisco Housing Market - Briefs Finance",
@@ -6411,48 +6453,6 @@
    "titre": "US stock selloffs trigger a new kind of dollar bounce - WTVB",
    "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR3BvbWZtbWM2ZGtQZXB2bjFjT0V0WHRFYmo2dnhka0F0cVViN050SmZKVGNNSmJOYllPZ1J1SFk1ZDVsdXRXbmlUUGY3cmh2V3lKZllkSHU5Mm15S0laUmo2LXZpdnJyREZZdllLOUtxd0ptTFJGSF84VFEtd2JoVEljQTN3eGY2NjJwLQ?oc=5",
    "date": "Fri, 27 Nov 2026 13:30:30 GMT",
-   "vu_le": "2026-11-27T14:00:36.498013+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Trump Says Wednesday’s Stock Selloff Had Him ‘A Little Concerned’ As He Defends Nvidia CEO Huang Again - Forbes Middle East",
-   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVHNwVzZQc2g4WE5hQ1ZkTTN1cU5xSWtBcTBhN3NhVl9QUGt4QXJtLWJyT0lpcERfbjNZZ1lybVZJNFpUNEhfOWp5dnV4dFBkUTlJNmJVMEhpalRUSUo0TFRqY09BWG00VFNXQlZJRDJKTUNzazVuN2JITjVZLTNyTkh0X2ZuNnM2V1NMb2tYOE5KSWM4UDZoZEZFUDI5RTRkRmtHSy0tWkdPMzYzY1RTY21aZ3R4SkxPUWFaSjZ4ZUxnd2FHQk9ZN3ZrX2ZDTWRCY015eWU1ZXRybm16bFZJ?oc=5",
-   "date": "Fri, 27 Nov 2026 10:07:30 GMT",
-   "vu_le": "2026-11-27T14:00:36.498013+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "US futures rally on AI rebound after bruising month, Treasuries dip - Reuters",
-   "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDB1T1E2SVA0LVpuZFR6d2d5dWFobkEwdkN5aFVmZUZKN1pSVWExbEJzWlZhV0tKcklRQ09yZlFTZklkLTBNSGFwbHBfbHR2SWZoQTdXcWtFdEViWGdQamN2a0JjWjZ4M0Mydmlpc1lrQUdYaFBNVkFBdTQ4djVpbjZrRQ?oc=5",
-   "date": "Fri, 27 Nov 2026 02:01:00 GMT",
-   "vu_le": "2026-11-27T14:00:36.498013+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "AI Needs More Than Nvidia Chips. This Stock Could Benefit - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVnJOLUlpNUV1TFRQY0ppN05nSDJBQ0Vral9Nb0ZmMEVxY3BTRm1pVTgySGlONmhuZ0lZOFFjSFhjb2gxdEJGbjJELTA0QTJBQjBmaHV1ZmxxVzA1eUlSTTN5LVc4eDdmRC03am10UlRERTdrXzRHS0dmZG5iOFoxRVlGYmdPVVh5NW95Vk14MnF2XzQxRlJCbHdaWG5IaUpjQXc?oc=5",
-   "date": "Fri, 27 Nov 2026 13:47:00 GMT",
-   "vu_le": "2026-11-27T14:00:36.498013+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "AI Needs More Than Nvidia Chips. This Stock Could Benefit - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWVpfd1V4N0g2eDA2a21CX2R4Nk1lbW1BUHZ4YXpuX2N5THZwUjBkcndEektIZjgyeU1MOVJ5VTdVLUxRalB2XzY3V0ZUbm1sX1ozVk1aQkJHdVlYd0tMQkFEQmFQejlYRjZ5dFRyQUdxV2ZZRl93TTZpRS1NX3VLb183VVp4MU40ZmkzUV9QdXFMTVFQSVE?oc=5",
-   "date": "Fri, 27 Nov 2026 13:47:30 GMT",
-   "vu_le": "2026-11-27T14:00:36.498013+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Regulators try to slow Asia AI selloff - International Financing Review",
-   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT3RBWmlkSGtld1Y1cWpuWVdvLTBRcmxHRHFxVWVJNTdlRFgyM21qaUp6S3BwenBvQnBXclEtdjNvdkc2SDV5cUNVN0lJWElTZDB2YUlTdDkyOXBkeHFCc2o0QlRSRWlCdkI5TElNZ3RIYTJpdVBTbks2bHNuOEpENXl5TnhKb0dLSzFRWk54bw?oc=5",
-   "date": "Fri, 27 Nov 2026 06:40:40 GMT",
-   "vu_le": "2026-11-27T14:00:36.498013+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Coca-Cola HBC Completes $2.6 Billion Acquisition of Coca-Cola Beverages Africa, Expanding into 14 New Markets - Yahoo Finance UK",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15dXdScjRJSGdjeDNaNTl0T3c4MDdPSVlxbzVaT1otRUpKVzd0a2hBX1VnUmIxeWhYUEFMVmxEc1dDLUxsWmxLU2dnWVRya0NuMzh5QUVOckllR0VBb3k2OUt2V1p0b2k1bkt2TXZtVjRlNVlobS1meHBmQ1BqSFU?oc=5",
-   "date": "Fri, 27 Nov 2026 09:45:43 GMT",
    "vu_le": "2026-11-27T14:00:36.498013+00:00"
   }
  ],

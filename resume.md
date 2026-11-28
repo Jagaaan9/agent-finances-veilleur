@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54887.27 EUR, jour 0.28 %, mois -24.66 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54886.31 EUR, jour 0.28 %, mois -24.66 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -288,8 +288,8 @@ POSITIONS ET INDICES :
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3349039139769.5396, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3344306225492.11, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1559025893850, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655656154.782, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700462317.067, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,12 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Wall Street's Black Friday Bounce Could Set Record: Market Strategist Sees ‘Beach Ball’ Rally Ahead - Stocktwits
+- [Banques centrales et taux] Enquête de la BCE : les anticipations d’inflation à un an grimpent à 3,5 % en octobre - www.tmgm.com
+- [Pays émergents] Indonesia Stocks Fall 1% as Rupiah Breaches 18,400 per Dollar - JournalArta
+- [Pays émergents] GOOG stock trails S&P 500 rally as AI costs cloud outlook - JournalArta
+- [Pays émergents] Broadcom (AVGO) Stock Price Today - JournalArta
+- [Crypto] Nvidia to Pay $290M to Settle Crypto Suit - Briefs Finance
 - [Anthropic] Anthropic IPO Tightens San Francisco Housing Market - Briefs Finance
 - [Anthropic (FR)] Les actions d’Anthropic clôturent au-dessus du prix d’introduction en Bourse après deux séances en dessous - Unite.AI
 - [Chine et Asie] China pledge lifts markets; ASHR leads rally - Briefs Finance
@@ -454,9 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Banques centrales et taux] Greg Faranello sur les facteurs déterminant le calendrier des taux de la Fed - fr.qz.com
 - [Crypto] XRP price at Nov 28, 2026 at 5pm EST Crypto Prediction Market - Robinhood
 - [Anthropic] S&P500 Forecast: SPX jumps ahead of Anthropic’s record IPO - StoneX
-- [Chine et Asie] Chinese stock market surges, its biggest gain in two years. - Vietnam.vn
-- [Bourse de Paris et Europe] Bourse de Paris: hausse timide avant le retour de Wall Street - Bourse Direct
-- [Chine et Asie] China Stocks Jump Most in Two Years as Beijing Backs Market - JournalArta
-- [Rachats et fusions] Altria Weighs Cash Bid For Imperial Brands Ahead Of December 24 Deadline - Pulse 2.0
-- [Petites valeurs en croissance] Galp (ENXTLS:GALP) Stock Could Be 40% Undervalued On Cash Flow Views - Yahoo Finance
-- [Pays émergents] Forex Reserves Lift India Above Vietnam in Emerging Markets Ranking - Industry O
