@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T15:40:36.265148+00:00",
+ "mis_a_jour": "2026-11-28T15:50:35.539998+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54206.73,
+   "prix": 54417.58,
    "devise": "EUR",
-   "jour_pct": -0.96,
-   "mois_pct": -25.6,
-   "volume": 68.08644179,
+   "jour_pct": -0.58,
+   "mois_pct": -25.31,
+   "volume": 69.61579058,
    "volume_relatif": 0.32,
    "capitalisation": null,
    "per": null,
@@ -3385,16 +3385,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
     "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
-    "per": 2.1,
+    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3413,16 +3413,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
     "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
-    "per": 14.4,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PK",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH-",
-    "prix": 21.12,
+    "symbole": "NYSE:BAC/PM",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK-",
+    "prix": 19.1,
     "devise": "USD",
-    "jour_pct": 0.52,
-    "mois_pct": 1.29,
-    "volume": 110706,
-    "volume_relatif": 0.53,
+    "jour_pct": 0.26,
+    "mois_pct": -1.95,
+    "volume": 178204,
+    "volume_relatif": 0.77,
     "capitalisation": 338593252758,
-    "per": 5.0,
+    "per": 4.6,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,69 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "actualites CAC40 7111TCIOPENS (F21VS) - Turbo | DE000FE1RC02 - Cotation EURONEXT ACCESS PARIS - Bourse Direct",
+   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVm5qUFB3WTIwRjV2VldDejN3VkU1SzRWcWhDTmR1TUVwYWptVEJtMjlVTVNvdXVua01ldWgtZlVqS1BfVWFOV1JWaG1QUXNDUFYzOXZWRmFmUmRfanZQWlhVS3p6bW5FVjF1ZzBfY3lJWGlBY3pHb3lkZzVUUU5GUzVBc2c2TVh5R3lXNXpBNnhPcmQ1VW9MN2FBcG5xeXFNNDVFOW1yNGRhREluOGtzYUJRdVVtaEFL?oc=5",
+   "date": "Sat, 28 Nov 2026 15:03:05 GMT",
+   "vu_le": "2026-11-28T15:50:35.539998+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "CLARIANE Cours Action CLARI, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hemZlLUdBX19oU3ZtTzZiM0tta2dkdXNsRmpNZmRmMFF6QlQ5SExTM2UzUENzbVBNbzEzbGhqaTRDanRkWVBia0VqM09SbmtuV1EtbA?oc=5",
+   "date": "Sat, 28 Nov 2026 11:27:05 GMT",
+   "vu_le": "2026-11-28T15:50:35.539998+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "ADP Cours Action ADP, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PVTN6aXJJNGxMbmE2RDFEMWdiRWNzU0hZU1hxTkFGTVNCdXBPX2hDQTdSSGI2N1hmLVpwUS0zRUhlYThrbjdRVThKTHNZc2Yza2c?oc=5",
+   "date": "Sat, 28 Nov 2026 06:23:42 GMT",
+   "vu_le": "2026-11-28T15:50:35.539998+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Taux immobilier 2026 : Barème, évolution et simulateur - MySweetImmo",
+   "lien": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWYW1GWno1aGlfTDJxdHktRk9CUHk3Vi1ibWtSM1gzaGFtZ0hZODUwV09zZ3hydzBwd3I5OFNQeTJnWG9JWElELU1YZ2l5a1I3TXUwOUxlaw?oc=5",
+   "date": "Sat, 28 Nov 2026 06:22:06 GMT",
+   "vu_le": "2026-11-28T15:50:35.539998+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Mythes boursiers – Perspectives placements de Raiffeisen - allnews.ch",
+   "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYzZZVHZ0d2hUYWZSN293TjRPNUk2bFVyQzVqZ2tLNzlqelRPS0xmY0RKdW1CX1hfTGVXS3VJU3VZQlMxRDV2aGk0R3k5QUlVcHFoWmpDS0FyRXFPbUMwYVJPNEFSeHdFX3ppdUxDVzVCS1hLc1RQdi0wSWhWdFM2cTR1SHQzQzFseDMyNWEyN2FQd052MjhxR1YzRnNPeUw4WEpRRmhHVmY?oc=5",
+   "date": "Fri, 27 Nov 2026 18:24:00 GMT",
+   "vu_le": "2026-11-28T15:50:35.539998+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "SSE Composite Soars to 3,606.49 Amid US-Iran Negotiations and Russia-Ukraine Talks - BBN Times",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2lNT1lzRnpJbHN3VzNIVU92bGZJWnhEQVVueFlNNnc2d29nbUxCWDhxZllKRWNZWWEzRVNkRDdrbVk4U0JVZTFsbEdqSFJwYnZwSFBFV2hIazVVeFlYVG8xRDVMQjlUTTlpZzMtS2QyOHE0Z0VVT1hBNks4elV4UkVBd1VMd0p4NTBQT3FkRS1kXzNHZGRRY0hVWjh3aXlVa19TZFYxT3dmLUkyVnp5QmxTenNTQTUyOHBfdGxCSQ?oc=5",
+   "date": "Fri, 27 Nov 2026 17:33:46 GMT",
+   "vu_le": "2026-11-28T15:50:35.539998+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Elon Musk’s SpaceX-Tesla merger push just got a new twist - TheStreet",
+   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWGh3UjJwSjZfZ3pydVlKYkhQeEpKdm5VRlNCSnpkNFFNeDVldkZzdHYxMDQ1aUhaOFhGT3FWUWc3SjNvZUpiMnA2SlJhczY0ZFBqUXRoRXh4V3dJeFNnNWcyVGljZUJVRHZJX0RlRWxIaG5WQmxMX3Bha3NXR1ZMV1dPR1FwRE9RWWFNRmNjU3YtbUdJNE96aw?oc=5",
+   "date": "Fri, 27 Nov 2026 22:03:00 GMT",
+   "vu_le": "2026-11-28T15:50:35.539998+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "General Electric (GE) Names Darin DiTommaso Interim Head Of Defense And Systems - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLV9rRDh3ZW14UnlRVzRTYThqMnN2ZGJsUEVjZDRfZU9UTm5Sc0VFcTg2YzFGVEs0WGZGcVljeE54bVJHekFFRWNYWi1PQURPNVdycU1va3NYamVOSUJmckR4NUVkWmlQdlRxeWhtSGRKLVNNdUtqMTRHcHcwTFltVFh4b3NqMVRkUS1LbDZmYVhXR1lPekZwWFNad2s?oc=5",
+   "date": "Sat, 28 Nov 2026 14:08:10 GMT",
+   "vu_le": "2026-11-28T15:50:35.539998+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Is Solana a Good Investment After Falling 44% This Year? - 24/7 Wall St.",
+   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRFktRFBiUldBSVpaWHJzZkVtai16ZDFRcGhnSW9CYzYtM0RaOEhQUnRxQ1dGaEROSFFGdVZUbFdCUjNNZ2FPV2NNWEV1aDZoS3lrLUFETVkyNm9lLWZBWEo4OVo5Rml5aU9jM2hJUlotdWhHMlFFSkpUNHN4R3NJVkMwdnV5RTRtd3AyMzhRVTNWWkF0VG12d05TMTBfYW9QVjk3SlN0SDd0bEs1ekFKR25YWQ?oc=5",
+   "date": "Sat, 28 Nov 2026 15:07:00 GMT",
+   "vu_le": "2026-11-28T15:50:35.539998+00:00"
+  },
   {
    "sujet": "Anthropic",
    "titre": "Anthropic stock rises 11%, climbs above $83 IPO price - Tech in Asia",
@@ -6391,69 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Nb0FQOVRHbDdqYXJVRjdoZWE5VjQxQi1hWjVpaWlJYm9DSG1rSlZXSEIwQk1jZm5qb1hLdjVraTk2bFdoT3pPWXpqX2xSazZ5NEJzUVNrVkgwd0tUazNsakJ2a0xHSFpFak43QnNEQnpxWEczMkE?oc=5",
    "date": "Fri, 27 Nov 2026 23:27:49 GMT",
    "vu_le": "2026-11-28T00:40:36.803275+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Meituan Swings to ¥50 Billion Profit in July-September Quarter; Core Business Operating Profit Hits ¥140 Billion, But Adjusted Profit Misses Market Estimates - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xeTQyZElFTFhaa0RNOHNCSzY5czBmTTJST0o3LTZFUDJUNldxQlA3SjR2bjJadzBtME5fb0E4MWt1V1laLVYxdDd5dTVFZ0VuWjB5a09MVFdxYWtnZ1p2eXNMQ0xJQXFRVUhQcFN6SzlGVDNhemc?oc=5",
-   "date": "Fri, 27 Nov 2026 12:35:00 GMT",
-   "vu_le": "2026-11-28T00:40:36.803275+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "5 Growth Stocks with a Competitive Advantage to Watch Before 2027 - Equitymaster",
-   "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DODM0UDhEbGFRYWR3OXpNY0lBaDg1alFqaTJRY1lYLWxxRzdZQzJHS2lrOVdnT0hpY0ZVa0w4bGhpTEY1TzNEM0Zzdk9oc0YtQmhjTGUxclRCc1hTWWlfUGpQT0xYd29HWWR1d1ZMbw?oc=5",
-   "date": "Sat, 28 Nov 2026 00:30:00 GMT",
-   "vu_le": "2026-11-28T00:40:36.803275+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "J.P. Morgan Sees Indian Equities as Safe Haven From AI Trades, Forecasts 12% Nifty Upside in 2027 - Tekedia",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUVMbW53VWFCUUF6OUJvNXRfb3JVMEw1N2Rkc0RYNUtHaXVBVGhQUlZFQkRnNmYtMDZiQUVHLURUQjQ2eXRsdEl5R1VYUnZub0N3aV9mUmlaQU43QWJTNndFNTVoa1VaTW04Qzdsb0kxb2Vkb1JxVnpidnktYl94SER1X1FIbVl5Tm1qTXJUR0dEOWFpZ19mY0xPTWFuR1RvVmVDS1k5aEwtcThoVENVRi00LXhvWk5vVHMw?oc=5",
-   "date": "Fri, 27 Nov 2026 19:34:43 GMT",
-   "vu_le": "2026-11-28T00:40:36.803275+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Jet Fuel Prices Are Falling Fast. What It Means for Airfares and Airline Stocks in 2027 - U.S. Global Investors",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaE9WZlpTVDRmN1Vya3RkZ2lYcjhVdXZLbEhFNTZBZ1YzalNrRmdYRjVVNl82RzhpVHVlTTdoRTJ0MlY5YmJzWWc5andMRlFhSTNTR2s1bjljTEZ4UlhYUzd0Qm9EQVpZbVhvT0hqeGcxcTJzZUg0ZlYxVDZKeHE2MUIyNGs5U1hOYVRPcGtVWjQwSUw2Y2VFZmxfYk4teFJkeVFGeXhzWVNyUnZRN05RRk05eWJjdEgxMVYweg?oc=5",
-   "date": "Fri, 27 Nov 2026 17:23:44 GMT",
-   "vu_le": "2026-11-28T00:40:36.803275+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "AIRBUS Cours Action AIR, Cotation Bourse Euronext Paris - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84SlphRllEQkxmMkZGLUlPN01neURBczhoN29RNzBuTDhjVHNzT2N0bTlVUlRsdjJmT213R0RnTks4X3Z0dlNEcVh1VXNxZ0hiWnc?oc=5",
-   "date": "Fri, 27 Nov 2026 23:32:58 GMT",
-   "vu_le": "2026-11-28T00:30:35.124920+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "SOL price on Nov 27, 2026 at 6pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYWtkYVhGbVNhVFVXWjhjeWNIUE9wRnl4S25ZUmRMUWJkN3RuX29ZU0g1UXNLUm1BSjltVWdJdkVXRG4wZGlmRFZiRGlEeF83SXlvdzdEUW9BeENMRVQxMWpPQUZDNl91UUpKdE10dHNuTXlKTV8wRW8tNEFtLXpva2ZCUUlpeExTakxPdjhBV3ZmMUtYZHFfSWdXejBudF9JM2MydHZGUTNFWnVIZ3c?oc=5",
-   "date": "Fri, 27 Nov 2026 22:02:52 GMT",
-   "vu_le": "2026-11-28T00:30:35.124920+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Les Bourses européennes rebondissent légèrement pour le Black Friday - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOTUFHem1BZlUtSHpxdGdxMERJMVo3LU5nWEg5NzdmTHE3TE8xNTFxanN0TFJrVEIwQWdhT0dXZmUyOWZSaXM0WnNycXJFZUhCWkE0bXFNSEEyaUhFQXNjdzB6MUx5Y2lTb2lrdWsyX2xOYUxkOWFheW0xcHBIOG9uNFkzN0VUUFRCMVZ3MDFibXRScHdHVjhrUjM1Z0o0NXl1WU55RjMySjlFZloxaFRxLWdzNkJBWHFLQ0loVUhyeWtYcUZLM2lISVRUSlhvQUR4dUNBenBzMVRuamp4ODZlRnRjWXROX01PZUM1X2ZmMTU2aWtsd1FmT1lTaUZMNVVwSDJSX3hFRktWbzdpdWZzOWNBMXktLXA0R0lvbHZhOTllVUc1N1FGXw?oc=5",
-   "date": "Fri, 27 Nov 2026 11:21:00 GMT",
-   "vu_le": "2026-11-28T00:20:35.100257+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Chip Pickering and His Telecom Competition Approach to AI Infrastructure - Broadband Breakfast",
-   "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbmZNbjdGbWtkV093S0liMmpZMVhoYlNCU0Ytd3k5NF81MEtsRDdOWW1WeDdlLTVKZ1liNE9FOGN5ajl3T2ZsNkljTk9VNXRqZVRqek80WmIyeklRa28xWElRSEZxU3VYYVpXd1R4SUlrMG5ZenMxUVdoYVB5bmlwV1FKZ0NYelkzY192Ym1VRld5ZmdFdU41cXJSZTZtOHloQ081bTlZNA?oc=5",
-   "date": "Sat, 28 Nov 2026 00:14:02 GMT",
-   "vu_le": "2026-11-28T00:20:35.100257+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Vivakor (VIVK) highlights Direct Midstream Texas water deal - Mugglehead Investment Magazine",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZXpMSXJGYnd6M09uLWNwUmVvbGtkUDMwTklaMUZMTGJPam5rdHctNm82OXU1TGd4TnE0QVdFUmhfWjU4czZSLUY3a1k0SGMwcHd0T0k2NnNHdXRwcDhNbzVYanF6MXVpdy1qOUk2dHlMQjBlUGc?oc=5",
-   "date": "Fri, 27 Nov 2026 18:49:29 GMT",
-   "vu_le": "2026-11-28T00:20:35.100257+00:00"
   }
  ],
  "erreurs": []
