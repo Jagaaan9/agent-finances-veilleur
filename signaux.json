@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T11:10:36.508149+00:00",
+ "mis_a_jour": "2026-11-28T11:20:34.908629+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54122.2,
+   "prix": 54169.7,
    "devise": "EUR",
-   "jour_pct": -1.12,
-   "mois_pct": -25.71,
-   "volume": 52.63461038,
+   "jour_pct": -1.03,
+   "mois_pct": -25.65,
+   "volume": 52.85888354,
    "volume_relatif": 0.24,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 1001984170,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 1001984170,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3371,34 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
-    "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 14.4,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOG",
     "nom": "Alphabet Inc. Class C",
     "prix": 272.44,
@@ -3423,6 +3395,34 @@
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
+    "devise": "USD",
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
+    "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PM",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK-",
-    "prix": 19.1,
+    "symbole": "NYSE:BAC/PK",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH-",
+    "prix": 21.12,
     "devise": "USD",
-    "jour_pct": 0.26,
-    "mois_pct": -1.95,
-    "volume": 178204,
-    "volume_relatif": 0.77,
+    "jour_pct": 0.52,
+    "mois_pct": 1.29,
+    "volume": 110706,
+    "volume_relatif": 0.53,
     "capitalisation": 338593252758,
-    "per": 4.6,
+    "per": 5.0,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "'Big Short' Investor Michael Burry Thinks This Chinese Stock Is Worth About 60% More Than Its Price. Should You Buy? - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZW1RTndjZjVqc2w3bmFQYkhaNm1Qd214Zi05TlJrVjlUM3BxdXVHZ2VaS0tScXZ2R244bHYtTFdQWTJDWVAxZlY3UnhlLW1BbmdQNDA1b1JsU0Z0SEYtbkNiaENmMmtwZHRTVHZVXzFoUmxiRDBQcnMtclg3MjBTM2xyNTg1NkpIc1RldWdIS1JLSlB0dlFRc1V5NnUwM29QdUx4cGJ3SGx4UmN0YmViOXUyWlJIdWN5WDlXVjVMQm1xMWpiSV9oYWpIbXc4QTM0U3pYWklXRHdrWHhhbm1fal9PLTYtUHpRY1RNRVFxWGNHREl3dDB3RG1qUFdKakZJYVdYaG1pOWdPaTBTUW9JWHJnMjBlVklsdzNrNU95NnlLNG8?oc=5",
+   "date": "Sat, 28 Nov 2026 05:08:52 GMT",
+   "vu_le": "2026-11-28T11:20:34.908629+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Bangladesh trails regional peers in market cap-to-GDP ratio - New Age BD",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUUVBSEszSFdQbTNaSGRKSEFyc01ad21GSzNXWXpUWm5uU1BETjUwVzBrcE9HVmNPYkpPTmI1THpZaElMRDZiRldNUE1OcFI2TklmV0xodFJzQzlnNWltb21nMmxyWDRORGFaSlJqczNZTUlnOE1OY0ZfSDV4a0V5YXlCMmFZeUhWbl9xQWp4XzgwQklfSXVyejk5QzVzTE9JR1pKQ2N3?oc=5",
+   "date": "Sat, 28 Nov 2026 04:57:40 GMT",
+   "vu_le": "2026-11-28T11:20:34.908629+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 28, 2026 at 7am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUpGMzVKVmZsWlpFNHJ6SmNtLVpvZ2NZemQ3blVmQlo1cmtCTlNGOVlXOVhQTTFlWER0dldIQXNtazRQVTE0TW5ZaXBwYlhHVW9zbnJ1OE1CNC1yRXROaHpTelA3d1lkVWZYRXR0ZnJ2WlhWQ096M0dlZm40Qi1seXZ2T0Ztd0pPeWJRYXdXMFhPaWRUZlZIMWdfeGFqZUs1dlM1ZFZWYWdObmdvLWc?oc=5",
+   "date": "Sat, 28 Nov 2026 11:05:16 GMT",
+   "vu_le": "2026-11-28T11:20:34.908629+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "US Dollar: Fed seen hiking twice as labor market holds – Commerzbank - tmgm.com",
@@ -6433,27 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oMFc5d0lZMmZIRGlUcE12WENWbi1WQkpSZlZIWVlYR3VKc0hxQmpDWS1fanlJamFPcEhmcFpvRFJUZXdlUHYtYVBQV0JRckdx?oc=5",
    "date": "Fri, 27 Nov 2026 16:45:59 GMT",
    "vu_le": "2026-11-27T18:00:35.916730+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "L’indice du dollar américain marque le pas sous 104,00, les anticipations d’une Fed restrictive limitant le repli - www.tmgm.com",
-   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeVhubjdEUWt3RnJJNldqcGNZMmVCVlAxbGVyTXFrR1VwMm5OTkszRjZsUm9fdm8ycG51UzdJNW5sc2V4MWpfaWowbDBtekNGQm1pYjZlWHdiUUI4cFJJRVROUGdSeDYwTEE3VkU4RzhUR2F4bC1GZ05WTVVidzQzdnFyMzZSZnIzYU5QaS1mN0tjYlgzV1Npckx5d2tOVVlTYmQ1R0ZIRE9CcHZIWFY5ZThTczMwRWx1NnpnYUx5ZlFYdk9GOWpCbU9EcVFLM2NBM2Jj?oc=5",
-   "date": "Fri, 27 Nov 2026 12:55:20 GMT",
-   "vu_le": "2026-11-27T18:00:35.916730+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Dollar américain : les anticipations de resserrement de la Fed limitent le repli sur fond de rebond des actions - ING - www.tmgm.com",
-   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk4xaWlGVW5US2RDOTV2b1hQVk9DU2R0Y1dxampnVVVDalZHb3EwZzd6bGtSNXh2VEtPY19qYW55Y3VfYnFqR2FobHhIdUh4NnpEQVZ6TW5TLTc3dGp5d21oRTZ4bE5CTkVObl9lR2RZSk9xcVRnZHlGOUJsOVFfcWlOOGV6dUFvaEp6ZXE4MkgyX0x0ZTlVMW4yV0hxUE1uMTU2U3pPNGFsOFlrYlRCWGNqVl93bDBGRW5HdmktbkFoLUhUa014NUtxNlI?oc=5",
-   "date": "Fri, 27 Nov 2026 13:39:40 GMT",
-   "vu_le": "2026-11-27T18:00:35.916730+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "Les Bourses européennes rebondissent légèrement pour le Black Friday... - Fortuneo",
-   "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHlZWU9FdFdENUdtSVhEeXRhdEZEUzVJTmZIN1g4ZTIyVXcteG95b3BZdXlwWm1sZWpCWWFjb0gtVEZBYzZYWlpSWWZTd1ZrcnJoVS1kWDBzZTc2bEZiaVBWR01jZUVvb2RjVGNPeWtqejg4UjVoc290NmNDTW96akNuNFdVTUtxQTVld0JSWEwwTm43WEVYNjhjR045azRFQmJoYllxQ1NhVV91TXhJbnM1TXPSAboBQVVfeXFMTXc4YXpwRS0zd0h5ZUFrYUxYVVRORmkzbnBaRzI2UWRzbHNSWnRtZzR1N2VTb3B0cldEa1ozaHZBTG9FRGU1UUQzVVdnY25pMEtMTFI4ckVPNXNDWUVfZTJVQVFlQjBydkFPRUk4cWwzdklRa2M3UXJxeXEyTzM3MVplTGw3TXA0RnkxUGdDckpjU084dy1nQzRhSjBOVXFiWGM1N2twZENEWU9SMDBfbzFPOTVycDNOdHNn?oc=5",
-   "date": "Fri, 27 Nov 2026 11:21:00 GMT",
-   "vu_le": "2026-11-27T17:50:37.209640+00:00"
   }
  ],
  "erreurs": []
