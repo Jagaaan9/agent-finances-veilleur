@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54123.84 EUR, jour -1.11 %, mois -25.71 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54164.36 EUR, jour -1.04 %, mois -25.65 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -286,16 +286,16 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -0.08 %, mois 21.84 %, prix 8.736 EUR, capi 8810130130.895283, PER 10.9, volume x0.29 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
+- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
-- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
 - SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour 7.52 %, mois -24.25 %, prix 119.5 USD, capi 579228478930.6643, PER 6.7, volume x0.77 la normale
 - Tencent Holdings Ltd Unsponsored ADR (OTC:TCEHY, secteur Technology Services) jour 3.97 %, mois -8.56 %, prix 45.29 USD, capi 404554837871.25, PER 12.2, volume x0.7 la normale
-- Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP- (NYSE:BAC/PP, secteur Finance) jour -0.34 %, mois -1.23 %, prix 14.51 USD, capi 338593252758, PER 3.5, volume x0.89 la normale
+- Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK- (NYSE:BAC/PM, secteur Finance) jour 0.26 %, mois -1.95 %, prix 19.1 USD, capi 338593252758, PER 4.6, volume x0.77 la normale
 
 ÉCRAN France : meilleures performances sur 1 mois :
 - Clariane SE (EURONEXT:CLARI, secteur Health Services) jour -1.54 %, mois 46.05 %, prix 4.618 EUR, capi 1649834769, PER 130.5, volume x2.03 la normale
@@ -310,6 +310,10 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Chine et Asie] AMD Shares Just Got Crushed on a Short Report. Why the Drop Is a Golden Buying Opportunity. - Yahoo Finance
+- [Chine et Asie] China Sports Weekly (11.22-11.28) - www.indiagazette.com
+- [Défense, énergie, matières premières] J Sainsbury PLC Share Price - SBRY, RNS News, Articles, Quotes, & Charts (LON:SBRY) - Proactive financial news
+- [Crypto] Bitcoin Price Crashes Below $60K Again: Why Is BTC Struggling to Sustain Its Recovery? - Coinpedia
 - [Anthropic (FR)] Le Point J - Anthropic: pourquoi ce géant de l’IA agite-t-il la Bourse? - rts.ch
 - [Banques centrales et taux] Les anticipations d’inflation repartent à la hausse dans la zone euro (enquête BCE) - Agefi Luxembourg
 - [Petites valeurs en croissance] META_TITLE_SECTORS - Yahoo Finance
@@ -456,7 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] There’s ‘A Tourist Element’ To Bitcoin, But True Believers Are Dug In At $60,000, Says Eric Balchunas - TradingView
 - [Anthropic] Anthropic Stock Is Back Above Its IPO Price: What Could Move Shares Next - Around Prague
 - [Anthropic (FR)] Action ANT à 91,88 $, de retour au-dessus de son prix d’IPO à 83 $ le Black Friday - FinanceFeeds
-- [Banques centrales et taux] La Fed va-t-elle relever ses taux d'intérêt autant que le marché l'anticipe ? - Vietnam.vn
-- [Banques centrales et taux] Inflation zone euro novembre 2026 : aperçu flash et BCE - Admirals
-- [Intelligence artificielle] What Broadcom Stock's Google Chip Order Cut Means For Shareholders - Yahoo Finance
-- [Défense, énergie, matières premières] GE vs. NOC: Which Aerospace & Defense Stock Should You Invest in Now? - Yahoo Finance

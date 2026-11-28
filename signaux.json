@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T12:50:36.249198+00:00",
+ "mis_a_jour": "2026-11-28T12:55:30.942452+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54123.84,
+   "prix": 54164.36,
    "devise": "EUR",
-   "jour_pct": -1.11,
-   "mois_pct": -25.71,
-   "volume": 56.54750092,
+   "jour_pct": -1.04,
+   "mois_pct": -25.65,
+   "volume": 56.70605287,
    "volume_relatif": 0.26,
    "capitalisation": null,
    "per": null,
@@ -3371,6 +3371,34 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOG",
+    "nom": "Alphabet Inc. Class C",
+    "prix": 272.44,
+    "devise": "USD",
+    "jour_pct": 0.54,
+    "mois_pct": -14.83,
+    "volume": 14018416,
+    "volume_relatif": 0.55,
+    "capitalisation": 3346907996277,
+    "per": 14.2,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3395,34 +3423,6 @@
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 14.4,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOG",
-    "nom": "Alphabet Inc. Class C",
-    "prix": 272.44,
-    "devise": "USD",
-    "jour_pct": 0.54,
-    "mois_pct": -14.83,
-    "volume": 14018416,
-    "volume_relatif": 0.55,
-    "capitalisation": 3346907996277,
-    "per": 14.2,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PP",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP-",
-    "prix": 14.51,
+    "symbole": "NYSE:BAC/PM",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Perp Non-Cum Pfd Registered Shs Series -KK-",
+    "prix": 19.1,
     "devise": "USD",
-    "jour_pct": -0.34,
-    "mois_pct": -1.23,
-    "volume": 160626,
-    "volume_relatif": 0.89,
+    "jour_pct": 0.26,
+    "mois_pct": -1.95,
+    "volume": 178204,
+    "volume_relatif": 0.77,
     "capitalisation": 338593252758,
-    "per": 3.5,
+    "per": 4.6,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Chine et Asie",
+   "titre": "AMD Shares Just Got Crushed on a Short Report. Why the Drop Is a Golden Buying Opportunity. - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOakxtZEd4YjlkVm5iekRXalUzVml0aENZclo4UG5neGd6dEhseXE4Q1YzOVdJWlBJZWxLX0JVc2F4elFZczloN2p2NkNkSmtvakhlQlBfX0lMams5amtKZU55LU9XUk40TWlHQVcwLWdhYUlzamZjSjVMVnROVXE0Vi1XYVpyc2tsQlBybGlSZlg1UmNnWXo4?oc=5",
+   "date": "Fri, 27 Nov 2026 21:04:02 GMT",
+   "vu_le": "2026-11-28T12:55:30.942452+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China Sports Weekly (11.22-11.28) - www.indiagazette.com",
+   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yX2tNVV91cTlOaXFQMXMxU1VKWDcxNno5NlJjQ29GWk8tLWpGNmJzQUdSS3F1YS1VYklld21pR3dISmVHQ3ZVRWJVTk1ETHlaeV81QW03NDd3SjVrblpTUzBVWC1jXzJIMnlFVW1FMlZlM3ZlRGpQTHhEcllYUQ?oc=5",
+   "date": "Fri, 27 Nov 2026 21:50:00 GMT",
+   "vu_le": "2026-11-28T12:55:30.942452+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "J Sainsbury PLC Share Price - SBRY, RNS News, Articles, Quotes, & Charts (LON:SBRY) - Proactive financial news",
+   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CYVhhUE5YVGJFcWlkWnNrR1lmQmVxREV1b3VrMHdHRW5lZTVzSXNNRVRFeURSTzBVQ1B6Ml85ZlRfNzFhb09fQlZzc0wyRXZNRzdENFkyUWpjYm5rVlp3ODJZbkVJRUpaOVFfblhjc25rSHc?oc=5",
+   "date": "Sat, 28 Nov 2026 10:38:54 GMT",
+   "vu_le": "2026-11-28T12:55:30.942452+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin Price Crashes Below $60K Again: Why Is BTC Struggling to Sustain Its Recovery? - Coinpedia",
+   "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVzl5bDJkM1ZpbDlNbmVQRzUzYU5lc0dBeHYxTTlLOW16SVFfZ0JlVHFJRTRfaWhuQkVxMUlxY1ZZM1VLLXhNZmhPYjluWHRsQmktbDJqZW1rdGRWbjVjSEgtUjNVUFFYRWVBOEIwdGk3VmE2WHNZb0xSTUNoVUJUanBEOFVfelQxUERNWktOeEhoQXVFSG02ZFNFUUF5VFBQR0NoWW5aZW9obVlkT2FRWlU5Q0trSkNIY2VnSzFn0gHDAUFVX3lxTE5Rc3VaMzZha19aei1UTW5xdlRzMjlvMEZvWk4xMDdUM201dUx1YUFDX0RkM3dqT2I5elh5RE9nWWY4bkVlZWs3SFFSRkhTa1V2WWlWaFFzQkh6ZDlTalhHYWJzQnQ4MzNYRHhMTGU1Ql9pa0o5aDNTQTU4Y180bTBFNDlrcURMeEFNWHNFdkR5RnhQU29pejROQ3RheDU0N3BxZ1VSa1drb1hkQ21pbnJZUTFxNzRLa3lzYXFaSFRQT0dwYw?oc=5",
+   "date": "Sat, 28 Nov 2026 12:45:47 GMT",
+   "vu_le": "2026-11-28T12:55:30.942452+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Le Point J - Anthropic: pourquoi ce géant de l’IA agite-t-il la Bourse? - rts.ch",
@@ -6425,34 +6453,6 @@
    "titre": "Anthropic’s IPO Hangover and the Worst Acquisitions Ever - The Motley Fool",
    "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVnlMMnBYVFBHR3o3TDR5bzY4Q0haMGZ5VWgwdmM4MFVXbF9tQU0xMEtlWFI4bV9qVXNRa09MY1VtQ2JWcUVoOE84Z29wODhzVkZEdVJqZk42Q2tXZENTN1JfTVNWM2ZtX3ZzUUFwWnhsVlhwdWR0M3d3NmV5bTVIeFZmUWhUbjRNX0pPanJ6dXpUUEVmb1RYbUI3QnJwTklZ?oc=5",
    "date": "Fri, 27 Nov 2026 19:46:01 GMT",
-   "vu_le": "2026-11-27T19:50:41.285607+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "La semaine à venir à Wall Street-La volatilité des marchés boursiers sera mise à l'épreuve par les chiffres de - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNZXNEbVIxWmxiUHBCWXVMNmNkbHJjSmtoZTBKQVNLYWF3Um1reVVzWHFCamVmRHhVVU9BX2dvaGxmX0llMWNUbHNmckxYNlQ5VmMwV0NuX1RMSHBMMDJLX21leFZ5NFBPb2RRRWxfVWJ3OTgtU2Y4d0gyR1hxQzZTaU5uYXBJNlVmQjJBNjR5SUgwa3djVFJfeHk5MjA4ZDhhMS1QSWxKV0JLRnRlaUJjNWFTVVpDd0VqQXdHRGJnZDdnZEZXWUdCa2tOd01GbkczU01ldkQzTW9zQkxMMlI2MnloUzVvUXp2Q2o4emFiSTNIb0JvYlRDMk1sS3ZqOElwVFpyc0pXdXUycEtJbnlqRkMxaFRmdGRsTEl1OVpNa1ZFMFdCN1kzRzJ4b3FEckFCbjRSWmNDSjR4NkVVdVh4SG5wVUZzeUpvMnZxS2ZmdVhMUVlWMTNMc3ZnYk5ObW9WQzhGekJ0YXp5Z9IB6gJBVV95cUxNZXNEbVIxWmxiUHBCWXVMNmNkbHJjSmtoZTBKQVNLYWF3Um1reVVzWHFCamVmRHhVVU9BX2dvaGxmX0llMWNUbHNmckxYNlQ5VmMwV0NuX1RMSHBMMDJLX21leFZ5NFBPb2RRRWxfVWJ3OTgtU2Y4d0gyR1hxQzZTaU5uYXBJNlVmQjJBNjR5SUgwa3djVFJfeHk5MjA4ZDhhMS1QSWxKV0JLRnRlaUJjNWFTVVpDd0VqQXdHRGJnZDdnZEZXWUdCa2tOd01GbkczU01ldkQzTW9zQkxMMlI2MnloUzVvUXp2Q2o4emFiSTNIb0JvYlRDMk1sS3ZqOElwVFpyc0pXdXUycEtJbnlqRkMxaFRmdGRsTEl1OVpNa1ZFMFdCN1kzRzJ4b3FEckFCbjRSWmNDSjR4NkVVdVh4SG5wVUZzeUpvMnZxS2ZmdVhMUVlWMTNMc3ZnYk5ObW9WQzhGekJ0YXp5Zw?oc=5",
-   "date": "Fri, 27 Nov 2026 18:19:46 GMT",
-   "vu_le": "2026-11-27T19:50:41.285607+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Organigram, Aurora File Joint Management Information Circular in Support of Arrangement Agreement to Establish a Global Cannabis Leader - Cannabis Business Times",
-   "lien": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNcThYRkZlV3NnelFTMkNLdFAtWDBjQVlZanpLT1hYRHpaM3BwUTg3OTEtdGV2M0plV09FdXlIdXlhYURpcFBzNi14aXBQcW41Y0FzY2ZfYnhCd1RXcXFiR2VtUTE1Ulc4YTc2WUw0dHBSeG9Sd0RDNXFzbW51ek1ibkFKcGxhUkJVZWxGeURCR2hkVVJpUzVfd0w0dy0td3J5M1R0QmtRWmpqNFpzdjJvajNOU1NTTDdZV2xpVHUwZklmaUtTbFp3QWxxeUlkakRCNzhOZVNKOHY5NHN6TUR3bmd5RmZLQV9Kd21oRVN5ekZHUkRVcVk1d0g0bmM4SC1XbHUtNjNGLUJERVhqSmpaWENDd2pramxwcW5TNTdvMjY1RUhRUXFHR1JJRFl6RkxiZThmYTNrcUZleno3Tk50QWVUTDhMazhEUEZEQjdaY19vcDNQbGN6UUJR?oc=5",
-   "date": "Fri, 27 Nov 2026 18:36:04 GMT",
-   "vu_le": "2026-11-27T19:50:41.285607+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Canadians Pay $1,500 a Year in Phone Bills. A Merger Could Make It Worse - The Walrus",
-   "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MeDNxMkRMaVROVDkzZ2tUbU9OU1BpSkppdlRWZXJQQWh3MHBhb3l1cmkzSkF0VS1KUnY4ZVhHTHo1NnRrYVVja2hXMl8zNzI1aG0ycmV3?oc=5",
-   "date": "Fri, 27 Nov 2026 18:45:08 GMT",
-   "vu_le": "2026-11-27T19:50:41.285607+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different - Decrypt",
-   "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTlZrWkEtc3R3a21nb29sZm9oODFOYTJ1MmMtTlRiZGZ6aEZack9WLVQyQjN1NWJUeUVWLVA1OE9ObE02MlczNnVfOHR5TEZFT216LWlYanAtWFpTaDBoNUNTLXpkUXNXS0V4dE9keUp0QVRfclpkWnowY2lFRlk?oc=5",
-   "date": "Fri, 27 Nov 2026 19:46:02 GMT",
    "vu_le": "2026-11-27T19:50:41.285607+00:00"
   }
  ],
