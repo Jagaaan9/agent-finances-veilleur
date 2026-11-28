@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T10:00:34.497632+00:00",
+ "mis_a_jour": "2026-11-28T10:10:39.797815+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54458.7,
+   "prix": 54313.96,
    "devise": "EUR",
-   "jour_pct": -0.5,
-   "mois_pct": -25.25,
-   "volume": 46.23664903,
-   "volume_relatif": 0.21,
+   "jour_pct": -0.77,
+   "mois_pct": -25.45,
+   "volume": 47.85479271,
+   "volume_relatif": 0.22,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -794,7 +794,7 @@
     "volume": 120172,
     "volume_relatif": 1.17,
     "capitalisation": 2936351075,
-    "per": null,
+    "per": 40.5,
     "bourse": "EURONEXT",
     "secteur": "Consumer Non-Durables"
    },
@@ -3371,16 +3371,16 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
     "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
-    "per": 2.1,
+    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3399,6 +3399,20 @@
     "secteur": "Technology Services"
    },
    {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3409,20 +3423,6 @@
     "volume_relatif": 0.42,
     "capitalisation": 3346907996277,
     "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
-    "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PP",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP-",
-    "prix": 14.51,
+    "symbole": "NYSE:BAC",
+    "nom": "Bank of America Corp",
+    "prix": 49.07,
     "devise": "USD",
-    "jour_pct": -0.34,
-    "mois_pct": -1.23,
-    "volume": 160626,
-    "volume_relatif": 0.89,
+    "jour_pct": 1.09,
+    "mois_pct": -3.6,
+    "volume": 19471454,
+    "volume_relatif": 0.57,
     "capitalisation": 338593252758,
-    "per": 3.5,
+    "per": 11.7,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Musk affirme que Google souhaite louer davantage de capacité de calcul auprès de SpaceX - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQd1ZyQWwxN0xUX2Rvd3J3aUFHUjhoYmFvaXlDX1RRbWllZjZHeEt3Q1ljZDZFZ0RCUm1GQnk1a2NGc2Z1MGRfS3JtWmMtYV9ydGIwRjFhMGt5TXhlSldONE44OUdiV1ZoSGxmRWR2RHd4RUUwWWk2VG0zWXluSU5oeUZRamdVZlBlUVhjSk5sVTZOdGpNeDFJY2dGeXUyUG8zLWpPekVzb0FVZy0wTlZ6QmUtQlRwMjhGaEFMbHd1dWdfeF96Nm1sVVRaYWFGSVlsN0xCVTdvVXVIOVN4cmotMEN3VDBkNHYzRFh5X0VXNGVGcUtIVE5LZlRQYlNDQdIB_gFBVV95cUxQd1ZyQWwxN0xUX2Rvd3J3aUFHUjhoYmFvaXlDX1RRbWllZjZHeEt3Q1ljZDZFZ0RCUm1GQnk1a2NGc2Z1MGRfS3JtWmMtYV9ydGIwRjFhMGt5TXhlSldONE44OUdiV1ZoSGxmRWR2RHd4RUUwWWk2VG0zWXluSU5oeUZRamdVZlBlUVhjSk5sVTZOdGpNeDFJY2dGeXUyUG8zLWpPekVzb0FVZy0wTlZ6QmUtQlRwMjhGaEFMbHd1dWdfeF96Nm1sVVRaYWFGSVlsN0xCVTdvVXVIOVN4cmotMEN3VDBkNHYzRFh5X0VXNGVGcUtIVE5LZlRQYlNDQQ?oc=5",
+   "date": "Sat, 28 Nov 2026 09:03:21 GMT",
+   "vu_le": "2026-11-28T10:10:39.797815+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Notify vs not notify merger Turkey: a CFO's guide - Global Advisory Experts",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkZycy15bkl2b3ZPMVFiQ0NIVFNqZzBqem1vcTNDWmVsVDdnY0RsVDB1a01CT1o3cEhaNVZqTkkyNk5TV0FrS1VhSFlTOFd0ZFRCbUxjRHkwQW5OSENicjRUVkdnN3hvaWRuYk5rUE5FRW44cW50a2c4b1lkTnZSRldQZjlHNVVoUExyV0NCazVyQjJkNlE?oc=5",
+   "date": "Sat, 28 Nov 2026 04:09:56 GMT",
+   "vu_le": "2026-11-28T10:10:39.797815+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 28, 2026 at 6am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWFRfVjNJZjNNNzN2WEhxMGJqNUlFdW8zaF9oQmlMLVVranJ0NUhqNzNveWhQNEExbTJ5SllTWGZ5NHZYNFdabWZLTmd4aDdvSmtJX2hVZkRuNWFjRTc0cjlmMkFjQmxqMkZpYnBMVXN6U1NkVVlqdUpUbDBCSVhVTUk5Mm5IYkFqTDdibWxmQ0ZRa1RSQXVaOGROV1Y5cS1sOW1hUk56alpiN3hUM2c?oc=5",
+   "date": "Sat, 28 Nov 2026 10:03:03 GMT",
+   "vu_le": "2026-11-28T10:10:39.797815+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Heist: Why not invest in crypto? - Berkshire Eagle",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdnkxWEVFZ3VxWTNJQzRrYms5VVVFbHYxTVNxbXlhdlN5Um5ibXRkU0VzUnFPa1ZYc3kzQlhJektoWnh0MFI1YWxOa0NBMVJTYjdtT01FaWE5NUZNdDREcDl0SU8teS1SMTR6bWY1Y3BrTGZsSFRYalNRRDdDelZkVlVrVUJLMUczRUZxTXh4bEx6QQ?oc=5",
+   "date": "Sat, 28 Nov 2026 09:15:00 GMT",
+   "vu_le": "2026-11-28T10:10:39.797815+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "SOL price on Nov 28, 2026 at 6am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ204VTZId2wwNThoMW9QT0wtb3U5ZDhoMDJibUlYQVFScFIwdVFQYTdabFlzTkltdlVxOUNWdHNSOUdwbVVnblJFVGZGYk1sdUVqeUUwMU1VLVhmeHJfSnNEVUpBU3liN3VJVUpabkxVXzNER1hHNF9QRkRxbkFiYkhTVWdtc1FaOUh5aV9Gb1Rqa2k3ZkNvZUxUWWxCT2Q3TERZU3NfV0xLQUVNa2c?oc=5",
+   "date": "Sat, 28 Nov 2026 10:03:03 GMT",
+   "vu_le": "2026-11-28T10:10:39.797815+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "New Credit Cards Offering 4% Cash Back in Bitcoin Are Coming Soon. Do They Deserve a Place In Your Wallet? - The Motley Fool",
+   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa0NBTFNVU19laWVGNXJBMXJZUHNTRlIwRnI0SWU1dm9DU08zblRaVGNqaXUwVUVGbmN3M2hFdkg1amItVzlpaW9UVFAtcXJaenhJY05JekN2RWpybllMeXpHMVNzeERpMTBjMW52OWY5QnpPc002aDhVcGctbnZFX241UXN1WExoY2c4SFIxb0N2dTVsU1dqLUJkRnJWV0pqY21zc1h6X3lvZ1k3TEZrNWhMcjR0YW9GeEs5SklFSWthejNrQ3EzRy0xQ0k2VnlyS2EyV0xoaVIwUWhCTE9F?oc=5",
+   "date": "Sat, 28 Nov 2026 10:00:02 GMT",
+   "vu_le": "2026-11-28T10:10:39.797815+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "New Crypto Regulations Introduced in Ukraine, Russia, and the US - ForkLog",
+   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdFVXZWNGZEVKSnQ0YkdpMTNvR09sZnQ1Ny1RX3pCb093SVpTT051eDNvV1hSUUVxNDBlMldOQVhFOGtRbjdzeW5zcVZxZTNyLUJQaDFaaHE2V25jNHhLZFV3bWVCeVg3eVNGS3BBZGZrT1R6cGF3NExjMy1wWElBZG05MmUyRl9ick9xdXBtcw?oc=5",
+   "date": "Sat, 28 Nov 2026 09:24:09 GMT",
+   "vu_le": "2026-11-28T10:10:39.797815+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Anthropic bondit de 11 % malgré une semaine volatile au Nasdaq - Traders Union",
@@ -6405,55 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHlNbjZOdDZpV0trR2dBdW92eGszUzJTU3FhTGx6d3lGbnVYNHFteFhEUjc2T2hzUnNtMm53N2JGQmI0a0V4dUZLdlRzcFJTYUVQT0lSZ0pWMGtlV2drOGVaQW9sNkpSNk5IWHF2SElSbkxSUnZkeW52OTllazlkVndsWlJfa09HTlNUNTFibGQ2TnFncW1zZFZFN1Y0cmM?oc=5",
    "date": "Fri, 27 Nov 2026 17:02:38 GMT",
    "vu_le": "2026-11-27T17:20:35.638053+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "L'entrée en Bourse d'Anthropic rapporte 93,5 milliards de dollars bruts - Mediaterranee.com",
-   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb1FTUUNKQUp3QnZwaWdRR09VejBibkJianRraml4Vmd0dG9QWWMtTTVQdFRCVGZrRkJZUnYzQ0lMTERfaml3d2xCZzd4NXJnRzR2MWRhTXpQVUFUQk12Ym02eVVnVDZ6RDU1X0FEajVHcm1qMHRRaFNTbTRGZmtWRkZLakRKY1VzUWlrbHZHMmRKLTZ0VUs0UFRCX013ZTFvbndLb3hmQXhvR1p6TURHTw?oc=5",
-   "date": "Fri, 27 Nov 2026 16:59:02 GMT",
-   "vu_le": "2026-11-27T17:10:36.272577+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "L’intérêt des vendeurs à découvert pour Anthropic grimpe avant l’expiration du lockup - Investing.com France",
-   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHNLUjhtRlROZ2U5Q0JwT1dmSFRMc1NSTjBTSHFBU3hkU3FNU2VFcGZTcDhUYkZNYXpZazcwTWpDeEc1dTNNYmdpclZ6NjM3OTFGTDFOREo4MTk2bnN5ZzNGU0tqckVwaXh2MmJsVFpqbEszUmM0d1prWEwzZmpmWTZ4eUxFNS00OE84czVuWHFuNUNnSXIyMWZNQjU4b0tHTTRzWW12TllpaHFpQjBfWXlZT1JIQ0dsUWVmVmprYU5fdWtheENBbl8zcDB6dmdzUVRIRURB?oc=5",
-   "date": "Fri, 27 Nov 2026 16:59:00 GMT",
-   "vu_le": "2026-11-27T17:10:36.272577+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "CAC 40 : La Bourse de Paris finit sur une note positive, le verdict de S&P sur la France est imminent - Zonebourse",
-   "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxON01uaXpLX2FZelVvTGdOQ0RGSS1yN3NkaUhOTnhmVEpLSFFrdjZXREMtUEptcVRndHI3Tk1RaWx1YU52akp6MHZJUnVJZ2Z4REpXSmpPd2pZR1pRVjgzYXdEWEc4d1VJV2tEUFpQS0dNVjNiMDJKLVU2SmlKN2NTa0hQOXV3ODFVTERlaHNuNlhBWk8zUkRtVEt2eWg5LWpFRWYtajVfRkxQM3hFMGQtcG1FYlIxYWZoZGV1NEswZFg4ODdHcEFXb2I2cGtJM0JkT2psTG8yWHpTN1lRcjNHTmthTS1VQU0xUFFVS1Q4RQ?oc=5",
-   "date": "Fri, 27 Nov 2026 16:47:21 GMT",
-   "vu_le": "2026-11-27T17:10:36.272577+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "BCE : Pablo Hernández de Cos choisi pour succéder à Christine Lagarde - TIME France",
-   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1hDcklWUVZzN0s5cU9pNkpiY2IyY19LdmVvWDdPVURHMDdpUFdVMnBMNEh4MVhBdzFTZXN3X0dpQmFVbGlkWU5PY2ZScGoxQU5sVUV4VnVONkZWRVZWRmRpX1BQQ2dfdWRQZTB0SlloN3VHVTgxcy1OaEt4alhNdTJFdVhFaWxfQ0VYTk5ERklmRVNYWkFKbFdqSGd0THhWbjJ4dXpn?oc=5",
-   "date": "Fri, 27 Nov 2026 10:46:17 GMT",
-   "vu_le": "2026-11-27T17:10:36.272577+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Arthur Hayes met en garde contre le marché crypto à l’approche du silence de la Fed - BeInCrypto",
-   "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVS3llS3dLa1Z4UXlCVHdXWU1oMlpRNmFjVDJPMmpLNk1qTVR2eEtkN0xLNi1feUZveUV3eVBRX1pTOTNVeXZpellIbC1XMVpCcnFLT2EyOVdXZVhBYkZrc0FhRm1fVDFfdXZkd3dMbDZIWDc0bVJRamlfSktUQQ?oc=5",
-   "date": "Fri, 27 Nov 2026 11:58:00 GMT",
-   "vu_le": "2026-11-27T17:10:36.272577+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "AMD Stock Rises Over 2% as Chipmakers Rebound Despite AI Export, Security Scrutiny - Benzinga",
-   "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSk1JZ2gxcGdlTm1heUtZU0R2VUl4S2tYZGFaSVpmOGNzZUM5ZFdVMXJnUFZIV242SmdjdURPUmpjdFZSSmc1dXIxTWRJVElkeVZBd1RWclQ5TTdiQk5oQ1VkenA5enZWaVg1bXhuWVNxM1VvZjNaWldiaWhUelZnV3VzNENOd0FmblBtZEFuM2ZfbnltbmhIZmg5ajdKbE9DUjkyT0ZRRTZ1WVlEaDJBaWNTeVRpWFN6RlhuRHVBd3JUZUF4TXpSUzhrLV8yUQ?oc=5",
-   "date": "Fri, 27 Nov 2026 16:48:16 GMT",
-   "vu_le": "2026-11-27T17:10:36.272577+00:00"
-  },
-  {
-   "sujet": "Pays émergents",
-   "titre": "Coca-Cola (KO) Hands 75% Of Its African Bottler To A Bigger Franchise Partner - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUlGcTJjcGppcEd2bXVPX3VBaHFxQVc1ZTk2eEt5M0UxajNDYnpWWmNtRG90QkdxTzNlZnUwUGd6QllyMVJMOFRHTDhjaF9fQkVFQUtHQmotSTZWMHlIRTJELWlrVk1NM2QtX2dsendlWlNkRHRyVjFqZU9rLUdjRmFPdTFtS21UVndOY0ZrOA?oc=5",
-   "date": "Fri, 27 Nov 2026 16:10:50 GMT",
-   "vu_le": "2026-11-27T17:10:36.272577+00:00"
   }
  ],
  "erreurs": []

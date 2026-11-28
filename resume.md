@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54458.7 EUR, jour -0.5 %, mois -25.25 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54313.96 EUR, jour -0.77 %, mois -25.45 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -66,7 +66,7 @@ POSITIONS ET INDICES :
 
 ÉCRAN France : plus fortes baisses :
 - Elior Group SA (EURONEXT:ELIOR, secteur Consumer Services) jour -3.25 %, mois -7.65 %, prix 1.667 EUR, capi 422629638, PER 97.5, volume x1.26 la normale
-- Remy Cointreau SA (EURONEXT:RCO, secteur Consumer Non-Durables) jour -2.87 %, mois 10.39 %, prix 55.8 EUR, capi 2936351075, PER None, volume x1.17 la normale
+- Remy Cointreau SA (EURONEXT:RCO, secteur Consumer Non-Durables) jour -2.87 %, mois 10.39 %, prix 55.8 EUR, capi 2936351075, PER 40.5, volume x1.17 la normale
 - Air France-KLM SA (EURONEXT:AF, secteur Transportation) jour -2.67 %, mois 32.54 %, prix 13.85 EUR, capi 3637309857, PER 2.9, volume x0.91 la normale
 - Emeis (EURONEXT:EMEIS, secteur Health Services) jour -2.14 %, mois 15.16 %, prix 11.43 EUR, capi 1844724717, PER None, volume x0.71 la normale
 - SMCP SA (EURONEXT:SMCP, secteur Retail Trade) jour -1.82 %, mois 7.57 %, prix 4.432 EUR, capi 346440180, PER 15.7, volume x0.67 la normale
@@ -286,16 +286,16 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -0.08 %, mois 21.84 %, prix 8.736 EUR, capi 8810130130.895283, PER 10.9, volume x0.29 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
-- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
+- Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
 - SK hynix Inc. Sponsored ADR (NASDAQ:SKHY, secteur Electronic Technology) jour 7.52 %, mois -24.25 %, prix 119.5 USD, capi 579228478930.6643, PER 6.7, volume x0.77 la normale
 - Tencent Holdings Ltd Unsponsored ADR (OTC:TCEHY, secteur Technology Services) jour 3.97 %, mois -8.56 %, prix 45.29 USD, capi 404554837871.25, PER 12.2, volume x0.7 la normale
-- Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP- (NYSE:BAC/PP, secteur Finance) jour -0.34 %, mois -1.23 %, prix 14.51 USD, capi 338593252758, PER 3.5, volume x0.89 la normale
+- Bank of America Corp (NYSE:BAC, secteur Finance) jour 1.09 %, mois -3.6 %, prix 49.07 USD, capi 338593252758, PER 11.7, volume x0.57 la normale
 
 ÉCRAN France : meilleures performances sur 1 mois :
 - Clariane SE (EURONEXT:CLARI, secteur Health Services) jour -1.54 %, mois 46.05 %, prix 4.618 EUR, capi 1649834769, PER 130.5, volume x2.03 la normale
@@ -310,6 +310,13 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic (FR)] Musk affirme que Google souhaite louer davantage de capacité de calcul auprès de SpaceX - Boursorama
+- [Rachats et fusions] Notify vs not notify merger Turkey: a CFO's guide - Global Advisory Experts
+- [Crypto] XRP price at Nov 28, 2026 at 6am EST Crypto Prediction Market - Robinhood
+- [Crypto] Heist: Why not invest in crypto? - Berkshire Eagle
+- [Crypto] SOL price on Nov 28, 2026 at 6am EST Crypto Prediction Market - Robinhood
+- [Crypto] New Credit Cards Offering 4% Cash Back in Bitcoin Are Coming Soon. Do They Deserve a Place In Your Wallet? - The Motley Fool
+- [Crypto] New Crypto Regulations Introduced in Ukraine, Russia, and the US - ForkLog
 - [Anthropic (FR)] Anthropic bondit de 11 % malgré une semaine volatile au Nasdaq - Traders Union
 - [Intelligence artificielle] Stock Market Today, Nov. 27: Chip Stocks Rebound Sharply on Broad AI Enthusiasm - The Globe and Mail
 - [Crypto] Bitcoin price at $59,600: eighth day of ETF outflows - CryptoTicker.io
@@ -453,10 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] Bitcoin Nears End of Seven-Week Slide as HYPE, SOL and FET Lead Altcoin Rebound - BigGo Finance
 - [Anthropic] Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now - The Globe and Mail
 - [Anthropic] Anthropic Stock Tops IPO Price After Volatile Week - Briefs Finance
-- [Pays émergents] Managing volatility in emerging markets - UBS
-- [Pays émergents] Bank Indonesia Focuses on Stability as Rupiah Falls - Briefs Finance
-- [Pays émergents] Prabowo enraged seeing Indonesians fall victim to stock manipulation - IDNFinancials
-- [Pays émergents] Micron Share Price Closes at $646.95 After 7.60% Rebound - JournalArta
-- [Crypto] Binance, IWF Team to Flag Crypto Child Abuse Payments - Briefs Finance
-- [Anthropic (FR)] L'introduction en bourse d'Ambiq a permis de vendre des actions à 24 $ ; 1 000 $ valent maintenant 1 550 $. - FourWeekMBA
-- [Crypto] Crypto Fundraising Recap: $405.2M Across 36 Rounds - shattered.io
