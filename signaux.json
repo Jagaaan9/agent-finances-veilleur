@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T04:06:15.336493+00:00",
+ "mis_a_jour": "2026-11-28T04:10:40.893413+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -178,7 +178,7 @@
    "devise": "EUR",
    "jour_pct": 0.28,
    "mois_pct": -24.66,
-   "volume": 3.70595414,
+   "volume": 3.70730966,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -3656,6 +3656,34 @@
  },
  "actualites": [
   {
+   "sujet": "Anthropic",
+   "titre": "Anthropic IPO Tightens San Francisco Housing Market - Briefs Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHpaZThLX0V6eDVfcXNLRnNlenFLdXN6UU5uUFU3T2Z3OXMweWZmS3VrNDlDcnlzMHhIYXYwam9WYUhhVXVpUkR3dkM0SVUtSnczWnVFVXpqNFZaSGc3RUN2cEQtcGw2ZXF1UVNTUkNsQ1JEWEY3OWxNNVl2RTRUUTRmOXVaZ1hsRVRxQkFKTmhadw?oc=5",
+   "date": "Sat, 28 Nov 2026 04:03:39 GMT",
+   "vu_le": "2026-11-28T04:10:40.893413+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Les actions d’Anthropic clôturent au-dessus du prix d’introduction en Bourse après deux séances en dessous - Unite.AI",
+   "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWliM2hJSUpJQU5lSUdENjlNZjBWdXpFN3lPVm9OU3psaFB6eWd5ZHJHM1pDTWhiQkNqaWE0dHgwS2xLajZWUFozZ1JpcGw1THp6YldNR3RuendTS2dFdVZ0OVRCS0E3SVJYcVdDdFVXRGRQaUNzOHBObHFnTDJid0l0czVqMnc3QUppNlNweHllM3pRZ2c?oc=5",
+   "date": "Sat, 28 Nov 2026 03:36:04 GMT",
+   "vu_le": "2026-11-28T04:10:40.893413+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "China pledge lifts markets; ASHR leads rally - Briefs Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNGxreVkzTXBBT1l3X21UU3RaOW5VMU1XWWRmT3V3a29ZOUZiNFNldktTZnJNQXRzanZpM1ZGdENoOXlmVHpjVnAxa1dkX0Q2UHBIMnZQMjVSTGxXU0xqaS1qODJnTEVnS3pmSkxoejk5M2VKNkNrMVFPalNwa0FYV1c3SWxZZTRkck1QZVNoUy15dw?oc=5",
+   "date": "Sat, 28 Nov 2026 04:03:42 GMT",
+   "vu_le": "2026-11-28T04:10:40.893413+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "VTB Enables Bitcoin Trading for Brokerage Clients - Briefs Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUtlNHNzN2VWSXBDZHZKa0haX3d4VXZra1M2LURobHEzZDVIdFNHZWJEOTI5ZFl1b0R1bUlNSnRGMW1VU3BxZ19jZmhZQVBiSmoxQ3I4X25FZTlOSHoyTTFFVlRXYUNueHV1T1Z0SDk1QzN5Vm44QkpoZGNCNnFZanlldjgtTDNCRngwV3JVREhVUQ?oc=5",
+   "date": "Sat, 28 Nov 2026 04:03:39 GMT",
+   "vu_le": "2026-11-28T04:10:40.893413+00:00"
+  },
+  {
    "sujet": "Chine et Asie",
    "titre": "Wall Street indexes rise in half-day trading; Dow up 591 points - China Labour Bulletin",
    "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOalBTdHFQejBBWDhyRnFkTlVsMnRjS2FBaEg2ZEF6UDBUVHdJeW81M3U5VGt3S1RMWERFOWRfalJiTXViOUpRbjNManNTYU5iOUViQV81Ti1jb3FYNXZzUjFJOFVXUGlFV2xGOXJDUG90YXlpUHNEQ3pyelRDZVpUcm50cG8tanJOX0NKX0FWWmx4X3RoNG03ZmkwWHhWRG8?oc=5",
@@ -6426,34 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15dXdScjRJSGdjeDNaNTl0T3c4MDdPSVlxbzVaT1otRUpKVzd0a2hBX1VnUmIxeWhYUEFMVmxEc1dDLUxsWmxLU2dnWVRya0NuMzh5QUVOckllR0VBb3k2OUt2V1p0b2k1bkt2TXZtVjRlNVlobS1meHBmQ1BqSFU?oc=5",
    "date": "Fri, 27 Nov 2026 09:45:43 GMT",
    "vu_le": "2026-11-27T14:00:36.498013+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Swiss Spot Bitcoin ETF Begins Trading on SIX Swiss Exchange - FinanceX Magazine",
-   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQXZVLVFURG9MaHA4a2MzXzdETTZGc1BuaG1SdXo4Z1UxM2VIYjdXTWpCQjVXNW5BMXBZbDRhNTBsdzZQNVpXSkR3cWFmM0dVaFgyOFJtcGk3Rmw3a2VfT1VLQ1FkUmsxRTlyZ2pPSmVrb2t6cWh4amROUlplcjBIUVp4SWJTN01QQjVoZ3E0Ym9pc01IQWp5SEpoeWdOUQ?oc=5",
-   "date": "Fri, 27 Nov 2026 13:00:12 GMT",
-   "vu_le": "2026-11-27T14:00:36.498013+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Austrian Financial Market Authority reports €20.4B in H1 crypto trading volume - Crypto Briefing",
-   "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0T0QySzVyaTE5NHVUUEhtdktja0xaU2R1SXEyWDRmV2JpZEQ5eUFramIwdjZ2a19DTFBKX0sxenc4NGpPWFhrNTVyanRnWWFVbzlpVHJlX1MxWVdCT2p4YXlza1c3LWRpd183TWtKaXVVSVhzQWpsRQ?oc=5",
-   "date": "Fri, 27 Nov 2026 12:36:50 GMT",
-   "vu_le": "2026-11-27T14:00:36.498013+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Nvidia Sellers Deliver a Stark Warning. These AI Stocks Could Feel the Pressure - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjFUdURYVVF1Nkl6MVpobmRqNWhWeXRwX1NMZzE2cEpMRVZPeXF6WWFGM0NnQ0FGY1o3Z2QwN0ZNYjJJVldOOHIxS1ZJcDVQWEhLWlhSOWZleGF1UW85NmUtOXBWdlhlQnJsUEU2WFdQY29uZWtLSHdQaU9KSEREMVM5WFVaVUI1STVHQ1lPenNVWnhjdjlBWmx5S29vR09FOWc?oc=5",
-   "date": "Fri, 27 Nov 2026 11:19:29 GMT",
-   "vu_le": "2026-11-27T13:50:37.515143+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "Chip stocks rebound to cap a volatile week (AMD:NASDAQ) - Seeking Alpha",
-   "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDM0a0tCc2k0TF9TMmlvbEQyeE9jR2s1RlVDMlNOaDlwaFNRT1BXVDRyMjNuZGQxMnM0RkxnUFJHMzRIVEV6VFhGVjZtUTVXWWQ2UXJDTFhLdnlyZkFGUzhDVHFIWXh0eGNQUWlEeWtYTnVRODBia0xvbkJUZ0hvemFPZGJOWjA?oc=5",
-   "date": "Fri, 27 Nov 2026 13:47:18 GMT",
-   "vu_le": "2026-11-27T13:50:37.515143+00:00"
   }
  ],
  "erreurs": []

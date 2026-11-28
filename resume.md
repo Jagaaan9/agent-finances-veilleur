@@ -310,6 +310,10 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Anthropic] Anthropic IPO Tightens San Francisco Housing Market - Briefs Finance
+- [Anthropic (FR)] Les actions d’Anthropic clôturent au-dessus du prix d’introduction en Bourse après deux séances en dessous - Unite.AI
+- [Chine et Asie] China pledge lifts markets; ASHR leads rally - Briefs Finance
+- [Crypto] VTB Enables Bitcoin Trading for Brokerage Clients - Briefs Finance
 - [Chine et Asie] Wall Street indexes rise in half-day trading; Dow up 591 points - China Labour Bulletin
 - [Introductions en bourse] AI data-center developer LIAN picks London for US$500 mil IPO - The Edge Malaysia
 - [Crypto] HYPE price on Nov 27, 2026 at 8pm EST Crypto Prediction Market - Robinhood
@@ -455,8 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Chine et Asie] China Stocks Jump Most in Two Years as Beijing Backs Market - JournalArta
 - [Rachats et fusions] Altria Weighs Cash Bid For Imperial Brands Ahead Of December 24 Deadline - Pulse 2.0
 - [Petites valeurs en croissance] Galp (ENXTLS:GALP) Stock Could Be 40% Undervalued On Cash Flow Views - Yahoo Finance
-- [Pays émergents] Forex Reserves Lift India Above Vietnam in Emerging Markets Ranking - Industry Odisha
-- [Marchés mondiaux] "Everything Has Been Positive": Analyst Sees a Strong S&P 500 Rally Ahead - Benzinga
-- [Crypto] Bitcoin Price Falls as $183 Million in Liquidations Hit Ahead of $6.8 Billion Options Expiry - Benzinga
-- [Marchés mondiaux] Stocks jump to end an erratic week that was Wall Street's best in over a year - Spectrum News
-- [Banques centrales et taux] Le dol
+- [Pays émergents] Forex Reserves Lift India Above Vietnam in Emerging Markets Ranking - Industry O
