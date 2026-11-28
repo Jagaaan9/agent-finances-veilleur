@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T04:20:36.302273+00:00",
+ "mis_a_jour": "2026-11-28T04:30:35.043097+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54886.31,
+   "prix": 54841.6,
    "devise": "EUR",
-   "jour_pct": 0.28,
-   "mois_pct": -24.66,
-   "volume": 3.72058819,
+   "jour_pct": 0.2,
+   "mois_pct": -24.72,
+   "volume": 3.79661488,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 8779940033,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 8779940033,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,34 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stock Market Today: Major Indexes Surge, on Track for Big Weekly Gains as AI Stocks Rally; Anthropic Jumps 8% - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb250QWJXR3B6cVo3bVFSNFpjVzF1TUxMRmdLVUtZWG5YSk5ZaHMyZS1seG9zWWExR1VKRFNoTjlCZ3ZWTnJGNGgxT0lZdXhJT3o4OEh3TnhVd3NRcXlwRFk2OGNKRktxbHY0VkhyM2JQNnBpUEtrUWhhQmJuZVJ1QmZBdjIxU0JKZlFLTG5uSlp0MjUzVDlKUXZSWnlHQQ?oc=5",
+   "date": "Fri, 27 Nov 2026 14:04:50 GMT",
+   "vu_le": "2026-11-28T04:30:35.043097+00:00"
+  },
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Wall Street Analysts Believe Hackett Group (HCKT) Could Rally 30.11%: Here's is How to Trade - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY1pKNF8xLVQxTEZWZFBVb0R0VU8wT0VjUy0xV1Z6U29OWF9PTUNNY0x2cnJUZHIwVUZzYnBJUzAwUGRlWW5mbHVfUlVOOG1JNlFsOHhhbXlOVTFUcnhZRF9yMkJQa0lTRXJlbkMzRmFCYmZqeHBNRW5IYk9hUTZPWVA2SndlRkJnbEtNb3hnMm9uVkxmdzBjSGdtZGNnbE9FWEZB?oc=5",
+   "date": "Fri, 27 Nov 2026 13:55:02 GMT",
+   "vu_le": "2026-11-28T04:30:35.043097+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Exclusive | Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply - New York Post",
+   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS0puVFFobWNIaE5UVjBQR2ctd0VEWVBYRXFXU2VzLXVBWnZ4MnlTSmN2VC1JMnM2X0Z6SDFYZXF2SW5kOFN5UGlZSGFVaFo2ZGNJS29BQmhzbVFGeDBuaEZHSDVnZjBEaW51N1BGWUVKR0JCTjRKZGhONVpIXzI2RkdIUFlOTFhIdjRVdGo3c2dtZnZQTmdmdXE0dEFEejhtV3o0cmtnU21lWjgzS3AwN3VReVdZb1o5eDloMXpRbUI2eTdIVjM0bFJZbHlfQ2FQWWZKQw?oc=5",
+   "date": "Fri, 27 Nov 2026 21:18:00 GMT",
+   "vu_le": "2026-11-28T04:30:35.043097+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Defence shares skyrocket up to 17% as India, UAE to co-develop defence equipment; BEML, BDL, HAL lead gains - Moneycontrol.com",
+   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdkZGdnpLVi1pbkxlTkh5ZE1IaFJBN1BZQ3FDc1dUQml1YVgyZUJVTXdRUXBHTW1wMWo4bjhnZnhGdS1IT3dLbHlwRExlbGdKbnNCM2U3YkxKMFRHcTFyd2x3SjZVdFRtMWNRX2owUWV6ZTdMZUZPazVSV1FQblVCVFNCYlppYmRQbkpEaEg1bFd0MVpIRmdib0dDbzNtUkxlZWpXWWc3YTl2S2RHcmR1OTJPano3Q0dUYnZGMllLWQ?oc=5",
+   "date": "Fri, 27 Nov 2026 07:13:16 GMT",
+   "vu_le": "2026-11-28T04:30:35.043097+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Wall Street's Black Friday Bounce Could Set Record: Market Strategist Sees ‘Beach Ball’ Rally Ahead - Stocktwits",
@@ -6426,34 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcjF6NVVqaWttQnNVT29VdGJyYkZ0T0Y5UHRTem40V053ZW9tZHlkdDh5ZHRXUkVCaF9DSUJrWnV2SXZNeF9CcnlkdmJCTDYwNjRsaXEzZWJaYldiWkxVR0VZcVZ2ZWw2THlEMEM0ZEZVZkFxUngzeWdvaGxWSVBFSllMNHhCb2FOMVo3bGhIb0FZcW0tOHBuQ1dja3VWcXFRVXhnQnZOdl84N05oWlE?oc=5",
    "date": "Fri, 27 Nov 2026 14:19:18 GMT",
    "vu_le": "2026-11-27T14:20:39.793067+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic IPO Creates 5100 Millionaires as Giving Movement Expands - cwibc.co.id",
-   "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pOFBHX1dIN0p2VC1YVUVfcWZXZW0tdC15YXR1VG02WDQ3Z2k0eTJBRWlhMXpLci1vcmZYeElnOUw3dDVjWnJITUxFTVN3VFNMMnRaQnNkREtrdEFYS2ItYnF1eTAtUkZJRkdubUZRcW84Zw?oc=5",
-   "date": "Fri, 27 Nov 2026 02:49:20 GMT",
-   "vu_le": "2026-11-27T14:10:39.210569+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Wall Street's Black Friday Bounce Could Set Record: Market Strategist Sees ‘Beach Ball’ Rally Ahead - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeDR1UmM1Qm5CX2VWMklxY3YyOG1lT0FqYjgwUzlOOUFaV2o5dkt0VnJ4Z3l0Rm9PNkhQWlk3VGlmMHpSQVhQV0F6YWo5T29qbWVNT0stYkdKeXUtN1lMSS1kMjJGb0YxX1VFN1VDVWNXOC11U290M1RmT3VUTDFaSVNQWUd0eUlBRUNSR2h5cVFOT1FfaE8zZkNWMGVNZUNtdWtrZWotT19OUmU0djZSRnBIMXE4X3ZLZS1SYVdyLTRVc0RQeDNQQkUyUXdkdUdUc0ZUWTVMbnB2eG93dzU0d0xpNW5ocHprNHU1Y25R?oc=5",
-   "date": "Fri, 27 Nov 2026 13:40:23 GMT",
-   "vu_le": "2026-11-27T14:10:39.210569+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Palantir's 17% Month Long Downturn: An Entry Opportunity According to This Wall Street Desk That Sees 67% Gains Ahead - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSVA2X3duVjBmLXo0WlltUkFzZlR6RVNQVEcwVHJ1RGlFc0VIOVpzUHlBWFRkZEs2UUpNdC1sTTRzcnZWNUhWYWI1dXlsN3ZhRy1UYzFWTGJhRHp3ajRjNnY1Mkp4a19Panc0cHU1MmhUVkFSdGxCLWxEbk45dWdVS05wNXhKRXdqZHNRUXc3S1FzdVdGc0UxRklwR1F2WGM4YmNPMUNjWFhqaEVtLTNuc1FCbTdiOTBMTGpQaDlwcGNLVzNuanBHaEY4NEpuX1luUEdYXzU4RGRTSDhtWjFjZmlXdmJJckN4ZTFLQVpn?oc=5",
-   "date": "Fri, 27 Nov 2026 13:45:00 GMT",
-   "vu_le": "2026-11-27T14:10:39.210569+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "US stock selloffs trigger a new kind of dollar bounce - WTVB",
-   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR3BvbWZtbWM2ZGtQZXB2bjFjT0V0WHRFYmo2dnhka0F0cVViN050SmZKVGNNSmJOYllPZ1J1SFk1ZDVsdXRXbmlUUGY3cmh2V3lKZllkSHU5Mm15S0laUmo2LXZpdnJyREZZdllLOUtxd0ptTFJGSF84VFEtd2JoVEljQTN3eGY2NjJwLQ?oc=5",
-   "date": "Fri, 27 Nov 2026 13:30:30 GMT",
-   "vu_le": "2026-11-27T14:00:36.498013+00:00"
   }
  ],
  "erreurs": []

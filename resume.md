@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54886.31 EUR, jour 0.28 %, mois -24.66 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54841.6 EUR, jour 0.2 %, mois -24.72 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -226,8 +226,8 @@ POSITIONS ET INDICES :
 - IX Knowledge Incorporated (TSE:9753, secteur Commercial Services) jour 0.9 %, mois -5.09 %, prix 1342 JPY, capi 12613998051, PER 7.4, volume x8.8 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 834986797, PER 28.6, volume x17.7 la normale
+- Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
 - Goyal Aluminiums Limited (BSE:GOYALALUM, secteur Distribution Services) jour 20 %, mois 26.49 %, prix 7.02 INR, capi 834986797, PER 29.1, volume x52.33 la normale
 - Waaree Renewable Technologies Ltd (NSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 23.4 %, prix 825.7 INR, capi 71797243279, PER 18.5, volume x233.67 la normale
 - Waaree Renewable Technologies Ltd (BSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 22.52 %, prix 825.4 INR, capi 71797243279, PER 18.5, volume x128.17 la normale
@@ -310,6 +310,10 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Stock Market Today: Major Indexes Surge, on Track for Big Weekly Gains as AI Stocks Rally; Anthropic Jumps 8% - Yahoo Finance
+- [Marchés mondiaux] Wall Street Analysts Believe Hackett Group (HCKT) Could Rally 30.11%: Here's is How to Trade - Yahoo Finance
+- [Intelligence artificielle] Exclusive | Nvidia chips on sale for $3M in China — as Jensen Huang scandal and US crackdown chokes supply - New York Post
+- [Pays émergents] Defence shares skyrocket up to 17% as India, UAE to co-develop defence equipment; BEML, BDL, HAL lead gains - Moneycontrol.com
 - [Marchés mondiaux] Wall Street's Black Friday Bounce Could Set Record: Market Strategist Sees ‘Beach Ball’ Rally Ahead - Stocktwits
 - [Banques centrales et taux] Enquête de la BCE : les anticipations d’inflation à un an grimpent à 3,5 % en octobre - www.tmgm.com
 - [Pays émergents] Indonesia Stocks Fall 1% as Rupiah Breaches 18,400 per Dollar - JournalArta
@@ -455,8 +459,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Défense, énergie, matières premières] Global X Defense Tech ETF (SHLD) stock price, news, quote and history - Yahoo Finance Singapore
 - [Anthropic] Should You Invest in Anthropic Stock Now or Wait? Here's What History Says. - The Globe and Mail
 - [Intelligence artificielle] SA Asks: What's the best-positioned chip stock right now? - TradingView
-- [Anthropic] Anthropic Stock Is Up 11% From Its IPO Price, and One Analyst Still Sees 63% Upside. Should You Buy? - The Motley Fool
-- [Marchés mondiaux] The Weekender: Wall Street’s Great Escape — Three Rescue Squads and a Plunge Protector Thanksgiving Rally - The Dark Side Of The Boom
-- [Banques centrales et taux] Greg Faranello sur les facteurs déterminant le calendrier des taux de la Fed - fr.qz.com
-- [Crypto] XRP price at Nov 28, 2026 at 5pm EST Crypto Prediction Market - Robinhood
-- [Anthropic] S&P500 Forecast: SPX jumps ahead of Anthropic’s record IPO - StoneX
+- [Anthropic] Anthropic Stock
