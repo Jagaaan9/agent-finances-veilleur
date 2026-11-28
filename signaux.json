@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T13:00:37.363988+00:00",
+ "mis_a_jour": "2026-11-28T13:10:41.502089+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54155.62,
+   "prix": 54157.27,
    "devise": "EUR",
-   "jour_pct": -1.06,
-   "mois_pct": -25.67,
-   "volume": 56.86174794,
+   "jour_pct": -1.05,
+   "mois_pct": -25.66,
+   "volume": 57.08099851,
    "volume_relatif": 0.26,
    "capitalisation": null,
    "per": null,
@@ -1576,7 +1576,7 @@
     "volume": 5376000,
     "volume_relatif": 2.34,
     "capitalisation": 14076480057,
-    "per": 2056.5,
+    "per": 1006.4,
     "bourse": "HKEX",
     "secteur": "Industrial Services"
    },
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 10535061261,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 10535061261,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3385,20 +3385,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGN",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.82,
-    "devise": "USD",
-    "jour_pct": 0.47,
-    "mois_pct": -12.14,
-    "volume": 447055,
-    "volume_relatif": 0.42,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGL",
     "nom": "Alphabet Inc. Class A",
     "prix": 274.96,
@@ -3423,6 +3409,20 @@
     "volume_relatif": 0.55,
     "capitalisation": 3346907996277,
     "per": 14.2,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGN",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.82,
+    "devise": "USD",
+    "jour_pct": 0.47,
+    "mois_pct": -12.14,
+    "volume": 447055,
+    "volume_relatif": 0.42,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PP",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP-",
-    "prix": 14.51,
+    "symbole": "NYSE:BAC/PK",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH-",
+    "prix": 21.12,
     "devise": "USD",
-    "jour_pct": -0.34,
-    "mois_pct": -1.23,
-    "volume": 160626,
-    "volume_relatif": 0.89,
+    "jour_pct": 0.52,
+    "mois_pct": 1.29,
+    "volume": 110706,
+    "volume_relatif": 0.53,
     "capitalisation": 338593252758,
-    "per": 3.5,
+    "per": 5.0,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,27 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Démystifier l’économie | Quel est l’impact de l’arrivée d’Anthropic sur les marchés ? - La Presse",
+   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdF9aSXRMbEFuY2pUVW8xZUFiVEdVeUtFLW8weHF2Y18zQzFEbW05VlNiUTVqdjQtRjhwcHY3d2h4ekNXUmhwZVZqMFI1Um1JSjROdnhTSFN1NDN1d3BZMjY0OHdzNm54TmNNdEMwWDJXNFJXMkxDclJwNEdzcTBzdkROaWNQLUdNQVdmRmdqbmNiNVNocVlXR3ZnclFWb3JRc014a2V1cFU5S2dLYjc5WnpvVGJSTElGcC1HZTlzWDNRQ0Z4NjdsQU9paGhsXzhoTDdXVQ?oc=5",
+   "date": "Sat, 28 Nov 2026 13:00:00 GMT",
+   "vu_le": "2026-11-28T13:10:41.502089+00:00"
+  },
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Haleon in talks to acquire controlling stake in HealthKart - Exchange4Media",
+   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSnNucG9YQUF4cXc1ZlhVSHFwdUg0QW1zV25MY2ZIOHdORUdkSGtyLTIxaXZRUXJFVUtZNHI3N3RGejdQTEhQMkFsVW9oWUM4Y205Y2hzTTgtdW9JUmdrNVprV2pfNGV6dURMakI3b0JNZlNBNDhHbEtBdWoza3N3cy1hQVpidUNlcy1RS0xrOEZOZ3AtNVBRNDN1VFBhV0diSS1iUzhWRTR0RG83MWk3dGV6X1p3a24zeG9N?oc=5",
+   "date": "Sat, 28 Nov 2026 02:49:43 GMT",
+   "vu_le": "2026-11-28T13:10:41.502089+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Bitcoin (BTC) sentiment is plumbing a new low for longtime digital asset investor - CoinDesk",
+   "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0VJQWZCcS1McUJjZFhVTWxGcnBYUXBkWHMtLVpqVm0tZFhIUjRBV0hzQ3REdGFoS2o5Vjl6cU90YTY1RnpCSU1INHpTM0diOERRdmJCYTM5bzFiLTVFQlQtZUhGdEI2dmZBTVdlSkxkaHFXWlJzV280WW9fdUdTOThqMlFhcU9IUUdmTVR3cEM1UVBPSTN1TWNObDYwdFRobjd6dk5SMDdEQ1Q5aGZOMk11MllmZDlIdFNTa3hBR3dtN2dRUUIwcDJENFk?oc=5",
+   "date": "Sat, 28 Nov 2026 13:03:56 GMT",
+   "vu_le": "2026-11-28T13:10:41.502089+00:00"
+  },
   {
    "sujet": "Chine et Asie",
    "titre": "DeepSeek is China’s latest developer to worry about losing control of AI - South China Morning Post",
@@ -6433,27 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcjEyd2tLa0V0VVBEWGYzQ0RWeHc2bmJyc0ZSR05UZE11aDhUV1dhWGNPQXdFWnpFODJxQm5LZXMzOEpRbVV1Ti1nTnlDM3FyM0FidHdYQWktMktDZXVtVEJxdHhDaWsyQUJKVXNlZTE4cW1haVg4cjRRZmV1THNMRE9YMkN5VmpJY1FKRlZMclo3a0xfTDRkRnh6a0RXVUJtZDB0Vw?oc=5",
    "date": "Fri, 27 Nov 2026 19:35:22 GMT",
    "vu_le": "2026-11-27T20:10:34.391402+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "SOL price on Nov 27, 2026 at 4pm EST Crypto Prediction Market - Robinhood",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS3VyN1dXYkJUMEVJcGhFUWpHbUtjY1BFZnp6UVNYSG5vMTF6VkFyZmgtbEFhUVU0XzdWeVhnQmlEMTEtZWl0eXRTN2h3RWVPOWNGRl9GamRIX0h4aXkzTzg3U2tjaFhVaFgyN1UzWmxLZ0o2UEM1MXBMZ3RkbEs2djNKc0E3ekpKc1VnTnA0bTRiQVBiU2ctdWRDRzdaeWRQT2ROc3EwcXJ4blItTVE?oc=5",
-   "date": "Fri, 27 Nov 2026 20:06:21 GMT",
-   "vu_le": "2026-11-27T20:10:34.391402+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Anthropic Stock Surges as Tech Rebounds from Selling Pressure - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWWpBLWs3R1dwcGZmeTh4T25nUGpyNWl5cUFTam9hamlILVU5dzZHQWpub21ZQklRWXU1TngzZEpqclVMZEtHUjVSa3JDaC1mZDBKbEJXM0xKUGhPREJhRGF5eTQwckNtdXpPd0t1MU5yYnlFdUp5ODF3U2o0Tkp3VElUSEloSkNrMWxGenJ1MW84STFvbjBDaDVqY0xGdmhEWEZteGdzTEgycDFLMlV3bE5KLUFqY2V5U2wtNg?oc=5",
-   "date": "Fri, 27 Nov 2026 16:49:18 GMT",
-   "vu_le": "2026-11-27T20:00:36.198966+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Wall Street termine en hausse une séance écourtée, portée par l'IA - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWEpRTjN5bTlZazNHSUhobXZWaFhLUDlzckJhMjNMU3NDZHZ3MDFUS0tLZnRoZElvZkJsckZGWjVIaFFabjZ5a0ZfUWhWTXkzT3VqbXkwS0R3OVlhRHBLRW9mcW10UWFHUXdwbS1qWWV2cGR4MWxQbzVIUWl3aFQ1a0UxMWVLa2ltX3RWTi1qdmR2d1FwWXUwQndLZXhDNEhBc0JnLXBhcDN5R1JscmoxdmNhcTdDRTl0WVA0TzRpU1V2LTFpRWFoUXZhdnNPQmhLQ2VpX0RBY2pYOVRKY01IUNIB4AFBVV95cUxQWEpRTjN5bTlZazNHSUhobXZWaFhLUDlzckJhMjNMU3NDZHZ3MDFUS0tLZnRoZElvZkJsckZGWjVIaFFabjZ5a0ZfUWhWTXkzT3VqbXkwS0R3OVlhRHBLRW9mcW10UWFHUXdwbS1qWWV2cGR4MWxQbzVIUWl3aFQ1a0UxMWVLa2ltX3RWTi1qdmR2d1FwWXUwQndLZXhDNEhBc0JnLXBhcDN5R1JscmoxdmNhcTdDRTl0WVA0TzRpU1V2LTFpRWFoUXZhdnNPQmhLQ2VpX0RBY2pYOVRKY01IUA?oc=5",
-   "date": "Fri, 27 Nov 2026 18:29:40 GMT",
-   "vu_le": "2026-11-27T20:00:36.198966+00:00"
   }
  ],
  "erreurs": []
