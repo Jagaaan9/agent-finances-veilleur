@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T01:20:35.734811+00:00",
+ "mis_a_jour": "2026-11-28T01:30:36.008682+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54986.18,
+   "prix": 54917.67,
    "devise": "EUR",
-   "jour_pct": 0.46,
-   "mois_pct": -24.53,
-   "volume": 1.5408499,
+   "jour_pct": 0.34,
+   "mois_pct": -24.62,
+   "volume": 1.59295353,
    "volume_relatif": 0.01,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:SOLARWORLD",
-    "nom": "Solarworld Energy Solutions Limited",
-    "prix": 121.56,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 10.5,
-    "volume": 20429651,
-    "volume_relatif": 39.13,
-    "capitalisation": 8779940033,
-    "per": 9.4,
-    "bourse": "NSE",
-    "secteur": "Industrial Services"
-   },
-   {
     "symbole": "NSE:GOYALALUM",
     "nom": "Goyal Aluminiums Limited",
     "prix": 6.9,
@@ -2687,6 +2673,20 @@
     "per": 28.6,
     "bourse": "NSE",
     "secteur": "Distribution Services"
+   },
+   {
+    "symbole": "NSE:SOLARWORLD",
+    "nom": "Solarworld Energy Solutions Limited",
+    "prix": 121.56,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 10.5,
+    "volume": 20429651,
+    "volume_relatif": 39.13,
+    "capitalisation": 8779940033,
+    "per": 9.4,
+    "bourse": "NSE",
+    "secteur": "Industrial Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,55 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic",
+   "titre": "Should You Invest in Anthropic Stock Now or Wait? Here's What History Says. - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdHlBM0RGc2FYQWRlb0ZTY05xUWU2amFXczlpemFrcHFQUUtURndQVzlLRXdONHpPVkg3b1NjaDRDVHVQMXZuMk9LelNkdTlxVkJTanF6Tko1clFxUTdyVnRaUjM2WUltaXRDZXRLRWtFeW5WQ2swallraFJpMHV0UlI0M2cyUndnODVhQXpGZjFWRlJYRjNZU29vTlRRX1JubzhmekdabDYzb3J6cE5WZktUdy1hME1GVHYzdFl3cUpJcjRhMmlHblRObUEzTWF0MjBwVzBlYU45eUg0OU5oYlR3RkhhMFdZYlJkSA?oc=5",
+   "date": "Fri, 27 Nov 2026 23:37:21 GMT",
+   "vu_le": "2026-11-28T01:30:36.008682+00:00"
+  },
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Vous avez manqué l'IPO d'Anthropic ? Faut‑il acheter l'action maintenant ? - Invezz",
+   "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMExHWERERk05ZTB3QlRwUnI2eFRkeXFZZV9ua1RpdGNSQ1NIaUJTWWhaTmVUS2h0UUZvTjU1MUFLcmdXbEhnanBKbnN6NC1SSERzRl9ILVprS1R6Zkd2ZW5TRHdUdm5NTXlPMnlycmtFMVE0a1BBbkRFWkh6T0JvT3RDN01GbWxWbm5xUGFlNExvTzJHLVY1QjhXb1dkLUJhUUlLbWo2N2NsaE4zSVAxWg?oc=5",
+   "date": "Fri, 27 Nov 2026 12:19:00 GMT",
+   "vu_le": "2026-11-28T01:30:36.008682+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Hong Kong Stocks Rally As Beijing’s Support Pledge, Tech Rebound Lift Hang Seng 2.11% - BusinessToday Malaysia",
+   "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdjhZMlo3U2JPbV9tUVRWc1RhcnN2M0hoMV9WRmtOb3NGSGg5a1BGUmxaSXVPZWdLRmJoSVVscFIweE9uUXBrU2hhWTFqSmdjTEkwWjdSNUtyelZRaUptdkxCaW5xRXgwYzlmcVVyZzBuSG03NXNPeHpMRFdNdl91eGpzdl9pSUtRNDZvc0FmbXptdXBfU0huQXotSlowYXR4NDFYLTNWLURnZ3lPVGNnWmllaVd4bXJGS1F0WF9rQlBDTE82Unc?oc=5",
+   "date": "Sat, 28 Nov 2026 01:20:00 GMT",
+   "vu_le": "2026-11-28T01:30:36.008682+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Hong Kong Stock Exchange: Hang Seng Index Jumps 2.11% to 22,694.77 as Tech and Chip Stocks Rebound - BBN Times",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQREZLOFhfRGJvcWZfTE1zbG00ZV9zdUtiUDlVNUdkTVI4bzVJZU05d1BCSW44OHNiQUtmeDJoemN4UjdxUFRFdzdkSzN5WlRpQmlpWnlmc0hEeGIwcTI1SEhvYzBpWEN3OTh2RGptN2l1UzdyaElFeDlPbHZZeWJpdUdQNnozYXR3U0J6cnlWQVVKcHZlT0lwcWdrcWFNczJ1a3Z1LUl0Z1Eyd2QzbEpfT3ZWOVI3Vk51TTdxWTF5OHMybWktU0tnZjEzWQ?oc=5",
+   "date": "Fri, 27 Nov 2026 17:35:24 GMT",
+   "vu_le": "2026-11-28T01:30:36.008682+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Hong Kong Stocks Close (Nov 27) | Hang Seng Index Rises 2.11%; Tech and Brokerage Stocks Surge in Afternoon Session; China Shenhua (01088) Drops Over 5% Following Discounted Share Placement - 富途牛牛",
+   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSjJkdnpaTWx0aGp0Q2huSFp5V2tqRUNDY0poQzZSbldzczFuakNfNngtNVJlQjBwNGwtSjZhZmpLd3VDaVg3ZUxXWmYyT1FBdklxRzJBRl8xNDcxU3V3anNBdHdOdmEtZy1aOUJhaVdpeXZENzhzeFhjTVBEVzFoQ1c5QlpLYXM3WE4xM0JIb0tVNkVKczk5SjJ3?oc=5",
+   "date": "Fri, 27 Nov 2026 08:29:29 GMT",
+   "vu_le": "2026-11-28T01:30:36.008682+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "The Mad Dash for Memory Chips—and the Pain It’s Causing Holiday Shoppers - WSJ",
+   "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV3lzWDNiMFhrQzZ2alpLdlZEMW1wM3oycmhQUFllTGgyMVlqdlNxejY0WWZvOC1DcUkyaUREQm8xZUIxbmNYMjZtZ2UtVWxEUlpQSDFBOTQ1WVdVb1lHOU1ydGhFbFFUWl9YQU0xbWVsMHhXdFI3Tnhkb1FKSEhfaGZR?oc=5",
+   "date": "Sat, 28 Nov 2026 00:31:32 GMT",
+   "vu_le": "2026-11-28T01:30:36.008682+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Avalon Technologies And 2 Other Indian Growth Stocks To Watch - Yahoo Finance UK",
+   "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOVlyWjNBUDNQNTg0TjZtOWdpQUQ1NHFlTzg1aFZxTXdUajhteUNCb2hIN24wUk9jc1JvLWQzRzl2OXpsVlEydXBqRUd3MWkwN1otemlvcmM5Z3Rta3JPOUZlOFIzcUZrU3VWd1I4RTgtMzV4ejV3ZzJPWGdpNjJ2bHNqc0NnSjVfUXVv?oc=5",
+   "date": "Fri, 27 Nov 2026 21:15:26 GMT",
+   "vu_le": "2026-11-28T01:30:36.008682+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back - Yahoo Finance",
@@ -6405,55 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOWRXekJhUjNQUjM1QURBYk1DOTZVZnpWSFlPVGR1ejdXNHNkeGZ4anVWVnN2dGwwNE1SR1Q2NnNKT29iZmdqUEtCY3Nzdm13X1N6bk5TTV9nVjNkbEpkRGV0b1cwdDJ1QVlrS2wyb2RvMjFqTUptaFA4QVk0a0Q2TlZpUUlSbTZZMFVsZVA5djdjT2tOc1lnZTNIU3lSWTcxd3dmMWphX1VVWl9lSjVmUUZqNFJjYmQxck4weC1pZ2NBdklReWJqQzlKbmR3eTFwQ1JwX0ZXUDRIajVQN3UxblRlNlhEZEZO?oc=5",
    "date": "Fri, 27 Nov 2026 12:03:37 GMT",
    "vu_le": "2026-11-27T13:00:38.125104+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Green Friday: US futures and global stocks jump in a post-Thanksgiving rally - markets.businessinsider.com",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWVRWkZLRmFSOU5aZllYak43WDVRTjRzRVF6ZFMtVndkQ3RqOUN4NzA4M1BiNzhZNG5ZSWhvVXNOMmg3MjVNWE1TOTFXaDhWMnRxcXNKTHYwTHNCVEVVOVFyQkJwczlaN2xjd1BXZTlwUnBteVQ0clpxSGhOU05xc2FESXNoazhPZm1HVHBzcGQwQU9xSjFDWk1uQ0VlQ3NHMnVmeWktcmZfMkJWQjU2eWh4Wm1DNnFBVjRuaA?oc=5",
-   "date": "Fri, 27 Nov 2026 10:39:00 GMT",
-   "vu_le": "2026-11-27T12:50:37.209667+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "CAC 40: La Bourse de Paris avance prudemment avant la réouverture de Wall Street et la décision de S&P - ABC Bourse",
-   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSFE1eEphVThjd053MW0tazJxUDVJWlh3SWtfZUd1MUNqc2N6R1g5ZDJGTkxEUGZ1emljUGxSSEtYUGdzUXhGNmZ2eHNWZDRZWndNdXJ4M2dkWnJ1RGJEeE9yTUw2MzVYbHFBWVRraEcyZDBDOXAxcTZ6cnVaV1RiRzNyTHEyeWQ5OWkyV09iSjdQczBiMjgzcjVGTUt2a255RXcwZExJZ1c3VUNRWjJJUlg5cDdSUVYyLUhCNQ?oc=5",
-   "date": "Fri, 27 Nov 2026 08:26:39 GMT",
-   "vu_le": "2026-11-27T12:50:37.209667+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Taux d'intérêt 2027 : que peut changer l'arrivée de Pablo Hernández de Cos à la tête de la BCE - FranceTransactions.com",
-   "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZEQxdXl4NGtTUmZNaFA3TjI3ZDh6Y2llRzR6WjRMZmU3VUFTdVFDTzBxRE1xU25uTkxXMjNicFEyeVVkS3VaWDVuTXBIV2E3Nm1Zc3B4SFE0WHNuUkh3cUFORDZZSEhVS2YyUlRtTTN1REZmd3Nkc2JrSXBFNlc4ckNfRklqbGtEM0pBS1l6MEZ6eEJrN0lRT2k1SkZxWWZTQW15ank0b1QwTzRUbnJQQ2Y5bTlEMzh1akRIbnQwR3VLQ2lGMS1qeVB2ZERqcFotU2c?oc=5",
-   "date": "Fri, 27 Nov 2026 12:44:58 GMT",
-   "vu_le": "2026-11-27T12:50:37.209667+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "Asian stocks rally as China, South Korea signal market support - Malay Mail",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNem9SUG4xYkM4a3BWUWRXOHV6Q0ktcUNPTEZrcm5ISWR2XzRMZ1ViYVJqU3ZUNkVyZ0VGdFZ6ZFhPT2dUY21NYlpiRElfcnlPX3dKTW1vUVd4dW93UGstd2U4eGliZEczWlVOTVlSRDhoM0dZWkptWGpsYTVXQ2E2Zl81RUhockFPVWY1QzFSSkNXeGk0bS1MYXZpZlB3ZmRKc21MWFJzYjVGY1pRRWk2TDQwSXlzb1nSAbwBQVVfeXFMT3NHYUxWUXZJNlJ4b1owMkRuWTF5UTBUYWJ1SThrM25pRWwwUTRPV3N3RzhpRTJrRTVWNE9wTmJCNm10RjVtQUp5U0phLVBLcHZKVU5iaFhaOUZaQkF0MUMwOW5vQUVRUjZPeUtXbGo2cWdSSGhmQ2pHWjdvQ2hJRzJzd1c1dEFnVF9fdGpPSzhIc2Y1Tl9acHZvNjBBTzBGOGkxXzlVQzZnNE05OFl4TlpfdHdJMi1MSkRWTW0?oc=5",
-   "date": "Fri, 27 Nov 2026 10:38:17 GMT",
-   "vu_le": "2026-11-27T12:50:37.209667+00:00"
-  },
-  {
-   "sujet": "Chine et Asie",
-   "titre": "China Stocks Surge Most in Two Years as Beijing Backs 'National Team' Buying - BigGo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkbTdqQ2hxOUE3ZnpzWWVNc2RKSkMwaUpMbDVFMzJScW5BdXVaN1EzYnhqRWxxUUJDZ2syb1JNZmI2MDF5QWRxSVdqZ2Zhdjh3SFQxajVBZnRZeHN5VktPZUd5MUNQUjVmd2tLOFZac3ZlOTBWdEE?oc=5",
-   "date": "Fri, 27 Nov 2026 07:05:00 GMT",
-   "vu_le": "2026-11-27T12:50:37.209667+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "US Stock Futures Surge as Nvidia and AI Stocks Rebound - grafa.com",
-   "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGtRYlNQbWlTZ0xHb1pITi1oTEprbHRGM0FUSlJpSS1sTmtsUTcxb2gza1kwNVlRRW51OU5yXy1HMFEzQXJ5cGFERUVoVWlwQkpSRngyTlQySEwwajVjQVd4ZXVFQ1Vpc1JMb1ZQTTdFS05ueTNlSjJxeWxoVnhaQUt4d0RjR3JRdEVpbw?oc=5",
-   "date": "Fri, 27 Nov 2026 11:00:00 GMT",
-   "vu_le": "2026-11-27T12:50:37.209667+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Why Defence Stocks Are Rising Today - Equitymaster",
-   "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVUE52dU1GOTBDNEZDX2x4SEpiWGRiaWUwc082VUZhblBNdW5yS2hKQ0VqT3d2UEZ1VzFjNXJkRTNtLWJLaUNLcXM1OXFEQjhxVHJIY3l2Nmo0d0IyTm5OdjZGcUR6UElCc1VLTGlSNnE?oc=5",
-   "date": "Fri, 27 Nov 2026 10:06:58 GMT",
-   "vu_le": "2026-11-27T12:50:37.209667+00:00"
   }
  ],
  "erreurs": []
