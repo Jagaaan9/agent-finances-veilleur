@@ -288,8 +288,8 @@ POSITIONS ET INDICES :
 ÉCRAN États-Unis : grosses sociétés à PER bas :
 - Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3349039139769.5396, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3344306225492.11, PER 14.2, volume x0.55 la normale
-- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3326384161591, PER 2.1, volume x0.58 la normale
+- Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3326384161591, PER 2.1, volume x0.42 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1559025893850, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655656154.782, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700462317.067, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,8 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
+- [Crypto] HYPE price on Nov 27, 2026 at 10pm EST Crypto Prediction Market - Robinhood
 - [Petites valeurs en croissance] Patria Investments (PAX) Could Be 35% Undervalued As Fundraising Growth Drives The Narrative - Yahoo Finance
 - [Banques centrales et taux] Les responsables de la BCE signalent de nouvelles hausses de taux face à l’inflation - Investing.com France
 - [Intelligence artificielle] 3 AI Infrastructure Stocks to Watch As Apple OpenAI Fight Tests Chip Demand - Yahoo Finance Singapore
@@ -456,6 +458,4 @@ ACTUALITÉS (dernières 48 h) :
 - [Crypto] 4 Scary Bitcoin Charts That Suggest This Bear Market Is Different - Decrypt
 - [Anthropic] Should You Invest in Anthropic Stock Now or Wait? Here's What History Says. - Yahoo Finance
 - [Anthropic (FR)] Wall Street termine en hausse une séance écourtée, portée par l'IA - Boursorama
-- [Marchés mondiaux] Stocks jump to end an erratic week that was Wall Street's best in over a year - Spectrum News
-- [Marchés mondiaux] Stocks jump to close out an erratic week that was also Wall Street's best in more than a year - The Globe and Mail
-- [Banques centrales et taux] « Nous avons déso
+- [Marchés mondiaux] Stocks jump to end an erratic week that was Wa
