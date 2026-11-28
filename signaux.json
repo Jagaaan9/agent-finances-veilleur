@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T09:10:35.421672+00:00",
+ "mis_a_jour": "2026-11-28T09:20:36.482068+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,12 +174,12 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54504.43,
+   "prix": 54424.49,
    "devise": "EUR",
-   "jour_pct": -0.42,
-   "mois_pct": -25.19,
-   "volume": 44.02495618,
-   "volume_relatif": 0.2,
+   "jour_pct": -0.57,
+   "mois_pct": -25.3,
+   "volume": 45.23013603,
+   "volume_relatif": 0.21,
    "capitalisation": null,
    "per": null,
    "bourse": "BITSTAMP",
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 834986797,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 834986797,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3655,6 +3655,69 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOUGxqMk41bVMxaDlubFE3V0dKUlVhb2wxdjVTcU9TZUNyeHZJaExXVTd4U2E1Z2pyWUpFLXJnYTBmU3hINkxWZC1GWEdZUGxFLURPeC1aZ0hpZDFxUDZ3MzZWTXg5QlI5MXRWdXlCaUVWanFhU3lKZ0l5dE1jalZGWUhVdWJrbXVGU1Z6YklqWGpTc24yTjVQNkVfcHVUNllHaTROZmF3bXhKUld1dnl4VG1TZVpwSHJtRnBaMHg0TDVYTGZWRzYxWXZ4dTR4N2ktTzE4aWdMWkNPVGlUWVRPRnZsZXFyT3ZjdXkxdXFKVmtuMmk3SUFtbExjSHNlUy02TXdNeXhHelhFdUFLUHc?oc=5",
+   "date": "Fri, 27 Nov 2026 22:41:15 GMT",
+   "vu_le": "2026-11-28T09:20:36.482068+00:00"
+  },
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "AIR FRANCE-KLM Cours Action AF, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oZGRqT0RwNDhIdzJYcEN1XzdPa3VfRzlGcmI0OGlhOHk3aVJjdUU5aDE3NUVJS0g5aUdHR3dCaTQtSW9xeVFLUFZCcHVNVkRY?oc=5",
+   "date": "Sat, 28 Nov 2026 07:18:14 GMT",
+   "vu_le": "2026-11-28T09:20:36.482068+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Enquête BCE : les anticipations d'inflation de la zone euro grimpent en octobre 2026 - Actualités et statistiques - IndexBox",
+   "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV0RsdVFfMjZ5dEs0VzBMQU1OcGNia1V6ZWJ2YlZEUzNWVHRvZDZ4YlZ2ZEpmUGIwYWVLeU1qMGliUWJqZWxXT016WUtFWjFyd1pGV2JSRW1tMVgtY1pBRFBvbGUxY2lIZVZjeWNVSFpDb0pNWlg3Nmlvc0w1WURsYmhlTE5IQVNSQWF3SDVuWEFFXzRubGc4YW0wWFZqZXdLdXpOTEJB?oc=5",
+   "date": "Fri, 27 Nov 2026 10:00:42 GMT",
+   "vu_le": "2026-11-28T09:20:36.482068+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Crucial role of China’s capital market emphasized - chinadailyhk",
+   "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9scnpWMkFwV003NERSb3VfM0xCZmsyZWlEQ2w3cHJ2VGhrWDBhbmdhMkNrQkY5WktnMVN4T2xfODlkMGtjSURhY09UZHBzQVdqQXpULU9TLUQ?oc=5",
+   "date": "Sat, 28 Nov 2026 01:59:29 GMT",
+   "vu_le": "2026-11-28T09:20:36.482068+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Global shares mostly rise ahead of Wall Street's reopening after Thanksgiving - RiverBender.com",
+   "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xNURkMzdPNU9nZndXV2pQQlA3NmE0R1NVRFNHZFlFTDdiSGZackpGYjFRM2xEeVBlWktsSUhfbVlxSV8xc3ItcVJwM1U1UVZUTWYzYUoxNjJON254UUJrRlNfRDJpZDNq?oc=5",
+   "date": "Fri, 27 Nov 2026 10:32:33 GMT",
+   "vu_le": "2026-11-28T09:20:36.482068+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Gene Munster Admits Focusing On AI Fundamentals Was A Mistake, But Believes Investors Buying NVDA Stock Now Could Be Rewarded - TradingView",
+   "lien": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOREVXcmpFQnVfZ2xzZml2NHNkSFpBOUNmVFlOZHh4ek9qMm1Jc05GaDVvcktoTm44MnJJb3djczlXa2EwWUpCQnBwQ0RZcmtfdnF5QTF0R0hBc3oxVk1PX25BenhtUHpEdndkRnJMdEZHTlpsVnNZMWc1bktvUERzLXNoMWxtOGJhektXU2lfTmxpN2JobWhPSVFuUWVXbkdiZjFSbF9ya21tdWdVZnNPb3RjX3hxYmVKQTRDOE1qMjRxcjFXaWx0VzFZU0hWbm0wODVRVXZEaTJTWHB1TWUta2ttcVRVaVZtaE1jTjhFdkI0dFdPZDZyWmxiRU5hMWhsOWFGbEpaQU5ZcXpzT2JLaUhEZw?oc=5",
+   "date": "Sat, 28 Nov 2026 08:59:40 GMT",
+   "vu_le": "2026-11-28T09:20:36.482068+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Is Evertec (EVTC) Stock Undervalued Right Now? - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSERjaXY2QVNLZ1M1cUp0S3NmMjdrRUUzdEJkRkNYeTFDczVQRi1Da0d1X3NJaXhLMDdCWVYzWkRXMHg5SGc0SGloUWFnZWRfY1FyWUNKWkx2UXJaY2hMck9vc2RIR1ZQRDlleDJwX1YzdHNManlZMlppeGlfUldDc0RCcWw1VjBINktuTzI1ZkoyMmNpNmszS3dNVEgtTVRQ?oc=5",
+   "date": "Fri, 27 Nov 2026 13:40:04 GMT",
+   "vu_le": "2026-11-28T09:20:36.482068+00:00"
+  },
+  {
+   "sujet": "Pays émergents",
+   "titre": "Moneycontrol Pro Weekender | A case of the nerves - Moneycontrol.com",
+   "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnF0NXA2Q0x5bkxGUHl1VmREQU14VVlQQXVLVGdLOXhHTS1kMUtPaWdOZ25nRE9DTjJEUkhnVjhvYXc5QkRxVXlXMFhhWlFINnpZR1NXcDNTN21zdDRvOG9OeWlabGRwMGJjWkpKSkJBR293dExUN0k5RmZkekRzZjA0V0diVVZHeXF3TkNseVFPOXBfaktFWGI3ckMyU055TzFXMFlrVERUUEhO?oc=5",
+   "date": "Sat, 28 Nov 2026 04:30:34 GMT",
+   "vu_le": "2026-11-28T09:20:36.482068+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "XRP price at Nov 28, 2026 at 5am EST Crypto Prediction Market - Robinhood",
+   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMG9QZk5UaDlaQUFuLUxQcGhqTkRPbHc4Q2VERFNuMWxXcV9FZTE5M1hSRHk5R0pOMzNDVF9wTERUdUJmb2xhejJUTDVxQ0NrY2Y5OS13WlUyRTJEdUdsNjREbEljNV9qZHVRazNIYWN6MnE2QWVQZXNhR2xFck8yR0NGUzN5RjhnZzhJdFF6RDlDUnpkVHNtU0N5YkZJRGozUXdIR00xSmEtcHVtYlE?oc=5",
+   "date": "Sat, 28 Nov 2026 09:10:57 GMT",
+   "vu_le": "2026-11-28T09:20:36.482068+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "OpenAI et Anthropic bloquent le copiage de leurs IA par la Chine - TradingView",
@@ -6391,69 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV2lZVUtsTE5UNjlaaVNiWGdJUURSVTlkNGY4LXpNYnNaS21pajlQemw2YWFhRG1LQUVyVG8wWENtNHN3dE1xUWxfLTFoUkJYWExiV1Q2Y09yODFmWE5tbjhTUFlIMWQtQUdtQVpIZ1hlUFNsMXNYcHFFenh4TE84enhqR2RXNExWekozNnJKcXAweU91ZWM2enlmT25USUlMak8yUmhoYw?oc=5",
    "date": "Fri, 27 Nov 2026 16:18:00 GMT",
    "vu_le": "2026-11-27T16:40:38.952009+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "L'Europe s'offre un net rebond pour Thanksgiving - Zonebourse",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTlZaS00xZFRWd2k3WjZFMThPUGZTcURsVmtzX0NTX1FCSk5UdE1HY0xEZVQzM0llOUhBeU1Yd1FscmRpQ3hoQmpkMW9JOFBNVENoVkJwWk4zUExhVWQ0bUJVbWRRaVhCZGtiSzhyWXNpMXR0VGJhYTlrMUVUYlg3VkNaX1ByN2hWVGdDejVnVnVKT1hrMjlwdXVsZEdLSkpsYzI5RDJPWTBkWnRncGc?oc=5",
-   "date": "Thu, 26 Nov 2026 16:57:23 GMT",
-   "vu_le": "2026-11-27T16:40:38.952009+00:00"
-  },
-  {
-   "sujet": "Intelligence artificielle",
-   "titre": "AMD vs. ASML: As Wall Street Questions the AI Boom, Which Chip Stock Wins in 2027? - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd0phRFl2a2RxTm5ZWTVlVlZLc3lOTzBRLTU1V3c5dnBPMGktbVN6Qmt0dTh3WW9nNXgyaWdjS3ZYVXBhVDBBM0s3TDBIM3ZkRHBkNkRaNW45dFJDbkk1N0ZaQ19xZHlDbllZSHFkcDhkZHhMVGJiamJCMkFHdzdTaGVqSGJpM21ObjNpcDYxTjRFcjFNQ004OHhjTUdTTENzemk4UHRmMEJqVkdNRExCMHQ0MUtIZTdvZVc3c2JrcVBwTk9BMFg3NHlTWQ?oc=5",
-   "date": "Fri, 27 Nov 2026 16:26:59 GMT",
-   "vu_le": "2026-11-27T16:40:38.952009+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Saab AB (publ) (SAABY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-   "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QS2hlNnZfd1k2a2tDZzZqajV2ellWdTJZeUZ6SUtFQWFCdHRuaExaa3A0WURwRDlQczNwaENCNkZjRkFaSmVweHZzZmoyUnpsam9z?oc=5",
-   "date": "Thu, 26 Nov 2026 18:46:57 GMT",
-   "vu_le": "2026-11-27T16:40:38.952009+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "Palantir Stock Jumps. It Could Land a Major Poland Defense Deal - TradingView",
-   "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOHFEOHFFbno4VF82amtxdE5rdTNiVURBaDNDbFpDVnI4cjVieFltbEpOTk42VGRKM05pcjlzbmpibmxPS0d5OFlGOGRJcVR0SnFpRWEtb2F4cm1ieE1OSVAxU0dSc1U4RHN4ekU1U2JQY01BaERGTUlFUHhYeEdWQmNEbGtnVkhDRnY5M20zUGFEdGpwdlIySUlLdGNxNVptbjFkdlBuWm5jbFJVREJiN1k2SFNkMGh5aDBiWFdmZw?oc=5",
-   "date": "Fri, 27 Nov 2026 14:39:21 GMT",
-   "vu_le": "2026-11-27T16:30:36.702907+00:00"
-  },
-  {
-   "sujet": "Rachats et fusions",
-   "titre": "CrowdStrike to Acquire Zscaler in US$43.9 Billion Stock Deal - Mexico Business News",
-   "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObXFrS0xONmpCYkpqZU44UVpVdmFramEwdmJsaUMzMmN6UTRIaHRfWTJlRVBidzdVT0E3RXpBcnYxX3ZPZjhTakJlYVNZdjBmVmowZUtTY2t5WW1hUk1XOUNmUFlvSFFVZHRTd3pmaXNTUkVkOUwxTUs5RnNwM1pQVmx2WEcyeklBNEtiV3IzaEVLcFVObUQyejd6Z0t2TGNB?oc=5",
-   "date": "Fri, 27 Nov 2026 16:04:45 GMT",
-   "vu_le": "2026-11-27T16:30:36.702907+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Did Earnings Beat Just Shift Chemed's (CHE) Investment Narrative? - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUNRYS1FdWgwQUphM1luRHBycTZOTzZaYV9CRTU1dkZESXR0c0RaT2IyVWoyTy1WOXU0c0lFN3FrZVgwbm5nSlZKX0p4bW1MaTA3UEtfaDBvcHJ6N3N2X0JIaElkMGFDMXNPMzl1RTkyS0N5MlF5SWNEM1oybWNKcHk0REhJeDdaSDBVOHhLeVlUQU5ESURVeA?oc=5",
-   "date": "Fri, 27 Nov 2026 15:09:15 GMT",
-   "vu_le": "2026-11-27T16:30:36.702907+00:00"
-  },
-  {
-   "sujet": "Résultats d'entreprises",
-   "titre": "Forget Yield Chasing. These 5 Dividend Stocks Have Raised Payouts Through Every Recession Since the 1970s - 24/7 Wall St.",
-   "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb0drYXhiYjZFNjFMM3Azb3VDdGE4dnFMRjIybnQtTHBQRDlOX2VFVjZpcW1nc19NY0lYTTgyWmY4a0dKaHRLOXdMNWRVUTVVeUQ5U3ZhRlZoei1jc0c2RDZxcjMzc0FJZDZOMmwwa3FPMmhDOU9la1Z5b0hnUlNlNHpzN0lfU2NRRFNWcVl4emZpcEJpam41QWhDekI3LXhndDVGdzRtc1BHM0FaenR4ZGxjeVZGaTkyVzJtMDBEelYzSGZUVTZrU3FQU1FCaVZYRm5JYmRMVWt4OGRRd1FYbHhB?oc=5",
-   "date": "Fri, 27 Nov 2026 14:03:00 GMT",
-   "vu_le": "2026-11-27T16:30:36.702907+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "UFP Industries (UFPI) Stock May Be 18% Undervalued On Cash Flow - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1dXeF9Bb1RvUVh4VlI5VXBIYUxDa0hkMTY1ajRsY1lmd2phU2RnZDdSYlZpNXc0enVBMUJ4ZmdWenBoaTFpVkNYQWRESjNDbHVtRlBHSXVBOXp5N0QzRjQtTWoxZGFZWkNhWUxCNEJvSGdlVWZHVFc0OG83QU1WdFNZYThzOWFRdDgyNzJsVjBVVzJxczZ2ZmJR?oc=5",
-   "date": "Fri, 27 Nov 2026 15:09:43 GMT",
-   "vu_le": "2026-11-27T16:30:36.702907+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "DuPont (DD) Stock Looks Undervalued Based On Future Cash Flow - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMVVoRUxOZldUWFV2cTNLNEpycFdqQ3EzWUpPa1Nxc20yZnk4bGxKeWJDT0ZEbWxLWlFRQnpNUWp2NmhHcHJjOXpHRlZ3VzltWXk5dC1hUmtVRGthc0xUaHM5ZGVyVjhJUVdwNEN2MXYtMy1lWnpwNzllbG1kUnFPZEx0MnNsSVpIRFdhZXJtS0xOazk1SVVQb3VfSF85NXc?oc=5",
-   "date": "Fri, 27 Nov 2026 15:09:11 GMT",
-   "vu_le": "2026-11-27T16:30:36.702907+00:00"
   }
  ],
  "erreurs": []

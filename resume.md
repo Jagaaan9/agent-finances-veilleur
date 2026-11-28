@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54504.43 EUR, jour -0.42 %, mois -25.19 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54424.49 EUR, jour -0.57 %, mois -25.3 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -226,8 +226,8 @@ POSITIONS ET INDICES :
 - IX Knowledge Incorporated (TSE:9753, secteur Commercial Services) jour 0.9 %, mois -5.09 %, prix 1342 JPY, capi 12613998051, PER 7.4, volume x8.8 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 834986797, PER 28.6, volume x17.7 la normale
 - Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 8779940033, PER 9.4, volume x39.13 la normale
+- Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 834986797, PER 28.6, volume x17.7 la normale
 - Goyal Aluminiums Limited (BSE:GOYALALUM, secteur Distribution Services) jour 20 %, mois 26.49 %, prix 7.02 INR, capi 834986797, PER 29.1, volume x52.33 la normale
 - Waaree Renewable Technologies Ltd (NSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 23.4 %, prix 825.7 INR, capi 71797243279, PER 18.5, volume x233.67 la normale
 - Waaree Renewable Technologies Ltd (BSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 22.52 %, prix 825.4 INR, capi 71797243279, PER 18.5, volume x128.17 la normale
@@ -310,6 +310,15 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5994625000, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Marchés mondiaux] Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail
+- [Bourse de Paris et Europe] AIR FRANCE-KLM Cours Action AF, Cotation Bourse Euronext Paris - Boursorama
+- [Banques centrales et taux] Enquête BCE : les anticipations d'inflation de la zone euro grimpent en octobre 2026 - Actualités et statistiques - IndexBox
+- [Chine et Asie] Crucial role of China’s capital market emphasized - chinadailyhk
+- [Chine et Asie] Global shares mostly rise ahead of Wall Street's reopening after Thanksgiving - RiverBender.com
+- [Intelligence artificielle] Gene Munster Admits Focusing On AI Fundamentals Was A Mistake, But Believes Investors Buying NVDA Stock Now Could Be Rewarded - TradingView
+- [Petites valeurs en croissance] Is Evertec (EVTC) Stock Undervalued Right Now? - Yahoo Finance
+- [Pays émergents] Moneycontrol Pro Weekender | A case of the nerves - Moneycontrol.com
+- [Crypto] XRP price at Nov 28, 2026 at 5am EST Crypto Prediction Market - Robinhood
 - [Anthropic (FR)] OpenAI et Anthropic bloquent le copiage de leurs IA par la Chine - TradingView
 - [Marchés mondiaux] First Majestic (AG) Breaks Into the Market’s Winners’ Circle. Here’s What Propelled The Rally - Yahoo Finance
 - [Chine et Asie] Asian stocks mostly rise as markets calm after tech rout - IraqiNews
@@ -451,12 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Anthropic (FR)] Vous avez manqué l'IPO d'Anthropic ? Faut‑il acheter l'action maintenant ? - Invezz
 - [Chine et Asie] Hong Kong Stocks Rally As Beijing’s Support Pledge, Tech Rebound Lift Hang Seng 2.11% - BusinessToday Malaysia
 - [Chine et Asie] Hong Kong Stock Exchange: Hang Seng Index Jumps 2.11% to 22,694.77 as Tech and Chip Stocks Rebound - BBN Times
-- [Chine et Asie] Hong Kong Stocks Close (Nov 27) | Hang Seng Index Rises 2.11%; Tech and Brokerage Stocks Surge in Afternoon Session; China Shenhua (01088) Drops Over 5% Following Discounted Share Placement - 富途牛牛
-- [Intelligence artificielle] The Mad Dash for Memory Chips—and the Pain It’s Causing Holiday Shoppers - WSJ
-- [Défense, énergie, matières premières] Avalon Technologies And 2 Other Indian Growth Stocks To Watch - Yahoo Finance UK
-- [Marchés mondiaux] Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back - Yahoo Finance
-- [Petites valeurs en croissance] Storebrand (OB:STB) Stock Looks Undervalued Based On Its Equity Returns - Yahoo Finance
-- [Crypto] SOL price on Nov 27, 2026 at 9pm EST Crypto Prediction Market - Robinhood
-- [Crypto] Dogecoin price on Nov 27, 2026 at 4pm EST Crypto Prediction Market - Robinhood
-- [Bourse de Paris et Europe] THALES Cours Action HO, Cotation Bourse Euronext Paris - Boursorama
-- [Résultats d'entreprises] Cerebras raises 2026 outlook, sees revenue tripling in 2027 as $26bn backlog builds - investingLive
