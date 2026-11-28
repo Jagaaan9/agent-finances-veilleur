@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T04:30:35.043097+00:00",
+ "mis_a_jour": "2026-11-28T04:40:36.642103+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54841.6,
+   "prix": 54834.96,
    "devise": "EUR",
-   "jour_pct": 0.2,
-   "mois_pct": -24.72,
-   "volume": 3.79661488,
+   "jour_pct": 0.18,
+   "mois_pct": -24.73,
+   "volume": 3.99589137,
    "volume_relatif": 0.02,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 834986797,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 834986797,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,13 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Rachats et fusions",
+   "titre": "Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank - Quantisnow",
+   "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOGRVRkFkcThINk9xbTlFM3FIUVdNMTZiX2dERG0yTTlvc0dHX001NVVQcW12cHVHQTNMLVQtWXVDM0RqVDhtZWZHTFlCSGpRNmg5QnBVN3VvRnhoNGlKY0RlT0pPTzdQWnNIYS1rOFhKa2lJOGZlaml3bVM5cFY5X1NiZS0xekJTZ1o3T2h3OFJSS21UVC1lYXJzVXp5Q0NoYVNMQnZPVzcxNWEzYjFlak82RnFJdw?oc=5",
+   "date": "Fri, 27 Nov 2026 22:45:45 GMT",
+   "vu_le": "2026-11-28T04:40:36.642103+00:00"
+  },
   {
    "sujet": "Marchés mondiaux",
    "titre": "Stock Market Today: Major Indexes Surge, on Track for Big Weekly Gains as AI Stocks Rally; Anthropic Jumps 8% - Yahoo Finance",
@@ -6446,13 +6453,6 @@
    "titre": "Strategy Just Bought Bitcoin for the 4th Straight Week. So Why Aren't Crypto Investors Bullish on MSTR Stock? - Yahoo Finance",
    "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQXd6N3dDVXNsVXZhRm9zWjdDSFp3XzR0QUtZYnN3YjRkSnhSdFUxUkpTQ21na0RGQlFpel9WQk5Da3phUTk0RHYyelZraENUNUpqX2xudGNPeFBTMGNpTm1QektZUG1uSUdIX2VjQ2E5MXFBck1faTBfdlRxSURYZ00wMV8xM0dHa28zTE9NS0M4ay11MVVJMk8tcW5FQQ?oc=5",
    "date": "Fri, 27 Nov 2026 14:03:12 GMT",
-   "vu_le": "2026-11-27T14:20:39.793067+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "GLM 5.4 Quotas Rise to 1.5x, But Users Still Report Limits - Bitcoin Foundation",
-   "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcjF6NVVqaWttQnNVT29VdGJyYkZ0T0Y5UHRTem40V053ZW9tZHlkdDh5ZHRXUkVCaF9DSUJrWnV2SXZNeF9CcnlkdmJCTDYwNjRsaXEzZWJaYldiWkxVR0VZcVZ2ZWw2THlEMEM0ZEZVZkFxUngzeWdvaGxWSVBFSllMNHhCb2FOMVo3bGhIb0FZcW0tOHBuQ1dja3VWcXFRVXhnQnZOdl84N05oWlE?oc=5",
-   "date": "Fri, 27 Nov 2026 14:19:18 GMT",
    "vu_le": "2026-11-27T14:20:39.793067+00:00"
   }
  ],
