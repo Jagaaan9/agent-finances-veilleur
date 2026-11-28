@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T12:40:38.286093+00:00",
+ "mis_a_jour": "2026-11-28T12:50:36.249198+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54137.68,
+   "prix": 54123.84,
    "devise": "EUR",
-   "jour_pct": -1.09,
-   "mois_pct": -25.69,
-   "volume": 56.00643953,
+   "jour_pct": -1.11,
+   "mois_pct": -25.71,
+   "volume": 56.54750092,
    "volume_relatif": 0.26,
    "capitalisation": null,
    "per": null,
@@ -3371,20 +3371,6 @@
   ],
   "États-Unis : grosses sociétés à PER bas": [
    {
-    "symbole": "NASDAQ:GOOG",
-    "nom": "Alphabet Inc. Class C",
-    "prix": 272.44,
-    "devise": "USD",
-    "jour_pct": 0.54,
-    "mois_pct": -14.83,
-    "volume": 14018416,
-    "volume_relatif": 0.55,
-    "capitalisation": 3346907996277,
-    "per": 14.2,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3393,20 +3379,6 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
-    "capitalisation": 3346907996277,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3423,6 +3395,34 @@
     "volume_relatif": 0.58,
     "capitalisation": 3346907996277,
     "per": 14.4,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOG",
+    "nom": "Alphabet Inc. Class C",
+    "prix": 272.44,
+    "devise": "USD",
+    "jour_pct": 0.54,
+    "mois_pct": -14.83,
+    "volume": 14018416,
+    "volume_relatif": 0.55,
+    "capitalisation": 3346907996277,
+    "per": 14.2,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 2.1,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC/PK",
-    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th Non-Cum Perp Red Pfd Registered Shs Ser -HH-",
-    "prix": 21.12,
+    "symbole": "NYSE:BAC/PP",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP-",
+    "prix": 14.51,
     "devise": "USD",
-    "jour_pct": 0.52,
-    "mois_pct": 1.29,
-    "volume": 110706,
-    "volume_relatif": 0.53,
+    "jour_pct": -0.34,
+    "mois_pct": -1.23,
+    "volume": 160626,
+    "volume_relatif": 0.89,
     "capitalisation": 338593252758,
-    "per": 5.0,
+    "per": 3.5,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,48 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Anthropic (FR)",
+   "titre": "Le Point J - Anthropic: pourquoi ce géant de l’IA agite-t-il la Bourse? - rts.ch",
+   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2VKUEVpdHRVZjIzX3pPRTBfekNHOVAyMXdRdW1YYXZXRWdGZERwYkw0UDRsRVFjSm00RVN2LXg2UWZyd21MMl9zd3NpWHR2VjRNbXNoQ1ZkSUExR2RsQWJlV2ctMEpud0FQVWotWFpJRENZU1FWeGZROXJxRWZ3SVl0Q2tPaTExRDNzX0hNY2ZTT00xa1JjeTc2MktSU09RNUE0SlRlZ0dXUUdVWTk4VkhycU5QMi1CLTZYQU1FdlR3MDg?oc=5",
+   "date": "Sat, 28 Nov 2026 12:44:31 GMT",
+   "vu_le": "2026-11-28T12:50:36.249198+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Les anticipations d’inflation repartent à la hausse dans la zone euro (enquête BCE) - Agefi Luxembourg",
+   "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVW9wQkNoMHd6bUFqTXRSemw5c25KTWxjcEExZGdsY3Y5NjROQXd2aV9LVEU4SFV4SzBzR2kyM09mcUl4SVNRLVBqZG0zUFk0SXpLWFkxaXo3VWRjOF9iZU0wM3JJX2QwNU11aUJJT0xpVUNNUFNBa0poZ0Y1VUNpTnlGQ1c?oc=5",
+   "date": "Fri, 27 Nov 2026 19:52:30 GMT",
+   "vu_le": "2026-11-28T12:50:36.249198+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "META_TITLE_SECTORS - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fNmprZVo0cnM2Qi10UVQ0X3BHRDNMQ1pZZ0NjTVYyNWRyZll2ZTVNUUxmWTlybzVhaS1NTTY3aTdqMU5SSUx3RlpodnRMeVBRdDhj?oc=5",
+   "date": "Sat, 28 Nov 2026 04:18:43 GMT",
+   "vu_le": "2026-11-28T12:50:36.249198+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Trade Desk (TTD) Stock May Be 28% Undervalued Despite Kokai Lawsuit Pressure - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSzhDZl80T0g1WjZjSVBDZWhpWWNGaVRPNHZoMm9PTFdKWTJiMmdVOUdmSWRWa1p6YXZPS2Q2a29uZEYtZnBkdkdwN19MWGJSMjlZa0hCcHdWOFg3V0p0ZVplLU1FakRRVTNJYTkxeEE1YVZ4NWIxWkJFMjBhYzZ2ZHZPVkVtcjByQzlnQm1uRHVaT2c?oc=5",
+   "date": "Sat, 28 Nov 2026 01:08:00 GMT",
+   "vu_le": "2026-11-28T12:50:36.249198+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Crypto Market Today, November 28, 2026: Bitcoin Near $59,500 as Friday’s Rebound Fades - Eurasia Business News",
+   "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2RpNU1qVUpJWnV5RGFtcGxqbG1mMUxnSE5JZWxOUXBYTld0YjVlTmJJaGhwWjNnclFjenhEUW9INm9MdE1qcGlxWDVyNUhMSHA3SEZSSlk2WjhuM2IyZTdWaDFSbXNDUDJMVnBWNFRoTmsxVnpTRFRDanNZb2NpVG5NMS11QnY3WU9EWW5BbkdZSHdaeUVsU3o4Yy1xMTc1UmNLLU9faGJzWkhlZHVoQWpYb3FPenJfLXhaT2dmclRvQQ?oc=5",
+   "date": "Sat, 28 Nov 2026 12:46:21 GMT",
+   "vu_le": "2026-11-28T12:50:36.249198+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Monero vs Bitcoin: Which Crypto Is Better? - Phemex",
+   "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nMzJTbkZQTGc3MTBFSmVPUHM3bVZFTFU3QzVYRDBQQ1VWaDhDS00wWjJiN0EySG05U2plX19LZ0twdFE3MVFLWElyZmdxOGFvU0p1VDBqWUJuTHdCNGl0cTNLRkZxSFhRbzg0LUgtUmhOSms?oc=5",
+   "date": "Sat, 28 Nov 2026 12:39:59 GMT",
+   "vu_le": "2026-11-28T12:50:36.249198+00:00"
+  },
   {
    "sujet": "Banques centrales et taux",
    "titre": "Les anticipations d’inflation repartent à la hausse dans la zone euro (enquête BCE) - Agefi Luxembourg",
@@ -6412,51 +6454,7 @@
    "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XTlZrWkEtc3R3a21nb29sZm9oODFOYTJ1MmMtTlRiZGZ6aEZack9WLVQyQjN1NWJUeUVWLVA1OE9ObE02MlczNnVfOHR5TEZFT216LWlYanAtWFpTaDBoNUNTLXpkUXNXS0V4dE9keUp0QVRfclpkWnowY2lFRlk?oc=5",
    "date": "Fri, 27 Nov 2026 19:46:02 GMT",
    "vu_le": "2026-11-27T19:50:41.285607+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Should You Invest in Anthropic Stock Now or Wait? Here's What History Says. - Yahoo Finance",
-   "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMm95cUFiYlV2ZXk1dVJMX3B4bGZpSzJEWTJJSGU3akhiWGFjNnpNT0plMlpfcWN6V1FOT25nZWZ6MmFfdkw2dkZxQ2U4bFJBZWdNNjE1QkpxMjBObFZ5bHAxMUlTUFdhZ25OQ3JIWTlGNzByUzFuejBsVEdEU2xabFdILW9RM2hOeHJoVDVnQ1d6emQ2dWctYTRZQUw?oc=5",
-   "date": "Fri, 27 Nov 2026 18:39:02 GMT",
-   "vu_le": "2026-11-27T19:40:38.060598+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "Wall Street termine en hausse une séance écourtée, portée par l'IA - Boursorama",
-   "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZFZ1OF9tUG1fb1M4cnd4U1lDcXhBUEpsZklqWExNdG1WMVdBRk5Hd1BDSU5rcEh5T0VKR1cyZ3prN0ZubEJUUjhBUWVOcmRNTkRMQlZmT1A3Z1VIUF9PVGZBUTQyRDg2NmVNa3ZLZ2Yya2RmdFJKY3RMSWVOTFptY3F3WmRzd2F5cXZabkNvbVdpX3BmeUlFTG9PT3hvQVRJR3o3TUNCdXJvTkYxVk9LRHNjeFNPU3YyUUgzSzVObE5XZ19OUmpvZkFpTnM2dVdfVXR1aWQ3azNLMU82LU45RdIB4AFBVV95cUxPZFZ1OF9tUG1fb1M4cnd4U1lDcXhBUEpsZklqWExNdG1WMVdBRk5Hd1BDSU5rcEh5T0VKR1cyZ3prN0ZubEJUUjhBUWVOcmRNTkRMQlZmT1A3Z1VIUF9PVGZBUTQyRDg2NmVNa3ZLZ2Yya2RmdFJKY3RMSWVOTFptY3F3WmRzd2F5cXZabkNvbVdpX3BmeUlFTG9PT3hvQVRJR3o3TUNCdXJvTkYxVk9LRHNjeFNPU3YyUUgzSzVObE5XZ19OUmpvZkFpTnM2dVdfVXR1aWQ3azNLMU82LU45RQ?oc=5",
-   "date": "Fri, 27 Nov 2026 18:20:46 GMT",
-   "vu_le": "2026-11-27T19:40:38.060598+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stocks jump to end an erratic week that was Wall Street's best in over a year - Spectrum News",
-   "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3E4aUlpQUpxRndOLVBSZlJZZWdtdENuYjVEQkdOWjV2dEdmeUs2TmptUk94ZG4tcmQ0TnhZQS1pOFhJUHVsLWlDcnExLW9rRGZFSHc1YkV4Rml5UWZjTFRRakhGbkM1UEtVTlVCbXJGZGtmX0IydGh4UlJvUzdnTUNLQlVYZlJMRnk0Z1EzcGlPR3ZTcTZlQ0tIRnN1MHl0WVllOXd0T08wNTA4MkdpNzhoSQ?oc=5",
-   "date": "Fri, 27 Nov 2026 18:59:00 GMT",
-   "vu_le": "2026-11-27T19:40:38.060598+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stocks jump to close out an erratic week that was also Wall Street's best in more than a year - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVExzQ1NuZnZPRmZHd0p2MzhrNXg0V0ZuR1h6UGxpYWdNdlV3VWZZMEpERTZJNWpnRUtRcjhqc1AtMlB4Y3JCQ0twcGZOZ2l6X3l4MWc5Rnl5QjhpZHp1OTVXellNeS0zNXlxZW9ITUl1S0VuWlVOX3FTUW9ld3NmVVc0cTNfWmdxMjVGQlZPUzRmRGwtRWNrOUV2TU5la2swNmFJTG5DMjlHUTJJXzN2QVlKdXkyYWEtWmRSa0ZvZ2xGVUpVcEszbDFfMmdldUpWcGg2eGtySW4xOTZmSjE0Nk1kVURnQTd2OFR2RzZxc0xRY24wajBkNUc2YlM1d21jRUVpcmppekhrWkE?oc=5",
-   "date": "Fri, 27 Nov 2026 18:07:28 GMT",
-   "vu_le": "2026-11-27T19:40:38.060598+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "« Nous avons désormais un point de vue beaucoup plus nuancé sur la mégaforce intelligence artificielle », explique Jean Boivin, directeur du BlackRock Investment Institute - Investir Les Echos",
-   "lien": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNRHEzRl9ZMG1UMGtUd0o3cjlkTmhRMnZ4OGZ6RWdpdVhkYnJ0Y0tfZW1xZHNKOFU1NmFlU2F1U25ZeXBEbllUMzV1WWt3TW1YbzE5bjRZVXgtUHZ4MGc1bXJHZDRPai1vdDNjZjBxSklZcnY1NzhyQ1VkUkFQVFY5ajRoUGpqVk5Ga0lfWEo2TjV4eDhiSEx3N2gzeFBOWjRscjhFSXQzdVhPOHo0WTBzdnBIZUowbkthdHFTVUJwb2RRcFJManJBQUdVakhYeTRRbHdYTF9ZRTRfVmJMN1RtM1FZTkRteXZqcjZESzQxM2swS2I4VjI0YnN5azRjaDJmZkFCT1d5cmVWZVpjR3BIb0xrS0VyVC1RSjBqTGIwWnFhSk0xa0lBOUNnX01VeW9ieWMwSUhCdF9vWjJtT3ZiUmR1RnVHT0pNdDFr?oc=5",
-   "date": "Fri, 27 Nov 2026 16:08:44 GMT",
-   "vu_le": "2026-11-27T19:40:38.060598+00:00"
-  },
-  {
-   "sujet": "Petites valeurs en croissance",
-   "titre": "biote Insiders Are Down US$76k But Regain Some Losses - Simply Wall St",
-   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOclFYQWNPLWRwdmpZWUdDUlhaNk9oejlDUDVkYjcyU0FKWTllbDJucHNKZWtFOV9JakJiZXYtZW9xVDRza2FJNkV5Q1UwWlVTYUx3aVNfUWpKV3YzSzI3NFV5RzhGZS1mY2hadVFTTmtXaEFuZVYtbzZzYlBtT1NqUGpZNFpFUUJkQ1hTSXpHQnNIcWFiLUthS1dOVGpTdGhfdktPUzI1SUNSZ21WakxVMFUzbVgxTlN4OS1pSUllRFk0SWNHbGdfYVBtV0hVVXY50gHQAUFVX3lxTE5yUVhBY08tZHB2allZR0NSWFo2T2h6OUNQNWRiNzJTQUpZOWVsMm5wc0pla0U5X0lqQmJldi1lb3FUNHNrYUk2RXlDVTBaVVNhTHdpU19RakpXdjNLMjc0VXlHOEZlLWZjaFp1UVNOa1doQW5lVi1vNnNiUG1PU2pQalk0WkVRQmRDWFNJekdCc0hxYWItS2FLV05UalN0aF92S09TMjVJQ1JnbVZqTFUwVTNtWDFOU3g5LWlJSWVEWTRJY0dsZ19hUG1XSFVVdjk?oc=5",
-   "date": "Fri, 27 Nov 2026 13:14:47 GMT",
-   "vu_le": "2026-11-27T19:40:38.060598+00:00"
   }
  ],
- "erreurs": [
-  "actu Crypto: HTTP Error 429: Too Many Requests"
- ]
+ "erreurs": []
 }
