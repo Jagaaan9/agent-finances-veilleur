@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T16:20:35.408307+00:00",
+ "mis_a_jour": "2026-11-28T16:30:35.987047+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54390.63,
+   "prix": 54356.81,
    "devise": "EUR",
-   "jour_pct": -0.63,
-   "mois_pct": -25.34,
-   "volume": 70.88019533,
+   "jour_pct": -0.69,
+   "mois_pct": -25.39,
+   "volume": 71.56363239,
    "volume_relatif": 0.33,
    "capitalisation": null,
    "per": null,
@@ -2661,20 +2661,6 @@
   ],
   "Inde : plus fortes hausses": [
    {
-    "symbole": "NSE:GOYALALUM",
-    "nom": "Goyal Aluminiums Limited",
-    "prix": 6.9,
-    "devise": "INR",
-    "jour_pct": 20.0,
-    "mois_pct": 23.43,
-    "volume": 956533,
-    "volume_relatif": 17.7,
-    "capitalisation": 1001984170,
-    "per": 28.6,
-    "bourse": "NSE",
-    "secteur": "Distribution Services"
-   },
-   {
     "symbole": "NSE:SOLARWORLD",
     "nom": "Solarworld Energy Solutions Limited",
     "prix": 121.56,
@@ -2687,6 +2673,20 @@
     "per": 9.4,
     "bourse": "NSE",
     "secteur": "Industrial Services"
+   },
+   {
+    "symbole": "NSE:GOYALALUM",
+    "nom": "Goyal Aluminiums Limited",
+    "prix": 6.9,
+    "devise": "INR",
+    "jour_pct": 20.0,
+    "mois_pct": 23.43,
+    "volume": 956533,
+    "volume_relatif": 17.7,
+    "capitalisation": 1001984170,
+    "per": 28.6,
+    "bourse": "NSE",
+    "secteur": "Distribution Services"
    },
    {
     "symbole": "BSE:GOYALALUM",
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGL",
-    "nom": "Alphabet Inc. Class A",
-    "prix": 274.96,
-    "devise": "USD",
-    "jour_pct": 0.68,
-    "mois_pct": -15.07,
-    "volume": 22623016,
-    "volume_relatif": 0.58,
-    "capitalisation": 3346907996277,
-    "per": 14.4,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3423,6 +3409,20 @@
     "volume_relatif": 0.42,
     "capitalisation": 3346907996277,
     "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGL",
+    "nom": "Alphabet Inc. Class A",
+    "prix": 274.96,
+    "devise": "USD",
+    "jour_pct": 0.68,
+    "mois_pct": -15.07,
+    "volume": 22623016,
+    "volume_relatif": 0.58,
+    "capitalisation": 3346907996277,
+    "per": 14.4,
     "bourse": "NASDAQ",
     "secteur": "Technology Services"
    },
@@ -3497,16 +3497,16 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NYSE:BAC",
-    "nom": "Bank of America Corp",
-    "prix": 49.07,
+    "symbole": "NYSE:BAC/PP",
+    "nom": "Bank of America Corp Depositary Shs Repr 1/1000th 4.125 % Non-Cum Red Pfd Rg Shs Series -PP-",
+    "prix": 14.51,
     "devise": "USD",
-    "jour_pct": 1.09,
-    "mois_pct": -3.6,
-    "volume": 19471454,
-    "volume_relatif": 0.57,
+    "jour_pct": -0.34,
+    "mois_pct": -1.23,
+    "volume": 160626,
+    "volume_relatif": 0.89,
     "capitalisation": 338593252758,
-    "per": 11.7,
+    "per": 3.5,
     "bourse": "NYSE",
     "secteur": "Finance"
    }
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Bourse de Paris et Europe",
+   "titre": "TF1 Cours Action TFI, Cotation Bourse Euronext Paris - Boursorama",
+   "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10WnByb0Nka2lHcWUzQTdMRWNZd3pydDhyUmIyV2pzOUtrY1VuTlJHVGdBaEhzT2VEMF9seWtFbklYUGdjSmRuR1g4RHFyLWUxQWc?oc=5",
+   "date": "Sat, 28 Nov 2026 10:57:01 GMT",
+   "vu_le": "2026-11-28T16:30:35.987047+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Wall Street : le S&P 500 peut-il rebondir de 45 % après sa correction ? - Le Revenu",
+   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVUtZWFidVVJdHlKaW0xNTNNdkxDTHhGdGktMWwwZUlxRHQwU01qdkQtME5pOFJOSHExX1BlMy15aHc5TmNaWFB6ZTlRVHY0Zl9GcE82UHZKN1gxNG5Sc1pycDRjV0VpUEtTbmUzSVFOUWZ3OG80X2hwM3NKd2hIM011aFllY1I2NG1VRmV5ZERhUnRMamZvRXdtczRpT1lmQ2xoZzN1VC1aLUFjWmtHRzJFX0cyQVUtNTJBSg?oc=5",
+   "date": "Fri, 27 Nov 2026 17:10:00 GMT",
+   "vu_le": "2026-11-28T16:30:35.987047+00:00"
+  },
+  {
+   "sujet": "Intelligence artificielle",
+   "titre": "Indonesia answers US AI chip export rules with three-part plan - PrimeXBT",
+   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWhWVDUyZk9KRnJjVUR1VG02RlcwaXRfOVBGM3phdGpTWERpcFRSZDBIQ2RxVTQzWUk3NXFHRkktd3hEanNncGVTYjRuYy0tdGp0ZjMtYW1ORnVhdHRLY3V4aEduT0ZQV3Z0WVFhUlNYM3dWNDdvOHFZdDJ1RmdfbnRfdHdMcDVrMHZINTRQVE1GMVU?oc=5",
+   "date": "Sat, 28 Nov 2026 12:01:53 GMT",
+   "vu_le": "2026-11-28T16:30:35.987047+00:00"
+  },
+  {
+   "sujet": "Petites valeurs en croissance",
+   "titre": "Albany International (AIN) Stock Could Be 28% Undervalued On Cash Flow - Yahoo Finance",
+   "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU29OcENqb3VHSDdJeW1UaFdrbTAzTjhTanpLZFAxQTlHOElnc21ZM1JqR0JRcjVsWTBLVjJvUDdwUkhwbm1xMXlTSzYwbGdYWmpCcG1mMVRnZGREWkJpTmRTSjVqaXZYeFlvREpSakN4QzVnUWRUT2RMWDNQSWJPWkhVVTNQTU1OcXVHM3ppdlBiN3VmLWxjYmJXOXlHT0NOMHRN?oc=5",
+   "date": "Sat, 28 Nov 2026 14:06:50 GMT",
+   "vu_le": "2026-11-28T16:30:35.987047+00:00"
+  },
+  {
+   "sujet": "Défense, énergie, matières premières",
+   "titre": "Firefly Aerospace vs. Rocket Lab: Which Space Infrastructure Stock Is a Better Buy for 2027? - The Globe and Mail",
+   "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdl9ETlBhS2xzRkNxMjhrb2NfQ0JieUkzTXBaLVd2eTBiX2hjb1dyMm1mUE56a1dHV0tQODEzeEFnU0ZiT0tGTHZLWVVHaW8zbGF0VFQ4M19xTnVacUdUUUN5bkQ2QUY4TU1wUjZSd3NLT0ZxbEZNMjZfN2pUZHJuOWNVdGNWY3RMaXFTclYxM2c3WDB4Q1p1ZmY3d3Q2dXkwRUlxOHFOUUs0emhCOTJoM2N1Y0YzUVRtYTFoSFdfUFRwVklEVWxLRnZxV0c0eGt6cGJxanh3TGNQYkIwdUdlSHdZTWZCQmhMZndCbm9QY3Nwc0xoNU9aNlVva3ZkaWtGOEdRbg?oc=5",
+   "date": "Sat, 28 Nov 2026 16:09:18 GMT",
+   "vu_le": "2026-11-28T16:30:35.987047+00:00"
+  },
   {
    "sujet": "Anthropic (FR)",
    "titre": "Bad News for Anthropic: OpenAI Nearly Matches Claude Opus 5.5 at “Under a Fifth of the Cost,” per SemiAnalysis - TIKR.com",
@@ -6419,41 +6454,6 @@
    "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUU5OSGVxRk9oQmZLa0tucUhCa2dLQnJWWW1XcllVVE02YjVQT0N1elZfal93M2pFRkt2V3VDWkh3cHNCZEc4YU1ORFQ4ZDZjM2VfaFhDWGtvSTBtb0pnWEl5RC1KeV95OG96SGd1WFdheDRJdkZ5WU5OTTVoVUc0eW1aeHdCbFMzTlh4MHBQRmhKZw?oc=5",
    "date": "Sat, 28 Nov 2026 02:29:11 GMT",
    "vu_le": "2026-11-28T02:50:38.393856+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "L'introduction en bourse d'Ambiq a permis de vendre des actions à 24 $ ; 1 000 $ valent maintenant 1 550 $. - FourWeekMBA",
-   "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSUZRNl9GVnZhMU5pQmpZSEJQZ3VrSnA0ZkZtX0FuejNyWWVQcVBGZllxQXZqd3o1d1Y3cUlCSEJSelBGcmhkZjZpX1ZZVkpaeHBsbTNuT3pZNmJQUmpiOW8zNVdaYjFDN0tHbU5UQlA0cU5rMGM4T0FNWTY5VXRUb0ZRWmxKSEhyeXZfemxFLW5uVHlrNWpoVXdFS08tOF96czJja25Na2ZkMHVTcUlBa0stbU9Kd0N1Z1FycTNYUUh1bUJQa241ZHRBVi1kVjZMUnQ2ZEFTV1ZZNk9OblltZDZTaHFXLS1KWkxwcURkcHhGd1NMU2xnU1RR?oc=5",
-   "date": "Fri, 27 Nov 2026 06:58:34 GMT",
-   "vu_le": "2026-11-28T02:40:34.755122+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Crypto Fundraising Recap: $405.2M Across 36 Rounds - shattered.io",
-   "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRFpaQkh3Zi1uSDA1OVFkMFVDZWlHT0VzemRsZFhiN3pCWnNWcl9BczQ3bGROazhyVjJ5aV9NRWlQNGU3WllkSFNDSWFjOVJGTUZGbW1ocFlQTlBNSElfRFl4ZTh5a0ltYXFiZHVnMEhYWkpNMFFaUzhrZkVkQ1JhamVWOEdXSGY2VVp2b2U1QQ?oc=5",
-   "date": "Sat, 28 Nov 2026 02:35:07 GMT",
-   "vu_le": "2026-11-28T02:40:34.755122+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQaVFrQXNOWlg4SVRhWW1RcTJHcUNjalFBaVdlZFNxckFZSHhsZVY5ekdvdzA4V05kdUgyZlc4RlFxLVJoR0RGTW0wTkpDSXYyMlduOUxvSlVWa1k2ZTNOcGE5TWdxVTh2bFBfcFFhMGwxa01ldXY1LXRKZVhFUU82V1BhVmZMXzdaazJxdGRmQ2dKZ3ZSeXFxUlF4eE5teWFXZmhlNzhKdTRpaEdxbmF2V2M2LTJSU3hMcU9fZElFUF9FWnFBY3NXSHpWb3RtTjQ0TVNKNVBXOVNUTWtBMjJ2MzJ3c29ia3EwUlR1cm4waHdmek1OMHM4NlQxSEdoekszQ1NGZEJUMmQ1cFlMWU1abGp0eFVCMFIybHFZ?oc=5",
-   "date": "Sat, 28 Nov 2026 02:19:12 GMT",
-   "vu_le": "2026-11-28T02:30:35.372395+00:00"
-  },
-  {
-   "sujet": "Anthropic",
-   "titre": "Here's Why Anthropic Stock Rallied on Friday -- and Why Wall Street Analysts Say It's Still a Buy Right Now - The Motley Fool",
-   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUzh5NUptNDliZ294VXBOai1hYjFialZTSEdkTnFfRjYwU0VaX1AzaUZ4b3UyWnhGRUd3c0RETFBncFF5UDhZWmZ5WVJadWRUaHJub2hQMklpOU5KY3VzUmJkUG9CZTlPXzhkdUZtS3pwR0RpUmJnUEJGNUlsSFd2NC1jcGJ1b0VlOWhZWUlyT2NzMFhsclhPVzB4SmFnc19CeDV1RGs4bkRyLW5kM2VBbTIzOVZjOXhacXIw?oc=5",
-   "date": "Sat, 28 Nov 2026 01:55:00 GMT",
-   "vu_le": "2026-11-28T02:30:35.372395+00:00"
-  },
-  {
-   "sujet": "Marchés mondiaux",
-   "titre": "Stock Market Today, Nov. 27: Anthropic Jumps 11%, Reclaiming Its $83 IPO Price as Wall Street Rallies - The Globe and Mail",
-   "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQT25Fb3hZdXhWamtsWTR6QlVjX1o0cjhFSlRWU0J6YVB1QVBNVUJPOW9NNmlKUlBwdFFGTlZsaU5iSm40M3N0T09FVlFDUnlTWXZHc0tnVy13c1d2OWpsRm1ENFNsU3JlTldOTTRUMGpjTzhfdGtJN2xBUWZpRWQ5QjRVY3JBdDFGejVOTkJmVElNN1lqX1VXS1ExNS1PS2Z1dFFXbUdnMnAtakxRY01PZUMxOTJBNXVQY2w5NHJOZjFrcnRHTjF0WnZRLTZvV0Jvd1BFekN4Xzk1VEpKOFFDMnZuVDR5em41Znc1SGR6TU1EQ2hkN3k1MktCVk1YckRpX3NYRzgtbENGUm8y?oc=5",
-   "date": "Fri, 27 Nov 2026 22:39:35 GMT",
-   "vu_le": "2026-11-28T02:20:35.242092+00:00"
   }
  ],
  "erreurs": []
