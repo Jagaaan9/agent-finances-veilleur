@@ -1,5 +1,5 @@
 {
- "mis_a_jour": "2026-11-28T09:30:36.286563+00:00",
+ "mis_a_jour": "2026-11-28T09:40:35.339468+00:00",
  "positions": [
   {
    "nom": "Anthropic, PBC Class A",
@@ -174,11 +174,11 @@
   {
    "nom": "Bitcoin / Euro",
    "symbole": "BITSTAMP:BTCEUR",
-   "prix": 54492.93,
+   "prix": 54437.53,
    "devise": "EUR",
-   "jour_pct": -0.44,
-   "mois_pct": -25.2,
-   "volume": 45.3717566,
+   "jour_pct": -0.54,
+   "mois_pct": -25.28,
+   "volume": 45.59539551,
    "volume_relatif": 0.21,
    "capitalisation": null,
    "per": null,
@@ -3399,20 +3399,6 @@
     "secteur": "Technology Services"
    },
    {
-    "symbole": "NASDAQ:GOOGM",
-    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
-    "prix": 40.81,
-    "devise": "USD",
-    "jour_pct": 0.37,
-    "mois_pct": -12.26,
-    "volume": 692191,
-    "volume_relatif": 0.58,
-    "capitalisation": 3326384161591,
-    "per": 2.1,
-    "bourse": "NASDAQ",
-    "secteur": "Technology Services"
-   },
-   {
     "symbole": "NASDAQ:GOOGN",
     "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
     "prix": 40.82,
@@ -3421,6 +3407,20 @@
     "mois_pct": -12.14,
     "volume": 447055,
     "volume_relatif": 0.42,
+    "capitalisation": 3326384161591,
+    "per": 2.1,
+    "bourse": "NASDAQ",
+    "secteur": "Technology Services"
+   },
+   {
+    "symbole": "NASDAQ:GOOGM",
+    "nom": "Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs",
+    "prix": 40.81,
+    "devise": "USD",
+    "jour_pct": 0.37,
+    "mois_pct": -12.26,
+    "volume": 692191,
+    "volume_relatif": 0.58,
     "capitalisation": 3326384161591,
     "per": 2.1,
     "bourse": "NASDAQ",
@@ -3655,6 +3655,41 @@
   ]
  },
  "actualites": [
+  {
+   "sujet": "Marchés mondiaux",
+   "titre": "AI STOCK SELLOFF PUSHES WALL STREET INTO CORRECTION BEFORE A SHARP REBOUND - Magzter",
+   "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEhBWUJubDg5MHlob2hyQUlhcmp3Q05IbWZpTU4teU1WSmdxWGZJWG8xRHAwQnNtUFZBa2JLeHNMNGktdFVqRmxseEZ1aUtaV2pBSE56VFU5a0ZGOEJBNzFYYUl4c3pfcE5wcWN2V3VMUmxtRl9jUWJkeEY1Mkh5eGgta1U4TkZZMEJBWG5wcXpjaGVLNXdrbllVd0VuYXNyU0lMcEQ5TlhVeFcxVjBvSHNPRXFWazg5dS1IdDdQc00xNGN0cUtMYnZWWQ?oc=5",
+   "date": "Sat, 28 Nov 2026 08:26:55 GMT",
+   "vu_le": "2026-11-28T09:40:35.339468+00:00"
+  },
+  {
+   "sujet": "Banques centrales et taux",
+   "titre": "Le prix de l'or rebondit après une série de jours de baisse, la Fed devient soudainement le centre d'attention - Laodong.vn",
+   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWtZZWxwVDE2SVVPa2xCdWx3bU5PMzh1WUxUdnJNXzFycXVsbTdNcmpCblB0SEJLeF9idHVaOE83S25ZalVGMk1XNk5PY1JDN0t3OU5qakdTSk10anF5dm1zRVVZZ3FvT0VCcWdlTUFtUGpreFRvLUE1TkR5U0FxT2dFcGNHTlJyanY3UHdhTDNHcmtCeG56N2lSRXhZZjNkMXhsTEF5d3RPLWpYNjF3YkVlRXJUYXMwOEIyeQ?oc=5",
+   "date": "Fri, 27 Nov 2026 09:46:40 GMT",
+   "vu_le": "2026-11-28T09:40:35.339468+00:00"
+  },
+  {
+   "sujet": "Chine et Asie",
+   "titre": "Crucial role of China’s capital market emphasized - chinadailyhk",
+   "lien": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VNklUVW1IelJxY2lRc2RNWGRON3V2bHdyb1U1M0IyRTNQd3FDZnhweElNczdrV0JyUnFnWjhuODh2NWEtWlE4MS1xakxzbm9KdVFWcjdURjFtZw?oc=5",
+   "date": "Fri, 27 Nov 2026 09:45:00 GMT",
+   "vu_le": "2026-11-28T09:40:35.339468+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "Trump-linked crypto token WLFI plunges 50% to record lows - CoinDesk",
+   "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVDJXelFqU09tbFZlLXlaNXJZSDJ0NjY1NHRCVm04WjBROVJDaFdoRjlXdkl2WWc5UW9DQ3JRVGFHeGVFbG93VTFqMUpnZHl4aWxJRmlXRGNFbTZlYVdEeGRINVRpQk5fQllkRlB4cGRsTEFYX19xaUU0NzZfTF9fd1dFOElmTmVGZzR5OUxaamV0aml0?oc=5",
+   "date": "Sat, 28 Nov 2026 09:32:51 GMT",
+   "vu_le": "2026-11-28T09:40:35.339468+00:00"
+  },
+  {
+   "sujet": "Crypto",
+   "titre": "AI Tools for Clothing Brands: 7 Platforms Compared - Bitcoin Foundation",
+   "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPamw0aXF1ZWxZdVlGOTR3Y0xUOTg2aDIzamxlNHRkT3dxcjg0UDZNR3FsV05McFBkYnFpUDFaalRLNW5VTXlhemgwTmVoa3BnLVJkdnB2SnJBNXlRS3pxUlcyMGd2Y3hmbVc1dEgzNThqYi1rTmZ4Sk9aYldURTNkQkRNbnJwRjBTTlVyODlZWjlyVXlKQ19KUzF6ZjVMNUo0WmFnZTJEcjh3WjQ?oc=5",
+   "date": "Sat, 28 Nov 2026 09:31:37 GMT",
+   "vu_le": "2026-11-28T09:40:35.339468+00:00"
+  },
   {
    "sujet": "Résultats d'entreprises",
    "titre": "CMC Markets Profit Hits £106M; MetaQuotes DDoS Alert - shattered.io",
@@ -6418,41 +6453,6 @@
    "titre": "I bought the Anthropic IPO and it was … hilarious? - Afford Anything",
    "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGg3QTRDNzJFaXUyWDJPZmF3d1NEblViWHZDRkU5RUstSTM2cURWTXl0MFh4VUtoU1JRc3VBMm5UZGNXVHkwcnRSbDR6eEplZml3ZlQyaW84Y0o0aG83NDJWeGxPSG1nalJvSmFRN082dF9JajdFZ00wa0F6UjlUZg?oc=5",
    "date": "Fri, 27 Nov 2026 05:16:28 GMT",
-   "vu_le": "2026-11-27T16:50:36.532257+00:00"
-  },
-  {
-   "sujet": "Anthropic (FR)",
-   "titre": "L'analyste le plus optimiste sur Anthropic vise... 300 USD ! - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckFBRjdnUzJMaXM5SE5LZkxtbGVkcHV6TVNEY0R3TWlDUW5tcEhHa0pzbmhwUFI4UFc1bkZHZWhRbFJZUlplRGUzMmhpQVI4X2FLUjdLN1ZCU2pvSU51QWloVmc1anN6NGJwNTZOLXBHYUdJdW5jRHlNTEpVclJRV2FNUkZmUkhHN0x0SmxQeGxKWVVkd2FkZjVSc25WbklVVFh6ZFhRWHJfUkthMG1wVk5Dcm5Mc0U?oc=5",
-   "date": "Fri, 27 Nov 2026 16:42:19 GMT",
-   "vu_le": "2026-11-27T16:50:36.532257+00:00"
-  },
-  {
-   "sujet": "Bourse de Paris et Europe",
-   "titre": "CAC 40 : Paris fait cavalier seul - Bourse Direct",
-   "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR0Y3XzFZS2E3eWVsVmxSOUtwdG9ST1RGRkZlWFM5Vk96NVpFRmpzYkt4bk02UTA3QkZvNl9yRm5RVHVTLWpKNFFlVGROQ2JlXzJ1YWQzaEVxWEFFQ1Y5andVNnYzeUpiS1o4Q1hqZDRpOFBKamdkZkZ4eE83ZmlfeGVjTnFlTWc4cXd1YnVUUEpJanhjX0hjNElsTmIzWF8wLUNFSmIyZFI1WWFqNEprNXctbEY2ZVpfby1fYnhKQkI1c3k3aUtUVmlicGJMcXZieUxrcG5qZG9sZl9o?oc=5",
-   "date": "Fri, 27 Nov 2026 07:30:00 GMT",
-   "vu_le": "2026-11-27T16:50:36.532257+00:00"
-  },
-  {
-   "sujet": "Banques centrales et taux",
-   "titre": "Les consommateurs de la zone euro relèvent nettement leurs anticipations d’inflation, selon une enquête de la BCE - Zonebourse Suisse",
-   "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOVIzcDAxS001UlNLUDg0RHJSTW1mMm5yRUtuclRuMldOR3p5TzV4X0RnUjhGUm5pS2xjbHlwcGtIMnZ6eUlkUGZBRjAxZTZwOExEd19QUEJsVlVxNXhIamRQWWJTUHcxaFB2eE5wM0Q4ZW1lNFVNZEN2TFZYdU02WmVRTmY1dUxLRkVSUnZIbGQ4MEtXNTlXcmRPR2VlYTI2bHF4UHN0SnJULXRGazU5Xy1NbnJJYkFjNDNjSG9QNUhyQjZxamNXSXdWVVlDVnIxc0hLREpIa0lOdVVKZGw4TEJDcFJXX3puRzVmZ1V3MA?oc=5",
-   "date": "Fri, 27 Nov 2026 09:02:44 GMT",
-   "vu_le": "2026-11-27T16:50:36.532257+00:00"
-  },
-  {
-   "sujet": "Défense, énergie, matières premières",
-   "titre": "Defence Stocks Rally: BEML Up 15%, Nifty India Defence Up 3.4% - Univest",
-   "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWVh6d052MTVQTEFvbGhJOTNlSWJIY0JtV1N5YmNzdXEtU21EMV9oY3hsSnFyWjN3cnE1X1FxSDkzN203akcwang4R1BCWE5reTVfSUJzVFc0RGVWVldMNWpMUDY4QW5aWlg0SkY0OXBJT0ZtTEpwa2lvV2V3VldWVGc0eWQzaDQ3VkFQeUdfSGtoQ1pxbjRTT0xYekVaZGh2eXlvWDl5dllfdE9iN3Z4VVhyWm9CeUF5NERLa2psSmRyN1owOC00U1FmcnEzUjhXTkUyb1FR?oc=5",
-   "date": "Fri, 27 Nov 2026 07:43:00 GMT",
-   "vu_le": "2026-11-27T16:50:36.532257+00:00"
-  },
-  {
-   "sujet": "Crypto",
-   "titre": "Silver’s hammer catches my eye as Bitcoin approaches $61,600 - Kitco",
-   "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOTQtcXZ3NnFiN1JOR2pRaE9QTjBLOVhiLXhROWhUUUItVjlCaUtCUDlOQ255UzJXOWplVi1NNUF6OTBaQ2hBUVVZUnM2NVlMbTduNEdhVy1ReTBfTHVqX3JnWU10TTg4Qm1PZWJWNWxfWmlxa3ItMlVYMzVOSGFEcjZGRkFGRHBsQXUydU9CeG44eDhoOF9kdDdMcw?oc=5",
-   "date": "Fri, 27 Nov 2026 15:27:05 GMT",
    "vu_le": "2026-11-27T16:50:36.532257+00:00"
   }
  ],
