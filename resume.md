@@ -13,7 +13,7 @@ POSITIONS ET INDICES :
 - VOLATILITY S&P 500 (TVC:VIX) : 23.81 USD, jour -15.81 %, mois 36.29 %
 - Gold (TVC:GOLD) : 3653.6 USD, jour 1.79 %, mois -10.02 %
 - Euro vs. US Dollar (FX:EURUSD) : 1.09325 USD, jour -0.33 %, mois -1.97 %
-- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54384.96 EUR, jour -0.64 %, mois -25.35 %
+- Bitcoin / Euro (BITSTAMP:BTCEUR) : 54401.67 EUR, jour -0.61 %, mois -25.33 %
 - United States 10 Year Government Bonds Yield (TVC:US10Y) : 4.936 , jour 1.48 %, mois -1.22 %
 
 ÉCRAN États-Unis : plus fortes hausses :
@@ -226,8 +226,8 @@ POSITIONS ET INDICES :
 - IX Knowledge Incorporated (TSE:9753, secteur Commercial Services) jour 0.9 %, mois -5.09 %, prix 1342 JPY, capi 12727808559, PER 7.4, volume x8.8 la normale
 
 ÉCRAN Inde : plus fortes hausses :
-- Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 1001984170, PER 28.6, volume x17.7 la normale
 - Solarworld Energy Solutions Limited (NSE:SOLARWORLD, secteur Industrial Services) jour 20.0 %, mois 10.5 %, prix 121.56 INR, capi 10535061261, PER 9.4, volume x39.13 la normale
+- Goyal Aluminiums Limited (NSE:GOYALALUM, secteur Distribution Services) jour 20.0 %, mois 23.43 %, prix 6.9 INR, capi 1001984170, PER 28.6, volume x17.7 la normale
 - Goyal Aluminiums Limited (BSE:GOYALALUM, secteur Distribution Services) jour 20 %, mois 26.49 %, prix 7.02 INR, capi 1001984170, PER 29.1, volume x52.33 la normale
 - Waaree Renewable Technologies Ltd (NSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 23.4 %, prix 825.7 INR, capi 86154609956, PER 18.5, volume x233.67 la normale
 - Waaree Renewable Technologies Ltd (BSE:WAAREERTL, secteur Utilities) jour 20.0 %, mois 22.52 %, prix 825.4 INR, capi 86154609956, PER 18.5, volume x128.17 la normale
@@ -286,10 +286,10 @@ POSITIONS ET INDICES :
 - Deutsche Lufthansa AG (LSIN:0H4A, secteur Transportation) jour -0.08 %, mois 21.84 %, prix 8.736 EUR, capi 8810130130.895283, PER 10.9, volume x0.29 la normale
 
 ÉCRAN États-Unis : grosses sociétés à PER bas :
-- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGM, secteur Technology Services) jour 0.37 %, mois -12.26 %, prix 40.81 USD, capi 3346907996277, PER 2.1, volume x0.58 la normale
 - Alphabet Inc. Class C (NASDAQ:GOOG, secteur Technology Services) jour 0.54 %, mois -14.83 %, prix 272.44 USD, capi 3346907996277, PER 14.2, volume x0.55 la normale
 - Alphabet Inc. Depository Shs Repr 1/20th Conv Pfd Registered Shs (NASDAQ:GOOGN, secteur Technology Services) jour 0.47 %, mois -12.14 %, prix 40.82 USD, capi 3346907996277, PER 2.1, volume x0.42 la normale
+- Alphabet Inc. Class A (NASDAQ:GOOGL, secteur Technology Services) jour 0.68 %, mois -15.07 %, prix 274.96 USD, capi 3346907996277, PER 14.4, volume x0.58 la normale
 - Meta Platforms Inc Depositary Shs Repr 1/20th Cum Conv Red Perp Pfd Shs A (NASDAQ:METAM, secteur Technology Services) jour 2.4 %, mois 1.36 %, prix 50.74 USD, capi 1607773429472, PER 1.7, volume x0.22 la normale
 - JPMorgan Chase & Co. (NYSE:JPM, secteur Finance) jour 1.96 %, mois -4.27 %, prix 322.96 USD, capi 857655659906, PER 13.5, volume x0.48 la normale
 - Micron Technology, Inc. (NASDAQ:MU, secteur Electronic Technology) jour 7.6 %, mois -32.73 %, prix 646.95 USD, capi 828700477952.9999, PER 8.7, volume x0.71 la normale
@@ -310,6 +310,14 @@ POSITIONS ET INDICES :
 - JCDecaux SE (EURONEXT:DEC, secteur Commercial Services) jour -0.14 %, mois 10.95 %, prix 27.96 EUR, capi 5986061054, PER 18.2, volume x0.81 la normale
 
 ACTUALITÉS (dernières 48 h) :
+- [Bourse de Paris et Europe] actualites CAC40 8948TPIOPENS (1B59S) - Turbo | DE000SQ7X9C5 - Cotation EURONEXT ACCESS PARIS - Bourse Direct
+- [Bourse de Paris et Europe] SPIE Cours Action SPIE, Cotation Bourse Euronext Paris - Boursorama
+- [Banques centrales et taux] Le dollar profite de l'appétit pour les actions américaines - Zonebourse
+- [Résultats d'entreprises] FIG Stock Could Surprise Wall Street as Figma Pushes Deeper Into AI and Code - 24/7 Wall St.
+- [Résultats d'entreprises] Elon Musk’s SpaceX Could Fall Below $100 on Tesla Merger, Former Goldman Sachs CIO Warn - 24/7 Wall St.
+- [Défense, énergie, matières premières] Why Did Redwire Stock Pop on Friday - AOL.com
+- [Crypto] HYPE price on Nov 28, 2026 at 12pm EST Crypto Prediction Market - Robinhood
+- [Crypto] HYPE price on Nov 28, 2026 at 8am EST Crypto Prediction Market - Robinhood
 - [Anthropic] Anthropic IPO, shareholder rights and board control - Longbridge
 - [Chine et Asie] Wall St Week Ahead: Volatile stock market confronts jobs data, rate view as next tests - The Economic Times
 - [Chine et Asie] China stocks surge as Beijing vows stronger market support - Business Recorder
@@ -452,11 +460,3 @@ ACTUALITÉS (dernières 48 h) :
 - [Pays émergents] Africa’s richest man takes $47 billion refinery gamble to the stock market - The Financial Express
 - [Pays émergents] Puma stock: JPMorgan downgrades rating as markets are reshaped - ad-hoc-news.de
 - [Défense, énergie, matières premières] These tech stocks may let you play defense without giving up on AI - MarketWatch
-- [Anthropic (FR)] actualites AMAZO227.6TCIOPENS (5P15S) - Turbo | DE000FE3T178 - Cotation EURONEXT ACCESS PARIS - Bourse Direct
-- [Marchés mondiaux] Wall Street Stocks Rally as AI Shares Recover on November 27 - Limapagi
-- [Chine et Asie] Singapore Shares Rebound As Bank Gains, Easing AI Concerns Lift STI Near 5,000 - BusinessToday Malaysia
-- [Pays émergents] HSBC Makes Bullish 2027 Call as Tech Stocks Struggle - TradingView
-- [Pays émergents] How Many Shares of Mondelez or Hershey Pay $1,000 a Month in Dividends? - TIKR.com
-- [Défense, énergie, matières premières] 4 Defence Stocks with Robust Revenue Growth - Equitymaster
-- [Crypto] Changpeng Zhao: "Even $60,000 Is a Good Price for Bitcoin — Crypto Market Nearing Bottom" - BigGo Finance
-- [Anthropic (FR)] Wall Street termine en hausse une séance écourtée, portée par l'IA - Investir Les Echos
